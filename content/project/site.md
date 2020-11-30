@@ -20,7 +20,8 @@ This means that:
 - old computers with slow and outdated software can visit without hassle on their end;
 - locations with slow internet connectivity can still browse the content;
 - I can also improve this site's accessibility by improving some functions;
-- no distractions 
+- the site loads fast, almost instantaneously; and,
+- there are no distractions 
 
 ## Back-end
 

@@ -29,7 +29,8 @@ This means that:&lt;/p&gt;
 &lt;li&gt;old computers with slow and outdated software can visit without hassle on their end;&lt;/li&gt;
 &lt;li&gt;locations with slow internet connectivity can still browse the content;&lt;/li&gt;
 &lt;li&gt;I can also improve this site&amp;rsquo;s accessibility by improving some functions;&lt;/li&gt;
-&lt;li&gt;no distractions&lt;/li&gt;
+&lt;li&gt;the site loads fast, almost instantaneously; and,&lt;/li&gt;
+&lt;li&gt;there are no distractions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator to build this site.
