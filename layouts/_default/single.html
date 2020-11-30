@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+{{ partial "date.html" . }}
+<br>
+{{ .Content }}
+<br>
+<br>
+<p>Back to <a href="/">Index</a> :: <a href="/log">Log</a> :: <a href="/project">Projects</a> </p>
+
+{{ end }}

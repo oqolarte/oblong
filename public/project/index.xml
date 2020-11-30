@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on of somersaulting</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on of somersaulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 14:42:32 +0800</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Site</title>
+      <link>/site/</link>
+      <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
+      
+      <guid>/site/</guid>
+      <description>Status: On-going
+This site is itself a personal project, a documentation of other projects that I log here. If we are to use modern internet terms, this is also a wiki.
+Front-end As you are well aware, this site has a very simple design.
+By foregoing intricate UI/UX design, I can focus on what matters most: content. Let me explain.
+By simplifying the design, I&amp;rsquo;m making this site less bloated. This means that:</description>
+    </item>
+    
+  </channel>
+</rss>

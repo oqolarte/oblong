@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+{{ range .Pages.ByLastmod.Reverse }}
+<p>
+&#8594; <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+</p>
+{{ end }}
+<br>
+<br>
+<p><a href="/">Back to Index</a></p>
+{{ end }}

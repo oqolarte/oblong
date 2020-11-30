@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>of somersaulting</title>
+    <link>/</link>
+    <description>Recent content on of somersaulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Nov 2020 14:42:32 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Site</title>
+      <link>/site/</link>
+      <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
+      
+      <guid>/site/</guid>
+      <description>Status: On-going
+This site is itself a personal project, a documentation of other projects that I log here. If we are to use modern internet terms, this is also a wiki.
+Front-end As you are well aware, this site has a very simple design.
+By foregoing intricate UI/UX design, I can focus on what matters most: content. Let me explain.
+By simplifying the design, I&amp;rsquo;m making this site less bloated. This means that:</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>/hw/</link>
+      <pubDate>Fri, 27 Nov 2020 14:25:09 +0800</pubDate>
+      
+      <guid>/hw/</guid>
+      <description>This is the first post!
+What happens from this point shall be defined by my Willpower, and how I manage it.
+Wish me luck!</description>
+    </item>
+    
+  </channel>
+</rss>

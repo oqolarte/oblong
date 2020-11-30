@@ -1,0 +1,45 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "of somersaulting"
+
+[permalinks]
+	log = "/:filename:"
+	project = "/:filename:"
+
+[frontmatter]
+	date = ["date", "publishDate"]
+	lastmod = ["lastmod"]
+
+[params]
+	dateFormat = "2 Jan 2006"
+
+[menu]
+	[[menu.main]]
+	name = "Log"
+	url = "/log"
+	weight = 1 
+	
+	[[menu.main]]
+	name = "Projects"
+	url = "/project"
+	weight = 2 
+
+	[[menu.main]]
+	name = "RSS"
+	url = ""
+	weight = 3 
+
+
+[privacy]
+	[privacy.disqus]
+		disable = true
+	[privacy.googleAnalytics]
+		disable = true
+	[privacy.instagram]
+		disable = true
+	[privacy.twitter]
+		disable = true
+	[privacy.vimeo]
+		disable = true
+	[privacy.youtube]
+		disable = true
