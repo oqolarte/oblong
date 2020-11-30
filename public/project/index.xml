@@ -36,12 +36,33 @@ This means that:&lt;/p&gt;
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
 I have no particular reason why I chose Hugo, except maybe that it&amp;rsquo;s written in Go.
 And some experts say that most software developed using a compiled language (which Go is) can be &amp;ldquo;blazing fast.&amp;rdquo;&lt;/p&gt;
+&lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
+&lt;p&gt;There are a lot of tutorials online on how to start a blog using Hugo.
+A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier term for blog).
+But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.&lt;/p&gt;
+&lt;p&gt;What if you want something that isn&amp;rsquo;t pre-fabricated, some template that can&amp;rsquo;t be found in the &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;Themes&lt;/a&gt;, a theme that speaks your personality?&lt;/p&gt;
+&lt;p&gt;Well, that&amp;rsquo;s when you need to read the docs.&lt;/p&gt;
+&lt;p&gt;Truth be told, Hugo&amp;rsquo;s learning curve is steep, especially if you&amp;rsquo;re like me with no &amp;ldquo;real&amp;rdquo; coding experience.
+Maybe it helps when you&amp;rsquo;ve been dealing with software programming for a while.
+Your mileage may vary.
+My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
+&lt;h3 id=&#34;disabling-internal-templates&#34;&gt;Disabling Internal Templates&lt;/h3&gt;
+&lt;p&gt;Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Analytics;&lt;/li&gt;
+&lt;li&gt;Disqus comments, a popular commenting system;&lt;/li&gt;
+&lt;li&gt;Instagram cards;&lt;/li&gt;
+&lt;li&gt;Twitter cards;&lt;/li&gt;
+&lt;li&gt;YouTube;&lt;/li&gt;
+&lt;li&gt;Vimeo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To have a privacy-centered configuration, I followed &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;this documentation&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/#disable-all-services&#34;&gt;disabled all services&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;Back in high school, I&amp;rsquo;m not the brightest pupil in our computer lab, and I&amp;rsquo;m okay with that.
 One of our &amp;ldquo;lab works&amp;rdquo; was to create our own website.
 I don&amp;rsquo;t remember how mine looked, but I&amp;rsquo;m sure it&amp;rsquo;s basic, with broken links hither and thither.&lt;/p&gt;
 &lt;p&gt;More than a decade later, here I am, building one again.
-At least I retained the important bits on how HTML works, and I&amp;rsquo;m not starting from zero.&lt;/p&gt;
+At least I retained the important bits on how HTML works, so I&amp;rsquo;m not starting from zero.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;d like to say that I dedicate this to my former self, who couldn&amp;rsquo;t seem to grasp the importance of web design.
 Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a little bit of patience to set everything up.&lt;/p&gt;
 &lt;p&gt;Here are some other sites from which I got inspiration:&lt;/p&gt;

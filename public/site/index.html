@@ -42,7 +42,12 @@
 	<aside class="small"><nav id="TableOfContents">
   <ul>
     <li><a href="#front-end">Front-end</a></li>
-    <li><a href="#back-end">Back-end</a></li>
+    <li><a href="#back-end">Back-end</a>
+      <ul>
+        <li><a href="#using-hugo">Using Hugo</a></li>
+        <li><a href="#disabling-internal-templates">Disabling Internal Templates</a></li>
+      </ul>
+    </li>
     <li><a href="#inspiration">Inspiration</a></li>
     <li><a href="#digital-garden">Digital Garden</a></li>
   </ul>
@@ -68,12 +73,33 @@ This means that:</p>
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
 I have no particular reason why I chose Hugo, except maybe that it&rsquo;s written in Go.
 And some experts say that most software developed using a compiled language (which Go is) can be &ldquo;blazing fast.&rdquo;</p>
+<h3 id="using-hugo">Using Hugo</h3>
+<p>There are a lot of tutorials online on how to start a blog using Hugo.
+A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier term for blog).
+But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.</p>
+<p>What if you want something that isn&rsquo;t pre-fabricated, some template that can&rsquo;t be found in the <a href="https://themes.gohugo.io">Themes</a>, a theme that speaks your personality?</p>
+<p>Well, that&rsquo;s when you need to read the docs.</p>
+<p>Truth be told, Hugo&rsquo;s learning curve is steep, especially if you&rsquo;re like me with no &ldquo;real&rdquo; coding experience.
+Maybe it helps when you&rsquo;ve been dealing with software programming for a while.
+Your mileage may vary.
+My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
+<h3 id="disabling-internal-templates">Disabling Internal Templates</h3>
+<p>Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:</p>
+<ul>
+<li>Google Analytics;</li>
+<li>Disqus comments, a popular commenting system;</li>
+<li>Instagram cards;</li>
+<li>Twitter cards;</li>
+<li>YouTube;</li>
+<li>Vimeo;</li>
+</ul>
+<p>To have a privacy-centered configuration, I followed <a href="https://gohugo.io/about/hugo-and-gdpr/">this documentation</a> and <a href="https://gohugo.io/about/hugo-and-gdpr/#disable-all-services">disabled all services</a>.</p>
 <h2 id="inspiration">Inspiration</h2>
 <p>Back in high school, I&rsquo;m not the brightest pupil in our computer lab, and I&rsquo;m okay with that.
 One of our &ldquo;lab works&rdquo; was to create our own website.
 I don&rsquo;t remember how mine looked, but I&rsquo;m sure it&rsquo;s basic, with broken links hither and thither.</p>
 <p>More than a decade later, here I am, building one again.
-At least I retained the important bits on how HTML works, and I&rsquo;m not starting from zero.</p>
+At least I retained the important bits on how HTML works, so I&rsquo;m not starting from zero.</p>
 <p>I&rsquo;d like to say that I dedicate this to my former self, who couldn&rsquo;t seem to grasp the importance of web design.
 Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a little bit of patience to set everything up.</p>
 <p>Here are some other sites from which I got inspiration:</p>

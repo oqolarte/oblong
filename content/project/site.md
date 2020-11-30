@@ -29,6 +29,33 @@ There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo
 I have no particular reason why I chose Hugo, except maybe that it's written in Go.
 And some experts say that most software developed using a compiled language (which Go is) can be "blazing fast."
 
+### Using Hugo
+
+There are a lot of tutorials online on how to start a blog using Hugo.
+A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier term for blog).
+But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.
+
+What if you want something that isn't pre-fabricated, some template that can't be found in the [Themes](https://themes.gohugo.io), a theme that speaks your personality?
+
+Well, that's when you need to read the docs.
+
+Truth be told, Hugo's learning curve is steep, especially if you're like me with no "real" coding experience.
+Maybe it helps when you've been dealing with software programming for a while.
+Your mileage may vary.
+My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.
+
+### Disabling Internal Templates
+
+Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:
+- Google Analytics;
+- Disqus comments, a popular commenting system;
+- Instagram cards;
+- Twitter cards;
+- YouTube;
+- Vimeo;
+
+To have a privacy-centered configuration, I followed [this documentation](https://gohugo.io/about/hugo-and-gdpr/) and [disabled all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
+
 ## Inspiration
 
 Back in high school, I'm not the brightest pupil in our computer lab, and I'm okay with that.
@@ -36,7 +63,7 @@ One of our "lab works" was to create our own website.
 I don't remember how mine looked, but I'm sure it's basic, with broken links hither and thither.
 
 More than a decade later, here I am, building one again.
-At least I retained the important bits on how HTML works, and I'm not starting from zero.
+At least I retained the important bits on how HTML works, so I'm not starting from zero.
 
 I'd like to say that I dedicate this to my former self, who couldn't seem to grasp the importance of web design.
 Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a little bit of patience to set everything up.
