@@ -7,8 +7,8 @@ title = "of somersaulting"
 	project = "/:filename:"
 
 [frontmatter]
-	date = ["date", "publishDate"]
-	lastmod = ["lastmod"]
+	date = "publishDate"
+	Lastmod = "Lastmod"
 
 [params]
 	dateFormat = "2 Jan 2006"

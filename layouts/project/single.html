@@ -2,7 +2,10 @@
 
 <h1>{{ .Title }}</h1>
 {{ partial "dateProj.html" . }}
-<br>
+<div class="toc">
+	<h4>Table of Contents</h4>
+	<aside class="small">{{ .TableOfContents }}</aside>
+</div>
 {{ .Content }}
 <br>
 <br>

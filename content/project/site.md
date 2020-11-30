@@ -39,6 +39,7 @@ More than a decade later, here I am, building one again.
 At least I retained the important bits on how HTML works, and I'm not starting from zero.
 
 I'd like to say that I dedicate this to my former self, who couldn't seem to grasp the importance of web design.
+Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a little bit of patience to set everything up.
 
 Here are some other sites from which I got inspiration:
 - Low-tech Magazine, the [solar-powered one](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
@@ -49,12 +50,10 @@ Here are some other sites from which I got inspiration:
 
 If you've been looking around for personal websites like I have, "digital garden" is a phrase that gets used often.
 
-Webmasters, the owners, consider the websites as their digital garden, in which they plant seeds of ideas, and hope to grow them sustainably.
+It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
 It's a more endearing term, I believe, than, say, a public-facing journal or simply blog.
 They all function the same.
 
 This site, then, is my digital garden.
-Expect that things will be edited, deleted, updated, *grown*, depending on my disposition.
-People change (they need to, lest they stagnate) and their beliefs, their knowledge change with them.
-
-
+Expect that things will be corrected, deleted, edited, fed, *grown*, depending on any number of factors, including the current state of things.
+People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.

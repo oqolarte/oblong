@@ -3,15 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-  </url>
-  
-  <url>
-    <loc>/site/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
@@ -23,11 +15,19 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/site/</loc>
   </url>
   
 </urlset>
