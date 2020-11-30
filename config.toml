@@ -26,7 +26,7 @@ title = "of somersaulting"
 
 	[[menu.main]]
 	name = "RSS"
-	url = ""
+	url = "/log/index.xml"
 	weight = 3 
 
 
