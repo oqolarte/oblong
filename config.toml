@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "of somersaulting"
+enableGitInfo = true
 
 [permalinks]
 	log = "/:filename:"

@@ -16,8 +16,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/nov/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;/&#34;&gt;This site&lt;/a&gt; is now live, hosted for the meantime in GitHub pages.&lt;br&gt;
-It&amp;rsquo;s also listed as a project. Learn more about the design philosophies &lt;a href=&#34;/site/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/&#34;&gt;This site&lt;/a&gt; is now live, hosted for the meantime in &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s also listed as a project. Learn more about the design philosophies &lt;a href=&#34;/site/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;I figured I needed to have an online presence again, one that I can call my own, far from the algorithms of major social networking sites.
 But aside from that, the idea to have a personal site started when Isya, my partner, suggested that I continue with my post-graduate studies.&lt;/p&gt;
 &lt;p&gt;The problem, I said, is that I no longer think it&amp;rsquo;s something worth pursuing anymore.
@@ -33,10 +35,10 @@ Not only that, it&amp;rsquo;s my Tita Bonnie&amp;rsquo;s 61st birthday.
     
     <item>
       <title>Hello World!</title>
-      <link>/hw/</link>
+      <link>/hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/hw/</guid>
+      <guid>/hi/</guid>
       <description>&lt;p&gt;This is the first post!&lt;/p&gt;
 &lt;p&gt;What happens from this point shall be defined by my Willpower, and how I manage it.&lt;/p&gt;
 &lt;p&gt;Wish me luck!&lt;/p&gt;

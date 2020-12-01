@@ -19,6 +19,37 @@
       <description>&lt;p&gt;&lt;strong&gt;Status: On-going&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;This site is itself a personal project, a documentation of other projects that I log here.
 If we are to use modern internet terms, this is also a wiki.&lt;/p&gt;
+&lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;ve been looking around for personal websites like I have, &amp;ldquo;digital garden&amp;rdquo; is a phrase that gets used often.&lt;/p&gt;
+&lt;p&gt;It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
+It&amp;rsquo;s a more endearing term, I believe, than, say, a public-facing journal or simply blog.
+They all function the same.&lt;/p&gt;
+&lt;p&gt;This site, then, is my digital garden.
+Expect that things will be corrected, deleted, edited, fed, &lt;em&gt;grown&lt;/em&gt;, depending on any number of factors, including the current state of things.
+People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.&lt;/p&gt;
+&lt;h3 id=&#34;public-repository-of-independent-research&#34;&gt;Public Repository of Independent Research&lt;/h3&gt;
+&lt;p&gt;Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all.
+I am going the more &amp;ldquo;progressive&amp;rdquo; route of bypassing the traditional way to PhD.
+After reading &lt;a href=&#34;https://nadiaeghbal.com&#34;&gt;Nadia Eghbal&lt;/a&gt;&amp;rsquo;s post, &amp;ldquo;&lt;a href=&#34;https://nadiaeghbal.com/phd&#34;&gt;Reimagining the PhD&lt;/a&gt;,&amp;rdquo; I&amp;rsquo;m now more inclined to do this.&lt;/p&gt;
+&lt;p&gt;Instead of going through the application process for post-graduate studies, may I now enlist you, Dear Public, as my peer reviewer?
+I hope you don&amp;rsquo;t mind.
+I dislike receiving rejection emails from The Only University I applied for one year ago.
+At least, through this site, I (hopefully) wouldn&amp;rsquo;t be receiving (unsolicited) rejection letters from anyone.&lt;/p&gt;
+&lt;p&gt;Finally, having the public as my peer reviewer, I think, opens interesting avenues for the stakeholders (me and the public).
+There will always be people smarter than me.
+Hopefully, I can pull some of their attention here to share their insights someday.&lt;/p&gt;
+&lt;p&gt;In this online space, let&amp;rsquo;s assume that nothing is set to stone.
+Through editing, I&amp;rsquo;m able to improve a body of content.
+I can learn by doing, and sharing the entire process with you as I go.&lt;/p&gt;
+&lt;h3 id=&#34;major-sections&#34;&gt;Major Sections&lt;/h3&gt;
+&lt;p&gt;This site is divided into two main sections: &lt;strong&gt;Log&lt;/strong&gt; and &lt;strong&gt;Projects&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The Log, more than anything else, is a changelog of what has evolved recently.
+It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects.
+Each Log will start with the changelog.
+I&amp;rsquo;ll try to incorporate some of my personal endeavors since the last log after that, in an attempt to add character.&lt;/p&gt;
+&lt;p&gt;The Projects is a list of the thing/s I&amp;rsquo;m currently pursuing.
+The write-ups will be a healthy blend of creative and technical writing, something I won&amp;rsquo;t afford to do in a formal setting.
+Of course, I&amp;rsquo;ll include citations properly.&lt;/p&gt;
 &lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
 &lt;p&gt;As you are well aware, this site has a very simple design.&lt;/p&gt;
 &lt;p&gt;By foregoing intricate UI/UX design, I can focus on what matters most: &lt;em&gt;content&lt;/em&gt;.
@@ -72,14 +103,12 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, and &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;The &amp;ldquo;&lt;a href=&#34;https://bestmotherfucking.website&#34;&gt;Best Motherfucking Website&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
-&lt;p&gt;If you&amp;rsquo;ve been looking around for personal websites like I have, &amp;ldquo;digital garden&amp;rdquo; is a phrase that gets used often.&lt;/p&gt;
-&lt;p&gt;It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
-It&amp;rsquo;s a more endearing term, I believe, than, say, a public-facing journal or simply blog.
-They all function the same.&lt;/p&gt;
-&lt;p&gt;This site, then, is my digital garden.
-Expect that things will be corrected, deleted, edited, fed, &lt;em&gt;grown&lt;/em&gt;, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.&lt;/p&gt;
+&lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
+&lt;p&gt;Here I list the thing/s that I need to do for this site, kind of a wishlist:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Move away from GitHub Pages and host somewhere else&lt;/li&gt;
+&lt;li&gt;Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

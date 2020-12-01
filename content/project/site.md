@@ -8,6 +8,50 @@ draft: false
 This site is itself a personal project, a documentation of other projects that I log here. 
 If we are to use modern internet terms, this is also a wiki.
 
+## Digital Garden
+
+If you've been looking around for personal websites like I have, "digital garden" is a phrase that gets used often.
+
+It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
+It's a more endearing term, I believe, than, say, a public-facing journal or simply blog.
+They all function the same.
+
+This site, then, is my digital garden.
+Expect that things will be corrected, deleted, edited, fed, *grown*, depending on any number of factors, including the current state of things.
+People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.
+
+### Public Repository of Independent Research
+
+Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all. 
+I am going the more "progressive" route of bypassing the traditional way to PhD.
+After reading [Nadia Eghbal](https://nadiaeghbal.com)'s post, "[Reimagining the PhD](https://nadiaeghbal.com/phd)," I'm now more inclined to do this.
+
+Instead of going through the application process for post-graduate studies, may I now enlist you, Dear Public, as my peer reviewer?
+I hope you don't mind.
+I dislike receiving rejection emails from The Only University I applied for one year ago.
+At least, through this site, I (hopefully) wouldn't be receiving (unsolicited) rejection letters from anyone.
+
+Finally, having the public as my peer reviewer, I think, opens interesting avenues for the stakeholders (me and the public).
+There will always be people smarter than me.
+Hopefully, I can pull some of their attention here to share their insights someday.
+
+In this online space, let's assume that nothing is set to stone.
+Through editing, I'm able to improve a body of content.
+I can learn by doing, and sharing the entire process with you as I go.
+
+### Major Sections
+
+This site is divided into two main sections: **Log** and **Projects**.
+
+The Log, more than anything else, is a changelog of what has evolved recently.
+It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects. 
+Each Log will start with the changelog.
+I'll try to incorporate some of my personal endeavors since the last log after that, in an attempt to add character.
+
+The Projects is a list of the thing/s I'm currently pursuing.
+The write-ups will be a healthy blend of creative and technical writing, something I won't afford to do in a formal setting.
+Of course, I'll include citations properly.
+
 ## Front-end
 
 As you are well aware, this site has a very simple design.
@@ -74,14 +118,9 @@ Here are some other sites from which I got inspiration:
 - [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), and [250KB Club](https://250kb.club)
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 
-## Digital Garden
+## To-Do
 
-If you've been looking around for personal websites like I have, "digital garden" is a phrase that gets used often.
+Here I list the thing/s that I need to do for this site, kind of a wishlist:
+- Move away from GitHub Pages and host somewhere else  
+- Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
 
-It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
-It's a more endearing term, I believe, than, say, a public-facing journal or simply blog.
-They all function the same.
-
-This site, then, is my digital garden.
-Expect that things will be corrected, deleted, edited, fed, *grown*, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.

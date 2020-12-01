@@ -14,18 +14,18 @@
 
   <body>
 	  <div class="container">
-  <nav>
-  
-    
-    <a href="/log"> Log</a>
-  
-    
-    <a href="/project"> Projects</a>
-  
-    
-    <a href="/log/index.xml"> RSS</a>
-  
-  </nav>
+	<nav>
+	
+	
+	[<a href="/log">Log</a>]
+	
+	
+	[<a href="/project">Projects</a>]
+	
+	
+	[<a href="/log/index.xml">RSS</a>]
+	
+	</nav>
 </div>
 
     <div class="container">
@@ -33,14 +33,22 @@
        
 
 <h1>This Site</h1>
-
-
-<time class="small" dateTime="0001-01-01">Last Updated: 1 Jan 0001</time>
+<div class="small">Last Update:
+<time datetime="Mon Jan 10 17:112:128 1010 &#43;0000" class="text-muted">
+  1 Jan 0001
+</time>
+</div>
 
 <div>
 	<h4>Table of Contents</h4>
 	<aside class="small"><nav id="TableOfContents">
   <ul>
+    <li><a href="#digital-garden">Digital Garden</a>
+      <ul>
+        <li><a href="#public-repository-of-independent-research">Public Repository of Independent Research</a></li>
+        <li><a href="#major-sections">Major Sections</a></li>
+      </ul>
+    </li>
     <li><a href="#front-end">Front-end</a></li>
     <li><a href="#back-end">Back-end</a>
       <ul>
@@ -49,13 +57,44 @@
       </ul>
     </li>
     <li><a href="#inspiration">Inspiration</a></li>
-    <li><a href="#digital-garden">Digital Garden</a></li>
+    <li><a href="#to-do">To-Do</a></li>
   </ul>
 </nav></aside>
 </div>
 <p><strong>Status: On-going</strong></p>
 <p>This site is itself a personal project, a documentation of other projects that I log here.
 If we are to use modern internet terms, this is also a wiki.</p>
+<h2 id="digital-garden">Digital Garden</h2>
+<p>If you&rsquo;ve been looking around for personal websites like I have, &ldquo;digital garden&rdquo; is a phrase that gets used often.</p>
+<p>It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
+It&rsquo;s a more endearing term, I believe, than, say, a public-facing journal or simply blog.
+They all function the same.</p>
+<p>This site, then, is my digital garden.
+Expect that things will be corrected, deleted, edited, fed, <em>grown</em>, depending on any number of factors, including the current state of things.
+People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.</p>
+<h3 id="public-repository-of-independent-research">Public Repository of Independent Research</h3>
+<p>Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all.
+I am going the more &ldquo;progressive&rdquo; route of bypassing the traditional way to PhD.
+After reading <a href="https://nadiaeghbal.com">Nadia Eghbal</a>&rsquo;s post, &ldquo;<a href="https://nadiaeghbal.com/phd">Reimagining the PhD</a>,&rdquo; I&rsquo;m now more inclined to do this.</p>
+<p>Instead of going through the application process for post-graduate studies, may I now enlist you, Dear Public, as my peer reviewer?
+I hope you don&rsquo;t mind.
+I dislike receiving rejection emails from The Only University I applied for one year ago.
+At least, through this site, I (hopefully) wouldn&rsquo;t be receiving (unsolicited) rejection letters from anyone.</p>
+<p>Finally, having the public as my peer reviewer, I think, opens interesting avenues for the stakeholders (me and the public).
+There will always be people smarter than me.
+Hopefully, I can pull some of their attention here to share their insights someday.</p>
+<p>In this online space, let&rsquo;s assume that nothing is set to stone.
+Through editing, I&rsquo;m able to improve a body of content.
+I can learn by doing, and sharing the entire process with you as I go.</p>
+<h3 id="major-sections">Major Sections</h3>
+<p>This site is divided into two main sections: <strong>Log</strong> and <strong>Projects</strong>.</p>
+<p>The Log, more than anything else, is a changelog of what has evolved recently.
+It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects.
+Each Log will start with the changelog.
+I&rsquo;ll try to incorporate some of my personal endeavors since the last log after that, in an attempt to add character.</p>
+<p>The Projects is a list of the thing/s I&rsquo;m currently pursuing.
+The write-ups will be a healthy blend of creative and technical writing, something I won&rsquo;t afford to do in a formal setting.
+Of course, I&rsquo;ll include citations properly.</p>
 <h2 id="front-end">Front-end</h2>
 <p>As you are well aware, this site has a very simple design.</p>
 <p>By foregoing intricate UI/UX design, I can focus on what matters most: <em>content</em>.
@@ -109,14 +148,12 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 <li><a href="https://1mb.club">1MB Club</a>, and it&rsquo;s contemporaries, <a href="https://512kb.club">512KB Club</a>, and <a href="https://250kb.club">250KB Club</a></li>
 <li>The &ldquo;<a href="https://bestmotherfucking.website">Best Motherfucking Website</a>&rdquo;</li>
 </ul>
-<h2 id="digital-garden">Digital Garden</h2>
-<p>If you&rsquo;ve been looking around for personal websites like I have, &ldquo;digital garden&rdquo; is a phrase that gets used often.</p>
-<p>It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
-It&rsquo;s a more endearing term, I believe, than, say, a public-facing journal or simply blog.
-They all function the same.</p>
-<p>This site, then, is my digital garden.
-Expect that things will be corrected, deleted, edited, fed, <em>grown</em>, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.</p>
+<h2 id="to-do">To-Do</h2>
+<p>Here I list the thing/s that I need to do for this site, kind of a wishlist:</p>
+<ul>
+<li>Move away from GitHub Pages and host somewhere else</li>
+<li>Have TLS certificate, preferably from <a href="https://letsencrypt.org">Let&rsquo;s Encrypt</a>, because there&rsquo;s really no excuse to use just HTTP</li>
+</ul>
 
 <br>
 <br>
@@ -128,7 +165,7 @@ People change (they need to, lest they stagnate), and and every fiber of their b
   </body>
   <footer class="small">
 	<hr>
-	<a href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA</a>
+	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> LIC: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
 	<p>Disclaimer: Everything here only reflects the views of The Author, and no one else.</p>
 </footer>
 
