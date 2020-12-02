@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/rush/</loc>
+    <lastmod>2020-12-02T22:38:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-02T22:38:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/nov/</loc>
     <lastmod>2020-12-01T23:09:56+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-12-01T23:09:56+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/site/</loc>
-    <lastmod>2020-12-01T23:09:56+08:00</lastmod>
+    <lastmod>2020-12-02T20:48:49+08:00</lastmod>
   </url>
   
   <url>
