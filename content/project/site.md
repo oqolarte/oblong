@@ -26,6 +26,9 @@ Speaking of ideas, I will use this site as a publishing platform of the results 
 I am going the more "progressive" route of bypassing the traditional way to PhD.
 After reading [Nadia Eghbal](https://nadiaeghbal.com)'s post, "[Reimagining the PhD](https://nadiaeghbal.com/phd)," I'm now more inclined to do this.
 
+I can't also imagine spending at least three years getting a master's degree, holding on to the fact that it's "necessary" to further my career.
+I am, more or less, happy with the opportunity cost of not dealing with it.
+
 Instead of going through the application process for post-graduate studies, may I now enlist you, Dear Public, as my peer reviewer?
 I hope you don't mind.
 I dislike receiving rejection emails from The Only University I applied for one year ago.
@@ -43,29 +46,42 @@ I can learn by doing, and sharing the entire process with you as I go.
 
 This site is divided into two main sections: **Log** and **Projects**.
 
-The Log, more than anything else, is a changelog of what has evolved recently.
+The Log, more than anything else, is a changelog of what has evolved since the last update.
 It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects. 
 Each Log will start with the changelog.
-I'll try to incorporate some of my personal endeavors since the last log after that, in an attempt to add character.
+After that, I'll try to incorporate some personal skits, in an attempt to add character.
 
 The Projects is a list of the thing/s I'm currently pursuing.
-The write-ups will be a healthy blend of creative and technical writing, something I won't afford to do in a formal setting.
+Each one begins with Table of Contents (ToC), so that readers will have an overview of the topics ahead. 
+Readers can click each topic in the ToC if they feel like jumping to that part already.
+The write-ups will be a healthy blend of creative and technical writing, to prevent you from getting bored, something I won't afford to do in a formal setting.
 Of course, I'll include citations properly.
+
+The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes), is a whole separate thing.
+I don't consider it a section of this site.
+It's only a link that you can copy and paste on your favorite RSS reader.
 
 ## Front-end
 
 As you are well aware, this site has a very simple design.
+Admittedly, it's the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
+It turns out that this is a feature, not a bug.
 
 By foregoing intricate UI/UX design, I can focus on what matters most: *content*. 
 Let me explain.
 
 By simplifying the design, I'm making this site less bloated.
 This means that:
-- old computers with slow and outdated software can visit without hassle on their end;
+- old computers with slow and outdated software can visit with little to no hassle on their end;
 - locations with slow internet connectivity can still browse the content;
-- I can also improve this site's accessibility by improving some functions;
-- the site loads fast, almost instantaneously; and,
-- there are no distractions 
+- I can also improve this site's accessibility by improving layout;
+- the site loads fast because of no tracking, no custom fonts; and,
+- no distractions.
+
+### No Ads
+Only marketers like ads. 
+Good thing that I have none of them here.
+And I don't intend to put them here anytime soon.
 
 ## Back-end
 
@@ -73,6 +89,9 @@ I use [Hugo](https://gohugo.io), a static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
 I have no particular reason why I chose Hugo, except maybe that it's written in Go.
 And some experts say that most software developed using a compiled language (which Go is) can be "blazing fast."
+
+Web developers who may be reading this will notice that Hugo is the extent of my back-end knowledge. 
+That may or may not put off some of you.
 
 ### Using Hugo
 
@@ -120,7 +139,7 @@ Here are some other sites from which I got inspiration:
 
 ## To-Do
 
-Here I list the thing/s that I need to do for this site, kind of a wishlist:
+Here's a wishlist of sorts that I need to do for this site:
 - Move away from GitHub Pages and host somewhere else  
 - Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
 

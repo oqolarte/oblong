@@ -8,8 +8,8 @@ enableGitInfo = true
 	project = "/:filename:"
 
 [frontmatter]
-	date = "publishDate"
-	Lastmod = "Lastmod"
+	date = ["date", "publishDate"]
+	lastmod = [":git", "lastmod", ":fileModTime", ":default"]
 
 [params]
 	dateFormat = "2 Jan 2006"
