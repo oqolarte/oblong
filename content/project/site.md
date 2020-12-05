@@ -48,7 +48,7 @@ This site is divided into two main sections: **Log** and **Projects**.
 
 The Log, more than anything else, is a changelog of what has evolved since the last update.
 It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects. 
-Each Log will start with the changelog.
+Each Log will start with a changelog.
 After that, I'll try to incorporate some personal skits, in an attempt to add character.
 
 The Projects is a list of the thing/s I'm currently pursuing.
@@ -72,9 +72,9 @@ Let me explain.
 
 By simplifying the design, I'm making this site less bloated.
 This means that:
-- old computers with slow and outdated software can visit with little to no hassle on their end;
-- locations with slow internet connectivity can still browse the content;
-- I can also improve this site's accessibility by improving layout;
+- low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;
+- locations with poor internet connectivity can still browse the content;
+- I can also improve this site's accessibility by improving layout, among many other things;
 - the site loads fast because of no tracking, no custom fonts; and,
 - no distractions.
 
@@ -142,4 +142,4 @@ Here are some other sites from which I got inspiration:
 Here's a wishlist of sorts that I need to do for this site:
 - Move away from GitHub Pages and host somewhere else  
 - Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
-
+- Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)

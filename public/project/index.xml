@@ -47,7 +47,7 @@ I can learn by doing, and sharing the entire process with you as I go.&lt;/p&gt;
 &lt;p&gt;This site is divided into two main sections: &lt;strong&gt;Log&lt;/strong&gt; and &lt;strong&gt;Projects&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The Log, more than anything else, is a changelog of what has evolved since the last update.
 It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects.
-Each Log will start with the changelog.
+Each Log will start with a changelog.
 After that, I&amp;rsquo;ll try to incorporate some personal skits, in an attempt to add character.&lt;/p&gt;
 &lt;p&gt;The Projects is a list of the thing/s I&amp;rsquo;m currently pursuing.
 Each one begins with Table of Contents (ToC), so that readers will have an overview of the topics ahead.
@@ -66,9 +66,9 @@ Let me explain.&lt;/p&gt;
 &lt;p&gt;By simplifying the design, I&amp;rsquo;m making this site less bloated.
 This means that:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;old computers with slow and outdated software can visit with little to no hassle on their end;&lt;/li&gt;
-&lt;li&gt;locations with slow internet connectivity can still browse the content;&lt;/li&gt;
-&lt;li&gt;I can also improve this site&amp;rsquo;s accessibility by improving layout;&lt;/li&gt;
+&lt;li&gt;low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;&lt;/li&gt;
+&lt;li&gt;locations with poor internet connectivity can still browse the content;&lt;/li&gt;
+&lt;li&gt;I can also improve this site&amp;rsquo;s accessibility by improving layout, among many other things;&lt;/li&gt;
 &lt;li&gt;the site loads fast because of no tracking, no custom fonts; and,&lt;/li&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
@@ -123,6 +123,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;ul&gt;
 &lt;li&gt;Move away from GitHub Pages and host somewhere else&lt;/li&gt;
 &lt;li&gt;Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
+&lt;li&gt;Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
