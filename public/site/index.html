@@ -37,7 +37,9 @@
     </li>
     <li><a href="#front-end">Front-end</a>
       <ul>
+        <li><a href="#no-javascript">No JavaScript?</a></li>
         <li><a href="#no-ads">No Ads</a></li>
+        <li><a href="#images">Images</a></li>
       </ul>
     </li>
     <li><a href="#back-end">Back-end</a>
@@ -107,10 +109,42 @@ This means that:</p>
 <li>the site loads fast because of no tracking, no custom fonts; and,</li>
 <li>no distractions.</li>
 </ul>
+<h3 id="no-javascript">No JavaScript?</h3>
+<figure>
+    <img src="/image/nojs.png"
+         alt="screenshot from estimator dot dev evaluating this site as no javascript detected"/> <figcaption>
+            <p>Look, ma! No JS, according to estimator.dev!</p>
+        </figcaption>
+</figure>
+
+<p>It&rsquo;s not really that I find JS harmful, although some would argue that it is.
+In fact, I don&rsquo;t know enough to make that claim.
+Besides, nothing in the internet is perfectly safe.</p>
+<p>So why this &ldquo;distaste&rdquo; for JS-less website?</p>
+<p>Mainly it&rsquo;s because I don&rsquo;t know enough of it (yet) to even consider baking it into the site.
+If it&rsquo;s something that I don&rsquo;t know how to fully utilize, then it&rsquo;s bloat to me.
+Also, given the simple layout, my site can practically do without it.
+It&rsquo;s absence is definitely beneficial, because there&rsquo;s less code to maintain.</p>
 <h3 id="no-ads">No Ads</h3>
 <p>Only marketers like ads.
 Good thing that I have none of them here.
 And I don&rsquo;t intend to put them here anytime soon.</p>
+<p>Also, did you know that a lot of online advertising you see depends on JS?</p>
+<h3 id="images">Images</h3>
+<p>Humans can be very visual sometimes.
+In the internet, however, we must play it differently.</p>
+<p>Big image size takes time to load, and will of course need more resources to serve it to the visitor.</p>
+<p>When adding images to a site, I make sure that:</p>
+<ul>
+<li>it <em>does</em> tell &ldquo;more than a thousand words.&rdquo;
+An image must add to the narrative, not distract the viewers away from it.
+If it it&rsquo;s not adding value content-wise, it&rsquo;s not going in.</li>
+<li>it&rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
+There are several tools you can use to do this.
+<a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
+Personally, I use <a href="https://imagemagick.org/">ImageMagick</a>, which is a free image manipulation tool that I can access in my command line.
+It&rsquo;s available in many platforms including Linux, Windows, macOS, iOS, Android, etc.</li>
+</ul>
 <h2 id="back-end">Back-end</h2>
 <p>I use <a href="https://gohugo.io">Hugo</a>, a static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
@@ -156,9 +190,9 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 <h2 id="to-do">To-Do</h2>
 <p>Here&rsquo;s a wishlist of sorts that I need to do for this site:</p>
 <ul>
-<li>Move away from GitHub Pages and host somewhere else</li>
-<li>Have TLS certificate, preferably from <a href="https://letsencrypt.org">Let&rsquo;s Encrypt</a>, because there&rsquo;s really no excuse to use just HTTP</li>
-<li>Get at least a score of 50 on Mozilla&rsquo;s <a href="https://observatory.mozilla.org/">HTTP Observatory</a></li>
+<li><input disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else</li>
+<li><input disabled="" type="checkbox"> Have TLS certificate, preferably from <a href="https://letsencrypt.org">Let&rsquo;s Encrypt</a>, because there&rsquo;s really no excuse to use just HTTP</li>
+<li><input disabled="" type="checkbox"> Get at least a score of 50 on Mozilla&rsquo;s <a href="https://observatory.mozilla.org/">HTTP Observatory</a></li>
 </ul>
 
 <br>
@@ -171,7 +205,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
   </body>
   <footer class="small">
 	<hr>
-	License: <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+	License: <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
 	<br>
 	<a href="https://512kb.club">I'm a proud <span style="color:green; font-weight:bold">green team</span> member of The 512KB Club</a>
 	<p>Disclaimer: Everything here only reflects the views of The Author, and no one else.</p>

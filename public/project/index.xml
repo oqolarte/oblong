@@ -72,10 +72,42 @@ This means that:&lt;/p&gt;
 &lt;li&gt;the site loads fast because of no tracking, no custom fonts; and,&lt;/li&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;no-javascript&#34;&gt;No JavaScript?&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;/image/nojs.png&#34;
+         alt=&#34;screenshot from estimator dot dev evaluating this site as no javascript detected&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Look, ma! No JS, according to estimator.dev!&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it is.
+In fact, I don&amp;rsquo;t know enough to make that claim.
+Besides, nothing in the internet is perfectly safe.&lt;/p&gt;
+&lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS-less website?&lt;/p&gt;
+&lt;p&gt;Mainly it&amp;rsquo;s because I don&amp;rsquo;t know enough of it (yet) to even consider baking it into the site.
+If it&amp;rsquo;s something that I don&amp;rsquo;t know how to fully utilize, then it&amp;rsquo;s bloat to me.
+Also, given the simple layout, my site can practically do without it.
+It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p&gt;
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
 &lt;p&gt;Only marketers like ads.
 Good thing that I have none of them here.
 And I don&amp;rsquo;t intend to put them here anytime soon.&lt;/p&gt;
+&lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
+&lt;h3 id=&#34;images&#34;&gt;Images&lt;/h3&gt;
+&lt;p&gt;Humans can be very visual sometimes.
+In the internet, however, we must play it differently.&lt;/p&gt;
+&lt;p&gt;Big image size takes time to load, and will of course need more resources to serve it to the visitor.&lt;/p&gt;
+&lt;p&gt;When adding images to a site, I make sure that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it &lt;em&gt;does&lt;/em&gt; tell &amp;ldquo;more than a thousand words.&amp;rdquo;
+An image must add to the narrative, not distract the viewers away from it.
+If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s not going in.&lt;/li&gt;
+&lt;li&gt;it&amp;rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
+There are several tools you can use to do this.
+&lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
+Personally, I use &lt;a href=&#34;https://imagemagick.org/&#34;&gt;ImageMagick&lt;/a&gt;, which is a free image manipulation tool that I can access in my command line.
+It&amp;rsquo;s available in many platforms including Linux, Windows, macOS, iOS, Android, etc.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
@@ -121,9 +153,9 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
 &lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Move away from GitHub Pages and host somewhere else&lt;/li&gt;
-&lt;li&gt;Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
-&lt;li&gt;Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

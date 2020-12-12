@@ -78,10 +78,44 @@ This means that:
 - the site loads fast because of no tracking, no custom fonts; and,
 - no distractions.
 
+### No JavaScript?
+
+{{< figure src="/image/nojs.png" alt="screenshot from estimator dot dev evaluating this site as no javascript detected" caption="Look, ma! No JS, according to estimator.dev!" >}}
+
+It's not really that I find JS harmful, although some would argue that it is.
+In fact, I don't know enough to make that claim.
+Besides, nothing in the internet is perfectly safe.
+
+So why this "distaste" for JS-less website?
+
+Mainly it's because I don't know enough of it (yet) to even consider baking it into the site.
+If it's something that I don't know how to fully utilize, then it's bloat to me.
+Also, given the simple layout, my site can practically do without it.
+It's absence is definitely beneficial, because there's less code to maintain.
+
 ### No Ads
 Only marketers like ads. 
 Good thing that I have none of them here.
 And I don't intend to put them here anytime soon.
+
+Also, did you know that a lot of online advertising you see depends on JS?
+
+### Images
+
+Humans can be very visual sometimes.
+In the internet, however, we must play it differently.
+
+Big image size takes time to load, and will of course need more resources to serve it to the visitor.
+
+When adding images to a site, I make sure that:
+- it *does* tell "more than a thousand words."
+An image must add to the narrative, not distract the viewers away from it.
+If it it's not adding value content-wise, it's not going in.
+- it's compressed as much as possible, to reduce its size, minimizing the time it takes to load.
+There are several tools you can use to do this.
+[Tiny JPG](https://tinyjpg.com) is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
+Personally, I use [ImageMagick](https://imagemagick.org/), which is a free image manipulation tool that I can access in my command line. 
+It's available in many platforms including Linux, Windows, macOS, iOS, Android, etc.
 
 ## Back-end
 
@@ -140,6 +174,6 @@ Here are some other sites from which I got inspiration:
 ## To-Do
 
 Here's a wishlist of sorts that I need to do for this site:
-- Move away from GitHub Pages and host somewhere else  
-- Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
-- Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)
+- [ ] Move away from GitHub Pages and host somewhere else  
+- [ ] Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
+- [ ] Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)

@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/impsyn/</loc>
-    <lastmod>2020-12-05T18:10:06+08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-12-12T20:36:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/tenet/</loc>
+    <lastmod>2020-12-12T20:36:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/impsyn/</loc>
     <lastmod>2020-12-05T18:10:06+08:00</lastmod>
   </url>
   
