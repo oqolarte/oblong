@@ -6,7 +6,7 @@ draft: false
 ---
 - Changed (again) the Creative Commons licensing, from [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) to [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 The addition here is *Share Alike*.
-The license still allows adaptations of my work to be shared, but the this particular license *must be preserved*.
+The license still allows adaptations of my work to be shared, but this particular one *must be preserved* during transit.
 This should prevent others from copying/adapting my work *and then* closing the free flow of information by slapping a different copyright license.
 I also removed the icon.
 All this nuisance, I hope that it matters.

@@ -86,7 +86,7 @@ Besides, nothing in the internet is perfectly safe.&lt;/p&gt;
 &lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS-less website?&lt;/p&gt;
 &lt;p&gt;Mainly it&amp;rsquo;s because I don&amp;rsquo;t know enough of it (yet) to even consider baking it into the site.
 If it&amp;rsquo;s something that I don&amp;rsquo;t know how to fully utilize, then it&amp;rsquo;s bloat to me.
-Also, given the simple layout, my site can practically do without it.
+Also, given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p&gt;
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
 &lt;p&gt;Only marketers like ads.
@@ -133,7 +133,7 @@ My process involves a lot of trial and error to get this site looking the way it
 &lt;li&gt;Instagram cards;&lt;/li&gt;
 &lt;li&gt;Twitter cards;&lt;/li&gt;
 &lt;li&gt;YouTube;&lt;/li&gt;
-&lt;li&gt;Vimeo;&lt;/li&gt;
+&lt;li&gt;Vimeo&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;To have a privacy-centered configuration, I followed &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;this documentation&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/#disable-all-services&#34;&gt;disabled all services&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;

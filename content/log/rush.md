@@ -11,7 +11,7 @@ I only ask that they include my name in the footnotes.
 - Removed the blurb on the landing page that said "I have no other social media accounts..."
 That's not really accurate.
 What I don't have are Facebook, Twitter, TikTok, and Instagram.
-- Fixed "Last Update" logic in Projects.
+- Fixed "Last Update" logic in [Projects]({{< ref "project/" >}}).
 
 We all learn that it takes a whole lot of time to get to know oneself.
 A year's worth of quasi-isolation seems to be enough.

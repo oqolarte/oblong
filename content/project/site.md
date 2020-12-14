@@ -1,6 +1,7 @@
 ---
 title: "This Site"
 date: 2020-11-27T14:42:32+08:00
+keywords: ["web development", "web design", "sustainable web design", "simple web design", "full stack web development", "full stack web design", "sustainable full stack web development"]
 draft: false
 ---
 **Status: On-going**
@@ -90,7 +91,7 @@ So why this "distaste" for JS-less website?
 
 Mainly it's because I don't know enough of it (yet) to even consider baking it into the site.
 If it's something that I don't know how to fully utilize, then it's bloat to me.
-Also, given the simple layout, my site can practically do without it.
+Also, given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It's absence is definitely beneficial, because there's less code to maintain.
 
 ### No Ads
@@ -150,7 +151,7 @@ Hugo ships with internal templates that I have disabled because they either viol
 - Instagram cards;
 - Twitter cards;
 - YouTube;
-- Vimeo;
+- Vimeo
 
 To have a privacy-centered configuration, I followed [this documentation](https://gohugo.io/about/hugo-and-gdpr/) and [disabled all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
 
