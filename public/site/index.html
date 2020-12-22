@@ -20,8 +20,8 @@
 
 <h1>This Site</h1>
 <div class="small">Last Update:
-<time datetime="Sat Dec 120 127:128:88 12120 &#43;0800">
-  12 Dec 2020
+<time datetime="Mon Dec 120 127:128:88 14140 &#43;0800">
+  14 Dec 2020
 </time>
 </div>
 
@@ -29,6 +29,7 @@
 	<h4>Table of Contents</h4>
 	<aside class="small"><nav id="TableOfContents">
   <ul>
+    <li><a href="#status-on-going">Status: On-going</a></li>
     <li><a href="#digital-garden">Digital Garden</a>
       <ul>
         <li><a href="#public-repository-of-independent-research">Public Repository of Independent Research</a></li>
@@ -53,7 +54,7 @@
   </ul>
 </nav></aside>
 </div>
-<p><strong>Status: On-going</strong></p>
+<h2 class="statusOnGoing" id="status-on-going">Status: On-going</h2>
 <p>This site is itself a personal project, a documentation of other projects that I log here.
 If we are to use modern internet terms, this is also a wiki.</p>
 <h2 id="digital-garden">Digital Garden</h2>
@@ -126,7 +127,7 @@ If it&rsquo;s something that I don&rsquo;t know how to fully utilize, then it&rs
 Also, given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&rsquo;s absence is definitely beneficial, because there&rsquo;s less code to maintain.</p>
 <h3 id="no-ads">No Ads</h3>
-<p>Only marketers like ads.
+<p>Only marketers like ads<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.
 Good thing that I have none of them here.
 And I don&rsquo;t intend to put them here anytime soon.</p>
 <p>Also, did you know that a lot of online advertising you see depends on JS?</p>
@@ -142,7 +143,7 @@ If it it&rsquo;s not adding value content-wise, it&rsquo;s not going in.</li>
 <li>it&rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
 <a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
-Personally, I use <a href="https://imagemagick.org/">ImageMagick</a>, which is a free image manipulation tool that I can access in my command line.
+Personally, I use <a href="https://imagemagick.org/">ImageMagick</a>, which is a free image manipulation tool that I can access in my command line offline.
 It&rsquo;s available in many platforms including Linux, Windows, macOS, iOS, Android, etc.</li>
 </ul>
 <h2 id="back-end">Back-end</h2>
@@ -154,7 +155,7 @@ And some experts say that most software developed using a compiled language (whi
 That may or may not put off some of you.</p>
 <h3 id="using-hugo">Using Hugo</h3>
 <p>There are a lot of tutorials online on how to start a blog using Hugo.
-A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier term for blog).
+A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
 But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.</p>
 <p>What if you want something that isn&rsquo;t pre-fabricated, some template that can&rsquo;t be found in the <a href="https://themes.gohugo.io">Themes</a>, a theme that speaks your personality?</p>
 <p>Well, that&rsquo;s when you need to read the docs.</p>
@@ -162,6 +163,9 @@ But many of these tutorials are naturally targetted to beginners who just want t
 Maybe it helps when you&rsquo;ve been dealing with software programming for a while.
 Your mileage may vary.
 My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
+<p>Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
+But we&rsquo;ll see.
+It&rsquo;s something I&rsquo;m already familiar with.</p>
 <h3 id="disabling-internal-templates">Disabling Internal Templates</h3>
 <p>Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:</p>
 <ul>
@@ -169,7 +173,7 @@ My process involves a lot of trial and error to get this site looking the way it
 <li>Disqus comments, a popular commenting system;</li>
 <li>Instagram cards;</li>
 <li>Twitter cards;</li>
-<li>YouTube;</li>
+<li>YouTube; and</li>
 <li>Vimeo</li>
 </ul>
 <p>To have a privacy-centered configuration, I followed <a href="https://gohugo.io/about/hugo-and-gdpr/">this documentation</a> and <a href="https://gohugo.io/about/hugo-and-gdpr/#disable-all-services">disabled all services</a>.</p>
@@ -190,10 +194,24 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 <h2 id="to-do">To-Do</h2>
 <p>Here&rsquo;s a wishlist of sorts that I need to do for this site:</p>
 <ul>
+<li><input disabled="" type="checkbox"> Purchase a proper domain name for this site</li>
 <li><input disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else</li>
 <li><input disabled="" type="checkbox"> Have TLS certificate, preferably from <a href="https://letsencrypt.org">Let&rsquo;s Encrypt</a>, because there&rsquo;s really no excuse to use just HTTP</li>
 <li><input disabled="" type="checkbox"> Get at least a score of 50 on Mozilla&rsquo;s <a href="https://observatory.mozilla.org/">HTTP Observatory</a></li>
 </ul>
+<p>When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>That&rsquo;s just a wild claim.
+I haven&rsquo;t got any proof of it yet. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Maybe the creatives who are coerced into doing the visuals also like their work. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
 
 <br>
 <br>

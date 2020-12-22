@@ -4,7 +4,7 @@ date: 2020-11-27T14:42:32+08:00
 keywords: ["web development", "web design", "sustainable web design", "simple web design", "full stack web development", "full stack web design", "sustainable full stack web development"]
 draft: false
 ---
-**Status: On-going**
+## Status: On-going {.statusOnGoing}
 
 This site is itself a personal project, a documentation of other projects that I log here. 
 If we are to use modern internet terms, this is also a wiki.
@@ -95,7 +95,7 @@ Also, given the simple layout, the interactions with the visitor are limited to 
 It's absence is definitely beneficial, because there's less code to maintain.
 
 ### No Ads
-Only marketers like ads. 
+Only marketers like ads[^1][^2].
 Good thing that I have none of them here.
 And I don't intend to put them here anytime soon.
 
@@ -115,7 +115,7 @@ If it it's not adding value content-wise, it's not going in.
 - it's compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
 [Tiny JPG](https://tinyjpg.com) is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
-Personally, I use [ImageMagick](https://imagemagick.org/), which is a free image manipulation tool that I can access in my command line. 
+Personally, I use [ImageMagick](https://imagemagick.org/), which is a free image manipulation tool that I can access in my command line offline. 
 It's available in many platforms including Linux, Windows, macOS, iOS, Android, etc.
 
 ## Back-end
@@ -131,7 +131,7 @@ That may or may not put off some of you.
 ### Using Hugo
 
 There are a lot of tutorials online on how to start a blog using Hugo.
-A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier term for blog).
+A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
 But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.
 
 What if you want something that isn't pre-fabricated, some template that can't be found in the [Themes](https://themes.gohugo.io), a theme that speaks your personality?
@@ -143,6 +143,10 @@ Maybe it helps when you've been dealing with software programming for a while.
 Your mileage may vary.
 My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.
 
+Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
+But we'll see.
+It's something I'm already familiar with.
+
 ### Disabling Internal Templates
 
 Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:
@@ -150,7 +154,7 @@ Hugo ships with internal templates that I have disabled because they either viol
 - Disqus comments, a popular commenting system;
 - Instagram cards;
 - Twitter cards;
-- YouTube;
+- YouTube; and
 - Vimeo
 
 To have a privacy-centered configuration, I followed [this documentation](https://gohugo.io/about/hugo-and-gdpr/) and [disabled all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
@@ -175,6 +179,13 @@ Here are some other sites from which I got inspiration:
 ## To-Do
 
 Here's a wishlist of sorts that I need to do for this site:
+- [ ] Purchase a proper domain name for this site
 - [ ] Move away from GitHub Pages and host somewhere else  
 - [ ] Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
 - [ ] Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)
+
+When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.
+
+[^1]: That's just a wild claim.
+I haven't got any proof of it yet.
+[^2]: Maybe the creatives who are coerced into doing the visuals also like their work.

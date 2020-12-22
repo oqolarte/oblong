@@ -11,12 +11,27 @@
     
     
     <item>
+      <title>Own Web Server</title>
+      <link>/server/</link>
+      <pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate>
+      
+      <guid>/server/</guid>
+      <description>&lt;h2 class=&#34;statusOpen&#34; id=&#34;status-open&#34;&gt;Status: Open&lt;/h2&gt;
+&lt;p&gt;I want to host my site in a server that I own.
+The server will actually be an old laptop that&amp;rsquo;s just lying around here.
+And it&amp;rsquo;s not actually mine.
+The &lt;a href=&#34;https://www.laptopmag.com/reviews/laptops/msi-wind&#34;&gt;MSI Wind Netbook&lt;/a&gt; belongs to Isya, and I got her permission to use it for this project.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abangan as this page develops&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>This Site</title>
       <link>/site/</link>
       <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
       
       <guid>/site/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Status: On-going&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;This site is itself a personal project, a documentation of other projects that I log here.
 If we are to use modern internet terms, this is also a wiki.&lt;/p&gt;
 &lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
@@ -89,7 +104,7 @@ If it&amp;rsquo;s something that I don&amp;rsquo;t know how to fully utilize, th
 Also, given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p&gt;
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
-&lt;p&gt;Only marketers like ads.
+&lt;p&gt;Only marketers like ads&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.
 Good thing that I have none of them here.
 And I don&amp;rsquo;t intend to put them here anytime soon.&lt;/p&gt;
 &lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
@@ -105,7 +120,7 @@ If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s not going in.
 &lt;li&gt;it&amp;rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
 &lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
-Personally, I use &lt;a href=&#34;https://imagemagick.org/&#34;&gt;ImageMagick&lt;/a&gt;, which is a free image manipulation tool that I can access in my command line.
+Personally, I use &lt;a href=&#34;https://imagemagick.org/&#34;&gt;ImageMagick&lt;/a&gt;, which is a free image manipulation tool that I can access in my command line offline.
 It&amp;rsquo;s available in many platforms including Linux, Windows, macOS, iOS, Android, etc.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
@@ -117,7 +132,7 @@ And some experts say that most software developed using a compiled language (whi
 That may or may not put off some of you.&lt;/p&gt;
 &lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
 &lt;p&gt;There are a lot of tutorials online on how to start a blog using Hugo.
-A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier term for blog).
+A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
 But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.&lt;/p&gt;
 &lt;p&gt;What if you want something that isn&amp;rsquo;t pre-fabricated, some template that can&amp;rsquo;t be found in the &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;Themes&lt;/a&gt;, a theme that speaks your personality?&lt;/p&gt;
 &lt;p&gt;Well, that&amp;rsquo;s when you need to read the docs.&lt;/p&gt;
@@ -125,6 +140,9 @@ But many of these tutorials are naturally targetted to beginners who just want t
 Maybe it helps when you&amp;rsquo;ve been dealing with software programming for a while.
 Your mileage may vary.
 My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
+&lt;p&gt;Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
+But we&amp;rsquo;ll see.
+It&amp;rsquo;s something I&amp;rsquo;m already familiar with.&lt;/p&gt;
 &lt;h3 id=&#34;disabling-internal-templates&#34;&gt;Disabling Internal Templates&lt;/h3&gt;
 &lt;p&gt;Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:&lt;/p&gt;
 &lt;ul&gt;
@@ -132,7 +150,7 @@ My process involves a lot of trial and error to get this site looking the way it
 &lt;li&gt;Disqus comments, a popular commenting system;&lt;/li&gt;
 &lt;li&gt;Instagram cards;&lt;/li&gt;
 &lt;li&gt;Twitter cards;&lt;/li&gt;
-&lt;li&gt;YouTube;&lt;/li&gt;
+&lt;li&gt;YouTube; and&lt;/li&gt;
 &lt;li&gt;Vimeo&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;To have a privacy-centered configuration, I followed &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;this documentation&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/#disable-all-services&#34;&gt;disabled all services&lt;/a&gt;.&lt;/p&gt;
@@ -153,10 +171,24 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
 &lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Purchase a proper domain name for this site&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;That&amp;rsquo;s just a wild claim.
+I haven&amp;rsquo;t got any proof of it yet. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Maybe the creatives who are coerced into doing the visuals also like their work. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
