@@ -23,6 +23,17 @@ figcaption {
 	font-size: 0.8em;
 	color: #808080;
 }
+
+blockquote {
+  font: 1.2em/1.6 serif;
+  padding: 8px;
+  background-color: #faebbc;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+  margin: 5px;
+  text-indent: 23px;
+  }
+
 @media print{
 	body{
 		max-width:none
