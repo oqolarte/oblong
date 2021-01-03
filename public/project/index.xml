@@ -11,6 +11,89 @@
     
     
     <item>
+      <title>Always Carry A Book Website</title>
+      <link>/alwayscarry/</link>
+      <pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate>
+      
+      <guid>/alwayscarry/</guid>
+      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
+&lt;p&gt;My partner has asked me to come up with a website to act as a central hub for their recently opened online bookshop.
+This site shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p&gt;
+&lt;p&gt;Visit the site, whose name I also came up with:
+&lt;strong&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;Always Carry A Book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;/image/acabooks.png&#34;
+         alt=&#34;screenshot from Always Carry A Book website &#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Screenshot from the website&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;design-choices&#34;&gt;Design Choices&lt;/h2&gt;
+&lt;p&gt;I figured that since this would just be a small online shop, a full-blown e-commerce site with lots of features is unnecessary.
+Having this in mind, I decided that a static site would do.
+Since I&amp;rsquo;m already familiar with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, I use it as my static site generator.&lt;/p&gt;
+&lt;p&gt;The business is literally just starting out.
+One major decision is to use free software services for the time being.&lt;/p&gt;
+&lt;p&gt;Of course, the intention is to scale, and add the necessary functions as the business starts raking in the dough.&lt;/p&gt;
+&lt;h3 id=&#34;landing-page-logo&#34;&gt;Landing Page Logo&lt;/h3&gt;
+&lt;p&gt;The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on &lt;a href=&#34;https://krita.org&#34;&gt;Krita&lt;/a&gt;, a free and open source painting program, that&amp;rsquo;s also available in many platforms.&lt;/p&gt;
+&lt;p&gt;The image is then compressed and optimized for the web.&lt;/p&gt;
+&lt;h3 id=&#34;payment-gateway&#34;&gt;Payment Gateway?&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s only natural for an e-commerce site to have a payment method coded in it.
+However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.&lt;/p&gt;
+&lt;p&gt;Payment will be made in &amp;ldquo;less convenient&amp;rdquo; ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.&lt;/p&gt;
+&lt;p&gt;Google Forms is also used for the customers to fill up when placing their orders.&lt;/p&gt;
+&lt;p&gt;For now, this will have to do.&lt;/p&gt;
+&lt;h3 id=&#34;integration-with-instagram&#34;&gt;Integration with Instagram&lt;/h3&gt;
+&lt;p&gt;In order to reach as many prospects as possible, the shop is also available in Instagram and Facebook.
+We&amp;rsquo;re thinking of focusing a huge chunk of content management via IG.
+Each post will then appear on the Facebook Page, and on the website.&lt;/p&gt;
+&lt;p&gt;I had a brilliant idea to use Hugo&amp;rsquo;s native integration with Instagram through their API, according to &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#instagram&#34;&gt;Hugo&amp;rsquo;s documentation&lt;/a&gt;.
+The first try, though, it already failed.&lt;/p&gt;
+&lt;p&gt;It turns out, the Instagram shortcode is deprecated since 24 Oct 2020, &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/7879&#34;&gt;according to this discussion.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Good thing that from that same discussion, &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/7879#issuecomment-737149676&#34;&gt;monsieurnebo&amp;rsquo;s fix&lt;/a&gt; (based on ToniTornado, but with a bit smaller code) got it going for me.&lt;/p&gt;
+&lt;p&gt;For the time being, I can use the IG photo&amp;rsquo;s ID to be embedded on the site.&lt;/p&gt;
+&lt;h3 id=&#34;hosting-github--netlify&#34;&gt;Hosting: GitHub + Netlify&lt;/h3&gt;
+&lt;p&gt;The source files are on GitHub. The HTML files are then deployed to Netlify.&lt;/p&gt;
+&lt;p&gt;I make the changes (edit, generate the site, etc.) locally, in a laptop.
+These changes are then committed and pushed to the GitHub repository.
+Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.&lt;/p&gt;
+&lt;h2 id=&#34;how-a-transaction-looks-like&#34;&gt;How A Transaction Looks Like&lt;/h2&gt;
+&lt;p&gt;Here, I outline the processes involved for the customer and the dealer.
+We will look&lt;/p&gt;
+&lt;h3 id=&#34;customer-side&#34;&gt;Customer Side&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Customer browses the book list, and makes a selection.&lt;/li&gt;
+&lt;li&gt;Customer fills up the Form, giving us the needed details of the order.&lt;/li&gt;
+&lt;li&gt;Customer waits for the invoice.
+Ideally, it arrives within 24 hours.
+When the invoice is confirmed to have been received, this informs the customer that their order is reserved under their name for the next 24 hours.&lt;/li&gt;
+&lt;li&gt;Customer pays within 24 hours of receiving the invoice.
+Otherwise, the reservation is revoked, and the order is made available again for the public.&lt;/li&gt;
+&lt;li&gt;Once payment is verified, package will be packed and sent.
+Customer&amp;rsquo;s waiting duration depends on the delivery option they chose in the Form.&lt;/li&gt;
+&lt;li&gt;Customer tracks the package until they receive it.&lt;/li&gt;
+&lt;li&gt;Customer receives the package, and the transaction is complete.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;dealer-side-we-the-sellers&#34;&gt;Dealer Side (&lt;em&gt;we&lt;/em&gt;, the sellers)&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;We check the Google Form at least once a day for any orders made.
+We also check our other inboxes (Facebook, Instagram, and Gmail) for any inquiries people might have for us.&lt;/li&gt;
+&lt;li&gt;We will process orders in a first-come-first-serve basis.
+This means that an order will be given to the next one in line if the one before failed to pay within 24 hours.&lt;/li&gt;
+&lt;li&gt;We send the invoice to the customer.
+This will also let them know that the order is reserved under their name for the next 24 hours.&lt;/li&gt;
+&lt;li&gt;If payment is made, we will start packing.
+Else, as mentioned, it is made available again, or is given to the next customer who intended to order it.&lt;/li&gt;
+&lt;li&gt;After packing, the package is sent via the chosen courier.
+The number of waiting days depends on customer&amp;rsquo;s location.&lt;/li&gt;
+&lt;li&gt;We track the package and give updates to the customer until they receive it.&lt;/li&gt;
+&lt;li&gt;When the customer receives the package, the transaction is complete.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Own Web Server</title>
       <link>/server/</link>
       <pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate>
@@ -98,7 +181,7 @@ This means that:&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it is.
 In fact, I don&amp;rsquo;t know enough to make that claim.
 Besides, nothing in the internet is perfectly safe.&lt;/p&gt;
-&lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS-less website?&lt;/p&gt;
+&lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS in websites?&lt;/p&gt;
 &lt;p&gt;Mainly it&amp;rsquo;s because I don&amp;rsquo;t know enough of it (yet) to even consider baking it into the site.
 If it&amp;rsquo;s something that I don&amp;rsquo;t know how to fully utilize, then it&amp;rsquo;s bloat to me.
 Also, given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.

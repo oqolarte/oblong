@@ -87,7 +87,7 @@ It's not really that I find JS harmful, although some would argue that it is.
 In fact, I don't know enough to make that claim.
 Besides, nothing in the internet is perfectly safe.
 
-So why this "distaste" for JS-less website?
+So why this "distaste" for JS in websites?
 
 Mainly it's because I don't know enough of it (yet) to even consider baking it into the site.
 If it's something that I don't know how to fully utilize, then it's bloat to me.
