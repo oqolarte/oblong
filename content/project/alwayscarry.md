@@ -28,7 +28,7 @@ Of course, the intention is to scale, and add the necessary functions as the bus
 ### Landing Page Logo
 The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on [Krita](https://krita.org), a free and open source painting program, that's also available in many platforms.
 
-The image is then compressed and optimized for the web.
+The image, compressed and optimized for the web, shall be the guiding aesthetic of the website.
 
 ### Payment Gateway?
 
@@ -36,6 +36,7 @@ It's only natural for an e-commerce site to have a payment method coded in it.
 However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.
 
 Payment will be made in "less convenient" ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
+In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions.
 
 Google Forms is also used for the customers to fill up when placing their orders.
 
@@ -68,7 +69,7 @@ Finally, I have set up Netlify to detect the changes from the repository, and th
 ## How A Transaction Looks Like
 
 Here, I outline the processes involved for the customer and the dealer.
-We will look
+This is not final, and obviously needs more thought put into it.
 
 ### Customer Side
 
@@ -79,7 +80,7 @@ Ideally, it arrives within 24 hours.
 When the invoice is confirmed to have been received, this informs the customer that their order is reserved under their name for the next 24 hours.
 4. Customer pays within 24 hours of receiving the invoice.
 Otherwise, the reservation is revoked, and the order is made available again for the public.
-5. Once payment is verified, package will be packed and sent.
+5. Once payment is verified, the order will be packed and sent.
 Customer's waiting duration depends on the delivery option they chose in the Form.
 6. Customer tracks the package until they receive it.
 7. Customer receives the package, and the transaction is complete.
@@ -98,3 +99,41 @@ Else, as mentioned, it is made available again, or is given to the next customer
 The number of waiting days depends on customer's location.
 6. We track the package and give updates to the customer until they receive it.
 7. When the customer receives the package, the transaction is complete.
+
+## 'Dropping' Content
+
+The current way involves a lot of friction on our side, to be honest.
+This is one of the drawbacks of going static: doing things "manually."
+
+Let's enumerate the steps:
+
+1. The files, mainly photos of books to be sold, live in the laptop---a MacBook, and are backed up in a OneDrive account.
+The phone can then access the photos via the cloud.
+2. Alternatively, to save on bandwidth, we can transfer over a USB connection, using [Android File Transfer](https://www.android.com/filetransfer/) as the needed middleman.
+The operative word is "needed," because one cannot *just* plug an Android phone into a Mac and be done with it.
+2. On the phone, images will be uploaded on Instagram.
+Since the IG account is already linked to the FB Page, each post shall simultaneously pop up on both platforms.
+*In theory.*
+3. Once posted, we will get the photo ID for each IG post.
+4. Using the ID, we can now embed the IG post on the website, thanks to the workaround mentioned earlier.
+
+### Taking Photos
+
+Photo-taking is done during daytime, when we make use of natural light.
+
+Initially, we used an iPhone to take photos of the books.
+Transferring files between Apple devices (in our case, iPhone and Mac) is easy, using AirDrop.
+
+However, for reasons that won't be mentioned, the iPhone is sure to be removed from the equation.
+We need to find solutions that don't rely on AirDrop's convenience.
+
+We have two options left: a digital camera, and an Android phone, the same one where we will be posting on IG.
+For better quality photos, the digital camera is the obvious choice.
+Its SD Card will also fit nicely in one of the Mac's ports.
+
+The phone's camera will serve as a backup.
+
+### Syndication of Posts
+
+If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
+Right now, as mentioned, we focus the content management in IG due to its reach.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Log on of somersaulting</title>
+    <title>a log on somersaulting</title>
     <link>/log/</link>
     <description>Recent content in Log on of somersaulting</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -9,6 +9,27 @@
     
         <atom:link href="/log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Causing Headaches</title>
+      <link>/headache/</link>
+      <pubDate>Thu, 07 Jan 2021 19:24:40 +0800</pubDate>
+      
+      <guid>/headache/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Added new sections to the &lt;a href=&#34;/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;Minor edit on the footer&lt;/li&gt;
+&lt;li&gt;Added some blurbs on the Index, like adding a separate email for work-related stuff.&lt;/li&gt;
+&lt;li&gt;Edited title for &lt;a href=&#34;/log/index.xml&#34;&gt;RSS feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;d like to think that I&amp;rsquo;m taking it easy.
+By having some personal projects that I enjoy doing, going through the motions of the day becomes mentally stimulating.
+To be honest, I don&amp;rsquo;t see myself monetizing a side project any time soon.
+But, anytime soon, that could change because of some interjection of Randomness.&lt;/p&gt;
+&lt;p&gt;Maybe in these small pursuits I won&amp;rsquo;t affect anything.
+At least I can give &lt;em&gt;them&lt;/em&gt; a headache by not merely doing what they think I&amp;rsquo;m supposed to do.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Growing Old</title>

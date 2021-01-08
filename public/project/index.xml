@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on of somersaulting</title>
+    <title>a log on somersaulting</title>
     <link>/project/</link>
     <description>Recent content in Projects on of somersaulting</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -37,11 +37,12 @@ One major decision is to use free software services for the time being.&lt;/p&gt
 &lt;p&gt;Of course, the intention is to scale, and add the necessary functions as the business starts raking in the dough.&lt;/p&gt;
 &lt;h3 id=&#34;landing-page-logo&#34;&gt;Landing Page Logo&lt;/h3&gt;
 &lt;p&gt;The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on &lt;a href=&#34;https://krita.org&#34;&gt;Krita&lt;/a&gt;, a free and open source painting program, that&amp;rsquo;s also available in many platforms.&lt;/p&gt;
-&lt;p&gt;The image is then compressed and optimized for the web.&lt;/p&gt;
+&lt;p&gt;The image, compressed and optimized for the web, shall be the guiding aesthetic of the website.&lt;/p&gt;
 &lt;h3 id=&#34;payment-gateway&#34;&gt;Payment Gateway?&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s only natural for an e-commerce site to have a payment method coded in it.
 However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.&lt;/p&gt;
-&lt;p&gt;Payment will be made in &amp;ldquo;less convenient&amp;rdquo; ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.&lt;/p&gt;
+&lt;p&gt;Payment will be made in &amp;ldquo;less convenient&amp;rdquo; ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
+In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions.&lt;/p&gt;
 &lt;p&gt;Google Forms is also used for the customers to fill up when placing their orders.&lt;/p&gt;
 &lt;p&gt;For now, this will have to do.&lt;/p&gt;
 &lt;h3 id=&#34;integration-with-instagram&#34;&gt;Integration with Instagram&lt;/h3&gt;
@@ -60,7 +61,7 @@ These changes are then committed and pushed to the GitHub repository.
 Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.&lt;/p&gt;
 &lt;h2 id=&#34;how-a-transaction-looks-like&#34;&gt;How A Transaction Looks Like&lt;/h2&gt;
 &lt;p&gt;Here, I outline the processes involved for the customer and the dealer.
-We will look&lt;/p&gt;
+This is not final, and obviously needs more thought put into it.&lt;/p&gt;
 &lt;h3 id=&#34;customer-side&#34;&gt;Customer Side&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Customer browses the book list, and makes a selection.&lt;/li&gt;
@@ -70,7 +71,7 @@ Ideally, it arrives within 24 hours.
 When the invoice is confirmed to have been received, this informs the customer that their order is reserved under their name for the next 24 hours.&lt;/li&gt;
 &lt;li&gt;Customer pays within 24 hours of receiving the invoice.
 Otherwise, the reservation is revoked, and the order is made available again for the public.&lt;/li&gt;
-&lt;li&gt;Once payment is verified, package will be packed and sent.
+&lt;li&gt;Once payment is verified, the order will be packed and sent.
 Customer&amp;rsquo;s waiting duration depends on the delivery option they chose in the Form.&lt;/li&gt;
 &lt;li&gt;Customer tracks the package until they receive it.&lt;/li&gt;
 &lt;li&gt;Customer receives the package, and the transaction is complete.&lt;/li&gt;
@@ -90,6 +91,34 @@ The number of waiting days depends on customer&amp;rsquo;s location.&lt;/li&gt;
 &lt;li&gt;We track the package and give updates to the customer until they receive it.&lt;/li&gt;
 &lt;li&gt;When the customer receives the package, the transaction is complete.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&#34;dropping-content&#34;&gt;&amp;lsquo;Dropping&amp;rsquo; Content&lt;/h2&gt;
+&lt;p&gt;The current way involves a lot of friction on our side, to be honest.
+This is one of the drawbacks of going static: doing things &amp;ldquo;manually.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s enumerate the steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The files, mainly photos of books to be sold, live in the laptop&amp;mdash;a MacBook, and are backed up in a OneDrive account.
+The phone can then access the photos via the cloud.&lt;/li&gt;
+&lt;li&gt;Alternatively, to save on bandwidth, we can transfer over a USB connection, using &lt;a href=&#34;https://www.android.com/filetransfer/&#34;&gt;Android File Transfer&lt;/a&gt; as the needed middleman.
+The operative word is &amp;ldquo;needed,&amp;rdquo; because one cannot &lt;em&gt;just&lt;/em&gt; plug an Android phone into a Mac and be done with it.&lt;/li&gt;
+&lt;li&gt;On the phone, images will be uploaded on Instagram.
+Since the IG account is already linked to the FB Page, each post shall simultaneously pop up on both platforms.
+&lt;em&gt;In theory.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Once posted, we will get the photo ID for each IG post.&lt;/li&gt;
+&lt;li&gt;Using the ID, we can now embed the IG post on the website, thanks to the workaround mentioned earlier.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;taking-photos&#34;&gt;Taking Photos&lt;/h3&gt;
+&lt;p&gt;Photo-taking is done during daytime, when we make use of natural light.&lt;/p&gt;
+&lt;p&gt;Initially, we used an iPhone to take photos of the books.
+Transferring files between Apple devices (in our case, iPhone and Mac) is easy, using AirDrop.&lt;/p&gt;
+&lt;p&gt;However, for reasons that won&amp;rsquo;t be mentioned, the iPhone is sure to be removed from the equation.
+We need to find solutions that don&amp;rsquo;t rely on AirDrop&amp;rsquo;s convenience.&lt;/p&gt;
+&lt;p&gt;We have two options left: a digital camera, and an Android phone, the same one where we will be posting on IG.
+For better quality photos, the digital camera is the obvious choice.
+Its SD Card will also fit nicely in one of the Mac&amp;rsquo;s ports.&lt;/p&gt;
+&lt;p&gt;The phone&amp;rsquo;s camera will serve as a backup.&lt;/p&gt;
+&lt;h3 id=&#34;syndication-of-posts&#34;&gt;Syndication of Posts&lt;/h3&gt;
+&lt;p&gt;If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
+Right now, as mentioned, we focus the content management in IG due to its reach.&lt;/p&gt;
 </description>
     </item>
     
