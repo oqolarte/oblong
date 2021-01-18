@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/headache/</loc>
-    <lastmod>2021-01-08T15:26:48+08:00</lastmod>
+    <loc>/encode/</loc>
+    <lastmod>2021-01-18T18:16:53+08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-01-18T20:12:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lh/</loc>
+    <lastmod>2021-01-18T20:12:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/headache/</loc>
     <lastmod>2021-01-08T15:26:48+08:00</lastmod>
   </url>
   

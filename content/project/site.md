@@ -32,7 +32,9 @@ I am, more or less, happy with the opportunity cost of not dealing with it.
 
 Instead of going through the application process for post-graduate studies, may I now enlist you, Dear Public, as my peer reviewer?
 I hope you don't mind.
-I dislike receiving rejection emails from The Only University I applied for one year ago.
+
+I never liked receiving rejection emails, but I get that they're needed, in that they let me know that I can go on with other applications.
+
 At least, through this site, I (hopefully) wouldn't be receiving (unsolicited) rejection letters from anyone.
 
 Finally, having the public as my peer reviewer, I think, opens interesting avenues for the stakeholders (me and the public).
@@ -115,18 +117,31 @@ If it it's not adding value content-wise, it's not going in.
 - it's compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
 [Tiny JPG](https://tinyjpg.com) is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
+
 Personally, I use [ImageMagick](https://imagemagick.org/), which is a free image manipulation tool that I can access in my command line offline. 
 It's available in many platforms including Linux, Windows, macOS, iOS, Android, etc.
 
 ## Back-end
 
-I use [Hugo](https://gohugo.io), a static site generator to build this site.
+I use [Hugo](https://gohugo.io) static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
-I have no particular reason why I chose Hugo, except maybe that it's written in Go.
-And some experts say that most software developed using a compiled language (which Go is) can be "blazing fast."
 
-Web developers who may be reading this will notice that Hugo is the extent of my back-end knowledge. 
-That may or may not put off some of you.
+### In the name of Static Site Generator (SSG)
+
+Using SSG like Hugo arguably increases security by simplifying a lot of things.
+There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.
+
+All the content is written in Markdown, a simple markup "language" for creating formatted text using a plaintext editor.
+This means that all the files are lightweight and portable, easy to backup and transfer between computers.
+
+Compilation is fast.
+Since web browsers can only read HTML files, compilation means that SSG converts the Markdown files into HTML.
+And if you're like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).
+
+It might sound tedious, because it is at first!
+Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.
+
+But I'll take the massive freedom gains provided by SSGs anytime!
 
 ### Using Hugo
 

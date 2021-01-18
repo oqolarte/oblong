@@ -11,6 +11,98 @@
     
     
     <item>
+      <title>Encoding: From Hardcopy to Softcopy</title>
+      <link>/encode/</link>
+      <pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate>
+      
+      <guid>/encode/</guid>
+      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
+&lt;p&gt;One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge Emmanuel.&lt;/p&gt;
+&lt;p&gt;Here is an attempt to document the entire process.&lt;/p&gt;
+&lt;h2 id=&#34;scope-of-work&#34;&gt;Scope of Work&lt;/h2&gt;
+&lt;p&gt;The documents that we&amp;rsquo;re talking about here are printed articles written by Tito Jorge.
+He&amp;rsquo;s quite the writer, so each article easily goes above 4,000 words.&lt;/p&gt;
+&lt;p&gt;We are tasked to convert these printed materials into a Word document (docx) as softcopies.&lt;/p&gt;
+&lt;p&gt;The initial suggestion was to manually typewrite &lt;em&gt;everything&lt;/em&gt;.
+Surely, though, there must be a smarter way to make softcopies?&lt;/p&gt;
+&lt;h2 id=&#34;scanning-of-documents&#34;&gt;Scanning of Documents&lt;/h2&gt;
+&lt;p&gt;Currently, we have no scanner per se in our home.&lt;/p&gt;
+&lt;p&gt;Instead, I used the Adobe Scan app on the iPhone that I still had.
+It&amp;rsquo;s fine.
+I just had to make sure that the text in each scanned page was readable.&lt;/p&gt;
+&lt;p&gt;The scanned files are in PDF format.&lt;/p&gt;
+&lt;p&gt;Then, I AirDropped the scanned files to Isya&amp;rsquo;s MacBook, because that&amp;rsquo;s where I would be working on them.&lt;/p&gt;
+&lt;p&gt;Of course, one doesn&amp;rsquo;t need Apple devices to do these.
+Just remember that the important things here are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a way to scan the documents; and&lt;/li&gt;
+&lt;li&gt;a way to transfer them to the computer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;converting-pdf-to-docx&#34;&gt;Converting PDF to docx&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s time to make use of free online software.
+We&amp;rsquo;ll be needing Optical Character Recognition (OCR) software for this one, particularly one that can convert PDF to docx.&lt;/p&gt;
+&lt;p&gt;I used &lt;a href=&#34;https://www.onlineocr.net&#34;&gt;Free Online OCR&lt;/a&gt;, simply because it&amp;rsquo;s the topmost item in the search list.
+What I will discuss next is based on that platform.
+You can choose other websites, but you&amp;rsquo;ll have to figure it out yourself.&lt;/p&gt;
+&lt;p&gt;On the Free Online OCR landing page, you can do a quick task of converting PDF to docx.
+However, you&amp;rsquo;ll soon find out that this will only output the first page of the document.
+The max file size is also limited to 15 MB.&lt;/p&gt;
+&lt;p&gt;To increase these numbers, you need to sign up.&lt;/p&gt;
+&lt;h3 id=&#34;sign-up-on-free-online-ocr-using-disposable-email&#34;&gt;Sign up on Free Online OCR using disposable email&lt;/h3&gt;
+&lt;p&gt;Never use your own personal email account.&lt;/p&gt;
+&lt;p&gt;There are many free online services that provide disposable emails.
+For this, I used &lt;a href=&#34;https://temp-mail.org&#34;&gt;Temp Mail&lt;/a&gt; which &amp;ldquo;provides temporary, secure, anonymous, free, disposable email address.&amp;rdquo;
+Keep this tab (or window) open for as long you need this.&lt;/p&gt;
+&lt;p&gt;When you click SIGN UP on the upper right of the page, you will be prompted to fill up a form:&lt;/p&gt;
+&lt;p&gt;Enter username:     [&lt;em&gt;enter any gibberish&lt;/em&gt;]&lt;br&gt;
+Enter password&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:     [&lt;em&gt;enter any gibberish&lt;/em&gt;]&lt;br&gt;
+Confirm password:   [&lt;em&gt;same as above&lt;/em&gt;]&lt;br&gt;
+Enter E-mail:       [&lt;em&gt;Copy the email from Temp Mail&lt;/em&gt;]&lt;br&gt;
+Enter Captcha code: [&lt;em&gt;captcha code here&lt;/em&gt;]&lt;/p&gt;
+&lt;p&gt;And &lt;del&gt;blindly&lt;/del&gt; accept the Terms of Service and Privacy Policy in the checkbox.&lt;/p&gt;
+&lt;p&gt;Log in once you&amp;rsquo;ve successfully signed up.&lt;/p&gt;
+&lt;p&gt;Logging in increases your wiggle room, namely:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;max file size is bumped up to 200 MB;&lt;/li&gt;
+&lt;li&gt;max number of pages is now 50;&lt;/li&gt;
+&lt;li&gt;plus some other options that you might find useful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Once you deplete the number of available pages, which you will if you&amp;rsquo;re working on a lot academic articles, just create another account, with the help of Temp Mail!&lt;/p&gt;
+&lt;p&gt;When creating another account, be sure to delete the cookies in your browser.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t forget to download all the docx files.&lt;/p&gt;
+&lt;h2 id=&#34;polish-the-documents&#34;&gt;Polish the documents&lt;/h2&gt;
+&lt;p&gt;At this point, all the files are now in docx format.
+The OCR converter will have tried its best in recognizing the text, tables, and even images.
+The quality of the converted docx will greatly depend on the scanning process, but even then, the final output won&amp;rsquo;t be perfect.&lt;/p&gt;
+&lt;p&gt;Open your favorite word processor.
+I used Microsoft Word in the MacBook.&lt;/p&gt;
+&lt;p&gt;This is the most labor-intensive part of the whole process.&lt;/p&gt;
+&lt;p&gt;These are the things to do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;check the spelling;&lt;/li&gt;
+&lt;li&gt;check the punctuation marks;&lt;/li&gt;
+&lt;li&gt;check the formatting;&lt;/li&gt;
+&lt;li&gt;recreate the data tables, if need be;&lt;/li&gt;
+&lt;li&gt;rescan and include any important images;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;recommendations&#34;&gt;Recommendation/s&lt;/h2&gt;
+&lt;p&gt;To future-proof the articles, it would be nice to convert them also to plaintext (txt).
+Plaintext ensures that it can be ported to other computers and platforms, while eating as little memory space as possible.&lt;/p&gt;
+&lt;p&gt;Plaintext can be formatted with Markdown.
+&lt;a href=&#34;https://pandoc.org&#34;&gt;Pandoc&lt;/a&gt; is a universal converter, and free software at that, that can be used to covnert txt (or markdown) to, say, docx.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;To easily come up with a password, this would be the best time to start using a &lt;a href=&#34;https://privacytools.io/software/passwords/#pw&#34;&gt;password manager&lt;/a&gt;.
+Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Always Carry A Book Website</title>
       <link>/alwayscarry/</link>
       <pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate>
@@ -161,9 +253,9 @@ After reading &lt;a href=&#34;https://nadiaeghbal.com&#34;&gt;Nadia Eghbal&lt;/a
 &lt;p&gt;I can&amp;rsquo;t also imagine spending at least three years getting a master&amp;rsquo;s degree, holding on to the fact that it&amp;rsquo;s &amp;ldquo;necessary&amp;rdquo; to further my career.
 I am, more or less, happy with the opportunity cost of not dealing with it.&lt;/p&gt;
 &lt;p&gt;Instead of going through the application process for post-graduate studies, may I now enlist you, Dear Public, as my peer reviewer?
-I hope you don&amp;rsquo;t mind.
-I dislike receiving rejection emails from The Only University I applied for one year ago.
-At least, through this site, I (hopefully) wouldn&amp;rsquo;t be receiving (unsolicited) rejection letters from anyone.&lt;/p&gt;
+I hope you don&amp;rsquo;t mind.&lt;/p&gt;
+&lt;p&gt;I never liked receiving rejection emails, but I get that they&amp;rsquo;re needed, in that they let me know that I can go on with other applications.&lt;/p&gt;
+&lt;p&gt;At least, through this site, I (hopefully) wouldn&amp;rsquo;t be receiving (unsolicited) rejection letters from anyone.&lt;/p&gt;
 &lt;p&gt;Finally, having the public as my peer reviewer, I think, opens interesting avenues for the stakeholders (me and the public).
 There will always be people smarter than me.
 Hopefully, I can pull some of their attention here to share their insights someday.&lt;/p&gt;
@@ -231,17 +323,24 @@ An image must add to the narrative, not distract the viewers away from it.
 If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s not going in.&lt;/li&gt;
 &lt;li&gt;it&amp;rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
-&lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
-Personally, I use &lt;a href=&#34;https://imagemagick.org/&#34;&gt;ImageMagick&lt;/a&gt;, which is a free image manipulation tool that I can access in my command line offline.
-It&amp;rsquo;s available in many platforms including Linux, Windows, macOS, iOS, Android, etc.&lt;/li&gt;
+&lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Personally, I use &lt;a href=&#34;https://imagemagick.org/&#34;&gt;ImageMagick&lt;/a&gt;, which is a free image manipulation tool that I can access in my command line offline.
+It&amp;rsquo;s available in many platforms including Linux, Windows, macOS, iOS, Android, etc.&lt;/p&gt;
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
-&lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static site generator to build this site.
-There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
-I have no particular reason why I chose Hugo, except maybe that it&amp;rsquo;s written in Go.
-And some experts say that most software developed using a compiled language (which Go is) can be &amp;ldquo;blazing fast.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Web developers who may be reading this will notice that Hugo is the extent of my back-end knowledge.
-That may or may not put off some of you.&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator to build this site.
+There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.&lt;/p&gt;
+&lt;h3 id=&#34;in-the-name-of-static-site-generator-ssg&#34;&gt;In the name of Static Site Generator (SSG)&lt;/h3&gt;
+&lt;p&gt;Using SSG like Hugo arguably increases security by simplifying a lot of things.
+There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.&lt;/p&gt;
+&lt;p&gt;All the content is written in Markdown, a simple markup &amp;ldquo;language&amp;rdquo; for creating formatted text using a plaintext editor.
+This means that all the files are lightweight and portable, easy to backup and transfer between computers.&lt;/p&gt;
+&lt;p&gt;Compilation is fast.
+Since web browsers can only read HTML files, compilation means that SSG converts the Markdown files into HTML.
+And if you&amp;rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).&lt;/p&gt;
+&lt;p&gt;It might sound tedious, because it is at first!
+Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs anytime!&lt;/p&gt;
 &lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
 &lt;p&gt;There are a lot of tutorials online on how to start a blog using Hugo.
 A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
