@@ -33,7 +33,12 @@ blockquote {
   border-bottom: 1px solid #e1cc89;
   margin: 5px;
   text-indent: 23px;
-  }
+}
+
+code,kbd,pre,samp {
+        font-family: monospace;
+        font-size: 0.9em;
+}
 
 @media print{
 	body{

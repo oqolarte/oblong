@@ -65,6 +65,53 @@ I make the changes (edit, generate the site, etc.) locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.
 Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.
 
+### Search Functionality
+
+As we upload more content, i.e. more books, the list grows.
+I have added a search bar in the list page to help visitors, using JavaScript.
+This is based on [zwbetz's tutorial](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/).
+
+I know I may have implied [a slight distaste for JavaScript](/site/#no-javascript), but since we intend this to be an e-commerce site, we have to be in a different mindset.
+
+As the user types a letter in the search bar, items with matching string of text remain, incrementally narrowing down the list.
+
+The JavaScript function is actually an Immediately Invoked Function Expression[^1], and it runs as soon as it is defined.
+
+The JavaScript code can either be wrapped in `<script>` tags at the end of the HTML page of the book list;
+or it can be separate file, like `search.js` living in the `your-hugo-site/static/js/search.js` directory which can then be invoked using Hugo Partials[^2].
+For posterity, here's the JS code:
+
+{{< highlight javascript >}}
+(function () {
+  function updateCount(count) {
+    var listCount = document.getElementById("list-count");
+    listCount.innerText = "Count: " + count;
+  }
+
+  function onEvent() {
+    var count = 0;
+    var filter = search.value.toUpperCase();
+    var list = document.getElementById("list");
+    var listItems = list.getElementsByTagName("li");
+    for (i = 0; i < listItems.length; i++) {
+      var item = listItems[i];
+      var text = item.innerText.toUpperCase();
+      if (text.indexOf(filter) > -1) {
+        item.style.display = "";
+        count++;
+      } else {
+        item.style.display = "none";
+      }
+    }
+    updateCount(count);
+  }
+
+  var search = document.getElementById("search");
+  if (search) {
+    search.addEventListener("keyup", onEvent);
+  }
+})();
+{{< / highlight >}}
 
 ## How A Transaction Looks Like
 
@@ -137,3 +184,7 @@ The phone's camera will serve as a backup.
 
 If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
 Right now, as mentioned, we focus the content management in IG due to its reach.
+
+[^1]: For more information, read the [Mozilla's explainer](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+[^2]: Partials are smaller, context-aware components in your list and papge templates that can be used economically to keep your templating DRY ("Don't Repeat Yourself"). 
+For more info, [read the Hugo documentation](https://gohugo.io/templates/partials/#readout).

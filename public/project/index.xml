@@ -3,7 +3,7 @@
   <channel>
     <title>a log on somersaulting</title>
     <link>/project/</link>
-    <description>Recent content in Projects on of somersaulting</description>
+    <description>Recent content in Projects on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -90,12 +90,20 @@ I used Microsoft Word in the MacBook.&lt;/p&gt;
 Plaintext ensures that it can be ported to other computers and platforms, while eating as little memory space as possible.&lt;/p&gt;
 &lt;p&gt;Plaintext can be formatted with Markdown.
 &lt;a href=&#34;https://pandoc.org&#34;&gt;Pandoc&lt;/a&gt; is a universal converter, and free software at that, that can be used to covnert txt (or markdown) to, say, docx.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re the kind who handwrites on their journal, you may want to keep a digital backup of your personal musings by implementing what I discussed above.
+Take note (ha!) of the legibility of your handwriting;
+the OCR might not recognize your cursive penmanship!&lt;/p&gt;
+&lt;p&gt;Or perhaps, you own a distraction-free, old-but-working-still typewriter?
+Type your thoughts in a distraction-free machine&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, and then edit and/or finalize the digital copy.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;To easily come up with a password, this would be the best time to start using a &lt;a href=&#34;https://privacytools.io/software/passwords/#pw&#34;&gt;password manager&lt;/a&gt;.
 Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://typewriterrevolution.com/manifesto&#34;&gt;Typewriter Manifesto&lt;/a&gt; if you&amp;rsquo;re into that. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -151,6 +159,81 @@ The first try, though, it already failed.&lt;/p&gt;
 &lt;p&gt;I make the changes (edit, generate the site, etc.) locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.
 Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.&lt;/p&gt;
+&lt;h3 id=&#34;search-functionality&#34;&gt;Search Functionality&lt;/h3&gt;
+&lt;p&gt;As we upload more content, i.e. more books, the list grows.
+I have added a search bar in the list page to help visitors, using JavaScript.
+This is based on &lt;a href=&#34;https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/&#34;&gt;zwbetz&amp;rsquo;s tutorial&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I know I may have implied &lt;a href=&#34;/site/#no-javascript&#34;&gt;a slight distaste for JavaScript&lt;/a&gt;, but since we intend this to be an e-commerce site, we have to be in a different mindset.&lt;/p&gt;
+&lt;p&gt;As the user types a letter in the search bar, items with matching string of text remain, incrementally narrowing down the list.&lt;/p&gt;
+&lt;p&gt;The JavaScript function is actually an Immediately Invoked Function Expression&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and it runs as soon as it is defined.&lt;/p&gt;
+&lt;p&gt;The JavaScript code can either be wrapped in &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; tags at the end of the HTML page of the book list;
+or it can be separate file, like &lt;code&gt;search.js&lt;/code&gt; living in the &lt;code&gt;your-hugo-site/static/js/search.js&lt;/code&gt; directory which can then be invoked using Hugo Partials&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.
+For posterity, here&amp;rsquo;s the JS code:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 1
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 2
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 3
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 4
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 5
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 6
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 7
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 8
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 9
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;10
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;11
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;12
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;13
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;14
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;15
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;16
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;17
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;18
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;19
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;20
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;21
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;22
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;23
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;24
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;25
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;26
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;27
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;28
+&lt;/span&gt;&lt;span style=&#34;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;29
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; () {
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;updateCount&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt;) {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;listCount&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;list-count&amp;#34;&lt;/span&gt;);
+    &lt;span style=&#34;color:#a6e22e&#34;&gt;listCount&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;innerText&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Count: &amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt;;
+  }
+
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;onEvent&lt;/span&gt;() {
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;filter&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;value&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toUpperCase&lt;/span&gt;();
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;list&amp;#34;&lt;/span&gt;);
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;listItems&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementsByTagName&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;li&amp;#34;&lt;/span&gt;);
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;listItems&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;) {
+      &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;listItems&lt;/span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;];
+      &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;innerText&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toUpperCase&lt;/span&gt;();
+      &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;indexOf&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;filter&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;) {
+        &lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;display&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;;
+        &lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;;
+      } &lt;span style=&#34;color:#66d9ef&#34;&gt;else&lt;/span&gt; {
+        &lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;display&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;none&amp;#34;&lt;/span&gt;;
+      }
+    }
+    &lt;span style=&#34;color:#a6e22e&#34;&gt;updateCount&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt;);
+  }
+
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;search&amp;#34;&lt;/span&gt;);
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;) {
+    &lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;keyup&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;onEvent&lt;/span&gt;);
+  }
+})();
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;how-a-transaction-looks-like&#34;&gt;How A Transaction Looks Like&lt;/h2&gt;
 &lt;p&gt;Here, I outline the processes involved for the customer and the dealer.
 This is not final, and obviously needs more thought put into it.&lt;/p&gt;
@@ -211,6 +294,18 @@ Its SD Card will also fit nicely in one of the Mac&amp;rsquo;s ports.&lt;/p&gt;
 &lt;h3 id=&#34;syndication-of-posts&#34;&gt;Syndication of Posts&lt;/h3&gt;
 &lt;p&gt;If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
 Right now, as mentioned, we focus the content management in IG due to its reach.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;For more information, read the &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Glossary/IIFE&#34;&gt;Mozilla&amp;rsquo;s explainer&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Partials are smaller, context-aware components in your list and papge templates that can be used economically to keep your templating DRY (&amp;ldquo;Don&amp;rsquo;t Repeat Yourself&amp;rdquo;).
+For more info, &lt;a href=&#34;https://gohugo.io/templates/partials/#readout&#34;&gt;read the Hugo documentation&lt;/a&gt;. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -236,8 +331,8 @@ The &lt;a href=&#34;https://www.laptopmag.com/reviews/laptops/msi-wind&#34;&gt;M
       
       <guid>/site/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
-&lt;p&gt;This site is itself a personal project, a documentation of other projects that I log here.
-If we are to use modern internet terms, this is also a wiki.&lt;/p&gt;
+&lt;p&gt;The making of this site is itself a personal project.
+Here I will discuss how and, most importantly, why this all was conceived.&lt;/p&gt;
 &lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
 &lt;p&gt;If you&amp;rsquo;ve been looking around for personal websites like I have, &amp;ldquo;digital garden&amp;rdquo; is a phrase that gets used often.&lt;/p&gt;
 &lt;p&gt;It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
@@ -274,8 +369,9 @@ Readers can click each topic in the ToC if they feel like jumping to that part a
 The write-ups will be a healthy blend of creative and technical writing, to prevent you from getting bored, something I won&amp;rsquo;t afford to do in a formal setting.
 Of course, I&amp;rsquo;ll include citations properly.&lt;/p&gt;
 &lt;p&gt;The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes), is a whole separate thing.
-I don&amp;rsquo;t consider it a section of this site.
-It&amp;rsquo;s only a link that you can copy and paste on your favorite RSS reader.&lt;/p&gt;
+I don&amp;rsquo;t consider it a section of this site, though.
+It&amp;rsquo;s only a link that you can copy and paste on your favorite RSS reader.
+A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.&lt;/p&gt;
 &lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
 &lt;p&gt;As you are well aware, this site has a very simple design.
 Admittedly, it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
@@ -313,9 +409,10 @@ Good thing that I have none of them here.
 And I don&amp;rsquo;t intend to put them here anytime soon.&lt;/p&gt;
 &lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
 &lt;h3 id=&#34;images&#34;&gt;Images&lt;/h3&gt;
-&lt;p&gt;Humans can be very visual sometimes.
+&lt;p&gt;Humans can be very visual &lt;em&gt;sometimes&lt;/em&gt;.
 In the internet, however, we must play it differently.&lt;/p&gt;
-&lt;p&gt;Big image size takes time to load, and will of course need more resources to serve it to the visitor.&lt;/p&gt;
+&lt;p&gt;Big image size takes time to load, and will of course need more resources to serve it to the visitor.
+More resources mean more energy consumed means larger carbon footprint.&lt;/p&gt;
 &lt;p&gt;When adding images to a site, I make sure that:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;it &lt;em&gt;does&lt;/em&gt; tell &amp;ldquo;more than a thousand words.&amp;rdquo;
@@ -340,7 +437,7 @@ Since web browsers can only read HTML files, compilation means that SSG converts
 And if you&amp;rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).&lt;/p&gt;
 &lt;p&gt;It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p&gt;
-&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs anytime!&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
 &lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
 &lt;p&gt;There are a lot of tutorials online on how to start a blog using Hugo.
 A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
@@ -349,8 +446,12 @@ But many of these tutorials are naturally targetted to beginners who just want t
 &lt;p&gt;Well, that&amp;rsquo;s when you need to read the docs.&lt;/p&gt;
 &lt;p&gt;Truth be told, Hugo&amp;rsquo;s learning curve is steep, especially if you&amp;rsquo;re like me with no &amp;ldquo;real&amp;rdquo; coding experience.
 Maybe it helps when you&amp;rsquo;ve been dealing with software programming for a while.
-Your mileage may vary.
-My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
+Your mileage may vary.&lt;/p&gt;
+&lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to read the documentation.
+Some documentations are good, some are bad, some don&amp;rsquo;t even exist!
+In any case, you can also ask the community if you&amp;rsquo;re stuck somewhere.
+Hugo has a decent documentation&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
 &lt;p&gt;Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&amp;rsquo;ll see.
 It&amp;rsquo;s something I&amp;rsquo;m already familiar with.&lt;/p&gt;
@@ -397,6 +498,14 @@ I haven&amp;rsquo;t got any proof of it yet. &lt;a href=&#34;#fnref:1&#34; class
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Maybe the creatives who are coerced into doing the visuals also like their work. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs! &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;By &amp;ldquo;decent&amp;rdquo; I mean it covers all the basic needs to help you set up a working site.
+In its current state, it&amp;rsquo;s reliable.
+However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;

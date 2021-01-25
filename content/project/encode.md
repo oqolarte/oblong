@@ -109,5 +109,13 @@ Plaintext ensures that it can be ported to other computers and platforms, while 
 Plaintext can be formatted with Markdown.
 [Pandoc](https://pandoc.org) is a universal converter, and free software at that, that can be used to covnert txt (or markdown) to, say, docx.
 
+If you're the kind who handwrites on their journal, you may want to keep a digital backup of your personal musings by implementing what I discussed above.
+Take note (ha!) of the legibility of your handwriting;
+the OCR might not recognize your cursive penmanship!
+
+Or perhaps, you own a distraction-free, old-but-working-still typewriter?
+Type your thoughts in a distraction-free machine[^2], and then edit and/or finalize the digital copy.
+
 [^1]: To easily come up with a password, this would be the best time to start using a [password manager](https://privacytools.io/software/passwords/#pw).
 Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.
+[^2]: See the [Typewriter Manifesto](https://typewriterrevolution.com/manifesto) if you're into that.

@@ -6,8 +6,8 @@ draft: false
 ---
 ## Status: On-going {.statusOnGoing}
 
-This site is itself a personal project, a documentation of other projects that I log here. 
-If we are to use modern internet terms, this is also a wiki.
+The making of this site is itself a personal project. 
+Here I will discuss how and, most importantly, why this all was conceived.
 
 ## Digital Garden
 
@@ -61,8 +61,9 @@ The write-ups will be a healthy blend of creative and technical writing, to prev
 Of course, I'll include citations properly.
 
 The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes), is a whole separate thing.
-I don't consider it a section of this site.
+I don't consider it a section of this site, though.
 It's only a link that you can copy and paste on your favorite RSS reader.
+A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
 
 ## Front-end
 
@@ -105,10 +106,11 @@ Also, did you know that a lot of online advertising you see depends on JS?
 
 ### Images
 
-Humans can be very visual sometimes.
+Humans can be very visual *sometimes*.
 In the internet, however, we must play it differently.
 
 Big image size takes time to load, and will of course need more resources to serve it to the visitor.
+More resources mean more energy consumed means larger carbon footprint.
 
 When adding images to a site, I make sure that:
 - it *does* tell "more than a thousand words."
@@ -141,7 +143,7 @@ And if you're like me whose website comprises only HTML and CSS files, compilati
 It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.
 
-But I'll take the massive freedom gains provided by SSGs anytime!
+But I'll take the massive freedom gains provided by SSGs[^3] anytime!
 
 ### Using Hugo
 
@@ -156,6 +158,12 @@ Well, that's when you need to read the docs.
 Truth be told, Hugo's learning curve is steep, especially if you're like me with no "real" coding experience.
 Maybe it helps when you've been dealing with software programming for a while.
 Your mileage may vary.
+
+As with everything else, it's important to be patient and willing to read the documentation.
+Some documentations are good, some are bad, some don't even exist!
+In any case, you can also ask the community if you're stuck somewhere.
+Hugo has a decent documentation[^4].
+
 My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.
 
 Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
@@ -204,3 +212,7 @@ When all of the items in this (growing) list is ticked off, this TODO segment wi
 [^1]: That's just a wild claim.
 I haven't got any proof of it yet.
 [^2]: Maybe the creatives who are coerced into doing the visuals also like their work.
+[^3]: Check out [Jamstack](https://jamstack.org/generators/) for a list of hundreds of possible SSGs!
+[^4]: By "decent" I mean it covers all the basic needs to help you set up a working site.
+In its current state, it's reliable.
+However, the more complex you make your site, you'll find that Hugo documentation still needs more polishing.

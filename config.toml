@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "of somersaulting"
+title = "to oblique lair"
 enableGitInfo = true
 
 [permalinks]
@@ -30,6 +30,19 @@ enableGitInfo = true
 	url = "/log/index.xml"
 	weight = 3 
 
+[markup]
+        [markup.highlight]
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = false
+        hl_Lines = ""
+        lineAnchors = ""
+        lineNoStart = 1
+        lineNos = true
+        lineNumbersInTable = true
+        noClasses = true
+        style = "monokai"
+        tabWidth = 4
 
 [privacy]
 	[privacy.disqus]
