@@ -81,7 +81,7 @@ The JavaScript code can either be wrapped in `<script>` tags at the end of the H
 or it can be separate file, like `search.js` living in the `your-hugo-site/static/js/search.js` directory which can then be invoked using Hugo Partials[^2].
 For posterity, here's the JS code:
 
-{{< highlight javascript >}}
+```javascript
 (function () {
   function updateCount(count) {
     var listCount = document.getElementById("list-count");
@@ -111,7 +111,7 @@ For posterity, here's the JS code:
     search.addEventListener("keyup", onEvent);
   }
 })();
-{{< / highlight >}}
+```
 
 ## How A Transaction Looks Like
 

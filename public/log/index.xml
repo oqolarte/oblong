@@ -11,22 +11,31 @@
     
     
     <item>
-      <title>Next WORKING TITLE</title>
-      <link>/next/</link>
-      <pubDate>Wed, 20 Jan 2021 10:13:12 +0800</pubDate>
+      <title>No New Interesting</title>
+      <link>/nonew/</link>
+      <pubDate>Tue, 26 Jan 2021 10:13:12 +0800</pubDate>
       
-      <guid>/next/</guid>
+      <guid>/nonew/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed this site&amp;rsquo;s title, from &lt;em&gt;&lt;strong&gt;of somersaulting&lt;/strong&gt;&lt;/em&gt; to &lt;em&gt;&lt;strong&gt;to oblique lair&lt;/strong&gt;&lt;/em&gt;.
 The latter is an anagram of my middle and surname.
-It also emits a certain mystery that kind of misleads.
+I&amp;rsquo;d like to think that it emits a certain mystery that kind of misleads.
+If that sounds like equine shite, maybe because it is.
 Look up &amp;ldquo;anagram maker&amp;rdquo; on your favorite search engine if you&amp;rsquo;re into that kind of fun.&lt;/li&gt;
 &lt;li&gt;Added some new recommendations in the &lt;a href=&#34;/encode/&#34;&gt;Encoding&lt;/a&gt; project&lt;/li&gt;
 &lt;li&gt;Edited some lines and addded footnotes in &lt;a href=&#34;/site/&#34;&gt;This Site&lt;/a&gt; project&lt;/li&gt;
 &lt;li&gt;New CSS for &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks using &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Hugo&amp;rsquo;s built-in syntax highlighting&lt;/a&gt;.
 Currently, I am using the &lt;code&gt;monokai&lt;/code&gt; theme.&lt;/li&gt;
-&lt;li&gt;Added new section in &lt;a href=&#34;/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project that briefly explains about a newly added search function feature.&lt;/li&gt;
+&lt;li&gt;Added new section in &lt;a href=&#34;/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project that briefly explains about a newly added search function feature using JavaScript. 😨&lt;/li&gt;
+&lt;li&gt;Updated my CV using Pandoc.
+It is now two pages long, so I may have to readjust the margins.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;This is mostly changelog that I decided to post because this list is getting long enough.
+No new interesting narratives for now.&lt;/p&gt;
+&lt;p&gt;Well, tomorrow, we scheduled a trip to Liliw.
+We hope to see waterfalls and trees.
+Maybe I can share some photo/s in the next post.&lt;/p&gt;
+&lt;p&gt;If all goes well, it would be my first long trip since the Pandemic started, and outside the capital at that.&lt;/p&gt;
 </description>
     </item>
     
