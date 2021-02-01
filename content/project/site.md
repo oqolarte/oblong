@@ -92,10 +92,9 @@ Besides, nothing in the internet is perfectly safe.
 
 So why this "distaste" for JS in websites?
 
-Mainly it's because I don't know enough of it (yet) to even consider baking it into the site.
-If it's something that I don't know how to fully utilize, then it's bloat to me.
-Also, given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
+Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It's absence is definitely beneficial, because there's less code to maintain.
+
 
 ### No Ads
 Only marketers like ads[^1][^2].
