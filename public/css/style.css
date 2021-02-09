@@ -3,7 +3,8 @@
 	a:link {color:#9cf}
 	a:hover, a:visited:hover {color:#cef}
 	a:visited {color:#c9f}
-    blockquote {color:#faebbc;background:#2e5df0}
+    blockquote {color:#f6a88d;background:#bceafa}
+    .footnote-ref, .footnote-backref {background:#909090}
 }
 body{
 	margin:1em auto;
