@@ -6,6 +6,7 @@ draft: false
 ---
 - Reworked the color of blockquotes on a dark-themed system.
 - Added background color to footnote (back) reference links, so they can be easily distinguished.
+- Added a few emojis
 
 I have long since acknowledged my terri(ble/fic) demeanor.
 I am (im)patient, it goes without saying, and I have to check myself constantly before doing something or opening my mouth.

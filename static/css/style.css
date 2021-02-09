@@ -3,8 +3,6 @@
 	a:link {color:#9cf}
 	a:hover, a:visited:hover {color:#cef}
 	a:visited {color:#c9f}
-    blockquote {color:#f6a88d;background:#bceafa}
-    .footnote-ref, .footnote-backref {background:#909090}
 }
 body{
 	margin:1em auto;
@@ -26,10 +24,10 @@ figcaption {
 }
 blockquote {
   font: 1.1em/1.5 serif;
-  padding: 8px;
-  background: #faebbc;
-  color: #2e5df0;
-  border-top: 1.5px solid #e1cc89;
+  padding: 1.1em;
+  background: #eff02e;
+  color: #1816ee;
+  border-top: 5px solid #e1cc89;
   border-bottom: 1px solid #e1cc89;
 }
 
@@ -46,8 +44,8 @@ code,kbd,pre,samp {
 .tab {padding-left: 2px}
 .footnotes { font-size: 0.9em}
 .footnote-ref, .footnote-backref {
-        background: #efdfcf;
-        border-radius: 0.2em;
+        background: #a9a9a9;
+        border-radius: 0.15em;
         padding: 0.15em;
 }
 .statusOnGoing {
