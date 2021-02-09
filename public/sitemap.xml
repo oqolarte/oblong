@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/nowork/</loc>
-    <lastmod>2021-02-04T15:46:04+08:00</lastmod>
+    <loc>/badimp/</loc>
+    <lastmod>2021-02-09T16:03:04+08:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2021-02-09T16:03:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/nowork/</loc>
     <lastmod>2021-02-04T15:46:04+08:00</lastmod>
   </url>
   

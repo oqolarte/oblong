@@ -9,9 +9,9 @@ draft: false
 'Nay Merci, Isya's mom, sent her iPod Classic[^1] to me for repair, a device that's at least ten years old now.
 It's life can still be stretched by upgrading some of its components.
 
-Back in 2018, I did a similar upgrade on Isya's iPod classic, which I wrote about on *our* blog[^2], so doing this isn't something new.
+Back in 2018, I did a similar upgrade on Isya's iPod Classic, which I wrote about on *our* blog[^2], so doing this isn't something new.
 
-In this post, I'll discuss an overview of what I did.
+In this post, I'll discuss the overview of what I did.
 This isn't necessarily a step-by-step guide, and shouldn't be considered as such. 
 It's merely an attempt to document the process through a crappy camera and poor lighting that I have.
 Pardon the amateur.
@@ -20,9 +20,9 @@ Pardon the amateur.
 
 ## Getting what I need
 
-In this section, I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.
+Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.
 
-{{< figure src="/image/mi1.jpeg" alt="a spread of items needed to upgrade the ipod, including hard drive and prying tools" caption="TOP HALF, LEFT TO RIGHT: iPod, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools" >}}
+{{< figure src="/image/mi1.jpeg" alt="a spread of items needed to upgrade the ipod, including hard drive and prying tools" caption="TOP HALF, LEFT TO RIGHT: iPod Classic, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools" >}}
 
 ### iFlash-Quad
 
@@ -33,7 +33,7 @@ The iFlash site has [helpful tips and advice](https://www.iflash.xyz/helpful-tip
 Even when there was a slight problem in shipping (probably due the on-going Pandemic), the iFlash team was quick to resolve the problem, at no extra cost.
 Great customer service, if you ask me!
 
-**iFlash-Quad** is, in my opinion, the best bang-for-buck purchase for this iPod.
+iFlash-Quad is, in my opinion, the best bang-for-buck purchase for this iPod.
 Good capacity is 256Gb to 1Tb!
 
 From their site:
@@ -44,8 +44,8 @@ From their site:
 > Intelligent power management with much lower power consumption than the original Hard drive, longer runtimes and quicker user interface.
 
 It's true.
-I've done this in Isya's iPod, and it has worked better since I upgraded it.
-So I know it will improve 'Nay Merci's iPod.
+I've done this in Isya's iPod, and it has worked better since its upgraded.
+So I know it will improve 'Nay Merci's iPod, which I'll unofficially call Mercipod.
 
 ### MicroSD Cards
 
@@ -80,7 +80,7 @@ Look up with terms like "plastic prying tools for electronics".
 
 Not included in the picture above, sorry about that.
 This will come in handy when putting back the battery ribbon to its slot.
-Details on this later.
+More on this later.
 
 ### Video Tutorial
 
@@ -103,7 +103,7 @@ The rest will be easy, if not manageable.
 
 If this is your first time opening an iPod, take your time.
 Go over your chosen guide (or video tutorial) again as long as you need to.
-It's better to make sure, than force something then breaking it needlessly.
+It's better to make sure, than force something  and then breaking it needlessly.
 
 This is my second time doing this, so I'm more confident.
 
@@ -132,7 +132,7 @@ Refer to the video tutorial first on how exactly this is done.
 
 {{< figure src="/image/mi3.jpeg" alt="an opened ipod" caption="Disconnecting the battery ribbon" >}}
 
-After successfully disengaging all clips, flip the iPod so it is facing down your work surface.
+After successfully disengaging all clips, flip the iPod so it is facing down on your work surface.
 Slowly carefully lift the back chassis.
 You shouldn't open it wide yet, because there's a battery ribbon still connected.
 
@@ -197,7 +197,7 @@ Give it a light tug to ensure that it isn't loosely connected.
 Press some buttons to check first if the iPod is turning on.
 Under normal circumstances, it should.
 If it doesn't, trying recharging it.
-If during the process of opening the iPod, you damaged it, repairing it after that is beyond the scope of this post.
+If during the process of opening the iPod, you somehow damaged it that it wouldn't turn on, it's beyond the scope of this post.
 
 The iPod is now ready to be closed.
 While making sure the back is aligned to the front chassis, push down on the metal.
