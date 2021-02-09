@@ -1,6 +1,6 @@
 ---
 title: "Bad Habit: Impatience"
-date: 2021-02-08T17:31:45+08:00
+date: 2021-02-09T07:31:45+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
