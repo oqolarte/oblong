@@ -5,7 +5,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
 
-{{< figure src="/image/esmeris2.jpeg" alt="foliage, forest" caption="Imagine being surrounded by this" >}}
+{{< figure src="/image/esmeris.jpeg" alt="foliage, forest" caption="Imagine being surrounded by this" >}}
 
 I'd like to think that I was present the entire trip from Rizal to Laguna and back, that's why I only manage to take a few photos.
 In reality, the trip exhausted me and my companions.
