@@ -25,10 +25,10 @@ figcaption {
 blockquote {
   font: 1.1em/1.4 serif;
   padding: 0.9em;
-  background: #ebe3e3;
-  color: #485460;
-  border-top: 5px solid #e1cc89;
-  border-bottom: 5px solid #e1cc89;
+  background: #fcb001;
+  color: #040348;
+  border-top: 5px solid #6b7c85;
+  border-bottom: 5px solid #6b7c85;
 }
 
 code,kbd,pre,samp {
