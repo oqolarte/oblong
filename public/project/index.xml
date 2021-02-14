@@ -240,7 +240,7 @@ Without prior knowledge, one would think that the iPod was not designed to be ma
       
       <guid>/encode/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
-&lt;p&gt;One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge Emmanuel.&lt;/p&gt;
+&lt;p&gt;One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.&lt;/p&gt;
 &lt;p&gt;Here is an attempt to document the entire process.&lt;/p&gt;
 &lt;h2 id=&#34;scope-of-work&#34;&gt;Scope of Work&lt;/h2&gt;
 &lt;p&gt;The documents that we&amp;rsquo;re talking about here are printed articles written by Tito Jorge.
@@ -249,12 +249,15 @@ He&amp;rsquo;s quite the writer, so each article easily goes above 4,000 words.&
 &lt;p&gt;The initial suggestion was to manually typewrite &lt;em&gt;everything&lt;/em&gt;.
 Surely, though, there must be a smarter way to make softcopies?&lt;/p&gt;
 &lt;h2 id=&#34;scanning-of-documents&#34;&gt;Scanning of Documents&lt;/h2&gt;
-&lt;p&gt;Currently, we have no scanner per se in our home.&lt;/p&gt;
+&lt;p&gt;Currently, we have no scanner in our home.&lt;/p&gt;
 &lt;p&gt;Instead, I used the Adobe Scan app on the iPhone that I still had.
 It&amp;rsquo;s fine.
 I just had to make sure that the text in each scanned page was readable.&lt;/p&gt;
 &lt;p&gt;The scanned files are in PDF format.&lt;/p&gt;
-&lt;p&gt;Then, I AirDropped the scanned files to Isya&amp;rsquo;s MacBook, because that&amp;rsquo;s where I would be working on them.&lt;/p&gt;
+&lt;p&gt;Then, I AirDropped the scanned files to Isya&amp;rsquo;s MacBook, because that&amp;rsquo;s where I would be working on them.
+AirDrop is limited to Apple devices;
+it&amp;rsquo;s Apple&amp;rsquo;s fancy way of transferring files over bluetooth.
+The magic lies in how incredibly fast the transfer time is, even in large batches of files.&lt;/p&gt;
 &lt;p&gt;Of course, one doesn&amp;rsquo;t need Apple devices to do these.
 Just remember that the important things here are:&lt;/p&gt;
 &lt;ul&gt;
@@ -277,11 +280,11 @@ The max file size is also limited to 15 MB.&lt;/p&gt;
 For this, I used &lt;a href=&#34;https://temp-mail.org&#34;&gt;Temp Mail&lt;/a&gt; which &amp;ldquo;provides temporary, secure, anonymous, free, disposable email address.&amp;rdquo;
 Keep this tab (or window) open for as long you need this.&lt;/p&gt;
 &lt;p&gt;When you click SIGN UP on the upper right of the page, you will be prompted to fill up a form:&lt;/p&gt;
-&lt;p&gt;Enter username:     [&lt;em&gt;enter any gibberish&lt;/em&gt;]&lt;br&gt;
-Enter password&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:     [&lt;em&gt;enter any gibberish&lt;/em&gt;]&lt;br&gt;
-Confirm password:   [&lt;em&gt;same as above&lt;/em&gt;]&lt;br&gt;
-Enter E-mail:       [&lt;em&gt;Copy the email from Temp Mail&lt;/em&gt;]&lt;br&gt;
-Enter Captcha code: [&lt;em&gt;captcha code here&lt;/em&gt;]&lt;/p&gt;
+&lt;p&gt;Enter username: &lt;code&gt;[enter any gibberish]&lt;/code&gt;&lt;br&gt;
+Enter password&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;: &lt;code&gt;[enter any gibberish]&lt;/code&gt;&lt;br&gt;
+Confirm password: &lt;code&gt;[same as above]&lt;/code&gt;&lt;br&gt;
+Enter E-mail: &lt;code&gt;[Copy the email from Temp Mail]&lt;/code&gt;&lt;br&gt;
+Enter Captcha code: &lt;code&gt;[captcha code here*&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;And &lt;del&gt;blindly&lt;/del&gt; accept the Terms of Service and Privacy Policy in the checkbox.&lt;/p&gt;
 &lt;p&gt;Log in once you&amp;rsquo;ve successfully signed up.&lt;/p&gt;
 &lt;p&gt;Logging in increases your wiggle room, namely:&lt;/p&gt;
@@ -299,8 +302,7 @@ The OCR converter will have tried its best in recognizing the text, tables, and 
 The quality of the converted docx will greatly depend on the scanning process, but even then, the final output won&amp;rsquo;t be perfect.&lt;/p&gt;
 &lt;p&gt;Open your favorite word processor.
 I used Microsoft Word in the MacBook.&lt;/p&gt;
-&lt;p&gt;This is the most labor-intensive part of the whole process.&lt;/p&gt;
-&lt;p&gt;These are the things to do:&lt;/p&gt;
+&lt;p&gt;This is the most labor-intensive part of the whole process which includes these things to do:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;check the spelling;&lt;/li&gt;
 &lt;li&gt;check the punctuation marks;&lt;/li&gt;
@@ -308,6 +310,7 @@ I used Microsoft Word in the MacBook.&lt;/p&gt;
 &lt;li&gt;recreate the data tables, if need be;&lt;/li&gt;
 &lt;li&gt;rescan and include any important images;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;I have processed about 133 pages of scholarly articles, done in about 13 hours (non-continuous).&lt;/p&gt;
 &lt;h2 id=&#34;recommendations&#34;&gt;Recommendation/s&lt;/h2&gt;
 &lt;p&gt;To future-proof the articles, it would be nice to convert them also to plaintext (txt).
 Plaintext ensures that it can be ported to other computers and platforms, while eating as little memory space as possible.&lt;/p&gt;
@@ -317,7 +320,7 @@ Plaintext ensures that it can be ported to other computers and platforms, while 
 Take note (ha!) of the legibility of your handwriting;
 the OCR might not recognize your cursive penmanship!&lt;/p&gt;
 &lt;p&gt;Or perhaps, you own a distraction-free, old-but-working-still typewriter?
-Type your thoughts in a distraction-free machine&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, and then edit and/or finalize the digital copy.&lt;/p&gt;
+Type your thoughts in a distraction-free machine&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, scan, and edit and/or finalize the digital copy.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -527,7 +530,7 @@ It&amp;rsquo;s a more endearing term, I believe, than, say, a public-facing jour
 They all function the same.&lt;/p&gt;
 &lt;p&gt;This site, then, is my digital garden.
 Expect that things will be corrected, deleted, edited, fed, &lt;em&gt;grown&lt;/em&gt;, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.&lt;/p&gt;
+People change (they need to, lest they stagnate), and every fiber of their being changes with them, literally.&lt;/p&gt;
 &lt;h3 id=&#34;public-repository-of-independent-research&#34;&gt;Public Repository of Independent Research&lt;/h3&gt;
 &lt;p&gt;Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all.
 I am going the more &amp;ldquo;progressive&amp;rdquo; route of bypassing the traditional way to PhD.
@@ -607,8 +610,17 @@ If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s not going in.
 There are several tools you can use to do this.
 &lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Personally, I use &lt;a href=&#34;https://imagemagick.org/&#34;&gt;ImageMagick&lt;/a&gt;, which is a free image manipulation tool that I can access in my command line offline.
-It&amp;rsquo;s available in many platforms including Linux, Windows, macOS, iOS, Android, etc.&lt;/p&gt;
+&lt;p&gt;Nowadays, I  tend to use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
+&lt;p&gt;From the command line, I do something like:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;imgp -x 1366x0 --quality=85 -pew ~/image.jpg
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-x&lt;/code&gt; is output resolution in HRESxVRES.
+Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;--quality&lt;/code&gt; is the quality factor.
+Here, I set it to 85.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-pew&lt;/code&gt; combines three options: optimize, erase EXIF metadata&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, and overwrite source images respectively.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.&lt;/p&gt;
@@ -622,7 +634,7 @@ Since web browsers can only read HTML files, compilation means that SSG converts
 And if you&amp;rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).&lt;/p&gt;
 &lt;p&gt;It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p&gt;
-&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
 &lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
 &lt;p&gt;There are a lot of tutorials online on how to start a blog using Hugo.
 A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
@@ -635,7 +647,7 @@ Your mileage may vary.&lt;/p&gt;
 &lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to read the documentation.
 Some documentations are good, some are bad, some don&amp;rsquo;t even exist!
 In any case, you can also ask the community if you&amp;rsquo;re stuck somewhere.
-Hugo has a decent documentation&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+Hugo has a decent documentation&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
 &lt;p&gt;Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&amp;rsquo;ll see.
@@ -685,12 +697,20 @@ I haven&amp;rsquo;t got any proof of it yet. &lt;a href=&#34;#fnref:1&#34; class
 &lt;p&gt;Maybe the creatives who are coerced into doing the visuals also like their work. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs! &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
+Visit their page for more info. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
+As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs! &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;By &amp;ldquo;decent&amp;rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&amp;rsquo;s reliable.
-However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing. &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;

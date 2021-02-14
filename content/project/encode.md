@@ -6,7 +6,7 @@ draft: false
 ---
 ## Status: On-going {.statusOnGoing}
 
-One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge Emmanuel.
+One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.
 
 Here is an attempt to document the entire process.
 
@@ -22,7 +22,7 @@ Surely, though, there must be a smarter way to make softcopies?
 
 ## Scanning of Documents
 
-Currently, we have no scanner per se in our home.
+Currently, we have no scanner in our home.
 
 Instead, I used the Adobe Scan app on the iPhone that I still had.
 It's fine.
@@ -31,6 +31,9 @@ I just had to make sure that the text in each scanned page was readable.
 The scanned files are in PDF format.
 
 Then, I AirDropped the scanned files to Isya's MacBook, because that's where I would be working on them.
+AirDrop is limited to Apple devices;
+it's Apple's fancy way of transferring files over bluetooth.
+The magic lies in how incredibly fast the transfer time is, even in large batches of files.
 
 Of course, one doesn't need Apple devices to do these.
 Just remember that the important things here are:
@@ -62,11 +65,11 @@ Keep this tab (or window) open for as long you need this.
 
 When you click SIGN UP on the upper right of the page, you will be prompted to fill up a form:
 
-Enter username:     [*enter any gibberish*]  
-Enter password[^1]:     [*enter any gibberish*]  
-Confirm password:   [*same as above*]  
-Enter E-mail:       [*Copy the email from Temp Mail*]  
-Enter Captcha code: [*captcha code here*]
+Enter username: `[enter any gibberish]`  
+Enter password[^1]: `[enter any gibberish]`  
+Confirm password: `[same as above]`  
+Enter E-mail: `[Copy the email from Temp Mail]`  
+Enter Captcha code: `[captcha code here*`  
 
 And ~~blindly~~ accept the Terms of Service and Privacy Policy in the checkbox.
 
@@ -92,14 +95,14 @@ The quality of the converted docx will greatly depend on the scanning process, b
 Open your favorite word processor.
 I used Microsoft Word in the MacBook.
 
-This is the most labor-intensive part of the whole process.
-
-These are the things to do:
+This is the most labor-intensive part of the whole process which includes these things to do:
 - check the spelling;
 - check the punctuation marks;
 - check the formatting;
 - recreate the data tables, if need be;
 - rescan and include any important images;
+
+I have processed about 133 pages of scholarly articles, done in about 13 hours (non-continuous).
 
 ## Recommendation/s
 
@@ -114,7 +117,7 @@ Take note (ha!) of the legibility of your handwriting;
 the OCR might not recognize your cursive penmanship!
 
 Or perhaps, you own a distraction-free, old-but-working-still typewriter?
-Type your thoughts in a distraction-free machine[^2], and then edit and/or finalize the digital copy.
+Type your thoughts in a distraction-free machine[^2], scan, and edit and/or finalize the digital copy.
 
 [^1]: To easily come up with a password, this would be the best time to start using a [password manager](https://privacytools.io/software/passwords/#pw).
 Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.

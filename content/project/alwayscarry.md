@@ -113,6 +113,7 @@ For posterity, here's the JS code:
 })();
 ```
 
+
 ## How A Transaction Looks Like
 
 Here, I outline the processes involved for the customer and the dealer.

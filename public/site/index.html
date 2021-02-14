@@ -65,7 +65,7 @@ It&rsquo;s a more endearing term, I believe, than, say, a public-facing journal 
 They all function the same.</p>
 <p>This site, then, is my digital garden.
 Expect that things will be corrected, deleted, edited, fed, <em>grown</em>, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.</p>
+People change (they need to, lest they stagnate), and every fiber of their being changes with them, literally.</p>
 <h3 id="public-repository-of-independent-research">Public Repository of Independent Research</h3>
 <p>Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all.
 I am going the more &ldquo;progressive&rdquo; route of bypassing the traditional way to PhD.
@@ -145,8 +145,17 @@ If it it&rsquo;s not adding value content-wise, it&rsquo;s not going in.</li>
 There are several tools you can use to do this.
 <a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.</li>
 </ul>
-<p>Personally, I use <a href="https://imagemagick.org/">ImageMagick</a>, which is a free image manipulation tool that I can access in my command line offline.
-It&rsquo;s available in many platforms including Linux, Windows, macOS, iOS, Android, etc.</p>
+<p>Nowadays, I  tend to use <a href="https://github.com/jarun/imgp">imgp</a><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, a &ldquo;high-performance cli batch image resizer and rotator,&rdquo; that I can use offline.</p>
+<p>From the command line, I do something like:</p>
+<pre><code>imgp -x 1366x0 --quality=85 -pew ~/image.jpg
+</code></pre><p>where:</p>
+<ul>
+<li><code>-x</code> is output resolution in HRESxVRES.
+Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.</li>
+<li><code>--quality</code> is the quality factor.
+Here, I set it to 85.</li>
+<li><code>-pew</code> combines three options: optimize, erase EXIF metadata<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>, and overwrite source images respectively.</li>
+</ul>
 <h2 id="back-end">Back-end</h2>
 <p>I use <a href="https://gohugo.io">Hugo</a> static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.</p>
@@ -160,7 +169,7 @@ Since web browsers can only read HTML files, compilation means that SSG converts
 And if you&rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).</p>
 <p>It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.</p>
-<p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> anytime!</p>
+<p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> anytime!</p>
 <h3 id="using-hugo">Using Hugo</h3>
 <p>There are a lot of tutorials online on how to start a blog using Hugo.
 A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
@@ -173,7 +182,7 @@ Your mileage may vary.</p>
 <p>As with everything else, it&rsquo;s important to be patient and willing to read the documentation.
 Some documentations are good, some are bad, some don&rsquo;t even exist!
 In any case, you can also ask the community if you&rsquo;re stuck somewhere.
-Hugo has a decent documentation<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.</p>
+Hugo has a decent documentation<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
 <p>My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
 <p>Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&rsquo;ll see.
@@ -223,12 +232,20 @@ I haven&rsquo;t got any proof of it yet. <a href="#fnref:1" class="footnote-back
 <p>Maybe the creatives who are coerced into doing the visuals also like their work. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3" role="doc-endnote">
-<p>Check out <a href="https://jamstack.org/generators/">Jamstack</a> for a list of hundreds of possible SSGs! <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>It&rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
+Visit their page for more info. <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4" role="doc-endnote">
+<p>Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
+As an added bonus, it&rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5" role="doc-endnote">
+<p>Check out <a href="https://jamstack.org/generators/">Jamstack</a> for a list of hundreds of possible SSGs! <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6" role="doc-endnote">
 <p>By &ldquo;decent&rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&rsquo;s reliable.
-However, the more complex you make your site, you&rsquo;ll find that Hugo documentation still needs more polishing. <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+However, the more complex you make your site, you&rsquo;ll find that Hugo documentation still needs more polishing. <a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>

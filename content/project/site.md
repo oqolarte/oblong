@@ -19,7 +19,7 @@ They all function the same.
 
 This site, then, is my digital garden.
 Expect that things will be corrected, deleted, edited, fed, *grown*, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and and every fiber of their being changes with them, literally.
+People change (they need to, lest they stagnate), and every fiber of their being changes with them, literally.
 
 ### Public Repository of Independent Research
 
@@ -119,8 +119,20 @@ If it it's not adding value content-wise, it's not going in.
 There are several tools you can use to do this.
 [Tiny JPG](https://tinyjpg.com) is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
 
-Personally, I use [ImageMagick](https://imagemagick.org/), which is a free image manipulation tool that I can access in my command line offline. 
-It's available in many platforms including Linux, Windows, macOS, iOS, Android, etc.
+Nowadays, I  tend to use [imgp](https://github.com/jarun/imgp)[^3], a "high-performance cli batch image resizer and rotator," that I can use offline. 
+
+From the command line, I do something like:
+
+```
+imgp -x 1366x0 --quality=85 -pew ~/image.jpg
+```
+
+where:
+- `-x` is output resolution in HRESxVRES.
+Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.
+- `--quality` is the quality factor.
+Here, I set it to 85.
+- `-pew` combines three options: optimize, erase EXIF metadata[^4], and overwrite source images respectively.
 
 ## Back-end
 
@@ -142,7 +154,7 @@ And if you're like me whose website comprises only HTML and CSS files, compilati
 It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.
 
-But I'll take the massive freedom gains provided by SSGs[^3] anytime!
+But I'll take the massive freedom gains provided by SSGs[^5] anytime!
 
 ### Using Hugo
 
@@ -161,7 +173,7 @@ Your mileage may vary.
 As with everything else, it's important to be patient and willing to read the documentation.
 Some documentations are good, some are bad, some don't even exist!
 In any case, you can also ask the community if you're stuck somewhere.
-Hugo has a decent documentation[^4].
+Hugo has a decent documentation[^6].
 
 My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.
 
@@ -211,7 +223,11 @@ When all of the items in this (growing) list is ticked off, this TODO segment wi
 [^1]: That's just a wild claim.
 I haven't got any proof of it yet.
 [^2]: Maybe the creatives who are coerced into doing the visuals also like their work.
-[^3]: Check out [Jamstack](https://jamstack.org/generators/) for a list of hundreds of possible SSGs!
-[^4]: By "decent" I mean it covers all the basic needs to help you set up a working site.
+[^3]: It's available in many Unix-like systems, including Linux distros, and macOS.
+Visit their page for more info.
+[^4]: Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
+As an added bonus, it's scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.
+[^5]: Check out [Jamstack](https://jamstack.org/generators/) for a list of hundreds of possible SSGs!
+[^6]: By "decent" I mean it covers all the basic needs to help you set up a working site.
 In its current state, it's reliable.
 However, the more complex you make your site, you'll find that Hugo documentation still needs more polishing.
