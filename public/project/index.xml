@@ -239,7 +239,7 @@ Without prior knowledge, one would think that the iPod was not designed to be ma
       <pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate>
       
       <guid>/encode/</guid>
-      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
+      <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
 &lt;p&gt;One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.&lt;/p&gt;
 &lt;p&gt;Here is an attempt to document the entire process.&lt;/p&gt;
 &lt;h2 id=&#34;scope-of-work&#34;&gt;Scope of Work&lt;/h2&gt;
@@ -284,7 +284,7 @@ Keep this tab (or window) open for as long you need this.&lt;/p&gt;
 Enter password&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;: &lt;code&gt;[enter any gibberish]&lt;/code&gt;&lt;br&gt;
 Confirm password: &lt;code&gt;[same as above]&lt;/code&gt;&lt;br&gt;
 Enter E-mail: &lt;code&gt;[Copy the email from Temp Mail]&lt;/code&gt;&lt;br&gt;
-Enter Captcha code: &lt;code&gt;[captcha code here*&lt;/code&gt;&lt;/p&gt;
+Enter Captcha code: &lt;code&gt;[captcha code here]&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;And &lt;del&gt;blindly&lt;/del&gt; accept the Terms of Service and Privacy Policy in the checkbox.&lt;/p&gt;
 &lt;p&gt;Log in once you&amp;rsquo;ve successfully signed up.&lt;/p&gt;
 &lt;p&gt;Logging in increases your wiggle room, namely:&lt;/p&gt;
@@ -558,7 +558,7 @@ Each one begins with Table of Contents (ToC), so that readers will have an overv
 Readers can click each topic in the ToC if they feel like jumping to that part already.
 The write-ups will be a healthy blend of creative and technical writing, to prevent you from getting bored, something I won&amp;rsquo;t afford to do in a formal setting.
 Of course, I&amp;rsquo;ll include citations properly.&lt;/p&gt;
-&lt;p&gt;The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes), is a whole separate thing.
+&lt;p&gt;The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes anyway), is a whole separate thing.
 I don&amp;rsquo;t consider it a section of this site, though.
 It&amp;rsquo;s only a link that you can copy and paste on your favorite RSS reader.
 A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.&lt;/p&gt;

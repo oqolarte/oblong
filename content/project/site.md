@@ -60,7 +60,7 @@ Readers can click each topic in the ToC if they feel like jumping to that part a
 The write-ups will be a healthy blend of creative and technical writing, to prevent you from getting bored, something I won't afford to do in a formal setting.
 Of course, I'll include citations properly.
 
-The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes), is a whole separate thing.
+The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes anyway), is a whole separate thing.
 I don't consider it a section of this site, though.
 It's only a link that you can copy and paste on your favorite RSS reader.
 A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.

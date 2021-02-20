@@ -4,7 +4,7 @@ date: 2021-01-18T16:48:23+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "encoding", "hardcopy to softcopy"]
 draft: false
 ---
-## Status: On-going {.statusOnGoing}
+## Status: Done {.statusDone}
 
 One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.
 
@@ -69,7 +69,7 @@ Enter username: `[enter any gibberish]`
 Enter password[^1]: `[enter any gibberish]`  
 Confirm password: `[same as above]`  
 Enter E-mail: `[Copy the email from Temp Mail]`  
-Enter Captcha code: `[captcha code here*`  
+Enter Captcha code: `[captcha code here]`  
 
 And ~~blindly~~ accept the Terms of Service and Privacy Policy in the checkbox.
 
