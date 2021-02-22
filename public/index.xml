@@ -6,10 +6,23 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 15:05:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 08:05:17 +0800</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Support</title>
+      <link>/support/</link>
+      <pubDate>Sat, 20 Feb 2021 17:36:42 +0800</pubDate>
+      
+      <guid>/support/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m always polishing my projects listed in this site, so that they&amp;rsquo;re updated, and more importantly, as accessible to as many as possible.&lt;/p&gt;
+&lt;p&gt;Consider supporting my work if you find it helpful or enjoyable in any way, via Liberapay:&lt;br&gt;
+&lt;a href=&#34;https://liberapay.com/oqo_frxbj/donate&#34;&gt; &lt;img src=&#34;https://liberapay.com/assets/widgets/donate.svg&#34; alt=&#34;Donate using Liberapay&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you prefer other means of supporting me, please email me.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Log</title>
