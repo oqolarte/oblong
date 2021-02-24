@@ -128,7 +128,7 @@ imgp -x 1366x0 --quality=85 -pew ~/image.jpg
 ```
 
 where:
-- `-x` is output resolution in HRESxVRES.
+- `-x` is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.
 - `--quality` is the quality factor.
 Here, I set it to 85.
@@ -221,7 +221,7 @@ Here's a wishlist of sorts that I need to do for this site:
 When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.
 
 [^1]: That's just a wild claim.
-I haven't got any proof of it yet.
+I have no proof of it *yet*, but absence of evidence doesn't mean evidence of absence, *no*?
 [^2]: Maybe the creatives who are coerced into doing the visuals also like their work.
 [^3]: It's available in many Unix-like systems, including Linux distros, and macOS.
 Visit their page for more info.

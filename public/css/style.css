@@ -8,7 +8,7 @@ body{
 	margin:1em auto;
 	max-width:40em;
 	padding: 0.69em;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, Tahoma, sans-serif;
     font-size: 1.2em;
     line-height: 1.5;
 }
@@ -23,12 +23,12 @@ figcaption {
 	color: #808080;
 }
 blockquote {
-  font: 1.1em/1.4 serif;
-  padding: 0.9em;
-  background: #fcb001;
-  color: #040348;
-  border-top: 5px solid #6b7c85;
-  border-bottom: 5px solid #6b7c85;
+        font: 1.1em/1.4 serif;
+        padding: 0.9em;
+        background: #fcb001;
+        color: #040348;
+        border-top: 5px solid #6b7c85;
+        border-bottom: 5px solid #6b7c85;
 }
 
 code,kbd,pre,samp {
@@ -37,9 +37,8 @@ code,kbd,pre,samp {
         overflow-x: auto;
 }
 
-@media print{
-	body{max-width:100%}
-}
+@media print{ body{max-width:100%} }
+
 .small {font-size: 0.8em}
 .tab {padding-left: 2px}
 .footnotes { font-size: 0.9em}
@@ -58,5 +57,5 @@ code,kbd,pre,samp {
 }
 .statusDone {
         text-shadow: 1px 1px 2px #ca76b4;
-        color: #76ca8c;
+        color: #76c78c;
 }

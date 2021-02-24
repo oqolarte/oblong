@@ -506,10 +506,60 @@ For more info, &lt;a href=&#34;https://gohugo.io/templates/partials/#readout&#34
       
       <guid>/server/</guid>
       <description>&lt;h2 class=&#34;statusOpen&#34; id=&#34;status-open&#34;&gt;Status: Open&lt;/h2&gt;
-&lt;p&gt;I want to host my site in a server that I own.
-The server will actually be an old laptop that&amp;rsquo;s just lying around here.
+&lt;p&gt;I want to host this very site you&amp;rsquo;re in in a server that I own.&lt;/p&gt;
+&lt;p&gt;Simply put, a server is just like any other computer, with lots of functionalities, like providing services or serving files to other computers (clients, as they are called in this context) that access it.&lt;/p&gt;
+&lt;p&gt;In my use case, I will use it to host the HTML files of this site, and serve it to you, visitors, through your device/s (clients).&lt;/p&gt;
+&lt;p&gt;The server will actually be an old laptop that&amp;rsquo;s just lying around here.
 And it&amp;rsquo;s not actually mine.
-The &lt;a href=&#34;https://www.laptopmag.com/reviews/laptops/msi-wind&#34;&gt;MSI Wind Netbook&lt;/a&gt; belongs to Isya, and I got her permission to use it for this project.&lt;/p&gt;
+The &lt;a href=&#34;https://www.laptopmag.com/reviews/laptops/msi-wind-u123&#34;&gt;MSI Wind Netbook&lt;/a&gt; belongs to Isya, and I got her permission to use it for this project.&lt;/p&gt;
+&lt;h2 id=&#34;specifications-of-the-machine&#34;&gt;Specifications of the Machine&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bluetooth 2.0&lt;/li&gt;
+&lt;li&gt;CPU: 1.66-GHZ Intel Atom N280&lt;/li&gt;
+&lt;li&gt;Display size: 10.2&amp;quot;&lt;/li&gt;
+&lt;li&gt;Graphics card: Intel GMA 950&lt;/li&gt;
+&lt;li&gt;Hard drive size: 80Gb&lt;/li&gt;
+&lt;li&gt;Hard drive speed: 5,400rpm&lt;/li&gt;
+&lt;li&gt;Hard drive type: SATA hard drive&lt;/li&gt;
+&lt;li&gt;Native resolution: 1024x600&lt;/li&gt;
+&lt;li&gt;Operating system (OS, default): MS Windows XP Home&lt;/li&gt;
+&lt;li&gt;Ports (excluding USB): VGA, Microphone, Headphone, Ethernet&lt;/li&gt;
+&lt;li&gt;RAM: 2Gb&lt;/li&gt;
+&lt;li&gt;Weight: 1.45 kg (3.2 lbs)&lt;/li&gt;
+&lt;li&gt;Wifi: 802.11b/g&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;its-old&#34;&gt;It&amp;rsquo;s old&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;By today&amp;rsquo;s standards, it&amp;rsquo;s an old machine.
+If the numbers don&amp;rsquo;t make sense to you, just look at the OS:
+it shipped with Windows XP!&lt;/p&gt;
+&lt;p&gt;Back in the day, Windows XP received many praises for its performance.
+These days, though, it&amp;rsquo;s vulnerable to a lot of cyberattacks, more so that &lt;a href=&#34;www.microsoft.com/en-us/microsoft-365/windows/end-of-windows-xp-support&#34;&gt;Microsoft has stopped supporting it since 2014&lt;/a&gt;.
+And yet, some institutions still use it.
+If their computers are connected to the Internet, they are exposed to black hat hackers.&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;/image/msi-wind.jpeg&#34;
+         alt=&#34;screenshot of the laptop&amp;#39;s system properties&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;And now, a crappy photo of the laptop&amp;rsquo;s system properties&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;-but-works-fine&#34;&gt;&amp;hellip; but works fine.&lt;/h3&gt;
+&lt;p&gt;Just because it&amp;rsquo;s old doesn&amp;rsquo;t mean it&amp;rsquo;s no longer valuable.
+For its age, its quick to boot up.
+It would likely improve if and when the hard drive is replaced with a solid state drive, although, doing so is really unnecessary.&lt;/p&gt;
+&lt;p&gt;In its current state, it &amp;ldquo;runs out of breath&amp;rdquo; trying to run modern applications with its very limiting hardware.&lt;/p&gt;
+&lt;p&gt;The next best thing is to refurbish it into something that isn&amp;rsquo;t resource intensive.
+This project will also be a learning process for me on how to manage my own small server.&lt;/p&gt;
+&lt;h2 id=&#34;a-suitable-operating-system&#34;&gt;A suitable operating system&lt;/h2&gt;
+&lt;p&gt;To many system administrators (sysadmin), a suitable operating system (OS) could mean many different things.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m no sysadmin by profession, so the OS I want running in this homebrew server shall be stable, requires minimal maintenance, and is (relatively) easy to set up.&lt;/p&gt;
+&lt;p&gt;It shouldn&amp;rsquo;t require much effort, knowing that my use case&amp;mdash;serving static files of small personal website&amp;mdash;is simple enough.&lt;/p&gt;
+&lt;p&gt;At the moment, I&amp;rsquo;m considering these two OS, because they still have support for 32-bit architectures (which this laptop has), and meet my requirements above:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.debian.org&#34;&gt;Debian&lt;/a&gt; (GNU+Linux)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt; (BSD)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also have experience in using both, albeit in a 64-bit architecture.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Abangan as this page develops&amp;hellip;&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
@@ -615,7 +665,7 @@ There are several tools you can use to do this.
 &lt;pre&gt;&lt;code&gt;imgp -x 1366x0 --quality=85 -pew ~/image.jpg
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;where:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;-x&lt;/code&gt; is output resolution in HRESxVRES.
+&lt;li&gt;&lt;code&gt;-x&lt;/code&gt; is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--quality&lt;/code&gt; is the quality factor.
 Here, I set it to 85.&lt;/li&gt;
@@ -691,7 +741,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;That&amp;rsquo;s just a wild claim.
-I haven&amp;rsquo;t got any proof of it yet. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+I have no proof of it &lt;em&gt;yet&lt;/em&gt;, but absence of evidence doesn&amp;rsquo;t mean evidence of absence, &lt;em&gt;no&lt;/em&gt;? &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;Maybe the creatives who are coerced into doing the visuals also like their work. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
