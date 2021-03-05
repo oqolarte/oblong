@@ -63,7 +63,9 @@ Of course, I'll include citations properly.
 The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes anyway), is a whole separate thing.
 I don't consider it a section of this site, though.
 It's only a link that you can copy and paste on your favorite RSS reader.
+
 A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
+A web service is available along these lines: check out [RSS by email](https://rssby.email).
 
 ## Front-end
 
@@ -209,6 +211,7 @@ Here are some other sites from which I got inspiration:
 - Low-tech Magazine, the [solar-powered one](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
 - [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), and [250KB Club](https://250kb.club)
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
+- [Dan Luu's website](https://danluu.com), although it might need a few tweaks to improve readability.
 
 ## To-Do
 

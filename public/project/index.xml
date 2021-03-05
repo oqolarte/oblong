@@ -610,8 +610,9 @@ The write-ups will be a healthy blend of creative and technical writing, to prev
 Of course, I&amp;rsquo;ll include citations properly.&lt;/p&gt;
 &lt;p&gt;The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes anyway), is a whole separate thing.
 I don&amp;rsquo;t consider it a section of this site, though.
-It&amp;rsquo;s only a link that you can copy and paste on your favorite RSS reader.
-A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.&lt;/p&gt;
+It&amp;rsquo;s only a link that you can copy and paste on your favorite RSS reader.&lt;/p&gt;
+&lt;p&gt;A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
+A web service is available along these lines: check out &lt;a href=&#34;https://rssby.email&#34;&gt;RSS by email&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
 &lt;p&gt;As you are well aware, this site has a very simple design.
 Admittedly, it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
@@ -726,6 +727,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;li&gt;Low-tech Magazine, the &lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;solar-powered one&lt;/a&gt;. Their article on &lt;a href=&#34;https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html&#34;&gt;how to build a low-tech website&lt;/a&gt; is eye-opening.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, and &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;The &amp;ldquo;&lt;a href=&#34;https://bestmotherfucking.website&#34;&gt;Best Motherfucking Website&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&amp;rsquo;s website&lt;/a&gt;, although it might need a few tweaks to improve readability.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
 &lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;

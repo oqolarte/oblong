@@ -9,6 +9,8 @@ draft: false
 
 I'm always polishing my projects listed in this site, so that they're updated, and more importantly, as accessible to as many as possible.
 
+I have also put up a [list of interesting project ideas]({{< ref "di-why.md" >}}) that, depending on circumstances, I may or may not pursue.
+
 Consider supporting my work if you find it helpful or enjoyable in any way:   
 - [Liberapay](https://liberapay.com/oqo_frxbj/donate)  
 - [Paypal](https://paypal.me/oqolarte)  
