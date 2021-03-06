@@ -15,7 +15,7 @@ Expect that I will play with drawing software.
 - On the Index, my CV can now be viewed as a page in this website without having to donwload the PDF.
 I also updated a line in the footer.
 
-I know it's getting harder to focus one one thing at a time in this Age of Information.
+I know it's getting harder to focus one thing at a time in this Age of Information.
 I know, because I suffer from the same problem day in and day out.
 Not much to it, really.
 I use the term "suffer" but it feels more like decadent lethargy.
