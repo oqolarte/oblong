@@ -19,7 +19,7 @@
       <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
 &lt;p&gt;It may or may not have been obvious, but people around my age are fond of the internet.&lt;/p&gt;
 &lt;p&gt;I had one which is still out there, on Tumblr, that you can still visit:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;iooare.tumblr.com&#34;&gt;Imbentori&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iooare.tumblr.com&#34;&gt;Imbentori&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It is/was my Tumblr blog the password of which I no longer remember.&lt;/p&gt;
 &lt;p&gt;A little while back, I even thought of parsing through the original text I have there, and publish them in some sort of a book&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m not throwing this idea permanently away.
@@ -252,7 +252,7 @@ the metals clips are now engaged and the iPod is locked closed.&lt;/p&gt;
 &lt;p&gt;At this point, the iPod should feel snappier and lighter, because it is!&lt;/p&gt;
 &lt;p&gt;Since we&amp;rsquo;ve replaced the massive energy drain which was the original hard drive, battery should last a bit longer.
 Accessing the memory isn&amp;rsquo;t done mechanically, unlike the original hard drive, which literally needed to spin a disk (where the whirring sound comes from).&lt;/p&gt;
-&lt;p&gt;Connect the iPod to a computer (ideally a Mac, but Windows or GNU/Linux would be fine) with iTunes installed on it.&lt;/p&gt;
+&lt;p&gt;Connect the iPod to a computer (ideally a Mac, but Windows or GNU+Linux would be fine) with iTunes installed on it.&lt;/p&gt;
 &lt;p&gt;The iPod will be prompted for a restore, and then a software update.
 Do these both via iTunes.&lt;/p&gt;
 &lt;p&gt;When successfully done, the iPod can now sync with iTunes, so make sure you packed the latter with decent muzak.
@@ -611,14 +611,14 @@ This project will also be a learning process for me on how to manage my own smal
     </item>
     
     <item>
-      <title>This Site</title>
+      <title>This Site: Colophon</title>
       <link>/site/</link>
       <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
       
       <guid>/site/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;The making of this site is itself a personal project.
-Here I will discuss how and, most importantly, why this all was conceived.&lt;/p&gt;
+Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.&lt;/p&gt;
 &lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
 &lt;p&gt;If you&amp;rsquo;ve been looking around for personal websites like I have, &amp;ldquo;digital garden&amp;rdquo; is a phrase that gets used often.&lt;/p&gt;
 &lt;p&gt;It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
@@ -674,6 +674,17 @@ This means that:&lt;/p&gt;
 &lt;li&gt;the site loads fast because of no tracking, no custom fonts; and,&lt;/li&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
+&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo;) right after them are external links, i.e. links outside of this website.&lt;/p&gt;
+&lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;oqolarte.github.io&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;oqolarte.github.io&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;#&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;/&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt; {
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34; ↗&amp;#34;&lt;/span&gt;; 
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;green&lt;/span&gt;;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;oqolarte.github.io&lt;/code&gt;, a same-page anchor link (e.g. #status), &lt;em&gt;or&lt;/em&gt; an internal website (e.g. /project), then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
+&lt;p&gt;Currently, these arrows only indicate external links to let visitors know that they will be directed away.
+Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab.
+You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;/code&gt; (or click with Mouse3/MouseWheel).&lt;/p&gt;
 &lt;h3 id=&#34;no-javascript&#34;&gt;No JavaScript?&lt;/h3&gt;
 &lt;figure&gt;
     &lt;img src=&#34;/image/nojs.png&#34;

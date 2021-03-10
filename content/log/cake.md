@@ -7,7 +7,7 @@ draft: false
 - Added a way for readers (are there any?) to support me, found in this page: [Support]({{< ref "/support.md" >}}) (via Liberapay).
 To be as less obnoxious about it as possible, this link will only be at the end of each Project page.
 - Changed my email address in the Index.
-After getting a domain from [Epik](https://www.epik.com)'s registrar and setting up an email server with [Migadu](https://www.migadu.com), I now have a custom email address.
+After getting a domain from [Epik's](https://www.epik.com) registrar and setting up an email server with [Migadu](https://www.migadu.com), I now have a custom email address.
 In the future, I will also set one up for Isya.
 In the meantime, please send your mails to my new address.
 - Also in Index, edited a few lines.

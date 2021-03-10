@@ -10,7 +10,7 @@
   
   	
   
-  <title>This Site | to oblique lair</title>
+  <title>This Site: Colophon | to oblique lair</title>
 </head>
 
   <body>
@@ -18,7 +18,7 @@
       <main id="main">
        
 
-<h1>This Site</h1>
+<h1>This Site: Colophon</h1>
 <div class="small">Last Update:
 <time datetime="Fri Mar 30 37:32:28 5050 &#43;0800">
   5 Mar 2021
@@ -38,6 +38,7 @@
     </li>
     <li><a href="#front-end">Front-end</a>
       <ul>
+        <li><a href="#link-management">Link Management</a></li>
         <li><a href="#no-javascript">No JavaScript?</a></li>
         <li><a href="#no-ads">No Ads</a></li>
         <li><a href="#images">Images</a></li>
@@ -57,7 +58,7 @@
 </div>
 <h2 class="statusOnGoing" id="status-on-going">Status: On-going</h2>
 <p>The making of this site is itself a personal project.
-Here I will discuss how and, most importantly, why this all was conceived.</p>
+Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.</p>
 <h2 id="digital-garden">Digital Garden</h2>
 <p>If you&rsquo;ve been looking around for personal websites like I have, &ldquo;digital garden&rdquo; is a phrase that gets used often.</p>
 <p>It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
@@ -113,6 +114,17 @@ This means that:</p>
 <li>the site loads fast because of no tracking, no custom fonts; and,</li>
 <li>no distractions.</li>
 </ul>
+<h3 id="link-management">Link Management</h3>
+<p>Links in this site that have a greenish northeast arrow (&ldquo;↗&rdquo;) right after them are external links, i.e. links outside of this website.</p>
+<p>In CSS, I implented this using a selector that finds all links other than my own, which is <code>oqolarte.github.io</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">a</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#39;oqolarte.github.io&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;#&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;/&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span> {
+        <span style="color:#66d9ef">content</span>: <span style="color:#e6db74">&#34; ↗&#34;</span>; 
+        <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">green</span>;
+}
+</code></pre></div><p>The above snippet means that if a link does not contain <code>oqolarte.github.io</code>, a same-page anchor link (e.g. #status), <em>or</em> an internal website (e.g. /project), then <code>content</code> will be displayed <code>after</code> it.</p>
+<p>Currently, these arrows only indicate external links to let visitors know that they will be directed away.
+Clicking one does <strong><em>not</em></strong> open it in a new tab.
+You have to manually right-click it and select <code>Open in a new tab</code> (or click with Mouse3/MouseWheel).</p>
 <h3 id="no-javascript">No JavaScript?</h3>
 <figure>
     <img src="/image/nojs.png"
@@ -266,7 +278,7 @@ Back to 🏠<a href="/">Index</a> :: 📋<a href="/log">Log</a> :: 📚<a href="
   </body>
   <footer class="small">
 	<hr>
-	Everything is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+	Everything is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/" >CC BY-SA 4.0</a>
 	<br>
 	<a href="https://512kb.club"><span style="color:green; font-weight:bold">GREEN TEAM</span> of 512KB Club</a>
     <br>This site is private 😏 No cookies, scripts, trackers, and analytics.

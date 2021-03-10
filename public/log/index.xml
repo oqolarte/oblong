@@ -11,6 +11,46 @@
     
     
     <item>
+      <title>Productivity Conflicts</title>
+      <link>/prod-conf/</link>
+      <pubDate>Wed, 10 Mar 2021 10:46:08 +0800</pubDate>
+      
+      <guid>/prod-conf/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Lightly adjusted the color scheme for dark-themed devices.
+Also (ruthlessly?) pruned the CSS.&lt;/li&gt;
+&lt;li&gt;Added a brief explainer on the &lt;a href=&#34;/site/#link-management&#34;&gt;Site&lt;/a&gt; about the now-added northeast arrows on external links.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The past few weeks, my to-do list has hounded me to clean and repaste Ador&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
+This should be done maybe twice a year to maintain the operating temperature within the motherboard.&lt;/p&gt;
+&lt;p&gt;PastMe scheduled this task for Feb 2021, but I kept postponing it, until today.
+Ador&amp;rsquo;s fan had been in overdrive the last few days.
+Add to that the unusual heat coming off from its left side.&lt;/p&gt;
+&lt;p&gt;Now, after the task, it&amp;rsquo;s back to normal levels;
+Ador has been quiet since.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m investigating why something in my to-do list is able to &amp;ldquo;hound&amp;rdquo; me.&lt;/p&gt;
+&lt;p&gt;I think it stems from the social pressure that I, a participant of my environment, must produce something of value, to give something back.
+It directly conflicts with my &lt;em&gt;desire&lt;/em&gt; to do nothing.
+Or rather, be able to just sit and think, and still be worry-free.&lt;/p&gt;
+&lt;p&gt;Unemployment, in my case, opens new ways to be productive, I should remind myself that.
+It allows me to &lt;a href=&#34;/di-why/&#34;&gt;look into projects&lt;/a&gt; that I might not have if I was working.
+This, however, is predicated by the fact that I have some sort of &lt;a href=&#34;https://katiescarlettneedsmoney.com/4-strategies-you-can-use-to-build-an-emergency-fund/&#34;&gt;emergency fund&lt;/a&gt; saved up.
+This fund buys me time to be worry-free.
+If my calculations remain correct for the foreseeable future, I have between 8-12 months worth of living expenses to burn through.&lt;/p&gt;
+&lt;p&gt;Anyway&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Van Neistat started his own YouTube channel.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The name of my Thinkpad X220 that I bought secondhand a little over a year ago. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Skill or Virtue?</title>
       <link>/piav/</link>
       <pubDate>Mon, 08 Mar 2021 13:42:44 +0800</pubDate>
@@ -105,7 +145,7 @@ But this isn&amp;rsquo;t that society.&lt;/p&gt;
 &lt;li&gt;Added a way for readers (are there any?) to support me, found in this page: &lt;a href=&#34;/support/&#34;&gt;Support&lt;/a&gt; (via Liberapay).
 To be as less obnoxious about it as possible, this link will only be at the end of each Project page.&lt;/li&gt;
 &lt;li&gt;Changed my email address in the Index.
-After getting a domain from &lt;a href=&#34;https://www.epik.com&#34;&gt;Epik&lt;/a&gt;&amp;rsquo;s registrar and setting up an email server with &lt;a href=&#34;https://www.migadu.com&#34;&gt;Migadu&lt;/a&gt;, I now have a custom email address.
+After getting a domain from &lt;a href=&#34;https://www.epik.com&#34;&gt;Epik&amp;rsquo;s&lt;/a&gt; registrar and setting up an email server with &lt;a href=&#34;https://www.migadu.com&#34;&gt;Migadu&lt;/a&gt;, I now have a custom email address.
 In the future, I will also set one up for Isya.
 In the meantime, please send your mails to my new address.&lt;/li&gt;
 &lt;li&gt;Also in Index, edited a few lines.&lt;/li&gt;

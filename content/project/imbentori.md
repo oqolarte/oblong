@@ -10,7 +10,7 @@ It may or may not have been obvious, but people around my age are fond of the in
 
 I had one which is still out there, on Tumblr, that you can still visit:
 
-**[Imbentori](iooare.tumblr.com)**
+**[Imbentori](https://iooare.tumblr.com)**
 
 It is/was my Tumblr blog the password of which I no longer remember.
 

@@ -1,5 +1,5 @@
 ---
-title: "This Site"
+title: "This Site: Colophon"
 date: 2020-11-27T14:42:32+08:00
 keywords: ["web development", "web design", "sustainable web design", "simple web design", "full stack web development", "full stack web design", "sustainable full stack web development"]
 draft: false
@@ -7,7 +7,7 @@ draft: false
 ## Status: On-going {.statusOnGoing}
 
 The making of this site is itself a personal project. 
-Here I will discuss how and, most importantly, why this all was conceived.
+Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.
 
 ## Digital Garden
 
@@ -83,6 +83,25 @@ This means that:
 - I can also improve this site's accessibility by improving layout, among many other things;
 - the site loads fast because of no tracking, no custom fonts; and,
 - no distractions.
+
+### Link Management
+
+Links in this site that have a greenish northeast arrow ("↗") right after them are external links, i.e. links outside of this website.
+
+In CSS, I implented this using a selector that finds all links other than my own, which is `oqolarte.github.io`.
+
+```css
+a:not([href*='oqolarte.github.io']):not([href^='#']):not([href^='/']):after {
+        content: " ↗"; 
+        color: green;
+}
+```
+
+The above snippet means that if a link does not contain `oqolarte.github.io`, a same-page anchor link (e.g. #status), *or* an internal website (e.g. /project), then `content` will be displayed `after` it.
+
+Currently, these arrows only indicate external links to let visitors know that they will be directed away.
+Clicking one does **_not_** open it in a new tab.
+You have to manually right-click it and select `Open in a new tab` (or click with Mouse3/MouseWheel).
 
 ### No JavaScript?
 

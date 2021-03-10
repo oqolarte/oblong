@@ -213,7 +213,7 @@ At this point, the iPod should feel snappier and lighter, because it is!
 Since we've replaced the massive energy drain which was the original hard drive, battery should last a bit longer.
 Accessing the memory isn't done mechanically, unlike the original hard drive, which literally needed to spin a disk (where the whirring sound comes from).
 
-Connect the iPod to a computer (ideally a Mac, but Windows or GNU/Linux would be fine) with iTunes installed on it.
+Connect the iPod to a computer (ideally a Mac, but Windows or GNU+Linux would be fine) with iTunes installed on it.
 
 The iPod will be prompted for a restore, and then a software update.
 Do these both via iTunes.
