@@ -1,6 +1,6 @@
 ---
 title: "Vague Titles"
-date: 2021-03-13T00:41:40+08:00
+date: 2021-03-12T00:41:40+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
