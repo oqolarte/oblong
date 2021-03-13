@@ -11,6 +11,30 @@
     
     
     <item>
+      <title>Vague Titles</title>
+      <link>/titles/</link>
+      <pubDate>Sat, 13 Mar 2021 00:41:40 +0800</pubDate>
+      
+      <guid>/titles/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Edited some sections in the &lt;a href=&#34;/site/&#34;&gt;Site&lt;/a&gt;.
+Also, I just learned that when writing in Markdown, I didn&amp;rsquo;t have to put the footnotes at the end of the document!
+When Hugo converts &lt;code&gt;.md&lt;/code&gt; to &lt;code&gt;.html&lt;/code&gt;, it automatically places them at the end&amp;hellip;?!&lt;/li&gt;
+&lt;li&gt;Edited a line in &lt;a href=&#34;/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In Recent Years, I always dreamed of having a vague title for myself, like Designer or Consultant.
+Something that I can claim.
+Or something that I can only hope to be, depending on who&amp;rsquo;s asking.&lt;/p&gt;
+&lt;p&gt;But never Influencer, yuck!
+Although, when you think of it, one (in)directly &lt;em&gt;influences&lt;/em&gt; people, places, and/or things when one &lt;em&gt;designs&lt;/em&gt;, or when one is &lt;em&gt;consulted&lt;/em&gt; for their expertise.
+In reality, my dislike is more directed towards self-branded Influencers who flock social media like Instagram and/or Tiktok.&lt;/p&gt;
+&lt;p&gt;Now, that&amp;rsquo;s not to say I like having a title.
+Filipinos, especially, like to have so many titles affixed to their legal names.
+Who can blame them when doing so gives the illusion of having more opportunities?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Productivity Conflicts</title>
       <link>/prod-conf/</link>
       <pubDate>Wed, 10 Mar 2021 10:46:08 +0800</pubDate>

@@ -6,9 +6,9 @@ draft: false
 ---
 ## Status: Done {.statusDone}
 
-It may or may not have been obvious, but people around my age are fond of the internet. 
+It may or may not have been obvious, but people around my age are fond of expressing themselves on the internet. 
 
-I had one which is still out there, on Tumblr, that you can still visit:
+I was active in one platform which is still out there, on Tumblr, that you can still visit:
 
 **[Imbentori](https://iooare.tumblr.com)**
 

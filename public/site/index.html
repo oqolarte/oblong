@@ -115,11 +115,12 @@ This means that:</p>
 <li>no distractions.</li>
 </ul>
 <h3 id="link-management">Link Management</h3>
-<p>Links in this site that have a greenish northeast arrow (&ldquo;↗&rdquo;) right after them are external links, i.e. links outside of this website.</p>
+<p>Links in this site that have a greenish northeast arrow (&ldquo;↗&rdquo; or &ldquo;<code>\2197</code>&quot;) right after them are external links, i.e. links outside of this website.</p>
 <p>In CSS, I implented this using a selector that finds all links other than my own, which is <code>oqolarte.github.io</code>.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">a</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#39;oqolarte.github.io&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;#&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;/&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span> {
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">a</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#39;oqolarte.github.io&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;mailto&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;#&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;/&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span> {
         <span style="color:#66d9ef">content</span>: <span style="color:#e6db74">&#34; ↗&#34;</span>; 
         <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">green</span>;
+        <span style="color:#66d9ef">display</span>: <span style="color:#66d9ef">inline</span><span style="color:#f92672">-</span><span style="color:#66d9ef">block</span>;
 }
 </code></pre></div><p>The above snippet means that if a link does not contain <code>oqolarte.github.io</code>, a same-page anchor link (e.g. #status), <em>or</em> an internal website (e.g. /project), then <code>content</code> will be displayed <code>after</code> it.</p>
 <p>Currently, these arrows only indicate external links to let visitors know that they will be directed away.
@@ -133,14 +134,14 @@ You have to manually right-click it and select <code>Open in a new tab</code> (o
         </figcaption>
 </figure>
 
-<p>It&rsquo;s not really that I find JS harmful, although some would argue that it is.
-In fact, I don&rsquo;t know enough to make that claim.
-Besides, nothing in the internet is perfectly safe.</p>
+<p>It&rsquo;s not really that I find JS harmful, although some would argue that it could be.
+I don&rsquo;t even know enough of the language to make that claim.
+In fact, I used JS to <a href="/alwayscarry/#search-functionality">add a search functionality on small bookshop website</a> I volunteered to create for Isya.</p>
 <p>So why this &ldquo;distaste&rdquo; for JS in websites?</p>
 <p>Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&rsquo;s absence is definitely beneficial, because there&rsquo;s less code to maintain.</p>
 <h3 id="no-ads">No Ads</h3>
-<p>Only marketers like ads<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.
+<p>Only marketers like ads<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
 Good thing that I have none of them here.
 And I don&rsquo;t intend to put them here anytime soon.</p>
 <p>Also, did you know that a lot of online advertising you see depends on JS?</p>
@@ -158,7 +159,7 @@ If it it&rsquo;s not adding value content-wise, it&rsquo;s not going in.</li>
 There are several tools you can use to do this.
 <a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.</li>
 </ul>
-<p>Nowadays, I  tend to use <a href="https://github.com/jarun/imgp">imgp</a><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, a &ldquo;high-performance cli batch image resizer and rotator,&rdquo; that I can use offline.</p>
+<p>Nowadays, I  tend to use <a href="https://github.com/jarun/imgp">imgp</a><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, a &ldquo;high-performance cli batch image resizer and rotator,&rdquo; that I can use offline.</p>
 <p>From the command line, I do something like:</p>
 <pre><code>imgp -x 1366x0 --quality=85 -pew ~/image.jpg
 </code></pre><p>where:</p>
@@ -167,7 +168,7 @@ There are several tools you can use to do this.
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.</li>
 <li><code>--quality</code> is the quality factor.
 Here, I set it to 85.</li>
-<li><code>-pew</code> combines three options: optimize, erase EXIF metadata<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>, and overwrite source images respectively.</li>
+<li><code>-pew</code> combines three options: optimize, erase EXIF metadata<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, and overwrite source images respectively.</li>
 </ul>
 <h2 id="back-end">Back-end</h2>
 <p>I use <a href="https://gohugo.io">Hugo</a> static site generator to build this site.
@@ -182,7 +183,7 @@ Since web browsers can only read HTML files, compilation means that SSG converts
 And if you&rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).</p>
 <p>It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.</p>
-<p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> anytime!</p>
+<p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> anytime!</p>
 <h3 id="using-hugo">Using Hugo</h3>
 <p>There are a lot of tutorials online on how to start a blog using Hugo.
 A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
@@ -195,7 +196,7 @@ Your mileage may vary.</p>
 <p>As with everything else, it&rsquo;s important to be patient and willing to read the documentation.
 Some documentations are good, some are bad, some don&rsquo;t even exist!
 In any case, you can also ask the community if you&rsquo;re stuck somewhere.
-Hugo has a decent documentation<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
+Hugo has a decent documentation<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>.</p>
 <p>My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
 <p>Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&rsquo;ll see.
@@ -230,7 +231,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 <p>Here&rsquo;s a wishlist of sorts that I need to do for this site:</p>
 <ul>
 <li><input disabled="" type="checkbox"> Purchase a proper domain name for this site</li>
-<li><input disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else</li>
+<li><input disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else, <a href="/server/">preferably on a machine I own</a>.</li>
 <li><input disabled="" type="checkbox"> Have TLS certificate, preferably from <a href="https://letsencrypt.org">Let&rsquo;s Encrypt</a>, because there&rsquo;s really no excuse to use just HTTP</li>
 <li><input disabled="" type="checkbox"> Get at least a score of 50 on Mozilla&rsquo;s <a href="https://observatory.mozilla.org/">HTTP Observatory</a></li>
 </ul>
@@ -240,26 +241,24 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 <ol>
 <li id="fn:1" role="doc-endnote">
 <p>That&rsquo;s just a wild claim.
-I have no proof of it <em>yet</em>, but absence of evidence doesn&rsquo;t mean evidence of absence, <em>no</em>? <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+I have no proof of it <em>yet</em>, but absence of evidence doesn&rsquo;t mean evidence of absence, <em>no</em>?
+Maybe the creatives who are coerced into doing the visuals also like their work. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2" role="doc-endnote">
-<p>Maybe the creatives who are coerced into doing the visuals also like their work. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>It&rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
+Visit their page for more info. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3" role="doc-endnote">
-<p>It&rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
-Visit their page for more info. <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
+As an added bonus, it&rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4" role="doc-endnote">
-<p>Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
-As an added bonus, it&rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Check out <a href="https://jamstack.org/generators/">Jamstack</a> for a list of hundreds of possible SSGs! <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:5" role="doc-endnote">
-<p>Check out <a href="https://jamstack.org/generators/">Jamstack</a> for a list of hundreds of possible SSGs! <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-<li id="fn:6" role="doc-endnote">
 <p>By &ldquo;decent&rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&rsquo;s reliable.
-However, the more complex you make your site, you&rsquo;ll find that Hugo documentation still needs more polishing. <a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+However, the more complex you make your site, you&rsquo;ll find that Hugo documentation still needs more polishing. <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>

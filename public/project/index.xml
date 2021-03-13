@@ -17,8 +17,8 @@
       
       <guid>/imbentori/</guid>
       <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
-&lt;p&gt;It may or may not have been obvious, but people around my age are fond of the internet.&lt;/p&gt;
-&lt;p&gt;I had one which is still out there, on Tumblr, that you can still visit:&lt;/p&gt;
+&lt;p&gt;It may or may not have been obvious, but people around my age are fond of expressing themselves on the internet.&lt;/p&gt;
+&lt;p&gt;I was active in one platform which is still out there, on Tumblr, that you can still visit:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iooare.tumblr.com&#34;&gt;Imbentori&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It is/was my Tumblr blog the password of which I no longer remember.&lt;/p&gt;
 &lt;p&gt;A little while back, I even thought of parsing through the original text I have there, and publish them in some sort of a book&amp;hellip;&lt;/p&gt;
@@ -675,11 +675,12 @@ This means that:&lt;/p&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
-&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo;) right after them are external links, i.e. links outside of this website.&lt;/p&gt;
+&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;quot;) right after them are external links, i.e. links outside of this website.&lt;/p&gt;
 &lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;oqolarte.github.io&lt;/code&gt;.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;oqolarte.github.io&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;#&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;/&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt; {
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;oqolarte.github.io&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;mailto&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;#&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;/&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt; {
         &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34; ↗&amp;#34;&lt;/span&gt;; 
         &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;green&lt;/span&gt;;
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inline&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;block&lt;/span&gt;;
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;oqolarte.github.io&lt;/code&gt;, a same-page anchor link (e.g. #status), &lt;em&gt;or&lt;/em&gt; an internal website (e.g. /project), then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
 &lt;p&gt;Currently, these arrows only indicate external links to let visitors know that they will be directed away.
@@ -693,14 +694,14 @@ You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it is.
-In fact, I don&amp;rsquo;t know enough to make that claim.
-Besides, nothing in the internet is perfectly safe.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it could be.
+I don&amp;rsquo;t even know enough of the language to make that claim.
+In fact, I used JS to &lt;a href=&#34;/alwayscarry/#search-functionality&#34;&gt;add a search functionality on small bookshop website&lt;/a&gt; I volunteered to create for Isya.&lt;/p&gt;
 &lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS in websites?&lt;/p&gt;
 &lt;p&gt;Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p&gt;
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
-&lt;p&gt;Only marketers like ads&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.
+&lt;p&gt;Only marketers like ads&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
 Good thing that I have none of them here.
 And I don&amp;rsquo;t intend to put them here anytime soon.&lt;/p&gt;
 &lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
@@ -718,7 +719,7 @@ If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s not going in.
 There are several tools you can use to do this.
 &lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Nowadays, I  tend to use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
+&lt;p&gt;Nowadays, I  tend to use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
 &lt;p&gt;From the command line, I do something like:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;imgp -x 1366x0 --quality=85 -pew ~/image.jpg
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;where:&lt;/p&gt;
@@ -727,7 +728,7 @@ There are several tools you can use to do this.
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--quality&lt;/code&gt; is the quality factor.
 Here, I set it to 85.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-pew&lt;/code&gt; combines three options: optimize, erase EXIF metadata&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, and overwrite source images respectively.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-pew&lt;/code&gt; combines three options: optimize, erase EXIF metadata&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, and overwrite source images respectively.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator to build this site.
@@ -742,7 +743,7 @@ Since web browsers can only read HTML files, compilation means that SSG converts
 And if you&amp;rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).&lt;/p&gt;
 &lt;p&gt;It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p&gt;
-&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
 &lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
 &lt;p&gt;There are a lot of tutorials online on how to start a blog using Hugo.
 A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
@@ -755,7 +756,7 @@ Your mileage may vary.&lt;/p&gt;
 &lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to read the documentation.
 Some documentations are good, some are bad, some don&amp;rsquo;t even exist!
 In any case, you can also ask the community if you&amp;rsquo;re stuck somewhere.
-Hugo has a decent documentation&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+Hugo has a decent documentation&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
 &lt;p&gt;Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&amp;rsquo;ll see.
@@ -790,7 +791,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Purchase a proper domain name for this site&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -800,26 +801,24 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;That&amp;rsquo;s just a wild claim.
-I have no proof of it &lt;em&gt;yet&lt;/em&gt;, but absence of evidence doesn&amp;rsquo;t mean evidence of absence, &lt;em&gt;no&lt;/em&gt;? &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+I have no proof of it &lt;em&gt;yet&lt;/em&gt;, but absence of evidence doesn&amp;rsquo;t mean evidence of absence, &lt;em&gt;no&lt;/em&gt;?
+Maybe the creatives who are coerced into doing the visuals also like their work. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Maybe the creatives who are coerced into doing the visuals also like their work. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
+Visit their page for more info. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;It&amp;rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
-Visit their page for more info. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
+As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
-As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs! &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs! &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;By &amp;ldquo;decent&amp;rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&amp;rsquo;s reliable.
-However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing. &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;

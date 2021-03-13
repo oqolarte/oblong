@@ -86,14 +86,15 @@ This means that:
 
 ### Link Management
 
-Links in this site that have a greenish northeast arrow ("↗") right after them are external links, i.e. links outside of this website.
+Links in this site that have a greenish northeast arrow ("↗" or "`\2197`") right after them are external links, i.e. links outside of this website.
 
 In CSS, I implented this using a selector that finds all links other than my own, which is `oqolarte.github.io`.
 
 ```css
-a:not([href*='oqolarte.github.io']):not([href^='#']):not([href^='/']):after {
+a:not([href*='oqolarte.github.io']):not([href^='mailto']):not([href^='#']):not([href^='/']):after {
         content: " ↗"; 
         color: green;
+        display: inline-block;
 }
 ```
 
@@ -107,18 +108,17 @@ You have to manually right-click it and select `Open in a new tab` (or click wit
 
 {{< figure src="/image/nojs.png" alt="screenshot from estimator dot dev evaluating this site as no javascript detected" caption="Look, ma! No JS, according to estimator.dev!" >}}
 
-It's not really that I find JS harmful, although some would argue that it is.
-In fact, I don't know enough to make that claim.
-Besides, nothing in the internet is perfectly safe.
+It's not really that I find JS harmful, although some would argue that it could be.
+I don't even know enough of the language to make that claim.
+In fact, I used JS to [add a search functionality on small bookshop website]({{< ref "/project/alwayscarry.md#search-functionality" >}}) I volunteered to create for Isya.
 
 So why this "distaste" for JS in websites?
 
 Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It's absence is definitely beneficial, because there's less code to maintain.
 
-
 ### No Ads
-Only marketers like ads[^1][^2].
+Only marketers like ads[^1].
 Good thing that I have none of them here.
 And I don't intend to put them here anytime soon.
 
@@ -140,7 +140,7 @@ If it it's not adding value content-wise, it's not going in.
 There are several tools you can use to do this.
 [Tiny JPG](https://tinyjpg.com) is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
 
-Nowadays, I  tend to use [imgp](https://github.com/jarun/imgp)[^3], a "high-performance cli batch image resizer and rotator," that I can use offline. 
+Nowadays, I  tend to use [imgp](https://github.com/jarun/imgp)[^2], a "high-performance cli batch image resizer and rotator," that I can use offline. 
 
 From the command line, I do something like:
 
@@ -153,7 +153,7 @@ where:
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.
 - `--quality` is the quality factor.
 Here, I set it to 85.
-- `-pew` combines three options: optimize, erase EXIF metadata[^4], and overwrite source images respectively.
+- `-pew` combines three options: optimize, erase EXIF metadata[^3], and overwrite source images respectively.
 
 ## Back-end
 
@@ -175,7 +175,7 @@ And if you're like me whose website comprises only HTML and CSS files, compilati
 It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.
 
-But I'll take the massive freedom gains provided by SSGs[^5] anytime!
+But I'll take the massive freedom gains provided by SSGs[^4] anytime!
 
 ### Using Hugo
 
@@ -194,7 +194,7 @@ Your mileage may vary.
 As with everything else, it's important to be patient and willing to read the documentation.
 Some documentations are good, some are bad, some don't even exist!
 In any case, you can also ask the community if you're stuck somewhere.
-Hugo has a decent documentation[^6].
+Hugo has a decent documentation[^5].
 
 My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.
 
@@ -236,7 +236,7 @@ Here are some other sites from which I got inspiration:
 
 Here's a wishlist of sorts that I need to do for this site:
 - [ ] Purchase a proper domain name for this site
-- [ ] Move away from GitHub Pages and host somewhere else  
+- [ ] Move away from GitHub Pages and host somewhere else, [preferably on a machine I own]({{< ref "/project/server.md" >}}).
 - [ ] Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
 - [ ] Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)
 
@@ -244,12 +244,12 @@ When all of the items in this (growing) list is ticked off, this TODO segment wi
 
 [^1]: That's just a wild claim.
 I have no proof of it *yet*, but absence of evidence doesn't mean evidence of absence, *no*?
-[^2]: Maybe the creatives who are coerced into doing the visuals also like their work.
-[^3]: It's available in many Unix-like systems, including Linux distros, and macOS.
+Maybe the creatives who are coerced into doing the visuals also like their work.
+[^2]: It's available in many Unix-like systems, including Linux distros, and macOS.
 Visit their page for more info.
-[^4]: Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
+[^3]: Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
 As an added bonus, it's scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.
-[^5]: Check out [Jamstack](https://jamstack.org/generators/) for a list of hundreds of possible SSGs!
-[^6]: By "decent" I mean it covers all the basic needs to help you set up a working site.
+[^4]: Check out [Jamstack](https://jamstack.org/generators/) for a list of hundreds of possible SSGs!
+[^5]: By "decent" I mean it covers all the basic needs to help you set up a working site.
 In its current state, it's reliable.
 However, the more complex you make your site, you'll find that Hugo documentation still needs more polishing.
