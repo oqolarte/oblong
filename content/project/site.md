@@ -235,7 +235,7 @@ Here are some other sites from which I got inspiration:
 ## To-Do
 
 Here's a wishlist of sorts that I need to do for this site:
-- [ ] Purchase a proper domain name for this site
+- [X] Purchase a proper domain name for this site
 - [ ] Move away from GitHub Pages and host somewhere else, [preferably on a machine I own]({{< ref "/project/server.md" >}}).
 - [ ] Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
 - [ ] Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)

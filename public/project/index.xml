@@ -829,7 +829,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
 &lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Purchase a proper domain name for this site&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Purchase a proper domain name for this site&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;

@@ -4,6 +4,10 @@ date: 2021-03-17T14:52:37+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
+- New URL! This site is now `https://ohio.araw.xyz`.
+Since it's still hosted on Github Pages, `https://oqolarte.github.io` will still work, and will redirect here.
+
+
 According to [this alignment test](http://easydamus.com/alignmenttest.html), I'm likely...
 
 ## Chaotic Good
