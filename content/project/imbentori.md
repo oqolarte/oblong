@@ -26,7 +26,7 @@ In the meantime, read the foreword I drafted some time ago for this would-be col
 The tongue that swirls with its perceived languages can only cope so much from the demands of diction.
 *Imbentori*, then, is one own's tongue's attempt to speak the library of tensions as they never unfold in one's mind.
 It is a list of personal truths told with cryptic lingo
-(or with International Art English[^1], one could argue)
+(or with International Art English[^bs], one could argue)
 to add dimension to the mundane.
 In some entries, there's no room for interpretation.
 In any case, if you feel like the stream of thoughts challenge the way you read, *hmm*, then it's purpose didn't go off tangent.
@@ -47,5 +47,5 @@ you'll get over it.
 Most of them are lumped into what I call [Unscholarly Notes](https://iooare.tumblr.com/tagged/unscholarly-notes),
 after a chapter in one of my favorite books by F. Sionil Jose.
 
-[^1]: Reminds me of a paper called [_"Bullshit Makes The Art Grow Profounder"_](http://journal.sjdm.org/19/190712/jdm190712.html) (Turpin et. al., 2019). 
+[^bs]: Reminds me of a paper called [_"Bullshit Makes The Art Grow Profounder"_](http://journal.sjdm.org/19/190712/jdm190712.html) (Turpin et. al., 2019). 
 Some 20(20) years ago when I last visited an art museum (or was it just gallery?), I couldn't help but roll my eyes on a lot of pieces' description cards that seemingly always include how the artist "explores" this or that.

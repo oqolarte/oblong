@@ -69,4 +69,61 @@ At the moment, I'm considering these two OS, because they still have support for
 
 I also have experience in using both, albeit in a 64-bit architecture.
 
-*Abangan as this page develops...*
+### Using OpenBSD as a server
+OpenBSD is a fully functional, Unix-like OS based on Berkeley Networking Release 2 (Net/2) and 4.4BSD-Lite.
+
+For now, I choose OpenBSD as a server because it's simpler to set up.
+As a result of its simplicity, it's also hailed as one of the most secure OS out there.
+
+Before anything else, a disclaimer:
+While I'll do my best to update this document, assume that the most recent documentation there is can be found over at the [OpenBSD website](https://openbsd.org).
+Their [manual pages](https://man.openbsd.org) contain the details needed to operate a machine running on OpenBSD, and is entirely available offline on a base install.
+
+## Installing OpenBSD on bare metal
+
+If you're new to the system, I highly recommend to go over the [OpenBSD FAQ - Installation Guide](https://www.openbsd.org/faq/faq4.html) at least once.
+
+I'm installing from a Debian-based system, through the terminal, so most of the commands here are based on that.
+
+### 1. Download the installer
+
+There are mirrors[^mirror] from which you can download the installer.
+They are found [here](https://www.openbsd.org/ftp.html).
+Always choose the one nearest your location to reduce download time.
+
+[^mirror]: It's just a server that provides the exact copy of data from another server.
+Usually to provide a means of redundancy.
+
+```
+curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.8/i386/install68.img
+```
+
+### 2. Create Install Media in Flash Drive
+
+Plug in the USB stick.
+The following command assumes that the disk is recognized as `sdc1`.
+Check with `dmesg`, `df -h`, or `lsblk` commands, as root if need be.
+
+```
+sudo dd if=install*.img of=/dev/sdc1 bs=1M
+```
+The `dd` utility copies the standard input `if` (or input file) to the standard output `of` (or output file, which, in this case, is the USB drive).
+`bs` stands for block size, and we set it to 1 megabyte.
+
+In my case, the successful output is:
+```
+450+0 records in
+450+0 records out
+471859200 bytes (472 MB, 450 MiB) copied, 31.9492 s, 14.8 MB/s
+```
+
+
+### Set up wi-fi and ethernet networks
+
+## Web Server on OpenBSD
+
+### Configure httpd(8)
+
+### Enable HTTPS with acme-client(1) and Let's Encrypt
+
+### Add HTTP security headers with relayd(8)

@@ -2,12 +2,12 @@
 	body {color:#e0e0e0;background:#121212}
 	a:link {color:#7aa3cc}
 	a:hover, a:visited:hover {color:#a3becc}
-	a:visited {color:#a37acc}
-}
+	a:visited {color:#a37acc} }
 body {  margin:1em auto;
         max-width:40em;
 	    padding: 0.69em;
         font: 1.2em/1.5 Helvetica, Arial, Tahoma, sans-serif }
+a:hover { color:#69bb69 }
 a:not([href*='oqolarte.github.io']):not([href^='mailto']):not([href^='#']):not([href^='/']):after {
         content: "\2197";
         color: #69bb69;

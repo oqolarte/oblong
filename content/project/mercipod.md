@@ -6,10 +6,10 @@ draft: false
 ---
 ## Status: Done {.statusDone}
 
-'Nay Merci, Isya's mom, sent her iPod Classic[^1] to me for repair, a device that's at least ten years old now.
+'Nay Merci, Isya's mom, sent her iPod Classic[^ipod-classic] to me for repair, a device that's at least ten years old now.
 It's life can still be stretched by upgrading some of its components.
 
-Back in 2018, I did a similar upgrade on Isya's iPod Classic, which I wrote about on *our* blog[^2], so doing this isn't something new.
+Back in 2018, I did a similar upgrade on Isya's iPod Classic, which I wrote about on *our* blog[^arawseekers], so doing this isn't something new.
 
 In this post, I'll discuss the overview of what I did.
 This isn't necessarily a step-by-step guide, and shouldn't be considered as such. 
@@ -117,7 +117,7 @@ Now we will be discussing the steps involved in taking out the old hard drive to
 
 {{< figure src="/image/mi2.jpeg" alt="an image of ipod and a small roll of washi tape below it" caption="Washi tape marks the locations of the metal clips" >}}
 
-With the aid Siqueira's iPod Classing opening reference, I used washi tape to indicate the locations of the metal clips[^3] that hold together the iPod.
+With the aid Siqueira's iPod Classing opening reference, I used washi tape to indicate the locations of the metal clips[^metal-clips] that hold together the iPod.
 I did this, because I have no printer to have the PDF printed.
 To be as accurate as possible, I aligned the iPod with the image on the PDF, making sure that it is zoomed to actual size, before placing the markings.
 
@@ -134,7 +134,7 @@ Refer to the video tutorial first on how exactly this is done.
 
 After successfully disengaging all clips, flip the iPod so it is facing down on your work surface.
 Slowly carefully lift the back chassis.
-You shouldn't open it wide yet, because there's a battery ribbon still connected.
+metal-clips shouldn't open it wide yet, because there's a battery ribbon still connected.
 
 With a plastic prying tool, slide up the black plastic clip that holds the battery ribbon.
 The battery ribbon can now be lifted (carefully) up, still with the help of a prying tool.
@@ -222,10 +222,10 @@ When successfully done, the iPod can now sync with iTunes, so make sure you pack
 They syncing process is outside the scope of this post, but it shouldn't be too hard.
 Look it up online.
 
-[^1]: iPod Classic, 6th Generation ("7th gen" in some sites), 2nd revision, 160 GB capacity, Model No. A1238. 
+[^ipod-classic]: iPod Classic, 6th Generation ("7th gen" in some sites), 2nd revision, 160 GB capacity, Model No. A1238. 
 For more info on iPods, [check the wikipedia about it](https://en.wikipedia.org/wiki/IPod_Classic).
-[^2]: We like to call ourselves [Araw Seekers](https://arawseekers.github.io).
+[^arawseekers]: We like to call ourselves [Araw Seekers](https://arawseekers.github.io).
 You're welcome to go over there and read.
-[^3]: One would notice the absence of screws with which to open the device.
+[^metal-clips]: One would notice the absence of screws with which to open the device.
 Instead, there are metal clips on the inside all around the edge.
 Without prior knowledge, one would think that the iPod was not designed to be maintained, and one would be right in thinking so.

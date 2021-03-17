@@ -66,7 +66,7 @@ Keep this tab (or window) open for as long you need this.
 When you click SIGN UP on the upper right of the page, you will be prompted to fill up a form:
 
 Enter username: `[enter any gibberish]`  
-Enter password[^1]: `[enter any gibberish]`  
+Enter password[^pw]: `[enter any gibberish]`  
 Confirm password: `[same as above]`  
 Enter E-mail: `[Copy the email from Temp Mail]`  
 Enter Captcha code: `[captcha code here]`  
@@ -117,8 +117,8 @@ Take note (ha!) of the legibility of your handwriting;
 the OCR might not recognize your cursive penmanship!
 
 Or perhaps, you own a distraction-free, old-but-working-still typewriter?
-Type your thoughts in a distraction-free machine[^2], scan, and edit and/or finalize the digital copy.
+Type your thoughts in a distraction-free machine[^typewriter], scan, and edit and/or finalize the digital copy.
 
-[^1]: To easily come up with a password, this would be the best time to start using a [password manager](https://privacytools.io/software/passwords/#pw).
+[^pw]: To easily come up with a password, this would be the best time to start using a [password manager](https://privacytools.io/software/passwords/#pw).
 Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.
-[^2]: See the [Typewriter Manifesto](https://typewriterrevolution.com/manifesto) if you're into that.
+[^typewriter]: See the [Typewriter Manifesto](https://typewriterrevolution.com/manifesto) if you're into that.

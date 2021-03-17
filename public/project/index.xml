@@ -166,7 +166,7 @@ Refer to the video tutorial first on how exactly this is done.&lt;/p&gt;
 
 &lt;p&gt;After successfully disengaging all clips, flip the iPod so it is facing down on your work surface.
 Slowly carefully lift the back chassis.
-You shouldn&amp;rsquo;t open it wide yet, because there&amp;rsquo;s a battery ribbon still connected.&lt;/p&gt;
+metal-clips shouldn&amp;rsquo;t open it wide yet, because there&amp;rsquo;s a battery ribbon still connected.&lt;/p&gt;
 &lt;p&gt;With a plastic prying tool, slide up the black plastic clip that holds the battery ribbon.
 The battery ribbon can now be lifted (carefully) up, still with the help of a prying tool.&lt;/p&gt;
 &lt;figure&gt;
@@ -606,7 +606,46 @@ This project will also be a learning process for me on how to manage my own smal
 &lt;li&gt;&lt;a href=&#34;https://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt; (BSD)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I also have experience in using both, albeit in a 64-bit architecture.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Abangan as this page develops&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;using-openbsd-as-a-server&#34;&gt;Using OpenBSD as a server&lt;/h3&gt;
+&lt;p&gt;OpenBSD is a fully functional, Unix-like OS based on Berkeley Networking Release 2 (Net/2) and 4.4BSD-Lite.&lt;/p&gt;
+&lt;p&gt;For now, I choose OpenBSD as a server because it&amp;rsquo;s simpler to set up.
+As a result of its simplicity, it&amp;rsquo;s also hailed as one of the most secure OS out there.&lt;/p&gt;
+&lt;p&gt;Before anything else, a disclaimer:
+While I&amp;rsquo;ll do my best to update this document, assume that the most recent documentation there is can be found over at the &lt;a href=&#34;https://openbsd.org&#34;&gt;OpenBSD website&lt;/a&gt;.
+Their &lt;a href=&#34;https://man.openbsd.org&#34;&gt;manual pages&lt;/a&gt; contain the details needed to operate a machine running on OpenBSD, and is entirely available offline on a base install.&lt;/p&gt;
+&lt;h2 id=&#34;installing-openbsd-on-bare-metal&#34;&gt;Installing OpenBSD on bare metal&lt;/h2&gt;
+&lt;p&gt;If you&amp;rsquo;re new to the system, I highly recommend to go over the &lt;a href=&#34;https://www.openbsd.org/faq/faq4.html&#34;&gt;OpenBSD FAQ - Installation Guide&lt;/a&gt; at least once.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m installing from a Debian-based system, through the terminal, so most of the commands here are based on that.&lt;/p&gt;
+&lt;h3 id=&#34;1-download-the-installer&#34;&gt;1. Download the installer&lt;/h3&gt;
+&lt;p&gt;There are mirrors&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; from which you can download the installer.
+They are found &lt;a href=&#34;https://www.openbsd.org/ftp.html&#34;&gt;here&lt;/a&gt;.
+Always choose the one nearest your location to reduce download time.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.8/i386/install68.img
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;2-create-install-media-in-flash-drive&#34;&gt;2. Create Install Media in Flash Drive&lt;/h3&gt;
+&lt;p&gt;Plug in the USB stick.
+The following command assumes that the disk is recognized as &lt;code&gt;sdc1&lt;/code&gt;.
+Check with &lt;code&gt;dmesg&lt;/code&gt;, &lt;code&gt;df -h&lt;/code&gt;, or &lt;code&gt;lsblk&lt;/code&gt; commands, as root if need be.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo dd if=install*.img of=/dev/sdc1 bs=1M
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The &lt;code&gt;dd&lt;/code&gt; utility copies the standard input &lt;code&gt;if&lt;/code&gt; (or input file) to the standard output &lt;code&gt;of&lt;/code&gt; (or output file, which, in this case, is the USB drive).
+&lt;code&gt;bs&lt;/code&gt; stands for block size, and we set it to 1 megabyte.&lt;/p&gt;
+&lt;p&gt;In my case, the successful output is:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;450+0 records in
+450+0 records out
+471859200 bytes (472 MB, 450 MiB) copied, 31.9492 s, 14.8 MB/s
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;set-up-wi-fi-and-ethernet-networks&#34;&gt;Set up wi-fi and ethernet networks&lt;/h3&gt;
+&lt;h2 id=&#34;web-server-on-openbsd&#34;&gt;Web Server on OpenBSD&lt;/h2&gt;
+&lt;h3 id=&#34;configure-httpd8&#34;&gt;Configure httpd(8)&lt;/h3&gt;
+&lt;h3 id=&#34;enable-https-with-acme-client1-and-lets-encrypt&#34;&gt;Enable HTTPS with acme-client(1) and Let&amp;rsquo;s Encrypt&lt;/h3&gt;
+&lt;h3 id=&#34;add-http-security-headers-with-relayd8&#34;&gt;Add HTTP security headers with relayd(8)&lt;/h3&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;It&amp;rsquo;s just a server that provides the exact copy of data from another server.
+Usually to provide a means of redundancy. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
 </description>
     </item>
     
@@ -675,7 +714,7 @@ This means that:&lt;/p&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
-&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;quot;) right after them are external links, i.e. links outside of this website.&lt;/p&gt;
+&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;quot;) right after them are external links, i.e. links that take the visitor out of this website.&lt;/p&gt;
 &lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;oqolarte.github.io&lt;/code&gt;.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;oqolarte.github.io&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;mailto&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;#&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;/&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt; {
         &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34; ↗&amp;#34;&lt;/span&gt;; 

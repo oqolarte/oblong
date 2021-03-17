@@ -75,10 +75,10 @@ I know I may have implied [a slight distaste for JavaScript](/site/#no-javascrip
 
 As the user types a letter in the search bar, items with matching string of text remain, incrementally narrowing down the list.
 
-The JavaScript function is actually an Immediately Invoked Function Expression[^1], and it runs as soon as it is defined.
+The JavaScript function is actually an Immediately Invoked Function Expression[^iife], and it runs as soon as it is defined.
 
 The JavaScript code can either be wrapped in `<script>` tags at the end of the HTML page of the book list;
-or it can be separate file, like `search.js` living in the `your-hugo-site/static/js/search.js` directory which can then be invoked using Hugo Partials[^2].
+or it can be separate file, like `search.js` living in the `your-hugo-site/static/js/search.js` directory which can then be invoked using Hugo Partials[^hugo-partials].
 For posterity, here's the JS code:
 
 ```javascript
@@ -186,6 +186,6 @@ The phone's camera will serve as a backup.
 If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
 Right now, as mentioned, we focus the content management in IG due to its reach.
 
-[^1]: For more information, read the [Mozilla's explainer](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
-[^2]: Partials are smaller, context-aware components in your list and papge templates that can be used economically to keep your templating DRY ("Don't Repeat Yourself"). 
+[^iife]: For more information, read the [Mozilla's explainer](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+[^hugo-partials]: Partials are smaller, context-aware components in your list and papge templates that can be used economically to keep your templating DRY ("Don't Repeat Yourself"). 
 For more info, [read the Hugo documentation](https://gohugo.io/templates/partials/#readout).
