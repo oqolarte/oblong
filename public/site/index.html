@@ -3,7 +3,7 @@
 	<head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="generator" content="Hugo 0.81.0" />
+  <meta name="generator" content="Hugo 0.82.0" />
   
   <link rel="stylesheet" href="/css/style.css">
   
@@ -59,6 +59,8 @@
 <h2 class="statusOnGoing" id="status-on-going">Status: On-going</h2>
 <p>The making of this site is itself a personal project.
 Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.</p>
+<p>The status is likely to stay on-going;
+this site is always under construction.</p>
 <h2 id="digital-garden">Digital Garden</h2>
 <p>If you&rsquo;ve been looking around for personal websites like I have, &ldquo;digital garden&rdquo; is a phrase that gets used often.</p>
 <p>It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
@@ -99,6 +101,8 @@ I don&rsquo;t consider it a section of this site, though.
 It&rsquo;s only a link that you can copy and paste on your favorite RSS reader.</p>
 <p>A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
 A web service is available along these lines: check out <a href="https://rssby.email">RSS by email</a>.</p>
+<p>BONUS: If you&rsquo;re like me, then you&rsquo;re already a fan of RSS.
+For the newsletters that you&rsquo;d like to subscribe to <em>and</em> access them in your RSS reader (NOT on your email), you may want to look into <a href="https://kill-the-newsletter.com/">Kill the Newsletter</a> service.</p>
 <h2 id="front-end">Front-end</h2>
 <p>As you are well aware, this site has a very simple design.
 Admittedly, it&rsquo;s the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
@@ -115,7 +119,7 @@ This means that:</p>
 <li>no distractions.</li>
 </ul>
 <h3 id="link-management">Link Management</h3>
-<p>Links in this site that have a greenish northeast arrow (&ldquo;↗&rdquo; or &ldquo;<code>\2197</code>&quot;) right after them are external links, i.e. links that take the visitor out of this website.</p>
+<p>Links in this site that have a greenish northeast arrow (&ldquo;↗&rdquo; or &ldquo;<code>\2197</code>&rdquo; in CSS) right after them are external links, i.e. links that take the visitor out of this website.</p>
 <p>In CSS, I implented this using a selector that finds all links other than my own, which is <code>oqolarte.github.io</code>.</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">a</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#39;oqolarte.github.io&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;mailto&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;#&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;/&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span> {
         <span style="color:#66d9ef">content</span>: <span style="color:#e6db74">&#34; ↗&#34;</span>; 
@@ -127,13 +131,6 @@ This means that:</p>
 Clicking one does <strong><em>not</em></strong> open it in a new tab.
 You have to manually right-click it and select <code>Open in a new tab</code> (or click with Mouse3/MouseWheel).</p>
 <h3 id="no-javascript">No JavaScript?</h3>
-<figure>
-    <img src="/image/nojs.png"
-         alt="screenshot from estimator dot dev evaluating this site as no javascript detected"/> <figcaption>
-            <p>Look, ma! No JS, according to estimator.dev!</p>
-        </figcaption>
-</figure>
-
 <p>It&rsquo;s not really that I find JS harmful, although some would argue that it could be.
 I don&rsquo;t even know enough of the language to make that claim.
 In fact, I used JS to <a href="/alwayscarry/#search-functionality">add a search functionality on small bookshop website</a> I volunteered to create for Isya.</p>
@@ -174,7 +171,7 @@ Here, I set it to 85.</li>
 <p>I use <a href="https://gohugo.io">Hugo</a> static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.</p>
 <h3 id="in-the-name-of-static-site-generator-ssg">In the name of Static Site Generator (SSG)</h3>
-<p>Using SSG like Hugo arguably increases security by simplifying a lot of things.
+<p>Using SSG like Hugo arguably increases security by simplifying a lot of things<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.
 There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.</p>
 <p>All the content is written in Markdown, a simple markup &ldquo;language&rdquo; for creating formatted text using a plaintext editor.
 This means that all the files are lightweight and portable, easy to backup and transfer between computers.</p>
@@ -183,7 +180,7 @@ Since web browsers can only read HTML files, compilation means that SSG converts
 And if you&rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).</p>
 <p>It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.</p>
-<p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup> anytime!</p>
+<p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> anytime!</p>
 <h3 id="using-hugo">Using Hugo</h3>
 <p>There are a lot of tutorials online on how to start a blog using Hugo.
 A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
@@ -196,7 +193,7 @@ Your mileage may vary.</p>
 <p>As with everything else, it&rsquo;s important to be patient and willing to read the documentation.
 Some documentations are good, some are bad, some don&rsquo;t even exist!
 In any case, you can also ask the community if you&rsquo;re stuck somewhere.
-Hugo has a decent documentation<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>.</p>
+Hugo has a decent documentation<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
 <p>My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
 <p>Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&rsquo;ll see.
@@ -253,12 +250,16 @@ Visit their page for more info. <a href="#fnref:2" class="footnote-backref" role
 As an added bonus, it&rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4" role="doc-endnote">
-<p>Check out <a href="https://jamstack.org/generators/">Jamstack</a> for a list of hundreds of possible SSGs! <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Or, if you have <a href="https://pandoc.org/">Pandoc</a> in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
+It takes some fiddling around the documentation, but it can be done. <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:5" role="doc-endnote">
+<p>Check out <a href="https://jamstack.org/generators/">Jamstack</a> for a list of hundreds of possible SSGs! <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6" role="doc-endnote">
 <p>By &ldquo;decent&rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&rsquo;s reliable.
-However, the more complex you make your site, you&rsquo;ll find that Hugo documentation still needs more polishing. <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+However, the more complex you make your site, you&rsquo;ll find that Hugo documentation still needs more polishing. <a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>

@@ -658,6 +658,8 @@ Usually to provide a means of redundancy. &lt;a href=&#34;#fnref:1&#34; class=&#
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;The making of this site is itself a personal project.
 Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.&lt;/p&gt;
+&lt;p&gt;The status is likely to stay on-going;
+this site is always under construction.&lt;/p&gt;
 &lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
 &lt;p&gt;If you&amp;rsquo;ve been looking around for personal websites like I have, &amp;ldquo;digital garden&amp;rdquo; is a phrase that gets used often.&lt;/p&gt;
 &lt;p&gt;It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
@@ -698,6 +700,8 @@ I don&amp;rsquo;t consider it a section of this site, though.
 It&amp;rsquo;s only a link that you can copy and paste on your favorite RSS reader.&lt;/p&gt;
 &lt;p&gt;A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
 A web service is available along these lines: check out &lt;a href=&#34;https://rssby.email&#34;&gt;RSS by email&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;BONUS: If you&amp;rsquo;re like me, then you&amp;rsquo;re already a fan of RSS.
+For the newsletters that you&amp;rsquo;d like to subscribe to &lt;em&gt;and&lt;/em&gt; access them in your RSS reader (NOT on your email), you may want to look into &lt;a href=&#34;https://kill-the-newsletter.com/&#34;&gt;Kill the Newsletter&lt;/a&gt; service.&lt;/p&gt;
 &lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
 &lt;p&gt;As you are well aware, this site has a very simple design.
 Admittedly, it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
@@ -714,7 +718,7 @@ This means that:&lt;/p&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
-&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;quot;) right after them are external links, i.e. links that take the visitor out of this website.&lt;/p&gt;
+&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are external links, i.e. links that take the visitor out of this website.&lt;/p&gt;
 &lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;oqolarte.github.io&lt;/code&gt;.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;oqolarte.github.io&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;mailto&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;#&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;/&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt; {
         &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34; ↗&amp;#34;&lt;/span&gt;; 
@@ -726,13 +730,6 @@ This means that:&lt;/p&gt;
 Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab.
 You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;/code&gt; (or click with Mouse3/MouseWheel).&lt;/p&gt;
 &lt;h3 id=&#34;no-javascript&#34;&gt;No JavaScript?&lt;/h3&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;/image/nojs.png&#34;
-         alt=&#34;screenshot from estimator dot dev evaluating this site as no javascript detected&#34;/&gt; &lt;figcaption&gt;
-            &lt;p&gt;Look, ma! No JS, according to estimator.dev!&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
 &lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it could be.
 I don&amp;rsquo;t even know enough of the language to make that claim.
 In fact, I used JS to &lt;a href=&#34;/alwayscarry/#search-functionality&#34;&gt;add a search functionality on small bookshop website&lt;/a&gt; I volunteered to create for Isya.&lt;/p&gt;
@@ -773,7 +770,7 @@ Here, I set it to 85.&lt;/li&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.&lt;/p&gt;
 &lt;h3 id=&#34;in-the-name-of-static-site-generator-ssg&#34;&gt;In the name of Static Site Generator (SSG)&lt;/h3&gt;
-&lt;p&gt;Using SSG like Hugo arguably increases security by simplifying a lot of things.
+&lt;p&gt;Using SSG like Hugo arguably increases security by simplifying a lot of things&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.
 There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.&lt;/p&gt;
 &lt;p&gt;All the content is written in Markdown, a simple markup &amp;ldquo;language&amp;rdquo; for creating formatted text using a plaintext editor.
 This means that all the files are lightweight and portable, easy to backup and transfer between computers.&lt;/p&gt;
@@ -782,7 +779,7 @@ Since web browsers can only read HTML files, compilation means that SSG converts
 And if you&amp;rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).&lt;/p&gt;
 &lt;p&gt;It might sound tedious, because it is at first!
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p&gt;
-&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
 &lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
 &lt;p&gt;There are a lot of tutorials online on how to start a blog using Hugo.
 A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
@@ -795,7 +792,7 @@ Your mileage may vary.&lt;/p&gt;
 &lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to read the documentation.
 Some documentations are good, some are bad, some don&amp;rsquo;t even exist!
 In any case, you can also ask the community if you&amp;rsquo;re stuck somewhere.
-Hugo has a decent documentation&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+Hugo has a decent documentation&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
 &lt;p&gt;Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&amp;rsquo;ll see.
@@ -852,12 +849,16 @@ Visit their page for more info. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnot
 As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs! &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or, if you have &lt;a href=&#34;https://pandoc.org/&#34;&gt;Pandoc&lt;/a&gt; in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
+It takes some fiddling around the documentation, but it can be done. &lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs! &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;By &amp;ldquo;decent&amp;rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&amp;rsquo;s reliable.
-However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing. &lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing. &lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;

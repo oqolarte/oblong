@@ -11,6 +11,57 @@
     
     
     <item>
+      <title>Week 11</title>
+      <link>/wk11/</link>
+      <pubDate>Mon, 22 Mar 2021 00:48:28 +0800</pubDate>
+      
+      <guid>/wk11/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Because there&amp;rsquo;s no creative way to title this post.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added new sections in &lt;a href=&#34;/server/&#34;&gt;Server&lt;/a&gt;.
+Yes, kids, it&amp;rsquo;s happening.
+Or at least, bit by bit, I&amp;rsquo;m getting into it&amp;mdash;
+my homebrewed server is coming along.&lt;/li&gt;
+&lt;li&gt;Added some lines and a footnote in the &lt;a href=&#34;/site/&#34;&gt;Site&lt;/a&gt; about Pandoc.
+An image is also removed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;and-now-the-news&#34;&gt;And now, the news&lt;/h2&gt;
+&lt;p&gt;After I changed the DNS for this site, something went off:
+the site goes down every update, only to go back up in a few hours.
+I&amp;rsquo;ll be fiddling still with my DNS registrar, but it is what it is for the moment.&lt;/p&gt;
+&lt;p&gt;Some time this week, the news of 7,000+ new COVID cases got many people alarmed.
+As of this writing, we are yet again, in a lockdown.
+I think they are calling this either &amp;ldquo;soft MECQ&amp;rdquo; or a &amp;ldquo;hard GCQ.&amp;rdquo;
+One meme thinks this is &amp;ldquo;poor governance&amp;rdquo; and I tend to agree.&lt;/p&gt;
+&lt;p&gt;I try to limit my errands outdoors.
+Honestly, it&amp;rsquo;s not hard to stay put.
+With both the pandemic and the sun still wreaking havoc, I&amp;rsquo;m inclined to not venture away from home.&lt;/p&gt;
+&lt;p&gt;Special thanks to the newly installed &lt;em&gt;Diablo 2: Lord of Destruction&lt;/em&gt; game running atop Wine&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
+So much nostalgia.
+Running through the game with a Fire Druid build, if that matters to anyone.
+Free time made me install the game, but I&amp;rsquo;m only partly to blame.&lt;/p&gt;
+&lt;p&gt;As for my body, I&amp;rsquo;m fully recovered now&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.
+I must remember to do warm-ups and cool-downs before and after workout respectively.&lt;/p&gt;
+&lt;p&gt;During the recovery, though, I did have breakouts.
+It&amp;rsquo;s a spell, I think, activated at the time of lethargy.
+My body reminds me that it didn&amp;rsquo;t evolve through millenia of struggle just to slouch indoors.
+But I&amp;rsquo;m only partly to blame.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Wine (&amp;ldquo;Wine Is Not an Emulator&amp;rdquo;) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Debian, the one in my machine right now.
+More info: &lt;a href=&#34;https://winehq.org&#34;&gt;https://winehq.org&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Muscle pains had afflicted my thighs for days when I attempted to do pistol squats without properly learning the technique. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>What D&amp;D Character Am I?</title>
       <link>/cgud/</link>
       <pubDate>Wed, 17 Mar 2021 14:52:37 +0800</pubDate>

@@ -9,6 +9,9 @@ draft: false
 The making of this site is itself a personal project. 
 Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.
 
+The status is likely to stay on-going;
+this site is always under construction.
+
 ## Digital Garden
 
 If you've been looking around for personal websites like I have, "digital garden" is a phrase that gets used often.
@@ -67,6 +70,9 @@ It's only a link that you can copy and paste on your favorite RSS reader.
 A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
 A web service is available along these lines: check out [RSS by email](https://rssby.email).
 
+BONUS: If you're like me, then you're already a fan of RSS.
+For the newsletters that you'd like to subscribe to *and* access them in your RSS reader (NOT on your email), you may want to look into [Kill the Newsletter](https://kill-the-newsletter.com/) service.
+
 ## Front-end
 
 As you are well aware, this site has a very simple design.
@@ -86,7 +92,7 @@ This means that:
 
 ### Link Management
 
-Links in this site that have a greenish northeast arrow ("↗" or "`\2197`") right after them are external links, i.e. links that take the visitor out of this website.
+Links in this site that have a greenish northeast arrow ("↗" or "`\2197`" in CSS) right after them are external links, i.e. links that take the visitor out of this website.
 
 In CSS, I implented this using a selector that finds all links other than my own, which is `oqolarte.github.io`.
 
@@ -105,8 +111,6 @@ Clicking one does **_not_** open it in a new tab.
 You have to manually right-click it and select `Open in a new tab` (or click with Mouse3/MouseWheel).
 
 ### No JavaScript?
-
-{{< figure src="/image/nojs.png" alt="screenshot from estimator dot dev evaluating this site as no javascript detected" caption="Look, ma! No JS, according to estimator.dev!" >}}
 
 It's not really that I find JS harmful, although some would argue that it could be.
 I don't even know enough of the language to make that claim.
@@ -162,8 +166,11 @@ There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo
 
 ### In the name of Static Site Generator (SSG)
 
-Using SSG like Hugo arguably increases security by simplifying a lot of things.
+Using SSG like Hugo arguably increases security by simplifying a lot of things[^pandoc].
 There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.
+
+[^pandoc]: Or, if you have [Pandoc](https://pandoc.org/) in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
+It takes some fiddling around the documentation, but it can be done.
 
 All the content is written in Markdown, a simple markup "language" for creating formatted text using a plaintext editor.
 This means that all the files are lightweight and portable, easy to backup and transfer between computers.
