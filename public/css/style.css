@@ -1,5 +1,5 @@
 @media (prefers-color-scheme: dark){
-	body {color:#e0e0e0;background:#121212}
+	body {color:#e0e0e0;background:#000}
 	a:link {color:#7aa3cc}
 	a:hover, a:visited:hover {color:#a3becc}
 	a:visited {color:#a37acc} }
@@ -18,9 +18,14 @@ figcaption { text-align:center; font-size: 0.8em;color: #808080 }
 blockquote { font: 1.1em/1.4 serif;padding-left: 0.9em;border-left: 5px solid #6b7c85 }
 code,kbd,pre,samp { font-family: monospace;overflow-x: auto }
 sub,sup { font-size: 69% }
+footer :target { background: yellow }
 .container { max-width: 700px }
 .small {font-size: 0.8em}
 .footnotes { font-size: 0.9em }
+.footnotes :target { background: yellow }
+.footnote-ref:before { content:"["}
+.footnote-ref:after { content:"]"}
+.footnote-ref, .footnote-backref { text-decoration: none; font-weight:bold }
 .statusOnGoing { text-shadow: 1px 1px 2px #0040ff;color: #ffbf00 }
 .statusOpen { text-shadow: 1px 1px 2px #85fcfc;color: #8a0303 }
 .statusDone { text-shadow: 1px 1px 2px #ca76b4;color: #76c78c }

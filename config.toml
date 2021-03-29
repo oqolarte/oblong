@@ -14,22 +14,6 @@ enableGitInfo = true
 [params]
 	dateFormat = "2 Jan 2006"
 
-[menu]
-	[[menu.main]]
-	name = "Log"
-	url = "/log"
-	weight = 1 
-	
-	[[menu.main]]
-	name = "Projects"
-	url = "/project"
-	weight = 2 
-
-	[[menu.main]]
-	name = "RSS"
-	url = "/log/index.xml"
-	weight = 3 
-
 [privacy]
 	[privacy.disqus]
 		disable = true
