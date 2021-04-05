@@ -11,7 +11,7 @@ This should prevent others from copying/adapting my work *and then* closing the 
 I also removed the icon.
 All this nuisance, I hope that it matters.
 - Added my CV in the [Index](/), in case a prospective employer wanders in.
-- Added new segments to [The Site]({{< ref "/project/site.md" >}})
+- Added new segments to [The Site](/site)
 - Removed the navigation menu. The major sections can be accessed in the Index, and at the end of each Page.
 
 When we visited Isya's Inay[^1] yesterday in Marikina, the lunch was already waiting for us.

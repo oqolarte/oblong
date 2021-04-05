@@ -4,7 +4,7 @@ date: 2020-12-22T22:37:41+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "server", "web server", "homebrew server", "server in the basement", "debian as server", "openbsd as server"]
 draft: false
 ---
-## Status: Open {.statusOpen}
+## Status: On-going {.statusOnGoing}
 
 I want to host this very site you're in in a server that I own.
 
@@ -83,7 +83,7 @@ Their [manual pages](https://man.openbsd.org) contain the details needed to oper
 
 If you're new to the system, I highly recommend to go over the [OpenBSD FAQ - Installation Guide](https://www.openbsd.org/faq/faq4.html) at least once.
 
-I'm installing from a Debian-based system, through the terminal, so most of the commands here are based on that.
+I'm downloading the image from a Debian-based system, through the terminal, so most of the commands here are based on that.
 
 ### 1. Download the installer
 
@@ -117,8 +117,141 @@ In my case, the successful output is:
 471859200 bytes (472 MB, 450 MiB) copied, 31.9492 s, 14.8 MB/s
 ```
 
+### 3. Proceed with the Installation.
+
+Insert the USB drive into the machine.
+Boot from the USB drive.
+
+On the prompt, select **(i)**nstall and answer the questions.
+
+The default answers are sane.
+Most of my choices are the default ones.
+Yours may differ.
+
+Below is an incomplete list of questions during the installation, that I put here to remind my FutureSelf of the choice I made:
+
+DNS domain name? **araw.xyz**  
+Do you want the X Window System to be started by xenodm(1)? **no[^xenodm]**  
+Which disk contains the install media? **sd0[^sd0]**  
+Directory does not contain SHA256.sig. Continue without verification? **yes**  
+
+Reboot after installation.
+
+Then login as root.
+
+#### Enable `apmd(8)`
+
+```
+rcctl enable apmd
+rcctl set apmd flags -a -z 7
+rcctl start apmd
+```
+
+#### Add username to `/etc/doas.conf`
+
+```
+echo 'permit yourUserName` > /etc/doas.conf
+```
+
+Reboot to make the changes.
+
+[^xenodm]: Since this is going to be a server, graphical user interface is not needed.
+
+[^sd0]: The USB drive.
+This might be different for every other machine.
+At any point during the installation, type `?` to list the possible choices.
 
 ### Set up wi-fi and ethernet networks
+
+Before doing anything else, we need to make sure that we are connected to the internet.
+This is to update any firmwares (using `fw_update`) and patches (using `syspatch`).
+
+If for some reason, you can't connect to the internet, there's still a way to install the needed firmwares, which will be discussed below.
+
+#### Ethernet
+Most OpenBSD developers would tell you to use ethernet when you have it.
+It's reliable and secure.
+
+Network interfaces are named by taking the shorthand version of the network card.
+
+This laptop has `re(4)`, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/Gigabit Ethernet device.
+
+#### Wi-fi
+This laptop has wi-fi capabilities, but isn't immediately compatible due to firmware issues.
+
+This laptop has `ath(4)`, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.
+
+#### Installing the needed firmware (from another device)
+
+Not everything works as expected.
+Ethernet might not work out of the box.
+Wi-fi is unlikely to work, too, if the firmwares aren't updated.
+If you find yourself in this situation, there's another solution:
+get the firmware files from another computer that's connected to the internet.
+
+Then:
+
+1. On your OpenBSD machine, list the needed firmware.
+`fw_update` will determine this (you must be root).
+In this laptop, the firmwares needed are `intel-firmware`, `athn-firmware`, and `inteldrm-firmware`.
+1. On the other device (the one connected to the internet), go to http://firmware.openbsd.org and select the version you are installing.
+Download the firmware files in your list to a USB drive **formatted as FAT32**.
+(OpenBSD can't natively read ext4 or NTFS partitions.)
+    1. There are different ways you can format a USB drive to FAT32, depending on the platform you're doing the formatting on. 
+        If you're on a Debian-based system like I am, install the *dosfstools*.
+        ```
+        sudo apt install dosfstools
+        ```
+    1. Locate your USB drive by running this in terminal:
+        ```
+        lsblk
+        ```
+        In my case, it's `/dev/sdc` .
+    1. Unmount the USB drive, because we can't format it when mounted:
+        ```
+        sudo umount /dev/sdc
+        ```
+    1. Create a new partition table, which we will determine to be `msdos`.
+        ```
+        sudo parted /dev/sdc --script -- mklabel msdos
+        ```
+    1. Specify that the whole drive must be of FAT32 file system, primary partition type:
+        ```
+        sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
+        ```
+    1. Format the drive to FAT32:
+        ```
+        sudo mkfs.fat -F 32 -I /dev/sdc
+        ```
+    1. (Optional) Check if your device has been partitioned correctly:
+        ```
+        sudo parted /dev/sdc --script print
+        ```
+1. Insert the USB drive to the OpenBSD machine.
+As root, enter `diskutil list`.
+Your USB drive will appear to have several partitions, e.g. sd1c.
+1. Create a mount point under /mnt (as root):
+        ```
+        mkdir /mnt/usb
+        ```
+1. Mount the USB (as root):
+        ```
+        mount /dev/sd1i /mnt/usb
+        ```
+1. Once mounted, install the firmware manually (as root):
+        ```
+        fw_update -p /mnt/usb
+        ```
+1. Reboot
+
+### Optional things
+
+In this laptop, I'm going install several binaries from the ports, namely **git** (version control system), **neovim** (text editor), and **rsync** (synchronization program)
+
+To install in one go, enter as root:
+```
+pkg_add git neovim rsync
+```
 
 ## Web Server on OpenBSD
 

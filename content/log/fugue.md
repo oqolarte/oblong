@@ -4,11 +4,11 @@ date: 2020-12-22T22:46:44+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Added some lines and footnotes to [The Site]({{< ref "project/site.md" >}}) project
-- Added a new project: [Own Web Server]({{< ref "project/server.md" >}}). There's nothing there yet except a few lines.
+- Added some lines and footnotes to [The Site](/site/) project
+- Added a new project: [Own Web Server](/server/). There's nothing there yet except a few lines.
 - Minor edit of blurb on landing page
 - Added yet another item on to-do list for The Site
-- Added color to status on [Projects]({{< ref "project/" >}})
+- Added color to status on [Projects](/project/)
 
 So many unwanted noise all around us.
 It could be all ending soon, but there is no clue when.

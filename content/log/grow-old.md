@@ -7,7 +7,7 @@ draft: false
 - Listed new project: [Always Carry A Book website]({{< ref "/project/alwayscarry.md">}}).
 It's currently under construction, but feel free to check either the post, or the website.
 - Changed background color of a blockquote.
-- Changed some wording in [This Site]({{< ref "/project/site.md" >}}) project, something about my opinion on not having JavaScript
+- Changed some wording in [This Site](/site) project, something about my opinion on not having JavaScript
 
 *Hirap tumanda.*
 

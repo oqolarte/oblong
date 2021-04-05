@@ -4,7 +4,7 @@ date: 2021-02-01T11:55:26+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Removed a few sentences in [This Site]({{< ref "/project/site.md" >}}), particularly those about my implied distaste towards JS.
+- Removed a few sentences in [This Site](/site), particularly those about my implied distaste towards JS.
 
 After more than a year of not making an appearance in our ancestral house in Pagkakaisa Street, Isya and I finally went there yesterday.
 

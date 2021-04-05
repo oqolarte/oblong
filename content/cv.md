@@ -4,7 +4,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
 Email: ohio@araw.xyz  
-Website: [oqolarte.github.io](/)  
+Website: [ohio.araw.xyz](/)  
 
 ## SUMMARY
 Aspiring to forward more sustainable solutions and technologies for a more inclusive future.

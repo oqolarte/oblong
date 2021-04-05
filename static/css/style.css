@@ -8,7 +8,8 @@ body {  margin:1em auto;
 	    padding: 0.69em;
         font: 1.2em/1.5 Helvetica, Arial, Tahoma, sans-serif }
 a:hover { color:#69bb69 }
-a:not([href*='oqolarte.github.io']):not([href^='mailto']):not([href^='#']):not([href^='/']):after {
+a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
+a[href^="https://"]:not([href*="ohio.araw.xyz"]):after{
         content: "\2197";
         color: #69bb69;
         display: inline-block }

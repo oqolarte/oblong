@@ -5,7 +5,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "life hacks", "expe
 draft: false
 ---
 - Added new project: [Encoding]({{< ref "/project/encode.md" >}})
-- Added some lines in [This Site]({{< ref "/project/site.md" >}}) project, expounding more on the use of Hugo.
+- Added some lines in [This Site](/site) project, expounding more on the use of Hugo.
 
 Lower---or, better yet, *eliminate*---expectations.  
 *'Wag (masyadong) umasa.*

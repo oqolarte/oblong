@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a log on somersaulting</title>
-    <link>/project/</link>
+    <link>https://ohio.araw.xyz/project/</link>
     <description>Recent content in Projects on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Imbentori: A Tumblr Blog</title>
-      <link>/imbentori/</link>
+      <link>https://ohio.araw.xyz/imbentori/</link>
       <pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate>
       
-      <guid>/imbentori/</guid>
+      <guid>https://ohio.araw.xyz/imbentori/</guid>
       <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
 &lt;p&gt;It may or may not have been obvious, but people around my age are fond of expressing themselves on the internet.&lt;/p&gt;
 &lt;p&gt;I was active in one platform which is still out there, on Tumblr, that you can still visit:&lt;/p&gt;
@@ -58,10 +58,10 @@ Some 20(20) years ago when I last visited an art museum (or was it just gallery?
     
     <item>
       <title>iPod Classic Hard Drive Upgrade</title>
-      <link>/mercipod/</link>
+      <link>https://ohio.araw.xyz/mercipod/</link>
       <pubDate>Tue, 02 Feb 2021 17:45:52 +0800</pubDate>
       
-      <guid>/mercipod/</guid>
+      <guid>https://ohio.araw.xyz/mercipod/</guid>
       <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
 &lt;p&gt;&amp;lsquo;Nay Merci, Isya&amp;rsquo;s mom, sent her iPod Classic&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to me for repair, a device that&amp;rsquo;s at least ten years old now.
 It&amp;rsquo;s life can still be stretched by upgrading some of its components.&lt;/p&gt;
@@ -74,7 +74,7 @@ Pardon the amateur.&lt;/p&gt;
 &lt;h2 id=&#34;getting-what-i-need&#34;&gt;Getting what I need&lt;/h2&gt;
 &lt;p&gt;Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi1.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi1.jpeg&#34;
          alt=&#34;a spread of items needed to upgrade the ipod, including hard drive and prying tools&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;TOP HALF, LEFT TO RIGHT: iPod Classic, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -142,7 +142,7 @@ It&amp;rsquo;s better to make sure, than force something  and then breaking it n
 &lt;p&gt;Now we will be discussing the steps involved in taking out the old hard drive to be replaced with the new solid state one.&lt;/p&gt;
 &lt;h3 id=&#34;1-open-the-ipod&#34;&gt;1. Open the iPod&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi2.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi2.jpeg&#34;
          alt=&#34;an image of ipod and a small roll of washi tape below it&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Washi tape marks the locations of the metal clips&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -158,7 +158,7 @@ Disengaging the clips on both sides can be done after, either by alternating bet
 Refer to the video tutorial first on how exactly this is done.&lt;/p&gt;
 &lt;h3 id=&#34;2-disconnecting-the-battery-ribbon&#34;&gt;2. Disconnecting the battery ribbon&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi3.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi3.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Disconnecting the battery ribbon&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -170,7 +170,7 @@ metal-clips shouldn&amp;rsquo;t open it wide yet, because there&amp;rsquo;s a ba
 &lt;p&gt;With a plastic prying tool, slide up the black plastic clip that holds the battery ribbon.
 The battery ribbon can now be lifted (carefully) up, still with the help of a prying tool.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi4.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi4.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Freshly opened iPod. LEFT: Back metal shell, battery (the yellow-orange rectangle); RIGHT: Front chassis, and what you&amp;rsquo;re seeing is the mechanical hard drive and some foam&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -185,7 +185,7 @@ Keep it in tact.&lt;/p&gt;
 &lt;h3 id=&#34;3-disconnect-the-original-hard-drive&#34;&gt;3. Disconnect the original hard drive&lt;/h3&gt;
 &lt;p&gt;The original hard drive is attached to the motherboard via flexible flat cable (FFC) through called a Zero Insertion Force (ZIF) connector.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi5.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi5.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Disconnecting the HDD&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -195,7 +195,7 @@ Keep it in tact.&lt;/p&gt;
 Do that carefully with a plastic prying tool.&lt;/p&gt;
 &lt;p&gt;Once disengaged, the hard drive shall be easy to pull off.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi6.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi6.jpeg&#34;
          alt=&#34;an opened ipod and a mechanical hard disk&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;RIGHTMOST: Hard drive successfully removed&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -209,7 +209,7 @@ This will act as a spacer between the adapter and the iPod&amp;rsquo;s circuit b
 The adapter being thinner than the original hard drive, the foam provides a snug fit, so the iPod won&amp;rsquo;t be an overpriced maracas.
 Refer to the following image to know which side the foam must be placed.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi7.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi7.jpeg&#34;
          alt=&#34;image of iFlash solid state drive&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;iFlash-Quad, with foams&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -221,7 +221,7 @@ If the FFC is somewhat resisting, be sure that it is evenly sliding in, not at a
 Then, lock it in by putting the black plastic flap back down.&lt;/p&gt;
 &lt;p&gt;Check the following image to see the orientation of the adapter during connection.
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi8.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi8.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Installing the solid state drive&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -233,7 +233,7 @@ Then, lock it in by putting the black plastic flap back down.&lt;/p&gt;
 Lock it in by pushing down the black plastic slider.
 Give it a light tug to ensure that it isn&amp;rsquo;t loosely connected.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi9.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi9.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Reconnecting the battery ribbon&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -281,10 +281,10 @@ Without prior knowledge, one would think that the iPod was not designed to be ma
     
     <item>
       <title>Encoding: From Hardcopy to Softcopy</title>
-      <link>/encode/</link>
+      <link>https://ohio.araw.xyz/encode/</link>
       <pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate>
       
-      <guid>/encode/</guid>
+      <guid>https://ohio.araw.xyz/encode/</guid>
       <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
 &lt;p&gt;One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.&lt;/p&gt;
 &lt;p&gt;Here is an attempt to document the entire process.&lt;/p&gt;
@@ -384,17 +384,17 @@ Most of the password managers have randomizers, which prints out random strings 
     
     <item>
       <title>Always Carry A Book Website</title>
-      <link>/alwayscarry/</link>
+      <link>https://ohio.araw.xyz/alwayscarry/</link>
       <pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate>
       
-      <guid>/alwayscarry/</guid>
+      <guid>https://ohio.araw.xyz/alwayscarry/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;My partner has asked me to come up with a website to act as a central hub for their recently opened online bookshop.
 This site shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p&gt;
 &lt;p&gt;Visit the site, whose name I also came up with:
 &lt;strong&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;Always Carry A Book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/acabooks.png&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/acabooks.png&#34;
          alt=&#34;screenshot from Always Carry A Book website &#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Screenshot from the website&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -435,7 +435,7 @@ Finally, I have set up Netlify to detect the changes from the repository, and th
 &lt;p&gt;As we upload more content, i.e. more books, the list grows.
 I have added a search bar in the list page to help visitors, using JavaScript.
 This is based on &lt;a href=&#34;https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/&#34;&gt;zwbetz&amp;rsquo;s tutorial&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I know I may have implied &lt;a href=&#34;/site/#no-javascript&#34;&gt;a slight distaste for JavaScript&lt;/a&gt;, but since we intend this to be an e-commerce site, we have to be in a different mindset.&lt;/p&gt;
+&lt;p&gt;I know I may have implied &lt;a href=&#34;https://ohio.araw.xyz/site/#no-javascript&#34;&gt;a slight distaste for JavaScript&lt;/a&gt;, but since we intend this to be an e-commerce site, we have to be in a different mindset.&lt;/p&gt;
 &lt;p&gt;As the user types a letter in the search bar, items with matching string of text remain, incrementally narrowing down the list.&lt;/p&gt;
 &lt;p&gt;The JavaScript function is actually an Immediately Invoked Function Expression&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and it runs as soon as it is defined.&lt;/p&gt;
 &lt;p&gt;The JavaScript code can either be wrapped in &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; tags at the end of the HTML page of the book list;
@@ -547,11 +547,11 @@ For more info, &lt;a href=&#34;https://gohugo.io/templates/partials/#readout&#34
     
     <item>
       <title>Own Web Server</title>
-      <link>/server/</link>
+      <link>https://ohio.araw.xyz/server/</link>
       <pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate>
       
-      <guid>/server/</guid>
-      <description>&lt;h2 class=&#34;statusOpen&#34; id=&#34;status-open&#34;&gt;Status: Open&lt;/h2&gt;
+      <guid>https://ohio.araw.xyz/server/</guid>
+      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;I want to host this very site you&amp;rsquo;re in in a server that I own.&lt;/p&gt;
 &lt;p&gt;Simply put, a server is just like any other computer, with lots of functionalities, like providing services or serving files to other computers (clients, as they are called in this context) that access it.&lt;/p&gt;
 &lt;p&gt;In my use case, I will use it to host the HTML files of this site, and serve it to you, visitors, through your device/s (clients).&lt;/p&gt;
@@ -583,7 +583,7 @@ These days, though, it&amp;rsquo;s vulnerable to a lot of cyberattacks, more so 
 And yet, some institutions still use it.
 If their computers are connected to the Internet, they are exposed to black hat hackers.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/msi-wind.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/msi-wind.jpeg&#34;
          alt=&#34;screenshot of the laptop&amp;#39;s system properties&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;And now, a crappy photo of the laptop&amp;rsquo;s system properties&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -615,7 +615,7 @@ While I&amp;rsquo;ll do my best to update this document, assume that the most re
 Their &lt;a href=&#34;https://man.openbsd.org&#34;&gt;manual pages&lt;/a&gt; contain the details needed to operate a machine running on OpenBSD, and is entirely available offline on a base install.&lt;/p&gt;
 &lt;h2 id=&#34;installing-openbsd-on-bare-metal&#34;&gt;Installing OpenBSD on bare metal&lt;/h2&gt;
 &lt;p&gt;If you&amp;rsquo;re new to the system, I highly recommend to go over the &lt;a href=&#34;https://www.openbsd.org/faq/faq4.html&#34;&gt;OpenBSD FAQ - Installation Guide&lt;/a&gt; at least once.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m installing from a Debian-based system, through the terminal, so most of the commands here are based on that.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m downloading the image from a Debian-based system, through the terminal, so most of the commands here are based on that.&lt;/p&gt;
 &lt;h3 id=&#34;1-download-the-installer&#34;&gt;1. Download the installer&lt;/h3&gt;
 &lt;p&gt;There are mirrors&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; from which you can download the installer.
 They are found &lt;a href=&#34;https://www.openbsd.org/ftp.html&#34;&gt;here&lt;/a&gt;.
@@ -632,8 +632,95 @@ Check with &lt;code&gt;dmesg&lt;/code&gt;, &lt;code&gt;df -h&lt;/code&gt;, or &l
 &lt;pre&gt;&lt;code&gt;450+0 records in
 450+0 records out
 471859200 bytes (472 MB, 450 MiB) copied, 31.9492 s, 14.8 MB/s
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;set-up-wi-fi-and-ethernet-networks&#34;&gt;Set up wi-fi and ethernet networks&lt;/h3&gt;
-&lt;h2 id=&#34;web-server-on-openbsd&#34;&gt;Web Server on OpenBSD&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;3-proceed-with-the-installation&#34;&gt;3. Proceed with the Installation.&lt;/h3&gt;
+&lt;p&gt;Insert the USB drive into the machine.
+Boot from the USB drive.&lt;/p&gt;
+&lt;p&gt;On the prompt, select **(i)**nstall and answer the questions.&lt;/p&gt;
+&lt;p&gt;The default answers are sane.
+Most of my choices are the default ones.
+Yours may differ.&lt;/p&gt;
+&lt;p&gt;Below is an incomplete list of questions during the installation, that I put here to remind my FutureSelf of the choice I made:&lt;/p&gt;
+&lt;p&gt;DNS domain name? &lt;strong&gt;araw.xyz&lt;/strong&gt;&lt;br&gt;
+Do you want the X Window System to be started by xenodm(1)? &lt;strong&gt;no&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt;&lt;br&gt;
+Which disk contains the install media? &lt;strong&gt;sd0&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt;&lt;br&gt;
+Directory does not contain SHA256.sig. Continue without verification? &lt;strong&gt;yes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reboot after installation.&lt;/p&gt;
+&lt;p&gt;Then login as root.&lt;/p&gt;
+&lt;h4 id=&#34;enable-apmd8&#34;&gt;Enable &lt;code&gt;apmd(8)&lt;/code&gt;&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;rcctl enable apmd
+rcctl set apmd flags -a -z 7
+rcctl start apmd
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;add-username-to-etcdoasconf&#34;&gt;Add username to &lt;code&gt;/etc/doas.conf&lt;/code&gt;&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;echo &#39;permit yourUserName` &amp;gt; /etc/doas.conf
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Reboot to make the changes.&lt;/p&gt;
+&lt;h3 id=&#34;set-up-wi-fi-and-ethernet-networks&#34;&gt;Set up wi-fi and ethernet networks&lt;/h3&gt;
+&lt;p&gt;Before doing anything else, we need to make sure that we are connected to the internet.
+This is to update any firmwares (using &lt;code&gt;fw_update&lt;/code&gt;) and patches (using &lt;code&gt;syspatch&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;If for some reason, you can&amp;rsquo;t connect to the internet, there&amp;rsquo;s still a way to install the needed firmwares, which will be discussed below.&lt;/p&gt;
+&lt;h4 id=&#34;ethernet&#34;&gt;Ethernet&lt;/h4&gt;
+&lt;p&gt;Most OpenBSD developers would tell you to use ethernet when you have it.
+It&amp;rsquo;s reliable and secure.&lt;/p&gt;
+&lt;p&gt;Network interfaces are named by taking the shorthand version of the network card.&lt;/p&gt;
+&lt;p&gt;This laptop has &lt;code&gt;re(4)&lt;/code&gt;, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/Gigabit Ethernet device.&lt;/p&gt;
+&lt;h4 id=&#34;wi-fi&#34;&gt;Wi-fi&lt;/h4&gt;
+&lt;p&gt;This laptop has wi-fi capabilities, but isn&amp;rsquo;t immediately compatible due to firmware issues.&lt;/p&gt;
+&lt;p&gt;This laptop has &lt;code&gt;ath(4)&lt;/code&gt;, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.&lt;/p&gt;
+&lt;h4 id=&#34;installing-the-needed-firmware-from-another-device&#34;&gt;Installing the needed firmware (from another device)&lt;/h4&gt;
+&lt;p&gt;Not everything works as expected.
+Ethernet might not work out of the box.
+Wi-fi is unlikely to work, too, if the firmwares aren&amp;rsquo;t updated.
+If you find yourself in this situation, there&amp;rsquo;s another solution:
+get the firmware files from another computer that&amp;rsquo;s connected to the internet.&lt;/p&gt;
+&lt;p&gt;Then:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;On your OpenBSD machine, list the needed firmware.
+&lt;code&gt;fw_update&lt;/code&gt; will determine this (you must be root).
+In this laptop, the firmwares needed are &lt;code&gt;intel-firmware&lt;/code&gt;, &lt;code&gt;athn-firmware&lt;/code&gt;, and &lt;code&gt;inteldrm-firmware&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;On the other device (the one connected to the internet), go to &lt;a href=&#34;http://firmware.openbsd.org&#34;&gt;http://firmware.openbsd.org&lt;/a&gt; and select the version you are installing.
+Download the firmware files in your list to a USB drive &lt;strong&gt;formatted as FAT32&lt;/strong&gt;.
+(OpenBSD can&amp;rsquo;t natively read ext4 or NTFS partitions.)
+&lt;ol&gt;
+&lt;li&gt;There are different ways you can format a USB drive to FAT32, depending on the platform you&amp;rsquo;re doing the formatting on.
+If you&amp;rsquo;re on a Debian-based system like I am, install the &lt;em&gt;dosfstools&lt;/em&gt;.
+&lt;pre&gt;&lt;code&gt;sudo apt install dosfstools
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Locate your USB drive by running this in terminal:
+&lt;pre&gt;&lt;code&gt;lsblk
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In my case, it&amp;rsquo;s &lt;code&gt;/dev/sdc&lt;/code&gt; .&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Unmount the USB drive, because we can&amp;rsquo;t format it when mounted:
+&lt;pre&gt;&lt;code&gt;sudo umount /dev/sdc
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Create a new partition table, which we will determine to be &lt;code&gt;msdos&lt;/code&gt;.
+&lt;pre&gt;&lt;code&gt;sudo parted /dev/sdc --script -- mklabel msdos
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Specify that the whole drive must be of FAT32 file system, primary partition type:
+&lt;pre&gt;&lt;code&gt;sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Format the drive to FAT32:
+&lt;pre&gt;&lt;code&gt;sudo mkfs.fat -F 32 -I /dev/sdc
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;(Optional) Check if your device has been partitioned correctly:
+&lt;pre&gt;&lt;code&gt;sudo parted /dev/sdc --script print
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Insert the USB drive to the OpenBSD machine.
+As root, enter &lt;code&gt;diskutil list&lt;/code&gt;.
+Your USB drive will appear to have several partitions, e.g. sd1c.&lt;/li&gt;
+&lt;li&gt;Create a mount point under /mnt (as root):
+&lt;code&gt;mkdir /mnt/usb&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Mount the USB (as root):
+&lt;code&gt;mount /dev/sd1i /mnt/usb&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Once mounted, install the firmware manually (as root):
+&lt;code&gt;fw_update -p /mnt/usb&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Reboot&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;optional-things&#34;&gt;Optional things&lt;/h3&gt;
+&lt;p&gt;In this laptop, I&amp;rsquo;m going install several binaries from the ports, namely &lt;strong&gt;git&lt;/strong&gt; (version control system), &lt;strong&gt;neovim&lt;/strong&gt; (text editor), and &lt;strong&gt;rsync&lt;/strong&gt; (synchronization program)&lt;/p&gt;
+&lt;p&gt;To install in one go, enter as root:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pkg_add git neovim rsync
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;web-server-on-openbsd&#34;&gt;Web Server on OpenBSD&lt;/h2&gt;
 &lt;h3 id=&#34;configure-httpd8&#34;&gt;Configure httpd(8)&lt;/h3&gt;
 &lt;h3 id=&#34;enable-https-with-acme-client1-and-lets-encrypt&#34;&gt;Enable HTTPS with acme-client(1) and Let&amp;rsquo;s Encrypt&lt;/h3&gt;
 &lt;h3 id=&#34;add-http-security-headers-with-relayd8&#34;&gt;Add HTTP security headers with relayd(8)&lt;/h3&gt;
@@ -644,6 +731,14 @@ Check with &lt;code&gt;dmesg&lt;/code&gt;, &lt;code&gt;df -h&lt;/code&gt;, or &l
 &lt;p&gt;It&amp;rsquo;s just a server that provides the exact copy of data from another server.
 Usually to provide a means of redundancy. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Since this is going to be a server, graphical user interface is not needed. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;The USB drive.
+This might be different for every other machine.
+At any point during the installation, type &lt;code&gt;?&lt;/code&gt; to list the possible choices. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
 </description>
@@ -651,10 +746,10 @@ Usually to provide a means of redundancy. &lt;a href=&#34;#fnref:1&#34; class=&#
     
     <item>
       <title>This Site: Colophon</title>
-      <link>/site/</link>
+      <link>https://ohio.araw.xyz/site/</link>
       <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
       
-      <guid>/site/</guid>
+      <guid>https://ohio.araw.xyz/site/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;The making of this site is itself a personal project.
 Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.&lt;/p&gt;
@@ -732,7 +827,7 @@ You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;
 &lt;h3 id=&#34;no-javascript&#34;&gt;No JavaScript?&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it could be.
 I don&amp;rsquo;t even know enough of the language to make that claim.
-In fact, I used JS to &lt;a href=&#34;/alwayscarry/#search-functionality&#34;&gt;add a search functionality on small bookshop website&lt;/a&gt; I volunteered to create for Isya.&lt;/p&gt;
+In fact, I used JS to &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/#search-functionality&#34;&gt;add a search functionality on small bookshop website&lt;/a&gt; I volunteered to create for Isya.&lt;/p&gt;
 &lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS in websites?&lt;/p&gt;
 &lt;p&gt;Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p&gt;
@@ -827,7 +922,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Purchase a proper domain name for this site&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

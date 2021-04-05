@@ -9,7 +9,7 @@ It's actually just scaled vector graphics (SVG) coded with HTML.
 Experimental at the moment.
 I'll likely change that into something more artsy in the future.
 - Edited a few lines in the [Encoding]({{< ref "/project/encode.md" >}}) project.
-- Edited some parts in [This Site]({{< ref "/project/site.md" >}}) project.
+- Edited some parts in [This Site](/site) project.
 I added some notes about my new found tool, [imgp](https://github.com/jarun/imgp), with the help of which I
 - redid an image in [iPod Upgrade]({{< ref "/project/mercipod.md" >}}) project.
 - Removed the @tuta.io email from Index.

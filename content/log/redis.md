@@ -9,7 +9,7 @@ Still haven't gotten around to it, but I will soon.
 I have to, now that I have a domain.
 - Added Paypal link in my [Support]({{< ref "/support.md" >}}) page.
 Also inserted a better pitch in there.
-- Edited a footnote in the [Site]({{< ref "/project/site.md" >}}) project.
+- Edited a footnote in the [Site](/site) project.
 - Minor edit of the footer.
 
 In a society much better than this one, many things are readily available to everyone.

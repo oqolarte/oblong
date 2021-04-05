@@ -7,7 +7,7 @@ draft: false
 - Edited one or two lines in the [Support]({{< ref "support.md" >}}) page.
 - Added a page, called [Ideas of Possible Projects]({{< ref "di-why.md" >}}), where such list is found.
 Right now, the page can be accessed through the Support page, this log, and by memory (adding `/di-why` at the end of the base URL).
-- Added Dan Luu's blog as another inspiration for this [Site]({{< ref "/project/site.md" >}}).
+- Added Dan Luu's blog as another inspiration for this [Site](/site).
 Also added a service for those who may want to subscribe to RSS by email.
 - Changed the site's logo to something... *larger*.
 I used the [Hundred Rabbit's Dotgrid](https://100r.co/site/dotgrid.html) tool to create it, which in my opinion is great!
