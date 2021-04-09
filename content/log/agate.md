@@ -20,6 +20,7 @@ You see, the opening of said stations has been postponed for a few times now.
 Almost every construction and project manager I know expect that a project never meets its target completion date.
 A slight slide in schedule is acceptable, but months of delay?
 Somebody has got to start explaining.
+For projects that affect the public, though, we know better than to expect Someone explaining the full report.
 
 A lot of unforessen factors (e.g. a global pandemic) could suddenly come into play, effectively throwing a wrench into the gears.
 
