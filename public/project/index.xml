@@ -440,33 +440,33 @@ This is based on &lt;a href=&#34;https://zwbetz.com/add-search-functionality-to-
 &lt;p&gt;The JS function is actually an Immediately Invoked Function Expression&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and it runs as soon as it is defined.&lt;/p&gt;
 &lt;p&gt;The JS code is wrapped in &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; tags at the end of the HTML page of the book list.
 For posterity, here&amp;rsquo;s the JS code:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;(&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;function&lt;/span&gt; () {
-  &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;function&lt;/span&gt; updateCount(count) {
-    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; listCount = document.getElementById(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;list-count&amp;#34;&lt;/span&gt;);
-    listCount.innerText = &lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;Count: &amp;#34;&lt;/span&gt; + count;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;(&lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;function&lt;/span&gt; () {
+  &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;function&lt;/span&gt; updateCount(count) {
+    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; listCount &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#007020&#34;&gt;document&lt;/span&gt;.getElementById(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;list-count&amp;#34;&lt;/span&gt;);
+    listCount.innerText &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;Count: &amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;+&lt;/span&gt; count;
   }
 
-  &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;function&lt;/span&gt; onEvent() {
-    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; count = &lt;span style=&#34;color:#00f&#34;&gt;0&lt;/span&gt;;
-    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; filter = search.value.toUpperCase();
-    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; list = document.getElementById(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;list&amp;#34;&lt;/span&gt;);
-    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; listItems = list.getElementsByTagName(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;li&amp;#34;&lt;/span&gt;);
-    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;for&lt;/span&gt; (i = &lt;span style=&#34;color:#00f&#34;&gt;0&lt;/span&gt;; i &amp;lt; listItems.length; i++) {
-      &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; item = listItems[i];
-      &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; text = item.innerText.toUpperCase();
-      &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;if&lt;/span&gt; (text.indexOf(filter) &amp;gt; -&lt;span style=&#34;color:#00f&#34;&gt;1&lt;/span&gt;) {
-        item.style.display = &lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;;
-        count++;
-      } &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;else&lt;/span&gt; {
-        item.style.display = &lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;none&amp;#34;&lt;/span&gt;;
+  &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;function&lt;/span&gt; onEvent() {
+    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; count &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#40a070&#34;&gt;0&lt;/span&gt;;
+    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; filter &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; search.value.toUpperCase();
+    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; list &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#007020&#34;&gt;document&lt;/span&gt;.getElementById(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;list&amp;#34;&lt;/span&gt;);
+    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; listItems &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; list.getElementsByTagName(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;li&amp;#34;&lt;/span&gt;);
+    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;for&lt;/span&gt; (i &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#40a070&#34;&gt;0&lt;/span&gt;; i &lt;span style=&#34;color:#666&#34;&gt;&amp;lt;&lt;/span&gt; listItems.length; i&lt;span style=&#34;color:#666&#34;&gt;++&lt;/span&gt;) {
+      &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; item &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; listItems[i];
+      &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; text &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; item.innerText.toUpperCase();
+      &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;if&lt;/span&gt; (text.indexOf(filter) &lt;span style=&#34;color:#666&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#40a070&#34;&gt;1&lt;/span&gt;) {
+        item.style.display &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;;
+        count&lt;span style=&#34;color:#666&#34;&gt;++&lt;/span&gt;;
+      } &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;else&lt;/span&gt; {
+        item.style.display &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;none&amp;#34;&lt;/span&gt;;
       }
     }
     updateCount(count);
   }
 
-  &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; search = document.getElementById(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;search&amp;#34;&lt;/span&gt;);
-  &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;if&lt;/span&gt; (search) {
-    search.addEventListener(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;keyup&amp;#34;&lt;/span&gt;, onEvent);
+  &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; search &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#007020&#34;&gt;document&lt;/span&gt;.getElementById(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;search&amp;#34;&lt;/span&gt;);
+  &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;if&lt;/span&gt; (search) {
+    search.addEventListener(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;keyup&amp;#34;&lt;/span&gt;, onEvent);
   }
 })();
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;just-in-time-preloading&#34;&gt;&amp;ldquo;Just-in-time&amp;rdquo; Preloading&lt;/h3&gt;
@@ -822,12 +822,12 @@ This means that:&lt;/p&gt;
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
 &lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are &lt;em&gt;external links&lt;/em&gt;, i.e. links that take the visitor out of this website.&lt;/p&gt;
 &lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;ohio.araw.xyz&lt;/code&gt;.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;a&lt;/span&gt;[&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;href&lt;/span&gt;^=&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;]:not([&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;href&lt;/span&gt;*=&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;]):after,
-&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;a&lt;/span&gt;[&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;href&lt;/span&gt;^=&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;]:not([&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;href&lt;/span&gt;*=&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;]):after,
-        &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;; 
-        &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;green&lt;/span&gt;;
-        &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;inline-block&lt;/span&gt;;
-&lt;span style=&#34;color:#a61717;background-color:#e3d2d2&#34;&gt;}&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#555;font-weight:bold&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#555;font-weight:bold&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;,&lt;/span&gt;
+&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#555;font-weight:bold&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#555;font-weight:bold&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;,&lt;/span&gt;
+        &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;content&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;;&lt;/span&gt; 
+        &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;color&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;green&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;;&lt;/span&gt;
+        &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;display&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;inline-block&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;;&lt;/span&gt;
+&lt;span style=&#34;&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;ohio.araw.xyz&lt;/code&gt;, then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
 &lt;p&gt;Currently, these arrows only indicate external links to let visitors know that they will be directed away.
 Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab or window.

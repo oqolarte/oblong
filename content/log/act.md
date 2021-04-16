@@ -4,7 +4,7 @@ date: 2021-04-16T00:11:22+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Changed syntax highlighting theme for code blocks, from `monokai` to `borland`.
+- Changed syntax highlighting theme for code blocks, from `monokai` to `friendly`.
 - Edited the CSS code block example in the [Site](/site/) project.
 I also edited some sections.
 - Edited some sections in the [Always Carry](/alwayscarry/) project.
