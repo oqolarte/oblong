@@ -389,8 +389,9 @@ Most of the password managers have randomizers, which prints out random strings 
       
       <guid>https://ohio.araw.xyz/alwayscarry/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
-&lt;p&gt;My partner has asked me to come up with a website to act as a central hub for their recently opened online bookshop.
+&lt;p&gt;My partner asked me to come up with a website to act as a central hub for their recently opened online bookshop.
 This site shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p&gt;
+&lt;p&gt;In the future, it will also be a shop for other household items.&lt;/p&gt;
 &lt;p&gt;Visit the site, whose name I also came up with:
 &lt;strong&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;Always Carry A Book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;figure&gt;
@@ -402,24 +403,24 @@ This site shall mirror the contents of the shop&amp;rsquo;s other social media p
 
 &lt;h2 id=&#34;design-choices&#34;&gt;Design Choices&lt;/h2&gt;
 &lt;p&gt;I figured that since this would just be a small online shop, a full-blown e-commerce site with lots of features is unnecessary.
-Having this in mind, I decided that a static site would do.
+Having this in mind, I decided that a static site would do for now.
 Since I&amp;rsquo;m already familiar with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, I use it as my static site generator.&lt;/p&gt;
 &lt;p&gt;The business is literally just starting out.
 One major decision is to use free software services for the time being.&lt;/p&gt;
-&lt;p&gt;Of course, the intention is to scale, and add the necessary functions as the business starts raking in the dough.&lt;/p&gt;
+&lt;p&gt;Of course, we intend to scale as business grows.&lt;/p&gt;
 &lt;h3 id=&#34;landing-page-logo&#34;&gt;Landing Page Logo&lt;/h3&gt;
-&lt;p&gt;The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on &lt;a href=&#34;https://krita.org&#34;&gt;Krita&lt;/a&gt;, a free and open source painting program, that&amp;rsquo;s also available in many platforms.&lt;/p&gt;
-&lt;p&gt;The image, compressed and optimized for the web, shall be the guiding aesthetic of the website.&lt;/p&gt;
+&lt;p&gt;The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on &lt;a href=&#34;https://krita.org&#34;&gt;Krita&lt;/a&gt;, a free and open source painting program.
+It shall be the guiding aesthetic of the website.&lt;/p&gt;
 &lt;h3 id=&#34;payment-gateway&#34;&gt;Payment Gateway?&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s only natural for an e-commerce site to have a payment method coded in it.
 However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.&lt;/p&gt;
 &lt;p&gt;Payment will be made in &amp;ldquo;less convenient&amp;rdquo; ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
-In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions.&lt;/p&gt;
+In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that&amp;rsquo;s connected to a GCash account.&lt;/p&gt;
 &lt;p&gt;Google Forms is also used for the customers to fill up when placing their orders.&lt;/p&gt;
 &lt;p&gt;For now, this will have to do.&lt;/p&gt;
 &lt;h3 id=&#34;integration-with-instagram&#34;&gt;Integration with Instagram&lt;/h3&gt;
-&lt;p&gt;In order to reach as many prospects as possible, the shop is also available in Instagram and Facebook.
-We&amp;rsquo;re thinking of focusing a huge chunk of content management via IG.
+&lt;p&gt;To reach as many people as possible, the shop is also available in Instagram and Facebook.
+Huge chunk of content management will be focused on IG.
 Each post will then appear on the Facebook Page, and on the website.&lt;/p&gt;
 &lt;p&gt;I had a brilliant idea to use Hugo&amp;rsquo;s native integration with Instagram through their API, according to &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#instagram&#34;&gt;Hugo&amp;rsquo;s documentation&lt;/a&gt;.
 The first try, though, it already failed.&lt;/p&gt;
@@ -427,52 +428,57 @@ The first try, though, it already failed.&lt;/p&gt;
 &lt;p&gt;Good thing that from that same discussion, &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/7879#issuecomment-737149676&#34;&gt;monsieurnebo&amp;rsquo;s fix&lt;/a&gt; (based on ToniTornado, but with a bit smaller code) got it going for me.&lt;/p&gt;
 &lt;p&gt;For the time being, I can use the IG photo&amp;rsquo;s ID to be embedded on the site.&lt;/p&gt;
 &lt;h3 id=&#34;hosting-github--netlify&#34;&gt;Hosting: GitHub + Netlify&lt;/h3&gt;
-&lt;p&gt;The source files are on GitHub. The HTML files are then deployed to Netlify.&lt;/p&gt;
-&lt;p&gt;I make the changes (edit, generate the site, etc.) locally, in a laptop.
+&lt;p&gt;The source files are on &lt;a href=&#34;https://github.com/arawseekers&#34;&gt;our GitHub&lt;/a&gt;. The HTML files are then deployed to &lt;a href=&#34;https://netlify.com&#34;&gt;Netlify&lt;/a&gt;, another hosting platform.&lt;/p&gt;
+&lt;p&gt;I make the changes locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.
 Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.&lt;/p&gt;
 &lt;h3 id=&#34;search-functionality&#34;&gt;Search Functionality&lt;/h3&gt;
-&lt;p&gt;As we upload more content, i.e. more books, the list grows.
-I have added a search bar in the list page to help visitors, using JavaScript.
+&lt;p&gt;The list of books for sale fluctuate depending on the sales.
+I have added a search bar in the list page to help visitors look up titles, using JavaScript.
 This is based on &lt;a href=&#34;https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/&#34;&gt;zwbetz&amp;rsquo;s tutorial&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I know I may have implied &lt;a href=&#34;https://ohio.araw.xyz/site/#no-javascript&#34;&gt;a slight distaste for JavaScript&lt;/a&gt;, but since we intend this to be an e-commerce site, we have to be in a different mindset.&lt;/p&gt;
 &lt;p&gt;As the user types a letter in the search bar, items with matching string of text remain, incrementally narrowing down the list.&lt;/p&gt;
-&lt;p&gt;The JavaScript function is actually an Immediately Invoked Function Expression&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and it runs as soon as it is defined.&lt;/p&gt;
-&lt;p&gt;The JavaScript code can either be wrapped in &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; tags at the end of the HTML page of the book list;
-or it can be separate file, like &lt;code&gt;search.js&lt;/code&gt; living in the &lt;code&gt;your-hugo-site/static/js/search.js&lt;/code&gt; directory which can then be invoked using Hugo Partials&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.
+&lt;p&gt;The JS function is actually an Immediately Invoked Function Expression&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and it runs as soon as it is defined.&lt;/p&gt;
+&lt;p&gt;The JS code is wrapped in &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; tags at the end of the HTML page of the book list.
 For posterity, here&amp;rsquo;s the JS code:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;(&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; () {
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;updateCount&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt;) {
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;listCount&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;list-count&amp;#34;&lt;/span&gt;);
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;listCount&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;innerText&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Count: &amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;+&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt;;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;(&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;function&lt;/span&gt; () {
+  &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;function&lt;/span&gt; updateCount(count) {
+    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; listCount = document.getElementById(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;list-count&amp;#34;&lt;/span&gt;);
+    listCount.innerText = &lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;Count: &amp;#34;&lt;/span&gt; + count;
   }
 
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;onEvent&lt;/span&gt;() {
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;filter&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;value&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toUpperCase&lt;/span&gt;();
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;list&amp;#34;&lt;/span&gt;);
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;listItems&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;list&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementsByTagName&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;li&amp;#34;&lt;/span&gt;);
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;listItems&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;; &lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;) {
-      &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;listItems&lt;/span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;i&lt;/span&gt;];
-      &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;innerText&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toUpperCase&lt;/span&gt;();
-      &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;indexOf&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;filter&lt;/span&gt;) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;) {
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;display&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;;
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;++&lt;/span&gt;;
-      } &lt;span style=&#34;color:#66d9ef&#34;&gt;else&lt;/span&gt; {
-        &lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;display&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;none&amp;#34;&lt;/span&gt;;
+  &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;function&lt;/span&gt; onEvent() {
+    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; count = &lt;span style=&#34;color:#00f&#34;&gt;0&lt;/span&gt;;
+    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; filter = search.value.toUpperCase();
+    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; list = document.getElementById(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;list&amp;#34;&lt;/span&gt;);
+    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; listItems = list.getElementsByTagName(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;li&amp;#34;&lt;/span&gt;);
+    &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;for&lt;/span&gt; (i = &lt;span style=&#34;color:#00f&#34;&gt;0&lt;/span&gt;; i &amp;lt; listItems.length; i++) {
+      &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; item = listItems[i];
+      &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; text = item.innerText.toUpperCase();
+      &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;if&lt;/span&gt; (text.indexOf(filter) &amp;gt; -&lt;span style=&#34;color:#00f&#34;&gt;1&lt;/span&gt;) {
+        item.style.display = &lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;;
+        count++;
+      } &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;else&lt;/span&gt; {
+        item.style.display = &lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;none&amp;#34;&lt;/span&gt;;
       }
     }
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;updateCount&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;count&lt;/span&gt;);
+    updateCount(count);
   }
 
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;getElementById&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;search&amp;#34;&lt;/span&gt;);
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;) {
-    &lt;span style=&#34;color:#a6e22e&#34;&gt;search&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;keyup&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;onEvent&lt;/span&gt;);
+  &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;var&lt;/span&gt; search = document.getElementById(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;search&amp;#34;&lt;/span&gt;);
+  &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;if&lt;/span&gt; (search) {
+    search.addEventListener(&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;keyup&amp;#34;&lt;/span&gt;, onEvent);
   }
 })();
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;how-a-transaction-looks-like&#34;&gt;How A Transaction Looks Like&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;just-in-time-preloading&#34;&gt;&amp;ldquo;Just-in-time&amp;rdquo; Preloading&lt;/h3&gt;
+&lt;p&gt;Improving user experience might just be the key to a successful small online shop.
+Who knows?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://instant.page&#34;&gt;Instant.Page&lt;/a&gt; claims to make the site&amp;rsquo;s pages instant by preloading a page right before a user clicks it.
+Bandwidth-wise, this should only have small effects on the user, since by design, the pages of &lt;strong&gt;Always Carry&lt;/strong&gt; are already lightweight.&lt;/p&gt;
+&lt;p&gt;According to the Instant.Page, uBlock Origin blocks it.
+The author explains how to &lt;a href=&#34;https://instant.page/tech#self-hosting&#34;&gt;self-host the script&lt;/a&gt;, and so I did just that, because I use uBlock Origin.&lt;/p&gt;
+&lt;h2 id=&#34;how-a-transaction-looks-like&#34;&gt;How A Transaction Looks Like&lt;/h2&gt;
 &lt;p&gt;Here, I outline the processes involved for the customer and the dealer.
-This is not final, and obviously needs more thought put into it.&lt;/p&gt;
+This is not final as we streamline further.&lt;/p&gt;
 &lt;h3 id=&#34;customer-side&#34;&gt;Customer Side&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Customer browses the book list, and makes a selection.&lt;/li&gt;
@@ -503,6 +509,7 @@ The number of waiting days depends on customer&amp;rsquo;s location.&lt;/li&gt;
 &lt;li&gt;When the customer receives the package, the transaction is complete.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;dropping-content&#34;&gt;&amp;lsquo;Dropping&amp;rsquo; Content&lt;/h2&gt;
+&lt;p&gt;In e-commerce jargon, &amp;ldquo;dropping&amp;rdquo; means putting up new items in the shop.&lt;/p&gt;
 &lt;p&gt;The current way involves a lot of friction on our side, to be honest.
 This is one of the drawbacks of going static: doing things &amp;ldquo;manually.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s enumerate the steps:&lt;/p&gt;
@@ -521,8 +528,8 @@ Since the IG account is already linked to the FB Page, each post shall simultane
 &lt;p&gt;Photo-taking is done during daytime, when we make use of natural light.&lt;/p&gt;
 &lt;p&gt;Initially, we used an iPhone to take photos of the books.
 Transferring files between Apple devices (in our case, iPhone and Mac) is easy, using AirDrop.&lt;/p&gt;
-&lt;p&gt;However, for reasons that won&amp;rsquo;t be mentioned, the iPhone is sure to be removed from the equation.
-We need to find solutions that don&amp;rsquo;t rely on AirDrop&amp;rsquo;s convenience.&lt;/p&gt;
+&lt;p&gt;However, the iPhone is no longer available in this operation.
+We need solutions that don&amp;rsquo;t rely on AirDrop&amp;rsquo;s convenience.&lt;/p&gt;
 &lt;p&gt;We have two options left: a digital camera, and an Android phone, the same one where we will be posting on IG.
 For better quality photos, the digital camera is the obvious choice.
 Its SD Card will also fit nicely in one of the Mac&amp;rsquo;s ports.&lt;/p&gt;
@@ -535,10 +542,6 @@ Right now, as mentioned, we focus the content management in IG due to its reach.
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;For more information, read the &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Glossary/IIFE&#34;&gt;Mozilla&amp;rsquo;s explainer&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Partials are smaller, context-aware components in your list and papge templates that can be used economically to keep your templating DRY (&amp;ldquo;Don&amp;rsquo;t Repeat Yourself&amp;rdquo;).
-For more info, &lt;a href=&#34;https://gohugo.io/templates/partials/#readout&#34;&gt;read the Hugo documentation&lt;/a&gt;. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -724,6 +727,8 @@ Your USB drive will appear to have several partitions, e.g. sd1c.&lt;/li&gt;
 &lt;h3 id=&#34;configure-httpd8&#34;&gt;Configure httpd(8)&lt;/h3&gt;
 &lt;h3 id=&#34;enable-https-with-acme-client1-and-lets-encrypt&#34;&gt;Enable HTTPS with acme-client(1) and Let&amp;rsquo;s Encrypt&lt;/h3&gt;
 &lt;h3 id=&#34;add-http-security-headers-with-relayd8&#34;&gt;Add HTTP security headers with relayd(8)&lt;/h3&gt;
+&lt;h2 id=&#34;ssh-server-and-client&#34;&gt;SSH Server and Client&lt;/h2&gt;
+&lt;p&gt;In order for the client to connect to the server, a user account must be created on the server.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -753,7 +758,7 @@ At any point during the installation, type &lt;code&gt;?&lt;/code&gt; to list th
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;The making of this site is itself a personal project.
 Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.&lt;/p&gt;
-&lt;p&gt;The status is likely to stay on-going;
+&lt;p&gt;The status is likely to stay &lt;strong&gt;on-going&lt;/strong&gt;;
 this site is always under construction.&lt;/p&gt;
 &lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
 &lt;p&gt;If you&amp;rsquo;ve been looking around for personal websites like I have, &amp;ldquo;digital garden&amp;rdquo; is a phrase that gets used often.&lt;/p&gt;
@@ -762,10 +767,11 @@ It&amp;rsquo;s a more endearing term, I believe, than, say, a public-facing jour
 They all function the same.&lt;/p&gt;
 &lt;p&gt;This site, then, is my digital garden.
 Expect that things will be corrected, deleted, edited, fed, &lt;em&gt;grown&lt;/em&gt;, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and every fiber of their being changes with them, literally.&lt;/p&gt;
+People change&amp;mdash;they need to, lest they stagnate&amp;mdash;and every fiber of their being changes with them, literally.&lt;/p&gt;
 &lt;h3 id=&#34;public-repository-of-independent-research&#34;&gt;Public Repository of Independent Research&lt;/h3&gt;
 &lt;p&gt;Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all.
-I am going the more &amp;ldquo;progressive&amp;rdquo; route of bypassing the traditional way to PhD.
+Research, in this context, will be very different from that within academia.
+This &amp;ldquo;progressive&amp;rdquo; route bypasses the traditional way to earn a post-graduate degree.
 After reading &lt;a href=&#34;https://nadiaeghbal.com&#34;&gt;Nadia Eghbal&lt;/a&gt;&amp;rsquo;s post, &amp;ldquo;&lt;a href=&#34;https://nadiaeghbal.com/phd&#34;&gt;Reimagining the PhD&lt;/a&gt;,&amp;rdquo; I&amp;rsquo;m now more inclined to do this.&lt;/p&gt;
 &lt;p&gt;I can&amp;rsquo;t also imagine spending at least three years getting a master&amp;rsquo;s degree, holding on to the fact that it&amp;rsquo;s &amp;ldquo;necessary&amp;rdquo; to further my career.
 I am, more or less, happy with the opportunity cost of not dealing with it.&lt;/p&gt;
@@ -798,9 +804,9 @@ A web service is available along these lines: check out &lt;a href=&#34;https://
 &lt;p&gt;BONUS: If you&amp;rsquo;re like me, then you&amp;rsquo;re already a fan of RSS.
 For the newsletters that you&amp;rsquo;d like to subscribe to &lt;em&gt;and&lt;/em&gt; access them in your RSS reader (NOT on your email), you may want to look into &lt;a href=&#34;https://kill-the-newsletter.com/&#34;&gt;Kill the Newsletter&lt;/a&gt; service.&lt;/p&gt;
 &lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
-&lt;p&gt;As you are well aware, this site has a very simple design.
+&lt;p&gt;As you are well aware, this site&amp;rsquo;s design borders on brutalism.
 Admittedly, it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
-It turns out that this is a feature, not a bug.&lt;/p&gt;
+It turns out that this is a feature, not a bug, for static websites anyway.&lt;/p&gt;
 &lt;p&gt;By foregoing intricate UI/UX design, I can focus on what matters most: &lt;em&gt;content&lt;/em&gt;.
 Let me explain.&lt;/p&gt;
 &lt;p&gt;By simplifying the design, I&amp;rsquo;m making this site less bloated.
@@ -812,29 +818,30 @@ This means that:&lt;/p&gt;
 &lt;li&gt;the site loads fast because of no tracking, no custom fonts; and,&lt;/li&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;I consider these points important as they all relate to my current situation.&lt;/p&gt;
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
-&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are external links, i.e. links that take the visitor out of this website.&lt;/p&gt;
-&lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;oqolarte.github.io&lt;/code&gt;.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;oqolarte.github.io&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;mailto&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;#&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;/&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt; {
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34; ↗&amp;#34;&lt;/span&gt;; 
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;green&lt;/span&gt;;
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inline&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;block&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;oqolarte.github.io&lt;/code&gt;, a same-page anchor link (e.g. #status), &lt;em&gt;or&lt;/em&gt; an internal website (e.g. /project), then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
+&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are &lt;em&gt;external links&lt;/em&gt;, i.e. links that take the visitor out of this website.&lt;/p&gt;
+&lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;ohio.araw.xyz&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;a&lt;/span&gt;[&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;href&lt;/span&gt;^=&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;]:not([&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;href&lt;/span&gt;*=&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;]):after,
+&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;a&lt;/span&gt;[&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;href&lt;/span&gt;^=&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;]:not([&lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;href&lt;/span&gt;*=&lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;]):after,
+        &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#00f&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;; 
+        &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;green&lt;/span&gt;;
+        &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#000080;font-weight:bold&#34;&gt;inline-block&lt;/span&gt;;
+&lt;span style=&#34;color:#a61717;background-color:#e3d2d2&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;ohio.araw.xyz&lt;/code&gt;, then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
 &lt;p&gt;Currently, these arrows only indicate external links to let visitors know that they will be directed away.
-Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab.
-You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;/code&gt; (or click with Mouse3/MouseWheel).&lt;/p&gt;
+Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab or window.
+You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;/code&gt; (or &lt;code&gt;...window&lt;/code&gt;) (or click with Mouse3/MouseWheel).&lt;/p&gt;
 &lt;h3 id=&#34;no-javascript&#34;&gt;No JavaScript?&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it could be.
 I don&amp;rsquo;t even know enough of the language to make that claim.
-In fact, I used JS to &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/#search-functionality&#34;&gt;add a search functionality on small bookshop website&lt;/a&gt; I volunteered to create for Isya.&lt;/p&gt;
+In fact, I used JS to &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/#search-functionality&#34;&gt;add a search functionality on small bookshop website&lt;/a&gt; I volunteered to create for my partner.&lt;/p&gt;
 &lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS in websites?&lt;/p&gt;
 &lt;p&gt;Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p&gt;
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
-&lt;p&gt;Only marketers like ads&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
-Good thing that I have none of them here.
-And I don&amp;rsquo;t intend to put them here anytime soon.&lt;/p&gt;
+&lt;p&gt;Only advertisers like ads&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
+I don&amp;rsquo;t intend on monetizing this side with ads, so expect a clean (read: boring) site.&lt;/p&gt;
 &lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
 &lt;h3 id=&#34;images&#34;&gt;Images&lt;/h3&gt;
 &lt;p&gt;Humans can be very visual &lt;em&gt;sometimes&lt;/em&gt;.
@@ -845,7 +852,7 @@ More resources mean more energy consumed means larger carbon footprint.&lt;/p&gt
 &lt;ul&gt;
 &lt;li&gt;it &lt;em&gt;does&lt;/em&gt; tell &amp;ldquo;more than a thousand words.&amp;rdquo;
 An image must add to the narrative, not distract the viewers away from it.
-If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s not going in.&lt;/li&gt;
+If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s likely not going in.&lt;/li&gt;
 &lt;li&gt;it&amp;rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
 &lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li&gt;
@@ -867,27 +874,26 @@ There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo
 &lt;h3 id=&#34;in-the-name-of-static-site-generator-ssg&#34;&gt;In the name of Static Site Generator (SSG)&lt;/h3&gt;
 &lt;p&gt;Using SSG like Hugo arguably increases security by simplifying a lot of things&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.
 There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.&lt;/p&gt;
-&lt;p&gt;All the content is written in Markdown, a simple markup &amp;ldquo;language&amp;rdquo; for creating formatted text using a plaintext editor.
-This means that all the files are lightweight and portable, easy to backup and transfer between computers.&lt;/p&gt;
-&lt;p&gt;Compilation is fast.
-Since web browsers can only read HTML files, compilation means that SSG converts the Markdown files into HTML.
-And if you&amp;rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).&lt;/p&gt;
-&lt;p&gt;It might sound tedious, because it is at first!
+&lt;p&gt;In many SSGs, content is written in Markdown, a simple markup &amp;ldquo;language&amp;rdquo; for creating formatted text using a plaintext editor.
+Markdown files (&lt;code&gt;.md&lt;/code&gt;) are lightweight, portable, easy to backup, and transfer between computers.&lt;/p&gt;
+&lt;p&gt;Generation time depends on the size and volume of files that need to be compiled.
+I&amp;rsquo;ve heard that some SSGs could take up to a minute to build one whole site;
+some only &lt;em&gt;milliseconds&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;It &lt;em&gt;is&lt;/em&gt; tedious to go through all that.
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p&gt;
 &lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
 &lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
-&lt;p&gt;There are a lot of tutorials online on how to start a blog using Hugo.
-A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
-But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.&lt;/p&gt;
-&lt;p&gt;What if you want something that isn&amp;rsquo;t pre-fabricated, some template that can&amp;rsquo;t be found in the &lt;a href=&#34;https://themes.gohugo.io&#34;&gt;Themes&lt;/a&gt;, a theme that speaks your personality?&lt;/p&gt;
-&lt;p&gt;Well, that&amp;rsquo;s when you need to read the docs.&lt;/p&gt;
+&lt;p&gt;Great Hugo tutorials abound online, in blog post and video formats.
+Some target new users;
+some have specific use cases in mind.&lt;/p&gt;
+&lt;p&gt;However, like most tutorials online, they get outdated quickly.
+Sooner or later, reading the documentation becomes necessary.&lt;/p&gt;
+&lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to read the manual.
+In case you&amp;rsquo;re stuck, you can also ask the community.
+Hugo has a decent documentation&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;Truth be told, Hugo&amp;rsquo;s learning curve is steep, especially if you&amp;rsquo;re like me with no &amp;ldquo;real&amp;rdquo; coding experience.
 Maybe it helps when you&amp;rsquo;ve been dealing with software programming for a while.
 Your mileage may vary.&lt;/p&gt;
-&lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to read the documentation.
-Some documentations are good, some are bad, some don&amp;rsquo;t even exist!
-In any case, you can also ask the community if you&amp;rsquo;re stuck somewhere.
-Hugo has a decent documentation&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
 &lt;p&gt;Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&amp;rsquo;ll see.
@@ -916,13 +922,15 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;li&gt;Low-tech Magazine, the &lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;solar-powered one&lt;/a&gt;. Their article on &lt;a href=&#34;https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html&#34;&gt;how to build a low-tech website&lt;/a&gt; is eye-opening.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, and &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;The &amp;ldquo;&lt;a href=&#34;https://bestmotherfucking.website&#34;&gt;Best Motherfucking Website&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&amp;rsquo;s website&lt;/a&gt;, although it might need a few tweaks to improve readability.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&amp;rsquo;s website&lt;/a&gt;, although it begs a few design tweaks to improve readability.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
 &lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Purchase a proper domain name for this site&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.
+GitHub has become more bloated over the years.
+I&amp;rsquo;d like to step away from that.&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;

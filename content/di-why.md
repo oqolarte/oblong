@@ -4,7 +4,7 @@ date: 2021-02-26T10:08:28+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-You've likely come here from the [Support]({{< ref "/support.md" >}}) page.
+You've likely come here from the [Support](/support/) page.
 
 I'm trying to get into the habit of doing projects so I stay sharp.
 In the process, I'll try to document each step, and publish whatever findings I might have here for public viewing.
@@ -29,4 +29,4 @@ Anyway, here is the list, in no particular order:
 1. Free and open-source software *and* hardware, but not necessarily found together in a single device, that a layperson would find useful
 1. Bio-digester
 
-As soon as I start working on an idea here, it will be migrated to the [Projects]({{< ref "/project.md" >}}) page.
+As soon as I start working on an idea here, it will be migrated to the [Projects](/project/) page.

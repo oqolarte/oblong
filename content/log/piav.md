@@ -4,7 +4,7 @@ date: 2021-03-08T13:42:44+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Added a long-ago completed project, [Imbentori]({{< ref "/project/imbentori.md" >}}).
+- Added a long-ago completed project, [Imbentori](/imbentori/).
 - Compressed the site's logo.
 
 After watching and rewatching videos on how to repair Apple's Magsafe Power Adapter 1

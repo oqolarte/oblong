@@ -4,8 +4,8 @@ date: 2021-01-18T01:44:23+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "life hacks", "expectations", "no social media", "how to cook pasta", "no kids", "honesty", "making time for loved ones", "face mask over the nose"]
 draft: false
 ---
-- Added new project: [Encoding]({{< ref "/project/encode.md" >}})
-- Added some lines in [This Site](/site) project, expounding more on the use of Hugo.
+- Added new project: [Encoding](/encode/)
+- Added some lines in [This Site](/site/) project, expounding more on the use of Hugo.
 
 Lower---or, better yet, *eliminate*---expectations.  
 *'Wag (masyadong) umasa.*

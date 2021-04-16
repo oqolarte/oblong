@@ -6,10 +6,49 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Apr 2021 10:19:48 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 00:11:22 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blogroll</title>
+      <link>https://ohio.araw.xyz/blogroll/</link>
+      <pubDate>Wed, 14 Apr 2021 22:24:19 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/blogroll/</guid>
+      <description>&lt;h2 id=&#34;favorites&#34;&gt;Favorites&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://leap-isya.netlify.app&#34;&gt;Isya the Leap Trader&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://arawseekers.github.io&#34;&gt;Araw Seekers&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>https://ohio.araw.xyz/disclaimer/</link>
+      <pubDate>Sat, 10 Apr 2021 15:05:20 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/disclaimer/</guid>
+      <description>&lt;p&gt;Views expressed here are mine alone, not of my past, present, nor future employer/s.
+They may change at any point in time&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Any content is provided &amp;ldquo;as is&amp;rdquo; and I disclaim all warranties.
+Although every effort is being made to ensure correctness, content might still include errors, and I don&amp;rsquo;t take responsibility for any damages to anything as result.
+If you see any error, please let me know through email&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;In fact, it&amp;rsquo;s likely to change given enough time.
+People change, given enough time.
+Everything does. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See Index for email address. &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
     
     <item>
       <title>Ideas of Possible Projects</title>
@@ -125,8 +164,8 @@ BSc. Electrical Eng&amp;rsquo;g &amp;mdash; Technological University of the Phil
 Academic Scholar &amp;mdash; Department of Science and Technology SEI &amp;mdash; AY 2009-2014&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;languages&#34;&gt;LANGUAGES&lt;/h3&gt;
-&lt;p&gt;Human: Filipino (native), English (fluent in speaking and writing)&lt;br&gt;
-Computer: Unix Shell Scripting (basic), C (basic), Python 3+ (basic)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Human&lt;/strong&gt;: Filipino (native), English (fluent in speaking and writing)&lt;br&gt;
+&lt;strong&gt;Computer&lt;/strong&gt;: Unix Shell Scripting (basic), C (basic), Python 3+ (basic)&lt;/p&gt;
 &lt;h3 id=&#34;hobbies&#34;&gt;HOBBIES&lt;/h3&gt;
 &lt;p&gt;Reading, Creative Endeavors, Computer Programming, Cycling, Repair, Watching Films, Web Development&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;---end of file---&lt;/code&gt;&lt;/p&gt;

@@ -5,7 +5,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
 - Changed the date format in Log
-- Added another to-do for [The Site]({{< ref "project/site.md" >}}).
+- Added another to-do for [The Site](/site/).
 - Now officially part of the [512 KB Club](https://512kb.club).
 You're now reminded of this in the footer, lol!
 

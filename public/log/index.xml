@@ -11,6 +11,43 @@
     
     
     <item>
+      <title>Clean Act</title>
+      <link>https://ohio.araw.xyz/act/</link>
+      <pubDate>Tue, 13 Apr 2021 00:11:22 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/act/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Changed syntax highlighting theme for code blocks, from &lt;code&gt;monokai&lt;/code&gt; to &lt;code&gt;borland&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Edited the CSS code block example in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; project.
+I also edited some sections.&lt;/li&gt;
+&lt;li&gt;Edited some sections in the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/disclaimer&#34;&gt;Disclaimer&lt;/a&gt; now has its own dedicated page.
+It can be accessed from the footer.&lt;/li&gt;
+&lt;li&gt;The following line was added to the &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; tag to remove icon and prevent the browser from trying to retrieve it: &lt;code&gt;&amp;lt;link rel=&amp;quot;icon&amp;quot; href=&amp;quot;data:&amp;quot;&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Improved navigation in &lt;a href=&#34;https://ohio.araw.xyz/log/&#34;&gt;Log&lt;/a&gt; and &lt;a href=&#34;https://ohio.araw.xyz/project&#34;&gt;Projects&lt;/a&gt; menus.&lt;/li&gt;
+&lt;li&gt;Fixed internal links.&lt;/li&gt;
+&lt;li&gt;Added &lt;code&gt;{margin-right:auto; margin-left:auto}&lt;/code&gt; in &lt;code&gt;figure&lt;/code&gt; and &lt;code&gt;figurecaption&lt;/code&gt;.
+Images should now be the same as the width of the body.&lt;/li&gt;
+&lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/blogroll/&#34;&gt;Blogroll&lt;/a&gt; on Index.
+It&amp;rsquo;s likely I&amp;rsquo;ll add more to this list in the future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How long does it take for something to come to fruition?&lt;/p&gt;
+&lt;p&gt;Action, and its many variations, forces the many instances of being to move about and affect one another.
+Yet, in spite of knowing this, I still must be creative in preserving my motivation.
+I must plan my actions.&lt;/p&gt;
+&lt;p&gt;But planning itself requires motivation.
+Before a day even begins, I must have already addressed this feedback loop.
+Tricky, I know.&lt;/p&gt;
+&lt;p&gt;Most days, I&amp;rsquo;d like to think that my actions will converge in a future point;
+and this point being a situation which Life becomes a meaningful one to live.
+It sounds individualistic, now that I&amp;rsquo;m examining the words outside my head.&lt;/p&gt;
+&lt;p&gt;Still going through the motions.
+I hope to have a clean act, because neatness advertises ability, they say.&lt;/p&gt;
+&lt;p&gt;And now, &lt;strong&gt;Act I&lt;/strong&gt;:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Astral Gate</title>
       <link>https://ohio.araw.xyz/agate/</link>
       <pubDate>Fri, 09 Apr 2021 10:19:48 +0800</pubDate>
@@ -276,7 +313,7 @@ I also watched the movie, which is a good adaptation, in my opinion, of the nove
       
       <guid>https://ohio.araw.xyz/titles/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Edited some sections in the &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;.
+&lt;li&gt;Edited some sections in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt;.
 Also, I just learned that when writing in Markdown, I didn&amp;rsquo;t have to put the footnotes at the end of the document!
 When Hugo converts &lt;code&gt;.md&lt;/code&gt; to &lt;code&gt;.html&lt;/code&gt;, it automatically places them at the end&amp;hellip;?!&lt;/li&gt;
 &lt;li&gt;Edited a line in &lt;a href=&#34;https://ohio.araw.xyz/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -302,7 +339,7 @@ Who can blame them when doing so gives the illusion of having more opportunities
       <description>&lt;ul&gt;
 &lt;li&gt;Lightly adjusted the color scheme for dark-themed devices.
 Also (ruthlessly?) pruned the CSS.&lt;/li&gt;
-&lt;li&gt;Added a brief explainer on the &lt;a href=&#34;https://ohio.araw.xyz/site/#link-management&#34;&gt;Site&lt;/a&gt; about the now-added northeast arrows on external links.&lt;/li&gt;
+&lt;li&gt;Added a brief explainer on the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; about the now-added northeast arrows on external links.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The past few weeks, my to-do list has hounded me to clean and repaste Ador&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
 This should be done maybe twice a year to maintain the operating temperature within the motherboard.&lt;/p&gt;
@@ -406,7 +443,7 @@ Still haven&amp;rsquo;t gotten around to it, but I will soon.
 I have to, now that I have a domain.&lt;/li&gt;
 &lt;li&gt;Added Paypal link in my &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; page.
 Also inserted a better pitch in there.&lt;/li&gt;
-&lt;li&gt;Edited a footnote in the &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;Edited a footnote in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; project.&lt;/li&gt;
 &lt;li&gt;Minor edit of the footer.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In a society much better than this one, many things are readily available to everyone.
@@ -462,7 +499,7 @@ from &lt;strong&gt;on-going&lt;/strong&gt; to &lt;strong&gt;done&lt;/strong&gt;.
 &lt;p&gt;&lt;a href=&#34;https://duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTsundoku&#34;&gt;&lt;em&gt;Tsundoku&lt;/em&gt;&lt;/a&gt; (積ん読) becomes our mode of expressing ourselves here.
 How we decorate the blank spaces with books of various interests.
 It&amp;rsquo;s because the many books that we acquire that we have not touched and are piled up together are for sale at:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;alwayscarry.netlify.app&#34;&gt;&lt;strong&gt;Always Carry A Book&lt;/strong&gt;&lt;/a&gt;, a mantra that we follow only when it&amp;rsquo;s convenient, and less than one kilogram.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;&lt;strong&gt;Always Carry A Book&lt;/strong&gt;&lt;/a&gt;, a mantra that we follow only when it&amp;rsquo;s convenient, and less than one kilogram.&lt;/p&gt;
 &lt;p&gt;We can only gloss over them as we put them up on the store one by one.&lt;/p&gt;
 &lt;p&gt;As for the many more books that already have that aren&amp;rsquo;t for sale, well, they shall remain dusty until we find time to pick them up.&lt;/p&gt;
 </description>
@@ -480,7 +517,7 @@ It&amp;rsquo;s actually just scaled vector graphics (SVG) coded with HTML.
 Experimental at the moment.
 I&amp;rsquo;ll likely change that into something more artsy in the future.&lt;/li&gt;
 &lt;li&gt;Edited a few lines in the &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;Edited some parts in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt; project.
+&lt;li&gt;Edited some parts in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt;/ project.
 I added some notes about my new found tool, &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;, with the help of which I&lt;/li&gt;
 &lt;li&gt;redid an image in &lt;a href=&#34;https://ohio.araw.xyz/mercipod/&#34;&gt;iPod Upgrade&lt;/a&gt; project.&lt;/li&gt;
 &lt;li&gt;Removed the @tuta.io email from Index.
@@ -614,7 +651,7 @@ I&amp;rsquo;d like to think that it emits a certain mystery that kind of mislead
 If that sounds like equine shite, maybe because it is.
 Look up &amp;ldquo;anagram maker&amp;rdquo; on your favorite search engine if you&amp;rsquo;re into that kind of fun.&lt;/li&gt;
 &lt;li&gt;Added some new recommendations in the &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt; project&lt;/li&gt;
-&lt;li&gt;Edited some lines and addded footnotes in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt; project&lt;/li&gt;
+&lt;li&gt;Edited some lines and addded footnotes in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project&lt;/li&gt;
 &lt;li&gt;New CSS for &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks using &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Hugo&amp;rsquo;s built-in syntax highlighting&lt;/a&gt;.
 Currently, I am using the &lt;code&gt;monokai&lt;/code&gt; theme.&lt;/li&gt;
 &lt;li&gt;Added new section in &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project that briefly explains about a newly added search function feature using JavaScript. 😨&lt;/li&gt;
@@ -638,7 +675,7 @@ Maybe I can share some photo/s in the next post.&lt;/p&gt;
       <guid>https://ohio.araw.xyz/lh/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new project: &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Added some lines in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt; project, expounding more on the use of Hugo.&lt;/li&gt;
+&lt;li&gt;Added some lines in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project, expounding more on the use of Hugo.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Lower&amp;mdash;or, better yet, &lt;em&gt;eliminate&lt;/em&gt;&amp;mdash;expectations.&lt;br&gt;
 &lt;em&gt;&amp;lsquo;Wag (masyadong) umasa.&lt;/em&gt;&lt;/p&gt;
@@ -690,7 +727,7 @@ At least I can give &lt;em&gt;them&lt;/em&gt; a headache by not merely doing wha
 &lt;li&gt;Listed new project: &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book website&lt;/a&gt;.
 It&amp;rsquo;s currently under construction, but feel free to check either the post, or the website.&lt;/li&gt;
 &lt;li&gt;Changed background color of a blockquote.&lt;/li&gt;
-&lt;li&gt;Changed some wording in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt; project, something about my opinion on not having JavaScript&lt;/li&gt;
+&lt;li&gt;Changed some wording in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project, something about my opinion on not having JavaScript&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Hirap tumanda.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s already evening as I type this out.

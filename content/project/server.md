@@ -260,3 +260,7 @@ pkg_add git neovim rsync
 ### Enable HTTPS with acme-client(1) and Let's Encrypt
 
 ### Add HTTP security headers with relayd(8)
+
+## SSH Server and Client
+
+In order for the client to connect to the server, a user account must be created on the server.

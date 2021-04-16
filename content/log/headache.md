@@ -4,7 +4,7 @@ date: 2021-01-07T19:24:40+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Added new sections to the [Always Carry A Book Website]({{< ref "/project/alwayscarry.md" >}}) project.
+- Added new sections to the [Always Carry A Book Website](/alwayscarry/) project.
 - Minor edit on the footer
 - Added some blurbs on the Index, like adding a separate email for work-related stuff.
 - Edited title for [RSS feed](/log/index.xml)

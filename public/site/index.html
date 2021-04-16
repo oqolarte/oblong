@@ -2,10 +2,11 @@
 <html lang="en">
 	<head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport"content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="generator" content="Hugo 0.82.0" />
   
-  <link rel="stylesheet" href="https://ohio.araw.xyz/css/style.css">
+  <link rel="stylesheet"href="https://ohio.araw.xyz/css/style.css">
+  <link rel="icon"href="data:">
   
   
   	
@@ -59,7 +60,7 @@
 <h2 class="statusOnGoing" id="status-on-going">Status: On-going</h2>
 <p>The making of this site is itself a personal project.
 Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.</p>
-<p>The status is likely to stay on-going;
+<p>The status is likely to stay <strong>on-going</strong>;
 this site is always under construction.</p>
 <h2 id="digital-garden">Digital Garden</h2>
 <p>If you&rsquo;ve been looking around for personal websites like I have, &ldquo;digital garden&rdquo; is a phrase that gets used often.</p>
@@ -68,10 +69,11 @@ It&rsquo;s a more endearing term, I believe, than, say, a public-facing journal 
 They all function the same.</p>
 <p>This site, then, is my digital garden.
 Expect that things will be corrected, deleted, edited, fed, <em>grown</em>, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and every fiber of their being changes with them, literally.</p>
+People change&mdash;they need to, lest they stagnate&mdash;and every fiber of their being changes with them, literally.</p>
 <h3 id="public-repository-of-independent-research">Public Repository of Independent Research</h3>
 <p>Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all.
-I am going the more &ldquo;progressive&rdquo; route of bypassing the traditional way to PhD.
+Research, in this context, will be very different from that within academia.
+This &ldquo;progressive&rdquo; route bypasses the traditional way to earn a post-graduate degree.
 After reading <a href="https://nadiaeghbal.com">Nadia Eghbal</a>&rsquo;s post, &ldquo;<a href="https://nadiaeghbal.com/phd">Reimagining the PhD</a>,&rdquo; I&rsquo;m now more inclined to do this.</p>
 <p>I can&rsquo;t also imagine spending at least three years getting a master&rsquo;s degree, holding on to the fact that it&rsquo;s &ldquo;necessary&rdquo; to further my career.
 I am, more or less, happy with the opportunity cost of not dealing with it.</p>
@@ -104,9 +106,9 @@ A web service is available along these lines: check out <a href="https://rssby.e
 <p>BONUS: If you&rsquo;re like me, then you&rsquo;re already a fan of RSS.
 For the newsletters that you&rsquo;d like to subscribe to <em>and</em> access them in your RSS reader (NOT on your email), you may want to look into <a href="https://kill-the-newsletter.com/">Kill the Newsletter</a> service.</p>
 <h2 id="front-end">Front-end</h2>
-<p>As you are well aware, this site has a very simple design.
+<p>As you are well aware, this site&rsquo;s design borders on brutalism.
 Admittedly, it&rsquo;s the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
-It turns out that this is a feature, not a bug.</p>
+It turns out that this is a feature, not a bug, for static websites anyway.</p>
 <p>By foregoing intricate UI/UX design, I can focus on what matters most: <em>content</em>.
 Let me explain.</p>
 <p>By simplifying the design, I&rsquo;m making this site less bloated.
@@ -118,29 +120,30 @@ This means that:</p>
 <li>the site loads fast because of no tracking, no custom fonts; and,</li>
 <li>no distractions.</li>
 </ul>
+<p>I consider these points important as they all relate to my current situation.</p>
 <h3 id="link-management">Link Management</h3>
-<p>Links in this site that have a greenish northeast arrow (&ldquo;↗&rdquo; or &ldquo;<code>\2197</code>&rdquo; in CSS) right after them are external links, i.e. links that take the visitor out of this website.</p>
-<p>In CSS, I implented this using a selector that finds all links other than my own, which is <code>oqolarte.github.io</code>.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">a</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#39;oqolarte.github.io&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;mailto&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;#&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#39;/&#39;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span> {
-        <span style="color:#66d9ef">content</span>: <span style="color:#e6db74">&#34; ↗&#34;</span>; 
-        <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">green</span>;
-        <span style="color:#66d9ef">display</span>: <span style="color:#66d9ef">inline</span><span style="color:#f92672">-</span><span style="color:#66d9ef">block</span>;
-}
-</code></pre></div><p>The above snippet means that if a link does not contain <code>oqolarte.github.io</code>, a same-page anchor link (e.g. #status), <em>or</em> an internal website (e.g. /project), then <code>content</code> will be displayed <code>after</code> it.</p>
+<p>Links in this site that have a greenish northeast arrow (&ldquo;↗&rdquo; or &ldquo;<code>\2197</code>&rdquo; in CSS) right after them are <em>external links</em>, i.e. links that take the visitor out of this website.</p>
+<p>In CSS, I implented this using a selector that finds all links other than my own, which is <code>ohio.araw.xyz</code>.</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#000080;font-weight:bold">a</span>[<span style="color:#000080;font-weight:bold">href</span>^=<span style="color:#00f">&#34;http://&#34;</span>]:not([<span style="color:#000080;font-weight:bold">href</span>*=<span style="color:#00f">&#34;ohio.araw.xyz&#34;</span>]):after,
+<span style="color:#000080;font-weight:bold">a</span>[<span style="color:#000080;font-weight:bold">href</span>^=<span style="color:#00f">&#34;https://&#34;</span>]:not([<span style="color:#000080;font-weight:bold">href</span>*=<span style="color:#00f">&#34;ohio.araw.xyz&#34;</span>]):after,
+        <span style="color:#000080;font-weight:bold">content</span>: <span style="color:#00f">&#34;\2917&#34;</span>; 
+        <span style="color:#000080;font-weight:bold">color</span>: <span style="color:#000080;font-weight:bold">green</span>;
+        <span style="color:#000080;font-weight:bold">display</span>: <span style="color:#000080;font-weight:bold">inline-block</span>;
+<span style="color:#a61717;background-color:#e3d2d2">}</span>
+</code></pre></div><p>The above snippet means that if a link does not contain <code>ohio.araw.xyz</code>, then <code>content</code> will be displayed <code>after</code> it.</p>
 <p>Currently, these arrows only indicate external links to let visitors know that they will be directed away.
-Clicking one does <strong><em>not</em></strong> open it in a new tab.
-You have to manually right-click it and select <code>Open in a new tab</code> (or click with Mouse3/MouseWheel).</p>
+Clicking one does <strong><em>not</em></strong> open it in a new tab or window.
+You have to manually right-click it and select <code>Open in a new tab</code> (or <code>...window</code>) (or click with Mouse3/MouseWheel).</p>
 <h3 id="no-javascript">No JavaScript?</h3>
 <p>It&rsquo;s not really that I find JS harmful, although some would argue that it could be.
 I don&rsquo;t even know enough of the language to make that claim.
-In fact, I used JS to <a href="https://ohio.araw.xyz/alwayscarry/#search-functionality">add a search functionality on small bookshop website</a> I volunteered to create for Isya.</p>
+In fact, I used JS to <a href="/alwayscarry/#search-functionality">add a search functionality on small bookshop website</a> I volunteered to create for my partner.</p>
 <p>So why this &ldquo;distaste&rdquo; for JS in websites?</p>
 <p>Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&rsquo;s absence is definitely beneficial, because there&rsquo;s less code to maintain.</p>
 <h3 id="no-ads">No Ads</h3>
-<p>Only marketers like ads<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
-Good thing that I have none of them here.
-And I don&rsquo;t intend to put them here anytime soon.</p>
+<p>Only advertisers like ads<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
+I don&rsquo;t intend on monetizing this side with ads, so expect a clean (read: boring) site.</p>
 <p>Also, did you know that a lot of online advertising you see depends on JS?</p>
 <h3 id="images">Images</h3>
 <p>Humans can be very visual <em>sometimes</em>.
@@ -151,7 +154,7 @@ More resources mean more energy consumed means larger carbon footprint.</p>
 <ul>
 <li>it <em>does</em> tell &ldquo;more than a thousand words.&rdquo;
 An image must add to the narrative, not distract the viewers away from it.
-If it it&rsquo;s not adding value content-wise, it&rsquo;s not going in.</li>
+If it it&rsquo;s not adding value content-wise, it&rsquo;s likely not going in.</li>
 <li>it&rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
 <a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.</li>
@@ -173,27 +176,26 @@ There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo
 <h3 id="in-the-name-of-static-site-generator-ssg">In the name of Static Site Generator (SSG)</h3>
 <p>Using SSG like Hugo arguably increases security by simplifying a lot of things<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.
 There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.</p>
-<p>All the content is written in Markdown, a simple markup &ldquo;language&rdquo; for creating formatted text using a plaintext editor.
-This means that all the files are lightweight and portable, easy to backup and transfer between computers.</p>
-<p>Compilation is fast.
-Since web browsers can only read HTML files, compilation means that SSG converts the Markdown files into HTML.
-And if you&rsquo;re like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).</p>
-<p>It might sound tedious, because it is at first!
+<p>In many SSGs, content is written in Markdown, a simple markup &ldquo;language&rdquo; for creating formatted text using a plaintext editor.
+Markdown files (<code>.md</code>) are lightweight, portable, easy to backup, and transfer between computers.</p>
+<p>Generation time depends on the size and volume of files that need to be compiled.
+I&rsquo;ve heard that some SSGs could take up to a minute to build one whole site;
+some only <em>milliseconds</em>.</p>
+<p>It <em>is</em> tedious to go through all that.
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.</p>
 <p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> anytime!</p>
 <h3 id="using-hugo">Using Hugo</h3>
-<p>There are a lot of tutorials online on how to start a blog using Hugo.
-A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
-But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.</p>
-<p>What if you want something that isn&rsquo;t pre-fabricated, some template that can&rsquo;t be found in the <a href="https://themes.gohugo.io">Themes</a>, a theme that speaks your personality?</p>
-<p>Well, that&rsquo;s when you need to read the docs.</p>
+<p>Great Hugo tutorials abound online, in blog post and video formats.
+Some target new users;
+some have specific use cases in mind.</p>
+<p>However, like most tutorials online, they get outdated quickly.
+Sooner or later, reading the documentation becomes necessary.</p>
+<p>As with everything else, it&rsquo;s important to be patient and willing to read the manual.
+In case you&rsquo;re stuck, you can also ask the community.
+Hugo has a decent documentation<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
 <p>Truth be told, Hugo&rsquo;s learning curve is steep, especially if you&rsquo;re like me with no &ldquo;real&rdquo; coding experience.
 Maybe it helps when you&rsquo;ve been dealing with software programming for a while.
 Your mileage may vary.</p>
-<p>As with everything else, it&rsquo;s important to be patient and willing to read the documentation.
-Some documentations are good, some are bad, some don&rsquo;t even exist!
-In any case, you can also ask the community if you&rsquo;re stuck somewhere.
-Hugo has a decent documentation<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
 <p>My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
 <p>Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
 But we&rsquo;ll see.
@@ -222,13 +224,15 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 <li>Low-tech Magazine, the <a href="https://solar.lowtechmagazine.com">solar-powered one</a>. Their article on <a href="https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html">how to build a low-tech website</a> is eye-opening.</li>
 <li><a href="https://1mb.club">1MB Club</a>, and it&rsquo;s contemporaries, <a href="https://512kb.club">512KB Club</a>, and <a href="https://250kb.club">250KB Club</a></li>
 <li>The &ldquo;<a href="https://bestmotherfucking.website">Best Motherfucking Website</a>&rdquo;</li>
-<li><a href="https://danluu.com">Dan Luu&rsquo;s website</a>, although it might need a few tweaks to improve readability.</li>
+<li><a href="https://danluu.com">Dan Luu&rsquo;s website</a>, although it begs a few design tweaks to improve readability.</li>
 </ul>
 <h2 id="to-do">To-Do</h2>
 <p>Here&rsquo;s a wishlist of sorts that I need to do for this site:</p>
 <ul>
 <li><input checked="" disabled="" type="checkbox"> Purchase a proper domain name for this site</li>
-<li><input disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else, <a href="https://ohio.araw.xyz/server/">preferably on a machine I own</a>.</li>
+<li><input disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else, <a href="https://ohio.araw.xyz/server/">preferably on a machine I own</a>.
+GitHub has become more bloated over the years.
+I&rsquo;d like to step away from that.</li>
 <li><input disabled="" type="checkbox"> Have TLS certificate, preferably from <a href="https://letsencrypt.org">Let&rsquo;s Encrypt</a>, because there&rsquo;s really no excuse to use just HTTP</li>
 <li><input disabled="" type="checkbox"> Get at least a score of 50 on Mozilla&rsquo;s <a href="https://observatory.mozilla.org/">HTTP Observatory</a></li>
 </ul>
@@ -286,7 +290,7 @@ Back to 🏠<a href="/">Index</a> :: 📋<a href="/log">Log</a> :: 📚<a href="
 	<br>
 	<a href="https://512kb.club"><span style="color:green; font-weight:bold">GREEN TEAM</span> of 512KB Club</a>
     <br>This site is private 😏 No cookies, scripts, trackers, and analytics.
-    <br>Views are <em>mine</em> alone.
+    <br>Read the <a href="/disclaimer/">disclaimer</a>.
 </footer>
 
 </html>

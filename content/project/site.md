@@ -9,7 +9,7 @@ draft: false
 The making of this site is itself a personal project. 
 Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.
 
-The status is likely to stay on-going;
+The status is likely to stay **on-going**;
 this site is always under construction.
 
 ## Digital Garden
@@ -22,12 +22,13 @@ They all function the same.
 
 This site, then, is my digital garden.
 Expect that things will be corrected, deleted, edited, fed, *grown*, depending on any number of factors, including the current state of things.
-People change (they need to, lest they stagnate), and every fiber of their being changes with them, literally.
+People change---they need to, lest they stagnate---and every fiber of their being changes with them, literally.
 
 ### Public Repository of Independent Research
 
 Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all. 
-I am going the more "progressive" route of bypassing the traditional way to PhD.
+Research, in this context, will be very different from that within academia.
+This "progressive" route bypasses the traditional way to earn a post-graduate degree.
 After reading [Nadia Eghbal](https://nadiaeghbal.com)'s post, "[Reimagining the PhD](https://nadiaeghbal.com/phd)," I'm now more inclined to do this.
 
 I can't also imagine spending at least three years getting a master's degree, holding on to the fact that it's "necessary" to further my career.
@@ -75,9 +76,9 @@ For the newsletters that you'd like to subscribe to *and* access them in your RS
 
 ## Front-end
 
-As you are well aware, this site has a very simple design.
+As you are well aware, this site's design borders on brutalism.
 Admittedly, it's the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
-It turns out that this is a feature, not a bug.
+It turns out that this is a feature, not a bug, for static websites anyway.
 
 By foregoing intricate UI/UX design, I can focus on what matters most: *content*. 
 Let me explain.
@@ -90,31 +91,34 @@ This means that:
 - the site loads fast because of no tracking, no custom fonts; and,
 - no distractions.
 
+I consider these points important as they all relate to my current situation.
+
 ### Link Management
 
-Links in this site that have a greenish northeast arrow ("↗" or "`\2197`" in CSS) right after them are external links, i.e. links that take the visitor out of this website.
+Links in this site that have a greenish northeast arrow ("↗" or "`\2197`" in CSS) right after them are *external links*, i.e. links that take the visitor out of this website.
 
-In CSS, I implented this using a selector that finds all links other than my own, which is `oqolarte.github.io`.
+In CSS, I implented this using a selector that finds all links other than my own, which is `ohio.araw.xyz`.
 
 ```css
-a:not([href*='oqolarte.github.io']):not([href^='mailto']):not([href^='#']):not([href^='/']):after {
-        content: " ↗"; 
+a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
+a[href^="https://"]:not([href*="ohio.araw.xyz"]):after,
+        content: "\2917"; 
         color: green;
         display: inline-block;
 }
 ```
 
-The above snippet means that if a link does not contain `oqolarte.github.io`, a same-page anchor link (e.g. #status), *or* an internal website (e.g. /project), then `content` will be displayed `after` it.
+The above snippet means that if a link does not contain `ohio.araw.xyz`, then `content` will be displayed `after` it.
 
 Currently, these arrows only indicate external links to let visitors know that they will be directed away.
-Clicking one does **_not_** open it in a new tab.
-You have to manually right-click it and select `Open in a new tab` (or click with Mouse3/MouseWheel).
+Clicking one does **_not_** open it in a new tab or window.
+You have to manually right-click it and select `Open in a new tab` (or `...window`) (or click with Mouse3/MouseWheel).
 
 ### No JavaScript?
 
 It's not really that I find JS harmful, although some would argue that it could be.
 I don't even know enough of the language to make that claim.
-In fact, I used JS to [add a search functionality on small bookshop website]({{< ref "/project/alwayscarry.md#search-functionality" >}}) I volunteered to create for Isya.
+In fact, I used JS to [add a search functionality on small bookshop website](/alwayscarry/#search-functionality) I volunteered to create for my partner.
 
 So why this "distaste" for JS in websites?
 
@@ -122,9 +126,8 @@ Given the simple layout, the interactions with the visitor are limited to clicki
 It's absence is definitely beneficial, because there's less code to maintain.
 
 ### No Ads
-Only marketers like ads[^ads].
-Good thing that I have none of them here.
-And I don't intend to put them here anytime soon.
+Only advertisers like ads[^ads].
+I don't intend on monetizing this side with ads, so expect a clean (read: boring) site.
 
 Also, did you know that a lot of online advertising you see depends on JS?
 
@@ -139,7 +142,7 @@ More resources mean more energy consumed means larger carbon footprint.
 When adding images to a site, I make sure that:
 - it *does* tell "more than a thousand words."
 An image must add to the narrative, not distract the viewers away from it.
-If it it's not adding value content-wise, it's not going in.
+If it it's not adding value content-wise, it's likely not going in.
 - it's compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
 [Tiny JPG](https://tinyjpg.com) is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
@@ -172,36 +175,34 @@ There is no server-side software to install, no database to keep up to date, and
 [^pandoc]: Or, if you have [Pandoc](https://pandoc.org/) in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
 It takes some fiddling around the documentation, but it can be done.
 
-All the content is written in Markdown, a simple markup "language" for creating formatted text using a plaintext editor.
-This means that all the files are lightweight and portable, easy to backup and transfer between computers.
+In many SSGs, content is written in Markdown, a simple markup "language" for creating formatted text using a plaintext editor.
+Markdown files (`.md`) are lightweight, portable, easy to backup, and transfer between computers.
 
-Compilation is fast.
-Since web browsers can only read HTML files, compilation means that SSG converts the Markdown files into HTML.
-And if you're like me whose website comprises only HTML and CSS files, compilation can average on 100ms (milliseconds!).
+Generation time depends on the size and volume of files that need to be compiled.
+I've heard that some SSGs could take up to a minute to build one whole site;
+some only *milliseconds*.
 
-It might sound tedious, because it is at first!
+It *is* tedious to go through all that.
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.
 
 But I'll take the massive freedom gains provided by SSGs[^SSG] anytime!
 
 ### Using Hugo
 
-There are a lot of tutorials online on how to start a blog using Hugo.
-A lot of them, if you follow to the letter, will set you up a nice content management system (CMS, a fancier, more technical term for blog).
-But many of these tutorials are naturally targetted to beginners who just want to get something up already, and not go through hours of laboriously reading through the documentation.
+Great Hugo tutorials abound online, in blog post and video formats.
+Some target new users;
+some have specific use cases in mind.
 
-What if you want something that isn't pre-fabricated, some template that can't be found in the [Themes](https://themes.gohugo.io), a theme that speaks your personality?
+However, like most tutorials online, they get outdated quickly.
+Sooner or later, reading the documentation becomes necessary.
 
-Well, that's when you need to read the docs.
+As with everything else, it's important to be patient and willing to read the manual.
+In case you're stuck, you can also ask the community. 
+Hugo has a decent documentation[^hugo-doc].
 
 Truth be told, Hugo's learning curve is steep, especially if you're like me with no "real" coding experience.
 Maybe it helps when you've been dealing with software programming for a while.
 Your mileage may vary.
-
-As with everything else, it's important to be patient and willing to read the documentation.
-Some documentations are good, some are bad, some don't even exist!
-In any case, you can also ask the community if you're stuck somewhere.
-Hugo has a decent documentation[^hugo-doc].
 
 My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.
 
@@ -237,13 +238,15 @@ Here are some other sites from which I got inspiration:
 - Low-tech Magazine, the [solar-powered one](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
 - [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), and [250KB Club](https://250kb.club)
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
-- [Dan Luu's website](https://danluu.com), although it might need a few tweaks to improve readability.
+- [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
 
 ## To-Do
 
 Here's a wishlist of sorts that I need to do for this site:
 - [X] Purchase a proper domain name for this site
 - [ ] Move away from GitHub Pages and host somewhere else, [preferably on a machine I own]({{< ref "/project/server.md" >}}).
+GitHub has become more bloated over the years.
+I'd like to step away from that.
 - [ ] Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
 - [ ] Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)
 

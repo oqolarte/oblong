@@ -7,11 +7,11 @@ draft: false
 - Replaced the Creative Commons Licensing from [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/) to [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/). 
 If I were to advocate for free flow of information, I must let others, including commercial institutions, be able to riff off of my work. 
 I only ask that they include my name in the footnotes.
-- Added some new sections to [This Site]({{< ref "project/site.md" >}})
+- Added some new sections to [This Site](/site/)
 - Removed the blurb on the landing page that said "I have no other social media accounts..."
 That's not really accurate.
 What I don't have are Facebook, Twitter, TikTok, and Instagram.
-- Fixed "Last Update" logic in [Projects]({{< ref "project/" >}}).
+- Fixed "Last Update" logic in [Projects](/project/).
 
 We all learn that it takes a whole lot of time to get to know oneself.
 A year's worth of quasi-isolation seems to be enough.

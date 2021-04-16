@@ -4,8 +4,8 @@ date: 2021-03-05T07:24:29+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Edited one or two lines in the [Support]({{< ref "support.md" >}}) page.
-- Added a page, called [Ideas of Possible Projects]({{< ref "di-why.md" >}}), where such list is found.
+- Edited one or two lines in the [Support](/support/) page.
+- Added a page, called [Ideas of Possible Projects](/di-why/), where such list is found.
 Right now, the page can be accessed through the Support page, this log, and by memory (adding `/di-why` at the end of the base URL).
 - Added Dan Luu's blog as another inspiration for this [Site](/site).
 Also added a service for those who may want to subscribe to RSS by email.

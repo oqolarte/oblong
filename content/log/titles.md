@@ -4,10 +4,10 @@ date: 2021-03-12T00:41:40+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Edited some sections in the [Site](/site).
+- Edited some sections in the [Site](/site/).
 Also, I just learned that when writing in Markdown, I didn't have to put the footnotes at the end of the document!
 When Hugo converts `.md` to `.html`, it automatically places them at the end...?!
-- Edited a line in [Imbentori]({{< ref "/project/imbentori.md" >}}).
+- Edited a line in [Imbentori](/imbentori/).
 
 In Recent Years, I always dreamed of having a vague title for myself, like Designer or Consultant.
 Something that I can claim.

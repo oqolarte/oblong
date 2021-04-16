@@ -1,9 +1,10 @@
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport"content="width=device-width, initial-scale=1, shrink-to-fit=no">
   {{ hugo.Generator }}
   {{ $css := "css/style.css" | absURL }}
-  <link rel="stylesheet" href="{{ $css }}">
+  <link rel="stylesheet"href="{{ $css }}">
+  <link rel="icon"href="data:">
   {{ $title := site.Title }}
   {{ if not .IsHome }}
   	{{ $title = printf "%s | %s" .Title site.Title}}

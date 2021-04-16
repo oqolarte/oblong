@@ -8,10 +8,10 @@ draft: false
 It's actually just scaled vector graphics (SVG) coded with HTML.
 Experimental at the moment.
 I'll likely change that into something more artsy in the future.
-- Edited a few lines in the [Encoding]({{< ref "/project/encode.md" >}}) project.
-- Edited some parts in [This Site](/site) project.
+- Edited a few lines in the [Encoding](/encode/) project.
+- Edited some parts in [This Site](/site)/ project.
 I added some notes about my new found tool, [imgp](https://github.com/jarun/imgp), with the help of which I
-- redid an image in [iPod Upgrade]({{< ref "/project/mercipod.md" >}}) project.
+- redid an image in [iPod Upgrade](/mercipod/) project.
 - Removed the @tuta.io email from Index.
 I don't know why I can't access Tutanota servers.
 Something to do with my location?

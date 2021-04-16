@@ -4,10 +4,10 @@ date: 2021-01-03T20:55:25+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "growing old as Filipino"]
 draft: false
 ---
-- Listed new project: [Always Carry A Book website]({{< ref "/project/alwayscarry.md">}}).
+- Listed new project: [Always Carry A Book website](/alwayscarry/).
 It's currently under construction, but feel free to check either the post, or the website.
 - Changed background color of a blockquote.
-- Changed some wording in [This Site](/site) project, something about my opinion on not having JavaScript
+- Changed some wording in [This Site](/site/) project, something about my opinion on not having JavaScript
 
 *Hirap tumanda.*
 

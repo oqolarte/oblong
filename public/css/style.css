@@ -15,7 +15,13 @@ a[href^="https://"]:not([href*="ohio.araw.xyz"]):after{
         display: inline-block }
 h1,h2,h3,h4,h5,h6 { font-family: Georgia, Palatino, serif;line-height:1.2 }
 img { max-width:100%; height:auto }
-figcaption { text-align:center; font-size: 0.8em;color: #808080 }
+figure,figcaption { 
+        text-align:center; 
+        font-size: 0.8em;
+        color: #808080;
+        margin-right: auto;
+        margin-left: auto
+}
 blockquote { font: 1.1em/1.4 serif;padding-left: 0.9em;border-left: 5px solid #6b7c85 }
 code,kbd,pre,samp { font-family: monospace; font-size: inherit; overflow-x: auto}
 sub,sup { font-size: 69% }

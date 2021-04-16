@@ -4,7 +4,7 @@ date: 2021-02-22T08:05:17+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Added a way for readers (are there any?) to support me, found in this page: [Support]({{< ref "/support.md" >}}) (via Liberapay).
+- Added a way for readers (are there any?) to support me, found in this page: [Support](/support/) (via Liberapay).
 To be as less obnoxious about it as possible, this link will only be at the end of each Project page.
 - Changed my email address in the Index.
 After getting a domain from [Epik's](https://www.epik.com) registrar and setting up an email server with [Migadu](https://www.migadu.com), I now have a custom email address.

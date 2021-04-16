@@ -4,7 +4,7 @@ date: 2021-02-04T01:14:22+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Added new project [iPod Classic Hard Drive Upgrade]({{< ref "/project/mercipod.md" >}})
+- Added new project [iPod Classic Hard Drive Upgrade](/mercipod/)
 - Minor adjustments in fonts and their sizes.
 Does it improve the readability of the site?
 

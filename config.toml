@@ -14,6 +14,12 @@ enableGitInfo = true
 [params]
 	dateFormat = "2 Jan 2006"
 
+[markup]
+        [markup.blackFriday]
+                hrefTargetBlank = true
+        [markup.highlight]
+                style = "borland"
+
 [privacy]
 	[privacy.disqus]
 		disable = true

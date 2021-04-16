@@ -4,12 +4,12 @@ date: 2021-02-24T11:59:16+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-- Added new sections to the [Server]({{< ref "/project/server.md" >}}) project.
+- Added new sections to the [Server](/server/) project.
 Still haven't gotten around to it, but I will soon.
 I have to, now that I have a domain.
-- Added Paypal link in my [Support]({{< ref "/support.md" >}}) page.
+- Added Paypal link in my [Support](/support/) page.
 Also inserted a better pitch in there.
-- Edited a footnote in the [Site](/site) project.
+- Edited a footnote in the [Site](/site/) project.
 - Minor edit of the footer.
 
 In a society much better than this one, many things are readily available to everyone.

@@ -6,8 +6,10 @@ draft: false
 ---
 ## Status: On-going {.statusOnGoing}
 
-My partner has asked me to come up with a website to act as a central hub for their recently opened online bookshop.
+My partner asked me to come up with a website to act as a central hub for their recently opened online bookshop.
 This site shall mirror the contents of the shop's other social media presence.
+
+In the future, it will also be a shop for other household items.
 
 Visit the site, whose name I also came up with:
 **[Always Carry A Book](https://alwayscarry.netlify.app)**
@@ -17,18 +19,18 @@ Visit the site, whose name I also came up with:
 ## Design Choices
 
 I figured that since this would just be a small online shop, a full-blown e-commerce site with lots of features is unnecessary.
-Having this in mind, I decided that a static site would do.
+Having this in mind, I decided that a static site would do for now.
 Since I'm already familiar with [Hugo](https://gohugo.io), I use it as my static site generator.
 
 The business is literally just starting out.
 One major decision is to use free software services for the time being.
 
-Of course, the intention is to scale, and add the necessary functions as the business starts raking in the dough.
+Of course, we intend to scale as business grows.
 
 ### Landing Page Logo
-The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on [Krita](https://krita.org), a free and open source painting program, that's also available in many platforms.
 
-The image, compressed and optimized for the web, shall be the guiding aesthetic of the website.
+The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on [Krita](https://krita.org), a free and open source painting program.
+It shall be the guiding aesthetic of the website.
 
 ### Payment Gateway?
 
@@ -36,7 +38,7 @@ It's only natural for an e-commerce site to have a payment method coded in it.
 However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.
 
 Payment will be made in "less convenient" ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
-In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions.
+In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that's connected to a GCash account.
 
 Google Forms is also used for the customers to fill up when placing their orders.
 
@@ -44,8 +46,8 @@ For now, this will have to do.
 
 ### Integration with Instagram
 
-In order to reach as many prospects as possible, the shop is also available in Instagram and Facebook.
-We're thinking of focusing a huge chunk of content management via IG.
+To reach as many people as possible, the shop is also available in Instagram and Facebook.
+Huge chunk of content management will be focused on IG.
 Each post will then appear on the Facebook Page, and on the website.
 
 I had a brilliant idea to use Hugo's native integration with Instagram through their API, according to [Hugo's documentation](https://gohugo.io/content-management/shortcodes/#instagram).
@@ -59,26 +61,23 @@ For the time being, I can use the IG photo's ID to be embedded on the site.
 
 ### Hosting: GitHub + Netlify
 
-The source files are on GitHub. The HTML files are then deployed to Netlify.
+The source files are on [our GitHub](https://github.com/arawseekers). The HTML files are then deployed to [Netlify](https://netlify.com), another hosting platform.
 
-I make the changes (edit, generate the site, etc.) locally, in a laptop.
+I make the changes locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.
 Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.
 
 ### Search Functionality
 
-As we upload more content, i.e. more books, the list grows.
-I have added a search bar in the list page to help visitors, using JavaScript.
+The list of books for sale fluctuate depending on the sales.
+I have added a search bar in the list page to help visitors look up titles, using JavaScript.
 This is based on [zwbetz's tutorial](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/).
-
-I know I may have implied [a slight distaste for JavaScript](/site/#no-javascript), but since we intend this to be an e-commerce site, we have to be in a different mindset.
 
 As the user types a letter in the search bar, items with matching string of text remain, incrementally narrowing down the list.
 
-The JavaScript function is actually an Immediately Invoked Function Expression[^iife], and it runs as soon as it is defined.
+The JS function is actually an Immediately Invoked Function Expression[^iife], and it runs as soon as it is defined.
 
-The JavaScript code can either be wrapped in `<script>` tags at the end of the HTML page of the book list;
-or it can be separate file, like `search.js` living in the `your-hugo-site/static/js/search.js` directory which can then be invoked using Hugo Partials[^hugo-partials].
+The JS code is wrapped in `<script>` tags at the end of the HTML page of the book list.
 For posterity, here's the JS code:
 
 ```javascript
@@ -113,11 +112,21 @@ For posterity, here's the JS code:
 })();
 ```
 
+### "Just-in-time" Preloading
+
+Improving user experience might just be the key to a successful small online shop.
+Who knows?
+
+[Instant.Page](https://instant.page) claims to make the site's pages instant by preloading a page right before a user clicks it.
+Bandwidth-wise, this should only have small effects on the user, since by design, the pages of **Always Carry** are already lightweight.
+
+According to the Instant.Page, uBlock Origin blocks it.
+The author explains how to [self-host the script](https://instant.page/tech#self-hosting), and so I did just that, because I use uBlock Origin.
 
 ## How A Transaction Looks Like
 
 Here, I outline the processes involved for the customer and the dealer.
-This is not final, and obviously needs more thought put into it.
+This is not final as we streamline further.
 
 ### Customer Side
 
@@ -150,6 +159,8 @@ The number of waiting days depends on customer's location.
 
 ## 'Dropping' Content
 
+In e-commerce jargon, "dropping" means putting up new items in the shop.
+
 The current way involves a lot of friction on our side, to be honest.
 This is one of the drawbacks of going static: doing things "manually."
 
@@ -172,8 +183,8 @@ Photo-taking is done during daytime, when we make use of natural light.
 Initially, we used an iPhone to take photos of the books.
 Transferring files between Apple devices (in our case, iPhone and Mac) is easy, using AirDrop.
 
-However, for reasons that won't be mentioned, the iPhone is sure to be removed from the equation.
-We need to find solutions that don't rely on AirDrop's convenience.
+However, the iPhone is no longer available in this operation.
+We need solutions that don't rely on AirDrop's convenience.
 
 We have two options left: a digital camera, and an Android phone, the same one where we will be posting on IG.
 For better quality photos, the digital camera is the obvious choice.
@@ -187,5 +198,3 @@ If embedding posts from IG would fail somehow in the future, we could just post 
 Right now, as mentioned, we focus the content management in IG due to its reach.
 
 [^iife]: For more information, read the [Mozilla's explainer](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
-[^hugo-partials]: Partials are smaller, context-aware components in your list and papge templates that can be used economically to keep your templating DRY ("Don't Repeat Yourself"). 
-For more info, [read the Hugo documentation](https://gohugo.io/templates/partials/#readout).

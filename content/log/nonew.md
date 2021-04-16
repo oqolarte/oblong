@@ -9,11 +9,11 @@ The latter is an anagram of my middle and surname.
 I'd like to think that it emits a certain mystery that kind of misleads.
 If that sounds like equine shite, maybe because it is.
 Look up "anagram maker" on your favorite search engine if you're into that kind of fun.
-- Added some new recommendations in the [Encoding]({{< ref "/project/encode.md" >}}) project
-- Edited some lines and addded footnotes in [This Site](/site) project
+- Added some new recommendations in the [Encoding](/encode/) project
+- Edited some lines and addded footnotes in [This Site](/site/) project
 - New CSS for `<code>` blocks using [Hugo's built-in syntax highlighting](https://gohugo.io/content-management/syntax-highlighting/).
 Currently, I am using the `monokai` theme.
-- Added new section in [Always Carry A Book Website]({{< ref "/project/alwayscarry.md" >}}) project that briefly explains about a newly added search function feature using JavaScript. 😨
+- Added new section in [Always Carry A Book Website](/alwayscarry/) project that briefly explains about a newly added search function feature using JavaScript. 😨
 - Updated my CV using Pandoc.
 It is now two pages long, so I may have to readjust the margins.
 

@@ -48,8 +48,8 @@ Academic Scholar --- Department of Science and Technology SEI --- AY 2009-2014
 ---
 
 ### LANGUAGES
-Human: Filipino (native), English (fluent in speaking and writing)  
-Computer: Unix Shell Scripting (basic), C (basic), Python 3+ (basic)
+**Human**: Filipino (native), English (fluent in speaking and writing)  
+**Computer**: Unix Shell Scripting (basic), C (basic), Python 3+ (basic)
 
 ### HOBBIES
 Reading, Creative Endeavors, Computer Programming, Cycling, Repair, Watching Films, Web Development
