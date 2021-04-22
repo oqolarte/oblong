@@ -94,7 +94,7 @@ Always choose the one nearest your location to reduce download time.
 [^mirror]: It's just a server that provides the exact copy of data from another server.
 Usually to provide a means of redundancy.
 
-```
+```shell
 curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.8/i386/install68.img
 ```
 
@@ -104,14 +104,14 @@ Plug in the USB stick.
 The following command assumes that the disk is recognized as `sdc1`.
 Check with `dmesg`, `df -h`, or `lsblk` commands, as root if need be.
 
-```
+```shell
 sudo dd if=install*.img of=/dev/sdc1 bs=1M
 ```
 The `dd` utility copies the standard input `if` (or input file) to the standard output `of` (or output file, which, in this case, is the USB drive).
 `bs` stands for block size, and we set it to 1 megabyte.
 
 In my case, the successful output is:
-```
+```shell
 450+0 records in
 450+0 records out
 471859200 bytes (472 MB, 450 MiB) copied, 31.9492 s, 14.8 MB/s
@@ -141,7 +141,7 @@ Then login as root.
 
 #### Enable `apmd(8)`
 
-```
+```shell
 rcctl enable apmd
 rcctl set apmd flags -a -z 7
 rcctl start apmd
@@ -149,8 +149,8 @@ rcctl start apmd
 
 #### Add username to `/etc/doas.conf`
 
-```
-echo 'permit yourUserName` > /etc/doas.conf
+```shell
+echo 'permit yourUserName' > /etc/doas.conf
 ```
 
 Reboot to make the changes.
@@ -176,14 +176,59 @@ Network interfaces are named by taking the shorthand version of the network card
 
 This laptop has `re(4)`, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/Gigabit Ethernet device.
 
+To set it up, create a file `/etc/hostname.re0` using vi[^vi], and put these two lines in:
+
+```shell
+dhcp
+up
+```
+
+[^vi]: vi is a text editor already present in the base install of OpenBSD.
+I'm familiar with its usage, but ultimately I'll use (neo)vim.
+
+To make the file `/etc/hostname.re0` belong to the `root` (the super user) and `wheel`, and to set the necessary permissions, enter these commands as root:
+
+```shell
+chown root:wheel /etc/hostname.re0
+chmod 0640 /etc/hostname.re0
+```
+
+Activate the ethernet connection by entering this as root:
+```shell
+sh /etc/netstart
+```
+
+If successful, it's possible now to update the firmwares, so you can use, among other things, the wifi.
+Enter as root:
+```shell
+fw_update
+```
+
 #### Wi-fi
 This laptop has wi-fi capabilities, but isn't immediately compatible due to firmware issues.
+As just mentioned, firmware can be updated by `fw_update` if you're already connected to the internet via ethernet.
+But if that's unsuccessful for some reason, skip to the next section to get the firmware updates.
 
 This laptop has `ath(4)`, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.
 
+To set up the wifi, create a file `etc/hostname.athn0` as root and input these following lines:
+```shell
+nwid myHomeWiFi wpakey p@s&w0rD
+dhcp
+up
+```
+
+Like with the ethernet, specify that the file belongs to `root` and `wheel`, set the permissions, and activate the connection by entering the following lines, as root:
+```shell
+chown root:wheel /etc/hostname.athn0
+chmod 0640 /etc/hostname.athn0
+
+sh /etc/netstart
+```
+
 #### Installing the needed firmware (from another device)
 
-Not everything works as expected.
+Not everything might work as expected.
 Ethernet might not work out of the box.
 Wi-fi is unlikely to work, too, if the firmwares aren't updated.
 If you find yourself in this situation, there's another solution:
@@ -199,63 +244,68 @@ Download the firmware files in your list to a USB drive **formatted as FAT32**.
 (OpenBSD can't natively read ext4 or NTFS partitions.)
     1. There are different ways you can format a USB drive to FAT32, depending on the platform you're doing the formatting on. 
         If you're on a Debian-based system like I am, install the *dosfstools*.
-        ```
+        ```shell
         sudo apt install dosfstools
         ```
     1. Locate your USB drive by running this in terminal:
-        ```
+        ```shell
         lsblk
         ```
         In my case, it's `/dev/sdc` .
     1. Unmount the USB drive, because we can't format it when mounted:
-        ```
+        ```shell
         sudo umount /dev/sdc
         ```
     1. Create a new partition table, which we will determine to be `msdos`.
-        ```
+        ```shell
         sudo parted /dev/sdc --script -- mklabel msdos
         ```
     1. Specify that the whole drive must be of FAT32 file system, primary partition type:
-        ```
+        ```shell
         sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
         ```
     1. Format the drive to FAT32:
-        ```
+        ```shell
         sudo mkfs.fat -F 32 -I /dev/sdc
         ```
     1. (Optional) Check if your device has been partitioned correctly:
-        ```
+        ```shell
         sudo parted /dev/sdc --script print
         ```
 1. Insert the USB drive to the OpenBSD machine.
 As root, enter `diskutil list`.
 Your USB drive will appear to have several partitions, e.g. sd1c.
 1. Create a mount point under /mnt (as root):
-        ```
+        ```shell
         mkdir /mnt/usb
         ```
 1. Mount the USB (as root):
-        ```
+        ```shell
         mount /dev/sd1i /mnt/usb
         ```
 1. Once mounted, install the firmware manually (as root):
-        ```
+        ```shell
         fw_update -p /mnt/usb
         ```
 1. Reboot
 
 ### Optional things
 
-In this laptop, I'm going install several binaries from the ports, namely **git** (version control system), **neovim** (text editor), and **rsync** (synchronization program)
-
+In this laptop, I'm going install several binaries from the ports, namely **git** (version control system), and **neovim** (text editor).
 To install in one go, enter as root:
-```
-pkg_add git neovim rsync
+```shell
+pkg_add git neovim 
 ```
 
 ## Web Server on OpenBSD
 
-### Configure httpd(8)
+Now we're at the heart of this project:
+to make this old laptop a working server for this site.
+Let's start by configuring httpd, the native HTTP daemon in the OpenBSD.
+
+### Configure httpd
+
+
 
 ### Enable HTTPS with acme-client(1) and Let's Encrypt
 

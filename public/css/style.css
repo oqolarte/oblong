@@ -1,8 +1,11 @@
 @media (prefers-color-scheme: dark){
-	body {color:#e0e0e0;background:#000}
+	body {color:#d3d3d3;background:#121212}
 	a:link {color:#7aa3cc}
 	a:hover, a:visited:hover {color:#a3becc}
-	a:visited {color:#a37acc} }
+	a:visited {color:#a37acc} 
+    footer :target { background: #cd00cd }
+    .footnotes :target { background: #cd00cd }
+}
 body {  margin:1em auto;
         max-width:40em;
 	    padding: 0.69em;
