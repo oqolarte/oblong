@@ -1,20 +1,18 @@
 ---
-title: "Always Carry A Book Website"
+title: "Always Carry Website"
 date: 2021-01-02T15:02:49+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "static site", "static e-commerce site", "online bookshop"]
 draft: false
 ---
 ## Status: On-going {.statusOnGoing}
 
-My partner asked me to come up with a website to act as a central hub for their recently opened online bookshop.
-This site shall mirror the contents of the shop's other social media presence.
+My partner asked me to come up with a website to act as a central hub for their small online shop.
+The website shall mirror the contents of the shop's other social media presence.
 
-In the future, it will also be a shop for other household items.
+Visit the site:
+**[Always Carry!](https://alwayscarry.netlify.app)**
 
-Visit the site, whose name I also came up with:
-**[Always Carry A Book](https://alwayscarry.netlify.app)**
-
-{{< figure src="/image/acabooks.png" alt="screenshot from Always Carry A Book website " caption="Screenshot from the website" >}}
+{{< figure src="/image/alwayscarry.png" alt="screenshot from Always Carry website " caption="Screenshot from the website" >}}
 
 ## Design Choices
 
@@ -27,22 +25,17 @@ One major decision is to use free software services for the time being.
 
 Of course, we intend to scale as business grows.
 
-### Landing Page Logo
+### Landing Page
 
-The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on [Krita](https://krita.org), a free and open source painting program.
+The cat-holding-a-book logo is drawn by Isya herself, using Wacom Bamboo Tablet on [Krita](https://krita.org), a free and open source painting program.
 It shall be the guiding aesthetic of the website.
 
-### Payment Gateway?
+From the Index, the visitor is presented with two links to the two branches of the shop:
+- Books
+- Home Products
 
-It's only natural for an e-commerce site to have a payment method coded in it.
-However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.
-
-Payment will be made in "less convenient" ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
-In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that's connected to a GCash account.
-
-Google Forms is also used for the customers to fill up when placing their orders.
-
-For now, this will have to do.
+Each of these are Lists of single pages.
+Each single page is a detailed view of the product via Instagram.
 
 ### Integration with Instagram
 
@@ -59,6 +52,18 @@ Good thing that from that same discussion, [monsieurnebo's fix](https://github.c
 
 For the time being, I can use the IG photo's ID to be embedded on the site.
 
+### Payment Gateway?
+
+It's only natural for an e-commerce site to have a payment method coded in it.
+However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.
+
+Payment will be made in "less convenient" ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
+In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that's connected to a GCash account.
+
+Google Forms is also used for the customers to fill up when placing their orders.
+
+For now, this will have to do.
+
 ### Hosting: GitHub + Netlify
 
 The source files are on [our GitHub](https://github.com/arawseekers). The HTML files are then deployed to [Netlify](https://netlify.com), another hosting platform.
@@ -66,51 +71,6 @@ The source files are on [our GitHub](https://github.com/arawseekers). The HTML f
 I make the changes locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.
 Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.
-
-### Search Functionality
-
-The list of books for sale fluctuate depending on the sales.
-I have added a search bar in the list page to help visitors look up titles, using JavaScript.
-This is based on [zwbetz's tutorial](https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/).
-
-As the user types a letter in the search bar, items with matching string of text remain, incrementally narrowing down the list.
-
-The JS function is actually an Immediately Invoked Function Expression[^iife], and it runs as soon as it is defined.
-
-The JS code is wrapped in `<script>` tags at the end of the HTML page of the book list.
-For posterity, here's the JS code:
-
-```javascript
-(function () {
-  function updateCount(count) {
-    var listCount = document.getElementById("list-count");
-    listCount.innerText = "Count: " + count;
-  }
-
-  function onEvent() {
-    var count = 0;
-    var filter = search.value.toUpperCase();
-    var list = document.getElementById("list");
-    var listItems = list.getElementsByTagName("li");
-    for (i = 0; i < listItems.length; i++) {
-      var item = listItems[i];
-      var text = item.innerText.toUpperCase();
-      if (text.indexOf(filter) > -1) {
-        item.style.display = "";
-        count++;
-      } else {
-        item.style.display = "none";
-      }
-    }
-    updateCount(count);
-  }
-
-  var search = document.getElementById("search");
-  if (search) {
-    search.addEventListener("keyup", onEvent);
-  }
-})();
-```
 
 ### "Just-in-time" Preloading
 

@@ -1,10 +1,8 @@
 @media (prefers-color-scheme: dark){
-	body {color:#d3d3d3;background:#121212}
+	body {color:#d3d3d3;background:#000}
 	a:link {color:#7aa3cc}
 	a:hover, a:visited:hover {color:#a3becc}
 	a:visited {color:#a37acc} 
-    footer :target { background: #cd00cd }
-    .footnotes :target { background: #cd00cd }
 }
 body {  margin:1em auto;
         max-width:40em;
@@ -26,13 +24,13 @@ figure,figcaption {
         margin-left: auto
 }
 blockquote { font: 1.1em/1.4 serif;padding-left: 0.9em;border-left: 5px solid #6b7c85 }
-code,kbd,pre,samp { font-family: monospace; font-size: inherit; overflow-x: auto}
+code,kbd,pre,samp { font-family: monospace; font-size: inherit; overflow-x: auto; padding: 0.2em}
 sub,sup { font-size: 69% }
-footer :target { background: yellow }
+footer :target {font-weight:bold}
 .container { max-width: 700px }
 .small {font-size: 0.8em}
 .footnotes { font-size: 0.9em }
-.footnotes :target { background: yellow }
+.footnotes :target {font-weight:bold}
 .footnote-ref:before { content:"["}
 .footnote-ref:after { content:"]"}
 .footnote-ref, .footnote-backref { text-decoration: none; font-weight:bold }

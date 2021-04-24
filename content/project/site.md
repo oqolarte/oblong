@@ -101,7 +101,7 @@ In CSS, I implented this using a selector that finds all links other than my own
 
 ```css
 a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
-a[href^="https://"]:not([href*="ohio.araw.xyz"]):after,
+a[href^="https://"]:not([href*="ohio.araw.xyz"]):after{
         content: "\2917"; 
         color: green;
         display: inline-block;

@@ -2,33 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a log on somersaulting</title>
-    <link>/log/</link>
+    <link>https://ohio.araw.xyz/log/</link>
     <description>Recent content in Log on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="/log/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Unlearning Inefficiency</title>
+      <link>https://ohio.araw.xyz/ineff/</link>
+      <pubDate>Sat, 24 Apr 2021 09:16:02 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/ineff/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Updated the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry&#34;&gt;Always Carry&lt;/a&gt; project.
+It&amp;rsquo;s been recently rebranded (FKA Always Carry A Book) and relaunched, so please check out the online shop:
+&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;https://alwayscarry.netlify.app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added new sections to the &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;Footnote &amp;ldquo;highlighting&amp;rdquo; is now just changing the &lt;code&gt;font-weight&lt;/code&gt; to &lt;code&gt;bold&lt;/code&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Today&amp;rsquo;s short post is all about learning,
+or at least, my attempt at it.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d like to think I&amp;rsquo;ve been reading more these days.
+I know it&amp;rsquo;s important to keep up with the times, but at the same time,
+taking a break cannot be overlooked!
+Information unused can and will occupy unnecessary mental space, which is just too precious today to be misused.&lt;/p&gt;
+&lt;p&gt;On the other hand, I also think that I may not be reading the most useful bodies of text to me.
+Though that&amp;rsquo;s not saying that every input &lt;em&gt;must&lt;/em&gt; be useful.
+We humans tend to ruin a lot of things, including ourselves, through the endless pursuit of optimization.
+Sometimes, it&amp;rsquo;s okay to be inefficient.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Everything in moderation,&amp;rdquo; Oscar Wilde said, &amp;ldquo;including moderation.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Learning new things creates new insights.
+Unlearning some old ones can also connect different ideas, as one unclogs the path from bad data.&lt;/p&gt;
+&lt;p&gt;Anyway, here&amp;rsquo;s a free idea:
+Wouldn&amp;rsquo;t it be great to buy and sit on the &lt;code&gt;yellowcab.pizza&lt;/code&gt; domain?&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;This sample text becomes bold when you click from the footnote reference.
+It returns to regular font weight when you return. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Clean Act</title>
-      <link>/act/</link>
+      <link>https://ohio.araw.xyz/act/</link>
       <pubDate>Fri, 16 Apr 2021 00:11:22 +0800</pubDate>
       
-      <guid>/act/</guid>
+      <guid>https://ohio.araw.xyz/act/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Changed syntax highlighting theme for code blocks, from &lt;code&gt;monokai&lt;/code&gt; to &lt;code&gt;friendly&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Edited the CSS code block example in the &lt;a href=&#34;/site/&#34;&gt;Site&lt;/a&gt; project.
+&lt;li&gt;Edited the CSS code block example in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; project.
 I also edited some sections.&lt;/li&gt;
-&lt;li&gt;Edited some sections in the &lt;a href=&#34;/alwayscarry/&#34;&gt;Always Carry&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/disclaimer&#34;&gt;Disclaimer&lt;/a&gt; now has its own dedicated page.
+&lt;li&gt;Edited some sections in the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/disclaimer&#34;&gt;Disclaimer&lt;/a&gt; now has its own dedicated page.
 It can be accessed from the footer.&lt;/li&gt;
 &lt;li&gt;The following line was added to the &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; tag to remove icon and prevent the browser from trying to retrieve it: &lt;code&gt;&amp;lt;link rel=&amp;quot;icon&amp;quot; href=&amp;quot;data:&amp;quot;&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Improved navigation in &lt;a href=&#34;/log/&#34;&gt;Log&lt;/a&gt; and &lt;a href=&#34;/project&#34;&gt;Projects&lt;/a&gt; menus.&lt;/li&gt;
+&lt;li&gt;Improved navigation in &lt;a href=&#34;https://ohio.araw.xyz/log/&#34;&gt;Log&lt;/a&gt; and &lt;a href=&#34;https://ohio.araw.xyz/project&#34;&gt;Projects&lt;/a&gt; menus.&lt;/li&gt;
 &lt;li&gt;Fixed internal links.&lt;/li&gt;
 &lt;li&gt;Added &lt;code&gt;{margin-right:auto; margin-left:auto}&lt;/code&gt; in &lt;code&gt;figure&lt;/code&gt; and &lt;code&gt;figurecaption&lt;/code&gt;.
 Images should now be the same as the width of the body.&lt;/li&gt;
-&lt;li&gt;Added &lt;a href=&#34;/blogroll/&#34;&gt;Blogroll&lt;/a&gt; on Index.
+&lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/blogroll/&#34;&gt;Blogroll&lt;/a&gt; on Index.
 It&amp;rsquo;s likely I&amp;rsquo;ll add more to this list in the future.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;How long does it take for something to come to fruition?&lt;/p&gt;
@@ -49,10 +88,10 @@ I hope to have a clean act, because neatness advertises ability, they say.&lt;/p
     
     <item>
       <title>Astral Gate</title>
-      <link>/agate/</link>
+      <link>https://ohio.araw.xyz/agate/</link>
       <pubDate>Fri, 09 Apr 2021 10:19:48 +0800</pubDate>
       
-      <guid>/agate/</guid>
+      <guid>https://ohio.araw.xyz/agate/</guid>
       <description>&lt;p&gt;What are you looking forward to this year 2021?&lt;/p&gt;
 &lt;p&gt;It differs from person to person, &lt;em&gt;no&lt;/em&gt;?&lt;/p&gt;
 &lt;p&gt;We here have been looking forward to the opening of two new LRT-2 stations, the nearest being Masinag Station.&lt;/p&gt;
@@ -77,12 +116,12 @@ Looking forward to this as well, although I expect that there will be delays in 
     
     <item>
       <title>Two-kilometer Bike Errand</title>
-      <link>/2kbike/</link>
+      <link>https://ohio.araw.xyz/2kbike/</link>
       <pubDate>Mon, 05 Apr 2021 22:12:36 +0800</pubDate>
       
-      <guid>/2kbike/</guid>
+      <guid>https://ohio.araw.xyz/2kbike/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Added new sections in &lt;a href=&#34;/server/&#34;&gt;Server&lt;/a&gt;.
+&lt;li&gt;Added new sections in &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt;.
 That page is becoming a repository of notes that I&amp;rsquo;ve compiled during the process of setting up this server.
 It comes in bits and pieces, but it&amp;rsquo;s coming along.
 I&amp;rsquo;m still figuring it out how to implement some things in OpenBSD.
@@ -113,10 +152,10 @@ And while it wasn&amp;rsquo;t the scorching midday sun that we have had the disp
     
     <item>
       <title>XXVIII</title>
-      <link>/xxviii/</link>
+      <link>https://ohio.araw.xyz/xxviii/</link>
       <pubDate>Mon, 29 Mar 2021 14:44:46 +0800</pubDate>
       
-      <guid>/xxviii/</guid>
+      <guid>https://ohio.araw.xyz/xxviii/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Footnotes will now be highlighted in yellow&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; when you click on them.
 See for yourself.&lt;/li&gt;
@@ -153,17 +192,17 @@ The highlight will disappear once you click on the backlink, the one at the end 
     
     <item>
       <title>Week 11</title>
-      <link>/wk11/</link>
+      <link>https://ohio.araw.xyz/wk11/</link>
       <pubDate>Mon, 22 Mar 2021 00:48:28 +0800</pubDate>
       
-      <guid>/wk11/</guid>
+      <guid>https://ohio.araw.xyz/wk11/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Because there&amp;rsquo;s no creative way to title this post.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Added new sections in &lt;a href=&#34;/server/&#34;&gt;Server&lt;/a&gt;.
+&lt;li&gt;Added new sections in &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt;.
 Yes, kids, it&amp;rsquo;s happening.
 Or at least, bit by bit, I&amp;rsquo;m getting into it&amp;mdash;
 my homebrewed server is coming along.&lt;/li&gt;
-&lt;li&gt;Added some lines and a footnote in the &lt;a href=&#34;/site/&#34;&gt;Site&lt;/a&gt; about Pandoc.
+&lt;li&gt;Added some lines and a footnote in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; about Pandoc.
 An image is also removed.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;and-now-the-news&#34;&gt;And now, the news&lt;/h2&gt;
@@ -204,10 +243,10 @@ More info: &lt;a href=&#34;https://winehq.org&#34;&gt;https://winehq.org&lt;/a&g
     
     <item>
       <title>What D&amp;D Character Am I?</title>
-      <link>/cgud/</link>
+      <link>https://ohio.araw.xyz/cgud/</link>
       <pubDate>Wed, 17 Mar 2021 14:52:37 +0800</pubDate>
       
-      <guid>/cgud/</guid>
+      <guid>https://ohio.araw.xyz/cgud/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;New URL! This site is now &lt;code&gt;https://ohio.araw.xyz&lt;/code&gt;.
 Since it&amp;rsquo;s still hosted on Github Pages, &lt;code&gt;https://oqolarte.github.io&lt;/code&gt; will still work, and will redirect here.&lt;/li&gt;
@@ -226,10 +265,10 @@ However, chaotic good can be a dangerous alignment when it disrupts the order of
     
     <item>
       <title>Scent in Memory</title>
-      <link>/scent/</link>
+      <link>https://ohio.araw.xyz/scent/</link>
       <pubDate>Mon, 15 Mar 2021 12:18:40 +0800</pubDate>
       
-      <guid>/scent/</guid>
+      <guid>https://ohio.araw.xyz/scent/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added my email adress at the end of each project to welcome any recommendations to improve each of them.
 Right now, I haven&amp;rsquo;t implemented a commenting system for this website.
@@ -258,10 +297,10 @@ Every time, I&amp;rsquo;m transported to the past by nostalgia.&lt;/p&gt;
     
     <item>
       <title>Qualitative Research</title>
-      <link>/grnq/</link>
+      <link>https://ohio.araw.xyz/grnq/</link>
       <pubDate>Sat, 13 Mar 2021 15:16:14 +0800</pubDate>
       
-      <guid>/grnq/</guid>
+      <guid>https://ohio.araw.xyz/grnq/</guid>
       <description>&lt;p&gt;How else do you spend an afternoon other than answering &lt;a href=&#34;https://flyeronthewall.wordpress.com/about/about-yourself/&#34;&gt;questions from the internet&lt;/a&gt;?
 Not all questions from that questionnaire made here.
 I picked the ones that I may have an interesting answer to.&lt;/p&gt;
@@ -308,15 +347,15 @@ I also watched the movie, which is a good adaptation, in my opinion, of the nove
     
     <item>
       <title>Vague Titles</title>
-      <link>/titles/</link>
+      <link>https://ohio.araw.xyz/titles/</link>
       <pubDate>Fri, 12 Mar 2021 00:41:40 +0800</pubDate>
       
-      <guid>/titles/</guid>
+      <guid>https://ohio.araw.xyz/titles/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Edited some sections in the &lt;a href=&#34;/site/&#34;&gt;Site&lt;/a&gt;.
+&lt;li&gt;Edited some sections in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt;.
 Also, I just learned that when writing in Markdown, I didn&amp;rsquo;t have to put the footnotes at the end of the document!
 When Hugo converts &lt;code&gt;.md&lt;/code&gt; to &lt;code&gt;.html&lt;/code&gt;, it automatically places them at the end&amp;hellip;?!&lt;/li&gt;
-&lt;li&gt;Edited a line in &lt;a href=&#34;/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Edited a line in &lt;a href=&#34;https://ohio.araw.xyz/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In Recent Years, I always dreamed of having a vague title for myself, like Designer or Consultant.
 Something that I can claim.
@@ -332,14 +371,14 @@ Who can blame them when doing so gives the illusion of having more opportunities
     
     <item>
       <title>Productivity Conflicts</title>
-      <link>/prod-conf/</link>
+      <link>https://ohio.araw.xyz/prod-conf/</link>
       <pubDate>Wed, 10 Mar 2021 10:46:08 +0800</pubDate>
       
-      <guid>/prod-conf/</guid>
+      <guid>https://ohio.araw.xyz/prod-conf/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Lightly adjusted the color scheme for dark-themed devices.
 Also (ruthlessly?) pruned the CSS.&lt;/li&gt;
-&lt;li&gt;Added a brief explainer on the &lt;a href=&#34;/site/&#34;&gt;Site&lt;/a&gt; about the now-added northeast arrows on external links.&lt;/li&gt;
+&lt;li&gt;Added a brief explainer on the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; about the now-added northeast arrows on external links.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The past few weeks, my to-do list has hounded me to clean and repaste Ador&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
 This should be done maybe twice a year to maintain the operating temperature within the motherboard.&lt;/p&gt;
@@ -353,7 +392,7 @@ Ador has been quiet since.&lt;/p&gt;
 It directly conflicts with my &lt;em&gt;desire&lt;/em&gt; to do nothing.
 Or rather, be able to just sit and think, and still be worry-free.&lt;/p&gt;
 &lt;p&gt;Unemployment, in my case, opens new ways to be productive, I should remind myself that.
-It allows me to &lt;a href=&#34;/di-why/&#34;&gt;look into projects&lt;/a&gt; that I might not have if I was working.
+It allows me to &lt;a href=&#34;https://ohio.araw.xyz/di-why/&#34;&gt;look into projects&lt;/a&gt; that I might not have if I was working.
 This, however, is predicated by the fact that I have some sort of &lt;a href=&#34;https://katiescarlettneedsmoney.com/4-strategies-you-can-use-to-build-an-emergency-fund/&#34;&gt;emergency fund&lt;/a&gt; saved up.
 This fund buys me time to be worry-free.
 If my calculations remain correct for the foreseeable future, I have between 8-12 months worth of living expenses to burn through.&lt;/p&gt;
@@ -372,12 +411,12 @@ If my calculations remain correct for the foreseeable future, I have between 8-1
     
     <item>
       <title>Skill or Virtue?</title>
-      <link>/piav/</link>
+      <link>https://ohio.araw.xyz/piav/</link>
       <pubDate>Mon, 08 Mar 2021 13:42:44 +0800</pubDate>
       
-      <guid>/piav/</guid>
+      <guid>https://ohio.araw.xyz/piav/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Added a long-ago completed project, &lt;a href=&#34;/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Added a long-ago completed project, &lt;a href=&#34;https://ohio.araw.xyz/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Compressed the site&amp;rsquo;s logo.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;After watching and rewatching videos on how to repair Apple&amp;rsquo;s Magsafe Power Adapter 1
@@ -393,15 +432,15 @@ Isn&amp;rsquo;t it a Virtue?&lt;/p&gt;
     
     <item>
       <title>Decadent Lethargy</title>
-      <link>/decadent-lethargy/</link>
+      <link>https://ohio.araw.xyz/decadent-lethargy/</link>
       <pubDate>Fri, 05 Mar 2021 07:24:29 +0800</pubDate>
       
-      <guid>/decadent-lethargy/</guid>
+      <guid>https://ohio.araw.xyz/decadent-lethargy/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Edited one or two lines in the &lt;a href=&#34;/support/&#34;&gt;Support&lt;/a&gt; page.&lt;/li&gt;
-&lt;li&gt;Added a page, called &lt;a href=&#34;/di-why/&#34;&gt;Ideas of Possible Projects&lt;/a&gt;, where such list is found.
+&lt;li&gt;Edited one or two lines in the &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; page.&lt;/li&gt;
+&lt;li&gt;Added a page, called &lt;a href=&#34;https://ohio.araw.xyz/di-why/&#34;&gt;Ideas of Possible Projects&lt;/a&gt;, where such list is found.
 Right now, the page can be accessed through the Support page, this log, and by memory (adding &lt;code&gt;/di-why&lt;/code&gt; at the end of the base URL).&lt;/li&gt;
-&lt;li&gt;Added Dan Luu&amp;rsquo;s blog as another inspiration for this &lt;a href=&#34;/site&#34;&gt;Site&lt;/a&gt;.
+&lt;li&gt;Added Dan Luu&amp;rsquo;s blog as another inspiration for this &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;.
 Also added a service for those who may want to subscribe to RSS by email.&lt;/li&gt;
 &lt;li&gt;Changed the site&amp;rsquo;s logo to something&amp;hellip; &lt;em&gt;larger&lt;/em&gt;.
 I used the &lt;a href=&#34;https://100r.co/site/dotgrid.html&#34;&gt;Hundred Rabbit&amp;rsquo;s Dotgrid&lt;/a&gt; tool to create it, which in my opinion is great!
@@ -433,17 +472,17 @@ I&amp;rsquo;m thinking of completing the game 100%.&lt;/p&gt;
     
     <item>
       <title>Redistribution</title>
-      <link>/redis/</link>
+      <link>https://ohio.araw.xyz/redis/</link>
       <pubDate>Wed, 24 Feb 2021 11:59:16 +0800</pubDate>
       
-      <guid>/redis/</guid>
+      <guid>https://ohio.araw.xyz/redis/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Added new sections to the &lt;a href=&#34;/server/&#34;&gt;Server&lt;/a&gt; project.
+&lt;li&gt;Added new sections to the &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt; project.
 Still haven&amp;rsquo;t gotten around to it, but I will soon.
 I have to, now that I have a domain.&lt;/li&gt;
-&lt;li&gt;Added Paypal link in my &lt;a href=&#34;/support/&#34;&gt;Support&lt;/a&gt; page.
+&lt;li&gt;Added Paypal link in my &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; page.
 Also inserted a better pitch in there.&lt;/li&gt;
-&lt;li&gt;Edited a footnote in the &lt;a href=&#34;/site/&#34;&gt;Site&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;Edited a footnote in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; project.&lt;/li&gt;
 &lt;li&gt;Minor edit of the footer.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In a society much better than this one, many things are readily available to everyone.
@@ -457,12 +496,12 @@ But this isn&amp;rsquo;t that society.&lt;/p&gt;
     
     <item>
       <title>We Want a Maggot-Free Cake</title>
-      <link>/cake/</link>
+      <link>https://ohio.araw.xyz/cake/</link>
       <pubDate>Mon, 22 Feb 2021 08:05:17 +0800</pubDate>
       
-      <guid>/cake/</guid>
+      <guid>https://ohio.araw.xyz/cake/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Added a way for readers (are there any?) to support me, found in this page: &lt;a href=&#34;/support/&#34;&gt;Support&lt;/a&gt; (via Liberapay).
+&lt;li&gt;Added a way for readers (are there any?) to support me, found in this page: &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; (via Liberapay).
 To be as less obnoxious about it as possible, this link will only be at the end of each Project page.&lt;/li&gt;
 &lt;li&gt;Changed my email address in the Index.
 After getting a domain from &lt;a href=&#34;https://www.epik.com&#34;&gt;Epik&amp;rsquo;s&lt;/a&gt; registrar and setting up an email server with &lt;a href=&#34;https://www.migadu.com&#34;&gt;Migadu&lt;/a&gt;, I now have a custom email address.
@@ -487,13 +526,13 @@ Give it one last purpose, at least.&lt;/p&gt;
     
     <item>
       <title>積ん読</title>
-      <link>/tsundoku/</link>
+      <link>https://ohio.araw.xyz/tsundoku/</link>
       <pubDate>Fri, 19 Feb 2021 15:05:04 +0800</pubDate>
       
-      <guid>/tsundoku/</guid>
+      <guid>https://ohio.araw.xyz/tsundoku/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Updated the CV. Reduced it to one page.&lt;/li&gt;
-&lt;li&gt;Changed the status of &lt;a href=&#34;/encode/&#34;&gt;Encoding&lt;/a&gt; project
+&lt;li&gt;Changed the status of &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt; project
 from &lt;strong&gt;on-going&lt;/strong&gt; to &lt;strong&gt;done&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTsundoku&#34;&gt;&lt;em&gt;Tsundoku&lt;/em&gt;&lt;/a&gt; (積ん読) becomes our mode of expressing ourselves here.
@@ -507,19 +546,19 @@ It&amp;rsquo;s because the many books that we acquire that we have not touched a
     
     <item>
       <title>Pressing Issues on a Valentine&#39;s Day</title>
-      <link>/piv-day/</link>
+      <link>https://ohio.araw.xyz/piv-day/</link>
       <pubDate>Sun, 14 Feb 2021 07:24:37 +0800</pubDate>
       
-      <guid>/piv-day/</guid>
+      <guid>https://ohio.araw.xyz/piv-day/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added a site logo.
 It&amp;rsquo;s actually just scaled vector graphics (SVG) coded with HTML.
 Experimental at the moment.
 I&amp;rsquo;ll likely change that into something more artsy in the future.&lt;/li&gt;
-&lt;li&gt;Edited a few lines in the &lt;a href=&#34;/encode/&#34;&gt;Encoding&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;Edited some parts in &lt;a href=&#34;/site&#34;&gt;This Site&lt;/a&gt;/ project.
+&lt;li&gt;Edited a few lines in the &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;Edited some parts in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt;/ project.
 I added some notes about my new found tool, &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;, with the help of which I&lt;/li&gt;
-&lt;li&gt;redid an image in &lt;a href=&#34;/mercipod/&#34;&gt;iPod Upgrade&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;redid an image in &lt;a href=&#34;https://ohio.araw.xyz/mercipod/&#34;&gt;iPod Upgrade&lt;/a&gt; project.&lt;/li&gt;
 &lt;li&gt;Removed the @tuta.io email from Index.
 I don&amp;rsquo;t know why I can&amp;rsquo;t access Tutanota servers.
 Something to do with my location?
@@ -546,10 +585,10 @@ Some might suspect its edginess, but as long as hate isn&amp;rsquo;t promoted, i
     
     <item>
       <title>Bad Habit: Impatience</title>
-      <link>/badimp/</link>
+      <link>https://ohio.araw.xyz/badimp/</link>
       <pubDate>Tue, 09 Feb 2021 07:31:45 +0800</pubDate>
       
-      <guid>/badimp/</guid>
+      <guid>https://ohio.araw.xyz/badimp/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Reworked the color of blockquotes on a dark-themed system.&lt;/li&gt;
 &lt;li&gt;Added background color to footnote (back) reference links, so they can be easily distinguished.&lt;/li&gt;
@@ -569,12 +608,12 @@ they don&amp;rsquo;t know me at all, so there&amp;rsquo;s really no big reason t
     
     <item>
       <title>Author to be laid off</title>
-      <link>/nowork/</link>
+      <link>https://ohio.araw.xyz/nowork/</link>
       <pubDate>Thu, 04 Feb 2021 01:14:22 +0800</pubDate>
       
-      <guid>/nowork/</guid>
+      <guid>https://ohio.araw.xyz/nowork/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Added new project &lt;a href=&#34;/mercipod/&#34;&gt;iPod Classic Hard Drive Upgrade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added new project &lt;a href=&#34;https://ohio.araw.xyz/mercipod/&#34;&gt;iPod Classic Hard Drive Upgrade&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Minor adjustments in fonts and their sizes.
 Does it improve the readability of the site?&lt;/li&gt;
 &lt;/ul&gt;
@@ -593,12 +632,12 @@ Don&amp;rsquo;t give in to the hustle culture, which is inherently toxic by natu
     
     <item>
       <title>Visiting Pagkakaisa</title>
-      <link>/pagkakaisa/</link>
+      <link>https://ohio.araw.xyz/pagkakaisa/</link>
       <pubDate>Mon, 01 Feb 2021 11:55:26 +0800</pubDate>
       
-      <guid>/pagkakaisa/</guid>
+      <guid>https://ohio.araw.xyz/pagkakaisa/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Removed a few sentences in &lt;a href=&#34;/site&#34;&gt;This Site&lt;/a&gt;, particularly those about my implied distaste towards JS.&lt;/li&gt;
+&lt;li&gt;Removed a few sentences in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt;, particularly those about my implied distaste towards JS.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;After more than a year of not making an appearance in our ancestral house in Pagkakaisa Street, Isya and I finally went there yesterday.&lt;/p&gt;
 &lt;p&gt;To be honest, I was not too excited on going there for a number of things.
@@ -617,12 +656,12 @@ We have more catching up to do.&lt;/p&gt;
     
     <item>
       <title>Esmeris Farm</title>
-      <link>/esmeris/</link>
+      <link>https://ohio.araw.xyz/esmeris/</link>
       <pubDate>Fri, 29 Jan 2021 15:16:41 +0800</pubDate>
       
-      <guid>/esmeris/</guid>
+      <guid>https://ohio.araw.xyz/esmeris/</guid>
       <description>&lt;figure&gt;
-    &lt;img src=&#34;/image/esmeris.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/esmeris.jpeg&#34;
          alt=&#34;foliage, forest&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Imagine being surrounded by this&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -640,21 +679,21 @@ Every notion will have become useless by then, but it the meantime, any idea is 
     
     <item>
       <title>No New Interesting</title>
-      <link>/nonew/</link>
+      <link>https://ohio.araw.xyz/nonew/</link>
       <pubDate>Tue, 26 Jan 2021 10:13:12 +0800</pubDate>
       
-      <guid>/nonew/</guid>
+      <guid>https://ohio.araw.xyz/nonew/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed this site&amp;rsquo;s title, from &lt;em&gt;&lt;strong&gt;of somersaulting&lt;/strong&gt;&lt;/em&gt; to &lt;em&gt;&lt;strong&gt;to oblique lair&lt;/strong&gt;&lt;/em&gt;.
 The latter is an anagram of my middle and surname.
 I&amp;rsquo;d like to think that it emits a certain mystery that kind of misleads.
 If that sounds like equine shite, maybe because it is.
 Look up &amp;ldquo;anagram maker&amp;rdquo; on your favorite search engine if you&amp;rsquo;re into that kind of fun.&lt;/li&gt;
-&lt;li&gt;Added some new recommendations in the &lt;a href=&#34;/encode/&#34;&gt;Encoding&lt;/a&gt; project&lt;/li&gt;
-&lt;li&gt;Edited some lines and addded footnotes in &lt;a href=&#34;/site/&#34;&gt;This Site&lt;/a&gt; project&lt;/li&gt;
+&lt;li&gt;Added some new recommendations in the &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt; project&lt;/li&gt;
+&lt;li&gt;Edited some lines and addded footnotes in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project&lt;/li&gt;
 &lt;li&gt;New CSS for &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks using &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Hugo&amp;rsquo;s built-in syntax highlighting&lt;/a&gt;.
 Currently, I am using the &lt;code&gt;monokai&lt;/code&gt; theme.&lt;/li&gt;
-&lt;li&gt;Added new section in &lt;a href=&#34;/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project that briefly explains about a newly added search function feature using JavaScript. 😨&lt;/li&gt;
+&lt;li&gt;Added new section in &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project that briefly explains about a newly added search function feature using JavaScript. 😨&lt;/li&gt;
 &lt;li&gt;Updated my CV using Pandoc.
 It is now two pages long, so I may have to readjust the margins.&lt;/li&gt;
 &lt;/ul&gt;
@@ -669,13 +708,13 @@ Maybe I can share some photo/s in the next post.&lt;/p&gt;
     
     <item>
       <title>Some Life Hacks</title>
-      <link>/lh/</link>
+      <link>https://ohio.araw.xyz/lh/</link>
       <pubDate>Mon, 18 Jan 2021 01:44:23 +0800</pubDate>
       
-      <guid>/lh/</guid>
+      <guid>https://ohio.araw.xyz/lh/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Added new project: &lt;a href=&#34;/encode/&#34;&gt;Encoding&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Added some lines in &lt;a href=&#34;/site/&#34;&gt;This Site&lt;/a&gt; project, expounding more on the use of Hugo.&lt;/li&gt;
+&lt;li&gt;Added new project: &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added some lines in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project, expounding more on the use of Hugo.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Lower&amp;mdash;or, better yet, &lt;em&gt;eliminate&lt;/em&gt;&amp;mdash;expectations.&lt;br&gt;
 &lt;em&gt;&amp;lsquo;Wag (masyadong) umasa.&lt;/em&gt;&lt;/p&gt;
@@ -698,15 +737,15 @@ Maybe I can share some photo/s in the next post.&lt;/p&gt;
     
     <item>
       <title>Causing Headaches</title>
-      <link>/headache/</link>
+      <link>https://ohio.araw.xyz/headache/</link>
       <pubDate>Thu, 07 Jan 2021 19:24:40 +0800</pubDate>
       
-      <guid>/headache/</guid>
+      <guid>https://ohio.araw.xyz/headache/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Added new sections to the &lt;a href=&#34;/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project.&lt;/li&gt;
+&lt;li&gt;Added new sections to the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project.&lt;/li&gt;
 &lt;li&gt;Minor edit on the footer&lt;/li&gt;
 &lt;li&gt;Added some blurbs on the Index, like adding a separate email for work-related stuff.&lt;/li&gt;
-&lt;li&gt;Edited title for &lt;a href=&#34;/log/index.xml&#34;&gt;RSS feed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Edited title for &lt;a href=&#34;https://ohio.araw.xyz/log/index.xml&#34;&gt;RSS feed&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I&amp;rsquo;d like to think that I&amp;rsquo;m taking it easy.
 By having some personal projects that I enjoy doing, going through the motions of the day becomes mentally stimulating.
@@ -719,15 +758,15 @@ At least I can give &lt;em&gt;them&lt;/em&gt; a headache by not merely doing wha
     
     <item>
       <title>Growing Old</title>
-      <link>/grow-old/</link>
+      <link>https://ohio.araw.xyz/grow-old/</link>
       <pubDate>Sun, 03 Jan 2021 20:55:25 +0800</pubDate>
       
-      <guid>/grow-old/</guid>
+      <guid>https://ohio.araw.xyz/grow-old/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Listed new project: &lt;a href=&#34;/alwayscarry/&#34;&gt;Always Carry A Book website&lt;/a&gt;.
+&lt;li&gt;Listed new project: &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book website&lt;/a&gt;.
 It&amp;rsquo;s currently under construction, but feel free to check either the post, or the website.&lt;/li&gt;
 &lt;li&gt;Changed background color of a blockquote.&lt;/li&gt;
-&lt;li&gt;Changed some wording in &lt;a href=&#34;/site/&#34;&gt;This Site&lt;/a&gt; project, something about my opinion on not having JavaScript&lt;/li&gt;
+&lt;li&gt;Changed some wording in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project, something about my opinion on not having JavaScript&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Hirap tumanda.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s already evening as I type this out.
@@ -744,10 +783,10 @@ Does it mean forfeiting everyday human function in order to live longer?&lt;/p&g
     
     <item>
       <title>Crises and New Fear</title>
-      <link>/canf/</link>
+      <link>https://ohio.araw.xyz/canf/</link>
       <pubDate>Thu, 31 Dec 2020 13:48:48 +0800</pubDate>
       
-      <guid>/canf/</guid>
+      <guid>https://ohio.araw.xyz/canf/</guid>
       <description>&lt;p&gt;No major updates for this site.
 I haven&amp;rsquo;t been doing anything lately for research.
 Of course, here, &amp;ldquo;research&amp;rdquo; is what I call it.
@@ -772,16 +811,16 @@ with all of its supposed leaders continuously disappointing the rest of us dispo
     
     <item>
       <title>December Fugue</title>
-      <link>/fugue/</link>
+      <link>https://ohio.araw.xyz/fugue/</link>
       <pubDate>Tue, 22 Dec 2020 22:46:44 +0800</pubDate>
       
-      <guid>/fugue/</guid>
+      <guid>https://ohio.araw.xyz/fugue/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Added some lines and footnotes to &lt;a href=&#34;/site/&#34;&gt;The Site&lt;/a&gt; project&lt;/li&gt;
-&lt;li&gt;Added a new project: &lt;a href=&#34;/server/&#34;&gt;Own Web Server&lt;/a&gt;. There&amp;rsquo;s nothing there yet except a few lines.&lt;/li&gt;
+&lt;li&gt;Added some lines and footnotes to &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;The Site&lt;/a&gt; project&lt;/li&gt;
+&lt;li&gt;Added a new project: &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Own Web Server&lt;/a&gt;. There&amp;rsquo;s nothing there yet except a few lines.&lt;/li&gt;
 &lt;li&gt;Minor edit of blurb on landing page&lt;/li&gt;
 &lt;li&gt;Added yet another item on to-do list for The Site&lt;/li&gt;
-&lt;li&gt;Added color to status on &lt;a href=&#34;/project/&#34;&gt;Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added color to status on &lt;a href=&#34;https://ohio.araw.xyz/project/&#34;&gt;Projects&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;So many unwanted noise all around us.
 It could be all ending soon, but there is no clue when.&lt;/p&gt;
@@ -796,10 +835,10 @@ it&amp;rsquo;s just that they&amp;rsquo;ve chosen to deal with it haphazardly.&l
     
     <item>
       <title>Twilight World</title>
-      <link>/tenet/</link>
+      <link>https://ohio.araw.xyz/tenet/</link>
       <pubDate>Sat, 12 Dec 2020 19:56:25 +0800</pubDate>
       
-      <guid>/tenet/</guid>
+      <guid>https://ohio.araw.xyz/tenet/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed (again) the Creative Commons licensing, from &lt;a href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt; to &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA 4.0&lt;/a&gt;.
 The addition here is &lt;em&gt;Share Alike&lt;/em&gt;.
@@ -807,8 +846,8 @@ The license still allows adaptations of my work to be shared, but this particula
 This should prevent others from copying/adapting my work &lt;em&gt;and then&lt;/em&gt; closing the free flow of information by slapping a different copyright license.
 I also removed the icon.
 All this nuisance, I hope that it matters.&lt;/li&gt;
-&lt;li&gt;Added my CV in the &lt;a href=&#34;/&#34;&gt;Index&lt;/a&gt;, in case a prospective employer wanders in.&lt;/li&gt;
-&lt;li&gt;Added new segments to &lt;a href=&#34;/site&#34;&gt;The Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added my CV in the &lt;a href=&#34;https://ohio.araw.xyz/&#34;&gt;Index&lt;/a&gt;, in case a prospective employer wanders in.&lt;/li&gt;
+&lt;li&gt;Added new segments to &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;The Site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Removed the navigation menu. The major sections can be accessed in the Index, and at the end of each Page.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;When we visited Isya&amp;rsquo;s Inay&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; yesterday in Marikina, the lunch was already waiting for us.
@@ -833,13 +872,13 @@ As you may know, Nolan&amp;rsquo;s films require more than just one viewing.&lt;
     
     <item>
       <title>Impostor Syndrome</title>
-      <link>/impsyn/</link>
+      <link>https://ohio.araw.xyz/impsyn/</link>
       <pubDate>Sat, 05 Dec 2020 17:51:47 +0800</pubDate>
       
-      <guid>/impsyn/</guid>
+      <guid>https://ohio.araw.xyz/impsyn/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed the date format in Log&lt;/li&gt;
-&lt;li&gt;Added another to-do for &lt;a href=&#34;/site/&#34;&gt;The Site&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Added another to-do for &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;The Site&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Now officially part of the &lt;a href=&#34;https://512kb.club&#34;&gt;512 KB Club&lt;/a&gt;.
 You&amp;rsquo;re now reminded of this in the footer, lol!&lt;/li&gt;
 &lt;/ul&gt;
@@ -854,19 +893,19 @@ Who knows, that could be an interesting research and development?&lt;/p&gt;
     
     <item>
       <title>No Rush</title>
-      <link>/rush/</link>
+      <link>https://ohio.araw.xyz/rush/</link>
       <pubDate>Wed, 02 Dec 2020 22:05:17 +0800</pubDate>
       
-      <guid>/rush/</guid>
+      <guid>https://ohio.araw.xyz/rush/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Replaced the Creative Commons Licensing from &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;CC BY-NC-SA&lt;/a&gt; to &lt;a href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;.
 If I were to advocate for free flow of information, I must let others, including commercial institutions, be able to riff off of my work.
 I only ask that they include my name in the footnotes.&lt;/li&gt;
-&lt;li&gt;Added some new sections to &lt;a href=&#34;/site/&#34;&gt;This Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Added some new sections to &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Removed the blurb on the landing page that said &amp;ldquo;I have no other social media accounts&amp;hellip;&amp;rdquo;
 That&amp;rsquo;s not really accurate.
 What I don&amp;rsquo;t have are Facebook, Twitter, TikTok, and Instagram.&lt;/li&gt;
-&lt;li&gt;Fixed &amp;ldquo;Last Update&amp;rdquo; logic in &lt;a href=&#34;/project/&#34;&gt;Projects&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Fixed &amp;ldquo;Last Update&amp;rdquo; logic in &lt;a href=&#34;https://ohio.araw.xyz/project/&#34;&gt;Projects&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;We all learn that it takes a whole lot of time to get to know oneself.
 A year&amp;rsquo;s worth of quasi-isolation seems to be enough.&lt;/p&gt;
@@ -880,13 +919,13 @@ Besides, it&amp;rsquo;s hard for me to remain patient when I&amp;rsquo;m constan
     
     <item>
       <title>And now, for something completely different</title>
-      <link>/nov/</link>
+      <link>https://ohio.araw.xyz/nov/</link>
       <pubDate>Mon, 30 Nov 2020 19:56:15 +0800</pubDate>
       
-      <guid>/nov/</guid>
+      <guid>https://ohio.araw.xyz/nov/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/&#34;&gt;This site&lt;/a&gt; is now live, hosted for the meantime in &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s also listed as a project. Learn more about the design philosophies &lt;a href=&#34;/site/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/&#34;&gt;This site&lt;/a&gt; is now live, hosted for the meantime in &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s also listed as a project. Learn more about the design philosophies &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I figured I needed to have an online presence again, one that I can call my own, far from the algorithms of major social networking sites.
 But aside from that, the idea to have a personal site started when Isya, my partner, suggested that I continue with my post-graduate studies.&lt;/p&gt;
@@ -903,10 +942,10 @@ Not only that, it&amp;rsquo;s my Tita Bonnie&amp;rsquo;s 61st birthday.
     
     <item>
       <title>Hello World!</title>
-      <link>/hi/</link>
+      <link>https://ohio.araw.xyz/hi/</link>
       <pubDate>Fri, 27 Nov 2020 14:25:09 +0800</pubDate>
       
-      <guid>/hi/</guid>
+      <guid>https://ohio.araw.xyz/hi/</guid>
       <description>&lt;p&gt;This is the first post!&lt;/p&gt;
 &lt;p&gt;What happens from this point shall be defined by my Willpower, and how I manage it.&lt;/p&gt;
 &lt;p&gt;Wish me luck!&lt;/p&gt;

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ohio.araw.xyz"
 languageCode = "en-us"
 title = "to oblique lair"
 enableGitInfo = true
@@ -18,7 +18,7 @@ enableGitInfo = true
         [markup.blackFriday]
                 hrefTargetBlank = true
         [markup.highlight]
-                style = "friendly"
+                style = "monokai"
 
 [privacy]
 	[privacy.disqus]

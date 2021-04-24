@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a log on somersaulting</title>
-    <link>/project/</link>
+    <link>https://ohio.araw.xyz/project/</link>
     <description>Recent content in Projects on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-        <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Imbentori: A Tumblr Blog</title>
-      <link>/imbentori/</link>
+      <link>https://ohio.araw.xyz/imbentori/</link>
       <pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate>
       
-      <guid>/imbentori/</guid>
+      <guid>https://ohio.araw.xyz/imbentori/</guid>
       <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
 &lt;p&gt;It may or may not have been obvious, but people around my age are fond of expressing themselves on the internet.&lt;/p&gt;
 &lt;p&gt;I was active in one platform which is still out there, on Tumblr, that you can still visit:&lt;/p&gt;
@@ -58,10 +58,10 @@ Some 20(20) years ago when I last visited an art museum (or was it just gallery?
     
     <item>
       <title>iPod Classic Hard Drive Upgrade</title>
-      <link>/mercipod/</link>
+      <link>https://ohio.araw.xyz/mercipod/</link>
       <pubDate>Tue, 02 Feb 2021 17:45:52 +0800</pubDate>
       
-      <guid>/mercipod/</guid>
+      <guid>https://ohio.araw.xyz/mercipod/</guid>
       <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
 &lt;p&gt;&amp;lsquo;Nay Merci, Isya&amp;rsquo;s mom, sent her iPod Classic&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to me for repair, a device that&amp;rsquo;s at least ten years old now.
 It&amp;rsquo;s life can still be stretched by upgrading some of its components.&lt;/p&gt;
@@ -74,7 +74,7 @@ Pardon the amateur.&lt;/p&gt;
 &lt;h2 id=&#34;getting-what-i-need&#34;&gt;Getting what I need&lt;/h2&gt;
 &lt;p&gt;Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi1.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi1.jpeg&#34;
          alt=&#34;a spread of items needed to upgrade the ipod, including hard drive and prying tools&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;TOP HALF, LEFT TO RIGHT: iPod Classic, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -142,7 +142,7 @@ It&amp;rsquo;s better to make sure, than force something  and then breaking it n
 &lt;p&gt;Now we will be discussing the steps involved in taking out the old hard drive to be replaced with the new solid state one.&lt;/p&gt;
 &lt;h3 id=&#34;1-open-the-ipod&#34;&gt;1. Open the iPod&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi2.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi2.jpeg&#34;
          alt=&#34;an image of ipod and a small roll of washi tape below it&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Washi tape marks the locations of the metal clips&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -158,7 +158,7 @@ Disengaging the clips on both sides can be done after, either by alternating bet
 Refer to the video tutorial first on how exactly this is done.&lt;/p&gt;
 &lt;h3 id=&#34;2-disconnecting-the-battery-ribbon&#34;&gt;2. Disconnecting the battery ribbon&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi3.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi3.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Disconnecting the battery ribbon&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -170,7 +170,7 @@ metal-clips shouldn&amp;rsquo;t open it wide yet, because there&amp;rsquo;s a ba
 &lt;p&gt;With a plastic prying tool, slide up the black plastic clip that holds the battery ribbon.
 The battery ribbon can now be lifted (carefully) up, still with the help of a prying tool.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi4.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi4.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Freshly opened iPod. LEFT: Back metal shell, battery (the yellow-orange rectangle); RIGHT: Front chassis, and what you&amp;rsquo;re seeing is the mechanical hard drive and some foam&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -185,7 +185,7 @@ Keep it in tact.&lt;/p&gt;
 &lt;h3 id=&#34;3-disconnect-the-original-hard-drive&#34;&gt;3. Disconnect the original hard drive&lt;/h3&gt;
 &lt;p&gt;The original hard drive is attached to the motherboard via flexible flat cable (FFC) through called a Zero Insertion Force (ZIF) connector.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi5.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi5.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Disconnecting the HDD&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -195,7 +195,7 @@ Keep it in tact.&lt;/p&gt;
 Do that carefully with a plastic prying tool.&lt;/p&gt;
 &lt;p&gt;Once disengaged, the hard drive shall be easy to pull off.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi6.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi6.jpeg&#34;
          alt=&#34;an opened ipod and a mechanical hard disk&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;RIGHTMOST: Hard drive successfully removed&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -209,7 +209,7 @@ This will act as a spacer between the adapter and the iPod&amp;rsquo;s circuit b
 The adapter being thinner than the original hard drive, the foam provides a snug fit, so the iPod won&amp;rsquo;t be an overpriced maracas.
 Refer to the following image to know which side the foam must be placed.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi7.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi7.jpeg&#34;
          alt=&#34;image of iFlash solid state drive&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;iFlash-Quad, with foams&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -221,7 +221,7 @@ If the FFC is somewhat resisting, be sure that it is evenly sliding in, not at a
 Then, lock it in by putting the black plastic flap back down.&lt;/p&gt;
 &lt;p&gt;Check the following image to see the orientation of the adapter during connection.
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi8.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi8.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Installing the solid state drive&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -233,7 +233,7 @@ Then, lock it in by putting the black plastic flap back down.&lt;/p&gt;
 Lock it in by pushing down the black plastic slider.
 Give it a light tug to ensure that it isn&amp;rsquo;t loosely connected.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/mi9.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/mi9.jpeg&#34;
          alt=&#34;an opened ipod&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Reconnecting the battery ribbon&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -281,10 +281,10 @@ Without prior knowledge, one would think that the iPod was not designed to be ma
     
     <item>
       <title>Encoding: From Hardcopy to Softcopy</title>
-      <link>/encode/</link>
+      <link>https://ohio.araw.xyz/encode/</link>
       <pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate>
       
-      <guid>/encode/</guid>
+      <guid>https://ohio.araw.xyz/encode/</guid>
       <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
 &lt;p&gt;One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.&lt;/p&gt;
 &lt;p&gt;Here is an attempt to document the entire process.&lt;/p&gt;
@@ -383,20 +383,19 @@ Most of the password managers have randomizers, which prints out random strings 
     </item>
     
     <item>
-      <title>Always Carry A Book Website</title>
-      <link>/alwayscarry/</link>
+      <title>Always Carry Website</title>
+      <link>https://ohio.araw.xyz/alwayscarry/</link>
       <pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate>
       
-      <guid>/alwayscarry/</guid>
+      <guid>https://ohio.araw.xyz/alwayscarry/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
-&lt;p&gt;My partner asked me to come up with a website to act as a central hub for their recently opened online bookshop.
-This site shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p&gt;
-&lt;p&gt;In the future, it will also be a shop for other household items.&lt;/p&gt;
-&lt;p&gt;Visit the site, whose name I also came up with:
-&lt;strong&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;Always Carry A Book&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My partner asked me to come up with a website to act as a central hub for their small online shop.
+The website shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p&gt;
+&lt;p&gt;Visit the site:
+&lt;strong&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;Always Carry!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/acabooks.png&#34;
-         alt=&#34;screenshot from Always Carry A Book website &#34;/&gt; &lt;figcaption&gt;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/alwayscarry.png&#34;
+         alt=&#34;screenshot from Always Carry website &#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Screenshot from the website&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -408,16 +407,16 @@ Since I&amp;rsquo;m already familiar with &lt;a href=&#34;https://gohugo.io&#34;
 &lt;p&gt;The business is literally just starting out.
 One major decision is to use free software services for the time being.&lt;/p&gt;
 &lt;p&gt;Of course, we intend to scale as business grows.&lt;/p&gt;
-&lt;h3 id=&#34;landing-page-logo&#34;&gt;Landing Page Logo&lt;/h3&gt;
-&lt;p&gt;The cat-holding-a-book image is drawn by Isya herself, using Wacom Bamboo Tablet on &lt;a href=&#34;https://krita.org&#34;&gt;Krita&lt;/a&gt;, a free and open source painting program.
+&lt;h3 id=&#34;landing-page&#34;&gt;Landing Page&lt;/h3&gt;
+&lt;p&gt;The cat-holding-a-book logo is drawn by Isya herself, using Wacom Bamboo Tablet on &lt;a href=&#34;https://krita.org&#34;&gt;Krita&lt;/a&gt;, a free and open source painting program.
 It shall be the guiding aesthetic of the website.&lt;/p&gt;
-&lt;h3 id=&#34;payment-gateway&#34;&gt;Payment Gateway?&lt;/h3&gt;
-&lt;p&gt;It&amp;rsquo;s only natural for an e-commerce site to have a payment method coded in it.
-However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.&lt;/p&gt;
-&lt;p&gt;Payment will be made in &amp;ldquo;less convenient&amp;rdquo; ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
-In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that&amp;rsquo;s connected to a GCash account.&lt;/p&gt;
-&lt;p&gt;Google Forms is also used for the customers to fill up when placing their orders.&lt;/p&gt;
-&lt;p&gt;For now, this will have to do.&lt;/p&gt;
+&lt;p&gt;From the Index, the visitor is presented with two links to the two branches of the shop:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Books&lt;/li&gt;
+&lt;li&gt;Home Products&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each of these are Lists of single pages.
+Each single page is a detailed view of the product via Instagram.&lt;/p&gt;
 &lt;h3 id=&#34;integration-with-instagram&#34;&gt;Integration with Instagram&lt;/h3&gt;
 &lt;p&gt;To reach as many people as possible, the shop is also available in Instagram and Facebook.
 Huge chunk of content management will be focused on IG.
@@ -427,49 +426,19 @@ The first try, though, it already failed.&lt;/p&gt;
 &lt;p&gt;It turns out, the Instagram shortcode is deprecated since 24 Oct 2020, &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/7879&#34;&gt;according to this discussion.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Good thing that from that same discussion, &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/7879#issuecomment-737149676&#34;&gt;monsieurnebo&amp;rsquo;s fix&lt;/a&gt; (based on ToniTornado, but with a bit smaller code) got it going for me.&lt;/p&gt;
 &lt;p&gt;For the time being, I can use the IG photo&amp;rsquo;s ID to be embedded on the site.&lt;/p&gt;
+&lt;h3 id=&#34;payment-gateway&#34;&gt;Payment Gateway?&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s only natural for an e-commerce site to have a payment method coded in it.
+However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.&lt;/p&gt;
+&lt;p&gt;Payment will be made in &amp;ldquo;less convenient&amp;rdquo; ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
+In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that&amp;rsquo;s connected to a GCash account.&lt;/p&gt;
+&lt;p&gt;Google Forms is also used for the customers to fill up when placing their orders.&lt;/p&gt;
+&lt;p&gt;For now, this will have to do.&lt;/p&gt;
 &lt;h3 id=&#34;hosting-github--netlify&#34;&gt;Hosting: GitHub + Netlify&lt;/h3&gt;
 &lt;p&gt;The source files are on &lt;a href=&#34;https://github.com/arawseekers&#34;&gt;our GitHub&lt;/a&gt;. The HTML files are then deployed to &lt;a href=&#34;https://netlify.com&#34;&gt;Netlify&lt;/a&gt;, another hosting platform.&lt;/p&gt;
 &lt;p&gt;I make the changes locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.
 Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.&lt;/p&gt;
-&lt;h3 id=&#34;search-functionality&#34;&gt;Search Functionality&lt;/h3&gt;
-&lt;p&gt;The list of books for sale fluctuate depending on the sales.
-I have added a search bar in the list page to help visitors look up titles, using JavaScript.
-This is based on &lt;a href=&#34;https://zwbetz.com/add-search-functionality-to-your-blog-listing-page/&#34;&gt;zwbetz&amp;rsquo;s tutorial&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;As the user types a letter in the search bar, items with matching string of text remain, incrementally narrowing down the list.&lt;/p&gt;
-&lt;p&gt;The JS function is actually an Immediately Invoked Function Expression&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and it runs as soon as it is defined.&lt;/p&gt;
-&lt;p&gt;The JS code is wrapped in &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; tags at the end of the HTML page of the book list.
-For posterity, here&amp;rsquo;s the JS code:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;(&lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;function&lt;/span&gt; () {
-  &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;function&lt;/span&gt; updateCount(count) {
-    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; listCount &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#007020&#34;&gt;document&lt;/span&gt;.getElementById(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;list-count&amp;#34;&lt;/span&gt;);
-    listCount.innerText &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;Count: &amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;+&lt;/span&gt; count;
-  }
-
-  &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;function&lt;/span&gt; onEvent() {
-    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; count &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#40a070&#34;&gt;0&lt;/span&gt;;
-    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; filter &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; search.value.toUpperCase();
-    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; list &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#007020&#34;&gt;document&lt;/span&gt;.getElementById(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;list&amp;#34;&lt;/span&gt;);
-    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; listItems &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; list.getElementsByTagName(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;li&amp;#34;&lt;/span&gt;);
-    &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;for&lt;/span&gt; (i &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#40a070&#34;&gt;0&lt;/span&gt;; i &lt;span style=&#34;color:#666&#34;&gt;&amp;lt;&lt;/span&gt; listItems.length; i&lt;span style=&#34;color:#666&#34;&gt;++&lt;/span&gt;) {
-      &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; item &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; listItems[i];
-      &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; text &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; item.innerText.toUpperCase();
-      &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;if&lt;/span&gt; (text.indexOf(filter) &lt;span style=&#34;color:#666&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#666&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#40a070&#34;&gt;1&lt;/span&gt;) {
-        item.style.display &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;;
-        count&lt;span style=&#34;color:#666&#34;&gt;++&lt;/span&gt;;
-      } &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;else&lt;/span&gt; {
-        item.style.display &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;none&amp;#34;&lt;/span&gt;;
-      }
-    }
-    updateCount(count);
-  }
-
-  &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;var&lt;/span&gt; search &lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#007020&#34;&gt;document&lt;/span&gt;.getElementById(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;search&amp;#34;&lt;/span&gt;);
-  &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;if&lt;/span&gt; (search) {
-    search.addEventListener(&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;keyup&amp;#34;&lt;/span&gt;, onEvent);
-  }
-})();
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;just-in-time-preloading&#34;&gt;&amp;ldquo;Just-in-time&amp;rdquo; Preloading&lt;/h3&gt;
+&lt;h3 id=&#34;just-in-time-preloading&#34;&gt;&amp;ldquo;Just-in-time&amp;rdquo; Preloading&lt;/h3&gt;
 &lt;p&gt;Improving user experience might just be the key to a successful small online shop.
 Who knows?&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://instant.page&#34;&gt;Instant.Page&lt;/a&gt; claims to make the site&amp;rsquo;s pages instant by preloading a page right before a user clicks it.
@@ -537,23 +506,15 @@ Its SD Card will also fit nicely in one of the Mac&amp;rsquo;s ports.&lt;/p&gt;
 &lt;h3 id=&#34;syndication-of-posts&#34;&gt;Syndication of Posts&lt;/h3&gt;
 &lt;p&gt;If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
 Right now, as mentioned, we focus the content management in IG due to its reach.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;For more information, read the &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Glossary/IIFE&#34;&gt;Mozilla&amp;rsquo;s explainer&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
 </description>
     </item>
     
     <item>
       <title>Own Web Server</title>
-      <link>/server/</link>
+      <link>https://ohio.araw.xyz/server/</link>
       <pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate>
       
-      <guid>/server/</guid>
+      <guid>https://ohio.araw.xyz/server/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;I want to host this very site you&amp;rsquo;re in in a server that I own.&lt;/p&gt;
 &lt;p&gt;Simply put, a server is just like any other computer, with lots of functionalities, like providing services or serving files to other computers (clients, as they are called in this context) that access it.&lt;/p&gt;
@@ -586,7 +547,7 @@ These days, though, it&amp;rsquo;s vulnerable to a lot of cyberattacks, more so 
 And yet, some institutions still use it.
 If their computers are connected to the Internet, they are exposed to black hat hackers.&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img src=&#34;/image/msi-wind.jpeg&#34;
+    &lt;img src=&#34;https://ohio.araw.xyz/image/msi-wind.jpeg&#34;
          alt=&#34;screenshot of the laptop&amp;#39;s system properties&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;And now, a crappy photo of the laptop&amp;rsquo;s system properties&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -623,18 +584,18 @@ Their &lt;a href=&#34;https://man.openbsd.org&#34;&gt;manual pages&lt;/a&gt; con
 &lt;p&gt;There are mirrors&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; from which you can download the installer.
 They are found &lt;a href=&#34;https://www.openbsd.org/ftp.html&#34;&gt;here&lt;/a&gt;.
 Always choose the one nearest your location to reduce download time.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.8/i386/install68.img
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.8/i386/install68.img
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;2-create-install-media-in-flash-drive&#34;&gt;2. Create Install Media in Flash Drive&lt;/h3&gt;
 &lt;p&gt;Plug in the USB stick.
 The following command assumes that the disk is recognized as &lt;code&gt;sdc1&lt;/code&gt;.
 Check with &lt;code&gt;dmesg&lt;/code&gt;, &lt;code&gt;df -h&lt;/code&gt;, or &lt;code&gt;lsblk&lt;/code&gt; commands, as root if need be.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo dd &lt;span style=&#34;color:#007020;font-weight:bold&#34;&gt;if&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt;install*.img &lt;span style=&#34;color:#bb60d5&#34;&gt;of&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt;/dev/sdc1 &lt;span style=&#34;color:#bb60d5&#34;&gt;bs&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;=&lt;/span&gt;1M
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo dd &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;install*.img of&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/dev/sdc1 bs&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;1M
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;dd&lt;/code&gt; utility copies the standard input &lt;code&gt;if&lt;/code&gt; (or input file) to the standard output &lt;code&gt;of&lt;/code&gt; (or output file, which, in this case, is the USB drive).
 &lt;code&gt;bs&lt;/code&gt; stands for block size, and we set it to 1 megabyte.&lt;/p&gt;
 &lt;p&gt;In my case, the successful output is:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;450+0 records in
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;450+0 records in
 450+0 records out
-&lt;span style=&#34;color:#40a070&#34;&gt;471859200&lt;/span&gt; bytes &lt;span style=&#34;color:#666&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#40a070&#34;&gt;472&lt;/span&gt; MB, &lt;span style=&#34;color:#40a070&#34;&gt;450&lt;/span&gt; MiB&lt;span style=&#34;color:#666&#34;&gt;)&lt;/span&gt; copied, 31.9492 s, 14.8 MB/s
+&lt;span style=&#34;color:#ae81ff&#34;&gt;471859200&lt;/span&gt; bytes &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;472&lt;/span&gt; MB, &lt;span style=&#34;color:#ae81ff&#34;&gt;450&lt;/span&gt; MiB&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; copied, 31.9492 s, 14.8 MB/s
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;3-proceed-with-the-installation&#34;&gt;3. Proceed with the Installation.&lt;/h3&gt;
 &lt;p&gt;Insert the USB drive into the machine.
 Boot from the USB drive.&lt;/p&gt;
@@ -650,11 +611,11 @@ Directory does not contain SHA256.sig. Continue without verification? &lt;strong
 &lt;p&gt;Reboot after installation.&lt;/p&gt;
 &lt;p&gt;Then login as root.&lt;/p&gt;
 &lt;h4 id=&#34;enable-apmd8&#34;&gt;Enable &lt;code&gt;apmd(8)&lt;/code&gt;&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;rcctl &lt;span style=&#34;color:#007020&#34;&gt;enable&lt;/span&gt; apmd
-rcctl &lt;span style=&#34;color:#007020&#34;&gt;set&lt;/span&gt; apmd flags -a -z &lt;span style=&#34;color:#40a070&#34;&gt;7&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;rcctl enable apmd
+rcctl set apmd flags -a -z &lt;span style=&#34;color:#ae81ff&#34;&gt;7&lt;/span&gt;
 rcctl start apmd
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;add-username-to-etcdoasconf&#34;&gt;Add username to &lt;code&gt;/etc/doas.conf&lt;/code&gt;&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;color:#007020&#34;&gt;echo&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#39;permit yourUserName&amp;#39;&lt;/span&gt; &amp;gt; /etc/doas.conf
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;permit yourUserName&amp;#39;&lt;/span&gt; &amp;gt; /etc/doas.conf
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Reboot to make the changes.&lt;/p&gt;
 &lt;h3 id=&#34;set-up-wi-fi-and-ethernet-networks&#34;&gt;Set up wi-fi and ethernet networks&lt;/h3&gt;
 &lt;p&gt;Before doing anything else, we need to make sure that we are connected to the internet.
@@ -666,28 +627,28 @@ It&amp;rsquo;s reliable and secure.&lt;/p&gt;
 &lt;p&gt;Network interfaces are named by taking the shorthand version of the network card.&lt;/p&gt;
 &lt;p&gt;This laptop has &lt;code&gt;re(4)&lt;/code&gt;, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/Gigabit Ethernet device.&lt;/p&gt;
 &lt;p&gt;To set it up, create a file &lt;code&gt;/etc/hostname.re0&lt;/code&gt; using vi&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, and put these two lines in:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;dhcp
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;dhcp
 up
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make the file &lt;code&gt;/etc/hostname.re0&lt;/code&gt; belong to the &lt;code&gt;root&lt;/code&gt; (the super user) and &lt;code&gt;wheel&lt;/code&gt;, and to set the necessary permissions, enter these commands as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chown root:wheel /etc/hostname.re0
-chmod &lt;span style=&#34;color:#40a070&#34;&gt;0640&lt;/span&gt; /etc/hostname.re0
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chown root:wheel /etc/hostname.re0
+chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;0640&lt;/span&gt; /etc/hostname.re0
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Activate the ethernet connection by entering this as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sh /etc/netstart
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sh /etc/netstart
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If successful, it&amp;rsquo;s possible now to update the firmwares, so you can use, among other things, the wifi.
 Enter as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;fw_update
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;fw_update
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;wi-fi&#34;&gt;Wi-fi&lt;/h4&gt;
 &lt;p&gt;This laptop has wi-fi capabilities, but isn&amp;rsquo;t immediately compatible due to firmware issues.
 As just mentioned, firmware can be updated by &lt;code&gt;fw_update&lt;/code&gt; if you&amp;rsquo;re already connected to the internet via ethernet.
 But if that&amp;rsquo;s unsuccessful for some reason, skip to the next section to get the firmware updates.&lt;/p&gt;
 &lt;p&gt;This laptop has &lt;code&gt;ath(4)&lt;/code&gt;, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.&lt;/p&gt;
 &lt;p&gt;To set up the wifi, create a file &lt;code&gt;etc/hostname.athn0&lt;/code&gt; as root and input these following lines:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;nwid myHomeWiFi wpakey p@s&amp;amp;w0rD
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;nwid myHomeWiFi wpakey p@s&amp;amp;w0rD
 dhcp
 up
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Like with the ethernet, specify that the file belongs to &lt;code&gt;root&lt;/code&gt; and &lt;code&gt;wheel&lt;/code&gt;, set the permissions, and activate the connection by entering the following lines, as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chown root:wheel /etc/hostname.athn0
-chmod &lt;span style=&#34;color:#40a070&#34;&gt;0640&lt;/span&gt; /etc/hostname.athn0
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chown root:wheel /etc/hostname.athn0
+chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;0640&lt;/span&gt; /etc/hostname.athn0
 
 sh /etc/netstart
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;installing-the-needed-firmware-from-another-device&#34;&gt;Installing the needed firmware (from another device)&lt;/h4&gt;
@@ -707,26 +668,26 @@ Download the firmware files in your list to a USB drive &lt;strong&gt;formatted 
 &lt;ol&gt;
 &lt;li&gt;There are different ways you can format a USB drive to FAT32, depending on the platform you&amp;rsquo;re doing the formatting on.
 If you&amp;rsquo;re on a Debian-based system like I am, install the &lt;em&gt;dosfstools&lt;/em&gt;.
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install dosfstools
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install dosfstools
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Locate your USB drive by running this in terminal:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;lsblk
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;lsblk
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In my case, it&amp;rsquo;s &lt;code&gt;/dev/sdc&lt;/code&gt; .&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;Unmount the USB drive, because we can&amp;rsquo;t format it when mounted:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo umount /dev/sdc
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo umount /dev/sdc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Create a new partition table, which we will determine to be &lt;code&gt;msdos&lt;/code&gt;.
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script -- mklabel msdos
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script -- mklabel msdos
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Specify that the whole drive must be of FAT32 file system, primary partition type:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Format the drive to FAT32:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo mkfs.fat -F &lt;span style=&#34;color:#40a070&#34;&gt;32&lt;/span&gt; -I /dev/sdc
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo mkfs.fat -F &lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt; -I /dev/sdc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;(Optional) Check if your device has been partitioned correctly:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script print
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script print
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
@@ -744,7 +705,7 @@ Your USB drive will appear to have several partitions, e.g. sd1c.&lt;/li&gt;
 &lt;h3 id=&#34;optional-things&#34;&gt;Optional things&lt;/h3&gt;
 &lt;p&gt;In this laptop, I&amp;rsquo;m going install several binaries from the ports, namely &lt;strong&gt;git&lt;/strong&gt; (version control system), and &lt;strong&gt;neovim&lt;/strong&gt; (text editor).
 To install in one go, enter as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;pkg_add git neovim 
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;pkg_add git neovim 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;web-server-on-openbsd&#34;&gt;Web Server on OpenBSD&lt;/h2&gt;
 &lt;p&gt;Now we&amp;rsquo;re at the heart of this project:
 to make this old laptop a working server for this site.
@@ -780,10 +741,10 @@ I&amp;rsquo;m familiar with its usage, but ultimately I&amp;rsquo;ll use (neo)vi
     
     <item>
       <title>This Site: Colophon</title>
-      <link>/site/</link>
+      <link>https://ohio.araw.xyz/site/</link>
       <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
       
-      <guid>/site/</guid>
+      <guid>https://ohio.araw.xyz/site/</guid>
       <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
 &lt;p&gt;The making of this site is itself a personal project.
 Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.&lt;/p&gt;
@@ -851,12 +812,12 @@ This means that:&lt;/p&gt;
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
 &lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are &lt;em&gt;external links&lt;/em&gt;, i.e. links that take the visitor out of this website.&lt;/p&gt;
 &lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;ohio.araw.xyz&lt;/code&gt;.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#555;font-weight:bold&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#555;font-weight:bold&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;,&lt;/span&gt;
-&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#555;font-weight:bold&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#555;font-weight:bold&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;,&lt;/span&gt;
-        &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;content&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4070a0&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;;&lt;/span&gt; 
-        &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;color&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;green&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;;&lt;/span&gt;
-        &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;display&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#062873;font-weight:bold&#34;&gt;inline-block&lt;/span&gt;&lt;span style=&#34;color:#666&#34;&gt;;&lt;/span&gt;
-&lt;span style=&#34;&#34;&gt;}&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;{
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;; 
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;green&lt;/span&gt;;
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inline&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;block&lt;/span&gt;;
+}
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;ohio.araw.xyz&lt;/code&gt;, then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
 &lt;p&gt;Currently, these arrows only indicate external links to let visitors know that they will be directed away.
 Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab or window.
@@ -864,7 +825,7 @@ You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;
 &lt;h3 id=&#34;no-javascript&#34;&gt;No JavaScript?&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it could be.
 I don&amp;rsquo;t even know enough of the language to make that claim.
-In fact, I used JS to &lt;a href=&#34;/alwayscarry/#search-functionality&#34;&gt;add a search functionality on small bookshop website&lt;/a&gt; I volunteered to create for my partner.&lt;/p&gt;
+In fact, I used JS to &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/#search-functionality&#34;&gt;add a search functionality on small bookshop website&lt;/a&gt; I volunteered to create for my partner.&lt;/p&gt;
 &lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS in websites?&lt;/p&gt;
 &lt;p&gt;Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p&gt;
@@ -957,7 +918,7 @@ Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a 
 &lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Purchase a proper domain name for this site&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.
 GitHub has become more bloated over the years.
 I&amp;rsquo;d like to step away from that.&lt;/li&gt;
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
