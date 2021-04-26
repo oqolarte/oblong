@@ -92,12 +92,15 @@ This means that:
 - no distractions.
 
 I consider these points important as they all relate to my current situation.
+In fact, websites should be guided by these principles.
 
 ### Link Management
 
 Links in this site that have a greenish northeast arrow ("↗" or "`\2197`" in CSS) right after them are *external links*, i.e. links that take the visitor out of this website.
 
 In CSS, I implented this using a selector that finds all links other than my own, which is `ohio.araw.xyz`.
+
+Here is a sample CSS code block implementing that:
 
 ```css
 a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
@@ -118,7 +121,6 @@ You have to manually right-click it and select `Open in a new tab` (or `...windo
 
 It's not really that I find JS harmful, although some would argue that it could be.
 I don't even know enough of the language to make that claim.
-In fact, I used JS to [add a search functionality on small bookshop website](/alwayscarry/#search-functionality) I volunteered to create for my partner.
 
 So why this "distaste" for JS in websites?
 
@@ -127,7 +129,8 @@ It's absence is definitely beneficial, because there's less code to maintain.
 
 ### No Ads
 Only advertisers like ads[^ads].
-I don't intend on monetizing this side with ads, so expect a clean (read: boring) site.
+I don't intend on monetizing this site with ads, 
+so expect a clean (read: boring) experience.
 
 Also, did you know that a lot of online advertising you see depends on JS?
 
@@ -194,21 +197,20 @@ Some target new users;
 some have specific use cases in mind.
 
 However, like most tutorials online, they get outdated quickly.
-Sooner or later, reading the documentation becomes necessary.
+Sooner or later, reading the official documentation becomes necessary,
+as one can assume that it's updated.
 
 As with everything else, it's important to be patient and willing to read the manual.
 In case you're stuck, you can also ask the community. 
-Hugo has a decent documentation[^hugo-doc].
+Hugo has both decent [community](https://discourse.gohugo.io) and [documentation](https://gohugo.io/documentation)[^hugo-doc].
 
-Truth be told, Hugo's learning curve is steep, especially if you're like me with no "real" coding experience.
-Maybe it helps when you've been dealing with software programming for a while.
-Your mileage may vary.
+Honestly, Hugo's learning curve is steep, especially if you're like me with no "real" coding experience.
+But if you have the patience to read, learn, and ask for help, Hugo, as well as other SSGs, might just be the right magic for you.
 
 My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.
 
-Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
-But we'll see.
-It's something I'm already familiar with.
+Having said all that, I'm still looking out for a "simpler" tool, the SSG that fits just right for my use case.
+After all, a tool is a tool.
 
 ### Disabling Internal Templates
 
@@ -224,19 +226,25 @@ To have a privacy-centered configuration, I followed [this documentation](https:
 
 ## Inspiration
 
-Back in high school, I'm not the brightest pupil in our computer lab, and I'm okay with that.
+In high school, computer lab was not my favorite, and I'm okay with that.
+
 One of our "lab works" was to create our own website.
+It had to be interesting, catchy.
+That's why many of my classmates had `<marquee>` and `<blink>` tags in their works.
+
 I don't remember how mine looked, but I'm sure it's basic, with broken links hither and thither.
 
 More than a decade later, here I am, building one again.
-At least I retained the important bits on how HTML works, so I'm not starting from zero.
+Only this time, I have more enthusiasm.
+At least I've retained the important bits on how HTML works, so I'm not starting from zero.
 
 I'd like to say that I dedicate this to my former self, who couldn't seem to grasp the importance of web design.
-Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a little bit of patience to set everything up.
+As we rely on the internet for improving our collective knowledge,
+web designers and developers *must see to it* that everyone can access information, in spite of the current tech they have.
 
 Here are some other sites from which I got inspiration:
 - Low-tech Magazine, the [solar-powered one](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
-- [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), and [250KB Club](https://250kb.club)
+- [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club), and even [1024b Club](https://1024b.club)
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 - [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
 

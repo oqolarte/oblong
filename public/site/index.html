@@ -120,10 +120,12 @@ This means that:</p>
 <li>the site loads fast because of no tracking, no custom fonts; and,</li>
 <li>no distractions.</li>
 </ul>
-<p>I consider these points important as they all relate to my current situation.</p>
+<p>I consider these points important as they all relate to my current situation.
+In fact, websites should be guided by these principles.</p>
 <h3 id="link-management">Link Management</h3>
 <p>Links in this site that have a greenish northeast arrow (&ldquo;↗&rdquo; or &ldquo;<code>\2197</code>&rdquo; in CSS) right after them are <em>external links</em>, i.e. links that take the visitor out of this website.</p>
 <p>In CSS, I implented this using a selector that finds all links other than my own, which is <code>ohio.araw.xyz</code>.</p>
+<p>Here is a sample CSS code block implementing that:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">a</span><span style="color:#f92672">[</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#34;http://&#34;</span><span style="color:#f92672">]</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#34;ohio.araw.xyz&#34;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span><span style="color:#f92672">,</span>
 <span style="color:#f92672">a</span><span style="color:#f92672">[</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#34;https://&#34;</span><span style="color:#f92672">]</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#34;ohio.araw.xyz&#34;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span>{
         <span style="color:#66d9ef">content</span>: <span style="color:#e6db74">&#34;\2917&#34;</span>; 
@@ -136,14 +138,14 @@ Clicking one does <strong><em>not</em></strong> open it in a new tab or window.
 You have to manually right-click it and select <code>Open in a new tab</code> (or <code>...window</code>) (or click with Mouse3/MouseWheel).</p>
 <h3 id="no-javascript">No JavaScript?</h3>
 <p>It&rsquo;s not really that I find JS harmful, although some would argue that it could be.
-I don&rsquo;t even know enough of the language to make that claim.
-In fact, I used JS to <a href="/alwayscarry/#search-functionality">add a search functionality on small bookshop website</a> I volunteered to create for my partner.</p>
+I don&rsquo;t even know enough of the language to make that claim.</p>
 <p>So why this &ldquo;distaste&rdquo; for JS in websites?</p>
 <p>Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&rsquo;s absence is definitely beneficial, because there&rsquo;s less code to maintain.</p>
 <h3 id="no-ads">No Ads</h3>
 <p>Only advertisers like ads<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
-I don&rsquo;t intend on monetizing this side with ads, so expect a clean (read: boring) site.</p>
+I don&rsquo;t intend on monetizing this site with ads,
+so expect a clean (read: boring) experience.</p>
 <p>Also, did you know that a lot of online advertising you see depends on JS?</p>
 <h3 id="images">Images</h3>
 <p>Humans can be very visual <em>sometimes</em>.
@@ -189,17 +191,16 @@ Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you ca
 Some target new users;
 some have specific use cases in mind.</p>
 <p>However, like most tutorials online, they get outdated quickly.
-Sooner or later, reading the documentation becomes necessary.</p>
+Sooner or later, reading the official documentation becomes necessary,
+as one can assume that it&rsquo;s updated.</p>
 <p>As with everything else, it&rsquo;s important to be patient and willing to read the manual.
 In case you&rsquo;re stuck, you can also ask the community.
-Hugo has a decent documentation<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
-<p>Truth be told, Hugo&rsquo;s learning curve is steep, especially if you&rsquo;re like me with no &ldquo;real&rdquo; coding experience.
-Maybe it helps when you&rsquo;ve been dealing with software programming for a while.
-Your mileage may vary.</p>
+Hugo has both decent <a href="https://discourse.gohugo.io">community</a> and <a href="https://gohugo.io/documentation">documentation</a><sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
+<p>Honestly, Hugo&rsquo;s learning curve is steep, especially if you&rsquo;re like me with no &ldquo;real&rdquo; coding experience.
+But if you have the patience to read, learn, and ask for help, Hugo, as well as other SSGs, might just be the right magic for you.</p>
 <p>My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
-<p>Honestly, though, Hugo may be too complex of a generator for a simple website such as this one.
-But we&rsquo;ll see.
-It&rsquo;s something I&rsquo;m already familiar with.</p>
+<p>Having said all that, I&rsquo;m still looking out for a &ldquo;simpler&rdquo; tool, the SSG that fits just right for my use case.
+After all, a tool is a tool.</p>
 <h3 id="disabling-internal-templates">Disabling Internal Templates</h3>
 <p>Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:</p>
 <ul>
@@ -212,17 +213,21 @@ It&rsquo;s something I&rsquo;m already familiar with.</p>
 </ul>
 <p>To have a privacy-centered configuration, I followed <a href="https://gohugo.io/about/hugo-and-gdpr/">this documentation</a> and <a href="https://gohugo.io/about/hugo-and-gdpr/#disable-all-services">disabled all services</a>.</p>
 <h2 id="inspiration">Inspiration</h2>
-<p>Back in high school, I&rsquo;m not the brightest pupil in our computer lab, and I&rsquo;m okay with that.
-One of our &ldquo;lab works&rdquo; was to create our own website.
-I don&rsquo;t remember how mine looked, but I&rsquo;m sure it&rsquo;s basic, with broken links hither and thither.</p>
+<p>In high school, computer lab was not my favorite, and I&rsquo;m okay with that.</p>
+<p>One of our &ldquo;lab works&rdquo; was to create our own website.
+It had to be interesting, catchy.
+That&rsquo;s why many of my classmates had <code>&lt;marquee&gt;</code> and <code>&lt;blink&gt;</code> tags in their works.</p>
+<p>I don&rsquo;t remember how mine looked, but I&rsquo;m sure it&rsquo;s basic, with broken links hither and thither.</p>
 <p>More than a decade later, here I am, building one again.
-At least I retained the important bits on how HTML works, so I&rsquo;m not starting from zero.</p>
+Only this time, I have more enthusiasm.
+At least I&rsquo;ve retained the important bits on how HTML works, so I&rsquo;m not starting from zero.</p>
 <p>I&rsquo;d like to say that I dedicate this to my former self, who couldn&rsquo;t seem to grasp the importance of web design.
-Even today, I can only rely on Hugo, a working knowledge in HTML and CSS, and a little bit of patience to set everything up.</p>
+As we rely on the internet for improving our collective knowledge,
+web designers and developers <em>must see to it</em> that everyone can access information, in spite of the current tech they have.</p>
 <p>Here are some other sites from which I got inspiration:</p>
 <ul>
 <li>Low-tech Magazine, the <a href="https://solar.lowtechmagazine.com">solar-powered one</a>. Their article on <a href="https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html">how to build a low-tech website</a> is eye-opening.</li>
-<li><a href="https://1mb.club">1MB Club</a>, and it&rsquo;s contemporaries, <a href="https://512kb.club">512KB Club</a>, and <a href="https://250kb.club">250KB Club</a></li>
+<li><a href="https://1mb.club">1MB Club</a>, and it&rsquo;s contemporaries, <a href="https://512kb.club">512KB Club</a>, <a href="https://250kb.club">250KB Club</a>, and even <a href="https://1024b.club">1024b Club</a></li>
 <li>The &ldquo;<a href="https://bestmotherfucking.website">Best Motherfucking Website</a>&rdquo;</li>
 <li><a href="https://danluu.com">Dan Luu&rsquo;s website</a>, although it begs a few design tweaks to improve readability.</li>
 </ul>
