@@ -71,7 +71,7 @@ knowing that my use case---serving static files of small personal website---is s
 At the moment, I have considered these two OS, 
 because they still have support for 32-bit architecture 
 (which this laptop has), and meet my requirements above:
-- [Debian](https://www.debian.org) (GNU+Linux)
+- [Debian](https://www.debian.org) (GNU/Linux)
 - [OpenBSD](https://www.openbsd.org) (BSD)
 
 I also have experience in using both, albeit in a 64-bit architecture.

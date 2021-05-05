@@ -749,7 +749,7 @@ knowing that my use case&amp;mdash;serving static files of small personal websit
 because they still have support for 32-bit architecture
 (which this laptop has), and meet my requirements above:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://www.debian.org">Debian&lt;/a> (GNU+Linux)&lt;/li>
+&lt;li>&lt;a href="https://www.debian.org">Debian&lt;/a> (GNU/Linux)&lt;/li>
 &lt;li>&lt;a href="https://www.openbsd.org">OpenBSD&lt;/a> (BSD)&lt;/li>
 &lt;/ul>
 &lt;p>I also have experience in using both, albeit in a 64-bit architecture.&lt;/p>

@@ -21,11 +21,13 @@ You can either:
 &lt;li>Go their website, and click on the link that matches your system; or&lt;/li>
 &lt;li>Enter in the terminal:&lt;/li>
 &lt;/ul>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">curl -LO https://www.rarlab.com/rar/rarlinux-x64-*.tar.gz
-&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">curl -LO https://www.rarlab.com/rar/rarlinux-x64-6.0.1.tar.gz
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Note that at the time of writing, the current version is &lt;code>6.0.1&lt;/code>.
+Be sure to check the site for latest updates.&lt;/p>
+&lt;/li>
 &lt;li>Go to the folder where it got downloaded to.
 Use &lt;code>tar&lt;/code> to extract the files
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">tar -xvzf rarlinux-x64-*.tar.gz
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">tar -xvzf rarlinux-x64-6.0.1.tar.gz
 &lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;code>-x&lt;/code> option means extracts the file/s from tar&lt;br>
 &lt;code>-v&lt;/code> option means verbose, to see the extraction progress&lt;br>
 &lt;code>-z&lt;/code> option decompresses all the files within, if any&lt;br>

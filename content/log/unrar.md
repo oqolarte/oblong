@@ -31,12 +31,14 @@ You can either:
    - Go their website, and click on the link that matches your system; or
    - Enter in the terminal:
    ```shell
-   curl -LO https://www.rarlab.com/rar/rarlinux-x64-*.tar.gz
+   curl -LO https://www.rarlab.com/rar/rarlinux-x64-6.0.1.tar.gz
    ```
+   Note that at the time of writing, the current version is `6.0.1`.
+   Be sure to check the site for latest updates.
 2. Go to the folder where it got downloaded to.
 Use `tar` to extract the files
    ```shell
-   tar -xvzf rarlinux-x64-*.tar.gz
+   tar -xvzf rarlinux-x64-6.0.1.tar.gz
    ```
    `-x` option means extracts the file/s from tar  
    `-v` option means verbose, to see the extraction progress  
