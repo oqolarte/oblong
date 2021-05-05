@@ -302,3 +302,56 @@ have to, just so you will remember that.
 If you have to jot these down,
 do it, for tomorrow and the day after that and so on, there will be
 difficult exams. Life is a practical test.
+
+### Entry # 11
+Date: Tue, 05 Nov 2013
+
+Regardless of the hours of rest I give myself,
+this quake in
+my chest still would not die down.
+My heart thrashes for no romantic reason.
+And during its convulsive moments, I feel this fear might consume me.
+Later this day, I might trace my steps
+back into the previous night to see what I have done to feel so gutted
+and spooked, although I highly doubt it would be of any help.
+
+### Entry # 12
+Date: Thu, 07 Nov 2013
+
+On a night with the least expectations, 
+someone might want to show up by the front gate. 
+She could be a friend, her derelict vehicle behind her, 
+engine vibrating in anticipation of a long senseless drive.
+
+She might want to invite me in her car, and ask for advice: 
+about how she was so doped that her mother found out;
+about the terrible travails that almost diminished her mind to dementia.
+
+I might say, "Get us out of here first." 
+The tires would then screech. 
+
+I might tell someone to go to the nearest bridge, 
+preferably at least a mile long, 
+and there we might just drive back and forth. 
+But the bridge would not respond to such foolish actions. 
+
+She might get tired of driving and just take me to her room instead.
+
+Of course, no one will actually show up and demand my presence. 
+None of this will ever happen.
+
+### Entry # 13
+Date: Thu, 07 Nov 2013
+
+On several facets of human frailty that I fail to tamper with logic, 
+a deep resentment in discussing them prevails. 
+Is it because human that I am, that in order to function normally, 
+I have to act as if my weaknesses are repulsive topics? 
+But isn't that denial, enough a reason to be asking for psychiatric help? 
+
+Well, I don't need help.
+I'm doing good with my dull, simple life,
+thank you very much.
+
+### One-Liners
+- Spontaneous conflagration is the result of the heat of the moment.

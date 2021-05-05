@@ -6,11 +6,14 @@ draft: false
 ---
 ## Status: On-going {.statusOnGoing}
 
-I want to host this very site you're in in a server that I own.
+I want to host this site (`ohio.araw.xyz`) in a server that I physically have with me.
 
-Simply put, a server is just like any other computer, with lots of functionalities, like providing services or serving files to other computers (clients, as they are called in this context) that access it.
+Simply put, a server is just like any other computer, 
+with lots of functionalities, like providing services or serving files to other computers 
+(clients, as they are called in this context) that access it.
 
-In my use case, I will use it to host the HTML files of this site, and serve it to you, visitors, through your device/s (clients).
+In my use case, I will use it to host the HTML files of this site, 
+and serve it to you, visitors, through your device/s (clients).
 
 The server will actually be an old laptop that's just lying around here.
 And it's not actually mine.
@@ -40,7 +43,8 @@ it shipped with Windows XP!
 Back in the day, Windows XP received many praises for its performance.
 These days, though, it's vulnerable to a lot of cyberattacks, more so that [Microsoft has stopped supporting it since 2014](www.microsoft.com/en-us/microsoft-365/windows/end-of-windows-xp-support).
 And yet, some institutions still use it.
-If their computers are connected to the Internet, they are exposed to black hat hackers.
+If their computers are connected to the Internet, 
+they are exposed to black hat hackers.
 
 {{< figure src="/image/msi-wind.jpeg" alt="screenshot of the laptop's system properties" caption="And now, a crappy photo of the laptop's system properties" >}}
 
@@ -61,15 +65,19 @@ To many system administrators (sysadmin), a suitable operating system (OS) could
 
 I'm no sysadmin by profession, so the OS I want running in this homebrew server shall be stable, requires minimal maintenance, and is (relatively) easy to set up.
 
-It shouldn't require much effort, knowing that my use case---serving static files of small personal website---is simple enough.
+It shouldn't require much effort, 
+knowing that my use case---serving static files of small personal website---is simple enough.
 
-At the moment, I'm considering these two OS, because they still have support for 32-bit architectures (which this laptop has), and meet my requirements above:
+At the moment, I have considered these two OS, 
+because they still have support for 32-bit architecture 
+(which this laptop has), and meet my requirements above:
 - [Debian](https://www.debian.org) (GNU+Linux)
 - [OpenBSD](https://www.openbsd.org) (BSD)
 
 I also have experience in using both, albeit in a 64-bit architecture.
 
 ### Using OpenBSD as a server
+
 OpenBSD is a fully functional, Unix-like OS based on Berkeley Networking Release 2 (Net/2) and 4.4BSD-Lite.
 
 For now, I choose OpenBSD as a server because it's simpler to set up.
@@ -83,19 +91,19 @@ Their [manual pages](https://man.openbsd.org) contain the details needed to oper
 
 If you're new to the system, I highly recommend to go over the [OpenBSD FAQ - Installation Guide](https://www.openbsd.org/faq/faq4.html) at least once.
 
-I'm downloading the image from a Debian-based system, through the terminal, so most of the commands here are based on that.
+I downloaded the image from a Debian-based system, through the terminal, so most of the commands here are based on that.
 
 ### 1. Download the installer
 
-There are mirrors[^mirror] from which you can download the installer.
+There are mirrors[^mirror] from which to download the installer.
 They are found [here](https://www.openbsd.org/ftp.html).
-Always choose the one nearest your location to reduce download time.
+I chose the nearest location to reduce download time.
 
 [^mirror]: It's just a server that provides the exact copy of data from another server.
 Usually to provide a means of redundancy.
 
 ```shell
-curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.8/i386/install68.img
+curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.9/i386/install69.img
 ```
 
 ### 2. Create Install Media in Flash Drive
@@ -126,9 +134,9 @@ On the prompt, select **(i)**nstall and answer the questions.
 
 The default answers are sane.
 Most of my choices are the default ones.
-Yours may differ.
 
-Below is an incomplete list of questions during the installation, that I put here to remind my FutureSelf of the choice I made:
+Below is an incomplete list of questions during the installation, 
+that I put here to remind my FutureSelf of the choice I made:
 
 DNS domain name? **araw.xyz**  
 Do you want the X Window System to be started by xenodm(1)? **no[^xenodm]**  
@@ -147,6 +155,10 @@ rcctl set apmd flags -a -z 7
 rcctl start apmd
 ```
 
+[`apmd`](https://man.openbsd.org/apmd) is Advanced Power Management Daemon.  
+`-a` option means BIOS-initiated suspend or standby requests are ignored if the system is connected to line current (plugged) and not running from batteries.  
+`-z` option means to automatically *suspend* the system if no AC is connected and the estimated battery life is equal or below `7` percent.
+
 #### Add username to `/etc/doas.conf`
 
 ```shell
@@ -155,7 +167,7 @@ echo 'permit yourUserName' > /etc/doas.conf
 
 Reboot to make the changes.
 
-[^xenodm]: Since this is going to be a server, graphical user interface is not needed.
+[^xenodm]: Since this is going to be a server, I don't need graphical user interface.
 
 [^sd0]: The USB drive.
 This might be different for every other machine.
@@ -163,20 +175,18 @@ At any point during the installation, type `?` to list the possible choices.
 
 ### Set up wi-fi and ethernet networks
 
-Before doing anything else, we need to make sure that we are connected to the internet.
+Before doing anything else, it's important to be connected to the internet.
 This is to update any firmwares (using `fw_update`) and patches (using `syspatch`).
 
-If for some reason, you can't connect to the internet, there's still a way to install the needed firmwares, which will be discussed below.
-
 #### Ethernet
-Most OpenBSD developers would tell you to use ethernet when you have it.
+Most OpenBSD developers recommend using ethernet if it's available.
 It's reliable and secure.
 
 Network interfaces are named by taking the shorthand version of the network card.
 
 This laptop has `re(4)`, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/Gigabit Ethernet device.
 
-To set it up, create a file `/etc/hostname.re0` using vi[^vi], and put these two lines in:
+To set it up, I created a file `/etc/hostname.re0` using vi[^vi], and put these two lines in:
 
 ```shell
 dhcp
@@ -184,9 +194,9 @@ up
 ```
 
 [^vi]: vi is a text editor already present in the base install of OpenBSD.
-I'm familiar with its usage, but ultimately I'll use (neo)vim.
+I'm familiar with it, but ultimately I'll use (neo)vim.
 
-To make the file `/etc/hostname.re0` belong to the `root` (the super user) and `wheel`, and to set the necessary permissions, enter these commands as root:
+To make the file `/etc/hostname.re0` belong to the `root` (the super user) and `wheel`, and to set the necessary permissions, I entered these commands as root:
 
 ```shell
 chown root:wheel /etc/hostname.re0
@@ -198,7 +208,7 @@ Activate the ethernet connection by entering this as root:
 sh /etc/netstart
 ```
 
-If successful, it's possible now to update the firmwares, so you can use, among other things, the wifi.
+If successful, it's possible now to update the firmwares.
 Enter as root:
 ```shell
 fw_update
@@ -206,12 +216,12 @@ fw_update
 
 #### Wi-fi
 This laptop has wi-fi capabilities, but isn't immediately compatible due to firmware issues.
-As just mentioned, firmware can be updated by `fw_update` if you're already connected to the internet via ethernet.
-But if that's unsuccessful for some reason, skip to the next section to get the firmware updates.
+As mentioned, firmware can be updated by `fw_update` if ethernet connection was successful.
+Otherwise, skip to the next section to get the firmware updates.
 
 This laptop has `ath(4)`, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.
 
-To set up the wifi, create a file `etc/hostname.athn0` as root and input these following lines:
+To set up the wifi, I created a file `/etc/hostname.athn0` as root and input these following lines:
 ```shell
 nwid myHomeWiFi wpakey p@s&w0rD
 dhcp
@@ -236,31 +246,32 @@ get the firmware files from another computer that's connected to the internet.
 
 Then:
 
-1. On your OpenBSD machine, list the needed firmware.
-`fw_update` will determine this (you must be root).
-In this laptop, the firmwares needed are `intel-firmware`, `athn-firmware`, and `inteldrm-firmware`.
-1. On the other device (the one connected to the internet), go to http://firmware.openbsd.org and select the version you are installing.
-Download the firmware files in your list to a USB drive **formatted as FAT32**.
+1. On your OpenBSD machine, `fw_update` will determine the firmwares needed which are:
+   - `intel-firmware` 
+   - `athn-firmware`
+   - `inteldrm-firmware`.
+1. On the other device (the one connected to the internet), I downloaded the firmwared files from http://firmware.openbsd.org.
+However, the USB drive to which I would save these must be **formatted as FAT32**.
 (OpenBSD can't natively read ext4 or NTFS partitions.)
-    1. There are different ways you can format a USB drive to FAT32, depending on the platform you're doing the formatting on. 
-        If you're on a Debian-based system like I am, install the *dosfstools*.
+    1. There are different ways to format a USB drive to FAT32, depending on the platform you're doing the formatting on. 
+        In my Debian-like system, I installed `dosfstools`.
         ```shell
         sudo apt install dosfstools
         ```
-    1. Locate your USB drive by running this in terminal:
+    1. I plugged in and located the USB drive by running this in terminal:
         ```shell
         lsblk
         ```
         In my case, it's `/dev/sdc` .
-    1. Unmount the USB drive, because we can't format it when mounted:
+    1. Unmount the USB drive, because it can't be formatted when mounted:
         ```shell
         sudo umount /dev/sdc
         ```
-    1. Create a new partition table, which we will determine to be `msdos`.
+    1. I created a new partition table, which will be `msdos`.
         ```shell
         sudo parted /dev/sdc --script -- mklabel msdos
         ```
-    1. Specify that the whole drive must be of FAT32 file system, primary partition type:
+    1. I specified that the whole drive must be of FAT32 file system, primary partition type:
         ```shell
         sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
         ```
@@ -268,26 +279,26 @@ Download the firmware files in your list to a USB drive **formatted as FAT32**.
         ```shell
         sudo mkfs.fat -F 32 -I /dev/sdc
         ```
-    1. (Optional) Check if your device has been partitioned correctly:
+    1. (Optional) To check if the device has been partitioned correctly:
         ```shell
         sudo parted /dev/sdc --script print
         ```
-1. Insert the USB drive to the OpenBSD machine.
+1. Insert the USB drive that has now the firmware files to the OpenBSD machine.
 As root, enter `diskutil list`.
-Your USB drive will appear to have several partitions, e.g. sd1c.
+The USB drive will appear to have several partitions, e.g. sd1c.
 1. Create a mount point under /mnt (as root):
-        ```shell
-        mkdir /mnt/usb
-        ```
+   ```shell
+   mkdir /mnt/usb
+   ```
 1. Mount the USB (as root):
-        ```shell
-        mount /dev/sd1i /mnt/usb
-        ```
+   ```shell
+   mount /dev/sd1i /mnt/usb
+   ```
 1. Once mounted, install the firmware manually (as root):
-        ```shell
-        fw_update -p /mnt/usb
-        ```
-1. Reboot
+   ```shell
+   fw_update -p /mnt/usb
+   ```
+1. Reboot.
 
 ### Optional things
 
@@ -296,6 +307,76 @@ To install in one go, enter as root:
 ```shell
 pkg_add git neovim 
 ```
+## SSH Server and Client
+
+In order for the client to connect to the server, 
+a user account must be created on the server.
+During OpenBSD install, I had already created a user.
+
+Now, to set up the SSH[^ssh]:
+
+[^ssh]: The SSH (secure shell) protocol uses encryption to secure the connection between a client and a server.
+All user authentication, commands, ouput, and file transfers are encrypted to protect against attacks in the network.
+For more info: https://www.ssh.com
+
+### Client Side
+
+Before generating, be sure to check first whether there are any existing ones.
+
+Enter `ls -al ~/.ssh` to do that.
+Check the listing to see if public SSH key (sometimes referred to as "pubkey") already exists.
+Filenames include: 
+- `id_rsa.pub`
+- `id_ecdsa.pub`
+- `id_ed25519.pub`
+
+**To generate a new key**:
+
+1. Enter this in the terminal:
+   ```shell
+   ssh-keygen -t ed25519 -a 100
+   ```
+   `-t ed25519` option specifies the type of key;  
+   `-a 100`  option specifies the number of key derivation function rounds used.
+1. Follow the prompts.
+I left the defaults as they are, but feel free to configure for your use case.
+1. In order to add key, start the ssh-agent in the background.
+   ```shell
+   eval "$(ssh-agent -s)"
+   ```
+1. Add the SSH private key to the ssh-agent.
+   ```shell
+   ssh-add ~/.ssh/id_ed25519
+   ```
+1. When going to the remote server using SSH, you'll be prompted for a password everytime.
+Instead of that, we can use the SSH key.
+Copy that into the remote server:
+   ```shell
+   ssh-copy-id username@example.com
+   ```
+   This will prompt you one last time for the password of the server.
+   If successful, the server will no longer prompt you for password everytime you SSH into it.
+
+### Server Side (the OpenBSD machine)
+
+A few tweaks are needed to make SSH a pleasant experience.
+
+1. Login---or SSH *into*---the server:
+   ```shell
+   ssh username@example.com
+   ```
+1. Edit `/etc/ssh/sshd_config`:
+   ```shell
+   # find PasswordAuthentication, comment it out, 
+   # and turn 'yes' to 'no'
+   # so bad actors can't login even if they know the passwd
+   PasswordAuthentication no
+
+   # find PermitRootLogin, comment it out, 
+   # and turn 'no' to 'yes'
+   # so rsync can access the root when syncing files
+   PermitRootLogin yes
+   ```
 
 ## Web Server on OpenBSD
 
@@ -305,12 +386,35 @@ Let's start by configuring httpd, the native HTTP daemon in the OpenBSD.
 
 ### Configure httpd
 
-
-
 ### Enable HTTPS with acme-client(1) and Let's Encrypt
 
 ### Add HTTP security headers with relayd(8)
 
-## SSH Server and Client
+## Other Noteworthy Inconveniences
 
-In order for the client to connect to the server, a user account must be created on the server.
+In this section, I'll discuss the obstacles that I had to go through.
+
+### LAN Ports problem
+
+At the time of writing, our internet service provider is PLDT Home Fibr.
+Subscription comes with an actual telephone and a router.
+The router has four LAN ports.
+
+To improve the reach to the second floor of our home,
+we connected another router (Xiaomi brand) to LAN port 1.
+This second router has been working well since.
+
+By default, LAN ports 2, 3, and 4 are disabled.
+I didn't know that.
+When first setting up the ethernet connection for the OpenBSD machine,
+it wasn't detecting anything.
+
+During troubleshoot, I tried the three remaining ports with different ethernets that were available to me at the time.
+None of this approaches worked.
+
+### Takeaway/s
+
+- Always read the official documentations.
+In the case of OpenBSD, their man pages are superb, and is available already in the base install.
+Be patient to go through them.
+- Check with your internet service provider whether some things need to be done first, before setting up a homebrew server. 

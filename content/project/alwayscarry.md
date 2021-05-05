@@ -14,28 +14,33 @@ Visit the site:
 
 {{< figure src="/image/alwayscarry.png" alt="screenshot from Always Carry website " caption="Screenshot from the website" >}}
 
+Essentially, this is a static online shop with limited functionalities.
+Let me explain.
+
 ## Design Choices
 
-I figured that since this would just be a small online shop, a full-blown e-commerce site with lots of features is unnecessary.
-Having this in mind, I decided that a static site would do for now.
+I thought of going through this project with as few components as possible.
+Creating this minimum viable product raises the question,
+"What is the simplest possible implementation for setting up a static online shop?"
+
 Since I'm already familiar with [Hugo](https://gohugo.io), I use it as my static site generator.
 
 The business is literally just starting out.
-One major decision is to use free software services for the time being.
+One major decision is to use free and/or open source software services for the time being.
 
 Of course, we intend to scale as business grows.
 
 ### Landing Page
 
-The cat-holding-a-book logo is drawn by Isya herself, using Wacom Bamboo Tablet on [Krita](https://krita.org), a free and open source painting program.
-It shall be the guiding aesthetic of the website.
+The cat-holding-a-book logo is drawn by my partner, Isya herself, using Wacom Bamboo Tablet on [Krita](https://krita.org), a free and open source painting program.
+It is the guiding aesthetic of the website.
 
 From the Index, the visitor is presented with two links to the two branches of the shop:
 - Books
 - Home Products
 
 Each of these are Lists of single pages.
-Each single page is a detailed view of the product via Instagram.
+Each single page is an embedded Instagram page including the details of the product.
 
 ### Integration with Instagram
 
@@ -54,19 +59,21 @@ For the time being, I can use the IG photo's ID to be embedded on the site.
 
 ### Payment Gateway?
 
-It's only natural for an e-commerce site to have a payment method coded in it.
-However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.
+Today, it's expected for an e-commerce site to have a payment method coded in it.
+However, right now, ours has no integrated payment gateways like PayPal, Stripe, or others, in the site.
 
 Payment will be made in "less convenient" ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
 In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that's connected to a GCash account.
 
 Google Forms is also used for the customers to fill up when placing their orders.
-
-For now, this will have to do.
+We noticed, though, that this is underutilized.
+People prefer to directly message the shop via FB messenger or IG chat.
 
 ### Hosting: GitHub + Netlify
 
-The source files are on [our GitHub](https://github.com/arawseekers). The HTML files are then deployed to [Netlify](https://netlify.com), another hosting platform.
+The source files are on [our GitHub](https://github.com/arawseekers) (pull requests welcome!). 
+The HTML files are then deployed to and statically hosted at [Netlify](https://netlify.com), 
+another hosting platform.
 
 I make the changes locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.

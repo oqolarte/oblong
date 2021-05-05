@@ -1,81 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>a log on somersaulting</title>
-    <link>https://ohio.araw.xyz/project/</link>
-    <description>Recent content in Projects on to oblique lair</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-        <atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Imbentori: A Tumblr Blog</title>
-      <link>https://ohio.araw.xyz/imbentori/</link>
-      <pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/imbentori/</guid>
-      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
-&lt;p&gt;It may or may not have been obvious, but people around my age are fond of expressing themselves on the internet.&lt;/p&gt;
-&lt;p&gt;I was active in one platform which is still out there, on Tumblr, that you can still visit:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://iooare.tumblr.com&#34;&gt;Imbentori&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;It is/was my Tumblr blog the password of which I no longer remember.&lt;/p&gt;
-&lt;p&gt;A little while back, I even thought of parsing through the original text I have there, and publish them in some sort of a book&amp;hellip;&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m not throwing this idea permanently away.
-It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion.&lt;/p&gt;
-&lt;p&gt;In the meantime, read the foreword I drafted some time ago for this would-be collection of personal essays.&lt;/p&gt;
-&lt;h2 id=&#34;foreword&#34;&gt;Foreword&lt;/h2&gt;
-&lt;p&gt;The tongue that swirls with its perceived languages can only cope so much from the demands of diction.
-&lt;em&gt;Imbentori&lt;/em&gt;, then, is one own&amp;rsquo;s tongue&amp;rsquo;s attempt to speak the library of tensions as they never unfold in one&amp;rsquo;s mind.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Imbentori: A Tumblr Blog</title><link>https://ohio.araw.xyz/imbentori/</link><pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate><guid>https://ohio.araw.xyz/imbentori/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+&lt;p>It may or may not have been obvious, but people around my age are fond of expressing themselves on the internet.&lt;/p>
+&lt;p>I was active in one platform which is still out there, on Tumblr, that you can still visit:&lt;/p>
+&lt;p>&lt;strong>&lt;a href="https://iooare.tumblr.com">Imbentori&lt;/a>&lt;/strong>&lt;/p>
+&lt;p>It is/was my Tumblr blog the password of which I no longer remember.&lt;/p>
+&lt;p>A little while back, I even thought of parsing through the original text I have there, and publish them in some sort of a book&amp;hellip;&lt;/p>
+&lt;p>I&amp;rsquo;m not throwing this idea permanently away.
+It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion.&lt;/p>
+&lt;p>In the meantime, read the foreword I drafted some time ago for this would-be collection of personal essays.&lt;/p>
+&lt;h2 id="foreword">Foreword&lt;/h2>
+&lt;p>The tongue that swirls with its perceived languages can only cope so much from the demands of diction.
+&lt;em>Imbentori&lt;/em>, then, is one own&amp;rsquo;s tongue&amp;rsquo;s attempt to speak the library of tensions as they never unfold in one&amp;rsquo;s mind.
 It is a list of personal truths told with cryptic lingo
-(or with International Art English&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, one could argue)
+(or with International Art English&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>, one could argue)
 to add dimension to the mundane.
 In some entries, there&amp;rsquo;s no room for interpretation.
-In any case, if you feel like the stream of thoughts challenge the way you read, &lt;em&gt;hmm&lt;/em&gt;, then it&amp;rsquo;s purpose didn&amp;rsquo;t go off tangent.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Which is what, exactly?&amp;rdquo; I hear you ask.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Well,&amp;rdquo; I mutter, racking my brain for &lt;em&gt;proper&lt;/em&gt; wording.
+In any case, if you feel like the stream of thoughts challenge the way you read, &lt;em>hmm&lt;/em>, then it&amp;rsquo;s purpose didn&amp;rsquo;t go off tangent.&lt;/p>
+&lt;p>&amp;ldquo;Which is what, exactly?&amp;rdquo; I hear you ask.&lt;/p>
+&lt;p>&amp;ldquo;Well,&amp;rdquo; I mutter, racking my brain for &lt;em>proper&lt;/em> wording.
 &amp;ldquo;The intention of sharing this version of my Youth&amp;mdash;captured between 2012 and 2018&amp;mdash;is to offer a perspective of someone who both despises the world, yet remains hopeful of the people&amp;rsquo;s capacity to kick-start a change, although they bore me at that.&amp;rdquo;
-And then you plop back on your chair, still unsatisfied with my ambiguous response.&lt;/p&gt;
-&lt;p&gt;You will notice quirks.
+And then you plop back on your chair, still unsatisfied with my ambiguous response.&lt;/p>
+&lt;p>You will notice quirks.
 One of the most notable was how I refuse to capitalize letters that needed capitalization.
 It&amp;rsquo;s style;
-you&amp;rsquo;ll get over it.&lt;/p&gt;
-&lt;h3 id=&#34;theres-a-free-copy-online&#34;&gt;There&amp;rsquo;s a free copy online&lt;/h3&gt;
-&lt;p&gt;Most of them are lumped into what I call &lt;a href=&#34;https://iooare.tumblr.com/tagged/unscholarly-notes&#34;&gt;Unscholarly Notes&lt;/a&gt;,
-after a chapter in one of my favorite books by F. Sionil Jose.&lt;/p&gt;
-&lt;h2 id=&#34;selected-entries&#34;&gt;Selected Entries&lt;/h2&gt;
-&lt;p&gt;The following are the entries that I like, with slight edits.&lt;/p&gt;
-&lt;h3 id=&#34;entry--1&#34;&gt;Entry # 1&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Wed, 30 Oct 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Someone called me on the phone, but I did&amp;rsquo;nt hear it
+you&amp;rsquo;ll get over it.&lt;/p>
+&lt;h3 id="theres-a-free-copy-online">There&amp;rsquo;s a free copy online&lt;/h3>
+&lt;p>Most of them are lumped into what I call &lt;a href="https://iooare.tumblr.com/tagged/unscholarly-notes">Unscholarly Notes&lt;/a>,
+after a chapter in one of my favorite books by F. Sionil Jose.&lt;/p>
+&lt;h2 id="selected-entries">Selected Entries&lt;/h2>
+&lt;p>The following are the entries that I like, with slight edits.&lt;/p>
+&lt;h3 id="entry--1">Entry # 1&lt;/h3>
+&lt;p>&lt;em>Date: Wed, 30 Oct 2013&lt;/em>&lt;/p>
+&lt;p>Someone called me on the phone, but I did&amp;rsquo;nt hear it
 immediately, because I was too absorbed on the gyrating sound waves
 coming out of the speakers.
 My music, Queen, was too loud, and the
 speakers are of the modern tech,
 so that they don&amp;rsquo;t do that magical
-feedback every time a call or a text comes in my phone.&lt;/p&gt;
-&lt;p&gt;You all know that, right?
+feedback every time a call or a text comes in my phone.&lt;/p>
+&lt;p>You all know that, right?
 A few years back, speakers screech when a phone nearby
 would receive something.
 Nowadays, they don&amp;rsquo;t.
 They have killed the
-magic.&lt;/p&gt;
-&lt;p&gt;I picked up the phone. The voice at the other end was raspy but &lt;em&gt;clear&lt;/em&gt;.
+magic.&lt;/p>
+&lt;p>I picked up the phone. The voice at the other end was raspy but &lt;em>clear&lt;/em>.
 It was one of the mistresses of the former landlord of the community
 where I live in now. She said she was coming to pick up some of her old
-clothes and to drop a few other things. &lt;/p&gt;
-&lt;p&gt;There are visitors who seemed wanting to stay, but I can&amp;rsquo;t allow that. I
+clothes and to drop a few other things. &lt;/p>
+&lt;p>There are visitors who seemed wanting to stay, but I can&amp;rsquo;t allow that. I
 want to be at my own now, see what will happen. If she comes, and she
 stays, and she waits for the landlord, the two of them will lock
 themselves in their old room where they will make love for the rest of
-the day. Why can&amp;rsquo;t they just leave me in peace?&lt;/p&gt;
-&lt;h3 id=&#34;entry--2&#34;&gt;Entry # 2&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Wed, 30 Oct 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Dear diary, today I watched more videos of people fucking each other. I
+the day. Why can&amp;rsquo;t they just leave me in peace?&lt;/p>
+&lt;h3 id="entry--2">Entry # 2&lt;/h3>
+&lt;p>&lt;em>Date: Wed, 30 Oct 2013&lt;/em>&lt;/p>
+&lt;p>Dear diary, today I watched more videos of people fucking each other. I
 think it&amp;rsquo;s called pornography or erotica, but it depends on the grade of
-steam which confutes any discrepancy between the two.&lt;/p&gt;
-&lt;p&gt;These people surprised me with their whines.
+steam which confutes any discrepancy between the two.&lt;/p>
+&lt;p>These people surprised me with their whines.
 I don&amp;rsquo;t get it.
 Am I
 supposed to touch my genitals just to emulate what they were
@@ -84,9 +66,9 @@ There was an order of preference that I have read
 somewhere,
 but my not remembering when and where I found such an article
 proves how sleazy can I be.
-What I know is that, I must do &lt;em&gt;it&lt;/em&gt; with one
-or more persons, but with whom?&lt;/p&gt;
-&lt;p&gt;I clicked on a panel that played a video of two girls shamed by an
+What I know is that, I must do &lt;em>it&lt;/em> with one
+or more persons, but with whom?&lt;/p>
+&lt;p>I clicked on a panel that played a video of two girls shamed by an
 &amp;ldquo;ex-convict&amp;rdquo; on an absurd level,
 and he got to ram his penis down their
 throats for more than four minutes.
@@ -98,66 +80,66 @@ Maybe this isn&amp;rsquo;t entertainment but something
 inhumane that feeds off the carnal desires.
 If I must really think about
 it, I suppose it was not their choice to participate in such a graphic
-scenario.&lt;/p&gt;
-&lt;p&gt;Sex workers puzzle me. I know I have no right to question their deeds,
+scenario.&lt;/p>
+&lt;p>Sex workers puzzle me. I know I have no right to question their deeds,
 but still, the nature of their work is beyond my comprehension. I feel
-so dumb saying that. &lt;/p&gt;
-&lt;p&gt;Dear diary, I am lonely.
+so dumb saying that. &lt;/p>
+&lt;p>Dear diary, I am lonely.
 I want to fight off the urge.
 I want to spend
 the rest of the week cuddling in someone&amp;rsquo;s arms.
 I don&amp;rsquo;t need to take
 cold baths, because life isn&amp;rsquo;t a big porcelain bath tub,
 nor a playlist
-of fetishes.&lt;/p&gt;
-&lt;h3 id=&#34;entry--3&#34;&gt;Entry # 3&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Thu, 31 Oct 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;On moments that I look out of the window, I see the glorious sky.
+of fetishes.&lt;/p>
+&lt;h3 id="entry--3">Entry # 3&lt;/h3>
+&lt;p>&lt;em>Date: Thu, 31 Oct 2013&lt;/em>&lt;/p>
+&lt;p>On moments that I look out of the window, I see the glorious sky.
 Everything is modernized.
 Everything looks hopeful, yet ugly, but only
-if you looked long enough to see the details. &lt;/p&gt;
-&lt;h3 id=&#34;entry--4&#34;&gt;Entry # 4&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Thu, 31 Oct 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;I wish I could cough up wonderful lyrics and come up with good guitar
-chords to go with it. &lt;/p&gt;
-&lt;p&gt;I wish to do a thousand tough push-ups for every mistake I make.
+if you looked long enough to see the details. &lt;/p>
+&lt;h3 id="entry--4">Entry # 4&lt;/h3>
+&lt;p>&lt;em>Date: Thu, 31 Oct 2013&lt;/em>&lt;/p>
+&lt;p>I wish I could cough up wonderful lyrics and come up with good guitar
+chords to go with it. &lt;/p>
+&lt;p>I wish to do a thousand tough push-ups for every mistake I make.
 That
-way, I would be strong enough to endure future errors.&lt;/p&gt;
-&lt;p&gt;I wish to rebuild the walls I destroyed in order to get here, but it
+way, I would be strong enough to endure future errors.&lt;/p>
+&lt;p>I wish to rebuild the walls I destroyed in order to get here, but it
 seems that it&amp;rsquo;s all too late now.
-Someone out there knows why.&lt;/p&gt;
-&lt;h3 id=&#34;entry--5&#34;&gt;Entry # 5&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Fri, 01 Nov 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;People from the suburbs have vacated the other room.
+Someone out there knows why.&lt;/p>
+&lt;h3 id="entry--5">Entry # 5&lt;/h3>
+&lt;p>&lt;em>Date: Fri, 01 Nov 2013&lt;/em>&lt;/p>
+&lt;p>People from the suburbs have vacated the other room.
 It is free from
 dirt now.
 They have also cleaned it.
 Got rid of the pests that might
 want to scurry about the floor.
-I am glad the room is all mine now.&lt;/p&gt;
-&lt;p&gt;The room lacks decorations and soft pillows.
+I am glad the room is all mine now.&lt;/p>
+&lt;p>The room lacks decorations and soft pillows.
 It would echo in here.
 It lacks inspiration, but it has me now.
-And now, I have it.&lt;/p&gt;
-&lt;h3 id=&#34;entry--6&#34;&gt;Entry # 6&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Fri, 01 Nov 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Kill me not with admiration, and tell me I am the best person to have
+And now, I have it.&lt;/p>
+&lt;h3 id="entry--6">Entry # 6&lt;/h3>
+&lt;p>&lt;em>Date: Fri, 01 Nov 2013&lt;/em>&lt;/p>
+&lt;p>Kill me not with admiration, and tell me I am the best person to have
 entered your life ever.
 My guitar strings ache to be strummed,
 my boxes of mementos long to be remembered, but I don&amp;rsquo;t care about them.
-I care about you.&lt;/p&gt;
-&lt;p&gt;You who have brought yourself to your own knees. You whose
+I care about you.&lt;/p>
+&lt;p>You who have brought yourself to your own knees. You whose
 ponytail I held in place just so you could mourn and bow down before me.
 I could set up a room for the two of us where we could strangle the milk
 of life out of each other, but you chose to be free.
-And to be honest, that was your only option.&lt;/p&gt;
-&lt;p&gt;You chose to be with
+And to be honest, that was your only option.&lt;/p>
+&lt;p>You chose to be with
 your cats and your boy friends.
 I had nothing to do with them, so I, in
-turn, chose to set you free, even if I wanted otherwise.&lt;/p&gt;
-&lt;h3 id=&#34;entry--7&#34;&gt;Entry # 7&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Fri, 01 Nov 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;My grandfather, who looked like Quezon,
+turn, chose to set you free, even if I wanted otherwise.&lt;/p>
+&lt;h3 id="entry--7">Entry # 7&lt;/h3>
+&lt;p>&lt;em>Date: Fri, 01 Nov 2013&lt;/em>&lt;/p>
+&lt;p>My grandfather, who looked like Quezon,
 once belonged to a guerrilla force.
 They lived in the mountain
 side, just like any other rebellion at the time. They boiled unripe
@@ -165,48 +147,48 @@ corncobs and cow bones they stole from the farms nearby for lunch.
 They
 were outlaws.
 They wanted to throw the Japanese out of the country,
-only that they failed to do so.&lt;/p&gt;
-&lt;p&gt;Theirs were the stories of war against
+only that they failed to do so.&lt;/p>
+&lt;p>Theirs were the stories of war against
 alien adversaries who were more powerful.
 They were simpletons turned
 militia who knew only a few things about war.
 If they wanted so bad to be an active threat to their opponents, they could
 have constructed at least one smart plot.
 But they preferred to be
-cowards hidden behind ferns and rocks.&lt;/p&gt;
-&lt;p&gt;He died at the age of 80.
+cowards hidden behind ferns and rocks.&lt;/p>
+&lt;p>He died at the age of 80.
 Everybody prayed their own versions of
 lamentations at his funeral.
 I was not there.
-I did not even see him during his last moments, so damn me now. &lt;/p&gt;
-&lt;p&gt;My mother regularly reminds us of her admiration for her father.
+I did not even see him during his last moments, so damn me now. &lt;/p>
+&lt;p>My mother regularly reminds us of her admiration for her father.
 In her own words,
 he was the greatest man who lived.
 She told me how her mother
 wept during the funeral, so much so that they laughed at her,
 saying she was
-over-reacting.&lt;/p&gt;
-&lt;h3 id=&#34;entry--8&#34;&gt;Entry # 8&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Sat, 02 Nov 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;To the brother whose downfall is inevitable,&lt;/p&gt;
-&lt;p&gt;Your woman talked to me the other night, but I was not listening carefully.
+over-reacting.&lt;/p>
+&lt;h3 id="entry--8">Entry # 8&lt;/h3>
+&lt;p>&lt;em>Date: Sat, 02 Nov 2013&lt;/em>&lt;/p>
+&lt;p>To the brother whose downfall is inevitable,&lt;/p>
+&lt;p>Your woman talked to me the other night, but I was not listening carefully.
 Did she say that you were destroyed by an old lady?
 That you broke into tears inside a taxi, because none of your
-schemes worked out?&lt;/p&gt;
-&lt;p&gt;Old hags do tend to cause that.
+schemes worked out?&lt;/p>
+&lt;p>Old hags do tend to cause that.
 Sometimes, they are too old for
 emotions that they can&amp;rsquo;t even handle themselves.
 They resort to a
 so-called systematic deity whom they worship as much as they worship
 their laundry.
-It is all helpless now.&lt;/p&gt;
-&lt;p&gt;For you and for her, the old
-widow.&lt;/p&gt;
-&lt;p&gt;The sparrows will soon take her and all of her possessions away.
-The last air she will breathe looms nigh before her.&lt;/p&gt;
-&lt;h3 id=&#34;entry--9&#34;&gt;Entry # 9&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Sun, 03 Nov 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;I can&amp;rsquo;t promise not to be so anxious about the impermeability of jagged
+It is all helpless now.&lt;/p>
+&lt;p>For you and for her, the old
+widow.&lt;/p>
+&lt;p>The sparrows will soon take her and all of her possessions away.
+The last air she will breathe looms nigh before her.&lt;/p>
+&lt;h3 id="entry--9">Entry # 9&lt;/h3>
+&lt;p>&lt;em>Date: Sun, 03 Nov 2013&lt;/em>&lt;/p>
+&lt;p>I can&amp;rsquo;t promise not to be so anxious about the impermeability of jagged
 things here in this wanton city, here in this side of the world.
 I can
 lock myself up in a room with venomous dingoes and snapping Venus
@@ -214,17 +196,17 @@ flytraps, but tell me, can I really lock myself up in a room with
 deranged weirdos?
 I cannot be the spark of some other lame people&amp;rsquo;s thoughts.
 I, too, am suffering.
-I cannot be of some help to others, sorry about that.&lt;/p&gt;
-&lt;p&gt;Some other night, I was not thinking straight again.
+I cannot be of some help to others, sorry about that.&lt;/p>
+&lt;p>Some other night, I was not thinking straight again.
 I think I was
 capable of horrendous crimes that time.
 So instead of losing it, I got
 myself jacked in the computer and played all of the piano concertos
 repetitively, until I came back to my senses, and everything seemed
-wonderful again. &lt;/p&gt;
-&lt;h3 id=&#34;entry--10&#34;&gt;Entry # 10&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Date: Mon, 04 Nov 2013&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Let it sit there in the mellow light.
+wonderful again. &lt;/p>
+&lt;h3 id="entry--10">Entry # 10&lt;/h3>
+&lt;p>&lt;em>Date: Mon, 04 Nov 2013&lt;/em>&lt;/p>
+&lt;p>Let it sit there in the mellow light.
 And let it be clear to you that it
 is not yours, that thing.
 This is not a race that you could just break
@@ -232,932 +214,1010 @@ into a run like you are going to make it to the finish line.
 If you run now, you will not make it.
 The finish line is only a perceived idea
 through which we wish to project the kind of reality we wanted, the
-goals we wish to get.&lt;/p&gt;
-&lt;p&gt;So hear me out on this, and just let the thing sit
+goals we wish to get.&lt;/p>
+&lt;p>So hear me out on this, and just let the thing sit
 by itself.
 It is safely locked in here.
 The room is all
 so-and-so-proof&amp;mdash;
 nothing goes in or out.
-Entirely vacuum sealed.&lt;/p&gt;
-&lt;p&gt;Now, step out of the room and close the door behind you.&lt;/p&gt;
-&lt;p&gt;Good.&lt;/p&gt;
-&lt;p&gt;Listen to me.
+Entirely vacuum sealed.&lt;/p>
+&lt;p>Now, step out of the room and close the door behind you.&lt;/p>
+&lt;p>Good.&lt;/p>
+&lt;p>Listen to me.
 It is the pride in us that will bleed us to death.
 You are not owned by your pride.
 And you need to rack your brains if you
 have to, just so you will remember that.
 If you have to jot these down,
 do it, for tomorrow and the day after that and so on, there will be
-difficult exams. Life is a practical test.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Reminds me of a paper called &lt;a href=&#34;http://journal.sjdm.org/19/190712/jdm190712.html&#34;&gt;&lt;em&gt;&amp;ldquo;Bullshit Makes The Art Grow Profounder&amp;rdquo;&lt;/em&gt;&lt;/a&gt; (Turpin et. al., 2019).
+difficult exams. Life is a practical test.&lt;/p>
+&lt;h3 id="entry--11">Entry # 11&lt;/h3>
+&lt;p>Date: Tue, 05 Nov 2013&lt;/p>
+&lt;p>Regardless of the hours of rest I give myself,
+this quake in
+my chest still would not die down.
+My heart thrashes for no romantic reason.
+And during its convulsive moments, I feel this fear might consume me.
+Later this day, I might trace my steps
+back into the previous night to see what I have done to feel so gutted
+and spooked, although I highly doubt it would be of any help.&lt;/p>
+&lt;h3 id="entry--12">Entry # 12&lt;/h3>
+&lt;p>Date: Thu, 07 Nov 2013&lt;/p>
+&lt;p>On a night with the least expectations,
+someone might want to show up by the front gate.
+She could be a friend, her derelict vehicle behind her,
+engine vibrating in anticipation of a long senseless drive.&lt;/p>
+&lt;p>She might want to invite me in her car, and ask for advice:
+about how she was so doped that her mother found out;
+about the terrible travails that almost diminished her mind to dementia.&lt;/p>
+&lt;p>I might say, &amp;ldquo;Get us out of here first.&amp;rdquo;
+The tires would then screech.&lt;/p>
+&lt;p>I might tell someone to go to the nearest bridge,
+preferably at least a mile long,
+and there we might just drive back and forth.
+But the bridge would not respond to such foolish actions.&lt;/p>
+&lt;p>She might get tired of driving and just take me to her room instead.&lt;/p>
+&lt;p>Of course, no one will actually show up and demand my presence.
+None of this will ever happen.&lt;/p>
+&lt;h3 id="entry--13">Entry # 13&lt;/h3>
+&lt;p>Date: Thu, 07 Nov 2013&lt;/p>
+&lt;p>On several facets of human frailty that I fail to tamper with logic,
+a deep resentment in discussing them prevails.
+Is it because human that I am, that in order to function normally,
+I have to act as if my weaknesses are repulsive topics?
+But isn&amp;rsquo;t that denial, enough a reason to be asking for psychiatric help?&lt;/p>
+&lt;p>Well, I don&amp;rsquo;t need help.
+I&amp;rsquo;m doing good with my dull, simple life,
+thank you very much.&lt;/p>
+&lt;h3 id="one-liners">One-Liners&lt;/h3>
+&lt;ul>
+&lt;li>Spontaneous conflagration is the result of the heat of the moment.&lt;/li>
+&lt;/ul>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Reminds me of a paper called &lt;a href="http://journal.sjdm.org/19/190712/jdm190712.html">&lt;em>&amp;ldquo;Bullshit Makes The Art Grow Profounder&amp;rdquo;&lt;/em>&lt;/a> (Turpin et. al., 2019).
 Some 20(20) years ago when I last visited an art museum (or was it just gallery?),
-I couldn&amp;rsquo;t help but roll my eyes on a lot of pieces&#39; description cards that seemingly always include how the artist &amp;ldquo;explores&amp;rdquo; this or that.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>iPod Classic Hard Drive Upgrade</title>
-      <link>https://ohio.araw.xyz/mercipod/</link>
-      <pubDate>Tue, 02 Feb 2021 17:45:52 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/mercipod/</guid>
-      <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
-&lt;p&gt;&amp;lsquo;Nay Merci, Isya&amp;rsquo;s mom, sent her iPod Classic&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to me for repair, a device that&amp;rsquo;s at least ten years old now.
-It&amp;rsquo;s life can still be stretched by upgrading some of its components.&lt;/p&gt;
-&lt;p&gt;Back in 2018, I did a similar upgrade on Isya&amp;rsquo;s iPod Classic, which I wrote about on &lt;em&gt;our&lt;/em&gt; blog&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, so doing this isn&amp;rsquo;t something new.&lt;/p&gt;
-&lt;p&gt;In this post, I&amp;rsquo;ll discuss the overview of what I did.
+I couldn&amp;rsquo;t help but roll my eyes on a lot of pieces' description cards that seemingly always include how the artist &amp;ldquo;explores&amp;rdquo; this or that.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>iPod Classic Hard Drive Upgrade</title><link>https://ohio.araw.xyz/mercipod/</link><pubDate>Tue, 02 Feb 2021 17:45:52 +0800</pubDate><guid>https://ohio.araw.xyz/mercipod/</guid><description>&lt;h2 class="statusDone" id="status-done">Status: Done&lt;/h2>
+&lt;p>&amp;lsquo;Nay Merci, Isya&amp;rsquo;s mom, sent her iPod Classic&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> to me for repair, a device that&amp;rsquo;s at least ten years old now.
+It&amp;rsquo;s life can still be stretched by upgrading some of its components.&lt;/p>
+&lt;p>Back in 2018, I did a similar upgrade on Isya&amp;rsquo;s iPod Classic, which I wrote about on &lt;em>our&lt;/em> blog&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>, so doing this isn&amp;rsquo;t something new.&lt;/p>
+&lt;p>In this post, I&amp;rsquo;ll discuss the overview of what I did.
 This isn&amp;rsquo;t necessarily a step-by-step guide, and shouldn&amp;rsquo;t be considered as such.
 It&amp;rsquo;s merely an attempt to document the process through a crappy camera and poor lighting that I have.
-Pardon the amateur.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;getting-what-i-need&#34;&gt;Getting what I need&lt;/h2&gt;
-&lt;p&gt;Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi1.jpeg&#34;
-         alt=&#34;a spread of items needed to upgrade the ipod, including hard drive and prying tools&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;TOP HALF, LEFT TO RIGHT: iPod Classic, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;iflash-quad&#34;&gt;iFlash-Quad&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://iflash.xyz&#34;&gt;iFlash&lt;/a&gt; is the go-to site/store when it comes to iPod adapters.
+Pardon the amateur.&lt;/p>
+&lt;hr>
+&lt;h2 id="getting-what-i-need">Getting what I need&lt;/h2>
+&lt;p>Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.&lt;/p>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi1.jpeg"
+alt="a spread of items needed to upgrade the ipod, including hard drive and prying tools"/>&lt;figcaption>
+&lt;p>TOP HALF, LEFT TO RIGHT: iPod Classic, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="iflash-quad">iFlash-Quad&lt;/h3>
+&lt;p>&lt;a href="https://iflash.xyz">iFlash&lt;/a> is the go-to site/store when it comes to iPod adapters.
 They have adapters that will fit iPod Videos, iPod Classics, and iPod Photos.
-The iFlash site has &lt;a href=&#34;https://www.iflash.xyz/helpful-tips-and-advice/&#34;&gt;helpful tips and advice&lt;/a&gt; for non-pro iPod modders like me.&lt;/p&gt;
-&lt;p&gt;Even when there was a slight problem in shipping (probably due the on-going Pandemic), the iFlash team was quick to resolve the problem, at no extra cost.
-Great customer service, if you ask me!&lt;/p&gt;
-&lt;p&gt;iFlash-Quad is, in my opinion, the best bang-for-buck purchase for this iPod.
-Good capacity is 256Gb to 1Tb!&lt;/p&gt;
-&lt;p&gt;From their site:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Automatic quad mode adapter&amp;mdash;use with 1 MicroSD card in standard mode, and  2, 3, or 4 MicroSD cards in mixed JBOD (Just a Bunch Of Disks) mode for even greater storage capacity.&lt;/p&gt;
-&lt;p&gt;Mix and Match any MicroSD cards, you are free to mix any size and any brand to achieve your iPod needs.&lt;/p&gt;
-&lt;p&gt;Intelligent power management with much lower power consumption than the original Hard drive, longer runtimes and quicker user interface.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It&amp;rsquo;s true.
+The iFlash site has &lt;a href="https://www.iflash.xyz/helpful-tips-and-advice/">helpful tips and advice&lt;/a> for non-pro iPod modders like me.&lt;/p>
+&lt;p>Even when there was a slight problem in shipping (probably due the on-going Pandemic), the iFlash team was quick to resolve the problem, at no extra cost.
+Great customer service, if you ask me!&lt;/p>
+&lt;p>iFlash-Quad is, in my opinion, the best bang-for-buck purchase for this iPod.
+Good capacity is 256Gb to 1Tb!&lt;/p>
+&lt;p>From their site:&lt;/p>
+&lt;blockquote>
+&lt;p>Automatic quad mode adapter&amp;mdash;use with 1 MicroSD card in standard mode, and 2, 3, or 4 MicroSD cards in mixed JBOD (Just a Bunch Of Disks) mode for even greater storage capacity.&lt;/p>
+&lt;p>Mix and Match any MicroSD cards, you are free to mix any size and any brand to achieve your iPod needs.&lt;/p>
+&lt;p>Intelligent power management with much lower power consumption than the original Hard drive, longer runtimes and quicker user interface.&lt;/p>
+&lt;/blockquote>
+&lt;p>It&amp;rsquo;s true.
 I&amp;rsquo;ve done this in Isya&amp;rsquo;s iPod, and it has worked better since its upgraded.
-So I know it will improve &amp;lsquo;Nay Merci&amp;rsquo;s iPod, which I&amp;rsquo;ll unofficially call Mercipod.&lt;/p&gt;
-&lt;h3 id=&#34;microsd-cards&#34;&gt;MicroSD Cards&lt;/h3&gt;
-&lt;p&gt;Maximum of four.
-This will vary on how hardcore of a music enthusiast you are, and/or your budget.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re aiming for 1Tb worth of music, it might well be a replacement for your Spotify!
-It&amp;rsquo;s offline, too, so you don&amp;rsquo;t need internet connection to play music.&lt;/p&gt;
-&lt;p&gt;Since you&amp;rsquo;re reading this, I&amp;rsquo;m assuming you have some familiarity with iPods and how they need to interface with iTunes.&lt;/p&gt;
-&lt;p&gt;For those who don&amp;rsquo;t know, when we connect the iPod to a computer with iTunes on it, the iTunes will be the one to put music on it, by syncing the library with the iPod.
-So, don&amp;rsquo;t put your mp3 files in the microSD just yet!&lt;/p&gt;
-&lt;h3 id=&#34;prying-tools&#34;&gt;Prying tools&lt;/h3&gt;
-&lt;p&gt;As with any Apple device, iPod is tricky to open.
-Classic Apple move discourages the owners to repair their own devices through malicious design and planned obsolescence, but it&amp;rsquo;s a discussion for another time.&lt;/p&gt;
-&lt;p&gt;One special tool is the flexible steel pry bar tool.
+So I know it will improve &amp;lsquo;Nay Merci&amp;rsquo;s iPod, which I&amp;rsquo;ll unofficially call Mercipod.&lt;/p>
+&lt;h3 id="microsd-cards">MicroSD Cards&lt;/h3>
+&lt;p>Maximum of four.
+This will vary on how hardcore of a music enthusiast you are, and/or your budget.&lt;/p>
+&lt;p>If you&amp;rsquo;re aiming for 1Tb worth of music, it might well be a replacement for your Spotify!
+It&amp;rsquo;s offline, too, so you don&amp;rsquo;t need internet connection to play music.&lt;/p>
+&lt;p>Since you&amp;rsquo;re reading this, I&amp;rsquo;m assuming you have some familiarity with iPods and how they need to interface with iTunes.&lt;/p>
+&lt;p>For those who don&amp;rsquo;t know, when we connect the iPod to a computer with iTunes on it, the iTunes will be the one to put music on it, by syncing the library with the iPod.
+So, don&amp;rsquo;t put your mp3 files in the microSD just yet!&lt;/p>
+&lt;h3 id="prying-tools">Prying tools&lt;/h3>
+&lt;p>As with any Apple device, iPod is tricky to open.
+Classic Apple move discourages the owners to repair their own devices through malicious design and planned obsolescence, but it&amp;rsquo;s a discussion for another time.&lt;/p>
+&lt;p>One special tool is the flexible steel pry bar tool.
 It&amp;rsquo;s a thin steel with grip, ideal for opening iPods.
 iFlash offers it in their store.
 Another brand, iSesamo, is known to be the gold standard for prying open iPods, but you may find it a bit too pricey, especially if you factor in shipping costs.
 I did okay with cheap knockoffs, though, in Lazada/Shoppee.
-In fact, I still have the one I used to open Isya&amp;rsquo;s.&lt;/p&gt;
-&lt;p&gt;Other plastic prying tools may be needed.
+In fact, I still have the one I used to open Isya&amp;rsquo;s.&lt;/p>
+&lt;p>Other plastic prying tools may be needed.
 They can be bought on the cheap at your favorite e-commerce site.
-Look up with terms like &amp;ldquo;plastic prying tools for electronics&amp;rdquo;.&lt;/p&gt;
-&lt;h3 id=&#34;tweezer&#34;&gt;Tweezer&lt;/h3&gt;
-&lt;p&gt;Not included in the picture above, sorry about that.
+Look up with terms like &amp;ldquo;plastic prying tools for electronics&amp;rdquo;.&lt;/p>
+&lt;h3 id="tweezer">Tweezer&lt;/h3>
+&lt;p>Not included in the picture above, sorry about that.
 This will come in handy when putting back the battery ribbon to its slot.
-More on this later.&lt;/p&gt;
-&lt;h3 id=&#34;video-tutorial&#34;&gt;Video Tutorial&lt;/h3&gt;
-&lt;p&gt;Yes, I couldn&amp;rsquo;t have done this (again) without the help of a guide.&lt;/p&gt;
-&lt;p&gt;I found Everson Siqueira&amp;rsquo;s video, &amp;ldquo;&lt;a href=&#34;https://youtu.be/4AF1Pjbwc6c&#34;&gt;iPod Classic upgrade: new battery + SD Card. 256GB 7th gen iPod Classic&lt;/a&gt;&amp;rdquo;  (YouTube link) really helpful.
+More on this later.&lt;/p>
+&lt;h3 id="video-tutorial">Video Tutorial&lt;/h3>
+&lt;p>Yes, I couldn&amp;rsquo;t have done this (again) without the help of a guide.&lt;/p>
+&lt;p>I found Everson Siqueira&amp;rsquo;s video, &amp;ldquo;&lt;a href="https://youtu.be/4AF1Pjbwc6c">iPod Classic upgrade: new battery + SD Card. 256GB 7th gen iPod Classic&lt;/a>&amp;rdquo; (YouTube link) really helpful.
 I will be referring to this video a few times in this post.
-In addition to his tutorial, he also discussed the hurdles he had to overcome so viewers may not repeat his mistakes.&lt;/p&gt;
-&lt;p&gt;He also provided an &amp;ldquo;&lt;a href=&#34;http://bit.ly/2NpjDTD&#34;&gt;iPod Classic opening reference card in PDF&lt;/a&gt;&amp;rdquo; (Dropbox link) so I would know where to locate the metal clips that hold together the iPod chassis.&lt;/p&gt;
-&lt;h3 id=&#34;patience&#34;&gt;Patience&lt;/h3&gt;
-&lt;p&gt;Lots of it.
+In addition to his tutorial, he also discussed the hurdles he had to overcome so viewers may not repeat his mistakes.&lt;/p>
+&lt;p>He also provided an &amp;ldquo;&lt;a href="http://bit.ly/2NpjDTD">iPod Classic opening reference card in PDF&lt;/a>&amp;rdquo; (Dropbox link) so I would know where to locate the metal clips that hold together the iPod chassis.&lt;/p>
+&lt;h3 id="patience">Patience&lt;/h3>
+&lt;p>Lots of it.
 As I said, iPods are not easy to pry open.
-That special flexible prying tool mentioned above is key (almost literally) to successfully opening the device.&lt;/p&gt;
-&lt;p&gt;I would say that opening is the hardest part.
-The rest will be easy, if not manageable.&lt;/p&gt;
-&lt;p&gt;If this is your first time opening an iPod, take your time.
+That special flexible prying tool mentioned above is key (almost literally) to successfully opening the device.&lt;/p>
+&lt;p>I would say that opening is the hardest part.
+The rest will be easy, if not manageable.&lt;/p>
+&lt;p>If this is your first time opening an iPod, take your time.
 Go over your chosen guide (or video tutorial) again as long as you need to.
-It&amp;rsquo;s better to make sure, than force something  and then breaking it needlessly.&lt;/p&gt;
-&lt;p&gt;This is my second time doing this, so I&amp;rsquo;m more confident.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;swapping-the-hard-drives&#34;&gt;Swapping the Hard Drives&lt;/h2&gt;
-&lt;p&gt;Now we will be discussing the steps involved in taking out the old hard drive to be replaced with the new solid state one.&lt;/p&gt;
-&lt;h3 id=&#34;1-open-the-ipod&#34;&gt;1. Open the iPod&lt;/h3&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi2.jpeg&#34;
-         alt=&#34;an image of ipod and a small roll of washi tape below it&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Washi tape marks the locations of the metal clips&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;With the aid Siqueira&amp;rsquo;s iPod Classing opening reference, I used washi tape to indicate the locations of the metal clips&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; that hold together the iPod.
+It&amp;rsquo;s better to make sure, than force something and then breaking it needlessly.&lt;/p>
+&lt;p>This is my second time doing this, so I&amp;rsquo;m more confident.&lt;/p>
+&lt;hr>
+&lt;h2 id="swapping-the-hard-drives">Swapping the Hard Drives&lt;/h2>
+&lt;p>Now we will be discussing the steps involved in taking out the old hard drive to be replaced with the new solid state one.&lt;/p>
+&lt;h3 id="1-open-the-ipod">1. Open the iPod&lt;/h3>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi2.jpeg"
+alt="an image of ipod and a small roll of washi tape below it"/>&lt;figcaption>
+&lt;p>Washi tape marks the locations of the metal clips&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>With the aid Siqueira&amp;rsquo;s iPod Classing opening reference, I used washi tape to indicate the locations of the metal clips&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> that hold together the iPod.
 I did this, because I have no printer to have the PDF printed.
-To be as accurate as possible, I aligned the iPod with the image on the PDF, making sure that it is zoomed to actual size, before placing the markings.&lt;/p&gt;
-&lt;p&gt;I inserted the flexible metal prying tool in between the seams at the edge, following the marked locations.
+To be as accurate as possible, I aligned the iPod with the image on the PDF, making sure that it is zoomed to actual size, before placing the markings.&lt;/p>
+&lt;p>I inserted the flexible metal prying tool in between the seams at the edge, following the marked locations.
 I disengaged first the top clip, then the two bottom clips.
-Disengaging the clips on both sides can be done after, either by alternating between each side, or doing all in one side first before going to the other.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ll reiterate:
-Refer to the video tutorial first on how exactly this is done.&lt;/p&gt;
-&lt;h3 id=&#34;2-disconnecting-the-battery-ribbon&#34;&gt;2. Disconnecting the battery ribbon&lt;/h3&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi3.jpeg&#34;
-         alt=&#34;an opened ipod&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Disconnecting the battery ribbon&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;After successfully disengaging all clips, flip the iPod so it is facing down on your work surface.
+Disengaging the clips on both sides can be done after, either by alternating between each side, or doing all in one side first before going to the other.&lt;/p>
+&lt;p>I&amp;rsquo;ll reiterate:
+Refer to the video tutorial first on how exactly this is done.&lt;/p>
+&lt;h3 id="2-disconnecting-the-battery-ribbon">2. Disconnecting the battery ribbon&lt;/h3>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi3.jpeg"
+alt="an opened ipod"/>&lt;figcaption>
+&lt;p>Disconnecting the battery ribbon&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>After successfully disengaging all clips, flip the iPod so it is facing down on your work surface.
 Slowly carefully lift the back chassis.
-metal-clips shouldn&amp;rsquo;t open it wide yet, because there&amp;rsquo;s a battery ribbon still connected.&lt;/p&gt;
-&lt;p&gt;With a plastic prying tool, slide up the black plastic clip that holds the battery ribbon.
-The battery ribbon can now be lifted (carefully) up, still with the help of a prying tool.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi4.jpeg&#34;
-         alt=&#34;an opened ipod&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Freshly opened iPod. LEFT: Back metal shell, battery (the yellow-orange rectangle); RIGHT: Front chassis, and what you&amp;rsquo;re seeing is the mechanical hard drive and some foam&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The iPod is now open.
-Relish this moment of success.&lt;/p&gt;
-&lt;p&gt;Notice that there&amp;rsquo;s still one ribbon connected to the front chassis.
+metal-clips shouldn&amp;rsquo;t open it wide yet, because there&amp;rsquo;s a battery ribbon still connected.&lt;/p>
+&lt;p>With a plastic prying tool, slide up the black plastic clip that holds the battery ribbon.
+The battery ribbon can now be lifted (carefully) up, still with the help of a prying tool.&lt;/p>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi4.jpeg"
+alt="an opened ipod"/>&lt;figcaption>
+&lt;p>Freshly opened iPod. LEFT: Back metal shell, battery (the yellow-orange rectangle); RIGHT: Front chassis, and what you&amp;rsquo;re seeing is the mechanical hard drive and some foam&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>The iPod is now open.
+Relish this moment of success.&lt;/p>
+&lt;p>Notice that there&amp;rsquo;s still one ribbon connected to the front chassis.
 This is for the headphones jack.
-Keep it in tact.&lt;/p&gt;
-&lt;p&gt;The battery still has some significant juice in it, so that&amp;rsquo;s an upgrade for another time.&lt;/p&gt;
-&lt;h3 id=&#34;3-disconnect-the-original-hard-drive&#34;&gt;3. Disconnect the original hard drive&lt;/h3&gt;
-&lt;p&gt;The original hard drive is attached to the motherboard via flexible flat cable (FFC) through called a Zero Insertion Force (ZIF) connector.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi5.jpeg&#34;
-         alt=&#34;an opened ipod&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Disconnecting the HDD&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;On the side of the hard drive, there&amp;rsquo;s a sliver of black plastic flap that must first be flipped to disengage the FFC from the ZIF.
-Do that carefully with a plastic prying tool.&lt;/p&gt;
-&lt;p&gt;Once disengaged, the hard drive shall be easy to pull off.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi6.jpeg&#34;
-         alt=&#34;an opened ipod and a mechanical hard disk&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;RIGHTMOST: Hard drive successfully removed&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;4-installing-the-new-solid-state-drive&#34;&gt;4. Installing the new solid state drive&lt;/h3&gt;
-&lt;p&gt;The solid state drive here, technically, is the microSD.
-Insert it in one of the slots in the iFlash-Quad adapter.&lt;/p&gt;
-&lt;p&gt;The adapter comes with a small square foam, with an adhesive side.
+Keep it in tact.&lt;/p>
+&lt;p>The battery still has some significant juice in it, so that&amp;rsquo;s an upgrade for another time.&lt;/p>
+&lt;h3 id="3-disconnect-the-original-hard-drive">3. Disconnect the original hard drive&lt;/h3>
+&lt;p>The original hard drive is attached to the motherboard via flexible flat cable (FFC) through called a Zero Insertion Force (ZIF) connector.&lt;/p>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi5.jpeg"
+alt="an opened ipod"/>&lt;figcaption>
+&lt;p>Disconnecting the HDD&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>On the side of the hard drive, there&amp;rsquo;s a sliver of black plastic flap that must first be flipped to disengage the FFC from the ZIF.
+Do that carefully with a plastic prying tool.&lt;/p>
+&lt;p>Once disengaged, the hard drive shall be easy to pull off.&lt;/p>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi6.jpeg"
+alt="an opened ipod and a mechanical hard disk"/>&lt;figcaption>
+&lt;p>RIGHTMOST: Hard drive successfully removed&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="4-installing-the-new-solid-state-drive">4. Installing the new solid state drive&lt;/h3>
+&lt;p>The solid state drive here, technically, is the microSD.
+Insert it in one of the slots in the iFlash-Quad adapter.&lt;/p>
+&lt;p>The adapter comes with a small square foam, with an adhesive side.
 This will act as a spacer between the adapter and the iPod&amp;rsquo;s circuit board.
 The adapter being thinner than the original hard drive, the foam provides a snug fit, so the iPod won&amp;rsquo;t be an overpriced maracas.
-Refer to the following image to know which side the foam must be placed.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi7.jpeg&#34;
-         alt=&#34;image of iFlash solid state drive&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;iFlash-Quad, with foams&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Connect the FFC to adapter&amp;rsquo;s on-board ZIF connector.
+Refer to the following image to know which side the foam must be placed.&lt;/p>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi7.jpeg"
+alt="image of iFlash solid state drive"/>&lt;figcaption>
+&lt;p>iFlash-Quad, with foams&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Connect the FFC to adapter&amp;rsquo;s on-board ZIF connector.
 It shouldn&amp;rsquo;t be hard to slide it in.
 If the FFC is somewhat resisting, be sure that it is evenly sliding in, not at an angle.
-Then, lock it in by putting the black plastic flap back down.&lt;/p&gt;
-&lt;p&gt;Check the following image to see the orientation of the adapter during connection.
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi8.jpeg&#34;
-         alt=&#34;an opened ipod&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Installing the solid state drive&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;5-closing-the-ipod&#34;&gt;5. Closing the iPod&lt;/h3&gt;
-&lt;p&gt;Realign the back chassis back to the front.&lt;/p&gt;
-&lt;p&gt;Using a tweezer (pictured in the following image), reconnect the battery ribbon in the same slot as before.
+Then, lock it in by putting the black plastic flap back down.&lt;/p>
+&lt;p>Check the following image to see the orientation of the adapter during connection.
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi8.jpeg"
+alt="an opened ipod"/>&lt;figcaption>
+&lt;p>Installing the solid state drive&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;h3 id="5-closing-the-ipod">5. Closing the iPod&lt;/h3>
+&lt;p>Realign the back chassis back to the front.&lt;/p>
+&lt;p>Using a tweezer (pictured in the following image), reconnect the battery ribbon in the same slot as before.
 Lock it in by pushing down the black plastic slider.
-Give it a light tug to ensure that it isn&amp;rsquo;t loosely connected.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi9.jpeg&#34;
-         alt=&#34;an opened ipod&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Reconnecting the battery ribbon&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Press some buttons to check first if the iPod is turning on.
+Give it a light tug to ensure that it isn&amp;rsquo;t loosely connected.&lt;/p>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi9.jpeg"
+alt="an opened ipod"/>&lt;figcaption>
+&lt;p>Reconnecting the battery ribbon&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Press some buttons to check first if the iPod is turning on.
 Under normal circumstances, it should.
 If it doesn&amp;rsquo;t, trying recharging it.
-If during the process of opening the iPod, you somehow damaged it that it wouldn&amp;rsquo;t turn on, it&amp;rsquo;s beyond the scope of this post.&lt;/p&gt;
-&lt;p&gt;The iPod is now ready to be closed.
+If during the process of opening the iPod, you somehow damaged it that it wouldn&amp;rsquo;t turn on, it&amp;rsquo;s beyond the scope of this post.&lt;/p>
+&lt;p>The iPod is now ready to be closed.
 While making sure the back is aligned to the front chassis, push down on the metal.
 Clicks should be heard;
-the metals clips are now engaged and the iPod is locked closed.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;then-comes-the-music&#34;&gt;&amp;hellip;then comes the music&lt;/h2&gt;
-&lt;p&gt;At this point, the iPod should feel snappier and lighter, because it is!&lt;/p&gt;
-&lt;p&gt;Since we&amp;rsquo;ve replaced the massive energy drain which was the original hard drive, battery should last a bit longer.
-Accessing the memory isn&amp;rsquo;t done mechanically, unlike the original hard drive, which literally needed to spin a disk (where the whirring sound comes from).&lt;/p&gt;
-&lt;p&gt;Connect the iPod to a computer (ideally a Mac, but Windows or GNU+Linux would be fine) with iTunes installed on it.&lt;/p&gt;
-&lt;p&gt;The iPod will be prompted for a restore, and then a software update.
-Do these both via iTunes.&lt;/p&gt;
-&lt;p&gt;When successfully done, the iPod can now sync with iTunes, so make sure you packed the latter with decent muzak.
+the metals clips are now engaged and the iPod is locked closed.&lt;/p>
+&lt;hr>
+&lt;h2 id="then-comes-the-music">&amp;hellip;then comes the music&lt;/h2>
+&lt;p>At this point, the iPod should feel snappier and lighter, because it is!&lt;/p>
+&lt;p>Since we&amp;rsquo;ve replaced the massive energy drain which was the original hard drive, battery should last a bit longer.
+Accessing the memory isn&amp;rsquo;t done mechanically, unlike the original hard drive, which literally needed to spin a disk (where the whirring sound comes from).&lt;/p>
+&lt;p>Connect the iPod to a computer (ideally a Mac, but Windows or GNU+Linux would be fine) with iTunes installed on it.&lt;/p>
+&lt;p>The iPod will be prompted for a restore, and then a software update.
+Do these both via iTunes.&lt;/p>
+&lt;p>When successfully done, the iPod can now sync with iTunes, so make sure you packed the latter with decent muzak.
 They syncing process is outside the scope of this post, but it shouldn&amp;rsquo;t be too hard.
-Look it up online.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;iPod Classic, 6th Generation (&amp;ldquo;7th gen&amp;rdquo; in some sites), 2nd revision, 160 GB capacity, Model No. A1238.
-For more info on iPods, &lt;a href=&#34;https://en.wikipedia.org/wiki/IPod_Classic&#34;&gt;check the wikipedia about it&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;We like to call ourselves &lt;a href=&#34;https://arawseekers.github.io&#34;&gt;Araw Seekers&lt;/a&gt;.
-You&amp;rsquo;re welcome to go over there and read.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;One would notice the absence of screws with which to open the device.
+Look it up online.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>iPod Classic, 6th Generation (&amp;ldquo;7th gen&amp;rdquo; in some sites), 2nd revision, 160 GB capacity, Model No. A1238.
+For more info on iPods, &lt;a href="https://en.wikipedia.org/wiki/IPod_Classic">check the wikipedia about it&lt;/a>.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>We like to call ourselves &lt;a href="https://arawseekers.github.io">Araw Seekers&lt;/a>.
+You&amp;rsquo;re welcome to go over there and read.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>One would notice the absence of screws with which to open the device.
 Instead, there are metal clips on the inside all around the edge.
-Without prior knowledge, one would think that the iPod was not designed to be maintained, and one would be right in thinking so.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Encoding: From Hardcopy to Softcopy</title>
-      <link>https://ohio.araw.xyz/encode/</link>
-      <pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/encode/</guid>
-      <description>&lt;h2 class=&#34;statusDone&#34; id=&#34;status-done&#34;&gt;Status: Done&lt;/h2&gt;
-&lt;p&gt;One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.&lt;/p&gt;
-&lt;p&gt;Here is an attempt to document the entire process.&lt;/p&gt;
-&lt;h2 id=&#34;scope-of-work&#34;&gt;Scope of Work&lt;/h2&gt;
-&lt;p&gt;The documents that we&amp;rsquo;re talking about here are printed articles written by Tito Jorge.
-He&amp;rsquo;s quite the writer, so each article easily goes above 4,000 words.&lt;/p&gt;
-&lt;p&gt;We are tasked to convert these printed materials into a Word document (docx) as softcopies.&lt;/p&gt;
-&lt;p&gt;The initial suggestion was to manually typewrite &lt;em&gt;everything&lt;/em&gt;.
-Surely, though, there must be a smarter way to make softcopies?&lt;/p&gt;
-&lt;h2 id=&#34;scanning-of-documents&#34;&gt;Scanning of Documents&lt;/h2&gt;
-&lt;p&gt;Currently, we have no scanner in our home.&lt;/p&gt;
-&lt;p&gt;Instead, I used the Adobe Scan app on the iPhone that I still had.
+Without prior knowledge, one would think that the iPod was not designed to be maintained, and one would be right in thinking so.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Encoding: From Hardcopy to Softcopy</title><link>https://ohio.araw.xyz/encode/</link><pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate><guid>https://ohio.araw.xyz/encode/</guid><description>&lt;h2 class="statusDone" id="status-done">Status: Done&lt;/h2>
+&lt;p>One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.&lt;/p>
+&lt;p>Here is an attempt to document the entire process.&lt;/p>
+&lt;h2 id="scope-of-work">Scope of Work&lt;/h2>
+&lt;p>The documents that we&amp;rsquo;re talking about here are printed articles written by Tito Jorge.
+He&amp;rsquo;s quite the writer, so each article easily goes above 4,000 words.&lt;/p>
+&lt;p>We are tasked to convert these printed materials into a Word document (docx) as softcopies.&lt;/p>
+&lt;p>The initial suggestion was to manually typewrite &lt;em>everything&lt;/em>.
+Surely, though, there must be a smarter way to make softcopies?&lt;/p>
+&lt;h2 id="scanning-of-documents">Scanning of Documents&lt;/h2>
+&lt;p>Currently, we have no scanner in our home.&lt;/p>
+&lt;p>Instead, I used the Adobe Scan app on the iPhone that I still had.
 It&amp;rsquo;s fine.
-I just had to make sure that the text in each scanned page was readable.&lt;/p&gt;
-&lt;p&gt;The scanned files are in PDF format.&lt;/p&gt;
-&lt;p&gt;Then, I AirDropped the scanned files to Isya&amp;rsquo;s MacBook, because that&amp;rsquo;s where I would be working on them.
+I just had to make sure that the text in each scanned page was readable.&lt;/p>
+&lt;p>The scanned files are in PDF format.&lt;/p>
+&lt;p>Then, I AirDropped the scanned files to Isya&amp;rsquo;s MacBook, because that&amp;rsquo;s where I would be working on them.
 AirDrop is limited to Apple devices;
 it&amp;rsquo;s Apple&amp;rsquo;s fancy way of transferring files over bluetooth.
-The magic lies in how incredibly fast the transfer time is, even in large batches of files.&lt;/p&gt;
-&lt;p&gt;Of course, one doesn&amp;rsquo;t need Apple devices to do these.
-Just remember that the important things here are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;a way to scan the documents; and&lt;/li&gt;
-&lt;li&gt;a way to transfer them to the computer.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;converting-pdf-to-docx&#34;&gt;Converting PDF to docx&lt;/h2&gt;
-&lt;p&gt;It&amp;rsquo;s time to make use of free online software.
-We&amp;rsquo;ll be needing Optical Character Recognition (OCR) software for this one, particularly one that can convert PDF to docx.&lt;/p&gt;
-&lt;p&gt;I used &lt;a href=&#34;https://www.onlineocr.net&#34;&gt;Free Online OCR&lt;/a&gt;, simply because it&amp;rsquo;s the topmost item in the search list.
+The magic lies in how incredibly fast the transfer time is, even in large batches of files.&lt;/p>
+&lt;p>Of course, one doesn&amp;rsquo;t need Apple devices to do these.
+Just remember that the important things here are:&lt;/p>
+&lt;ul>
+&lt;li>a way to scan the documents; and&lt;/li>
+&lt;li>a way to transfer them to the computer.&lt;/li>
+&lt;/ul>
+&lt;h2 id="converting-pdf-to-docx">Converting PDF to docx&lt;/h2>
+&lt;p>It&amp;rsquo;s time to make use of free online software.
+We&amp;rsquo;ll be needing Optical Character Recognition (OCR) software for this one, particularly one that can convert PDF to docx.&lt;/p>
+&lt;p>I used &lt;a href="https://www.onlineocr.net">Free Online OCR&lt;/a>, simply because it&amp;rsquo;s the topmost item in the search list.
 What I will discuss next is based on that platform.
-You can choose other websites, but you&amp;rsquo;ll have to figure it out yourself.&lt;/p&gt;
-&lt;p&gt;On the Free Online OCR landing page, you can do a quick task of converting PDF to docx.
+You can choose other websites, but you&amp;rsquo;ll have to figure it out yourself.&lt;/p>
+&lt;p>On the Free Online OCR landing page, you can do a quick task of converting PDF to docx.
 However, you&amp;rsquo;ll soon find out that this will only output the first page of the document.
-The max file size is also limited to 15 MB.&lt;/p&gt;
-&lt;p&gt;To increase these numbers, you need to sign up.&lt;/p&gt;
-&lt;h3 id=&#34;sign-up-on-free-online-ocr-using-disposable-email&#34;&gt;Sign up on Free Online OCR using disposable email&lt;/h3&gt;
-&lt;p&gt;Never use your own personal email account.&lt;/p&gt;
-&lt;p&gt;There are many free online services that provide disposable emails.
-For this, I used &lt;a href=&#34;https://temp-mail.org&#34;&gt;Temp Mail&lt;/a&gt; which &amp;ldquo;provides temporary, secure, anonymous, free, disposable email address.&amp;rdquo;
-Keep this tab (or window) open for as long you need this.&lt;/p&gt;
-&lt;p&gt;When you click SIGN UP on the upper right of the page, you will be prompted to fill up a form:&lt;/p&gt;
-&lt;p&gt;Enter username: &lt;code&gt;[enter any gibberish]&lt;/code&gt;&lt;br&gt;
-Enter password&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;: &lt;code&gt;[enter any gibberish]&lt;/code&gt;&lt;br&gt;
-Confirm password: &lt;code&gt;[same as above]&lt;/code&gt;&lt;br&gt;
-Enter E-mail: &lt;code&gt;[Copy the email from Temp Mail]&lt;/code&gt;&lt;br&gt;
-Enter Captcha code: &lt;code&gt;[captcha code here]&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;And &lt;del&gt;blindly&lt;/del&gt; accept the Terms of Service and Privacy Policy in the checkbox.&lt;/p&gt;
-&lt;p&gt;Log in once you&amp;rsquo;ve successfully signed up.&lt;/p&gt;
-&lt;p&gt;Logging in increases your wiggle room, namely:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;max file size is bumped up to 200 MB;&lt;/li&gt;
-&lt;li&gt;max number of pages is now 50;&lt;/li&gt;
-&lt;li&gt;plus some other options that you might find useful.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Once you deplete the number of available pages, which you will if you&amp;rsquo;re working on a lot academic articles, just create another account, with the help of Temp Mail!&lt;/p&gt;
-&lt;p&gt;When creating another account, be sure to delete the cookies in your browser.&lt;/p&gt;
-&lt;p&gt;Don&amp;rsquo;t forget to download all the docx files.&lt;/p&gt;
-&lt;h2 id=&#34;polish-the-documents&#34;&gt;Polish the documents&lt;/h2&gt;
-&lt;p&gt;At this point, all the files are now in docx format.
+The max file size is also limited to 15 MB.&lt;/p>
+&lt;p>To increase these numbers, you need to sign up.&lt;/p>
+&lt;h3 id="sign-up-on-free-online-ocr-using-disposable-email">Sign up on Free Online OCR using disposable email&lt;/h3>
+&lt;p>Never use your own personal email account.&lt;/p>
+&lt;p>There are many free online services that provide disposable emails.
+For this, I used &lt;a href="https://temp-mail.org">Temp Mail&lt;/a> which &amp;ldquo;provides temporary, secure, anonymous, free, disposable email address.&amp;rdquo;
+Keep this tab (or window) open for as long you need this.&lt;/p>
+&lt;p>When you click SIGN UP on the upper right of the page, you will be prompted to fill up a form:&lt;/p>
+&lt;p>Enter username: &lt;code>[enter any gibberish]&lt;/code>&lt;br>
+Enter password&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>: &lt;code>[enter any gibberish]&lt;/code>&lt;br>
+Confirm password: &lt;code>[same as above]&lt;/code>&lt;br>
+Enter E-mail: &lt;code>[Copy the email from Temp Mail]&lt;/code>&lt;br>
+Enter Captcha code: &lt;code>[captcha code here]&lt;/code>&lt;/p>
+&lt;p>And &lt;del>blindly&lt;/del> accept the Terms of Service and Privacy Policy in the checkbox.&lt;/p>
+&lt;p>Log in once you&amp;rsquo;ve successfully signed up.&lt;/p>
+&lt;p>Logging in increases your wiggle room, namely:&lt;/p>
+&lt;ul>
+&lt;li>max file size is bumped up to 200 MB;&lt;/li>
+&lt;li>max number of pages is now 50;&lt;/li>
+&lt;li>plus some other options that you might find useful.&lt;/li>
+&lt;/ul>
+&lt;p>Once you deplete the number of available pages, which you will if you&amp;rsquo;re working on a lot academic articles, just create another account, with the help of Temp Mail!&lt;/p>
+&lt;p>When creating another account, be sure to delete the cookies in your browser.&lt;/p>
+&lt;p>Don&amp;rsquo;t forget to download all the docx files.&lt;/p>
+&lt;h2 id="polish-the-documents">Polish the documents&lt;/h2>
+&lt;p>At this point, all the files are now in docx format.
 The OCR converter will have tried its best in recognizing the text, tables, and even images.
-The quality of the converted docx will greatly depend on the scanning process, but even then, the final output won&amp;rsquo;t be perfect.&lt;/p&gt;
-&lt;p&gt;Open your favorite word processor.
-I used Microsoft Word in the MacBook.&lt;/p&gt;
-&lt;p&gt;This is the most labor-intensive part of the whole process which includes these things to do:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;check the spelling;&lt;/li&gt;
-&lt;li&gt;check the punctuation marks;&lt;/li&gt;
-&lt;li&gt;check the formatting;&lt;/li&gt;
-&lt;li&gt;recreate the data tables, if need be;&lt;/li&gt;
-&lt;li&gt;rescan and include any important images;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I have processed about 133 pages of scholarly articles, done in about 13 hours (non-continuous).&lt;/p&gt;
-&lt;h2 id=&#34;recommendations&#34;&gt;Recommendation/s&lt;/h2&gt;
-&lt;p&gt;To future-proof the articles, it would be nice to convert them also to plaintext (txt).
-Plaintext ensures that it can be ported to other computers and platforms, while eating as little memory space as possible.&lt;/p&gt;
-&lt;p&gt;Plaintext can be formatted with Markdown.
-&lt;a href=&#34;https://pandoc.org&#34;&gt;Pandoc&lt;/a&gt; is a universal converter, and free software at that, that can be used to covnert txt (or markdown) to, say, docx.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re the kind who handwrites on their journal, you may want to keep a digital backup of your personal musings by implementing what I discussed above.
+The quality of the converted docx will greatly depend on the scanning process, but even then, the final output won&amp;rsquo;t be perfect.&lt;/p>
+&lt;p>Open your favorite word processor.
+I used Microsoft Word in the MacBook.&lt;/p>
+&lt;p>This is the most labor-intensive part of the whole process which includes these things to do:&lt;/p>
+&lt;ul>
+&lt;li>check the spelling;&lt;/li>
+&lt;li>check the punctuation marks;&lt;/li>
+&lt;li>check the formatting;&lt;/li>
+&lt;li>recreate the data tables, if need be;&lt;/li>
+&lt;li>rescan and include any important images;&lt;/li>
+&lt;/ul>
+&lt;p>I have processed about 133 pages of scholarly articles, done in about 13 hours (non-continuous).&lt;/p>
+&lt;h2 id="recommendations">Recommendation/s&lt;/h2>
+&lt;p>To future-proof the articles, it would be nice to convert them also to plaintext (txt).
+Plaintext ensures that it can be ported to other computers and platforms, while eating as little memory space as possible.&lt;/p>
+&lt;p>Plaintext can be formatted with Markdown.
+&lt;a href="https://pandoc.org">Pandoc&lt;/a> is a universal converter, and free software at that, that can be used to covnert txt (or markdown) to, say, docx.&lt;/p>
+&lt;p>If you&amp;rsquo;re the kind who handwrites on their journal, you may want to keep a digital backup of your personal musings by implementing what I discussed above.
 Take note (ha!) of the legibility of your handwriting;
-the OCR might not recognize your cursive penmanship!&lt;/p&gt;
-&lt;p&gt;Or perhaps, you own a distraction-free, old-but-working-still typewriter?
-Type your thoughts in a distraction-free machine&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, scan, and edit and/or finalize the digital copy.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;To easily come up with a password, this would be the best time to start using a &lt;a href=&#34;https://privacytools.io/software/passwords/#pw&#34;&gt;password manager&lt;/a&gt;.
-Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;See the &lt;a href=&#34;https://typewriterrevolution.com/manifesto&#34;&gt;Typewriter Manifesto&lt;/a&gt; if you&amp;rsquo;re into that.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Always Carry Website</title>
-      <link>https://ohio.araw.xyz/alwayscarry/</link>
-      <pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/alwayscarry/</guid>
-      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
-&lt;p&gt;My partner asked me to come up with a website to act as a central hub for their small online shop.
-The website shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p&gt;
-&lt;p&gt;Visit the site:
-&lt;strong&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;Always Carry!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/alwayscarry.png&#34;
-         alt=&#34;screenshot from Always Carry website &#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Screenshot from the website&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;design-choices&#34;&gt;Design Choices&lt;/h2&gt;
-&lt;p&gt;I figured that since this would just be a small online shop, a full-blown e-commerce site with lots of features is unnecessary.
-Having this in mind, I decided that a static site would do for now.
-Since I&amp;rsquo;m already familiar with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, I use it as my static site generator.&lt;/p&gt;
-&lt;p&gt;The business is literally just starting out.
-One major decision is to use free software services for the time being.&lt;/p&gt;
-&lt;p&gt;Of course, we intend to scale as business grows.&lt;/p&gt;
-&lt;h3 id=&#34;landing-page&#34;&gt;Landing Page&lt;/h3&gt;
-&lt;p&gt;The cat-holding-a-book logo is drawn by Isya herself, using Wacom Bamboo Tablet on &lt;a href=&#34;https://krita.org&#34;&gt;Krita&lt;/a&gt;, a free and open source painting program.
-It shall be the guiding aesthetic of the website.&lt;/p&gt;
-&lt;p&gt;From the Index, the visitor is presented with two links to the two branches of the shop:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Books&lt;/li&gt;
-&lt;li&gt;Home Products&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Each of these are Lists of single pages.
-Each single page is a detailed view of the product via Instagram.&lt;/p&gt;
-&lt;h3 id=&#34;integration-with-instagram&#34;&gt;Integration with Instagram&lt;/h3&gt;
-&lt;p&gt;To reach as many people as possible, the shop is also available in Instagram and Facebook.
+the OCR might not recognize your cursive penmanship!&lt;/p>
+&lt;p>Or perhaps, you own a distraction-free, old-but-working-still typewriter?
+Type your thoughts in a distraction-free machine&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>, scan, and edit and/or finalize the digital copy.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>To easily come up with a password, this would be the best time to start using a &lt;a href="https://privacytools.io/software/passwords/#pw">password manager&lt;/a>.
+Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>See the &lt;a href="https://typewriterrevolution.com/manifesto">Typewriter Manifesto&lt;/a> if you&amp;rsquo;re into that.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Always Carry Website</title><link>https://ohio.araw.xyz/alwayscarry/</link><pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate><guid>https://ohio.araw.xyz/alwayscarry/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+&lt;p>My partner asked me to come up with a website to act as a central hub for their small online shop.
+The website shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p>
+&lt;p>Visit the site:
+&lt;strong>&lt;a href="https://alwayscarry.netlify.app">Always Carry!&lt;/a>&lt;/strong>&lt;/p>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/alwayscarry.png"
+alt="screenshot from Always Carry website "/>&lt;figcaption>
+&lt;p>Screenshot from the website&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Essentially, this is a static online shop with limited functionalities.
+Let me explain.&lt;/p>
+&lt;h2 id="design-choices">Design Choices&lt;/h2>
+&lt;p>I thought of going through this project with as few components as possible.
+Creating this minimum viable product raises the question,
+&amp;ldquo;What is the simplest possible implementation for setting up a static online shop?&amp;rdquo;&lt;/p>
+&lt;p>Since I&amp;rsquo;m already familiar with &lt;a href="https://gohugo.io">Hugo&lt;/a>, I use it as my static site generator.&lt;/p>
+&lt;p>The business is literally just starting out.
+One major decision is to use free and/or open source software services for the time being.&lt;/p>
+&lt;p>Of course, we intend to scale as business grows.&lt;/p>
+&lt;h3 id="landing-page">Landing Page&lt;/h3>
+&lt;p>The cat-holding-a-book logo is drawn by my partner, Isya herself, using Wacom Bamboo Tablet on &lt;a href="https://krita.org">Krita&lt;/a>, a free and open source painting program.
+It is the guiding aesthetic of the website.&lt;/p>
+&lt;p>From the Index, the visitor is presented with two links to the two branches of the shop:&lt;/p>
+&lt;ul>
+&lt;li>Books&lt;/li>
+&lt;li>Home Products&lt;/li>
+&lt;/ul>
+&lt;p>Each of these are Lists of single pages.
+Each single page is an embedded Instagram page including the details of the product.&lt;/p>
+&lt;h3 id="integration-with-instagram">Integration with Instagram&lt;/h3>
+&lt;p>To reach as many people as possible, the shop is also available in Instagram and Facebook.
 Huge chunk of content management will be focused on IG.
-Each post will then appear on the Facebook Page, and on the website.&lt;/p&gt;
-&lt;p&gt;I had a brilliant idea to use Hugo&amp;rsquo;s native integration with Instagram through their API, according to &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#instagram&#34;&gt;Hugo&amp;rsquo;s documentation&lt;/a&gt;.
-The first try, though, it already failed.&lt;/p&gt;
-&lt;p&gt;It turns out, the Instagram shortcode is deprecated since 24 Oct 2020, &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/7879&#34;&gt;according to this discussion.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Good thing that from that same discussion, &lt;a href=&#34;https://github.com/gohugoio/hugo/issues/7879#issuecomment-737149676&#34;&gt;monsieurnebo&amp;rsquo;s fix&lt;/a&gt; (based on ToniTornado, but with a bit smaller code) got it going for me.&lt;/p&gt;
-&lt;p&gt;For the time being, I can use the IG photo&amp;rsquo;s ID to be embedded on the site.&lt;/p&gt;
-&lt;h3 id=&#34;payment-gateway&#34;&gt;Payment Gateway?&lt;/h3&gt;
-&lt;p&gt;It&amp;rsquo;s only natural for an e-commerce site to have a payment method coded in it.
-However, right now, it has no integrated payment gateways like PayPal, Stripe, or others, in the site.&lt;/p&gt;
-&lt;p&gt;Payment will be made in &amp;ldquo;less convenient&amp;rdquo; ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
-In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that&amp;rsquo;s connected to a GCash account.&lt;/p&gt;
-&lt;p&gt;Google Forms is also used for the customers to fill up when placing their orders.&lt;/p&gt;
-&lt;p&gt;For now, this will have to do.&lt;/p&gt;
-&lt;h3 id=&#34;hosting-github--netlify&#34;&gt;Hosting: GitHub + Netlify&lt;/h3&gt;
-&lt;p&gt;The source files are on &lt;a href=&#34;https://github.com/arawseekers&#34;&gt;our GitHub&lt;/a&gt;. The HTML files are then deployed to &lt;a href=&#34;https://netlify.com&#34;&gt;Netlify&lt;/a&gt;, another hosting platform.&lt;/p&gt;
-&lt;p&gt;I make the changes locally, in a laptop.
+Each post will then appear on the Facebook Page, and on the website.&lt;/p>
+&lt;p>I had a brilliant idea to use Hugo&amp;rsquo;s native integration with Instagram through their API, according to &lt;a href="https://gohugo.io/content-management/shortcodes/#instagram">Hugo&amp;rsquo;s documentation&lt;/a>.
+The first try, though, it already failed.&lt;/p>
+&lt;p>It turns out, the Instagram shortcode is deprecated since 24 Oct 2020, &lt;a href="https://github.com/gohugoio/hugo/issues/7879">according to this discussion.&lt;/a>&lt;/p>
+&lt;p>Good thing that from that same discussion, &lt;a href="https://github.com/gohugoio/hugo/issues/7879#issuecomment-737149676">monsieurnebo&amp;rsquo;s fix&lt;/a> (based on ToniTornado, but with a bit smaller code) got it going for me.&lt;/p>
+&lt;p>For the time being, I can use the IG photo&amp;rsquo;s ID to be embedded on the site.&lt;/p>
+&lt;h3 id="payment-gateway">Payment Gateway?&lt;/h3>
+&lt;p>Today, it&amp;rsquo;s expected for an e-commerce site to have a payment method coded in it.
+However, right now, ours has no integrated payment gateways like PayPal, Stripe, or others, in the site.&lt;/p>
+&lt;p>Payment will be made in &amp;ldquo;less convenient&amp;rdquo; ways, by employing other known services like GCash, PayMaya, and the traditional Bank Transfer.
+In my opinion, these methods, particularly the first two, will reach more people since neither need debit nor credit card to make transactions, only a phone that&amp;rsquo;s connected to a GCash account.&lt;/p>
+&lt;p>Google Forms is also used for the customers to fill up when placing their orders.
+We noticed, though, that this is underutilized.
+People prefer to directly message the shop via FB messenger or IG chat.&lt;/p>
+&lt;h3 id="hosting-github--netlify">Hosting: GitHub + Netlify&lt;/h3>
+&lt;p>The source files are on &lt;a href="https://github.com/arawseekers">our GitHub&lt;/a> (pull requests welcome!).
+The HTML files are then deployed to and statically hosted at &lt;a href="https://netlify.com">Netlify&lt;/a>,
+another hosting platform.&lt;/p>
+&lt;p>I make the changes locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.
-Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.&lt;/p&gt;
-&lt;h3 id=&#34;just-in-time-preloading&#34;&gt;&amp;ldquo;Just-in-time&amp;rdquo; Preloading&lt;/h3&gt;
-&lt;p&gt;Improving user experience might just be the key to a successful small online shop.
-Who knows?&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://instant.page&#34;&gt;Instant.Page&lt;/a&gt; claims to make the site&amp;rsquo;s pages instant by preloading a page right before a user clicks it.
-Bandwidth-wise, this should only have small effects on the user, since by design, the pages of &lt;strong&gt;Always Carry&lt;/strong&gt; are already lightweight.&lt;/p&gt;
-&lt;p&gt;According to the Instant.Page, uBlock Origin blocks it.
-The author explains how to &lt;a href=&#34;https://instant.page/tech#self-hosting&#34;&gt;self-host the script&lt;/a&gt;, and so I did just that, because I use uBlock Origin.&lt;/p&gt;
-&lt;h2 id=&#34;how-a-transaction-looks-like&#34;&gt;How A Transaction Looks Like&lt;/h2&gt;
-&lt;p&gt;Here, I outline the processes involved for the customer and the dealer.
-This is not final as we streamline further.&lt;/p&gt;
-&lt;h3 id=&#34;customer-side&#34;&gt;Customer Side&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Customer browses the book list, and makes a selection.&lt;/li&gt;
-&lt;li&gt;Customer fills up the Form, giving us the needed details of the order.&lt;/li&gt;
-&lt;li&gt;Customer waits for the invoice.
+Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.&lt;/p>
+&lt;h3 id="just-in-time-preloading">&amp;ldquo;Just-in-time&amp;rdquo; Preloading&lt;/h3>
+&lt;p>Improving user experience might just be the key to a successful small online shop.
+Who knows?&lt;/p>
+&lt;p>&lt;a href="https://instant.page">Instant.Page&lt;/a> claims to make the site&amp;rsquo;s pages instant by preloading a page right before a user clicks it.
+Bandwidth-wise, this should only have small effects on the user, since by design, the pages of &lt;strong>Always Carry&lt;/strong> are already lightweight.&lt;/p>
+&lt;p>According to the Instant.Page, uBlock Origin blocks it.
+The author explains how to &lt;a href="https://instant.page/tech#self-hosting">self-host the script&lt;/a>, and so I did just that, because I use uBlock Origin.&lt;/p>
+&lt;h2 id="how-a-transaction-looks-like">How A Transaction Looks Like&lt;/h2>
+&lt;p>Here, I outline the processes involved for the customer and the dealer.
+This is not final as we streamline further.&lt;/p>
+&lt;h3 id="customer-side">Customer Side&lt;/h3>
+&lt;ol>
+&lt;li>Customer browses the book list, and makes a selection.&lt;/li>
+&lt;li>Customer fills up the Form, giving us the needed details of the order.&lt;/li>
+&lt;li>Customer waits for the invoice.
 Ideally, it arrives within 24 hours.
-When the invoice is confirmed to have been received, this informs the customer that their order is reserved under their name for the next 24 hours.&lt;/li&gt;
-&lt;li&gt;Customer pays within 24 hours of receiving the invoice.
-Otherwise, the reservation is revoked, and the order is made available again for the public.&lt;/li&gt;
-&lt;li&gt;Once payment is verified, the order will be packed and sent.
-Customer&amp;rsquo;s waiting duration depends on the delivery option they chose in the Form.&lt;/li&gt;
-&lt;li&gt;Customer tracks the package until they receive it.&lt;/li&gt;
-&lt;li&gt;Customer receives the package, and the transaction is complete.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;dealer-side-we-the-sellers&#34;&gt;Dealer Side (&lt;em&gt;we&lt;/em&gt;, the sellers)&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;We check the Google Form at least once a day for any orders made.
-We also check our other inboxes (Facebook, Instagram, and Gmail) for any inquiries people might have for us.&lt;/li&gt;
-&lt;li&gt;We will process orders in a first-come-first-serve basis.
-This means that an order will be given to the next one in line if the one before failed to pay within 24 hours.&lt;/li&gt;
-&lt;li&gt;We send the invoice to the customer.
-This will also let them know that the order is reserved under their name for the next 24 hours.&lt;/li&gt;
-&lt;li&gt;If payment is made, we will start packing.
-Else, as mentioned, it is made available again, or is given to the next customer who intended to order it.&lt;/li&gt;
-&lt;li&gt;After packing, the package is sent via the chosen courier.
-The number of waiting days depends on customer&amp;rsquo;s location.&lt;/li&gt;
-&lt;li&gt;We track the package and give updates to the customer until they receive it.&lt;/li&gt;
-&lt;li&gt;When the customer receives the package, the transaction is complete.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;dropping-content&#34;&gt;&amp;lsquo;Dropping&amp;rsquo; Content&lt;/h2&gt;
-&lt;p&gt;In e-commerce jargon, &amp;ldquo;dropping&amp;rdquo; means putting up new items in the shop.&lt;/p&gt;
-&lt;p&gt;The current way involves a lot of friction on our side, to be honest.
-This is one of the drawbacks of going static: doing things &amp;ldquo;manually.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s enumerate the steps:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The files, mainly photos of books to be sold, live in the laptop&amp;mdash;a MacBook, and are backed up in a OneDrive account.
-The phone can then access the photos via the cloud.&lt;/li&gt;
-&lt;li&gt;Alternatively, to save on bandwidth, we can transfer over a USB connection, using &lt;a href=&#34;https://www.android.com/filetransfer/&#34;&gt;Android File Transfer&lt;/a&gt; as the needed middleman.
-The operative word is &amp;ldquo;needed,&amp;rdquo; because one cannot &lt;em&gt;just&lt;/em&gt; plug an Android phone into a Mac and be done with it.&lt;/li&gt;
-&lt;li&gt;On the phone, images will be uploaded on Instagram.
+When the invoice is confirmed to have been received, this informs the customer that their order is reserved under their name for the next 24 hours.&lt;/li>
+&lt;li>Customer pays within 24 hours of receiving the invoice.
+Otherwise, the reservation is revoked, and the order is made available again for the public.&lt;/li>
+&lt;li>Once payment is verified, the order will be packed and sent.
+Customer&amp;rsquo;s waiting duration depends on the delivery option they chose in the Form.&lt;/li>
+&lt;li>Customer tracks the package until they receive it.&lt;/li>
+&lt;li>Customer receives the package, and the transaction is complete.&lt;/li>
+&lt;/ol>
+&lt;h3 id="dealer-side-we-the-sellers">Dealer Side (&lt;em>we&lt;/em>, the sellers)&lt;/h3>
+&lt;ol>
+&lt;li>We check the Google Form at least once a day for any orders made.
+We also check our other inboxes (Facebook, Instagram, and Gmail) for any inquiries people might have for us.&lt;/li>
+&lt;li>We will process orders in a first-come-first-serve basis.
+This means that an order will be given to the next one in line if the one before failed to pay within 24 hours.&lt;/li>
+&lt;li>We send the invoice to the customer.
+This will also let them know that the order is reserved under their name for the next 24 hours.&lt;/li>
+&lt;li>If payment is made, we will start packing.
+Else, as mentioned, it is made available again, or is given to the next customer who intended to order it.&lt;/li>
+&lt;li>After packing, the package is sent via the chosen courier.
+The number of waiting days depends on customer&amp;rsquo;s location.&lt;/li>
+&lt;li>We track the package and give updates to the customer until they receive it.&lt;/li>
+&lt;li>When the customer receives the package, the transaction is complete.&lt;/li>
+&lt;/ol>
+&lt;h2 id="dropping-content">&amp;lsquo;Dropping&amp;rsquo; Content&lt;/h2>
+&lt;p>In e-commerce jargon, &amp;ldquo;dropping&amp;rdquo; means putting up new items in the shop.&lt;/p>
+&lt;p>The current way involves a lot of friction on our side, to be honest.
+This is one of the drawbacks of going static: doing things &amp;ldquo;manually.&amp;rdquo;&lt;/p>
+&lt;p>Let&amp;rsquo;s enumerate the steps:&lt;/p>
+&lt;ol>
+&lt;li>The files, mainly photos of books to be sold, live in the laptop&amp;mdash;a MacBook, and are backed up in a OneDrive account.
+The phone can then access the photos via the cloud.&lt;/li>
+&lt;li>Alternatively, to save on bandwidth, we can transfer over a USB connection, using &lt;a href="https://www.android.com/filetransfer/">Android File Transfer&lt;/a> as the needed middleman.
+The operative word is &amp;ldquo;needed,&amp;rdquo; because one cannot &lt;em>just&lt;/em> plug an Android phone into a Mac and be done with it.&lt;/li>
+&lt;li>On the phone, images will be uploaded on Instagram.
 Since the IG account is already linked to the FB Page, each post shall simultaneously pop up on both platforms.
-&lt;em&gt;In theory.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Once posted, we will get the photo ID for each IG post.&lt;/li&gt;
-&lt;li&gt;Using the ID, we can now embed the IG post on the website, thanks to the workaround mentioned earlier.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;taking-photos&#34;&gt;Taking Photos&lt;/h3&gt;
-&lt;p&gt;Photo-taking is done during daytime, when we make use of natural light.&lt;/p&gt;
-&lt;p&gt;Initially, we used an iPhone to take photos of the books.
-Transferring files between Apple devices (in our case, iPhone and Mac) is easy, using AirDrop.&lt;/p&gt;
-&lt;p&gt;However, the iPhone is no longer available in this operation.
-We need solutions that don&amp;rsquo;t rely on AirDrop&amp;rsquo;s convenience.&lt;/p&gt;
-&lt;p&gt;We have two options left: a digital camera, and an Android phone, the same one where we will be posting on IG.
+&lt;em>In theory.&lt;/em>&lt;/li>
+&lt;li>Once posted, we will get the photo ID for each IG post.&lt;/li>
+&lt;li>Using the ID, we can now embed the IG post on the website, thanks to the workaround mentioned earlier.&lt;/li>
+&lt;/ol>
+&lt;h3 id="taking-photos">Taking Photos&lt;/h3>
+&lt;p>Photo-taking is done during daytime, when we make use of natural light.&lt;/p>
+&lt;p>Initially, we used an iPhone to take photos of the books.
+Transferring files between Apple devices (in our case, iPhone and Mac) is easy, using AirDrop.&lt;/p>
+&lt;p>However, the iPhone is no longer available in this operation.
+We need solutions that don&amp;rsquo;t rely on AirDrop&amp;rsquo;s convenience.&lt;/p>
+&lt;p>We have two options left: a digital camera, and an Android phone, the same one where we will be posting on IG.
 For better quality photos, the digital camera is the obvious choice.
-Its SD Card will also fit nicely in one of the Mac&amp;rsquo;s ports.&lt;/p&gt;
-&lt;p&gt;The phone&amp;rsquo;s camera will serve as a backup.&lt;/p&gt;
-&lt;h3 id=&#34;syndication-of-posts&#34;&gt;Syndication of Posts&lt;/h3&gt;
-&lt;p&gt;If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
-Right now, as mentioned, we focus the content management in IG due to its reach.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Own Web Server</title>
-      <link>https://ohio.araw.xyz/server/</link>
-      <pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/server/</guid>
-      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
-&lt;p&gt;I want to host this very site you&amp;rsquo;re in in a server that I own.&lt;/p&gt;
-&lt;p&gt;Simply put, a server is just like any other computer, with lots of functionalities, like providing services or serving files to other computers (clients, as they are called in this context) that access it.&lt;/p&gt;
-&lt;p&gt;In my use case, I will use it to host the HTML files of this site, and serve it to you, visitors, through your device/s (clients).&lt;/p&gt;
-&lt;p&gt;The server will actually be an old laptop that&amp;rsquo;s just lying around here.
+Its SD Card will also fit nicely in one of the Mac&amp;rsquo;s ports.&lt;/p>
+&lt;p>The phone&amp;rsquo;s camera will serve as a backup.&lt;/p>
+&lt;h3 id="syndication-of-posts">Syndication of Posts&lt;/h3>
+&lt;p>If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
+Right now, as mentioned, we focus the content management in IG due to its reach.&lt;/p></description></item><item><title>Own Web Server</title><link>https://ohio.araw.xyz/server/</link><pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate><guid>https://ohio.araw.xyz/server/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+&lt;p>I want to host this site (&lt;code>ohio.araw.xyz&lt;/code>) in a server that I physically have with me.&lt;/p>
+&lt;p>Simply put, a server is just like any other computer,
+with lots of functionalities, like providing services or serving files to other computers
+(clients, as they are called in this context) that access it.&lt;/p>
+&lt;p>In my use case, I will use it to host the HTML files of this site,
+and serve it to you, visitors, through your device/s (clients).&lt;/p>
+&lt;p>The server will actually be an old laptop that&amp;rsquo;s just lying around here.
 And it&amp;rsquo;s not actually mine.
-The &lt;a href=&#34;https://www.laptopmag.com/reviews/laptops/msi-wind-u123&#34;&gt;MSI Wind Netbook&lt;/a&gt; belongs to Isya, and I got her permission to use it for this project.&lt;/p&gt;
-&lt;h2 id=&#34;specifications-of-the-machine&#34;&gt;Specifications of the Machine&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Bluetooth 2.0&lt;/li&gt;
-&lt;li&gt;CPU: 1.66-GHZ Intel Atom N280&lt;/li&gt;
-&lt;li&gt;Display size: 10.2&amp;quot;&lt;/li&gt;
-&lt;li&gt;Graphics card: Intel GMA 950&lt;/li&gt;
-&lt;li&gt;Hard drive size: 80Gb&lt;/li&gt;
-&lt;li&gt;Hard drive speed: 5,400rpm&lt;/li&gt;
-&lt;li&gt;Hard drive type: SATA hard drive&lt;/li&gt;
-&lt;li&gt;Native resolution: 1024x600&lt;/li&gt;
-&lt;li&gt;Operating system (OS, default): MS Windows XP Home&lt;/li&gt;
-&lt;li&gt;Ports (excluding USB): VGA, Microphone, Headphone, Ethernet&lt;/li&gt;
-&lt;li&gt;RAM: 2Gb&lt;/li&gt;
-&lt;li&gt;Weight: 1.45 kg (3.2 lbs)&lt;/li&gt;
-&lt;li&gt;Wifi: 802.11b/g&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;its-old&#34;&gt;It&amp;rsquo;s old&amp;hellip;&lt;/h3&gt;
-&lt;p&gt;By today&amp;rsquo;s standards, it&amp;rsquo;s an old machine.
+The &lt;a href="https://www.laptopmag.com/reviews/laptops/msi-wind-u123">MSI Wind Netbook&lt;/a> belongs to Isya, and I got her permission to use it for this project.&lt;/p>
+&lt;h2 id="specifications-of-the-machine">Specifications of the Machine&lt;/h2>
+&lt;ul>
+&lt;li>Bluetooth 2.0&lt;/li>
+&lt;li>CPU: 1.66-GHZ Intel Atom N280&lt;/li>
+&lt;li>Display size: 10.2&amp;quot;&lt;/li>
+&lt;li>Graphics card: Intel GMA 950&lt;/li>
+&lt;li>Hard drive size: 80Gb&lt;/li>
+&lt;li>Hard drive speed: 5,400rpm&lt;/li>
+&lt;li>Hard drive type: SATA hard drive&lt;/li>
+&lt;li>Native resolution: 1024x600&lt;/li>
+&lt;li>Operating system (OS, default): MS Windows XP Home&lt;/li>
+&lt;li>Ports (excluding USB): VGA, Microphone, Headphone, Ethernet&lt;/li>
+&lt;li>RAM: 2Gb&lt;/li>
+&lt;li>Weight: 1.45 kg (3.2 lbs)&lt;/li>
+&lt;li>Wifi: 802.11b/g&lt;/li>
+&lt;/ul>
+&lt;h3 id="its-old">It&amp;rsquo;s old&amp;hellip;&lt;/h3>
+&lt;p>By today&amp;rsquo;s standards, it&amp;rsquo;s an old machine.
 If the numbers don&amp;rsquo;t make sense to you, just look at the OS:
-it shipped with Windows XP!&lt;/p&gt;
-&lt;p&gt;Back in the day, Windows XP received many praises for its performance.
-These days, though, it&amp;rsquo;s vulnerable to a lot of cyberattacks, more so that &lt;a href=&#34;www.microsoft.com/en-us/microsoft-365/windows/end-of-windows-xp-support&#34;&gt;Microsoft has stopped supporting it since 2014&lt;/a&gt;.
+it shipped with Windows XP!&lt;/p>
+&lt;p>Back in the day, Windows XP received many praises for its performance.
+These days, though, it&amp;rsquo;s vulnerable to a lot of cyberattacks, more so that &lt;a href="www.microsoft.com/en-us/microsoft-365/windows/end-of-windows-xp-support">Microsoft has stopped supporting it since 2014&lt;/a>.
 And yet, some institutions still use it.
-If their computers are connected to the Internet, they are exposed to black hat hackers.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/msi-wind.jpeg&#34;
-         alt=&#34;screenshot of the laptop&amp;#39;s system properties&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;And now, a crappy photo of the laptop&amp;rsquo;s system properties&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;-but-works-fine&#34;&gt;&amp;hellip; but works fine.&lt;/h3&gt;
-&lt;p&gt;Just because it&amp;rsquo;s old doesn&amp;rsquo;t mean it&amp;rsquo;s no longer valuable.
+If their computers are connected to the Internet,
+they are exposed to black hat hackers.&lt;/p>
+&lt;figure>&lt;img src="https://ohio.araw.xyz/image/msi-wind.jpeg"
+alt="screenshot of the laptop&amp;#39;s system properties"/>&lt;figcaption>
+&lt;p>And now, a crappy photo of the laptop&amp;rsquo;s system properties&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="-but-works-fine">&amp;hellip; but works fine.&lt;/h3>
+&lt;p>Just because it&amp;rsquo;s old doesn&amp;rsquo;t mean it&amp;rsquo;s no longer valuable.
 For its age, its quick to boot up.
-It would likely improve if and when the hard drive is replaced with a solid state drive, although, doing so is really unnecessary.&lt;/p&gt;
-&lt;p&gt;In its current state, it &amp;ldquo;runs out of breath&amp;rdquo; trying to run modern applications with its very limiting hardware.&lt;/p&gt;
-&lt;p&gt;The next best thing is to refurbish it into something that isn&amp;rsquo;t resource intensive.
-This project will also be a learning process for me on how to manage my own small server.&lt;/p&gt;
-&lt;h2 id=&#34;a-suitable-operating-system&#34;&gt;A suitable operating system&lt;/h2&gt;
-&lt;p&gt;To many system administrators (sysadmin), a suitable operating system (OS) could mean many different things.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m no sysadmin by profession, so the OS I want running in this homebrew server shall be stable, requires minimal maintenance, and is (relatively) easy to set up.&lt;/p&gt;
-&lt;p&gt;It shouldn&amp;rsquo;t require much effort, knowing that my use case&amp;mdash;serving static files of small personal website&amp;mdash;is simple enough.&lt;/p&gt;
-&lt;p&gt;At the moment, I&amp;rsquo;m considering these two OS, because they still have support for 32-bit architectures (which this laptop has), and meet my requirements above:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.debian.org&#34;&gt;Debian&lt;/a&gt; (GNU+Linux)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openbsd.org&#34;&gt;OpenBSD&lt;/a&gt; (BSD)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I also have experience in using both, albeit in a 64-bit architecture.&lt;/p&gt;
-&lt;h3 id=&#34;using-openbsd-as-a-server&#34;&gt;Using OpenBSD as a server&lt;/h3&gt;
-&lt;p&gt;OpenBSD is a fully functional, Unix-like OS based on Berkeley Networking Release 2 (Net/2) and 4.4BSD-Lite.&lt;/p&gt;
-&lt;p&gt;For now, I choose OpenBSD as a server because it&amp;rsquo;s simpler to set up.
-As a result of its simplicity, it&amp;rsquo;s also hailed as one of the most secure OS out there.&lt;/p&gt;
-&lt;p&gt;Before anything else, a disclaimer:
-While I&amp;rsquo;ll do my best to update this document, assume that the most recent documentation there is can be found over at the &lt;a href=&#34;https://openbsd.org&#34;&gt;OpenBSD website&lt;/a&gt;.
-Their &lt;a href=&#34;https://man.openbsd.org&#34;&gt;manual pages&lt;/a&gt; contain the details needed to operate a machine running on OpenBSD, and is entirely available offline on a base install.&lt;/p&gt;
-&lt;h2 id=&#34;installing-openbsd-on-bare-metal&#34;&gt;Installing OpenBSD on bare metal&lt;/h2&gt;
-&lt;p&gt;If you&amp;rsquo;re new to the system, I highly recommend to go over the &lt;a href=&#34;https://www.openbsd.org/faq/faq4.html&#34;&gt;OpenBSD FAQ - Installation Guide&lt;/a&gt; at least once.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m downloading the image from a Debian-based system, through the terminal, so most of the commands here are based on that.&lt;/p&gt;
-&lt;h3 id=&#34;1-download-the-installer&#34;&gt;1. Download the installer&lt;/h3&gt;
-&lt;p&gt;There are mirrors&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; from which you can download the installer.
-They are found &lt;a href=&#34;https://www.openbsd.org/ftp.html&#34;&gt;here&lt;/a&gt;.
-Always choose the one nearest your location to reduce download time.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.8/i386/install68.img
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;2-create-install-media-in-flash-drive&#34;&gt;2. Create Install Media in Flash Drive&lt;/h3&gt;
-&lt;p&gt;Plug in the USB stick.
-The following command assumes that the disk is recognized as &lt;code&gt;sdc1&lt;/code&gt;.
-Check with &lt;code&gt;dmesg&lt;/code&gt;, &lt;code&gt;df -h&lt;/code&gt;, or &lt;code&gt;lsblk&lt;/code&gt; commands, as root if need be.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo dd &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;install*.img of&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/dev/sdc1 bs&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;1M
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;dd&lt;/code&gt; utility copies the standard input &lt;code&gt;if&lt;/code&gt; (or input file) to the standard output &lt;code&gt;of&lt;/code&gt; (or output file, which, in this case, is the USB drive).
-&lt;code&gt;bs&lt;/code&gt; stands for block size, and we set it to 1 megabyte.&lt;/p&gt;
-&lt;p&gt;In my case, the successful output is:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;450+0 records in
+It would likely improve if and when the hard drive is replaced with a solid state drive, although, doing so is really unnecessary.&lt;/p>
+&lt;p>In its current state, it &amp;ldquo;runs out of breath&amp;rdquo; trying to run modern applications with its very limiting hardware.&lt;/p>
+&lt;p>The next best thing is to refurbish it into something that isn&amp;rsquo;t resource intensive.
+This project will also be a learning process for me on how to manage my own small server.&lt;/p>
+&lt;h2 id="a-suitable-operating-system">A suitable operating system&lt;/h2>
+&lt;p>To many system administrators (sysadmin), a suitable operating system (OS) could mean many different things.&lt;/p>
+&lt;p>I&amp;rsquo;m no sysadmin by profession, so the OS I want running in this homebrew server shall be stable, requires minimal maintenance, and is (relatively) easy to set up.&lt;/p>
+&lt;p>It shouldn&amp;rsquo;t require much effort,
+knowing that my use case&amp;mdash;serving static files of small personal website&amp;mdash;is simple enough.&lt;/p>
+&lt;p>At the moment, I have considered these two OS,
+because they still have support for 32-bit architecture
+(which this laptop has), and meet my requirements above:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.debian.org">Debian&lt;/a> (GNU+Linux)&lt;/li>
+&lt;li>&lt;a href="https://www.openbsd.org">OpenBSD&lt;/a> (BSD)&lt;/li>
+&lt;/ul>
+&lt;p>I also have experience in using both, albeit in a 64-bit architecture.&lt;/p>
+&lt;h3 id="using-openbsd-as-a-server">Using OpenBSD as a server&lt;/h3>
+&lt;p>OpenBSD is a fully functional, Unix-like OS based on Berkeley Networking Release 2 (Net/2) and 4.4BSD-Lite.&lt;/p>
+&lt;p>For now, I choose OpenBSD as a server because it&amp;rsquo;s simpler to set up.
+As a result of its simplicity, it&amp;rsquo;s also hailed as one of the most secure OS out there.&lt;/p>
+&lt;p>Before anything else, a disclaimer:
+While I&amp;rsquo;ll do my best to update this document, assume that the most recent documentation there is can be found over at the &lt;a href="https://openbsd.org">OpenBSD website&lt;/a>.
+Their &lt;a href="https://man.openbsd.org">manual pages&lt;/a> contain the details needed to operate a machine running on OpenBSD, and is entirely available offline on a base install.&lt;/p>
+&lt;h2 id="installing-openbsd-on-bare-metal">Installing OpenBSD on bare metal&lt;/h2>
+&lt;p>If you&amp;rsquo;re new to the system, I highly recommend to go over the &lt;a href="https://www.openbsd.org/faq/faq4.html">OpenBSD FAQ - Installation Guide&lt;/a> at least once.&lt;/p>
+&lt;p>I downloaded the image from a Debian-based system, through the terminal, so most of the commands here are based on that.&lt;/p>
+&lt;h3 id="1-download-the-installer">1. Download the installer&lt;/h3>
+&lt;p>There are mirrors&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> from which to download the installer.
+They are found &lt;a href="https://www.openbsd.org/ftp.html">here&lt;/a>.
+I chose the nearest location to reduce download time.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.9/i386/install69.img
+&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="2-create-install-media-in-flash-drive">2. Create Install Media in Flash Drive&lt;/h3>
+&lt;p>Plug in the USB stick.
+The following command assumes that the disk is recognized as &lt;code>sdc1&lt;/code>.
+Check with &lt;code>dmesg&lt;/code>, &lt;code>df -h&lt;/code>, or &lt;code>lsblk&lt;/code> commands, as root if need be.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">sudo dd &lt;span style="color:#66d9ef">if&lt;/span>&lt;span style="color:#f92672">=&lt;/span>install*.img of&lt;span style="color:#f92672">=&lt;/span>/dev/sdc1 bs&lt;span style="color:#f92672">=&lt;/span>1M
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>The &lt;code>dd&lt;/code> utility copies the standard input &lt;code>if&lt;/code> (or input file) to the standard output &lt;code>of&lt;/code> (or output file, which, in this case, is the USB drive).
+&lt;code>bs&lt;/code> stands for block size, and we set it to 1 megabyte.&lt;/p>
+&lt;p>In my case, the successful output is:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">450+0 records in
 450+0 records out
-&lt;span style=&#34;color:#ae81ff&#34;&gt;471859200&lt;/span&gt; bytes &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;472&lt;/span&gt; MB, &lt;span style=&#34;color:#ae81ff&#34;&gt;450&lt;/span&gt; MiB&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; copied, 31.9492 s, 14.8 MB/s
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;3-proceed-with-the-installation&#34;&gt;3. Proceed with the Installation.&lt;/h3&gt;
-&lt;p&gt;Insert the USB drive into the machine.
-Boot from the USB drive.&lt;/p&gt;
-&lt;p&gt;On the prompt, select **(i)**nstall and answer the questions.&lt;/p&gt;
-&lt;p&gt;The default answers are sane.
-Most of my choices are the default ones.
-Yours may differ.&lt;/p&gt;
-&lt;p&gt;Below is an incomplete list of questions during the installation, that I put here to remind my FutureSelf of the choice I made:&lt;/p&gt;
-&lt;p&gt;DNS domain name? &lt;strong&gt;araw.xyz&lt;/strong&gt;&lt;br&gt;
-Do you want the X Window System to be started by xenodm(1)? &lt;strong&gt;no&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt;&lt;br&gt;
-Which disk contains the install media? &lt;strong&gt;sd0&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/strong&gt;&lt;br&gt;
-Directory does not contain SHA256.sig. Continue without verification? &lt;strong&gt;yes&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Reboot after installation.&lt;/p&gt;
-&lt;p&gt;Then login as root.&lt;/p&gt;
-&lt;h4 id=&#34;enable-apmd8&#34;&gt;Enable &lt;code&gt;apmd(8)&lt;/code&gt;&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;rcctl enable apmd
-rcctl set apmd flags -a -z &lt;span style=&#34;color:#ae81ff&#34;&gt;7&lt;/span&gt;
+&lt;span style="color:#ae81ff">471859200&lt;/span> bytes &lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#ae81ff">472&lt;/span> MB, &lt;span style="color:#ae81ff">450&lt;/span> MiB&lt;span style="color:#f92672">)&lt;/span> copied, 31.9492 s, 14.8 MB/s
+&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="3-proceed-with-the-installation">3. Proceed with the Installation.&lt;/h3>
+&lt;p>Insert the USB drive into the machine.
+Boot from the USB drive.&lt;/p>
+&lt;p>On the prompt, select **(i)**nstall and answer the questions.&lt;/p>
+&lt;p>The default answers are sane.
+Most of my choices are the default ones.&lt;/p>
+&lt;p>Below is an incomplete list of questions during the installation,
+that I put here to remind my FutureSelf of the choice I made:&lt;/p>
+&lt;p>DNS domain name? &lt;strong>araw.xyz&lt;/strong>&lt;br>
+Do you want the X Window System to be started by xenodm(1)? &lt;strong>no&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/strong>&lt;br>
+Which disk contains the install media? &lt;strong>sd0&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/strong>&lt;br>
+Directory does not contain SHA256.sig. Continue without verification? &lt;strong>yes&lt;/strong>&lt;/p>
+&lt;p>Reboot after installation.&lt;/p>
+&lt;p>Then login as root.&lt;/p>
+&lt;h4 id="enable-apmd8">Enable &lt;code>apmd(8)&lt;/code>&lt;/h4>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">rcctl enable apmd
+rcctl set apmd flags -a -z &lt;span style="color:#ae81ff">7&lt;/span>
 rcctl start apmd
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;add-username-to-etcdoasconf&#34;&gt;Add username to &lt;code&gt;/etc/doas.conf&lt;/code&gt;&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;permit yourUserName&amp;#39;&lt;/span&gt; &amp;gt; /etc/doas.conf
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Reboot to make the changes.&lt;/p&gt;
-&lt;h3 id=&#34;set-up-wi-fi-and-ethernet-networks&#34;&gt;Set up wi-fi and ethernet networks&lt;/h3&gt;
-&lt;p&gt;Before doing anything else, we need to make sure that we are connected to the internet.
-This is to update any firmwares (using &lt;code&gt;fw_update&lt;/code&gt;) and patches (using &lt;code&gt;syspatch&lt;/code&gt;).&lt;/p&gt;
-&lt;p&gt;If for some reason, you can&amp;rsquo;t connect to the internet, there&amp;rsquo;s still a way to install the needed firmwares, which will be discussed below.&lt;/p&gt;
-&lt;h4 id=&#34;ethernet&#34;&gt;Ethernet&lt;/h4&gt;
-&lt;p&gt;Most OpenBSD developers would tell you to use ethernet when you have it.
-It&amp;rsquo;s reliable and secure.&lt;/p&gt;
-&lt;p&gt;Network interfaces are named by taking the shorthand version of the network card.&lt;/p&gt;
-&lt;p&gt;This laptop has &lt;code&gt;re(4)&lt;/code&gt;, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/Gigabit Ethernet device.&lt;/p&gt;
-&lt;p&gt;To set it up, create a file &lt;code&gt;/etc/hostname.re0&lt;/code&gt; using vi&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;, and put these two lines in:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;dhcp
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="https://man.openbsd.org/apmd">&lt;code>apmd&lt;/code>&lt;/a> is Advanced Power Management Daemon.&lt;br>
+&lt;code>-a&lt;/code> option means BIOS-initiated suspend or standby requests are ignored if the system is connected to line current (plugged) and not running from batteries.&lt;br>
+&lt;code>-z&lt;/code> option means to automatically &lt;em>suspend&lt;/em> the system if no AC is connected and the estimated battery life is equal or below &lt;code>7&lt;/code> percent.&lt;/p>
+&lt;h4 id="add-username-to-etcdoasconf">Add username to &lt;code>/etc/doas.conf&lt;/code>&lt;/h4>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">echo &lt;span style="color:#e6db74">&amp;#39;permit yourUserName&amp;#39;&lt;/span> &amp;gt; /etc/doas.conf
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Reboot to make the changes.&lt;/p>
+&lt;h3 id="set-up-wi-fi-and-ethernet-networks">Set up wi-fi and ethernet networks&lt;/h3>
+&lt;p>Before doing anything else, it&amp;rsquo;s important to be connected to the internet.
+This is to update any firmwares (using &lt;code>fw_update&lt;/code>) and patches (using &lt;code>syspatch&lt;/code>).&lt;/p>
+&lt;h4 id="ethernet">Ethernet&lt;/h4>
+&lt;p>Most OpenBSD developers recommend using ethernet if it&amp;rsquo;s available.
+It&amp;rsquo;s reliable and secure.&lt;/p>
+&lt;p>Network interfaces are named by taking the shorthand version of the network card.&lt;/p>
+&lt;p>This laptop has &lt;code>re(4)&lt;/code>, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/Gigabit Ethernet device.&lt;/p>
+&lt;p>To set it up, I created a file &lt;code>/etc/hostname.re0&lt;/code> using vi&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>, and put these two lines in:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">dhcp
 up
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make the file &lt;code&gt;/etc/hostname.re0&lt;/code&gt; belong to the &lt;code&gt;root&lt;/code&gt; (the super user) and &lt;code&gt;wheel&lt;/code&gt;, and to set the necessary permissions, enter these commands as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chown root:wheel /etc/hostname.re0
-chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;0640&lt;/span&gt; /etc/hostname.re0
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Activate the ethernet connection by entering this as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sh /etc/netstart
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If successful, it&amp;rsquo;s possible now to update the firmwares, so you can use, among other things, the wifi.
-Enter as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;fw_update
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;wi-fi&#34;&gt;Wi-fi&lt;/h4&gt;
-&lt;p&gt;This laptop has wi-fi capabilities, but isn&amp;rsquo;t immediately compatible due to firmware issues.
-As just mentioned, firmware can be updated by &lt;code&gt;fw_update&lt;/code&gt; if you&amp;rsquo;re already connected to the internet via ethernet.
-But if that&amp;rsquo;s unsuccessful for some reason, skip to the next section to get the firmware updates.&lt;/p&gt;
-&lt;p&gt;This laptop has &lt;code&gt;ath(4)&lt;/code&gt;, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.&lt;/p&gt;
-&lt;p&gt;To set up the wifi, create a file &lt;code&gt;etc/hostname.athn0&lt;/code&gt; as root and input these following lines:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;nwid myHomeWiFi wpakey p@s&amp;amp;w0rD
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>To make the file &lt;code>/etc/hostname.re0&lt;/code> belong to the &lt;code>root&lt;/code> (the super user) and &lt;code>wheel&lt;/code>, and to set the necessary permissions, I entered these commands as root:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">chown root:wheel /etc/hostname.re0
+chmod &lt;span style="color:#ae81ff">0640&lt;/span> /etc/hostname.re0
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Activate the ethernet connection by entering this as root:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">sh /etc/netstart
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>If successful, it&amp;rsquo;s possible now to update the firmwares.
+Enter as root:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">fw_update
+&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="wi-fi">Wi-fi&lt;/h4>
+&lt;p>This laptop has wi-fi capabilities, but isn&amp;rsquo;t immediately compatible due to firmware issues.
+As mentioned, firmware can be updated by &lt;code>fw_update&lt;/code> if ethernet connection was successful.
+Otherwise, skip to the next section to get the firmware updates.&lt;/p>
+&lt;p>This laptop has &lt;code>ath(4)&lt;/code>, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.&lt;/p>
+&lt;p>To set up the wifi, I created a file &lt;code>/etc/hostname.athn0&lt;/code> as root and input these following lines:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">nwid myHomeWiFi wpakey p@s&amp;amp;w0rD
 dhcp
 up
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Like with the ethernet, specify that the file belongs to &lt;code&gt;root&lt;/code&gt; and &lt;code&gt;wheel&lt;/code&gt;, set the permissions, and activate the connection by entering the following lines, as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chown root:wheel /etc/hostname.athn0
-chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;0640&lt;/span&gt; /etc/hostname.athn0
-
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Like with the ethernet, specify that the file belongs to &lt;code>root&lt;/code> and &lt;code>wheel&lt;/code>, set the permissions, and activate the connection by entering the following lines, as root:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">chown root:wheel /etc/hostname.athn0
+chmod &lt;span style="color:#ae81ff">0640&lt;/span> /etc/hostname.athn0
 sh /etc/netstart
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;installing-the-needed-firmware-from-another-device&#34;&gt;Installing the needed firmware (from another device)&lt;/h4&gt;
-&lt;p&gt;Not everything might work as expected.
+&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="installing-the-needed-firmware-from-another-device">Installing the needed firmware (from another device)&lt;/h4>
+&lt;p>Not everything might work as expected.
 Ethernet might not work out of the box.
 Wi-fi is unlikely to work, too, if the firmwares aren&amp;rsquo;t updated.
 If you find yourself in this situation, there&amp;rsquo;s another solution:
-get the firmware files from another computer that&amp;rsquo;s connected to the internet.&lt;/p&gt;
-&lt;p&gt;Then:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;On your OpenBSD machine, list the needed firmware.
-&lt;code&gt;fw_update&lt;/code&gt; will determine this (you must be root).
-In this laptop, the firmwares needed are &lt;code&gt;intel-firmware&lt;/code&gt;, &lt;code&gt;athn-firmware&lt;/code&gt;, and &lt;code&gt;inteldrm-firmware&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;On the other device (the one connected to the internet), go to &lt;a href=&#34;http://firmware.openbsd.org&#34;&gt;http://firmware.openbsd.org&lt;/a&gt; and select the version you are installing.
-Download the firmware files in your list to a USB drive &lt;strong&gt;formatted as FAT32&lt;/strong&gt;.
+get the firmware files from another computer that&amp;rsquo;s connected to the internet.&lt;/p>
+&lt;p>Then:&lt;/p>
+&lt;ol>
+&lt;li>On your OpenBSD machine, &lt;code>fw_update&lt;/code> will determine the firmwares needed which are:
+&lt;ul>
+&lt;li>&lt;code>intel-firmware&lt;/code>&lt;/li>
+&lt;li>&lt;code>athn-firmware&lt;/code>&lt;/li>
+&lt;li>&lt;code>inteldrm-firmware&lt;/code>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>On the other device (the one connected to the internet), I downloaded the firmwared files from &lt;a href="http://firmware.openbsd.org">http://firmware.openbsd.org&lt;/a>.
+However, the USB drive to which I would save these must be &lt;strong>formatted as FAT32&lt;/strong>.
 (OpenBSD can&amp;rsquo;t natively read ext4 or NTFS partitions.)
-&lt;ol&gt;
-&lt;li&gt;There are different ways you can format a USB drive to FAT32, depending on the platform you&amp;rsquo;re doing the formatting on.
-If you&amp;rsquo;re on a Debian-based system like I am, install the &lt;em&gt;dosfstools&lt;/em&gt;.
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install dosfstools
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;Locate your USB drive by running this in terminal:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;lsblk
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In my case, it&amp;rsquo;s &lt;code&gt;/dev/sdc&lt;/code&gt; .&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;Unmount the USB drive, because we can&amp;rsquo;t format it when mounted:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo umount /dev/sdc
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;Create a new partition table, which we will determine to be &lt;code&gt;msdos&lt;/code&gt;.
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script -- mklabel msdos
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;Specify that the whole drive must be of FAT32 file system, primary partition type:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;Format the drive to FAT32:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo mkfs.fat -F &lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt; -I /dev/sdc
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;li&gt;(Optional) Check if your device has been partitioned correctly:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script print
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Insert the USB drive to the OpenBSD machine.
-As root, enter &lt;code&gt;diskutil list&lt;/code&gt;.
-Your USB drive will appear to have several partitions, e.g. sd1c.&lt;/li&gt;
-&lt;li&gt;Create a mount point under /mnt (as root):
-&lt;code&gt;shell mkdir /mnt/usb&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Mount the USB (as root):
-&lt;code&gt;shell mount /dev/sd1i /mnt/usb&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Once mounted, install the firmware manually (as root):
-&lt;code&gt;shell fw_update -p /mnt/usb&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Reboot&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;optional-things&#34;&gt;Optional things&lt;/h3&gt;
-&lt;p&gt;In this laptop, I&amp;rsquo;m going install several binaries from the ports, namely &lt;strong&gt;git&lt;/strong&gt; (version control system), and &lt;strong&gt;neovim&lt;/strong&gt; (text editor).
-To install in one go, enter as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;pkg_add git neovim 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;web-server-on-openbsd&#34;&gt;Web Server on OpenBSD&lt;/h2&gt;
-&lt;p&gt;Now we&amp;rsquo;re at the heart of this project:
+&lt;ol>
+&lt;li>There are different ways to format a USB drive to FAT32, depending on the platform you&amp;rsquo;re doing the formatting on.
+In my Debian-like system, I installed &lt;code>dosfstools&lt;/code>.
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">sudo apt install dosfstools
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>I plugged in and located the USB drive by running this in terminal:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">lsblk
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>In my case, it&amp;rsquo;s &lt;code>/dev/sdc&lt;/code> .&lt;/p>
+&lt;/li>
+&lt;li>Unmount the USB drive, because it can&amp;rsquo;t be formatted when mounted:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">sudo umount /dev/sdc
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>I created a new partition table, which will be &lt;code>msdos&lt;/code>.
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">sudo parted /dev/sdc --script -- mklabel msdos
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>I specified that the whole drive must be of FAT32 file system, primary partition type:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Format the drive to FAT32:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">sudo mkfs.fat -F &lt;span style="color:#ae81ff">32&lt;/span> -I /dev/sdc
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>(Optional) To check if the device has been partitioned correctly:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">sudo parted /dev/sdc --script print
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Insert the USB drive that has now the firmware files to the OpenBSD machine.
+As root, enter &lt;code>diskutil list&lt;/code>.
+The USB drive will appear to have several partitions, e.g. sd1c.&lt;/li>
+&lt;li>Create a mount point under /mnt (as root):
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">mkdir /mnt/usb
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Mount the USB (as root):
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">mount /dev/sd1i /mnt/usb
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Once mounted, install the firmware manually (as root):
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">fw_update -p /mnt/usb
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Reboot.&lt;/li>
+&lt;/ol>
+&lt;h3 id="optional-things">Optional things&lt;/h3>
+&lt;p>In this laptop, I&amp;rsquo;m going install several binaries from the ports, namely &lt;strong>git&lt;/strong> (version control system), and &lt;strong>neovim&lt;/strong> (text editor).
+To install in one go, enter as root:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">pkg_add git neovim
+&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="ssh-server-and-client">SSH Server and Client&lt;/h2>
+&lt;p>In order for the client to connect to the server,
+a user account must be created on the server.
+During OpenBSD install, I had already created a user.&lt;/p>
+&lt;p>Now, to set up the SSH&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup>:&lt;/p>
+&lt;h3 id="client-side">Client Side&lt;/h3>
+&lt;p>Before generating, be sure to check first whether there are any existing ones.&lt;/p>
+&lt;p>Enter &lt;code>ls -al ~/.ssh&lt;/code> to do that.
+Check the listing to see if public SSH key (sometimes referred to as &amp;ldquo;pubkey&amp;rdquo;) already exists.
+Filenames include:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>id_rsa.pub&lt;/code>&lt;/li>
+&lt;li>&lt;code>id_ecdsa.pub&lt;/code>&lt;/li>
+&lt;li>&lt;code>id_ed25519.pub&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>To generate a new key&lt;/strong>:&lt;/p>
+&lt;ol>
+&lt;li>Enter this in the terminal:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">ssh-keygen -t ed25519 -a &lt;span style="color:#ae81ff">100&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;code>-t ed25519&lt;/code> option specifies the type of key;&lt;br>
+&lt;code>-a 100&lt;/code> option specifies the number of key derivation function rounds used.&lt;/p>
+&lt;/li>
+&lt;li>Follow the prompts.
+I left the defaults as they are, but feel free to configure for your use case.&lt;/li>
+&lt;li>In order to add key, start the ssh-agent in the background.
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">eval &lt;span style="color:#e6db74">&amp;#34;&lt;/span>&lt;span style="color:#66d9ef">$(&lt;/span>ssh-agent -s&lt;span style="color:#66d9ef">)&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Add the SSH private key to the ssh-agent.
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">ssh-add ~/.ssh/id_ed25519
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>When going to the remote server using SSH, you&amp;rsquo;ll be prompted for a password everytime.
+Instead of that, we can use the SSH key.
+Copy that into the remote server:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">ssh-copy-id username@example.com
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>This will prompt you one last time for the password of the server.
+If successful, the server will no longer prompt you for password everytime you SSH into it.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="server-side-the-openbsd-machine">Server Side (the OpenBSD machine)&lt;/h3>
+&lt;p>A few tweaks are needed to make SSH a pleasant experience.&lt;/p>
+&lt;ol>
+&lt;li>Login&amp;mdash;or SSH &lt;em>into&lt;/em>&amp;mdash;the server:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">ssh username@example.com
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Edit &lt;code>/etc/ssh/sshd_config&lt;/code>:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># find PasswordAuthentication, comment it out, &lt;/span>
+&lt;span style="color:#75715e"># and turn &amp;#39;yes&amp;#39; to &amp;#39;no&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># so bad actors can&amp;#39;t login even if they know the passwd&lt;/span>
+PasswordAuthentication no
+&lt;span style="color:#75715e"># find PermitRootLogin, comment it out, &lt;/span>
+&lt;span style="color:#75715e"># and turn &amp;#39;no&amp;#39; to &amp;#39;yes&amp;#39;&lt;/span>
+&lt;span style="color:#75715e"># so rsync can access the root when syncing files&lt;/span>
+PermitRootLogin yes
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ol>
+&lt;h2 id="web-server-on-openbsd">Web Server on OpenBSD&lt;/h2>
+&lt;p>Now we&amp;rsquo;re at the heart of this project:
 to make this old laptop a working server for this site.
-Let&amp;rsquo;s start by configuring httpd, the native HTTP daemon in the OpenBSD.&lt;/p&gt;
-&lt;h3 id=&#34;configure-httpd&#34;&gt;Configure httpd&lt;/h3&gt;
-&lt;h3 id=&#34;enable-https-with-acme-client1-and-lets-encrypt&#34;&gt;Enable HTTPS with acme-client(1) and Let&amp;rsquo;s Encrypt&lt;/h3&gt;
-&lt;h3 id=&#34;add-http-security-headers-with-relayd8&#34;&gt;Add HTTP security headers with relayd(8)&lt;/h3&gt;
-&lt;h2 id=&#34;ssh-server-and-client&#34;&gt;SSH Server and Client&lt;/h2&gt;
-&lt;p&gt;In order for the client to connect to the server, a user account must be created on the server.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;It&amp;rsquo;s just a server that provides the exact copy of data from another server.
-Usually to provide a means of redundancy.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Since this is going to be a server, graphical user interface is not needed.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;The USB drive.
+Let&amp;rsquo;s start by configuring httpd, the native HTTP daemon in the OpenBSD.&lt;/p>
+&lt;h3 id="configure-httpd">Configure httpd&lt;/h3>
+&lt;h3 id="enable-https-with-acme-client1-and-lets-encrypt">Enable HTTPS with acme-client(1) and Let&amp;rsquo;s Encrypt&lt;/h3>
+&lt;h3 id="add-http-security-headers-with-relayd8">Add HTTP security headers with relayd(8)&lt;/h3>
+&lt;h2 id="other-noteworthy-inconveniences">Other Noteworthy Inconveniences&lt;/h2>
+&lt;p>In this section, I&amp;rsquo;ll discuss the obstacles that I had to go through.&lt;/p>
+&lt;h3 id="lan-ports-problem">LAN Ports problem&lt;/h3>
+&lt;p>At the time of writing, our internet service provider is PLDT Home Fibr.
+Subscription comes with an actual telephone and a router.
+The router has four LAN ports.&lt;/p>
+&lt;p>To improve the reach to the second floor of our home,
+we connected another router (Xiaomi brand) to LAN port 1.
+This second router has been working well since.&lt;/p>
+&lt;p>By default, LAN ports 2, 3, and 4 are disabled.
+I didn&amp;rsquo;t know that.
+When first setting up the ethernet connection for the OpenBSD machine,
+it wasn&amp;rsquo;t detecting anything.&lt;/p>
+&lt;p>During troubleshoot, I tried the three remaining ports with different ethernets that were available to me at the time.
+None of this approaches worked.&lt;/p>
+&lt;h3 id="takeaways">Takeaway/s&lt;/h3>
+&lt;ul>
+&lt;li>Always read the official documentations.
+In the case of OpenBSD, their man pages are superb, and is available already in the base install.
+Be patient to go through them.&lt;/li>
+&lt;li>Check with your internet service provider whether some things need to be done first, before setting up a homebrew server.&lt;/li>
+&lt;/ul>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>It&amp;rsquo;s just a server that provides the exact copy of data from another server.
+Usually to provide a means of redundancy.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>Since this is going to be a server, I don&amp;rsquo;t need graphical user interface.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>The USB drive.
 This might be different for every other machine.
-At any point during the installation, type &lt;code&gt;?&lt;/code&gt; to list the possible choices.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;vi is a text editor already present in the base install of OpenBSD.
-I&amp;rsquo;m familiar with its usage, but ultimately I&amp;rsquo;ll use (neo)vim.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>This Site: Colophon</title>
-      <link>https://ohio.araw.xyz/site/</link>
-      <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/site/</guid>
-      <description>&lt;h2 class=&#34;statusOnGoing&#34; id=&#34;status-on-going&#34;&gt;Status: On-going&lt;/h2&gt;
-&lt;p&gt;The making of this site is itself a personal project.
-Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.&lt;/p&gt;
-&lt;p&gt;The status is likely to stay &lt;strong&gt;on-going&lt;/strong&gt;;
-this site is always under construction.&lt;/p&gt;
-&lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
-&lt;p&gt;If you&amp;rsquo;ve been looking around for personal websites like I have, &amp;ldquo;digital garden&amp;rdquo; is a phrase that gets used often.&lt;/p&gt;
-&lt;p&gt;It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
+At any point during the installation, type &lt;code>?&lt;/code> to list the possible choices.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>vi is a text editor already present in the base install of OpenBSD.
+I&amp;rsquo;m familiar with it, but ultimately I&amp;rsquo;ll use (neo)vim.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5" role="doc-endnote">
+&lt;p>The SSH (secure shell) protocol uses encryption to secure the connection between a client and a server.
+All user authentication, commands, ouput, and file transfers are encrypted to protect against attacks in the network.
+For more info: &lt;a href="https://www.ssh.com">https://www.ssh.com&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>This Site: Colophon</title><link>https://ohio.araw.xyz/site/</link><pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate><guid>https://ohio.araw.xyz/site/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+&lt;p>The making of this site is itself a personal project.
+Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.&lt;/p>
+&lt;p>The status is likely to stay &lt;strong>on-going&lt;/strong>;
+this site is always under construction.&lt;/p>
+&lt;h2 id="digital-garden">Digital Garden&lt;/h2>
+&lt;p>If you&amp;rsquo;ve been looking around for personal websites like I have, &amp;ldquo;digital garden&amp;rdquo; is a phrase that gets used often.&lt;/p>
+&lt;p>It is where webmasters carefully plant the seeds of ideas, and hope to grow them sustainably.
 It&amp;rsquo;s a more endearing term, I believe, than, say, a public-facing journal or simply blog.
-They all function the same.&lt;/p&gt;
-&lt;p&gt;This site, then, is my digital garden.
-Expect that things will be corrected, deleted, edited, fed, &lt;em&gt;grown&lt;/em&gt;, depending on any number of factors, including the current state of things.
-People change&amp;mdash;they need to, lest they stagnate&amp;mdash;and every fiber of their being changes with them, literally.&lt;/p&gt;
-&lt;h3 id=&#34;public-repository-of-independent-research&#34;&gt;Public Repository of Independent Research&lt;/h3&gt;
-&lt;p&gt;Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all.
+They all function the same.&lt;/p>
+&lt;p>This site, then, is my digital garden.
+Expect that things will be corrected, deleted, edited, fed, &lt;em>grown&lt;/em>, depending on any number of factors, including the current state of things.
+People change&amp;mdash;they need to, lest they stagnate&amp;mdash;and every fiber of their being changes with them, literally.&lt;/p>
+&lt;h3 id="public-repository-of-independent-research">Public Repository of Independent Research&lt;/h3>
+&lt;p>Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all.
 Research, in this context, will be very different from that within academia.
 This &amp;ldquo;progressive&amp;rdquo; route bypasses the traditional way to earn a post-graduate degree.
-After reading &lt;a href=&#34;https://nadiaeghbal.com&#34;&gt;Nadia Eghbal&lt;/a&gt;&amp;rsquo;s post, &amp;ldquo;&lt;a href=&#34;https://nadiaeghbal.com/phd&#34;&gt;Reimagining the PhD&lt;/a&gt;,&amp;rdquo; I&amp;rsquo;m now more inclined to do this.&lt;/p&gt;
-&lt;p&gt;I can&amp;rsquo;t also imagine spending at least three years getting a master&amp;rsquo;s degree, holding on to the fact that it&amp;rsquo;s &amp;ldquo;necessary&amp;rdquo; to further my career.
-I am, more or less, happy with the opportunity cost of not dealing with it.&lt;/p&gt;
-&lt;p&gt;Instead of going through the application process for post-graduate studies, may I now enlist you, Dear Public, as my peer reviewer?
-I hope you don&amp;rsquo;t mind.&lt;/p&gt;
-&lt;p&gt;I never liked receiving rejection emails, but I get that they&amp;rsquo;re needed, in that they let me know that I can go on with other applications.&lt;/p&gt;
-&lt;p&gt;At least, through this site, I (hopefully) wouldn&amp;rsquo;t be receiving (unsolicited) rejection letters from anyone.&lt;/p&gt;
-&lt;p&gt;Finally, having the public as my peer reviewer, I think, opens interesting avenues for the stakeholders (me and the public).
+After reading &lt;a href="https://nadiaeghbal.com">Nadia Eghbal&lt;/a>&amp;rsquo;s post, &amp;ldquo;&lt;a href="https://nadiaeghbal.com/phd">Reimagining the PhD&lt;/a>,&amp;rdquo; I&amp;rsquo;m now more inclined to do this.&lt;/p>
+&lt;p>I can&amp;rsquo;t also imagine spending at least three years getting a master&amp;rsquo;s degree, holding on to the fact that it&amp;rsquo;s &amp;ldquo;necessary&amp;rdquo; to further my career.
+I am, more or less, happy with the opportunity cost of not dealing with it.&lt;/p>
+&lt;p>Instead of going through the application process for post-graduate studies, may I now enlist you, Dear Public, as my peer reviewer?
+I hope you don&amp;rsquo;t mind.&lt;/p>
+&lt;p>I never liked receiving rejection emails, but I get that they&amp;rsquo;re needed, in that they let me know that I can go on with other applications.&lt;/p>
+&lt;p>At least, through this site, I (hopefully) wouldn&amp;rsquo;t be receiving (unsolicited) rejection letters from anyone.&lt;/p>
+&lt;p>Finally, having the public as my peer reviewer, I think, opens interesting avenues for the stakeholders (me and the public).
 There will always be people smarter than me.
-Hopefully, I can pull some of their attention here to share their insights someday.&lt;/p&gt;
-&lt;p&gt;In this online space, let&amp;rsquo;s assume that nothing is set to stone.
+Hopefully, I can pull some of their attention here to share their insights someday.&lt;/p>
+&lt;p>In this online space, let&amp;rsquo;s assume that nothing is set to stone.
 Through editing, I&amp;rsquo;m able to improve a body of content.
-I can learn by doing, and sharing the entire process with you as I go.&lt;/p&gt;
-&lt;h3 id=&#34;major-sections&#34;&gt;Major Sections&lt;/h3&gt;
-&lt;p&gt;This site is divided into two main sections: &lt;strong&gt;Log&lt;/strong&gt; and &lt;strong&gt;Projects&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The Log, more than anything else, is a changelog of what has evolved since the last update.
+I can learn by doing, and sharing the entire process with you as I go.&lt;/p>
+&lt;h3 id="major-sections">Major Sections&lt;/h3>
+&lt;p>This site is divided into two main sections: &lt;strong>Log&lt;/strong> and &lt;strong>Projects&lt;/strong>.&lt;/p>
+&lt;p>The Log, more than anything else, is a changelog of what has evolved since the last update.
 It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects.
 Each Log will start with a changelog.
-After that, I&amp;rsquo;ll try to incorporate some personal skits, in an attempt to add character.&lt;/p&gt;
-&lt;p&gt;The Projects is a list of the thing/s I&amp;rsquo;m currently pursuing.
+After that, I&amp;rsquo;ll try to incorporate some personal skits, in an attempt to add character.&lt;/p>
+&lt;p>The Projects is a list of the thing/s I&amp;rsquo;m currently pursuing.
 Each one begins with Table of Contents (ToC), so that readers will have an overview of the topics ahead.
 Readers can click each topic in the ToC if they feel like jumping to that part already.
 The write-ups will be a healthy blend of creative and technical writing, to prevent you from getting bored, something I won&amp;rsquo;t afford to do in a formal setting.
-Of course, I&amp;rsquo;ll include citations properly.&lt;/p&gt;
-&lt;p&gt;The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes anyway), is a whole separate thing.
+Of course, I&amp;rsquo;ll include citations properly.&lt;/p>
+&lt;p>The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes anyway), is a whole separate thing.
 I don&amp;rsquo;t consider it a section of this site, though.
-It&amp;rsquo;s only a link that you can copy and paste on your favorite RSS reader.&lt;/p&gt;
-&lt;p&gt;A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
-A web service is available along these lines: check out &lt;a href=&#34;https://rssby.email&#34;&gt;RSS by email&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;BONUS: If you&amp;rsquo;re like me, then you&amp;rsquo;re already a fan of RSS.
-For the newsletters that you&amp;rsquo;d like to subscribe to &lt;em&gt;and&lt;/em&gt; access them in your RSS reader (NOT on your email), you may want to look into &lt;a href=&#34;https://kill-the-newsletter.com/&#34;&gt;Kill the Newsletter&lt;/a&gt; service.&lt;/p&gt;
-&lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
-&lt;p&gt;As you are well aware, this site&amp;rsquo;s design borders on brutalism.
+It&amp;rsquo;s only a link that you can copy and paste on your favorite RSS reader.&lt;/p>
+&lt;p>A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
+A web service is available along these lines: check out &lt;a href="https://rssby.email">RSS by email&lt;/a>.&lt;/p>
+&lt;p>BONUS: If you&amp;rsquo;re like me, then you&amp;rsquo;re already a fan of RSS.
+For the newsletters that you&amp;rsquo;d like to subscribe to &lt;em>and&lt;/em> access them in your RSS reader (NOT on your email), you may want to look into &lt;a href="https://kill-the-newsletter.com/">Kill the Newsletter&lt;/a> service.&lt;/p>
+&lt;h2 id="front-end">Front-end&lt;/h2>
+&lt;p>As you are well aware, this site&amp;rsquo;s design borders on brutalism.
 Admittedly, it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and none of JavaScript.
-It turns out that this is a feature, not a bug, for static websites anyway.&lt;/p&gt;
-&lt;p&gt;By foregoing intricate UI/UX design, I can focus on what matters most: &lt;em&gt;content&lt;/em&gt;.
-Let me explain.&lt;/p&gt;
-&lt;p&gt;By simplifying the design, I&amp;rsquo;m making this site less bloated.
-This means that:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;&lt;/li&gt;
-&lt;li&gt;locations with poor internet connectivity can still browse the content;&lt;/li&gt;
-&lt;li&gt;I can also improve this site&amp;rsquo;s accessibility by improving layout, among many other things;&lt;/li&gt;
-&lt;li&gt;the site loads fast because of no tracking, no custom fonts; and,&lt;/li&gt;
-&lt;li&gt;no distractions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I consider these points important as they all relate to my current situation.
-In fact, websites should be guided by these principles.&lt;/p&gt;
-&lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
-&lt;p&gt;Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are &lt;em&gt;external links&lt;/em&gt;, i.e. links that take the visitor out of this website.&lt;/p&gt;
-&lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;ohio.araw.xyz&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Here is a sample CSS code block implementing that:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;{
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;; 
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;green&lt;/span&gt;;
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inline&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;block&lt;/span&gt;;
+It turns out that this is a feature, not a bug, for static websites anyway.&lt;/p>
+&lt;p>By foregoing intricate UI/UX design, I can focus on what matters most: &lt;em>content&lt;/em>.
+Let me explain.&lt;/p>
+&lt;p>By simplifying the design, I&amp;rsquo;m making this site less bloated.
+This means that:&lt;/p>
+&lt;ul>
+&lt;li>low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;&lt;/li>
+&lt;li>locations with poor internet connectivity can still browse the content;&lt;/li>
+&lt;li>I can also improve this site&amp;rsquo;s accessibility by improving layout, among many other things;&lt;/li>
+&lt;li>the site loads fast because of no tracking, no custom fonts; and,&lt;/li>
+&lt;li>no distractions.&lt;/li>
+&lt;/ul>
+&lt;p>I consider these points important as they all relate to my current situation.
+In fact, websites should be guided by these principles.&lt;/p>
+&lt;h3 id="link-management">Link Management&lt;/h3>
+&lt;p>Links in this site that have a greenish northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code>\2197&lt;/code>&amp;rdquo; in CSS) right after them are &lt;em>external links&lt;/em>, i.e. links that take the visitor out of this website.&lt;/p>
+&lt;p>In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code>ohio.araw.xyz&lt;/code>.&lt;/p>
+&lt;p>Here is a sample CSS code block implementing that:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-css" data-lang="css">&lt;span style="color:#f92672">a&lt;/span>&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#f92672">href&lt;/span>&lt;span style="color:#f92672">^=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;http://&amp;#34;&lt;/span>&lt;span style="color:#f92672">]&lt;/span>:&lt;span style="color:#a6e22e">not&lt;/span>&lt;span style="color:#f92672">([&lt;/span>&lt;span style="color:#f92672">href&lt;/span>&lt;span style="color:#f92672">*=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span>&lt;span style="color:#f92672">])&lt;/span>:&lt;span style="color:#a6e22e">after&lt;/span>&lt;span style="color:#f92672">,&lt;/span>
+&lt;span style="color:#f92672">a&lt;/span>&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#f92672">href&lt;/span>&lt;span style="color:#f92672">^=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://&amp;#34;&lt;/span>&lt;span style="color:#f92672">]&lt;/span>:&lt;span style="color:#a6e22e">not&lt;/span>&lt;span style="color:#f92672">([&lt;/span>&lt;span style="color:#f92672">href&lt;/span>&lt;span style="color:#f92672">*=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span>&lt;span style="color:#f92672">])&lt;/span>:&lt;span style="color:#a6e22e">after&lt;/span>{
+&lt;span style="color:#66d9ef">content&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;\2917&amp;#34;&lt;/span>;
+&lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#66d9ef">green&lt;/span>;
+&lt;span style="color:#66d9ef">display&lt;/span>: &lt;span style="color:#66d9ef">inline&lt;/span>&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#66d9ef">block&lt;/span>;
 }
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;ohio.araw.xyz&lt;/code&gt;, then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
-&lt;p&gt;Currently, these arrows only indicate external links to let visitors know that they will be directed away.
-Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab or window.
-You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;/code&gt; (or &lt;code&gt;...window&lt;/code&gt;) (or click with Mouse3/MouseWheel).&lt;/p&gt;
-&lt;h3 id=&#34;no-javascript&#34;&gt;No JavaScript?&lt;/h3&gt;
-&lt;p&gt;It&amp;rsquo;s not really that I find JS harmful, although some would argue that it could be.
-I don&amp;rsquo;t even know enough of the language to make that claim.&lt;/p&gt;
-&lt;p&gt;So why this &amp;ldquo;distaste&amp;rdquo; for JS in websites?&lt;/p&gt;
-&lt;p&gt;Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
-It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p&gt;
-&lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
-&lt;p&gt;Only advertisers like ads&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>The above snippet means that if a link does not contain &lt;code>ohio.araw.xyz&lt;/code>, then &lt;code>content&lt;/code> will be displayed &lt;code>after&lt;/code> it.&lt;/p>
+&lt;p>Currently, these arrows only indicate external links to let visitors know that they will be directed away.
+Clicking one does &lt;strong>&lt;em>not&lt;/em>&lt;/strong> open it in a new tab or window.
+You have to manually right-click it and select &lt;code>Open in a new tab&lt;/code> (or &lt;code>...window&lt;/code>) (or click with Mouse3/MouseWheel).&lt;/p>
+&lt;h3 id="no-javascript">No JavaScript?&lt;/h3>
+&lt;p>It&amp;rsquo;s not really that I find JS harmful, although some would argue that it could be.
+I don&amp;rsquo;t even know enough of the language to make that claim.&lt;/p>
+&lt;p>So why this &amp;ldquo;distaste&amp;rdquo; for JS in websites?&lt;/p>
+&lt;p>Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
+It&amp;rsquo;s absence is definitely beneficial, because there&amp;rsquo;s less code to maintain.&lt;/p>
+&lt;h3 id="no-ads">No Ads&lt;/h3>
+&lt;p>Only advertisers like ads&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.
 I don&amp;rsquo;t intend on monetizing this site with ads,
-so expect a clean (read: boring) experience.&lt;/p&gt;
-&lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
-&lt;h3 id=&#34;images&#34;&gt;Images&lt;/h3&gt;
-&lt;p&gt;Humans can be very visual &lt;em&gt;sometimes&lt;/em&gt;.
-In the internet, however, we must play it differently.&lt;/p&gt;
-&lt;p&gt;Big image size takes time to load, and will of course need more resources to serve it to the visitor.
-More resources mean more energy consumed means larger carbon footprint.&lt;/p&gt;
-&lt;p&gt;When adding images to a site, I make sure that:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;it &lt;em&gt;does&lt;/em&gt; tell &amp;ldquo;more than a thousand words.&amp;rdquo;
+so expect a clean (read: boring) experience.&lt;/p>
+&lt;p>Also, did you know that a lot of online advertising you see depends on JS?&lt;/p>
+&lt;h3 id="images">Images&lt;/h3>
+&lt;p>Humans can be very visual &lt;em>sometimes&lt;/em>.
+In the internet, however, we must play it differently.&lt;/p>
+&lt;p>Big image size takes time to load, and will of course need more resources to serve it to the visitor.
+More resources mean more energy consumed means larger carbon footprint.&lt;/p>
+&lt;p>When adding images to a site, I make sure that:&lt;/p>
+&lt;ul>
+&lt;li>it &lt;em>does&lt;/em> tell &amp;ldquo;more than a thousand words.&amp;rdquo;
 An image must add to the narrative, not distract the viewers away from it.
-If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s likely not going in.&lt;/li&gt;
-&lt;li&gt;it&amp;rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
+If it it&amp;rsquo;s not adding value content-wise, it&amp;rsquo;s likely not going in.&lt;/li>
+&lt;li>it&amp;rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
-&lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Nowadays, I  tend to use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
-&lt;p&gt;From the command line, I do something like:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;imgp -x 1366x0 --quality=85 -pew ~/image.jpg
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;where:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;-x&lt;/code&gt; is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
-Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;--quality&lt;/code&gt; is the quality factor.
-Here, I set it to 85.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-pew&lt;/code&gt; combines three options: optimize, erase EXIF metadata&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, and overwrite source images respectively.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
-&lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator to build this site.
-There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.&lt;/p&gt;
-&lt;h3 id=&#34;in-the-name-of-static-site-generator-ssg&#34;&gt;In the name of Static Site Generator (SSG)&lt;/h3&gt;
-&lt;p&gt;Using SSG like Hugo arguably increases security by simplifying a lot of things&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.
-There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.&lt;/p&gt;
-&lt;p&gt;In many SSGs, content is written in Markdown, a simple markup &amp;ldquo;language&amp;rdquo; for creating formatted text using a plaintext editor.
-Markdown files (&lt;code&gt;.md&lt;/code&gt;) are lightweight, portable, easy to backup, and transfer between computers.&lt;/p&gt;
-&lt;p&gt;Generation time depends on the size and volume of files that need to be compiled.
+&lt;a href="https://tinyjpg.com">Tiny JPG&lt;/a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li>
+&lt;/ul>
+&lt;p>Nowadays, I tend to use &lt;a href="https://github.com/jarun/imgp">imgp&lt;/a>&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p>
+&lt;p>From the command line, I do something like:&lt;/p>
+&lt;pre>&lt;code>imgp -x 1366x0 --quality=85 -pew ~/image.jpg
+&lt;/code>&lt;/pre>&lt;p>where:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>-x&lt;/code> is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
+Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li>
+&lt;li>&lt;code>--quality&lt;/code> is the quality factor.
+Here, I set it to 85.&lt;/li>
+&lt;li>&lt;code>-pew&lt;/code> combines three options: optimize, erase EXIF metadata&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>, and overwrite source images respectively.&lt;/li>
+&lt;/ul>
+&lt;h2 id="back-end">Back-end&lt;/h2>
+&lt;p>I use &lt;a href="https://gohugo.io">Hugo&lt;/a> static site generator to build this site.
+There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.&lt;/p>
+&lt;h3 id="in-the-name-of-static-site-generator-ssg">In the name of Static Site Generator (SSG)&lt;/h3>
+&lt;p>Using SSG like Hugo arguably increases security by simplifying a lot of things&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>.
+There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.&lt;/p>
+&lt;p>In many SSGs, content is written in Markdown, a simple markup &amp;ldquo;language&amp;rdquo; for creating formatted text using a plaintext editor.
+Markdown files (&lt;code>.md&lt;/code>) are lightweight, portable, easy to backup, and transfer between computers.&lt;/p>
+&lt;p>Generation time depends on the size and volume of files that need to be compiled.
 I&amp;rsquo;ve heard that some SSGs could take up to a minute to build one whole site;
-some only &lt;em&gt;milliseconds&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;It &lt;em&gt;is&lt;/em&gt; tedious to go through all that.
-Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p&gt;
-&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
-&lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
-&lt;p&gt;Great Hugo tutorials abound online, in blog post and video formats.
+some only &lt;em>milliseconds&lt;/em>.&lt;/p>
+&lt;p>It &lt;em>is&lt;/em> tedious to go through all that.
+Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p>
+&lt;p>But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup> anytime!&lt;/p>
+&lt;h3 id="using-hugo">Using Hugo&lt;/h3>
+&lt;p>Great Hugo tutorials abound online, in blog post and video formats.
 Some target new users;
-some have specific use cases in mind.&lt;/p&gt;
-&lt;p&gt;However, like most tutorials online, they get outdated quickly.
+some have specific use cases in mind.&lt;/p>
+&lt;p>However, like most tutorials online, they get outdated quickly.
 Sooner or later, reading the official documentation becomes necessary,
-as one can assume that it&amp;rsquo;s updated.&lt;/p&gt;
-&lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to read the manual.
+as one can assume that it&amp;rsquo;s updated.&lt;/p>
+&lt;p>As with everything else, it&amp;rsquo;s important to be patient and willing to read the manual.
 In case you&amp;rsquo;re stuck, you can also ask the community.
-Hugo has both decent &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;community&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/documentation&#34;&gt;documentation&lt;/a&gt;&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;Honestly, Hugo&amp;rsquo;s learning curve is steep, especially if you&amp;rsquo;re like me with no &amp;ldquo;real&amp;rdquo; coding experience.
-But if you have the patience to read, learn, and ask for help, Hugo, as well as other SSGs, might just be the right magic for you.&lt;/p&gt;
-&lt;p&gt;My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
-&lt;p&gt;Having said all that, I&amp;rsquo;m still looking out for a &amp;ldquo;simpler&amp;rdquo; tool, the SSG that fits just right for my use case.
-After all, a tool is a tool.&lt;/p&gt;
-&lt;h3 id=&#34;disabling-internal-templates&#34;&gt;Disabling Internal Templates&lt;/h3&gt;
-&lt;p&gt;Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Google Analytics;&lt;/li&gt;
-&lt;li&gt;Disqus comments, a popular commenting system;&lt;/li&gt;
-&lt;li&gt;Instagram cards;&lt;/li&gt;
-&lt;li&gt;Twitter cards;&lt;/li&gt;
-&lt;li&gt;YouTube; and&lt;/li&gt;
-&lt;li&gt;Vimeo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;To have a privacy-centered configuration, I followed &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;this documentation&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/#disable-all-services&#34;&gt;disabled all services&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;In high school, computer lab was not my favorite, and I&amp;rsquo;m okay with that.&lt;/p&gt;
-&lt;p&gt;One of our &amp;ldquo;lab works&amp;rdquo; was to create our own website.
+Hugo has both decent &lt;a href="https://discourse.gohugo.io">community&lt;/a> and &lt;a href="https://gohugo.io/documentation">documentation&lt;/a>&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>Honestly, Hugo&amp;rsquo;s learning curve is steep, especially if you&amp;rsquo;re like me with no &amp;ldquo;real&amp;rdquo; coding experience.
+But if you have the patience to read, learn, and ask for help, Hugo, as well as other SSGs, might just be the right magic for you.&lt;/p>
+&lt;p>My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p>
+&lt;p>Having said all that, I&amp;rsquo;m still looking out for a &amp;ldquo;simpler&amp;rdquo; tool, the SSG that fits just right for my use case.
+After all, a tool is a tool.&lt;/p>
+&lt;h3 id="disabling-internal-templates">Disabling Internal Templates&lt;/h3>
+&lt;p>Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:&lt;/p>
+&lt;ul>
+&lt;li>Google Analytics;&lt;/li>
+&lt;li>Disqus comments, a popular commenting system;&lt;/li>
+&lt;li>Instagram cards;&lt;/li>
+&lt;li>Twitter cards;&lt;/li>
+&lt;li>YouTube; and&lt;/li>
+&lt;li>Vimeo&lt;/li>
+&lt;/ul>
+&lt;p>To have a privacy-centered configuration, I followed &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">this documentation&lt;/a> and &lt;a href="https://gohugo.io/about/hugo-and-gdpr/#disable-all-services">disabled all services&lt;/a>.&lt;/p>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>In high school, computer lab was not my favorite, and I&amp;rsquo;m okay with that.&lt;/p>
+&lt;p>One of our &amp;ldquo;lab works&amp;rdquo; was to create our own website.
 It had to be interesting, catchy.
-That&amp;rsquo;s why many of my classmates had &lt;code&gt;&amp;lt;marquee&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags in their works.&lt;/p&gt;
-&lt;p&gt;I don&amp;rsquo;t remember how mine looked, but I&amp;rsquo;m sure it&amp;rsquo;s basic, with broken links hither and thither.&lt;/p&gt;
-&lt;p&gt;More than a decade later, here I am, building one again.
+That&amp;rsquo;s why many of my classmates had &lt;code>&amp;lt;marquee&amp;gt;&lt;/code> and &lt;code>&amp;lt;blink&amp;gt;&lt;/code> tags in their works.&lt;/p>
+&lt;p>I don&amp;rsquo;t remember how mine looked, but I&amp;rsquo;m sure it&amp;rsquo;s basic, with broken links hither and thither.&lt;/p>
+&lt;p>More than a decade later, here I am, building one again.
 Only this time, I have more enthusiasm.
-At least I&amp;rsquo;ve retained the important bits on how HTML works, so I&amp;rsquo;m not starting from zero.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d like to say that I dedicate this to my former self, who couldn&amp;rsquo;t seem to grasp the importance of web design.
+At least I&amp;rsquo;ve retained the important bits on how HTML works, so I&amp;rsquo;m not starting from zero.&lt;/p>
+&lt;p>I&amp;rsquo;d like to say that I dedicate this to my former self, who couldn&amp;rsquo;t seem to grasp the importance of web design.
 As we rely on the internet for improving our collective knowledge,
-web designers and developers &lt;em&gt;must see to it&lt;/em&gt; that everyone can access information, in spite of the current tech they have.&lt;/p&gt;
-&lt;p&gt;Here are some other sites from which I got inspiration:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Low-tech Magazine, the &lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;solar-powered one&lt;/a&gt;. Their article on &lt;a href=&#34;https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html&#34;&gt;how to build a low-tech website&lt;/a&gt; is eye-opening.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;, and even &lt;a href=&#34;https://1024b.club&#34;&gt;1024b Club&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;The &amp;ldquo;&lt;a href=&#34;https://bestmotherfucking.website&#34;&gt;Best Motherfucking Website&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&amp;rsquo;s website&lt;/a&gt;, although it begs a few design tweaks to improve readability.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;to-do&#34;&gt;To-Do&lt;/h2&gt;
-&lt;p&gt;Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Purchase a proper domain name for this site&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Move away from GitHub Pages and host somewhere else, &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;preferably on a machine I own&lt;/a&gt;.
+web designers and developers &lt;em>must see to it&lt;/em> that everyone can access information, in spite of the current tech they have.&lt;/p>
+&lt;p>Here are some other sites from which I got inspiration:&lt;/p>
+&lt;ul>
+&lt;li>Low-tech Magazine, the &lt;a href="https://solar.lowtechmagazine.com">solar-powered one&lt;/a>. Their article on &lt;a href="https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html">how to build a low-tech website&lt;/a> is eye-opening.&lt;/li>
+&lt;li>&lt;a href="https://1mb.club">1MB Club&lt;/a>, and it&amp;rsquo;s contemporaries, &lt;a href="https://512kb.club">512KB Club&lt;/a>, &lt;a href="https://250kb.club">250KB Club&lt;/a>, and even &lt;a href="https://1024b.club">1024b Club&lt;/a>&lt;/li>
+&lt;li>The &amp;ldquo;&lt;a href="https://bestmotherfucking.website">Best Motherfucking Website&lt;/a>&amp;rdquo;&lt;/li>
+&lt;li>&lt;a href="https://danluu.com">Dan Luu&amp;rsquo;s website&lt;/a>, although it begs a few design tweaks to improve readability.&lt;/li>
+&lt;/ul>
+&lt;h2 id="to-do">To-Do&lt;/h2>
+&lt;p>Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Purchase a proper domain name for this site&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else, &lt;a href="https://ohio.araw.xyz/server/">preferably on a machine I own&lt;/a>.
 GitHub has become more bloated over the years.
-I&amp;rsquo;d like to step away from that.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Have TLS certificate, preferably from &lt;a href=&#34;https://letsencrypt.org&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;HTTP Observatory&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;That&amp;rsquo;s just a wild claim.
-I have no proof of it &lt;em&gt;yet&lt;/em&gt;, but absence of evidence doesn&amp;rsquo;t mean evidence of absence, &lt;em&gt;no&lt;/em&gt;?
-Maybe the creatives who are coerced into doing the visuals also like their work.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;It&amp;rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
-Visit their page for more info.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
-As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Or, if you have &lt;a href=&#34;https://pandoc.org/&#34;&gt;Pandoc&lt;/a&gt; in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
-It takes some fiddling around the documentation, but it can be done.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs!&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;By &amp;ldquo;decent&amp;rdquo; I mean it covers all the basic needs to help you set up a working site.
+I&amp;rsquo;d like to step away from that.&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Have TLS certificate, preferably from &lt;a href="https://letsencrypt.org">Let&amp;rsquo;s Encrypt&lt;/a>, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href="https://observatory.mozilla.org/">HTTP Observatory&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>That&amp;rsquo;s just a wild claim.
+I have no proof of it &lt;em>yet&lt;/em>, but absence of evidence doesn&amp;rsquo;t mean evidence of absence, &lt;em>no&lt;/em>?
+Maybe the creatives who are coerced into doing the visuals also like their work.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>It&amp;rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
+Visit their page for more info.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>Exchangeable image file format (EXIF) metadata is removed to help reduce the image size.
+As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>Or, if you have &lt;a href="https://pandoc.org/">Pandoc&lt;/a> in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
+It takes some fiddling around the documentation, but it can be done.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5" role="doc-endnote">
+&lt;p>Check out &lt;a href="https://jamstack.org/generators/">Jamstack&lt;/a> for a list of hundreds of possible SSGs!&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6" role="doc-endnote">
+&lt;p>By &amp;ldquo;decent&amp;rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&amp;rsquo;s reliable.
-However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing.&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item></channel></rss>

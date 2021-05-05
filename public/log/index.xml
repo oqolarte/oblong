@@ -1,980 +1,690 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>a log on somersaulting</title>
-    <link>https://ohio.araw.xyz/log/</link>
-    <description>Recent content in Log on to oblique lair</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-        <atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Heat</title>
-      <link>https://ohio.araw.xyz/heat/</link>
-      <pubDate>Sun, 02 May 2021 10:55:38 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/heat/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Changed the status of &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt; project to &amp;ldquo;on-going.&amp;rdquo;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/log/</link><description>Recent content in Log on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml"/><item><title>How to UnRAR files in Linux Command Line</title><link>https://ohio.araw.xyz/unrar/</link><pubDate>Wed, 05 May 2021 01:50:44 +0800</pubDate><guid>https://ohio.araw.xyz/unrar/</guid><description>&lt;ul>
+&lt;li>Added new sections in &lt;a href="https://ohio.araw.xyz/server">Server&lt;/a> project.
+Also edited the wording so that voice is mostly first-person.&lt;/li>
+&lt;li>Added new entries to &lt;a href="https://ohio.araw.xyz/imbentori">Imbentori&lt;/a> project.&lt;/li>
+&lt;li>Edited this site&amp;rsquo;s footer.
+Notably, I changed from 512KB Club to the leaner 250KB Club.&lt;/li>
+&lt;li>Edited some lines in &lt;a href="https://ohio.araw.xyz/alwayscarry">Always Carry&lt;/a> project.&lt;/li>
+&lt;/ul>
+&lt;p>Recently, I had to download some file from the internet.
+But said file is compressed into &lt;code>.rar&lt;/code>.&lt;/p>
+&lt;p>According to the Debian packages, &lt;code>sudo apt install unrar&lt;/code> won&amp;rsquo;t work anymore because it &amp;ldquo;is missing, has been obsoleted, or is only available from another source.&amp;rdquo;
+I don&amp;rsquo;t deal with that.&lt;/p>
+&lt;p>So here&amp;rsquo;s my workaround.
+The following assumes you&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> have a Debian-like Linux 64-bit distro,
+and are comfortable with the terminal.&lt;/p>
+&lt;h2 id="my-unrar-workaround">My UnRAR Workaround&lt;/h2>
+&lt;ol>
+&lt;li>Get RAR archiver from &lt;a href="https://www.rarlab.com/download.htm">RARLAB Archiver&lt;/a>.
+You can either:
+&lt;ul>
+&lt;li>Go their website, and click on the link that matches your system; or&lt;/li>
+&lt;li>Enter in the terminal:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">curl -LO https://www.rarlab.com/rar/rarlinux-x64-*.tar.gz
+&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Go to the folder where it got downloaded to.
+Use &lt;code>tar&lt;/code> to extract the files
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">tar -xvzf rarlinux-x64-*.tar.gz
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;code>-x&lt;/code> option means extracts the file/s from tar&lt;br>
+&lt;code>-v&lt;/code> option means verbose, to see the extraction progress&lt;br>
+&lt;code>-z&lt;/code> option decompresses all the files within, if any&lt;br>
+&lt;code>-f&lt;/code> option indicates the filename you&amp;rsquo;ll work on&lt;/p>
+&lt;/li>
+&lt;li>Go into the extracted folder.
+It should have a &lt;code>Makefile&lt;/code>, &lt;code>rar&lt;/code> and &lt;code>unrar&lt;/code> executables, among other files.
+Run &lt;code>make&lt;/code> like so:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">cd rar/
+sudo make
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>This will copy the executables to the &lt;code>/usr/local/bin&lt;/code> and is now available to the user (you!).&lt;/p>
+&lt;/li>
+&lt;li>Time to extract the &lt;code>.rar&lt;/code> file you got there:
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">unrar e legallyDownloadedFile.rar
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;code>e&lt;/code> option means extract.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>That&amp;rsquo;s it.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>I&amp;rsquo;m actually talking to my future self.
+This is my notes.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Heat</title><link>https://ohio.araw.xyz/heat/</link><pubDate>Sun, 02 May 2021 10:55:38 +0800</pubDate><guid>https://ohio.araw.xyz/heat/</guid><description>&lt;ul>
+&lt;li>Changed the status of &lt;a href="https://ohio.araw.xyz/imbentori">Imbentori&lt;/a> project to &amp;ldquo;on-going.&amp;rdquo;
 This is because I&amp;rsquo;m now in the slow and long process of migrating some of the posts from my old Tumblr blog to this site.
 Ten new (old) entries are up.
-Now, excuse while I cringe at my old writing style.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://openbsd.org&#34;&gt;OpenBSD 6.9&lt;/a&gt; has been available since May Day.
-I just updated my soon-to-be &lt;a href=&#34;https://ohio.araw.xyz/server&#34;&gt;Server&lt;/a&gt; using &lt;code&gt;sysupgrade&lt;/code&gt;.
+Now, excuse while I cringe at my old writing style.&lt;/li>
+&lt;li>&lt;a href="https://openbsd.org">OpenBSD 6.9&lt;/a> has been available since May Day.
+I just updated my soon-to-be &lt;a href="https://ohio.araw.xyz/server">Server&lt;/a> using &lt;code>sysupgrade&lt;/code>.
 A nice experience indeed.
-Still getting around to setting that up, though, so there&amp;rsquo;s that.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;m having trouble with setting up the server.
+Still getting around to setting that up, though, so there&amp;rsquo;s that.&lt;/li>
+&lt;/ul>
+&lt;p>I&amp;rsquo;m having trouble with setting up the server.
 I couldn&amp;rsquo;t figure out the DNS thingy.
 The afternoon heat doesn&amp;rsquo;t help.
-There&amp;rsquo;s barely a moment to focus or reflect on any of the things that I&amp;rsquo;m currently on, because of the heat.&lt;/p&gt;
-&lt;p&gt;Global temperature is likely to be like this.
-It might even get worse each year.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Unlearning Inefficiency</title>
-      <link>https://ohio.araw.xyz/ineff/</link>
-      <pubDate>Sat, 24 Apr 2021 09:16:02 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/ineff/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Updated the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry&#34;&gt;Always Carry&lt;/a&gt; project.
+There&amp;rsquo;s barely a moment to focus or reflect on any of the things that I&amp;rsquo;m currently on, because of the heat.&lt;/p>
+&lt;p>Global temperature is likely to be like this.
+It might even get worse each year.&lt;/p></description></item><item><title>Unlearning Inefficiency</title><link>https://ohio.araw.xyz/ineff/</link><pubDate>Sat, 24 Apr 2021 09:16:02 +0800</pubDate><guid>https://ohio.araw.xyz/ineff/</guid><description>&lt;ul>
+&lt;li>Updated the &lt;a href="https://ohio.araw.xyz/alwayscarry">Always Carry&lt;/a> project.
 It&amp;rsquo;s been recently rebranded (FKA Always Carry A Book) and relaunched, so please check out the online shop:
-&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;https://alwayscarry.netlify.app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Added new sections to the &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;Footnote &amp;ldquo;highlighting&amp;rdquo; is now just changing the &lt;code&gt;font-weight&lt;/code&gt; to &lt;code&gt;bold&lt;/code&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Today&amp;rsquo;s short post is all about learning,
-or at least, my attempt at it.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d like to think I&amp;rsquo;ve been reading more these days.
+&lt;a href="https://alwayscarry.netlify.app">https://alwayscarry.netlify.app&lt;/a>&lt;/li>
+&lt;li>Added new sections to the &lt;a href="https://ohio.araw.xyz/server/">Server&lt;/a> project.&lt;/li>
+&lt;li>Footnote &amp;ldquo;highlighting&amp;rdquo; is now just changing the &lt;code>font-weight&lt;/code> to &lt;code>bold&lt;/code>&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/li>
+&lt;/ul>
+&lt;p>Today&amp;rsquo;s short post is all about learning,
+or at least, my attempt at it.&lt;/p>
+&lt;p>I&amp;rsquo;d like to think I&amp;rsquo;ve been reading more these days.
 I know it&amp;rsquo;s important to keep up with the times, but at the same time,
 taking a break cannot be overlooked!
-Information unused can and will occupy unnecessary mental space, which is just too precious today to be misused.&lt;/p&gt;
-&lt;p&gt;On the other hand, I also think that I may not be reading the most useful bodies of text to me.
-Though that&amp;rsquo;s not saying that every input &lt;em&gt;must&lt;/em&gt; be useful.
+Information unused can and will occupy unnecessary mental space, which is just too precious today to be misused.&lt;/p>
+&lt;p>On the other hand, I also think that I may not be reading the most useful bodies of text to me.
+Though that&amp;rsquo;s not saying that every input &lt;em>must&lt;/em> be useful.
 We humans tend to ruin a lot of things, including ourselves, through the endless pursuit of optimization.
-Sometimes, it&amp;rsquo;s okay to be inefficient.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Everything in moderation,&amp;rdquo; Oscar Wilde said, &amp;ldquo;including moderation.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Learning new things creates new insights.
-Unlearning some old ones can also connect different ideas, as one unclogs the path from bad data.&lt;/p&gt;
-&lt;p&gt;Anyway, here&amp;rsquo;s a free idea:
-Wouldn&amp;rsquo;t it be great to buy and sit on the &lt;code&gt;yellowcab.pizza&lt;/code&gt; domain?&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;This sample text becomes bold when you click from the footnote reference.
-It returns to regular font weight when you return.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clean Act</title>
-      <link>https://ohio.araw.xyz/act/</link>
-      <pubDate>Fri, 16 Apr 2021 00:11:22 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/act/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Edited the CSS code block example in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; project.
-I also edited some sections.&lt;/li&gt;
-&lt;li&gt;Edited some sections in the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/disclaimer&#34;&gt;Disclaimer&lt;/a&gt; now has its own dedicated page.
-It can be accessed from the footer.&lt;/li&gt;
-&lt;li&gt;The following line was added to the &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; tag to remove icon and prevent the browser from trying to retrieve it: &lt;code&gt;&amp;lt;link rel=&amp;quot;icon&amp;quot; href=&amp;quot;data:&amp;quot;&amp;gt;&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Improved navigation in &lt;a href=&#34;https://ohio.araw.xyz/log/&#34;&gt;Log&lt;/a&gt; and &lt;a href=&#34;https://ohio.araw.xyz/project&#34;&gt;Projects&lt;/a&gt; menus.&lt;/li&gt;
-&lt;li&gt;Fixed internal links.&lt;/li&gt;
-&lt;li&gt;Added &lt;code&gt;{margin-right:auto; margin-left:auto}&lt;/code&gt; in &lt;code&gt;figure&lt;/code&gt; and &lt;code&gt;figurecaption&lt;/code&gt;.
-Images should now be the same as the width of the body.&lt;/li&gt;
-&lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/blogroll/&#34;&gt;Blogroll&lt;/a&gt; on Index.
-It&amp;rsquo;s likely I&amp;rsquo;ll add more to this list in the future.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;How long does it take for something to come to fruition?&lt;/p&gt;
-&lt;p&gt;Action, and its many variations, forces the many instances of being to move about and affect one another.
+Sometimes, it&amp;rsquo;s okay to be inefficient.&lt;/p>
+&lt;p>&amp;ldquo;Everything in moderation,&amp;rdquo; Oscar Wilde said, &amp;ldquo;including moderation.&amp;rdquo;&lt;/p>
+&lt;p>Learning new things creates new insights.
+Unlearning some old ones can also connect different ideas, as one unclogs the path from bad data.&lt;/p>
+&lt;p>Anyway, here&amp;rsquo;s a free idea:
+Wouldn&amp;rsquo;t it be great to buy and sit on the &lt;code>yellowcab.pizza&lt;/code> domain?&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>This sample text becomes bold when you click from the footnote reference.
+It returns to regular font weight when you return.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Clean Act</title><link>https://ohio.araw.xyz/act/</link><pubDate>Fri, 16 Apr 2021 00:11:22 +0800</pubDate><guid>https://ohio.araw.xyz/act/</guid><description>&lt;ul>
+&lt;li>Edited the CSS code block example in the &lt;a href="https://ohio.araw.xyz/site/">Site&lt;/a> project.
+I also edited some sections.&lt;/li>
+&lt;li>Edited some sections in the &lt;a href="https://ohio.araw.xyz/alwayscarry/">Always Carry&lt;/a> project.&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/disclaimer">Disclaimer&lt;/a> now has its own dedicated page.
+It can be accessed from the footer.&lt;/li>
+&lt;li>The following line was added to the &lt;code>&amp;lt;head&amp;gt;&lt;/code> tag to remove icon and prevent the browser from trying to retrieve it: &lt;code>&amp;lt;link rel=&amp;quot;icon&amp;quot; href=&amp;quot;data:&amp;quot;&amp;gt;&lt;/code>&lt;/li>
+&lt;li>Improved navigation in &lt;a href="https://ohio.araw.xyz/log/">Log&lt;/a> and &lt;a href="https://ohio.araw.xyz/project">Projects&lt;/a> menus.&lt;/li>
+&lt;li>Fixed internal links.&lt;/li>
+&lt;li>Added &lt;code>{margin-right:auto; margin-left:auto}&lt;/code> in &lt;code>figure&lt;/code> and &lt;code>figurecaption&lt;/code>.
+Images should now be the same as the width of the body.&lt;/li>
+&lt;li>Added &lt;a href="https://ohio.araw.xyz/blogroll/">Blogroll&lt;/a> on Index.
+It&amp;rsquo;s likely I&amp;rsquo;ll add more to this list in the future.&lt;/li>
+&lt;/ul>
+&lt;p>How long does it take for something to come to fruition?&lt;/p>
+&lt;p>Action, and its many variations, forces the many instances of being to move about and affect one another.
 Yet, in spite of knowing this, I still must be creative in preserving my motivation.
-I must plan my actions.&lt;/p&gt;
-&lt;p&gt;But planning itself requires motivation.
+I must plan my actions.&lt;/p>
+&lt;p>But planning itself requires motivation.
 Before a day even begins, I must have already addressed this feedback loop.
-Tricky, I know.&lt;/p&gt;
-&lt;p&gt;Most days, I&amp;rsquo;d like to think that my actions will converge in a future point;
+Tricky, I know.&lt;/p>
+&lt;p>Most days, I&amp;rsquo;d like to think that my actions will converge in a future point;
 and this point being a situation which Life becomes a meaningful one to live.
-It sounds individualistic, now that I&amp;rsquo;m examining the words outside my head.&lt;/p&gt;
-&lt;p&gt;Still going through the motions.
-I hope to have a clean act, because neatness advertises ability, they say.&lt;/p&gt;
-&lt;p&gt;And now, &lt;strong&gt;Act I&lt;/strong&gt;:&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Astral Gate</title>
-      <link>https://ohio.araw.xyz/agate/</link>
-      <pubDate>Fri, 09 Apr 2021 10:19:48 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/agate/</guid>
-      <description>&lt;p&gt;What are you looking forward to this year 2021?&lt;/p&gt;
-&lt;p&gt;It differs from person to person, &lt;em&gt;no&lt;/em&gt;?&lt;/p&gt;
-&lt;p&gt;We here have been looking forward to the opening of two new LRT-2 stations, the nearest being Masinag Station.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.gmanetwork.com/news/news/nation/778277/lrt2-east-extension-to-commence-ops-on-april-27/story/&#34;&gt;According to DOTr&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[&amp;hellip;] LRT2 East Extension project will begin to serve commuters on April 27, 2021.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;We know better, though, than to blindly trust such press release.
-You see, the opening of said stations has been postponed for a few times now.&lt;/p&gt;
-&lt;p&gt;Almost every construction and project manager I know expect that a project never meets its target completion date.
+It sounds individualistic, now that I&amp;rsquo;m examining the words outside my head.&lt;/p>
+&lt;p>Still going through the motions.
+I hope to have a clean act, because neatness advertises ability, they say.&lt;/p>
+&lt;p>And now, &lt;strong>Act I&lt;/strong>:&lt;/p></description></item><item><title>Astral Gate</title><link>https://ohio.araw.xyz/agate/</link><pubDate>Fri, 09 Apr 2021 10:19:48 +0800</pubDate><guid>https://ohio.araw.xyz/agate/</guid><description>&lt;p>What are you looking forward to this year 2021?&lt;/p>
+&lt;p>It differs from person to person, &lt;em>no&lt;/em>?&lt;/p>
+&lt;p>We here have been looking forward to the opening of two new LRT-2 stations, the nearest being Masinag Station.&lt;/p>
+&lt;p>&lt;a href="https://www.gmanetwork.com/news/news/nation/778277/lrt2-east-extension-to-commence-ops-on-april-27/story/">According to DOTr&lt;/a>:&lt;/p>
+&lt;blockquote>
+&lt;p>[&amp;hellip;] LRT2 East Extension project will begin to serve commuters on April 27, 2021.&lt;/p>
+&lt;/blockquote>
+&lt;p>We know better, though, than to blindly trust such press release.
+You see, the opening of said stations has been postponed for a few times now.&lt;/p>
+&lt;p>Almost every construction and project manager I know expect that a project never meets its target completion date.
 A slight slide in schedule is acceptable, but months of delay?
 Somebody has got to start explaining.
-For projects that affect the public, though, we know better than to expect Someone explaining the full report.&lt;/p&gt;
-&lt;p&gt;A lot of unforessen factors (e.g. a global pandemic) could suddenly come into play, effectively throwing a wrench into the gears.&lt;/p&gt;
-&lt;p&gt;COVID-19 is a great excuse for delayed projects, used by both well-meaning and malicious actors.&lt;/p&gt;
-&lt;p&gt;Having ranting all that, I&amp;rsquo;ll still try to extend my patience, waiting for public transportation projects to finish.&lt;/p&gt;
-&lt;p&gt;&amp;hellip;and what of space transportation?&lt;/p&gt;
-&lt;p&gt;In &lt;em&gt;Cowboy Bebop&lt;/em&gt;, the first &lt;a href=&#34;https://cowboybebop.fandom.com/wiki/Astral_Gate&#34;&gt;Astral Gate&lt;/a&gt; is slated to be built in 2021, this year!
-Looking forward to this as well, although I expect that there will be delays in completion.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Two-kilometer Bike Errand</title>
-      <link>https://ohio.araw.xyz/2kbike/</link>
-      <pubDate>Mon, 05 Apr 2021 22:12:36 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/2kbike/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added new sections in &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt;.
+For projects that affect the public, though, we know better than to expect Someone explaining the full report.&lt;/p>
+&lt;p>A lot of unforessen factors (e.g. a global pandemic) could suddenly come into play, effectively throwing a wrench into the gears.&lt;/p>
+&lt;p>COVID-19 is a great excuse for delayed projects, used by both well-meaning and malicious actors.&lt;/p>
+&lt;p>Having ranting all that, I&amp;rsquo;ll still try to extend my patience, waiting for public transportation projects to finish.&lt;/p>
+&lt;p>&amp;hellip;and what of space transportation?&lt;/p>
+&lt;p>In &lt;em>Cowboy Bebop&lt;/em>, the first &lt;a href="https://cowboybebop.fandom.com/wiki/Astral_Gate">Astral Gate&lt;/a> is slated to be built in 2021, this year!
+Looking forward to this as well, although I expect that there will be delays in completion.&lt;/p></description></item><item><title>Two-kilometer Bike Errand</title><link>https://ohio.araw.xyz/2kbike/</link><pubDate>Mon, 05 Apr 2021 22:12:36 +0800</pubDate><guid>https://ohio.araw.xyz/2kbike/</guid><description>&lt;ul>
+&lt;li>Added new sections in &lt;a href="https://ohio.araw.xyz/server/">Server&lt;/a>.
 That page is becoming a repository of notes that I&amp;rsquo;ve compiled during the process of setting up this server.
 It comes in bits and pieces, but it&amp;rsquo;s coming along.
 I&amp;rsquo;m still figuring it out how to implement some things in OpenBSD.
-A new version might come out soon (OpenBSD &lt;strong&gt;6.9&lt;/strong&gt;, wouldn&amp;rsquo;t I like that?).
-We&amp;rsquo;ll see what happens.&lt;/li&gt;
-&lt;li&gt;Removed the Index logo for now.
-Replaced it with a fancy ASCII art text.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Cycling around may well be the most efficient way to get around without resorting to fossil fuels.
-An able-bodied person will certainly benefit from knowing how to ride a bike.&lt;/p&gt;
-&lt;p&gt;And as the Pandemic continues to do harm, cycling, as compared to simply walking, reduces the time spent outdoors, while still having some semblance of physical exercise, unlike driving in a car.&lt;/p&gt;
-&lt;p&gt;So, an errand comes up:
+A new version might come out soon (OpenBSD &lt;strong>6.9&lt;/strong>, wouldn&amp;rsquo;t I like that?).
+We&amp;rsquo;ll see what happens.&lt;/li>
+&lt;li>Removed the Index logo for now.
+Replaced it with a fancy ASCII art text.&lt;/li>
+&lt;/ul>
+&lt;p>Cycling around may well be the most efficient way to get around without resorting to fossil fuels.
+An able-bodied person will certainly benefit from knowing how to ride a bike.&lt;/p>
+&lt;p>And as the Pandemic continues to do harm, cycling, as compared to simply walking, reduces the time spent outdoors, while still having some semblance of physical exercise, unlike driving in a car.&lt;/p>
+&lt;p>So, an errand comes up:
 one of our cats need a special food that&amp;rsquo;s likely available only in a mall about two kilometers away.
-We veer away from public transpo right now, so on to the bike!&lt;/p&gt;
-&lt;p&gt;Seasoned cyclists would claim that a two-kilometer run is easy, and I would likely agree.
+We veer away from public transpo right now, so on to the bike!&lt;/p>
+&lt;p>Seasoned cyclists would claim that a two-kilometer run is easy, and I would likely agree.
 But I&amp;rsquo;m not a seasoned cyclist yet.
-And did I mention that we live in hill/mountain?&lt;/p&gt;
-&lt;p&gt;Due to ECQ, there are few cars in the road, which can only be a good thing.&lt;/p&gt;
-&lt;p&gt;Going back home is a slow-burn of two-kilometer ascent.
+And did I mention that we live in hill/mountain?&lt;/p>
+&lt;p>Due to ECQ, there are few cars in the road, which can only be a good thing.&lt;/p>
+&lt;p>Going back home is a slow-burn of two-kilometer ascent.
 The weight of the mountain bike (made of granite, by the way) plus the cat food only added to the burden.
-And while it wasn&amp;rsquo;t the scorching midday sun that we have had the displeasure of weathering the past few days, 30-something degrees Celsius while cycling uphill with load wasn&amp;rsquo;t exactly leisurely either.&lt;/p&gt;
-&lt;p&gt;Despite all of that, I wrote this after taking a bath:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Tired, but reinvigorated w/ my bike errand.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>XXVIII</title>
-      <link>https://ohio.araw.xyz/xxviii/</link>
-      <pubDate>Mon, 29 Mar 2021 14:44:46 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/xxviii/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Footnotes will now be highlighted in yellow&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; when you click on them.
-See for yourself.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I was certain I had several dreams the night before.
+And while it wasn&amp;rsquo;t the scorching midday sun that we have had the displeasure of weathering the past few days, 30-something degrees Celsius while cycling uphill with load wasn&amp;rsquo;t exactly leisurely either.&lt;/p>
+&lt;p>Despite all of that, I wrote this after taking a bath:&lt;/p>
+&lt;blockquote>
+&lt;p>Tired, but reinvigorated w/ my bike errand.&lt;/p>
+&lt;/blockquote></description></item><item><title>XXVIII</title><link>https://ohio.araw.xyz/xxviii/</link><pubDate>Mon, 29 Mar 2021 14:44:46 +0800</pubDate><guid>https://ohio.araw.xyz/xxviii/</guid><description>&lt;ul>
+&lt;li>Footnotes will now be highlighted in yellow&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> when you click on them.
+See for yourself.&lt;/li>
+&lt;/ul>
+&lt;p>I was certain I had several dreams the night before.
 During those fleeting moments of half-asleep in the middle of the night, I said to myself that I must remember these dreams in the morning so I could write them down.
 When morning came, I remembered nothing of them.
-Only the feeling that there were some things &lt;em&gt;there&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Dreams can be nostalgic, in my opinion.
+Only the feeling that there were some things &lt;em>there&lt;/em>.&lt;/p>
+&lt;p>Dreams can be nostalgic, in my opinion.
 In my experience, mine have been an amalgam of many experiences, or at least the gist of each.
-Mostly, they are just flash fiction typewritten on a fragile old parchment that promptly begins to disintegrate the moment you decide you should store them.&lt;/p&gt;
-&lt;p&gt;I am spending&amp;mdash;or did spend, as I&amp;rsquo;m writing this in the evening&amp;mdash;my birthday under Enhanced Community Quarantine (ECQ), this administration&amp;rsquo;s euphimism for lockdown.&lt;/p&gt;
-&lt;p&gt;Again.&lt;/p&gt;
-&lt;p&gt;You see, I also spent my birthday last year under ECQ.&lt;/p&gt;
-&lt;h2 id=&#34;ano-ang-handa&#34;&gt;&lt;em&gt;Ano ang handa?&lt;/em&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;AM Food&lt;/strong&gt;: peanut butter and goober in pandesal, coffee, mixed nuts&lt;br&gt;
-&lt;strong&gt;PM Food&lt;/strong&gt;: spaghetti, cheesy frankfurter, lemon water, mixed nuts, Kettle Brew&lt;/p&gt;
-&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;AM Food&lt;/strong&gt;: chai masala, corn muffin&lt;br&gt;
-&lt;strong&gt;PM Food&lt;/strong&gt;: rice, sinigang na salmon, coffee, honey-glazed doughnut, super dry beer&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;This will be highlighted if you just click on the note reference above.
+Mostly, they are just flash fiction typewritten on a fragile old parchment that promptly begins to disintegrate the moment you decide you should store them.&lt;/p>
+&lt;p>I am spending&amp;mdash;or did spend, as I&amp;rsquo;m writing this in the evening&amp;mdash;my birthday under Enhanced Community Quarantine (ECQ), this administration&amp;rsquo;s euphimism for lockdown.&lt;/p>
+&lt;p>Again.&lt;/p>
+&lt;p>You see, I also spent my birthday last year under ECQ.&lt;/p>
+&lt;h2 id="ano-ang-handa">&lt;em>Ano ang handa?&lt;/em>&lt;/h2>
+&lt;h3 id="2020">2020&lt;/h3>
+&lt;p>&lt;strong>AM Food&lt;/strong>: peanut butter and goober in pandesal, coffee, mixed nuts&lt;br>
+&lt;strong>PM Food&lt;/strong>: spaghetti, cheesy frankfurter, lemon water, mixed nuts, Kettle Brew&lt;/p>
+&lt;h3 id="2021">2021&lt;/h3>
+&lt;p>&lt;strong>AM Food&lt;/strong>: chai masala, corn muffin&lt;br>
+&lt;strong>PM Food&lt;/strong>: rice, sinigang na salmon, coffee, honey-glazed doughnut, super dry beer&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>This will be highlighted if you just click on the note reference above.
 This helps you, the reader, know which note the text is referring to.
-The highlight will disappear once you click on the backlink, the one at the end of this note.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Week 11</title>
-      <link>https://ohio.araw.xyz/wk11/</link>
-      <pubDate>Mon, 22 Mar 2021 00:48:28 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/wk11/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Because there&amp;rsquo;s no creative way to title this post.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Added new sections in &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt;.
+The highlight will disappear once you click on the backlink, the one at the end of this note.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Week 11</title><link>https://ohio.araw.xyz/wk11/</link><pubDate>Mon, 22 Mar 2021 00:48:28 +0800</pubDate><guid>https://ohio.araw.xyz/wk11/</guid><description>&lt;p>&lt;strong>Because there&amp;rsquo;s no creative way to title this post.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Added new sections in &lt;a href="https://ohio.araw.xyz/server/">Server&lt;/a>.
 Yes, kids, it&amp;rsquo;s happening.
 Or at least, bit by bit, I&amp;rsquo;m getting into it&amp;mdash;
-my homebrewed server is coming along.&lt;/li&gt;
-&lt;li&gt;Added some lines and a footnote in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; about Pandoc.
-An image is also removed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;and-now-the-news&#34;&gt;And now, the news&lt;/h2&gt;
-&lt;p&gt;After I changed the DNS for this site, something went off:
+my homebrewed server is coming along.&lt;/li>
+&lt;li>Added some lines and a footnote in the &lt;a href="https://ohio.araw.xyz/site/">Site&lt;/a> about Pandoc.
+An image is also removed.&lt;/li>
+&lt;/ul>
+&lt;h2 id="and-now-the-news">And now, the news&lt;/h2>
+&lt;p>After I changed the DNS for this site, something went off:
 the site goes down every update, only to go back up in a few hours.
-I&amp;rsquo;ll be fiddling still with my DNS registrar, but it is what it is for the moment.&lt;/p&gt;
-&lt;p&gt;Some time this week, the news of 7,000+ new COVID cases got many people alarmed.
+I&amp;rsquo;ll be fiddling still with my DNS registrar, but it is what it is for the moment.&lt;/p>
+&lt;p>Some time this week, the news of 7,000+ new COVID cases got many people alarmed.
 As of this writing, we are yet again, in a lockdown.
 I think they are calling this either &amp;ldquo;soft MECQ&amp;rdquo; or a &amp;ldquo;hard GCQ.&amp;rdquo;
-One meme thinks this is &amp;ldquo;poor governance&amp;rdquo; and I tend to agree.&lt;/p&gt;
-&lt;p&gt;I try to limit my errands outdoors.
+One meme thinks this is &amp;ldquo;poor governance&amp;rdquo; and I tend to agree.&lt;/p>
+&lt;p>I try to limit my errands outdoors.
 Honestly, it&amp;rsquo;s not hard to stay put.
-With both the pandemic and the sun still wreaking havoc, I&amp;rsquo;m inclined to not venture away from home.&lt;/p&gt;
-&lt;p&gt;Special thanks to the newly installed &lt;em&gt;Diablo 2: Lord of Destruction&lt;/em&gt; game running atop Wine&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
+With both the pandemic and the sun still wreaking havoc, I&amp;rsquo;m inclined to not venture away from home.&lt;/p>
+&lt;p>Special thanks to the newly installed &lt;em>Diablo 2: Lord of Destruction&lt;/em> game running atop Wine&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.
 So much nostalgia.
 Running through the game with a Fire Druid build, if that matters to anyone.
-Free time made me install the game, but I&amp;rsquo;m only partly to blame.&lt;/p&gt;
-&lt;p&gt;As for my body, I&amp;rsquo;m fully recovered now&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.
-I must remember to do warm-ups and cool-downs before and after workout respectively.&lt;/p&gt;
-&lt;p&gt;During the recovery, though, I did have breakouts.
+Free time made me install the game, but I&amp;rsquo;m only partly to blame.&lt;/p>
+&lt;p>As for my body, I&amp;rsquo;m fully recovered now&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
+I must remember to do warm-ups and cool-downs before and after workout respectively.&lt;/p>
+&lt;p>During the recovery, though, I did have breakouts.
 It&amp;rsquo;s a spell, I think, activated at the time of lethargy.
 My body reminds me that it didn&amp;rsquo;t evolve through millenia of struggle just to slouch indoors.
-But I&amp;rsquo;m only partly to blame.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Wine (&amp;ldquo;Wine Is Not an Emulator&amp;rdquo;) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Debian, the one in my machine right now.
-More info: &lt;a href=&#34;https://winehq.org&#34;&gt;https://winehq.org&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Muscle pains had afflicted my thighs for days when I attempted to do pistol squats without properly learning the technique.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What D&amp;D Character Am I?</title>
-      <link>https://ohio.araw.xyz/cgud/</link>
-      <pubDate>Wed, 17 Mar 2021 14:52:37 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/cgud/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;New URL! This site is now &lt;code&gt;https://ohio.araw.xyz&lt;/code&gt;.
-Since it&amp;rsquo;s still hosted on Github Pages, &lt;code&gt;https://oqolarte.github.io&lt;/code&gt; will still work, and will redirect here.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;According to &lt;a href=&#34;http://easydamus.com/alignmenttest.html&#34;&gt;this alignment test&lt;/a&gt;, I&amp;rsquo;m likely&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;chaotic-good&#34;&gt;Chaotic Good&lt;/h2&gt;
-&lt;p&gt;A chaotic good character acts as his conscience directs him with little regard for what others expect of him.
+But I&amp;rsquo;m only partly to blame.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Wine (&amp;ldquo;Wine Is Not an Emulator&amp;rdquo;) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Debian, the one in my machine right now.
+More info: &lt;a href="https://winehq.org">https://winehq.org&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>Muscle pains had afflicted my thighs for days when I attempted to do pistol squats without properly learning the technique.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>What D&amp;D Character Am I?</title><link>https://ohio.araw.xyz/cgud/</link><pubDate>Wed, 17 Mar 2021 14:52:37 +0800</pubDate><guid>https://ohio.araw.xyz/cgud/</guid><description>&lt;ul>
+&lt;li>New URL! This site is now &lt;code>https://ohio.araw.xyz&lt;/code>.
+Since it&amp;rsquo;s still hosted on Github Pages, &lt;code>https://oqolarte.github.io&lt;/code> will still work, and will redirect here.&lt;/li>
+&lt;/ul>
+&lt;p>According to &lt;a href="http://easydamus.com/alignmenttest.html">this alignment test&lt;/a>, I&amp;rsquo;m likely&amp;hellip;&lt;/p>
+&lt;h2 id="chaotic-good">Chaotic Good&lt;/h2>
+&lt;p>A chaotic good character acts as his conscience directs him with little regard for what others expect of him.
 He makes his own way, but he&amp;rsquo;s kind and benevolent.
 He believes in goodness and right but has little use for laws and regulations.
 He hates it when people try to intimidate others and tell them what to do.
 He follows his own moral compass, which, although good, may not agree with that of society.
 Chaotic good is the best alignment you can be because it combines a good heart with a free spirit.
-However, chaotic good can be a dangerous alignment when it disrupts the order of society and punishes those who do well for themselves.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scent in Memory</title>
-      <link>https://ohio.araw.xyz/scent/</link>
-      <pubDate>Mon, 15 Mar 2021 12:18:40 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/scent/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added my email adress at the end of each project to welcome any recommendations to improve each of them.
+However, chaotic good can be a dangerous alignment when it disrupts the order of society and punishes those who do well for themselves.&lt;/p></description></item><item><title>Scent in Memory</title><link>https://ohio.araw.xyz/scent/</link><pubDate>Mon, 15 Mar 2021 12:18:40 +0800</pubDate><guid>https://ohio.araw.xyz/scent/</guid><description>&lt;ul>
+&lt;li>Added my email adress at the end of each project to welcome any recommendations to improve each of them.
 Right now, I haven&amp;rsquo;t implemented a commenting system for this website.
 Perhaps I don&amp;rsquo;t intend to.
-Email is the only way to receive feedback.&lt;/li&gt;
-&lt;li&gt;Links&#39; color changes at cursor hover.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Interesting research about why odors trigger powerful memories&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[S]mells are a profound part of memory, and odors connect us to especially important memories in our lives, often connected to loved ones&amp;hellip;
-Odors connect us to important memories that transport us back to the presence of those people.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This is nothing new to me.&lt;/p&gt;
-&lt;p&gt;I have been triggered by various scents in random places.
-Every time, I&amp;rsquo;m transported to the past by nostalgia.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Northwestern University. &amp;ldquo;Why odors trigger powerful memories: Smell travels on superhighway to hippocampus in the brain.&amp;rdquo; ScienceDaily. ScienceDaily, 8 March 2021. &amp;lt;&lt;a href=&#34;https://www.sciencedaily.com/releases/2021/03/210308140743.htm&#34;&gt;www.sciencedaily.com/releases/2021/03/210308140743.htm&lt;/a&gt;&amp;gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Qualitative Research</title>
-      <link>https://ohio.araw.xyz/grnq/</link>
-      <pubDate>Sat, 13 Mar 2021 15:16:14 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/grnq/</guid>
-      <description>&lt;p&gt;How else do you spend an afternoon other than answering &lt;a href=&#34;https://flyeronthewall.wordpress.com/about/about-yourself/&#34;&gt;questions from the internet&lt;/a&gt;?
+Email is the only way to receive feedback.&lt;/li>
+&lt;li>Links' color changes at cursor hover.&lt;/li>
+&lt;/ul>
+&lt;p>Interesting research about why odors trigger powerful memories&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>:&lt;/p>
+&lt;blockquote>
+&lt;p>[S]mells are a profound part of memory, and odors connect us to especially important memories in our lives, often connected to loved ones&amp;hellip;
+Odors connect us to important memories that transport us back to the presence of those people.&lt;/p>
+&lt;/blockquote>
+&lt;p>This is nothing new to me.&lt;/p>
+&lt;p>I have been triggered by various scents in random places.
+Every time, I&amp;rsquo;m transported to the past by nostalgia.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>Northwestern University. &amp;ldquo;Why odors trigger powerful memories: Smell travels on superhighway to hippocampus in the brain.&amp;rdquo; ScienceDaily. ScienceDaily, 8 March 2021. &amp;lt;&lt;a href="https://www.sciencedaily.com/releases/2021/03/210308140743.htm">www.sciencedaily.com/releases/2021/03/210308140743.htm&lt;/a>&amp;gt;.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Qualitative Research</title><link>https://ohio.araw.xyz/grnq/</link><pubDate>Sat, 13 Mar 2021 15:16:14 +0800</pubDate><guid>https://ohio.araw.xyz/grnq/</guid><description>&lt;p>How else do you spend an afternoon other than answering &lt;a href="https://flyeronthewall.wordpress.com/about/about-yourself/">questions from the internet&lt;/a>?
 Not all questions from that questionnaire made here.
-I picked the ones that I may have an interesting answer to.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Do you take flyers when people in public places offer them in your direction?
-If yes, what do you do with them afterwards?&lt;/strong&gt;&lt;br&gt;
-Only when they shove it to me, in which case I dispose the flyer immediately.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;What is your first memory of using the Internet?&lt;/strong&gt;&lt;br&gt;
+I picked the ones that I may have an interesting answer to.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Do you take flyers when people in public places offer them in your direction?
+If yes, what do you do with them afterwards?&lt;/strong>&lt;br>
+Only when they shove it to me, in which case I dispose the flyer immediately.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>What is your first memory of using the Internet?&lt;/strong>&lt;br>
 A grade-school classmate invited me to check out some online games in Cartoon Network&amp;rsquo;s website.
 The game involved the then-popular Teen Titans.
-I was amazed at how easy it was to &amp;ldquo;access the internet.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;What is the last thing you think you failed at?&lt;/strong&gt;&lt;br&gt;
+I was amazed at how easy it was to &amp;ldquo;access the internet.&amp;rdquo;&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>What is the last thing you think you failed at?&lt;/strong>&lt;br>
 I failed to consider the difficulty of getting into hobby electronics.
-Having said that, I&amp;rsquo;m still unsuccessful in repairing a broken Apple Magsafe 1.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Isn&amp;rsquo;t there something else you should be doing right now?&lt;/strong&gt;&lt;br&gt;
+Having said that, I&amp;rsquo;m still unsuccessful in repairing a broken Apple Magsafe 1.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Isn&amp;rsquo;t there something else you should be doing right now?&lt;/strong>&lt;br>
 I think it&amp;rsquo;s called &amp;ldquo;looking for a job&amp;rdquo; but today is Saturday.
-The headhunters are resting.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;If this questionnaire were to have a title, what should it be?&lt;/strong&gt;&lt;br&gt;
-Qualitative Research&amp;mdash;but only because I find it to be an ironic reflection of this task.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;What was the last thing you read that ruined you?&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Never Let Me Go&lt;/em&gt; by Kazuo Ishiguro.
+The headhunters are resting.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>If this questionnaire were to have a title, what should it be?&lt;/strong>&lt;br>
+Qualitative Research&amp;mdash;but only because I find it to be an ironic reflection of this task.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>What was the last thing you read that ruined you?&lt;/strong>&lt;br>
+&lt;em>Never Let Me Go&lt;/em> by Kazuo Ishiguro.
 It ruined me in both good and bad way.
 One of my favorite dystopians that, in my opinion, not only is chilling but is also depressing.
-I also watched the movie, which is a good adaptation, in my opinion, of the novel.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Who or what comes into your mind when you hear the name Agnes?&lt;/strong&gt;&lt;br&gt;
-&amp;ldquo;Agnes&amp;rdquo; could be a motherly character from a prime time telenovela played by Agot Isidro.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vague Titles</title>
-      <link>https://ohio.araw.xyz/titles/</link>
-      <pubDate>Fri, 12 Mar 2021 00:41:40 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/titles/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Edited some sections in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt;.
+I also watched the movie, which is a good adaptation, in my opinion, of the novel.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Who or what comes into your mind when you hear the name Agnes?&lt;/strong>&lt;br>
+&amp;ldquo;Agnes&amp;rdquo; could be a motherly character from a prime time telenovela played by Agot Isidro.&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Vague Titles</title><link>https://ohio.araw.xyz/titles/</link><pubDate>Fri, 12 Mar 2021 00:41:40 +0800</pubDate><guid>https://ohio.araw.xyz/titles/</guid><description>&lt;ul>
+&lt;li>Edited some sections in the &lt;a href="https://ohio.araw.xyz/site/">Site&lt;/a>.
 Also, I just learned that when writing in Markdown, I didn&amp;rsquo;t have to put the footnotes at the end of the document!
-When Hugo converts &lt;code&gt;.md&lt;/code&gt; to &lt;code&gt;.html&lt;/code&gt;, it automatically places them at the end&amp;hellip;?!&lt;/li&gt;
-&lt;li&gt;Edited a line in &lt;a href=&#34;https://ohio.araw.xyz/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In Recent Years, I always dreamed of having a vague title for myself, like Designer or Consultant.
+When Hugo converts &lt;code>.md&lt;/code> to &lt;code>.html&lt;/code>, it automatically places them at the end&amp;hellip;?!&lt;/li>
+&lt;li>Edited a line in &lt;a href="https://ohio.araw.xyz/imbentori/">Imbentori&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>In Recent Years, I always dreamed of having a vague title for myself, like Designer or Consultant.
 Something that I can claim.
-Or something that I can only hope to be, depending on who&amp;rsquo;s asking.&lt;/p&gt;
-&lt;p&gt;But never Influencer, yuck!
-Although, when you think of it, one (in)directly &lt;em&gt;influences&lt;/em&gt; people, places, and/or things when one &lt;em&gt;designs&lt;/em&gt;, or when one is &lt;em&gt;consulted&lt;/em&gt; for their expertise.
-In reality, my dislike is more directed towards self-branded Influencers who flock social media like Instagram and/or Tiktok.&lt;/p&gt;
-&lt;p&gt;Now, that&amp;rsquo;s not to say I like having a title.
+Or something that I can only hope to be, depending on who&amp;rsquo;s asking.&lt;/p>
+&lt;p>But never Influencer, yuck!
+Although, when you think of it, one (in)directly &lt;em>influences&lt;/em> people, places, and/or things when one &lt;em>designs&lt;/em>, or when one is &lt;em>consulted&lt;/em> for their expertise.
+In reality, my dislike is more directed towards self-branded Influencers who flock social media like Instagram and/or Tiktok.&lt;/p>
+&lt;p>Now, that&amp;rsquo;s not to say I like having a title.
 Filipinos, especially, like to have so many titles affixed to their legal names.
-Who can blame them when doing so gives the illusion of having more opportunities?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Productivity Conflicts</title>
-      <link>https://ohio.araw.xyz/prod-conf/</link>
-      <pubDate>Wed, 10 Mar 2021 10:46:08 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/prod-conf/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Lightly adjusted the color scheme for dark-themed devices.
-Also (ruthlessly?) pruned the CSS.&lt;/li&gt;
-&lt;li&gt;Added a brief explainer on the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; about the now-added northeast arrows on external links.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The past few weeks, my to-do list has hounded me to clean and repaste Ador&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.
-This should be done maybe twice a year to maintain the operating temperature within the motherboard.&lt;/p&gt;
-&lt;p&gt;PastMe scheduled this task for Feb 2021, but I kept postponing it, until today.
+Who can blame them when doing so gives the illusion of having more opportunities?&lt;/p></description></item><item><title>Productivity Conflicts</title><link>https://ohio.araw.xyz/prod-conf/</link><pubDate>Wed, 10 Mar 2021 10:46:08 +0800</pubDate><guid>https://ohio.araw.xyz/prod-conf/</guid><description>&lt;ul>
+&lt;li>Lightly adjusted the color scheme for dark-themed devices.
+Also (ruthlessly?) pruned the CSS.&lt;/li>
+&lt;li>Added a brief explainer on the &lt;a href="https://ohio.araw.xyz/site/">Site&lt;/a> about the now-added northeast arrows on external links.&lt;/li>
+&lt;/ul>
+&lt;p>The past few weeks, my to-do list has hounded me to clean and repaste Ador&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.
+This should be done maybe twice a year to maintain the operating temperature within the motherboard.&lt;/p>
+&lt;p>PastMe scheduled this task for Feb 2021, but I kept postponing it, until today.
 Ador&amp;rsquo;s fan had been in overdrive the last few days.
-Add to that the unusual heat coming off from its left side.&lt;/p&gt;
-&lt;p&gt;Now, after the task, it&amp;rsquo;s back to normal levels;
-Ador has been quiet since.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m investigating why something in my to-do list is able to &amp;ldquo;hound&amp;rdquo; me.&lt;/p&gt;
-&lt;p&gt;I think it stems from the social pressure that I, a participant of my environment, must produce something of value, to give something back.
-It directly conflicts with my &lt;em&gt;desire&lt;/em&gt; to do nothing.
-Or rather, be able to just sit and think, and still be worry-free.&lt;/p&gt;
-&lt;p&gt;Unemployment, in my case, opens new ways to be productive, I should remind myself that.
-It allows me to &lt;a href=&#34;https://ohio.araw.xyz/di-why/&#34;&gt;look into projects&lt;/a&gt; that I might not have if I was working.
-This, however, is predicated by the fact that I have some sort of &lt;a href=&#34;https://katiescarlettneedsmoney.com/4-strategies-you-can-use-to-build-an-emergency-fund/&#34;&gt;emergency fund&lt;/a&gt; saved up.
+Add to that the unusual heat coming off from its left side.&lt;/p>
+&lt;p>Now, after the task, it&amp;rsquo;s back to normal levels;
+Ador has been quiet since.&lt;/p>
+&lt;p>I&amp;rsquo;m investigating why something in my to-do list is able to &amp;ldquo;hound&amp;rdquo; me.&lt;/p>
+&lt;p>I think it stems from the social pressure that I, a participant of my environment, must produce something of value, to give something back.
+It directly conflicts with my &lt;em>desire&lt;/em> to do nothing.
+Or rather, be able to just sit and think, and still be worry-free.&lt;/p>
+&lt;p>Unemployment, in my case, opens new ways to be productive, I should remind myself that.
+It allows me to &lt;a href="https://ohio.araw.xyz/di-why/">look into projects&lt;/a> that I might not have if I was working.
+This, however, is predicated by the fact that I have some sort of &lt;a href="https://katiescarlettneedsmoney.com/4-strategies-you-can-use-to-build-an-emergency-fund/">emergency fund&lt;/a> saved up.
 This fund buys me time to be worry-free.
-If my calculations remain correct for the foreseeable future, I have between 8-12 months worth of living expenses to burn through.&lt;/p&gt;
-&lt;p&gt;Anyway&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Van Neistat started his own YouTube channel.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;The name of my Thinkpad X220 that I bought secondhand a little over a year ago.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Skill or Virtue?</title>
-      <link>https://ohio.araw.xyz/piav/</link>
-      <pubDate>Mon, 08 Mar 2021 13:42:44 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/piav/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added a long-ago completed project, &lt;a href=&#34;https://ohio.araw.xyz/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Compressed the site&amp;rsquo;s logo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;After watching and rewatching videos on how to repair Apple&amp;rsquo;s Magsafe Power Adapter 1
+If my calculations remain correct for the foreseeable future, I have between 8-12 months worth of living expenses to burn through.&lt;/p>
+&lt;p>Anyway&amp;hellip;&lt;/p>
+&lt;p>Van Neistat started his own YouTube channel.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>The name of my Thinkpad X220 that I bought secondhand a little over a year ago.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Skill or Virtue?</title><link>https://ohio.araw.xyz/piav/</link><pubDate>Mon, 08 Mar 2021 13:42:44 +0800</pubDate><guid>https://ohio.araw.xyz/piav/</guid><description>&lt;ul>
+&lt;li>Added a long-ago completed project, &lt;a href="https://ohio.araw.xyz/imbentori/">Imbentori&lt;/a>.&lt;/li>
+&lt;li>Compressed the site&amp;rsquo;s logo.&lt;/li>
+&lt;/ul>
+&lt;p>After watching and rewatching videos on how to repair Apple&amp;rsquo;s Magsafe Power Adapter 1
 (not sure what the official name is),
 I decided to actually try repairing the thing, because I need it to work:
 when the MacBook it came with was given to me, it had no battery.
-It would boot directly from the power adapter, if only there&amp;rsquo;s a working one around.&lt;/p&gt;
-&lt;p&gt;Patience is a different skill set, in my opinion.
+It would boot directly from the power adapter, if only there&amp;rsquo;s a working one around.&lt;/p>
+&lt;p>Patience is a different skill set, in my opinion.
 But I may be setting the bar low here for calling it a skill set.
-Isn&amp;rsquo;t it a Virtue?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Decadent Lethargy</title>
-      <link>https://ohio.araw.xyz/decadent-lethargy/</link>
-      <pubDate>Fri, 05 Mar 2021 07:24:29 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/decadent-lethargy/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Edited one or two lines in the &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; page.&lt;/li&gt;
-&lt;li&gt;Added a page, called &lt;a href=&#34;https://ohio.araw.xyz/di-why/&#34;&gt;Ideas of Possible Projects&lt;/a&gt;, where such list is found.
-Right now, the page can be accessed through the Support page, this log, and by memory (adding &lt;code&gt;/di-why&lt;/code&gt; at the end of the base URL).&lt;/li&gt;
-&lt;li&gt;Added Dan Luu&amp;rsquo;s blog as another inspiration for this &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;.
-Also added a service for those who may want to subscribe to RSS by email.&lt;/li&gt;
-&lt;li&gt;Changed the site&amp;rsquo;s logo to something&amp;hellip; &lt;em&gt;larger&lt;/em&gt;.
-I used the &lt;a href=&#34;https://100r.co/site/dotgrid.html&#34;&gt;Hundred Rabbit&amp;rsquo;s Dotgrid&lt;/a&gt; tool to create it, which in my opinion is great!
-Expect that I will play with drawing software.&lt;/li&gt;
-&lt;li&gt;On the Index, my CV can now be viewed as a page in this website without having to donwload the PDF.
-I also updated a line in the footer.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I know it&amp;rsquo;s getting harder to focus one thing at a time in this Age of Information.
+Isn&amp;rsquo;t it a Virtue?&lt;/p></description></item><item><title>Decadent Lethargy</title><link>https://ohio.araw.xyz/decadent-lethargy/</link><pubDate>Fri, 05 Mar 2021 07:24:29 +0800</pubDate><guid>https://ohio.araw.xyz/decadent-lethargy/</guid><description>&lt;ul>
+&lt;li>Edited one or two lines in the &lt;a href="https://ohio.araw.xyz/support/">Support&lt;/a> page.&lt;/li>
+&lt;li>Added a page, called &lt;a href="https://ohio.araw.xyz/di-why/">Ideas of Possible Projects&lt;/a>, where such list is found.
+Right now, the page can be accessed through the Support page, this log, and by memory (adding &lt;code>/di-why&lt;/code> at the end of the base URL).&lt;/li>
+&lt;li>Added Dan Luu&amp;rsquo;s blog as another inspiration for this &lt;a href="https://ohio.araw.xyz/site">Site&lt;/a>.
+Also added a service for those who may want to subscribe to RSS by email.&lt;/li>
+&lt;li>Changed the site&amp;rsquo;s logo to something&amp;hellip; &lt;em>larger&lt;/em>.
+I used the &lt;a href="https://100r.co/site/dotgrid.html">Hundred Rabbit&amp;rsquo;s Dotgrid&lt;/a> tool to create it, which in my opinion is great!
+Expect that I will play with drawing software.&lt;/li>
+&lt;li>On the Index, my CV can now be viewed as a page in this website without having to donwload the PDF.
+I also updated a line in the footer.&lt;/li>
+&lt;/ul>
+&lt;p>I know it&amp;rsquo;s getting harder to focus one thing at a time in this Age of Information.
 I know, because I suffer from the same problem day in and day out.
 Not much to it, really.
 I use the term &amp;ldquo;suffer&amp;rdquo; but it feels more like decadent lethargy.
-&lt;em&gt;If you can do the same thing with less effort, do it!&lt;/em&gt;
-I often tell myself.&lt;/p&gt;
-&lt;p&gt;In the same vein, could being lazy, and possibly helping others settle into their own brand of Laziness, be a career path?
+&lt;em>If you can do the same thing with less effort, do it!&lt;/em>
+I often tell myself.&lt;/p>
+&lt;p>In the same vein, could being lazy, and possibly helping others settle into their own brand of Laziness, be a career path?
 Of course, it has to be rebranded, like:
-&lt;strong&gt;Help people get the most useful {info, thing, experience, XYZ} in the shortest time possible.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I keep on reading and hearing about this Pomodoro technique for years now.
-Perhaps, it&amp;rsquo;s a viable solution to my waning and waxing attention span.&lt;/p&gt;
-&lt;p&gt;Hyperconnectivity allows us to access different people, different stuff from different points most of the time, and yet it can&amp;rsquo;t necessarily nourish us.
-Is it more likely that it instead drains us?&lt;/p&gt;
-&lt;p&gt;It is March now.
+&lt;strong>Help people get the most useful {info, thing, experience, XYZ} in the shortest time possible.&lt;/strong>&lt;/p>
+&lt;p>I keep on reading and hearing about this Pomodoro technique for years now.
+Perhaps, it&amp;rsquo;s a viable solution to my waning and waxing attention span.&lt;/p>
+&lt;p>Hyperconnectivity allows us to access different people, different stuff from different points most of the time, and yet it can&amp;rsquo;t necessarily nourish us.
+Is it more likely that it instead drains us?&lt;/p>
+&lt;p>It is March now.
 Heat starts to become unbearable.
-We&amp;rsquo;ve been meaning to have an aircon unit in our room, and today it is now installed.&lt;/p&gt;
-&lt;p&gt;Who would have thought that we&amp;rsquo;re nearing the anniversary of a lockdown?
+We&amp;rsquo;ve been meaning to have an aircon unit in our room, and today it is now installed.&lt;/p>
+&lt;p>Who would have thought that we&amp;rsquo;re nearing the anniversary of a lockdown?
 To commemorate this wonderful event, we&amp;rsquo;ve downloaded Katamari Damacy on Isya&amp;rsquo;s old/new laptop.
-I&amp;rsquo;m thinking of completing the game 100%.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Redistribution</title>
-      <link>https://ohio.araw.xyz/redis/</link>
-      <pubDate>Wed, 24 Feb 2021 11:59:16 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/redis/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added new sections to the &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt; project.
+I&amp;rsquo;m thinking of completing the game 100%.&lt;/p></description></item><item><title>Redistribution</title><link>https://ohio.araw.xyz/redis/</link><pubDate>Wed, 24 Feb 2021 11:59:16 +0800</pubDate><guid>https://ohio.araw.xyz/redis/</guid><description>&lt;ul>
+&lt;li>Added new sections to the &lt;a href="https://ohio.araw.xyz/server/">Server&lt;/a> project.
 Still haven&amp;rsquo;t gotten around to it, but I will soon.
-I have to, now that I have a domain.&lt;/li&gt;
-&lt;li&gt;Added Paypal link in my &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; page.
-Also inserted a better pitch in there.&lt;/li&gt;
-&lt;li&gt;Edited a footnote in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;Minor edit of the footer.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In a society much better than this one, many things are readily available to everyone.
+I have to, now that I have a domain.&lt;/li>
+&lt;li>Added Paypal link in my &lt;a href="https://ohio.araw.xyz/support/">Support&lt;/a> page.
+Also inserted a better pitch in there.&lt;/li>
+&lt;li>Edited a footnote in the &lt;a href="https://ohio.araw.xyz/site/">Site&lt;/a> project.&lt;/li>
+&lt;li>Minor edit of the footer.&lt;/li>
+&lt;/ul>
+&lt;p>In a society much better than this one, many things are readily available to everyone.
 People meet their basic needs.
-I imagine they are freer in their actions, in that they don&amp;rsquo;t (need/feel the need to) limit others&#39; freedoms.
-But this isn&amp;rsquo;t that society.&lt;/p&gt;
-&lt;p&gt;In the meantime, support the people you want and can, in any method, legal and/or moral, you know how.
-&lt;em&gt;Redistribute&lt;/em&gt; everything else accordingly.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>We Want a Maggot-Free Cake</title>
-      <link>https://ohio.araw.xyz/cake/</link>
-      <pubDate>Mon, 22 Feb 2021 08:05:17 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/cake/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added a way for readers (are there any?) to support me, found in this page: &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; (via Liberapay).
-To be as less obnoxious about it as possible, this link will only be at the end of each Project page.&lt;/li&gt;
-&lt;li&gt;Changed my email address in the Index.
-After getting a domain from &lt;a href=&#34;https://www.epik.com&#34;&gt;Epik&amp;rsquo;s&lt;/a&gt; registrar and setting up an email server with &lt;a href=&#34;https://www.migadu.com&#34;&gt;Migadu&lt;/a&gt;, I now have a custom email address.
+I imagine they are freer in their actions, in that they don&amp;rsquo;t (need/feel the need to) limit others' freedoms.
+But this isn&amp;rsquo;t that society.&lt;/p>
+&lt;p>In the meantime, support the people you want and can, in any method, legal and/or moral, you know how.
+&lt;em>Redistribute&lt;/em> everything else accordingly.&lt;/p></description></item><item><title>We Want a Maggot-Free Cake</title><link>https://ohio.araw.xyz/cake/</link><pubDate>Mon, 22 Feb 2021 08:05:17 +0800</pubDate><guid>https://ohio.araw.xyz/cake/</guid><description>&lt;ul>
+&lt;li>Added a way for readers (are there any?) to support me, found in this page: &lt;a href="https://ohio.araw.xyz/support/">Support&lt;/a> (via Liberapay).
+To be as less obnoxious about it as possible, this link will only be at the end of each Project page.&lt;/li>
+&lt;li>Changed my email address in the Index.
+After getting a domain from &lt;a href="https://www.epik.com">Epik&amp;rsquo;s&lt;/a> registrar and setting up an email server with &lt;a href="https://www.migadu.com">Migadu&lt;/a>, I now have a custom email address.
 In the future, I will also set one up for Isya.
-In the meantime, please send your mails to my new address.&lt;/li&gt;
-&lt;li&gt;Also in Index, edited a few lines.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Today, our neighbors gifted us with plenty of food.&lt;/p&gt;
-&lt;p&gt;One gave a tofu-version of sisig.
-This lady was delighted to know that too I&amp;rsquo;m a tofu fan.&lt;/p&gt;
-&lt;p&gt;Another neighbor brought us &lt;em&gt;two&lt;/em&gt; different servings of food:
+In the meantime, please send your mails to my new address.&lt;/li>
+&lt;li>Also in Index, edited a few lines.&lt;/li>
+&lt;/ul>
+&lt;p>Today, our neighbors gifted us with plenty of food.&lt;/p>
+&lt;p>One gave a tofu-version of sisig.
+This lady was delighted to know that too I&amp;rsquo;m a tofu fan.&lt;/p>
+&lt;p>Another neighbor brought us &lt;em>two&lt;/em> different servings of food:
 chocolate cake and macaroni fruit salad.
-The latter we found weird&amp;mdash;who adds macaroni in fruit salads?&lt;/p&gt;
-&lt;p&gt;The cake&amp;mdash;the cake is a lie.
+The latter we found weird&amp;mdash;who adds macaroni in fruit salads?&lt;/p>
+&lt;p>The cake&amp;mdash;the cake is a lie.
 Good thing that Isya first inspected it before eating a slice.
-The cake is full of maggots.&lt;/p&gt;
-&lt;p&gt;We had to throw it out, and by that I mean send it to the compost bin.
-Give it one last purpose, at least.&lt;/p&gt;
-&lt;p&gt;Now, that we&amp;rsquo;ve been primed to desire a chocolate cake, ordering one, maggot-free, was the next most logical step.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>積ん読</title>
-      <link>https://ohio.araw.xyz/tsundoku/</link>
-      <pubDate>Fri, 19 Feb 2021 15:05:04 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/tsundoku/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Updated the CV. Reduced it to one page.&lt;/li&gt;
-&lt;li&gt;Changed the status of &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt; project
-from &lt;strong&gt;on-going&lt;/strong&gt; to &lt;strong&gt;done&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTsundoku&#34;&gt;&lt;em&gt;Tsundoku&lt;/em&gt;&lt;/a&gt; (積ん読) becomes our mode of expressing ourselves here.
+The cake is full of maggots.&lt;/p>
+&lt;p>We had to throw it out, and by that I mean send it to the compost bin.
+Give it one last purpose, at least.&lt;/p>
+&lt;p>Now, that we&amp;rsquo;ve been primed to desire a chocolate cake, ordering one, maggot-free, was the next most logical step.&lt;/p></description></item><item><title>積ん読</title><link>https://ohio.araw.xyz/tsundoku/</link><pubDate>Fri, 19 Feb 2021 15:05:04 +0800</pubDate><guid>https://ohio.araw.xyz/tsundoku/</guid><description>&lt;ul>
+&lt;li>Updated the CV. Reduced it to one page.&lt;/li>
+&lt;li>Changed the status of &lt;a href="https://ohio.araw.xyz/encode/">Encoding&lt;/a> project
+from &lt;strong>on-going&lt;/strong> to &lt;strong>done&lt;/strong>.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://duckduckgo.com/l/?uddg=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTsundoku">&lt;em>Tsundoku&lt;/em>&lt;/a> (積ん読) becomes our mode of expressing ourselves here.
 How we decorate the blank spaces with books of various interests.
-It&amp;rsquo;s because the many books that we acquire that we have not touched and are piled up together are for sale at:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;&lt;strong&gt;Always Carry A Book&lt;/strong&gt;&lt;/a&gt;, a mantra that we follow only when it&amp;rsquo;s convenient, and less than one kilogram.&lt;/p&gt;
-&lt;p&gt;We can only gloss over them as we put them up on the store one by one.&lt;/p&gt;
-&lt;p&gt;As for the many more books that already have that aren&amp;rsquo;t for sale, well, they shall remain dusty until we find time to pick them up.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pressing Issues on a Valentine&#39;s Day</title>
-      <link>https://ohio.araw.xyz/piv-day/</link>
-      <pubDate>Sun, 14 Feb 2021 07:24:37 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/piv-day/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added a site logo.
+It&amp;rsquo;s because the many books that we acquire that we have not touched and are piled up together are for sale at:&lt;/p>
+&lt;p>&lt;a href="https://alwayscarry.netlify.app">&lt;strong>Always Carry A Book&lt;/strong>&lt;/a>, a mantra that we follow only when it&amp;rsquo;s convenient, and less than one kilogram.&lt;/p>
+&lt;p>We can only gloss over them as we put them up on the store one by one.&lt;/p>
+&lt;p>As for the many more books that already have that aren&amp;rsquo;t for sale, well, they shall remain dusty until we find time to pick them up.&lt;/p></description></item><item><title>Pressing Issues on a Valentine's Day</title><link>https://ohio.araw.xyz/piv-day/</link><pubDate>Sun, 14 Feb 2021 07:24:37 +0800</pubDate><guid>https://ohio.araw.xyz/piv-day/</guid><description>&lt;ul>
+&lt;li>Added a site logo.
 It&amp;rsquo;s actually just scaled vector graphics (SVG) coded with HTML.
 Experimental at the moment.
-I&amp;rsquo;ll likely change that into something more artsy in the future.&lt;/li&gt;
-&lt;li&gt;Edited a few lines in the &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;Edited some parts in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt;/ project.
-I added some notes about my new found tool, &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;, with the help of which I&lt;/li&gt;
-&lt;li&gt;redid an image in &lt;a href=&#34;https://ohio.araw.xyz/mercipod/&#34;&gt;iPod Upgrade&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;Removed the @tuta.io email from Index.
+I&amp;rsquo;ll likely change that into something more artsy in the future.&lt;/li>
+&lt;li>Edited a few lines in the &lt;a href="https://ohio.araw.xyz/encode/">Encoding&lt;/a> project.&lt;/li>
+&lt;li>Edited some parts in &lt;a href="https://ohio.araw.xyz/site">This Site&lt;/a>/ project.
+I added some notes about my new found tool, &lt;a href="https://github.com/jarun/imgp">imgp&lt;/a>, with the help of which I&lt;/li>
+&lt;li>redid an image in &lt;a href="https://ohio.araw.xyz/mercipod/">iPod Upgrade&lt;/a> project.&lt;/li>
+&lt;li>Removed the @tuta.io email from Index.
 I don&amp;rsquo;t know why I can&amp;rsquo;t access Tutanota servers.
 Something to do with my location?
-In the meantime, @live.com.ph shall receive any emails.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;A day like any other.
+In the meantime, @live.com.ph shall receive any emails.&lt;/li>
+&lt;/ul>
+&lt;p>A day like any other.
 An okay day so far for a cat named Ming to look for love (or escape from hate) beyond the walls.
-A perfect time to be hounded by pressing questions like:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;What is the realistic thing to do to not go hungry and be kicked out in the streets?&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The modern answer: Get a job.
-I prefer &amp;ldquo;At least be useful to people,&amp;rdquo; but to be honest, consistently doing that takes effort and leads to burnout.&lt;/p&gt;
-&lt;p&gt;Not at all a bad day, in my opinion.&lt;/p&gt;
-&lt;p&gt;Make a non-exhaustive list of what a bad day looks likes.
+A perfect time to be hounded by pressing questions like:&lt;/p>
+&lt;blockquote>
+&lt;p>What is the realistic thing to do to not go hungry and be kicked out in the streets?&lt;/p>
+&lt;/blockquote>
+&lt;p>The modern answer: Get a job.
+I prefer &amp;ldquo;At least be useful to people,&amp;rdquo; but to be honest, consistently doing that takes effort and leads to burnout.&lt;/p>
+&lt;p>Not at all a bad day, in my opinion.&lt;/p>
+&lt;p>Make a non-exhaustive list of what a bad day looks likes.
 I like making lists.
 Creating lists has a calming effect.
-Anyway, specify a number of items in the list, that when met, will constitute a bad day.&lt;/p&gt;
-&lt;p&gt;Today is also a great day to go against the grain, to have the guts to think independently of what&amp;rsquo;s &lt;em&gt;uso&lt;/em&gt;.
-Some might suspect its edginess, but as long as hate isn&amp;rsquo;t promoted, it&amp;rsquo;s fine.&lt;/p&gt;
-&lt;p&gt;Choose a simple set of tunes to spaghettify to &lt;em&gt;en plein air&lt;/em&gt;, even if it&amp;rsquo;s unnecessary.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bad Habit: Impatience</title>
-      <link>https://ohio.araw.xyz/badimp/</link>
-      <pubDate>Tue, 09 Feb 2021 07:31:45 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/badimp/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Reworked the color of blockquotes on a dark-themed system.&lt;/li&gt;
-&lt;li&gt;Added background color to footnote (back) reference links, so they can be easily distinguished.&lt;/li&gt;
-&lt;li&gt;Added a few emojis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I have long since acknowledged my terri(ble/fic) demeanor.
-I am (im)patient, it goes without saying, and I have to check myself constantly before doing something or opening my mouth.&lt;/p&gt;
-&lt;p&gt;Lately, I have become more irritable towards myself, because of the petty mistakes that most likely go into flames, which I would then fan.&lt;br&gt;
+Anyway, specify a number of items in the list, that when met, will constitute a bad day.&lt;/p>
+&lt;p>Today is also a great day to go against the grain, to have the guts to think independently of what&amp;rsquo;s &lt;em>uso&lt;/em>.
+Some might suspect its edginess, but as long as hate isn&amp;rsquo;t promoted, it&amp;rsquo;s fine.&lt;/p>
+&lt;p>Choose a simple set of tunes to spaghettify to &lt;em>en plein air&lt;/em>, even if it&amp;rsquo;s unnecessary.&lt;/p></description></item><item><title>Bad Habit: Impatience</title><link>https://ohio.araw.xyz/badimp/</link><pubDate>Tue, 09 Feb 2021 07:31:45 +0800</pubDate><guid>https://ohio.araw.xyz/badimp/</guid><description>&lt;ul>
+&lt;li>Reworked the color of blockquotes on a dark-themed system.&lt;/li>
+&lt;li>Added background color to footnote (back) reference links, so they can be easily distinguished.&lt;/li>
+&lt;li>Added a few emojis&lt;/li>
+&lt;/ul>
+&lt;p>I have long since acknowledged my terri(ble/fic) demeanor.
+I am (im)patient, it goes without saying, and I have to check myself constantly before doing something or opening my mouth.&lt;/p>
+&lt;p>Lately, I have become more irritable towards myself, because of the petty mistakes that most likely go into flames, which I would then fan.&lt;br>
 No one should sustain this habit of self-depracating.
-I know it&amp;rsquo;s unhealthy, and yet I do it, like eating fried meat.&lt;/p&gt;
-&lt;p&gt;Society as a whole likes to drone over the shoulder to peek at the things I &lt;em&gt;should&lt;/em&gt; be doing but don&amp;rsquo;t.
-Sometimes, it seems disappointed, but mostly, it doesn&amp;rsquo;t care.&lt;br&gt;
+I know it&amp;rsquo;s unhealthy, and yet I do it, like eating fried meat.&lt;/p>
+&lt;p>Society as a whole likes to drone over the shoulder to peek at the things I &lt;em>should&lt;/em> be doing but don&amp;rsquo;t.
+Sometimes, it seems disappointed, but mostly, it doesn&amp;rsquo;t care.&lt;br>
 They don&amp;rsquo;t care in the sense that they can&amp;rsquo;t;
-they don&amp;rsquo;t know me at all, so there&amp;rsquo;s really no big reason to.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Author to be laid off</title>
-      <link>https://ohio.araw.xyz/nowork/</link>
-      <pubDate>Thu, 04 Feb 2021 01:14:22 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/nowork/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added new project &lt;a href=&#34;https://ohio.araw.xyz/mercipod/&#34;&gt;iPod Classic Hard Drive Upgrade&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Minor adjustments in fonts and their sizes.
-Does it improve the readability of the site?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;d like to talk briefly about my current employment situation, which would end soon:
+they don&amp;rsquo;t know me at all, so there&amp;rsquo;s really no big reason to.&lt;/p></description></item><item><title>Author to be laid off</title><link>https://ohio.araw.xyz/nowork/</link><pubDate>Thu, 04 Feb 2021 01:14:22 +0800</pubDate><guid>https://ohio.araw.xyz/nowork/</guid><description>&lt;ul>
+&lt;li>Added new project &lt;a href="https://ohio.araw.xyz/mercipod/">iPod Classic Hard Drive Upgrade&lt;/a>&lt;/li>
+&lt;li>Minor adjustments in fonts and their sizes.
+Does it improve the readability of the site?&lt;/li>
+&lt;/ul>
+&lt;p>I&amp;rsquo;d like to talk briefly about my current employment situation, which would end soon:
 I would be officially out of work by this 12 Feb, and I think that&amp;rsquo;s fine.
-An official excuse to be lethargic for a while.&lt;/p&gt;
-&lt;p&gt;Nothing is lined up at the momment.
-The search goes on.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s just that employers make sure that they do as much filtering as possible.
+An official excuse to be lethargic for a while.&lt;/p>
+&lt;p>Nothing is lined up at the momment.
+The search goes on.&lt;/p>
+&lt;p>It&amp;rsquo;s just that employers make sure that they do as much filtering as possible.
 Some would inappropriately ask, &amp;ldquo;What self-improvement did you do during the lockdown?&amp;rdquo;
-What they&amp;rsquo;re really asking is, &amp;ldquo;We are looking for people with the initiative to make themselves useful for profit-making. Are you one of them?&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;People need to slow down.
-Don&amp;rsquo;t give in to the hustle culture, which is inherently toxic by nature anyway.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Visiting Pagkakaisa</title>
-      <link>https://ohio.araw.xyz/pagkakaisa/</link>
-      <pubDate>Mon, 01 Feb 2021 11:55:26 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/pagkakaisa/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Removed a few sentences in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt;, particularly those about my implied distaste towards JS.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;After more than a year of not making an appearance in our ancestral house in Pagkakaisa Street, Isya and I finally went there yesterday.&lt;/p&gt;
-&lt;p&gt;To be honest, I was not too excited on going there for a number of things.
+What they&amp;rsquo;re really asking is, &amp;ldquo;We are looking for people with the initiative to make themselves useful for profit-making. Are you one of them?&amp;rdquo;&lt;/p>
+&lt;p>People need to slow down.
+Don&amp;rsquo;t give in to the hustle culture, which is inherently toxic by nature anyway.&lt;/p></description></item><item><title>Visiting Pagkakaisa</title><link>https://ohio.araw.xyz/pagkakaisa/</link><pubDate>Mon, 01 Feb 2021 11:55:26 +0800</pubDate><guid>https://ohio.araw.xyz/pagkakaisa/</guid><description>&lt;ul>
+&lt;li>Removed a few sentences in &lt;a href="https://ohio.araw.xyz/site">This Site&lt;/a>, particularly those about my implied distaste towards JS.&lt;/li>
+&lt;/ul>
+&lt;p>After more than a year of not making an appearance in our ancestral house in Pagkakaisa Street, Isya and I finally went there yesterday.&lt;/p>
+&lt;p>To be honest, I was not too excited on going there for a number of things.
 First, commuting via public transportation from Antipolo to Makati, even on a Sunday, is not easy.
-Our travel time lasted around two hours, one way.&lt;/p&gt;
-&lt;p&gt;And lastly, people there, my relatives, are heavy chain-smokers.
+Our travel time lasted around two hours, one way.&lt;/p>
+&lt;p>And lastly, people there, my relatives, are heavy chain-smokers.
 Perhaps, the next time that we&amp;rsquo;ll be there, we should wear (gas) masks indoors.
 The smokescreen from their constantly burning cigarettes was so thick I could not see past an arm&amp;rsquo;s length.
 I wish I was exagerrating.
 Let&amp;rsquo;s not even go to how long that toxic fume sticks on your person.
-Hours!&lt;/p&gt;
-&lt;p&gt;But there we went, with or without incentives, because it&amp;rsquo;s been more than a year since I saw them.
-We have more catching up to do.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Esmeris Farm</title>
-      <link>https://ohio.araw.xyz/esmeris/</link>
-      <pubDate>Fri, 29 Jan 2021 15:16:41 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/esmeris/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/esmeris.jpeg&#34;
-         alt=&#34;foliage, forest&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;Imagine being surrounded by this&lt;/p&gt;
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I&amp;rsquo;d like to think that I was present the entire trip from Rizal to Laguna and back, that&amp;rsquo;s why I only manage to take a few photos.
-In reality, the trip exhausted me and my companions.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s literally a needed trip.
-Each of us had expected something out of this, but it&amp;rsquo;s unclear whether we&amp;rsquo;re all okay with the outcomes.&lt;/p&gt;
-&lt;p&gt;Sentimental music in city pop always puts me in place, especially when the setting blows cold, wet winds our way.&lt;/p&gt;
-&lt;p&gt;The Future will be chilling long after it has burned.
-Every notion will have become useless by then, but it the meantime, any idea is worth arguing for so long as it makes perfect sense to us.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>No New Interesting</title>
-      <link>https://ohio.araw.xyz/nonew/</link>
-      <pubDate>Tue, 26 Jan 2021 10:13:12 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/nonew/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Changed this site&amp;rsquo;s title, from &lt;em&gt;&lt;strong&gt;of somersaulting&lt;/strong&gt;&lt;/em&gt; to &lt;em&gt;&lt;strong&gt;to oblique lair&lt;/strong&gt;&lt;/em&gt;.
+Hours!&lt;/p>
+&lt;p>But there we went, with or without incentives, because it&amp;rsquo;s been more than a year since I saw them.
+We have more catching up to do.&lt;/p></description></item><item><title>Esmeris Farm</title><link>https://ohio.araw.xyz/esmeris/</link><pubDate>Fri, 29 Jan 2021 15:16:41 +0800</pubDate><guid>https://ohio.araw.xyz/esmeris/</guid><description>&lt;figure>&lt;img src="https://ohio.araw.xyz/image/esmeris.jpeg"
+alt="foliage, forest"/>&lt;figcaption>
+&lt;p>Imagine being surrounded by this&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>I&amp;rsquo;d like to think that I was present the entire trip from Rizal to Laguna and back, that&amp;rsquo;s why I only manage to take a few photos.
+In reality, the trip exhausted me and my companions.&lt;/p>
+&lt;p>It&amp;rsquo;s literally a needed trip.
+Each of us had expected something out of this, but it&amp;rsquo;s unclear whether we&amp;rsquo;re all okay with the outcomes.&lt;/p>
+&lt;p>Sentimental music in city pop always puts me in place, especially when the setting blows cold, wet winds our way.&lt;/p>
+&lt;p>The Future will be chilling long after it has burned.
+Every notion will have become useless by then, but it the meantime, any idea is worth arguing for so long as it makes perfect sense to us.&lt;/p></description></item><item><title>No New Interesting</title><link>https://ohio.araw.xyz/nonew/</link><pubDate>Tue, 26 Jan 2021 10:13:12 +0800</pubDate><guid>https://ohio.araw.xyz/nonew/</guid><description>&lt;ul>
+&lt;li>Changed this site&amp;rsquo;s title, from &lt;em>&lt;strong>of somersaulting&lt;/strong>&lt;/em> to &lt;em>&lt;strong>to oblique lair&lt;/strong>&lt;/em>.
 The latter is an anagram of my middle and surname.
 I&amp;rsquo;d like to think that it emits a certain mystery that kind of misleads.
 If that sounds like equine shite, maybe because it is.
-Look up &amp;ldquo;anagram maker&amp;rdquo; on your favorite search engine if you&amp;rsquo;re into that kind of fun.&lt;/li&gt;
-&lt;li&gt;Added some new recommendations in the &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt; project&lt;/li&gt;
-&lt;li&gt;Edited some lines and addded footnotes in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project&lt;/li&gt;
-&lt;li&gt;New CSS for &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks using &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Hugo&amp;rsquo;s built-in syntax highlighting&lt;/a&gt;.
-Currently, I am using the &lt;code&gt;monokai&lt;/code&gt; theme.&lt;/li&gt;
-&lt;li&gt;Added new section in &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project that briefly explains about a newly added search function feature using JavaScript. 😨&lt;/li&gt;
-&lt;li&gt;Updated my CV using Pandoc.
-It is now two pages long, so I may have to readjust the margins.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This is mostly changelog that I decided to post because this list is getting long enough.
-No new interesting narratives for now.&lt;/p&gt;
-&lt;p&gt;Well, tomorrow, we scheduled a trip to Liliw.
+Look up &amp;ldquo;anagram maker&amp;rdquo; on your favorite search engine if you&amp;rsquo;re into that kind of fun.&lt;/li>
+&lt;li>Added some new recommendations in the &lt;a href="https://ohio.araw.xyz/encode/">Encoding&lt;/a> project&lt;/li>
+&lt;li>Edited some lines and addded footnotes in &lt;a href="https://ohio.araw.xyz/site/">This Site&lt;/a> project&lt;/li>
+&lt;li>New CSS for &lt;code>&amp;lt;code&amp;gt;&lt;/code> blocks using &lt;a href="https://gohugo.io/content-management/syntax-highlighting/">Hugo&amp;rsquo;s built-in syntax highlighting&lt;/a>.
+Currently, I am using the &lt;code>monokai&lt;/code> theme.&lt;/li>
+&lt;li>Added new section in &lt;a href="https://ohio.araw.xyz/alwayscarry/">Always Carry A Book Website&lt;/a> project that briefly explains about a newly added search function feature using JavaScript. 😨&lt;/li>
+&lt;li>Updated my CV using Pandoc.
+It is now two pages long, so I may have to readjust the margins.&lt;/li>
+&lt;/ul>
+&lt;p>This is mostly changelog that I decided to post because this list is getting long enough.
+No new interesting narratives for now.&lt;/p>
+&lt;p>Well, tomorrow, we scheduled a trip to Liliw.
 We hope to see waterfalls and trees.
-Maybe I can share some photo/s in the next post.&lt;/p&gt;
-&lt;p&gt;If all goes well, it would be my first long trip since the Pandemic started, and outside the capital at that.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Some Life Hacks</title>
-      <link>https://ohio.araw.xyz/lh/</link>
-      <pubDate>Mon, 18 Jan 2021 01:44:23 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/lh/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added new project: &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Added some lines in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project, expounding more on the use of Hugo.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Lower&amp;mdash;or, better yet, &lt;em&gt;eliminate&lt;/em&gt;&amp;mdash;expectations.&lt;br&gt;
-&lt;em&gt;&amp;lsquo;Wag (masyadong) umasa.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Don&amp;rsquo;t use social media.&lt;br&gt;
-&lt;em&gt;Iwasan na ang social media.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;100 grams of dry pasta per person; 1 teaspoon of salt per liter of pasta water.&lt;br&gt;
-&lt;em&gt;100 gramong pasta kada tao; 1 kutsaritang asin kada litro ng pinagpakuluan ng pasta.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Don&amp;rsquo;t have kids.&lt;br&gt;
-&lt;em&gt;Wag nang mag-anak.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Remember to be honest with yourself.&lt;br&gt;
-&lt;em&gt;Maging tapat sa sarili.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Remember to make time for your loved ones.&lt;br&gt;
-&lt;em&gt;Wag mong kalimutang maglaan ng oras para sa iyong mga minamahal.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Remember your loved ones, no matter where or when they are.&lt;br&gt;
-&lt;em&gt;Ano bang alam ko kundi ang mangulila?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Remember that the mask goes over the nose.&lt;br&gt;
-&lt;em&gt;Tandaan na dapat matakpan ng face mask ang ilong.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Causing Headaches</title>
-      <link>https://ohio.araw.xyz/headache/</link>
-      <pubDate>Thu, 07 Jan 2021 19:24:40 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/headache/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added new sections to the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project.&lt;/li&gt;
-&lt;li&gt;Minor edit on the footer&lt;/li&gt;
-&lt;li&gt;Added some blurbs on the Index, like adding a separate email for work-related stuff.&lt;/li&gt;
-&lt;li&gt;Edited title for &lt;a href=&#34;https://ohio.araw.xyz/log/index.xml&#34;&gt;RSS feed&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I&amp;rsquo;d like to think that I&amp;rsquo;m taking it easy.
+Maybe I can share some photo/s in the next post.&lt;/p>
+&lt;p>If all goes well, it would be my first long trip since the Pandemic started, and outside the capital at that.&lt;/p></description></item><item><title>Some Life Hacks</title><link>https://ohio.araw.xyz/lh/</link><pubDate>Mon, 18 Jan 2021 01:44:23 +0800</pubDate><guid>https://ohio.araw.xyz/lh/</guid><description>&lt;ul>
+&lt;li>Added new project: &lt;a href="https://ohio.araw.xyz/encode/">Encoding&lt;/a>&lt;/li>
+&lt;li>Added some lines in &lt;a href="https://ohio.araw.xyz/site/">This Site&lt;/a> project, expounding more on the use of Hugo.&lt;/li>
+&lt;/ul>
+&lt;p>Lower&amp;mdash;or, better yet, &lt;em>eliminate&lt;/em>&amp;mdash;expectations.&lt;br>
+&lt;em>&amp;lsquo;Wag (masyadong) umasa.&lt;/em>&lt;/p>
+&lt;p>Don&amp;rsquo;t use social media.&lt;br>
+&lt;em>Iwasan na ang social media.&lt;/em>&lt;/p>
+&lt;p>100 grams of dry pasta per person; 1 teaspoon of salt per liter of pasta water.&lt;br>
+&lt;em>100 gramong pasta kada tao; 1 kutsaritang asin kada litro ng pinagpakuluan ng pasta.&lt;/em>&lt;/p>
+&lt;p>Don&amp;rsquo;t have kids.&lt;br>
+&lt;em>Wag nang mag-anak.&lt;/em>&lt;/p>
+&lt;p>Remember to be honest with yourself.&lt;br>
+&lt;em>Maging tapat sa sarili.&lt;/em>&lt;/p>
+&lt;p>Remember to make time for your loved ones.&lt;br>
+&lt;em>Wag mong kalimutang maglaan ng oras para sa iyong mga minamahal.&lt;/em>&lt;/p>
+&lt;p>Remember your loved ones, no matter where or when they are.&lt;br>
+&lt;em>Ano bang alam ko kundi ang mangulila?&lt;/em>&lt;/p>
+&lt;p>Remember that the mask goes over the nose.&lt;br>
+&lt;em>Tandaan na dapat matakpan ng face mask ang ilong.&lt;/em>&lt;/p></description></item><item><title>Causing Headaches</title><link>https://ohio.araw.xyz/headache/</link><pubDate>Thu, 07 Jan 2021 19:24:40 +0800</pubDate><guid>https://ohio.araw.xyz/headache/</guid><description>&lt;ul>
+&lt;li>Added new sections to the &lt;a href="https://ohio.araw.xyz/alwayscarry/">Always Carry A Book Website&lt;/a> project.&lt;/li>
+&lt;li>Minor edit on the footer&lt;/li>
+&lt;li>Added some blurbs on the Index, like adding a separate email for work-related stuff.&lt;/li>
+&lt;li>Edited title for &lt;a href="https://ohio.araw.xyz/log/index.xml">RSS feed&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>I&amp;rsquo;d like to think that I&amp;rsquo;m taking it easy.
 By having some personal projects that I enjoy doing, going through the motions of the day becomes mentally stimulating.
 To be honest, I don&amp;rsquo;t see myself monetizing a side project any time soon.
-But, anytime soon, that could change because of some interjection of Randomness.&lt;/p&gt;
-&lt;p&gt;Maybe in these small pursuits I won&amp;rsquo;t affect anything.
-At least I can give &lt;em&gt;them&lt;/em&gt; a headache by not merely doing what they think I&amp;rsquo;m supposed to do.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Growing Old</title>
-      <link>https://ohio.araw.xyz/grow-old/</link>
-      <pubDate>Sun, 03 Jan 2021 20:55:25 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/grow-old/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Listed new project: &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book website&lt;/a&gt;.
-It&amp;rsquo;s currently under construction, but feel free to check either the post, or the website.&lt;/li&gt;
-&lt;li&gt;Changed background color of a blockquote.&lt;/li&gt;
-&lt;li&gt;Changed some wording in &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt; project, something about my opinion on not having JavaScript&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Hirap tumanda.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s already evening as I type this out.
-Just got home from Isya&amp;rsquo;s Inay&amp;rsquo;s home in Marikina.&lt;/p&gt;
-&lt;p&gt;Ate Emelyn (not sure of the spelling or if I heard it right) and I prepared the lunch.
-According to survey, the food was good.&lt;/p&gt;
-&lt;p&gt;What does it mean to grow old?
+But, anytime soon, that could change because of some interjection of Randomness.&lt;/p>
+&lt;p>Maybe in these small pursuits I won&amp;rsquo;t affect anything.
+At least I can give &lt;em>them&lt;/em> a headache by not merely doing what they think I&amp;rsquo;m supposed to do.&lt;/p></description></item><item><title>Growing Old</title><link>https://ohio.araw.xyz/grow-old/</link><pubDate>Sun, 03 Jan 2021 20:55:25 +0800</pubDate><guid>https://ohio.araw.xyz/grow-old/</guid><description>&lt;ul>
+&lt;li>Listed new project: &lt;a href="https://ohio.araw.xyz/alwayscarry/">Always Carry A Book website&lt;/a>.
+It&amp;rsquo;s currently under construction, but feel free to check either the post, or the website.&lt;/li>
+&lt;li>Changed background color of a blockquote.&lt;/li>
+&lt;li>Changed some wording in &lt;a href="https://ohio.araw.xyz/site/">This Site&lt;/a> project, something about my opinion on not having JavaScript&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>Hirap tumanda.&lt;/em>&lt;/p>
+&lt;p>It&amp;rsquo;s already evening as I type this out.
+Just got home from Isya&amp;rsquo;s Inay&amp;rsquo;s home in Marikina.&lt;/p>
+&lt;p>Ate Emelyn (not sure of the spelling or if I heard it right) and I prepared the lunch.
+According to survey, the food was good.&lt;/p>
+&lt;p>What does it mean to grow old?
 Does it mean wisdom?
-Does it mean forfeiting everyday human function in order to live longer?&lt;/p&gt;
-&lt;p&gt;Impatience of one elderly seems to ripple to every person trying to take care of them.&lt;/p&gt;
-&lt;p&gt;Bless all the caretakers!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Crises and New Fear</title>
-      <link>https://ohio.araw.xyz/canf/</link>
-      <pubDate>Thu, 31 Dec 2020 13:48:48 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/canf/</guid>
-      <description>&lt;p&gt;No major updates for this site.
+Does it mean forfeiting everyday human function in order to live longer?&lt;/p>
+&lt;p>Impatience of one elderly seems to ripple to every person trying to take care of them.&lt;/p>
+&lt;p>Bless all the caretakers!&lt;/p></description></item><item><title>Crises and New Fear</title><link>https://ohio.araw.xyz/canf/</link><pubDate>Thu, 31 Dec 2020 13:48:48 +0800</pubDate><guid>https://ohio.araw.xyz/canf/</guid><description>&lt;p>No major updates for this site.
 I haven&amp;rsquo;t been doing anything lately for research.
 Of course, here, &amp;ldquo;research&amp;rdquo; is what I call it.
 Essentially, it&amp;rsquo;s me doing a deep dive into things that I&amp;rsquo;m currently interested in doing.
-I may have already said that somewhere here before.&lt;/p&gt;
-&lt;p&gt;I will be &amp;ldquo;looking for new opportunities&amp;rdquo; very soon.
-In the interim, I have to ask myself how best to use my time.&lt;/p&gt;
-&lt;p&gt;Oh, I have installed a Debian-based distro in my machine.
+I may have already said that somewhere here before.&lt;/p>
+&lt;p>I will be &amp;ldquo;looking for new opportunities&amp;rdquo; very soon.
+In the interim, I have to ask myself how best to use my time.&lt;/p>
+&lt;p>Oh, I have installed a Debian-based distro in my machine.
 The previous one, an Arch-based, acted up on a major update, and many things stopped working completely.
 So much for trusting &amp;ldquo;bleeding edge.&amp;rdquo;
-Good thing that most of the important things, including this blog&amp;rsquo;s files, are backed up safely somewhere.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;It is our suffering that brings us together.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;A line that I read &lt;a href=&#34;https://libcom.org/library/dispossessed-ursula-le-guin&#34;&gt;somewhere&lt;/a&gt;.
+Good thing that most of the important things, including this blog&amp;rsquo;s files, are backed up safely somewhere.&lt;/p>
+&lt;blockquote>
+&lt;p>It is our suffering that brings us together.&lt;/p>
+&lt;/blockquote>
+&lt;p>A line that I read &lt;a href="https://libcom.org/library/dispossessed-ursula-le-guin">somewhere&lt;/a>.
 Which would ring true forevermore, except if nirvana is achieved.
 And will that come, even a lesser version of it?
 It&amp;rsquo;s hard to imagine to get lighter as we see the world as it is today,
-with all of its supposed leaders continuously disappointing the rest of us dispossessed.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>December Fugue</title>
-      <link>https://ohio.araw.xyz/fugue/</link>
-      <pubDate>Tue, 22 Dec 2020 22:46:44 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/fugue/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Added some lines and footnotes to &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;The Site&lt;/a&gt; project&lt;/li&gt;
-&lt;li&gt;Added a new project: &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Own Web Server&lt;/a&gt;. There&amp;rsquo;s nothing there yet except a few lines.&lt;/li&gt;
-&lt;li&gt;Minor edit of blurb on landing page&lt;/li&gt;
-&lt;li&gt;Added yet another item on to-do list for The Site&lt;/li&gt;
-&lt;li&gt;Added color to status on &lt;a href=&#34;https://ohio.araw.xyz/project/&#34;&gt;Projects&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;So many unwanted noise all around us.
-It could be all ending soon, but there is no clue when.&lt;/p&gt;
-&lt;p&gt;Holidays, unsurprisingly, are propelling people to go around and about, not minding the on-going pandemic.
+with all of its supposed leaders continuously disappointing the rest of us dispossessed.&lt;/p></description></item><item><title>December Fugue</title><link>https://ohio.araw.xyz/fugue/</link><pubDate>Tue, 22 Dec 2020 22:46:44 +0800</pubDate><guid>https://ohio.araw.xyz/fugue/</guid><description>&lt;ul>
+&lt;li>Added some lines and footnotes to &lt;a href="https://ohio.araw.xyz/site/">The Site&lt;/a> project&lt;/li>
+&lt;li>Added a new project: &lt;a href="https://ohio.araw.xyz/server/">Own Web Server&lt;/a>. There&amp;rsquo;s nothing there yet except a few lines.&lt;/li>
+&lt;li>Minor edit of blurb on landing page&lt;/li>
+&lt;li>Added yet another item on to-do list for The Site&lt;/li>
+&lt;li>Added color to status on &lt;a href="https://ohio.araw.xyz/project/">Projects&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>So many unwanted noise all around us.
+It could be all ending soon, but there is no clue when.&lt;/p>
+&lt;p>Holidays, unsurprisingly, are propelling people to go around and about, not minding the on-going pandemic.
 Or perhaps, they do mind the risk;
-it&amp;rsquo;s just that they&amp;rsquo;ve chosen to deal with it haphazardly.&lt;/p&gt;
-&lt;p&gt;Everything seems to be back to normal, except this time, we now have to worry about getting COVID from anyone.&lt;/p&gt;
-&lt;p&gt;Everything back to abnormal?&lt;/p&gt;
-&lt;p&gt;Solitude must be fought for nowadays, I think, or it will get drowned out by people who wouldn&amp;rsquo;t learn to be still, by things that won&amp;rsquo;t stop oscillating, and by the human mind that can&amp;rsquo;t settle with boredom.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Twilight World</title>
-      <link>https://ohio.araw.xyz/tenet/</link>
-      <pubDate>Sat, 12 Dec 2020 19:56:25 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/tenet/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Changed (again) the Creative Commons licensing, from &lt;a href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt; to &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA 4.0&lt;/a&gt;.
-The addition here is &lt;em&gt;Share Alike&lt;/em&gt;.
-The license still allows adaptations of my work to be shared, but this particular one &lt;em&gt;must be preserved&lt;/em&gt; during transit.
-This should prevent others from copying/adapting my work &lt;em&gt;and then&lt;/em&gt; closing the free flow of information by slapping a different copyright license.
+it&amp;rsquo;s just that they&amp;rsquo;ve chosen to deal with it haphazardly.&lt;/p>
+&lt;p>Everything seems to be back to normal, except this time, we now have to worry about getting COVID from anyone.&lt;/p>
+&lt;p>Everything back to abnormal?&lt;/p>
+&lt;p>Solitude must be fought for nowadays, I think, or it will get drowned out by people who wouldn&amp;rsquo;t learn to be still, by things that won&amp;rsquo;t stop oscillating, and by the human mind that can&amp;rsquo;t settle with boredom.&lt;/p></description></item><item><title>Twilight World</title><link>https://ohio.araw.xyz/tenet/</link><pubDate>Sat, 12 Dec 2020 19:56:25 +0800</pubDate><guid>https://ohio.araw.xyz/tenet/</guid><description>&lt;ul>
+&lt;li>Changed (again) the Creative Commons licensing, from &lt;a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0&lt;/a> to &lt;a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0&lt;/a>.
+The addition here is &lt;em>Share Alike&lt;/em>.
+The license still allows adaptations of my work to be shared, but this particular one &lt;em>must be preserved&lt;/em> during transit.
+This should prevent others from copying/adapting my work &lt;em>and then&lt;/em> closing the free flow of information by slapping a different copyright license.
 I also removed the icon.
-All this nuisance, I hope that it matters.&lt;/li&gt;
-&lt;li&gt;Added my CV in the &lt;a href=&#34;https://ohio.araw.xyz/&#34;&gt;Index&lt;/a&gt;, in case a prospective employer wanders in.&lt;/li&gt;
-&lt;li&gt;Added new segments to &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;The Site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Removed the navigation menu. The major sections can be accessed in the Index, and at the end of each Page.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When we visited Isya&amp;rsquo;s Inay&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; yesterday in Marikina, the lunch was already waiting for us.
+All this nuisance, I hope that it matters.&lt;/li>
+&lt;li>Added my CV in the &lt;a href="https://ohio.araw.xyz/">Index&lt;/a>, in case a prospective employer wanders in.&lt;/li>
+&lt;li>Added new segments to &lt;a href="https://ohio.araw.xyz/site">The Site&lt;/a>&lt;/li>
+&lt;li>Removed the navigation menu. The major sections can be accessed in the Index, and at the end of each Page.&lt;/li>
+&lt;/ul>
+&lt;p>When we visited Isya&amp;rsquo;s Inay&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> yesterday in Marikina, the lunch was already waiting for us.
 Beef pochero did us in, but only enough to go through another helping in the evening&amp;rsquo;s partaking.
 More enriching was their rice, imported from Abra up north of Luzon.
-I have to know what it&amp;rsquo;s called, so we can scout it from nearby rice suppliers.&lt;/p&gt;
-&lt;p&gt;We watched Christopher Nolan&amp;rsquo;s &lt;em&gt;Tenet&lt;/em&gt; after lunch.
+I have to know what it&amp;rsquo;s called, so we can scout it from nearby rice suppliers.&lt;/p>
+&lt;p>We watched Christopher Nolan&amp;rsquo;s &lt;em>Tenet&lt;/em> after lunch.
 Actually, Isya and I had already seen it a few days prior;
 we&amp;rsquo;re just rewatching this to hopefully answer some of our questions the movie&amp;rsquo;s convoluted plot.
-As you may know, Nolan&amp;rsquo;s films require more than just one viewing.&lt;/p&gt;
-&lt;p&gt;In fact, Isya and I are planning to watch another Nolan&amp;rsquo;s, &lt;em&gt;Interstellar&lt;/em&gt;.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;&lt;em&gt;Inay&lt;/em&gt; is their term of endearment for their paternal grandmother.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Impostor Syndrome</title>
-      <link>https://ohio.araw.xyz/impsyn/</link>
-      <pubDate>Sat, 05 Dec 2020 17:51:47 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/impsyn/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Changed the date format in Log&lt;/li&gt;
-&lt;li&gt;Added another to-do for &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;The Site&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Now officially part of the &lt;a href=&#34;https://512kb.club&#34;&gt;512 KB Club&lt;/a&gt;.
-You&amp;rsquo;re now reminded of this in the footer, lol!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I feel like a fraud for not having accomplished anything significant, but I need to constantly remind myself that in all the worlds that I&amp;rsquo;ve been in, it&amp;rsquo;s okay for anyone to choose taking it slow whenever they can here and now, in this 2020-version of the World.
-However, I hope to transcend this slump, of course, with the help of my loved ones.&lt;/p&gt;
-&lt;p&gt;Lethargy is only a useful excuse when &amp;ldquo;used&amp;rdquo; against the backdrop of the already oppressive systems in place.
-I know this, because this is the only thing I&amp;rsquo;m still getting good at, even before the Pandemic has &amp;ldquo;locked down&amp;rdquo; people in place.&lt;/p&gt;
-&lt;p&gt;By this I mean, I hope to contribute to the society at large by the microtansactions of&amp;hellip; kindness? of goodness? that I&amp;rsquo;m still capable of manifesting, if that makes sense.
-Who knows, that could be an interesting research and development?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>No Rush</title>
-      <link>https://ohio.araw.xyz/rush/</link>
-      <pubDate>Wed, 02 Dec 2020 22:05:17 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/rush/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Replaced the Creative Commons Licensing from &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;CC BY-NC-SA&lt;/a&gt; to &lt;a href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;.
+As you may know, Nolan&amp;rsquo;s films require more than just one viewing.&lt;/p>
+&lt;p>In fact, Isya and I are planning to watch another Nolan&amp;rsquo;s, &lt;em>Interstellar&lt;/em>.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>&lt;em>Inay&lt;/em> is their term of endearment for their paternal grandmother.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Impostor Syndrome</title><link>https://ohio.araw.xyz/impsyn/</link><pubDate>Sat, 05 Dec 2020 17:51:47 +0800</pubDate><guid>https://ohio.araw.xyz/impsyn/</guid><description>&lt;ul>
+&lt;li>Changed the date format in Log&lt;/li>
+&lt;li>Added another to-do for &lt;a href="https://ohio.araw.xyz/site/">The Site&lt;/a>.&lt;/li>
+&lt;li>Now officially part of the &lt;a href="https://512kb.club">512 KB Club&lt;/a>.
+You&amp;rsquo;re now reminded of this in the footer, lol!&lt;/li>
+&lt;/ul>
+&lt;p>I feel like a fraud for not having accomplished anything significant, but I need to constantly remind myself that in all the worlds that I&amp;rsquo;ve been in, it&amp;rsquo;s okay for anyone to choose taking it slow whenever they can here and now, in this 2020-version of the World.
+However, I hope to transcend this slump, of course, with the help of my loved ones.&lt;/p>
+&lt;p>Lethargy is only a useful excuse when &amp;ldquo;used&amp;rdquo; against the backdrop of the already oppressive systems in place.
+I know this, because this is the only thing I&amp;rsquo;m still getting good at, even before the Pandemic has &amp;ldquo;locked down&amp;rdquo; people in place.&lt;/p>
+&lt;p>By this I mean, I hope to contribute to the society at large by the microtansactions of&amp;hellip; kindness? of goodness? that I&amp;rsquo;m still capable of manifesting, if that makes sense.
+Who knows, that could be an interesting research and development?&lt;/p></description></item><item><title>No Rush</title><link>https://ohio.araw.xyz/rush/</link><pubDate>Wed, 02 Dec 2020 22:05:17 +0800</pubDate><guid>https://ohio.araw.xyz/rush/</guid><description>&lt;ul>
+&lt;li>Replaced the Creative Commons Licensing from &lt;a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA&lt;/a> to &lt;a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0&lt;/a>.
 If I were to advocate for free flow of information, I must let others, including commercial institutions, be able to riff off of my work.
-I only ask that they include my name in the footnotes.&lt;/li&gt;
-&lt;li&gt;Added some new sections to &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;This Site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Removed the blurb on the landing page that said &amp;ldquo;I have no other social media accounts&amp;hellip;&amp;rdquo;
+I only ask that they include my name in the footnotes.&lt;/li>
+&lt;li>Added some new sections to &lt;a href="https://ohio.araw.xyz/site/">This Site&lt;/a>&lt;/li>
+&lt;li>Removed the blurb on the landing page that said &amp;ldquo;I have no other social media accounts&amp;hellip;&amp;rdquo;
 That&amp;rsquo;s not really accurate.
-What I don&amp;rsquo;t have are Facebook, Twitter, TikTok, and Instagram.&lt;/li&gt;
-&lt;li&gt;Fixed &amp;ldquo;Last Update&amp;rdquo; logic in &lt;a href=&#34;https://ohio.araw.xyz/project/&#34;&gt;Projects&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We all learn that it takes a whole lot of time to get to know oneself.
-A year&amp;rsquo;s worth of quasi-isolation seems to be enough.&lt;/p&gt;
-&lt;p&gt;A flare of imagination could trigger emotions never felt before, and to that person, this is their first time learning this thing about himself.
+What I don&amp;rsquo;t have are Facebook, Twitter, TikTok, and Instagram.&lt;/li>
+&lt;li>Fixed &amp;ldquo;Last Update&amp;rdquo; logic in &lt;a href="https://ohio.araw.xyz/project/">Projects&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>We all learn that it takes a whole lot of time to get to know oneself.
+A year&amp;rsquo;s worth of quasi-isolation seems to be enough.&lt;/p>
+&lt;p>A flare of imagination could trigger emotions never felt before, and to that person, this is their first time learning this thing about himself.
 It could be wild, sometimes&amp;ndash;detrimental, even&amp;ndash;to not have the full scope of one&amp;rsquo;s being at one&amp;rsquo;s disposal for one&amp;rsquo;s perusal.
-That&amp;rsquo;s also one of the main reasons why I started this blog: another attempt to understand myself.&lt;/p&gt;
-&lt;p&gt;We can&amp;rsquo;t really just say to ourselves, &amp;ldquo;Be patient,&amp;rdquo; because the systems laid out in front of us are designed to burn us out.
-Besides, it&amp;rsquo;s hard for me to remain patient when I&amp;rsquo;m constantly facing external pressures to Do Something Productive.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>And now, for something completely different</title>
-      <link>https://ohio.araw.xyz/nov/</link>
-      <pubDate>Mon, 30 Nov 2020 19:56:15 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/nov/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/&#34;&gt;This site&lt;/a&gt; is now live, hosted for the meantime in &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s also listed as a project. Learn more about the design philosophies &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I figured I needed to have an online presence again, one that I can call my own, far from the algorithms of major social networking sites.
-But aside from that, the idea to have a personal site started when Isya, my partner, suggested that I continue with my post-graduate studies.&lt;/p&gt;
-&lt;p&gt;The problem, I said, is that I no longer think it&amp;rsquo;s something worth pursuing anymore.
+That&amp;rsquo;s also one of the main reasons why I started this blog: another attempt to understand myself.&lt;/p>
+&lt;p>We can&amp;rsquo;t really just say to ourselves, &amp;ldquo;Be patient,&amp;rdquo; because the systems laid out in front of us are designed to burn us out.
+Besides, it&amp;rsquo;s hard for me to remain patient when I&amp;rsquo;m constantly facing external pressures to Do Something Productive.&lt;/p></description></item><item><title>And now, for something completely different</title><link>https://ohio.araw.xyz/nov/</link><pubDate>Mon, 30 Nov 2020 19:56:15 +0800</pubDate><guid>https://ohio.araw.xyz/nov/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://ohio.araw.xyz/">This site&lt;/a> is now live, hosted for the meantime in &lt;a href="https://pages.github.com">GitHub Pages&lt;/a>.&lt;/li>
+&lt;li>It&amp;rsquo;s also listed as a project. Learn more about the design philosophies &lt;a href="https://ohio.araw.xyz/site/">here&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>I figured I needed to have an online presence again, one that I can call my own, far from the algorithms of major social networking sites.
+But aside from that, the idea to have a personal site started when Isya, my partner, suggested that I continue with my post-graduate studies.&lt;/p>
+&lt;p>The problem, I said, is that I no longer think it&amp;rsquo;s something worth pursuing anymore.
 I don&amp;rsquo;t think I can stomach the academia life, not that it&amp;rsquo;s glamorous to begin with anyway.
-Besides, life is more interesting in fields beyond engineering, my background.&lt;/p&gt;
-&lt;p&gt;Instead, I played with the notion of publishing my personal projects (they&amp;rsquo;re not many) online for everyone to study, scrutinize, make better, etc.
-Let&amp;rsquo;s see if this method is any better than formally enrolling in a university.&lt;/p&gt;
-&lt;p&gt;Also, today&amp;rsquo;s is Bonifacio&amp;rsquo;s day.
+Besides, life is more interesting in fields beyond engineering, my background.&lt;/p>
+&lt;p>Instead, I played with the notion of publishing my personal projects (they&amp;rsquo;re not many) online for everyone to study, scrutinize, make better, etc.
+Let&amp;rsquo;s see if this method is any better than formally enrolling in a university.&lt;/p>
+&lt;p>Also, today&amp;rsquo;s is Bonifacio&amp;rsquo;s day.
 Not only that, it&amp;rsquo;s my Tita Bonnie&amp;rsquo;s 61st birthday.
-&lt;em&gt;Ano kaya ang handa nila?&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://ohio.araw.xyz/hi/</link>
-      <pubDate>Fri, 27 Nov 2020 14:25:09 +0800</pubDate>
-      
-      <guid>https://ohio.araw.xyz/hi/</guid>
-      <description>&lt;p&gt;This is the first post!&lt;/p&gt;
-&lt;p&gt;What happens from this point shall be defined by my Willpower, and how I manage it.&lt;/p&gt;
-&lt;p&gt;Wish me luck!&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;em>Ano kaya ang handa nila?&lt;/em>&lt;/p></description></item><item><title>Hello World!</title><link>https://ohio.araw.xyz/hi/</link><pubDate>Fri, 27 Nov 2020 14:25:09 +0800</pubDate><guid>https://ohio.araw.xyz/hi/</guid><description>&lt;p>This is the first post!&lt;/p>
+&lt;p>What happens from this point shall be defined by my Willpower, and how I manage it.&lt;/p>
+&lt;p>Wish me luck!&lt;/p></description></item></channel></rss>
