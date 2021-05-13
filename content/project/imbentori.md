@@ -353,5 +353,93 @@ Well, I don't need help.
 I'm doing good with my dull, simple life,
 thank you very much.
 
+### Entry # 14
+Date: Sun, 10 Nov 2013
+
+Gentlemen can't rack their brains.
+Ladies won't do it for them.
+The might has been passed back and forth, so that one day, no one will be
+needing the other. 
+We might all become asexual, and the only terrible
+thing about that is not finding enough limbs to stimulate the genitals.
+
+### Entry # 15: *the response to any dream is its own ending*
+Date: Tue, 12 Nov 2013
+
+I ask now for the wisdom of people hearing me out about this one
+~~tiny~~ bit (Yes, my dead grandfather, you are one of them, so please
+stop brushing my shoulder with your phantom hands.):
+
+*TO DREAM* of someone every single night when the clock strikes nine at
+the fall of all the bass with the banging in unison of all buttheads to
+the tune of all that has collapsed and will be collapsing with an
+angelic choir from the ripped-open heavens apart *IS* normal as long as
+it does not leave me grasping for breath, right? 
+My dreams are made of
+sad stuff. 
+When I wake up from one, I put a pillow between my legs and
+hug another with my arms, because it's all I have. 
+A bunch of
+un-talkative pillows, all heat-less and disappointingly foamy. 
+They have
+phased out the feathery once. 
+Too many geese and ducklings and mallards
+had suffered.
+
+I saw once a meme somewhere, asking what if the pillows recorded our
+dreams and all we had to do is plug them to our computers in the morning
+to see our them, if any, again.
+Are they that stupid to not know that
+all dreams have no substantial beginnings? 
+Only endings.
+Sometimes good,
+but most of them just stop abruptly.
+
+Once upon a time, I had many dreams of this particular person who
+stopped jamming with me all of a sudden---and that is fine.
+Maybe she
+dreamed of other persons, too, who would be genuinely interested in the
+good stuff of pop music she liked. My sister, upon witnessing me looking
+so badly wrecked, decided one day to teach me a lesson on how to deal
+with the feminine intricacy:
+Snap out of it.
+
+### Entry # 16
+Date: Tue, 12 Nov 2013
+
+Science never told us that deeply ingrained within the cosmic particles
+the earth was made up of, are so much drudgery that when the godly forces
+of Universe swirled it all up into a gargantuan sphere, 
+the amalgam was
+but a place abundant of disappointment. 
+Disappointment that, if served
+frequently in many a cold dose, will dissolve human faith.
+Thus,
+it isolates a person in a barren phenomena, a distant sanctuary of the
+inner self, sometimes called madness.
+
+### Entry # 17
+Date: Wed, 13 Nov 2013
+
+The roads that branch out to those distant havens are all awfully
+pungent like rotten onion. 
+So here's a useless lifehack: 
+Be skeptical of
+maps with X's on them, 
+simply because they are stupid and do not belong
+in this time and age. 
+Only ancient topography had these large red marks on them.
+They were created by humans for humans as imaginary goals with
+no evident rewards, 
+so they could feel free to be objective, 
+be freed
+from their doubts of existence, 
+be ambitious despite the dull Sundays.
+What use really is there of a map? The long roads are boring and tiring;
+the short ones are swift and tasteless.
+
+After thousands of years of improving technology, we still find
+ourselves stuck and deserted in a different dimension.
+
 ### One-Liners
 - Spontaneous conflagration is the result of the heat of the moment.

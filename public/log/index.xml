@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/log/</link><description>Recent content in Log on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml"/><item><title>How to UnRAR files in Linux Command Line</title><link>https://ohio.araw.xyz/unrar/</link><pubDate>Wed, 05 May 2021 01:50:44 +0800</pubDate><guid>https://ohio.araw.xyz/unrar/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/log/</link><description>Recent content in Log on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml"/><item><title>Kilo</title><link>https://ohio.araw.xyz/kilo/</link><pubDate>Mon, 10 May 2021 16:19:47 +0800</pubDate><guid>https://ohio.araw.xyz/kilo/</guid><description>&lt;ul>
+&lt;li>Added four new entries in &lt;a href="https://ohio.araw.xyz/imbentori">Imbentori&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>I am now down with trying to make my own text editor, &lt;strong>kilo&lt;/strong>,
+based on &lt;a href="https://viewsourcecode.org/snaptoken/kilo">here&lt;/a>.
+I have gained a bit of knowledge in C going through the tutorial.
+But I need to do more projects in C.
+Projects that I myself would be using.&lt;/p>
+&lt;p>Or at least, I need to look more into source codes of different projects,
+and try to understand the design philosophy for each of them.&lt;/p></description></item><item><title>How to UnRAR files in Linux Command Line</title><link>https://ohio.araw.xyz/unrar/</link><pubDate>Wed, 05 May 2021 01:50:44 +0800</pubDate><guid>https://ohio.araw.xyz/unrar/</guid><description>&lt;ul>
 &lt;li>Added new sections in &lt;a href="https://ohio.araw.xyz/server">Server&lt;/a> project.
 Also edited the wording so that voice is mostly first-person.&lt;/li>
 &lt;li>Added new entries to &lt;a href="https://ohio.araw.xyz/imbentori">Imbentori&lt;/a> project.&lt;/li>

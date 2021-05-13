@@ -16,6 +16,8 @@ a[href^="https://"]:not([href*="ohio.araw.xyz"]):after{
         display: inline-block }
 h1,h2,h3,h4,h5,h6 { font-family: Georgia, Palatino, serif;line-height:1.2 }
 img { max-width:100%; height:auto }
+table {border-collapse:collapse}
+td,th {padding: 0.5em; border-bottom: 2px solid}
 figure,figcaption { 
         text-align:center; 
         font-size: 0.8em;
