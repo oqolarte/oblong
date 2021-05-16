@@ -6,7 +6,8 @@ draft: false
 ---
 ## Status: On-going {.statusOnGoing}
 
-It may or may not have been obvious, but people around my age are fond of expressing themselves on the internet. 
+It may or may not have been obvious,
+but people my age like to express themselves on the internet.
 
 I was active in one platform which is still out there, on Tumblr, that you can still visit:
 
