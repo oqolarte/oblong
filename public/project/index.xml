@@ -1,4 +1,144 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Imbentori: A Tumblr Blog</title><link>https://ohio.araw.xyz/imbentori/</link><pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate><guid>https://ohio.araw.xyz/imbentori/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>My Bullet Journal Method</title><link>https://ohio.araw.xyz/bujo/</link><pubDate>Thu, 13 May 2021 17:04:58 +0800</pubDate><guid>https://ohio.araw.xyz/bujo/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+&lt;p>I have been bullet-journaling (bujo) since I first chanced on it on 2015.
+It made sense to me at the time, and it still does.&lt;/p>
+&lt;p>If you&amp;rsquo;re curious what this is, Ryder Carroll, the creator, explains it &lt;a href="https://bulletjournal.com/pages/learn">here&lt;/a>.&lt;/p>
+&lt;p>In this post, I discuss my setup, riffed from Carroll&amp;rsquo;s minimal design.
+This documentation also serves as future reference.&lt;/p>
+&lt;p>Marked as &lt;strong>on-going&lt;/strong> because I&amp;rsquo;m always revising my bujo ways.&lt;/p>
+&lt;h2 id="materials">Materials&lt;/h2>
+&lt;p>A notebook and a pen(cil).
+Literally any kind will do.
+Some people even do it with tablet and stylus
+(usually iPad and Apple Pencil),
+but that&amp;rsquo;s unnecessary and too high-tech for my taste.&lt;/p>
+&lt;h3 id="preferred-but-not-required">Preferred, but not required&lt;/h3>
+&lt;ul>
+&lt;li>notebook: dotted, at least 35 rows, A5 max size&lt;/li>
+&lt;li>pen: 0.5mm needle point, black ink, doesn&amp;rsquo;t smudge&lt;/li>
+&lt;/ul>
+&lt;h3 id="optional">Optional&lt;/h3>
+&lt;ul>
+&lt;li>small ruler&lt;/li>
+&lt;li>highlighter/s&lt;/li>
+&lt;li>other pen/s with different color&lt;/li>
+&lt;/ul>
+&lt;h2 id="front--and-back-door-scheme">Front- and Back-door Scheme&lt;/h2>
+&lt;p>From the official website:&lt;/p>
+&lt;blockquote>
+&lt;p>Bujo is a modular framework.
+Each module, or Collection, serves to organize related information&amp;hellip;
+[The four core Collections are] Index, Future Log, Monthly Log, and Daily Log.&lt;/p>
+&lt;/blockquote>
+&lt;p>Accessing the notebook via &amp;ldquo;front door&amp;rdquo; means opening it in its proper orientation.
+Conversely, &amp;ldquo;back door&amp;rdquo; means the back cover of the notebook.&lt;/p>
+&lt;p>All the logs are written from the front door going in.
+I don&amp;rsquo;t put the Index in this side,
+because it&amp;rsquo;s not often that I refer back to a Daily Log.&lt;/p>
+&lt;p>Other Collections are written from the back door going in.
+On this other side, I put the Index.
+I write the page number at the bottom corners of each page.&lt;/p>
+&lt;p>Sample of non-log Collections that I write from the back door:&lt;/p>
+&lt;ul>
+&lt;li>cooking recipes&lt;/li>
+&lt;li>instructions on how to do a recurring thing&lt;/li>
+&lt;li>listicles I copied from the internet that I need to access offline&lt;/li>
+&lt;/ul>
+&lt;p>The notebook is done when notes from the front and back finally meet in the middle.&lt;/p>
+&lt;h2 id="core-collections">Core Collections&lt;/h2>
+&lt;h3 id="future-log">Future Log&lt;/h3>
+&lt;p>This is used to store entries that will occur outside the current month.&lt;/p>
+&lt;p>I find this useful, especially when scheduling tasks and projects for later that I don&amp;rsquo;t want to keep in my head right now.&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
+&lt;h3 id="monthly-log">Monthly Log&lt;/h3>
+&lt;p>A spread is dedicated for each month of the year.&lt;/p>
+&lt;p>Mine contains the following, going from the left page to the right:&lt;/p>
+&lt;ol>
+&lt;li>&lt;strong>Calendar&lt;/strong> of the month;&lt;/li>
+&lt;li>Below it, &lt;strong>Upcoming&lt;/strong> tasks and events for the month.
+These are usually migrated from the Future Log.&lt;/li>
+&lt;li>&lt;strong>Expenses tracker&lt;/strong>, in which I list the expenses I make per day.
+I transfer this data to a spreadsheet in my computer, where the calculation takes place.
+This tracker serves as a reminder to be mindful of expenses, as well as a backup, in case something corrupts the spreadsheet.&lt;/li>
+&lt;li>The whole right page of the spread is dedicated for &lt;strong>Daily Highlights&lt;/strong>.
+I write one to two lines per day here.
+In the past, this was my &amp;ldquo;daily gratitude,&amp;rdquo;
+but I find it hard to be grateful everyday.&lt;/li>
+&lt;li>I also write a &lt;strong>Monthly Review&lt;/strong> at the end of each month,
+which I don&amp;rsquo;t place on the spread,
+but on the page after the last the Daily Log of the month.
+Here I try to talk about what happened to FORM (Friends and Family, Occupation, Recreation, Motivation) during the month.
+This is not a strict format, though.&lt;/li>
+&lt;/ol>
+&lt;h3 id="daily-log">Daily Log&lt;/h3>
+&lt;p>Bujo&amp;rsquo;s bulk comprises Daily Logs.&lt;/p>
+&lt;p>As the day goes on, I update the log, adding and/or subtracting bullets.&lt;/p>
+&lt;p>My Daily Log is many things: a to-do list, a reminder, an analog Twitter, notepad, tracker, etc.&lt;/p>
+&lt;p>Below is the format I currently use:&lt;/p>
+&lt;pre>&lt;code>01 JAN, MON □ △ ◯ X 4
+AF: tosilog, coffee
+PF: sinigang na bangus, pakbet, brown rice
+○ New Year's Day! (event bullet)
+- The dog ate the sausage! (note bullet)
+· Take out the trash (task bullet)
+□ - A flying cat was chasing me. Weird!
+x Prepare anti-hungover drink (task completed bullet)
+* · Buy eggs
+&lt;/code>&lt;/pre>&lt;p>Let&amp;rsquo;s break this down by section:&lt;/p>
+&lt;ol>
+&lt;li>The first line already contains several info.
+&lt;ul>
+&lt;li>Current date, day of the week&lt;/li>
+&lt;li>Daily Trackers. I only have four,&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> each one represented by a PlayStation symbol, because I&amp;rsquo;m creative like that.
+Notice that I have my trackers in the Daily Log, and not on a dedicated spread like in many bujos online.
+This is just a personal preference.&lt;/li>
+&lt;li>The last number in this line is the mood tracker.
+Currently, 1 is lowest, which means a very bad day;
+5 is highest, a rare jubilant point in life.
+Recently, however, I&amp;rsquo;m contemplating of ditching putting a number on my mood,
+because I don&amp;rsquo;t think it&amp;rsquo;s a quantifiable thing.
+I might replace it with emojis.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>The next two lines, &lt;code>AF&lt;/code> and &lt;code>PF&lt;/code>, are Food Log.
+I list my meals during daytime (&lt;code>AF&lt;/code> or AM Food) and nighttime (&lt;code>PF&lt;/code> or PM Food).&lt;/li>
+&lt;li>The rest are bullets.
+I maintained Carroll&amp;rsquo;s bullet and signifier usage, with a bit of addition.
+I also used Mood Tracker symbols as signifiers in conjunction with a Note bullet.
+For example:
+&lt;pre>&lt;code>□ - A flying cat was chasing me. Weird!
+&lt;/code>&lt;/pre>&lt;p>I use □ as my Dream Tracker.
+When I use it as a signifier to a note,
+it becomes a Dream Log, in which I can write about the dream I had.
+I don&amp;rsquo;t have to make a note on each of the Daily Tracker,
+but when I do, their symbol makes a useful signifier.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="index">Index&lt;/h3>
+&lt;p>I do have an Index, but it is placed right after the back door,
+where non-log Collections are.
+I allot a spread for this, but I have never maximized this space ever.&lt;/p>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>I only go the these subreddits: &lt;a href="https://old.reddit.com/r/BasicBulletJournals">r/BasicBulletJournals&lt;/a> and &lt;a href="https://old.reddit.com/r/BasicBulletJournals">r/bujo&lt;/a>.
+It&amp;rsquo;s because they tend to focus on utility and productivity, not on aesthetics.&lt;/p>
+&lt;p>And, of course, thanks to Ryder Carroll for sharing this method to the world &lt;em>for free&lt;/em>.&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>In fact, the main tenet of bujo is rapid logging:
+to write down a thought quickly before the mind forgets it.
+As a consequence, the notebook becomes a list of list of items in bullet points,
+hence the name Bullet Journal.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>In my opinion, one should not have millions of trackers.
+I found four to be manageable.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>You see, it&amp;rsquo;s amazing how there are paid &amp;ldquo;courses&amp;rdquo; to &amp;ldquo;guide you in setting up&amp;rdquo; your own bujo.
+Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorite search engine, and see what comes up.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>Imbentori: A Tumblr Blog</title><link>https://ohio.araw.xyz/imbentori/</link><pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate><guid>https://ohio.araw.xyz/imbentori/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
 &lt;p>It may or may not have been obvious, but people around my age are fond of expressing themselves on the internet.&lt;/p>
 &lt;p>I was active in one platform which is still out there, on Tumblr, that you can still visit:&lt;/p>
 &lt;p>&lt;strong>&lt;a href="https://iooare.tumblr.com">Imbentori&lt;/a>&lt;/strong>&lt;/p>
@@ -346,9 +486,124 @@ What use really is there of a map? The long roads are boring and tiring;
 the short ones are swift and tasteless.&lt;/p>
 &lt;p>After thousands of years of improving technology, we still find
 ourselves stuck and deserted in a different dimension.&lt;/p>
+&lt;h3 id="entry--18">Entry # 18&lt;/h3>
+&lt;p>Date: Wed, 13 Nov 2013&lt;/p>
+&lt;p>Despite the miseries the kid had gone through,
+he managed to salvage
+his childhood by talking to a toy.
+He is his own true friend.
+A bond was naturally formed between him and Himself,
+idealistically unbreakable even at the toughest times.
+He was seldom seen crying simply because he was seldom seen at all.
+When he was locking himself up in his room, who knows what things he was doing there,
+the miracles enchanting him there.
+People were worried, but only because they don&amp;rsquo;t understand.
+And those who do never had enough time to pay him a visit.&lt;/p>
+&lt;p>The kid was bright, I must say.
+He learned that people do not always see the world as he sees it,
+and that it is his duty to understand them.&lt;/p>
+&lt;p>The sores still burn him throughout the years, but now he&amp;rsquo;s too tough
+for them. In fact, his toughness is so much for him to handle that it
+grows out as patches of facial hair and untrimmed nails and
+badly-attended hygiene. The sores itch him somewhere just above the
+chest, but he&amp;rsquo;s become tolerant now.&lt;/p>
+&lt;h3 id="entry--19">Entry # 19&lt;/h3>
+&lt;p>Date: Thu, 14 Nov 2013&lt;/p>
+&lt;p>I was pushing myself, tapping at the frontal lobes, hoping
+to remember something they taught me almost twelve hours ago. I was the
+new guy, one who gives the glass around a
+circle of conversationalists.
+We all drank the glass full of poison.&lt;/p>
+&lt;p>Laps later, talk got better.
+At that time, I munched on meat served on the table when this scourge
+started boiling in my stomach. The potion I had been passing around
+betrayed me; the friend became the repulsive
+adversary. In a blink, I was in the bathroom, throwing up.
+The liquid rushing through the throat and nasal cavity made
+painful spasms. Vomit dripped on my lips and in my nostrils.
+I felt weak.&lt;/p>
+&lt;p>This guy on the mirror squinted his eyes at me.
+He looked desolated and trapped. Too, he looked cool in that Joker shirt.
+Next time I see him, I&amp;rsquo;d take him out into the real world.&lt;/p>
+&lt;p>I cleaned up my mess.
+Peed after that. Went out and found my cousin waiting by the restroom door,
+asking if I were still doing good.
+I nodded and smiled and went to bed.&lt;/p>
+&lt;p>I try to recall what they told me, but all of those went with the gastric pulp down the reservoir of rejected principles (called toilet).&lt;/p>
+&lt;h3 id="entry--20">Entry # 20&lt;/h3>
+&lt;p>Date: Sat, 16 Nov 2013&lt;/p>
+&lt;p>It has been a long time since I was last aware of my being atop a floor
+of some church. Maybe, in recalling it right now, it was the last time I
+would ever be in a church, or any holy establishment for that matter.&lt;/p>
+&lt;p>At first, I was bashful coming out as a cross-breed of agnostic and
+atheist, but the more I learned, the more certain I became, that relying
+on faith alone would not be smart a strategy if one, such as I, were to
+continue living in cussedness.&lt;/p>
+&lt;p>I dislike the overall ambiguity of it, mainly because of extremists and
+militants who distort and/or obscure the truth; although I like the
+religious holidays and how they are so good at briefly converting us
+into ethical and kind beings, in whatever ways we know how, genuine or
+not, before we return to our same old selves. During this
+period, we are allowed to vocalize our hopes for humanity with minimal
+judgmental feedback. Everybody suddenly can forgiving.
+And here and there, lights would appear as adornments of the house, a welcome banner to accommodate
+any spirit who would decide to lounge in and share some thoughts.&lt;/p>
+&lt;p>Some people give too much color to it, though, to a point that my eyes
+have had enough of this abject misery. Here we are still with our
+dumbness in tact, trying to make something out of nothing. Conjurers we
+are not.&lt;/p>
+&lt;h3 id="entry--21">Entry # 21&lt;/h3>
+&lt;p>Date: Tue, 19 Nov 2013&lt;/p>
+&lt;p>Didn&amp;rsquo;t go to the morning class.
+Arrived late on the afternoon class, but it was fine.
+The professor decided to not show up, and make us wait in vain instead.
+Waited until the last class.&lt;/p>
+&lt;p>It was the hardest part, waiting.
+It always has been.
+Waited until my buttocks became sore in sitting.
+Waited until my legs deserted my being for standing too long.&lt;/p>
+&lt;p>Stuck my head out for some colleagues who were playing crossword puzzle on a tablet.
+They thanked me every time I got a word right.
+Waited for the last class.
+The raging current of boredom was made to take me away from the university, but it didn&amp;rsquo;t.&lt;/p>
+&lt;p>And I waited still. Until the last class.
+I was hanging around gay people giving lecture to straight dudes about
+homosexuality, and I lingered long enough to hear everything they all
+had to say.&lt;/p>
+&lt;p>I waited until finally, the wait was over.
+When I stepped in the last class, a 30-page surprise exam was waiting for me in my desk.
+&amp;ldquo;It&amp;rsquo;s a joke,&amp;rdquo; I thought, almost too loud.
+It wasn&amp;rsquo;t a joke. And the last professor for the day did not seem to be in the mood for bad jokes.
+In 45 minutes I was done with the whole thing. Whether I took the
+exam seriously was out of the question. It&amp;rsquo;s a funny world we live in.
+We wait for the wrong things to happen.&lt;/p>
+&lt;h3 id="entry--22">Entry # 22&lt;/h3>
+&lt;p>Date: Wed, 20 Nov 2013&lt;/p>
+&lt;p>When I think of how dashing I am,
+I picture myself lost with the commuters waiting in the train station,
+all well-dressed and well-mannered.&lt;/p>
+&lt;p>When I&amp;rsquo;m drunk, I dance while I pee.
+I draw murals on bathroom tiles with urine,
+and on the morning it would smell of ammonia.&lt;/p>
+&lt;p>I fan an old book on my nose and start sniffing its wasted years of abandonment,
+the smell of aging vanilla diffusing profusely from its pages to the
+air, renovating my deconstructed thoughts.
+I try to record what I&amp;rsquo;m doing as drafts (not videos) on my phone.&lt;/p>
+&lt;p>I think I&amp;rsquo;m hot stuff, sometimes.
+I think I&amp;rsquo;m all glam from head to toe, but it is all feigned.
+No need now for brashness; I am fully aware of what I really am,
+and it&amp;rsquo;s really not that difficult to see.
+I think of mysterious sounds droning somewhere to console me, but all that echoes back is a monotonous buzz.
+It&amp;rsquo;s all cheap cologne and thrift store clothes and perforated undergarments;
+and the train station is really just a dark alley of bad crimes,
+and the commuters are really just rats.
+The joints are creaky when they shouldn&amp;rsquo;t be.&lt;/p>
+&lt;p>I may feel pretty sometimes, but rainbows aren&amp;rsquo;t going to last the whole day.
+I&amp;rsquo;m just like everyone else, trying to be cool.&lt;/p>
 &lt;h3 id="one-liners">One-Liners&lt;/h3>
 &lt;ul>
 &lt;li>Spontaneous conflagration is the result of the heat of the moment.&lt;/li>
+&lt;li>a face that launched thousands of fake social media accounts&lt;/li>
 &lt;/ul>
 &lt;section class="footnotes" role="doc-endnotes">
 &lt;hr>

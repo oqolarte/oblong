@@ -441,5 +441,147 @@ the short ones are swift and tasteless.
 After thousands of years of improving technology, we still find
 ourselves stuck and deserted in a different dimension.
 
+### Entry # 18
+Date: Wed, 13 Nov 2013
+
+Despite the miseries the kid had gone through,
+he managed to salvage
+his childhood by talking to a toy.
+He is his own true friend.
+A bond was naturally formed between him and Himself,
+idealistically unbreakable even at the toughest times.
+He was seldom seen crying simply because he was seldom seen at all.
+When he was locking himself up in his room, who knows what things he was doing there,
+the miracles enchanting him there.
+People were worried, but only because they don't understand.
+And those who do never had enough time to pay him a visit.
+
+The kid was bright, I must say.
+He learned that people do not always see the world as he sees it,
+and that it is his duty to understand them.
+
+The sores still burn him throughout the years, but now he's too tough
+for them. In fact, his toughness is so much for him to handle that it
+grows out as patches of facial hair and untrimmed nails and
+badly-attended hygiene. The sores itch him somewhere just above the
+chest, but he's become tolerant now.
+
+### Entry # 19
+Date: Thu, 14 Nov 2013
+
+I was pushing myself, tapping at the frontal lobes, hoping
+to remember something they taught me almost twelve hours ago. I was the
+new guy, one who gives the glass around a
+circle of conversationalists.
+We all drank the glass full of poison.
+
+Laps later, talk got better.
+At that time, I munched on meat served on the table when this scourge
+started boiling in my stomach. The potion I had been passing around
+betrayed me; the friend became the repulsive
+adversary. In a blink, I was in the bathroom, throwing up.
+The liquid rushing through the throat and nasal cavity made
+painful spasms. Vomit dripped on my lips and in my nostrils.
+I felt weak.
+
+This guy on the mirror squinted his eyes at me.
+He looked desolated and trapped. Too, he looked cool in that Joker shirt.
+Next time I see him, I'd take him out into the real world.
+
+I cleaned up my mess.
+Peed after that. Went out and found my cousin waiting by the restroom door,
+asking if I were still doing good.
+I nodded and smiled and went to bed.
+
+I try to recall what they told me, but all of those went with the gastric pulp down the reservoir of rejected principles (called toilet).
+
+### Entry # 20
+Date: Sat, 16 Nov 2013
+
+It has been a long time since I was last aware of my being atop a floor
+of some church. Maybe, in recalling it right now, it was the last time I
+would ever be in a church, or any holy establishment for that matter.
+
+At first, I was bashful coming out as a cross-breed of agnostic and
+atheist, but the more I learned, the more certain I became, that relying
+on faith alone would not be smart a strategy if one, such as I, were to
+continue living in cussedness.
+
+I dislike the overall ambiguity of it, mainly because of extremists and
+militants who distort and/or obscure the truth; although I like the
+religious holidays and how they are so good at briefly converting us
+into ethical and kind beings, in whatever ways we know how, genuine or
+not, before we return to our same old selves. During this
+period, we are allowed to vocalize our hopes for humanity with minimal
+judgmental feedback. Everybody suddenly can forgiving.
+And here and there, lights would appear as adornments of the house, a welcome banner to accommodate
+any spirit who would decide to lounge in and share some thoughts.
+
+Some people give too much color to it, though, to a point that my eyes
+have had enough of this abject misery. Here we are still with our
+dumbness in tact, trying to make something out of nothing. Conjurers we
+are not.
+
+### Entry # 21
+Date: Tue, 19 Nov 2013
+
+Didn't go to the morning class.
+Arrived late on the afternoon class, but it was fine.
+The professor decided to not show up, and make us wait in vain instead.
+Waited until the last class.
+
+It was the hardest part, waiting.
+It always has been.
+Waited until my buttocks became sore in sitting.
+Waited until my legs deserted my being for standing too long.
+
+Stuck my head out for some colleagues who were playing crossword puzzle on a tablet.
+They thanked me every time I got a word right.
+Waited for the last class.
+The raging current of boredom was made to take me away from the university, but it didn't.
+
+And I waited still. Until the last class.
+I was hanging around gay people giving lecture to straight dudes about
+homosexuality, and I lingered long enough to hear everything they all
+had to say.
+
+I waited until finally, the wait was over.
+When I stepped in the last class, a 30-page surprise exam was waiting for me in my desk.
+"It's a joke," I thought, almost too loud.
+It wasn't a joke. And the last professor for the day did not seem to be in the mood for bad jokes.
+In 45 minutes I was done with the whole thing. Whether I took the
+exam seriously was out of the question. It's a funny world we live in.
+We wait for the wrong things to happen.
+
+### Entry # 22
+Date: Wed, 20 Nov 2013
+
+When I think of how dashing I am,
+I picture myself lost with the commuters waiting in the train station,
+all well-dressed and well-mannered.
+
+When I'm drunk, I dance while I pee.
+I draw murals on bathroom tiles with urine,
+and on the morning it would smell of ammonia.
+
+I fan an old book on my nose and start sniffing its wasted years of abandonment,
+the smell of aging vanilla diffusing profusely from its pages to the
+air, renovating my deconstructed thoughts.
+I try to record what I'm doing as drafts (not videos) on my phone.
+
+I think I'm hot stuff, sometimes.
+I think I'm all glam from head to toe, but it is all feigned.
+No need now for brashness; I am fully aware of what I really am,
+and it's really not that difficult to see.
+I think of mysterious sounds droning somewhere to console me, but all that echoes back is a monotonous buzz.
+It's all cheap cologne and thrift store clothes and perforated undergarments;
+and the train station is really just a dark alley of bad crimes,
+and the commuters are really just rats.
+The joints are creaky when they shouldn't be.
+
+I may feel pretty sometimes, but rainbows aren't going to last the whole day.
+I'm just like everyone else, trying to be cool.
+
 ### One-Liners
 - Spontaneous conflagration is the result of the heat of the moment.
+- a face that launched thousands of fake social media accounts

@@ -6,13 +6,10 @@ draft: true
 ---
 ## Status: Open {.statusOpen}
 
-This is my attempt to scrape the news sites using Flask and BeautifulSoup,
-both of which are in Python.
-
 *Dada* is a working title for this project.
 It's based on the Filipino expression, "*Puro ka dada!* (You're full of empty talk!)"
 
-Now, by all means, this site won't be empty talk.
+Now, by all means, this concept won't be empty talk.
 What I hope it would be, though, is text only.
 
 The four news sites that I'll be scraping are:
