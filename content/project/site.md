@@ -96,7 +96,8 @@ In fact, websites should be guided by these principles.
 
 ### Link Management
 
-Links in this site that have a greenish northeast arrow ("↗" or "`\2197`" in CSS) right after them are *external links*, i.e. links that take the visitor out of this website.
+Links in this site that have a northeast arrow ("↗" or "`\2197`" in CSS) right after them are *external links*, i.e. links that take the visitor out of this website.
+Note: In iOS and iPadOS, this arrow becomes an emoji version of it.
 
 In CSS, I implented this using a selector that finds all links other than my own, which is `ohio.araw.xyz`.
 
