@@ -1,7 +1,7 @@
 ---
 title: "Refurbishing Some Old Laptops"
-date: 2021-05-20T19:18:01+08:00
-keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
+date: 2021-05-25T09:18:01+08:00
+keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "old laptop", "freecycle", "ibm thinkpad t40", "apple magsafe"]
 draft: false
 ---
 - Added new ways to [Support](/support) me.
