@@ -27,9 +27,8 @@ In my exhaustion,
 I decided to bike through it.
 WRONG MOVE---my backpack was already full,
 it got heavier as everything got wet.
-It was as a literal torture to Breathing through my wet mask,
-which I had to pull slightly down just so I don't collapse in the
-middle of the road.
+It was a literal torture to breathe through my wet mask,
+which I had to pull slightly down just so I don't collapse in the middle of the road.
 
 Will I do it again?
 *Yes*.
