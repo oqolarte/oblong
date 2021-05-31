@@ -767,6 +767,66 @@ The infinite quirks of our daily lives bore the heck of me. Get me out
 of such languorous affairs, and let me see you already prepped up for
 this simple occasion I am trying to pull you in.
 
+### Entry # 32
+Date: Sat, 14 Dec 2013
+
+The looks and the sounds and the feels of the people I have been
+browsing emotionally tortures me.
+The rumor is true: People are more
+beautiful on the internet.
+About their smarts, though---they vary from person to person.
+What is the etiquette, then, when it comes to dealing
+with these kinds of humans?
+Whatever it is, I just have to make sure
+that I am not to be so spooky to them. Ah---
+
+Do not force it, they say. Do not. Do not, and all shall naturally,
+smoothly follow.
+
+### Entry # 33
+Date: Tue, 17 Dec 2013
+
+An old hag I know is into fits of cough lately.
+Her dear weak lungs now finally giving up on her.
+I would advise her to take her vitamins soon.
+
+An old hag is the wisest crook I know, and if she died in her sleep,
+it would be a shame.
+
+And the old hag needs some back rub,
+but it's the middle of the night,
+and she hates the mere sight of me.
+It is not me whom she needs,
+but her god.
+
+And her god would talk to her in her dreams, asking her to stop smoking.
+"Do it for them," he would say.
+But she is such a stubborn woman that
+even a divine deity as influential and popular as her god could not convince her.
+
+### Entry # 34
+Date: Tue, 17 Dec 2013
+
+It is astonishing to find something so repulsive to be so breathtakingly beautiful.
+An amateur disease gone viral.
+Hers was a daring shot to the skies of blaring cyber-fame.
+The magic in her soul is hers to handle,
+and for the world to leash.
+
+### Entry # 35
+Date: Tue, 17 Dec 2013
+
+Love is real.
+An invincible arc passing between at least two contacts.
+An idea agreed upon.
+A painful abstraction of an empty stomach.
+An ignorance that could not be vanquished.
+A gimmick pulling back the strands of hair to a neat style.
+A cheap perfume. A cheap mint.
+Strings of used floss. Polished fingernails.
+An affection for the outdated minds.
+Love is real, but lovers are not.
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -782,3 +842,6 @@ Tweet-like witticisms back in the day.
 1. I can't commit a heavenly error without receiving a flaming feedback.
 1. Not to Miggy you out or anything, but I think that nicknames are good substitutes for ugly verbs.
 1. We defend the things we think we can.
+1. Losing times are mostly dedicated to brain teasers or the answers to the most philosophically drunk questions,
+so please try to forgive me when I talk about them.
+1. Something about belief mattered greatly.
