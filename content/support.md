@@ -40,9 +40,14 @@ Please email me first if you plan to give me any of these stuff.
 - Corded hammer drill, used and in good working condition
 - e-ink reader, used and in good working condition
 - Road bike, or fixed-gear bike, preferably with [unstealable components](https://youtu.be/VPmcge4yKxU) but in good working condition
+- Mechanical keyboard, 75% or 80% (tenkeyless, TKL)
+- Crowbar or wrecking bar
+- Chain mail[^chain]
+- Casio F-91W, preferably black
 
 
 [^1]: Not really, but you get the point.
 [^used]: I prefer pre-loved, secondhand, or used stuff,
 because I want to extend their life span.
 Also, I don't expect, nor do I encourage, people to give me newly bought hardware.
+[^chain]: Against random stabbing

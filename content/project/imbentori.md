@@ -9,11 +9,9 @@ draft: false
 It may or may not have been obvious,
 but people my age like to express themselves on the internet.
 
-I was active in one platform which is still out there, on Tumblr, that you can still visit:
+I was active on Tumblr, that you can still visit:
 
 **[Imbentori](https://iooare.tumblr.com)**
-
-It is/was my Tumblr blog the password of which I no longer remember.
 
 A little while back, I even thought of parsing through the original text I have there, and publish them in some sort of a book...
 
@@ -29,7 +27,7 @@ The tongue that swirls with its perceived languages can only cope so much from t
 It is a list of personal truths told with cryptic lingo
 (or with International Art English[^bs], one could argue)
 to add dimension to the mundane.
-In some entries, there's no room for interpretation.
+In some entries, though, there's no room for interpretation.
 In any case, if you feel like the stream of thoughts challenge the way you read, *hmm*, then it's purpose didn't go off tangent.
 
 "Which is what, exactly?" I hear you ask.
@@ -826,6 +824,125 @@ A cheap perfume. A cheap mint.
 Strings of used floss. Polished fingernails.
 An affection for the outdated minds.
 Love is real, but lovers are not.
+
+### Entry # 36: *innumerable pointlessness*
+Date: Wed, 18 Dec 2013
+
+1.  Raindrops fell on hot roads. 
+Heat from the deepest, most complex of sanatorium was exhumed to the surface.
+Heavy clouds trap the vapors.
+Everyone was getting agitated as the city melted beneath the sky.
+It's physics.
+2.  Shards shot out to random directions, away from the crime scene.
+The vase had fallen to the floor, and I wondered why.
+The shards were everywhere.
+And what about the flowers?
+It's unfortunate one could not simply reverse the path of every force of every particle that moved.
+There is no Rewind Button;
+this God did not make the events in the Universe to be reversible.
+It's physics.
+3.  I wasn't looking when you were talking to me.
+Nothing in your speech is interesting.
+Because it's about *meta*physics.
+
+### Entry # 37
+Date: Thu, 19 Dec 2013
+
+Talk about a lot of things.
+
+Words came out of my mouth, slurry and very much undefined. I had no
+good sound to produce, no good thought to mutter, and still I opted to
+speak as if it were an obligation. I was told that random conversations
+alleviate the pressure inside---a release, a black opening, a tiny hole
+where the strangling gasesss would essscape, slithering all the way out.
+
+The buzz I made was a lot, but the anguish in the guts remains. I might
+be perpetually strangled.
+
+### Entry # 38
+Date: Fri, 20 Dec 2013
+
+Several minutes before midnight, all is burning. All is white with joy
+and desire and illustrative rage; and the tremendous heat escaping from
+the excited bodies make sudden changes.
+
+Earth has been such a happy place where happy memories are shelved in
+boundless rooms. And we have made it that way. Humans are a mass so
+optimistic that the illusions of hellish ways of how the world would end
+cannot consummate our prospects of having something divine.
+
+The midnight is coming, or has come.
+Or has gone.
+No one knows for sure.
+Time has been distorted by countless corrections and mistakes.
+Either we are dying, or already we are dead.
+
+### Enrty # 39
+Date: Sat, 21 Dec 2013
+
+I'm holding you sober. Your sobriety is a blessing, actually, like a
+sneeze released violently after being held for so long. Thus, while my
+presence is still vivid, I hold you not in solace but in a fiery
+excitement. This is not a violation of privacy, not even a vile
+stratagem I organized; rather, a celebration of two miscible personas
+and the events that might follow.
+
+Sometimes, I would look around, then see your face cranked and distorted
+with stress; your nails empty of colors; hair badly done, wanting of
+immediate care. I would want to extend a comforting arm, enlist you as
+someone deserving of goodness in life that only I could hand out,
+administer whatever assistance appropriate; and yet you remain
+indefeasible and mighty, even in this blurry world, that I dare not go
+near.
+
+I'm holding you as an idol misplace in vain, as I would hold an
+expensive wristwatch I can't afford. In reality, I cannot hold you, nor
+can I ask you to kindly hike up the skirt and show me a flawed world no
+longer knowledgeable of pampering.
+
+### Entry # 40
+Date: Tue, 24 Dec 2013
+
+Sometimes, I wish you could take a five-minute day-off (ha!) from your
+skewed visions of screwed-up existence, but I have known the feeling for
+so long I cannot help but set up a gig for you to immerse yourself in,
+since I cannot convince you to see your life otherwise. It cannot be
+silenced easily, I know. It cannot be shushed. I believe, though, that
+one day, if you pulled and pushed the oars hard enough, you will
+transcend from such a low point in your life, one way or another. Be
+dear now, and don't do anything stupid.
+
+### Entry # 41
+Date: Wed, 25 Dec 2013
+
+I am a freelancer friend.
+Everybody's nobody.
+The bastard who is somehow successful of winning many a peer by staying neutral,
+but is befriended truly by only a few.
+I am the embodiment of a grapevine full of
+backlashes, backstabbing secrets, and unfinished arguments. Containing
+them all is like taming a bull: I can't. But I am a friend of this and a
+friend of anti-this, and this is all I have. Good luck with that.
+
+I am the messenger who died in the landmine field, and my lords and
+ladies whose anguish I have failed to deliver to their respective
+recipients would have desired for me another form of death; however, I
+don't wish to inform them my failure, nor do I want a second shot at
+retribution.
+
+I am a freelancer friend, but if this did not make sense, it would work
+out for me just fine.
+
+I have witnessed how people silently accuse others for their amusement,
+but have done nothing against it. I, too, am a perpetrator, and knowing
+that that title doesn't offend me offends me. If this did not make
+sense, then I know I am doing it right.
+
+I am a freelancer friend, what a hectic job it is.
+
+I am everyone's mailbox of undelivered hate, and if you would just
+*please* bash my head with a baseball bat like what jocks do in shitty
+movies for fun---
 
 ### One-Liners
 Tweet-like witticisms back in the day.

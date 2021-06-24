@@ -1,10 +1,6 @@
----
-title: Ohio Quilbio Olarte
-keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
-draft: false
----
+# **Ohio Quilbio Olarte**
 Email: ohio@araw.xyz  
-Website: [ohio.araw.xyz](/)  
+Website: ohio.araw.xyz  
 
 ## SUMMARY
 Aspiring to forward more sustainable solutions and technologies for a more inclusive future.
@@ -36,6 +32,20 @@ During this time, I learned more about electrical and mechanical engineering, as
 
 ---
 
+### OTHER ACTIVITIES
+
+**Siliman University --- Research Assistant**  
+*May -- June 2021*  
+
+- The research, lead by Dr. Jorge Emmanuel, was about *Zero Waste Sari-sari Store Models*,
+a study that aims to help small sari-sari stores transition *away* from plastic use.
+- As research assistants, my colleagues and I went to a low-income barangay in Quezon City,
+and conducted interviews with store owners and their customers with the help of survey forms and guide questionnaires.
+- Data collected were then compiled using various pieces of software,
+including Microsoft Office programs, and basic Unix Shell Scripting.
+
+---
+
 ### EDUCATION & TRAINING
 Python 3+ --- Automate the Boring Stuff --- Jun 2020  
 Project Management --- JLL MyDevelopment --- Jan 2020  
@@ -48,10 +58,11 @@ Academic Scholar --- Department of Science and Technology SEI --- AY 2009-2014
 ---
 
 ### LANGUAGES
-**Human**: Filipino (native), English (fluent in speaking and writing)  
-**Computer**: Unix Shell Scripting (basic), C (basic), Python 3+ (basic)
+Human
+: Filipino (native), English (fluent in speaking and writing)  
+
+Computer
+: Unix Shell Scripting (basic), C (basic), Python 3+ (basic), HTML + CSS (basic)
 
 ### HOBBIES
-Reading, Creative Endeavors, Computer Programming, Cycling, Repair, Watching Films, Web Development
-
-`---end of file---`
+Reading, Creative Endeavors, Computer Programming, Cycling, Repair and Upcycling, Watching Films, Web Development
