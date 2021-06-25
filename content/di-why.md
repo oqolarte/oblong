@@ -17,7 +17,8 @@ depending on my current situation.
 I tend to agree.
 
 Anyway, here is the list, in no particular order:
-1. News aggregator/portal 
+
+1. News aggregator/portal
 1. Wifi router from household rejects
 1. Water filter
 1. Soap from used oil
@@ -26,7 +27,7 @@ Anyway, here is the list, in no particular order:
 1. Laundry detergent
 1. Fixed-gear bike, preferably converted from an old roadie
 1. Repair, refurbish, and/or repurposing of different consumer electronics
-1. Free and open-source software *and* hardware, but not necessarily found together in a single device, that a layperson would find useful
+1. Make a free and open-source software *and* hardware, but not necessarily found together in a single device, that a layperson would find useful
 1. Bio-digester
 
 As soon as I start working on an idea here, it will be migrated to the [Projects](/project/) page.

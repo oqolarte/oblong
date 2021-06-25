@@ -944,6 +944,131 @@ I am everyone's mailbox of undelivered hate, and if you would just
 *please* bash my head with a baseball bat like what jocks do in shitty
 movies for fun---
 
+### Entry # 42
+Date: Sat, 28 Dec 2013 12:01:00
+
+I don't mind goofing around with people who listen to drone tracks
+for entertainment, because they're the ones who have interesting
+thoughts to share.
+
+I don't mind getting hexed by alpha dogs of my social circle. I've
+done a lot of bad things,
+and a little curse from them would only serve
+as a reminder that I should be doing worse.
+
+I don't mind being missed by some chubby lass who happens to be one of
+the peers' leading darlings, even if she's just joking. I don't mind
+because I don't believe her. She's just being nice. Sometimes, I would
+like to think of myself as immune to such charms, but some charms
+develop new kind of strains that pass through my defense system.
+
+I don't mind not fitting anywhere with anyone, because no matter what I
+do, there will still be empty slots for me to get in.
+
+I don't mind being unable to patch this wanton bleeding with a remedial
+touch, for there will be appropriate hands willing to do that. I'll just
+have to hang on and look for them and hope it's not too late.
+
+### Entry # 43: *Things I've Learned in Matabungkay Beach Resort the First Time I Got There*
+Date: Wed, 01 Jan 2014
+
+Cousins plan to take me to the faraway hellhole.
+I remember the environment as derisive,
+making one learn a couple of things:
+
+- Cigarette butts are as ubiquitous as the grey sand.
+- Kids invade the beach at day while adults patiently wait for the night.
+- Fatty meats are ironically must-haves when celebrating.
+- Also alcohol and gambling.
+- Forget not thy earplugs. Terrible singers populate the local karaoke hubs, letting loose of their anguish with their hard accents.
+- Overlooking the sandy deposits of Matangbukay are lifeguard towers.
+They all seem empty, though.
+- Derived from the interiors of truck tires are plenty of lifebuoys
+(which compensate for the scarcity of lifeguards).
+- Everybody wears bikini in this place. Everybody.
+- People are not at all loud and rowdy.
+At least, that's what I have observed 500 meters away from them.
+- To avoid sunburn, avoid the sun.
+- Grill everything; die from colon cancer later.
+- End your trip by catching a final glimpse of the setting sun.
+
+### Entry # 44
+Date: Thu, 02 Jan 2014
+
+The meandering eyes possess a certain sharpness that only
+age or sickness could defeat. The meteoric pair sweeps
+the scenery before relaying any acquired data to a decent brain.
+However, they're altogether defamed with detestable comments that often
+come from detestable figures, increasingly so that the evening has
+become an impatient wait for the dawn.
+
+### Entry # 45: *(i wrote once to a semi-imaginary fling. how stupid.)*
+Date: Thu, 02 Jan 2014
+
+In writing this do I realize that your prolonged absence simply cannot
+be vanquished by smoke nor stupor. I appeal to you, thus, to redeem me
+immediately from the miring transpiration of my existence. Be that
+lucent reminder that at least one person is mad enough to console me,
+that I am worth the distance from the punitive gags others throw at me.
+
+In reciprocation, I will be at my best behavior.
+By this, I mean to hush down my stupidities
+and will not be much of a douche most modern persons are.
+This will prevent your thoughts from being clouded with
+wrong accusations and conclusions.
+
+If, however, things would go out of control,
+for such is Nature and all of its components,
+from order dissipating to disorder,
+then we must accept it.
+
+(Strange for me to say these things about us parting already when we haven't even met yet.)
+
+I must go now, stranger.
+My bed invites me to DreamLand;
+it shall wane a bit of my impatience,
+and halt temporarily the effluvium of my tizzy thoughts of a faraway you.
+Take care always.
+
+### Entry # 46
+Date: Fri, 03 Jan 2014
+
+We are isolated in an inaccessible isle of complexity quitters,
+far from where the funerals of social behaviors are.
+We have secrets that can astound earthworms and overlords alike
+We are not honorifics nor bureaucracies,
+but we are capable of vigorous copulation and funny possibilities.
+We are so stupidly driven we think we can own our disgusting selves.
+We are an asylum of dumb fucks in dusty trunks.
+We are a multitude of tragedies.
+
+### Entry # 47
+Date: Fri, 03 Jan 2014
+
+My eyes now burn as the light effervescing from the monitor steal me away.
+I am looking at all the highlights of the human race,
+the darkness of the human travail,
+every peak and every trough.
+I am staring, too, at some faces, those declaring innocence.
+Inanimate faces are the only innocent things one can look peacefully at nowadays;
+and what a bad-luck-for-the-earth, for they cannot change the world.
+
+### Entry # 48
+Date: Sat, 04 Jan 2014
+
+Many a night had I perspired in my sleep, the stench would be heavy by
+morning. I had to sun them thrice a week to eliminate the odor. But not
+anymore. I shall suffer no longer from sweaty nights. Alas! here comes
+the monsoon. It reveals the relief: a nourishing surge for the
+nonexistent seeds sown in the soiled thoughts of all, delightfully that
+it excites those who had grown tired of their dull vacation. A
+transition of seasons when peculiar things are deemed okay: again will
+bills drop to more affordable rates; wenches in corporal suits will now
+be drenched whores in the storm; vehicles will soon float as chunks of
+metal lilies on torrents of filth; bastards into sentimental poets. The
+rest---they are kids again, and the sour smell from their fermented
+armpits has gone.
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -962,3 +1087,5 @@ Tweet-like witticisms back in the day.
 1. Losing times are mostly dedicated to brain teasers or the answers to the most philosophically drunk questions,
 so please try to forgive me when I talk about them.
 1. Something about belief mattered greatly.
+1. Mine are not flimsy limbs but constrictive appendages that will suffocate the *luvste* out of you should you dare go nigh hither.
+

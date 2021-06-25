@@ -4,7 +4,17 @@ date: 2020-12-22T22:37:41+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "server", "web server", "homebrew server", "server in the basement", "debian as server", "openbsd as server"]
 draft: false
 ---
-## Status: On-going {.statusOnGoing}
+## Status: Closed {.statusClosed}
+
+As of the last update,
+I'm putting this project to a halt until further notice.
+
+For now, I'll believe the experts:
+servers *on-prem* (i.e. in our home) may not be a good idea at the moment.
+
+Below the line is an archive of my notes, incomplete as is.
+
+---
 
 I want to host this site (`ohio.araw.xyz`) in a server that I physically have with me.
 
