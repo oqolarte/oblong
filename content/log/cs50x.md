@@ -58,7 +58,7 @@ is a need to be independent from the on-going centralization
 of Internet.
 
 I think that by learning more about computer science
-and programming language/s can afford me this autonomy I seek.
+and programming language/s can afford me the autonomy I seek.
 And perhaps I'll help somebody along the way.
 
 [^fee]: At the time of writing.

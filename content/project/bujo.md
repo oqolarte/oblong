@@ -152,6 +152,14 @@ I do have an Index, but it is placed right after the back door,
 where non-log Collections are.
 I allot a spread for this, but I have never maximized this space ever.
 
+## Archiving
+
+When a bujo is (mostly) filled, it's time to archive them.
+I simply write the start and end dates that the bujo served me,
+usually along the spine.
+I still keep them accessible,
+because I usually have some notes that I need to refer to from time to time.
+
 ## Inspiration
 
 I only go the these subreddits: [r/BasicBulletJournals](https://old.reddit.com/r/BasicBulletJournals) and [r/bujo](https://old.reddit.com/r/BasicBulletJournals).

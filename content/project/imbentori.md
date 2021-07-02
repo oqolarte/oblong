@@ -23,23 +23,36 @@ In the meantime, read the foreword I drafted some time ago for this would-be col
 ## Foreword
 
 The tongue that swirls with its perceived languages can only cope so much from the demands of diction.
-*Imbentori*, then, is one own's tongue's attempt to speak the library of tensions as they never unfold in one's mind.
+*Imbentori*, then, is one own tongue's attempt to speak the library of tensions as they never unfold in one's mind.
 It is a list of personal truths told with cryptic lingo
 (or with International Art English[^bs], one could argue)
 to add dimension to the mundane.
+
+I wanted to tell stories, fiction or otherwise, that had shaped me definitively.
 In some entries, though, there's no room for interpretation.
 In any case, if you feel like the stream of thoughts challenge the way you read, *hmm*, then it's purpose didn't go off tangent.
 
 "Which is what, exactly?" I hear you ask.
 
 "Well," I mutter, racking my brain for *proper* wording.
-"The intention of sharing this version of my Youth---captured between 2012 and 2018---is to offer a perspective of someone who both despises the world, yet remains hopeful of the people's capacity to kick-start a change, although they bore me at that."
+"The intention of sharing this version of
+my Youth---captured between 2012 and 2018---is to offer a perspective of someone who both despises the world,
+yet remains hopeful of the people's capacity to kick-start a change, although they bore me at that."
 And then you plop back on your chair, still unsatisfied with my ambiguous response.
 
 You will notice quirks.
 One of the most notable was how I refuse to capitalize letters that needed capitalization.
 It's style;
 you'll get over it.
+
+It's tempting to edit away all the cringe parts,
+but I think those parts are what makes this body of work,
+if you can call it that,
+unique.
+Right now, I'll compromise by trimming *some* of the bad stuff.
+
+If everything sounds strange,
+it's because I had been in this odd phase.
 
 ### There's a free copy online
 
@@ -285,8 +298,8 @@ So hear me out on this, and just let the thing sit
 by itself. 
 It is safely locked in here. 
 The room is all
-so-and-so-proof---
-nothing goes in or out. 
+so-and-so-proof---nothing
+goes in or out. 
 Entirely vacuum sealed.
 
 Now, step out of the room and close the door behind you. 
@@ -1069,6 +1082,340 @@ metal lilies on torrents of filth; bastards into sentimental poets. The
 rest---they are kids again, and the sour smell from their fermented
 armpits has gone.
 
+### Entry # 49
+Date: Sat, 04 Jan 2014
+
+There have always been clusters of authoritarian behaviors ruining
+interpersonal relationships everywhere.
+It focuses one's views on a central dogma---the person's
+self. As a result of this dread,
+imagination becomes the solution to those who are defeated by
+the ruthless bossiness.
+The key to their internally induced contentment
+may lie on daydreaming that peace *has* a chance.
+That peace does stand a chance in changing the heartless into philanthropist.
+
+### Entry # 50: *four steps to senselessness and non-misanthropy*
+Date: Sun, 05 Jan 2014 12:01:17
+
+1.  Protection before insertion. Diminish as much damage as you can by
+    initiating the verification of a thought or an idea before you try
+    putting it in a debate with others. It doesn't have to be clean, but
+    it must be cleansed.
+1.  Allow usage of coins and undeviced dice for the sake of maintaining
+    balance. The balance is to be kept horizontal. If it tilts, stop
+    throwing up.
+1.  Consider also ringing in your head the chances of diabloism. Does it
+    divide or unite? Usually, I would suggest strongly the latter, but
+    if yours is a non-canonical stance, it's your choice. Just don't
+    expect them to hear you out.
+1.  And in this mixology of brainiac profusion, I do not wish to astound
+    the "elders" who have looked my way. I can offer nothing, not wisdom
+    for I am inexperienced, not wits for I have been flunking, not even
+    myself for I am nobody; but I could offer a fragment of personhood
+    that you maybe familiar with, for I am a human nevertheless, doing
+    robotic dance moves for a living.
+
+### Entry # 51
+Date: Sun, 05 Jan 2014
+
+The sight is flared up to maximum, and one can easily see the radiance
+shooting up in geometric spirals. Every time I look, a small part of me
+gets injured, as if it had been approved by the whole universe to be so
+magnetizing yet detrimental. Such elegance prohibits me to witness its
+passing. It's all theoretically acceptable, now that I think of it.
+
+### Entry # 52
+Date: Sun, 19 Jan 2014
+
+everyone---making homebound sentences to all directions and physically
+cancelling themselves out, given that each statement is of equal
+magnitude to the others they have made---is a nobody; and personally, it is
+enticing as it is discombobulating.
+
+the joker in the movie *The Dark Knight* said,
+"this is what happens when an unstoppable force meets an
+immovable object." nothing. nothing happens.
+
+### Entry # 53
+Date: Sun, 19 Jan 2014
+
+They have spoken. I know now exactly the best thing to do. Fairness is a
+virtue we have to embrace. We have to teach them this, especially that
+we see a lot of unfairness in this world. Pity is only given to those
+who deserve it. Thanks.
+
+### Entry # 54
+Date: Sun, 19 Jan 2014
+
+The most inefficient guy in the bunch was heard chuckling over some
+unfunny improv. The cunning in his smile was made not to be infectious.
+He uploads what he cannot contain, mulls at what he could; and with this
+strategy does he religiously follow himself around the glitchy planes.
+
+I am startled by his need to branch out from the existing norms, and to
+just create one that would fit his style. I wish to lend him a hand one
+of these days.
+
+### Entry # 55
+Date: Tue, 21 Jan 2014
+
+I would like to oversleep some other time outside the house, in urban
+caverns beneath cement bridges where slums never bother each other,
+except only when asking for some little things. I would like to own
+myself for a while.
+
+People would be looking for me, but I would be flat on my stomach,
+looking out far beyond the cities, watching the sun sink behind the
+buildings, aching and smiling as if they would never know. They might
+never hear from me again. I might go somewhere else where their warped
+movement I would never hear of. And that would be my moment, in the
+shadows, with fetid individuals who remain astonishingly optimistic
+despite their ordeals.
+
+I would be hungry most of the time, feel groggy and smell bad, but
+that's part of the plan. Restoration never comes easily.
+
+### Entry # 56
+Date: Tue, 21 Jan 2014
+
+I don't see myself either ill-fated or privileged. I just hang in
+here whenever I get the chance to just hang around a bit longer.
+I could not help but notice how different people are;
+and perhaps it is the right time to start expecting more instead of less,
+to learn again the profits of breakage, to harness the prowess
+and gather every last bit of
+sickness and health.
+
+### Entry # 57
+Date: Wed, 22 Jan 2014
+
+Tried not to be hostile today.
+It was difficult.
+I've always thought that I'm one of the good guys,
+and that most people have lost their grooves,
+and that I should ignore their flickering noise.
+
+Then, I remembered something my psychology teacher told me:
+"Superiority complex is the worst kind of inferiority complex."
+I realize now that it makes sense.
+
+Yes, the wrong people can make the bad things come to life,
+make them look better and cleaner.
+They direct the waters from the drainage back to the treatment facility,
+where all these fluids of all urban creatures are to be chemically infused with some drinkable liquid.
+They are wrong in doing so.
+But I was also wrong in putting myself several steps ahead of them,
+when really, all this time that I have been in the field,
+I cautiously look out for my steps, trying to figure out if I might be stepping on something hazardous that would shatter me to pieces,
+while everyone is already crossing the finish
+lines at the far side of the meadow.
+
+I know this is a phantom exercise difficult to do, but doing it is kind of alleviating.
+(I don't think alleviating is the proper term, but there goes.)
+
+### Entry # 58
+Date: Thu, 23 Jan 2014
+
+I would like to buy my own camera, but I am too impoverished to obtain a new one.
+I must rely on my photographic memory for now.
+
+I would like to buy me a new bike, so I can ride down the streets where children bathe and dance in the rain;
+but I'm too broke, so I would have to stick to walking.
+
+I would like to buy a new pair of shoes, but then I remembered that updating my wardrobe isn't my thing.
+So, I gave up on the idea, wore my worn-out slippers, and walked outside.
+
+I would like for the sun to shine just a little,
+that there may be a glimpse of hope waiting behind the clouds.
+
+### Entry # 59
+Date: Sat, 11 Jan 2014
+
+I remember stepping into the room where our fiery fate had long been waiting.
+Inside were common things.
+We could have set ourselves ablaze had we been careless,
+and "do you hear yourself?" was all that you'd muttered.
+Did I answer that, or was I into your dilated eyes then that I was stupefied?
+I don't remember.
+Remind me of that sometime, do you mind?
+Who would have thought that within these white walls we chanted
+the same unintelligible syllables that only you and I must know?
+
+### Entry # 60
+Date: Sun, 12 Jan 2014
+
+The distant booming of a plane diverted my attention to the
+stillness of everything. Apart from the late night lights,
+outside was a dark aura that shines gloom over the land,
+and a magic called sleep had once been conjured upon those who grew tired of
+waiting for the night to fall. And to those who had been either immune
+to the curse or too bewildered by the things that had transpired
+recently to even dare to sleep, no matter how deviant and diminutive
+they were, they're still up. They dug deeper into themselves, finding
+who they were at the moment. Some transform, others go mad and wild in
+flats without kitchens.
+
+And I---I was here waiting for the hypnosis to
+kiss me so that I might finally rest these eyes. Most people were no
+longer awake as the curse tapped them. But know this: there was no awakening.
+Morning would come again hours from now as it has always,
+and the sun would rise still to put an end on the night's sorcery,
+and they who had slept through the night would mechanically open their eyes for
+themselves or for their families or for that work,
+that school; *but* they would never be awake. They might have opened their
+eyes, but they would never see again what once was. They would fail to
+recognize---as it was in the past---the decaying things in front of
+them. All those time they were awake, they really were asleep!
+
+### Entry # 61: *a quick message to someone who is not the same as before*
+Date: Sun, 12 Jan 2014
+
+How will I face some new faces of Change, such as yours, if I am still
+stuck at the image of your former self, a bright effigy of both
+fluffiness and porcelain simplicity, now only a dissolved memorandum of
+the past? Your worshipers have followed you still, despite dismembering
+your own mane into some sort of a bobcat hairdo, which, I believe, is an
+emblem of someone who's up to something worse than bad. Please, tell me
+one day, if we must inevitably talk, that this is not the case. Forgive
+me if, however, from now on, I'd be dodging your glances. I am not a fan
+of your Change. I was never a fan of yours to begin with.
+
+### Entry # 62:
+Date: Sun, 12 Jan 2014
+
+I don't mind you taking breaks from our conversations. I don't mind you
+pressing another particle of soft powder on your face. I don't mind you
+doing anything at all. And when it is really time for you to go, to
+return to whatever job you paused just so you could mingle with me, I
+won't mind, really.
+
+I don't mind you not existing at all, imaginary friend. Please come
+whenever you like. I could use some back-rubbing.
+
+### Entry # 63:
+Date: Sun, 12 Jan 2014
+
+Spending time With myself again somewhere,
+wondering if someday our old jokes would make us laugh again.
+Our eyes, if they ever meet again, would gleam the same uncomfortable passion.
+
+This world kills me, and I need you to redeem me from myself,
+because sometimes, murders pollute the forests inside me.
+Perhaps by taking a chance to talk to me about the simplest of things
+would calm me down.
+
+Fool me again with your whining, and that is fine,
+that is, as long as you are patient enough to hear my forlorn desires.
+
+### Entry # 64
+Date: Thu, 16 Jan 2014
+
+You are the beacon present in my daydreaming pastime. A multidimensional
+demigoddess of the morning light, present nowhere near me, yet
+reachable, if only I wanted to fight traffic for at least two hours. But
+even if I traveled that long, I wouldn't be sure if you would even look
+my way. I look at the portraits stolen from the entanglement of codes of
+your cryptic love blog, and I see me damned to the bones. From the
+storms and debris I see you rise and fall, your chest doing the same.
+Jet-black shines with great ember, even outshining my wits. I look, and
+my eyes become deranged, my tongue blenched and smoked with the same
+coyness you are invigorated with.
+
+The people who have touched you in any way are social alphas, but I
+cannot look up to them, because they wanted nothing but to hear you
+grunt some dumb syllables. This I cannot change. I can, however, buy you
+plastic flowers and inexpensive sweets. I can help you with your final
+college paper, but only if you would offer to help me in mine after. I'm
+being clever now, but that's because I am hoping that someday you would
+let us be clever together.
+
+### Entry # 65
+Date: Thu, 16 Jan 2014
+
+Scum is sometimes needed to retain an insubstantial kind of masculinity.
+It clings for a long time, the scum, even after many attempts of
+reformation. And this process I truly detest, as I find it ridiculous
+that manliness sometimes requires filth to be smothering the grin.
+
+### Entry # 66: *the fury of sunny days and humid nights*
+Date: Wed, 29 Jan 2014
+
+I used to say, "I am not a clone of my former self. The past belongs
+only to the past." That unalterable segment of existence which I would
+soon, bit after bit, forget. What I was before can't be what I am now
+nor what I will be. Ever since people (and things) around me began
+changing at a different rate, my life has been a slow process of
+stepping down to bedrock. Something in them possessed a great influence
+that I can't overpower. Is it because I was born to be a prey? But I am
+not. I look back at the months gone by, thinking what happened. Or
+rather, what have I been doing.
+
+...
+
+My people get drunk with me whenever their schedules permit them. They
+have this habit of opening me up. I am their patient on an operating
+table. One would pick a scalpel and plunge the thing down somewhere in
+my abdomen; the other would strangle a dark flesh, pick it up and say,
+"People, this is the liver." What a sight: waterproof fluid squirting
+everywhere. "This is *your* liver in escapism." There would be
+red drops in our drinks. Bloody Mary. And then I would reckon flashes of
+the former days, lashes always lashing. The world never has deceived me.
+I have many places in me. I can show you that. But you must knock first.
+
+...
+
+There was a blank sheet of paper in front of me. I folded it into a
+blank bullet and fired it skywards. You know what's absurd?
+People who hold you in their hatred lungs, claiming that you have injured them with
+accidental projectiles, which, if only they really checked out, was
+their own un/doing. I had to think of something to jot down on it. But
+you---I can't be breathed into doing something just because you exhaled
+my direction. So, fill in the gap. Fate is only a funny valentine, an
+incredulous affair written randomly in the stretch of space, not on
+paper nor in mind.
+
+### Entry # 67
+Date: Thu, 30 Jan 2014
+
+the seconds go by, and not one sign of drowsiness is here. i am pulled
+back to surface by the imaginings i had this morning, perhaps an
+induction of the infernal core.
+
+the first one was about my oral hygiene. in real life, i brush my teeth
+and wash my mouth at least twice a day. but it was in this moment that a
+cyst sprouted at the far right corner of my mouth. it felt
+discomforting. i could not bring to a full close my jaws because of the
+lump. without warning, the cyst detached itself from the gums (this
+happened abruptly), and out it came. the thing fell right into my hands.
+i tried squishing it a bit, seeing if it would burst into a bloody mess.
+there was a bad taste in my mouth, like a yellowish spunk of infection.
+a hint of iron.
+
+the second dream came around quickly, picking up where the first left
+off. it was a party of douches and dames, the bass indelible, and why I
+was even there made me wonder. there were hookers dancing at one corner,
+giggling at their own reflections. high school friends were there, too.
+they looked sleek in their thrift-shop suits. one of the hooker was
+strip-teasing, and I watched a bit before finally retiring to one of the
+bedrooms, bored to death. i was searching for something in there,
+something i no longer knew, but was interrupted when one of the girls
+came in without knocking. everything faded.
+
+the last of these dreams was about an odd contest. it includes some
+bulky guys. i can't remember clearly now the mechanics of the game,
+but the emerging victor was supposed to
+have an "intimate intercourse" with the trophy girl. didn't remember how
+it came to be, but--but the girl was motionless as stone. something bad
+was bound to happen, and i felt it was my duty to intervene. i sat down
+on the bed beside her. she motioned me to lie down next to her. when I
+did, she yanked my arms, and only then did I notice that she a former
+schoolmate. she was saying something, that she didn't want all others
+prying over her body, how monstrous they behaved, how savage; that I was
+her savior, her last debuff that would put an end to all this scam.
+maybe she was right, but in order to prove her theory, her particles
+should not have begun drifting away.
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -1088,4 +1435,15 @@ Tweet-like witticisms back in the day.
 so please try to forgive me when I talk about them.
 1. Something about belief mattered greatly.
 1. Mine are not flimsy limbs but constrictive appendages that will suffocate the *luvste* out of you should you dare go nigh hither.
-
+1. How about leaving them in a low-quality containment, and let them sort themselves out.
+1. at least let me know if i ever crossed your mind
+1. If you wished hard enough, thought about it long enough, dreamed painfully enough, the feeling just naturally comes.
+1. unintentional precognition sprawled everywhere
+1. Think twice before trusting someone with two mobile phones.
+1. Pursuit of distress is pursuit of sadness is pursuit of madness is pursuit of stale coffee in stale, cold morning.
+1. Jokes lose their purpose when you tell them to people who often get involve in bar fights.
+1. Imagining an opposite sex version of yourself is absurd as it sounds.
+1. Apologize when you step on someone's foot.
+1. Be mad, but be respectful still.
+1. **sext**: i will bang you like i bang my door---carefully
+1. any song can be a driving song if one is so willing to adjust the track and go with the crack.

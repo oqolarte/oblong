@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/log/</link><description>Recent content in Log on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml"/><item><title>CS50x</title><link>https://ohio.araw.xyz/cs50x/</link><pubDate>Fri, 25 Jun 2021 15:35:12 +0800</pubDate><guid>https://ohio.araw.xyz/cs50x/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/log/</link><description>Recent content in Log on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml"/><item><title>Simplex Patch Cord</title><link>https://ohio.araw.xyz/simplex/</link><pubDate>Fri, 02 Jul 2021 02:37:39 +0800</pubDate><guid>https://ohio.araw.xyz/simplex/</guid><description>&lt;ul>
+&lt;li>Actually updated the &lt;a href="https://ohio.araw.xyz/cv.pdf">pdf of my CV&lt;/a>!&lt;/li>
+&lt;li>Added a few lines in the foreword of &lt;a href="https://ohio.araw.xyz/imbentori">Imbentori&lt;/a>.
+There are 19 new entries and a dozen one-liners there as well.&lt;/li>
+&lt;li>Added new blogs in &lt;a href="https://ohio.araw.xyz/blogroll">Blogroll&lt;/a> to check out.&lt;/li>
+&lt;li>Added a new short section to &lt;a href="https://ohio.araw.xyz/bujo">Bujo&lt;/a> project.&lt;/li>
+&lt;/ul>
+&lt;p>One of the cats, an archetypal himbo,
+managed to gnaw on the fiber optic cable of the ISP&amp;rsquo;s router.
+This resulted in losing both internet and phone connections.
+We&amp;rsquo;re all furious!
+This never happened in the already many months that he, the cat, has been here.&lt;/p>
+&lt;p>Perhaps lacking manpower, our ISP&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> couldn&amp;rsquo;t immediately send any technician,
+despited repeated follow-ups from our end.&lt;/p>
+&lt;p>Isya and I then had a discussion about how this ISP
+(or any other ISPs for that matter)
+should improve their services.
+Start by giving better benefits and wages to their employees.
+Provide them with the needed tools of the trade on company&amp;rsquo;s expense.&lt;/p>
+&lt;p>While angry customers shouldn&amp;rsquo;t berate field technicians and other customer-facing agents for poor service,
+ISP management should understand that throwing bureaucracy at customers only insults them.
+Corporate speak will never sound polite.
+In fact, I&amp;rsquo;d argue that poor customer service provided by &lt;em>any&lt;/em> company
+is an inevitable result of late-stage capitalism.&lt;/p>
+&lt;p>Now, imagine: your income, in whatever form,
+heavily relies on digital telecommunications;
+and it all goes down because of some bored pet toying with a fragile cord.
+And some exhausted, possibly underpaid, personnel has to deal with that brewing vitriol &lt;em>and&lt;/em> still be polite.
+What a time to be alive.&lt;/p>
+&lt;p>(For the record:
+none of us spewed vile shite to anyone.
+We&amp;rsquo;re nice people, people.)&lt;/p>
+&lt;p>So we&amp;rsquo;re offline for three days.
+I don&amp;rsquo;t see it as particularly deplorable;
+there are other things to do in the house,
+books to read,
+thoughts to think.&lt;/p>
+&lt;p>&amp;hellip;&lt;/p>
+&lt;p>The title of this post is what the mangled cord is called.
+I don&amp;rsquo;t think I can repair it, if it even is repairable.&lt;/p>
+&lt;p>On this third (or is it fourth) day of having no internet presence,
+we decided to act instead of just wait.
+My sibling physically went to a nearby office of the ISP to see
+if she could find some quicker resolution there,
+bringing with her the cord as proof/reference.
+A personnel, perhaps noting how easily solvable her (our) problem was,
+produced a replacement cord for free!
+Now, we&amp;rsquo;re back online again.&lt;/p>
+&lt;p>Direct action does get the goods.&lt;/p>
+&lt;p>Epilogue:
+A few hours after that,
+a technician &lt;em>did&lt;/em> arrive.
+I told him that we already solved the issue ourselves.
+He only had me signed a form (closing ticket?) before he went on his way.
+Our interaction did not last two minutes.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>It&amp;rsquo;s &lt;a href="https://pldthome.com">PLDT&lt;/a>, btw.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>CS50x</title><link>https://ohio.araw.xyz/cs50x/</link><pubDate>Fri, 25 Jun 2021 15:35:12 +0800</pubDate><guid>https://ohio.araw.xyz/cs50x/</guid><description>&lt;ul>
 &lt;li>Due to life happening, I&amp;rsquo;m closing the &lt;a href="https://ohio.araw.xyz/server">Server&lt;/a> project.
 I may or may not reopen it in the future.
 If I do, it may or may not be in similar form.&lt;/li>
@@ -39,7 +101,7 @@ reason for this particular interest
 is a need to be independent from the on-going centralization
 of Internet.&lt;/p>
 &lt;p>I think that by learning more about computer science
-and programming language/s can afford me this autonomy I seek.
+and programming language/s can afford me the autonomy I seek.
 And perhaps I&amp;rsquo;ll help somebody along the way.&lt;/p>
 &lt;section class="footnotes" role="doc-endnotes">
 &lt;hr>
