@@ -23,7 +23,7 @@ Isya and I then had a discussion about how this ISP
 (or any other ISPs for that matter)
 should improve their services.
 Start by giving better benefits and wages to their employees.
-Provide them with the needed tools of the trade on company's expense.
+Provide them with the needed tools of the trade on company's expense, etc.
 
 While angry customers shouldn't berate field technicians and other customer-facing agents for poor service,
 ISP management should understand that throwing bureaucracy at customers only insults them.
