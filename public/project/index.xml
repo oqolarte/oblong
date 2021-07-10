@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>My Bullet Journal Method</title><link>https://ohio.araw.xyz/bujo/</link><pubDate>Thu, 13 May 2021 17:04:58 +0800</pubDate><guid>https://ohio.araw.xyz/bujo/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Old Computer</title><link>https://ohio.araw.xyz/old-computer/</link><pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate><guid>https://ohio.araw.xyz/old-computer/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+&lt;p>&lt;a href="https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html">Solene&amp;rsquo;s prompt was to use old computers for a week&lt;/a>,
+from 10-17 July 2021.
+That&amp;rsquo;s the gist of the whole challenge.
+For details, check Solene&amp;rsquo;s post about it.&lt;/p>
+&lt;p>I don&amp;rsquo;t think I followed all the rules to the letter.
+For example, I didn&amp;rsquo;t limit my RAM to 512MB.
+Doing so, in my case, would terribly limit my only poor hardware.&lt;/p>
+&lt;p>For this, I&amp;rsquo;m recommissioning the MSI Wind Netbook for this project,
+the same laptop that I originally planned to be my &lt;a href="https://ohio.araw.xyz/server.md">homebrew server&lt;/a>.&lt;/p>
+&lt;p>For context, here are the following specs that I&amp;rsquo;m dealing with:&lt;/p>
+&lt;h2 id="hardware">Hardware&lt;/h2>
+&lt;p>The &lt;a href="https://www.laptopmag.com/reviews/laptops/msi-wind-u123">MSI Wind Netbook&lt;/a> makes another comeback for this week,
+whose physical parts comprise:&lt;/p>
+&lt;ul>
+&lt;li>Bluetooth 2.0&lt;/li>
+&lt;li>CPU: 1.66-GHZ Intel Atom N280&lt;/li>
+&lt;li>Display size: 10.2&amp;quot;&lt;/li>
+&lt;li>Graphics card: Intel GMA 950&lt;/li>
+&lt;li>Hard drive size: 80Gb&lt;/li>
+&lt;li>Hard drive speed: 5,400rpm&lt;/li>
+&lt;li>Hard drive type: SATA hard drive&lt;/li>
+&lt;li>Native resolution: 1024x600&lt;/li>
+&lt;li>Ports (excluding USB): VGA, Microphone, Headphone, Ethernet&lt;/li>
+&lt;li>RAM: 2Gb&lt;/li>
+&lt;li>Wifi: 802.11b/g&lt;/li>
+&lt;/ul>
+&lt;p>Moreover, the physical condition is not even good to begin with:&lt;/p>
+&lt;ul>
+&lt;li>no battery, always plugged in;&lt;/li>
+&lt;li>some keys don&amp;rsquo;t work properly;&lt;/li>
+&lt;li>speakers can only go up to a certain volume, barely audible
+(this is a non-issue, though; I can just use earphones as the jacks are working fine).&lt;/li>
+&lt;/ul>
+&lt;p>This project is me attempting to &amp;ldquo;make it work&amp;rdquo; in old, un-upgraded computer.
+In real life, some people may just be lucky enough to have a working computer (maybe as a donation),
+but not so much to afford to upgrade its parts.
+Think far-flung rural areas.&lt;/p>
+&lt;h2 id="software">Software&lt;/h2>
+&lt;ul>
+&lt;li>Operating System: &lt;a href="https://openbsd.org">OpenBSD 6.9&lt;/a>&lt;/li>
+&lt;li>Window Manager: cwm&lt;/li>
+&lt;li>Terminal: &lt;a href="https://st.suckless.org">st&lt;/a>&lt;/li>
+&lt;li>Terminal Multiplexer: tmux&lt;/li>
+&lt;li>Text Editor: &lt;a href="https://neovim.io">neovim&lt;/a> or vi&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> depending on the mood&lt;/li>
+&lt;li>Web Browser: qutebrowser (GUI) or w3m (TUI)&lt;/li>
+&lt;li>Shell: ksh&lt;/li>
+&lt;/ul>
+&lt;h2 id="window-manager">Window Manager&lt;/h2>
+&lt;p>For the window manager,
+I initially opted for &lt;a href="https://dwm.suckless.org">dwm&lt;/a>,
+because that&amp;rsquo;s my favorite.
+However, everytime I boot into it,
+the X System seems to hang&amp;hellip;?
+At this point, it will only respond when I switch to tty (&lt;code>ctrl + alt + F1&lt;/code>).
+Since I couldn&amp;rsquo;t&amp;mdash;&lt;em>don&amp;rsquo;t&lt;/em> have the patience&amp;mdash;to figure it out,
+I decided to settle with what&amp;rsquo;s on the base install.&lt;/p>
+&lt;p>I tried fvwm.
+Everything in the base install seems to work fine.
+But I don&amp;rsquo;t get the layout.
+And the aesthetic is too&amp;hellip; archaic for me.
+Lastly, it seems to rely heavily on the mouse?
+Not sure about that last line, though.
+Maybe there&amp;rsquo;s a way to configure it to be keyboard-centric.&lt;/p>
+&lt;p>Then, I switched to cwm, also present in the base install.
+After fumbling with this,
+I find cwm more pleasant to use than fvwm.&lt;/p>
+&lt;p>I didn&amp;rsquo;t want the console log to open everytime I log in,
+so I commented it out of the &lt;code>/etc/X11/Xenodm/Xsetup_0&lt;/code> file.&lt;/p>
+&lt;h2 id="watching-videos">Watching Videos&lt;/h2>
+&lt;p>I wanted to still watch some videos from the channels that I subscribe to on YouTube.
+For this endeavor,
+I&amp;rsquo;ll use mpv, youtube-dl, and &lt;a href="https://github.com/pystardust/ytfzf">ytfzf&lt;/a>.&lt;/p>
+&lt;p>There&amp;rsquo;s a youtube-dl ported to OpenBSD&amp;rsquo;s official packages,
+but that one seems outdated.
+It wouldn&amp;rsquo;t download a video, and returns an error.
+I thought of getting the latest one from pip3 instead.&lt;/p>
+&lt;p>Download pip3:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># pkg_add py3-pip&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then download youtube-dl using pip3:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># pip3.8 install youtube-dl&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Download ytfzf, to look up videos from terminal, and open them in mpv, without the need to open a browser:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">$ git clone https://github.com/pystardust/ytfzf &lt;span style="color:#f92672">&amp;amp;&amp;amp;&lt;/span> cd ytfzf
+&lt;span style="color:#75715e"># make install&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>ytfzf, youtube-dl, mpv works in this setup so far.&lt;/p>
+&lt;h2 id="getting-updates">Getting updates&lt;/h2>
+&lt;p>I use newsboat as my RSS reader.
+Good thing it&amp;rsquo;s ported to OpenBSD officially.&lt;/p>
+&lt;h2 id="blogging">Blogging&lt;/h2>
+&lt;p>How else can I report to the public about this project if not through this site?&lt;/p>
+&lt;p>&lt;a href="https://gohugo.io">Hugo&lt;/a> is still my go-to static site generator.
+It&amp;rsquo;s officially ported to OpenBSD, so getting it is as easy as:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># pkg_add hugo&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="accesing-github">Accesing Github&lt;/h3>
+&lt;p>At the time of writing,
+this site and its source code is hosted on Github.
+I wanted to access Github&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> through their &lt;a href="cli.github.com">gh-cli&lt;/a>,
+because I believe it&amp;rsquo;s less resource intensive than opening a browser every time.&lt;/p>
+&lt;p>The only option is to build it from source.&lt;/p>
+&lt;p>First, I need golang and gmake,
+the latter for compiling,
+because &lt;code>make == clang&lt;/code> in base install,
+and &lt;code>clang&lt;/code> doesn&amp;rsquo;t work (I&amp;rsquo;ve tried).&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># pkg_add go gmake&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then follow the &lt;a href="https://github.com/cli/cli/blob/trunk/docs/source.md">instructions when installing from source&lt;/a>,
+except do use &lt;code>gmake&lt;/code> when building and installing, like so:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># gmake install&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Lastly, I followed the prompts after typing:&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">$ gh auth login
+&lt;/code>&lt;/pre>&lt;/div>&lt;section class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1" role="doc-endnote">
+&lt;p>vi in OpenBSD is actually nvi,
+an improved version of vi,
+in my opinion. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2" role="doc-endnote">
+&lt;p>I also use Github for other non-blogging projects, so doing this is vital. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/section></description></item><item><title>My Bullet Journal Method</title><link>https://ohio.araw.xyz/bujo/</link><pubDate>Thu, 13 May 2021 17:04:58 +0800</pubDate><guid>https://ohio.araw.xyz/bujo/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
 &lt;p>I have been bullet-journaling (bujo) since I first chanced on it on 2015.
 It made sense to me at the time, and it still does.&lt;/p>
 &lt;p>If you&amp;rsquo;re curious what this is, Ryder Carroll, the creator, explains it &lt;a href="https://bulletjournal.com/pages/learn">here&lt;/a>.&lt;/p>
@@ -133,15 +254,15 @@ It&amp;rsquo;s because they tend to focus on utility and productivity, not on ae
 &lt;p>In fact, the main tenet of bujo is rapid logging:
 to write down a thought quickly before the mind forgets it.
 As a consequence, the notebook becomes a list of list of items in bullet points,
-hence the name Bullet Journal.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+hence the name Bullet Journal. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
 &lt;p>In my opinion, one should not have millions of trackers.
-I found four to be manageable.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+I found four to be manageable. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3" role="doc-endnote">
 &lt;p>You see, it&amp;rsquo;s amazing how there are paid &amp;ldquo;courses&amp;rdquo; to &amp;ldquo;guide you in setting up&amp;rdquo; your own bujo.
-Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorite search engine, and see what comes up.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorite search engine, and see what comes up. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Imbentori: A Tumblr Blog</title><link>https://ohio.araw.xyz/imbentori/</link><pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate><guid>https://ohio.araw.xyz/imbentori/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
@@ -1326,7 +1447,7 @@ so please try to forgive me when I talk about them.&lt;/li>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>Reminds me of a paper called &lt;a href="http://journal.sjdm.org/19/190712/jdm190712.html">&lt;em>&amp;ldquo;Bullshit Makes The Art Grow Profounder&amp;rdquo;&lt;/em>&lt;/a> (Turpin et. al., 2019).
 Some 20(20) years ago when I last visited an art museum (or was it just gallery?),
-I couldn&amp;rsquo;t help but roll my eyes on a lot of pieces' description cards that seemingly always include how the artist &amp;ldquo;explores&amp;rdquo; this or that.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+I couldn&amp;rsquo;t help but roll my eyes on a lot of pieces' description cards that seemingly always include how the artist &amp;ldquo;explores&amp;rdquo; this or that. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>iPod Classic Hard Drive Upgrade</title><link>https://ohio.araw.xyz/mercipod/</link><pubDate>Tue, 02 Feb 2021 17:45:52 +0800</pubDate><guid>https://ohio.araw.xyz/mercipod/</guid><description>&lt;h2 class="statusDone" id="status-done">Status: Done&lt;/h2>
@@ -1340,8 +1461,9 @@ Pardon the amateur.&lt;/p>
 &lt;hr>
 &lt;h2 id="getting-what-i-need">Getting what I need&lt;/h2>
 &lt;p>Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi1.jpeg"
-alt="a spread of items needed to upgrade the ipod, including hard drive and prying tools"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi1.jpeg"
+alt="a spread of items needed to upgrade the ipod, including hard drive and prying tools"/> &lt;figcaption>
 &lt;p>TOP HALF, LEFT TO RIGHT: iPod Classic, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1406,8 +1528,9 @@ It&amp;rsquo;s better to make sure, than force something and then breaking it ne
 &lt;h2 id="swapping-the-hard-drives">Swapping the Hard Drives&lt;/h2>
 &lt;p>Now we will be discussing the steps involved in taking out the old hard drive to be replaced with the new solid state one.&lt;/p>
 &lt;h3 id="1-open-the-ipod">1. Open the iPod&lt;/h3>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi2.jpeg"
-alt="an image of ipod and a small roll of washi tape below it"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi2.jpeg"
+alt="an image of ipod and a small roll of washi tape below it"/> &lt;figcaption>
 &lt;p>Washi tape marks the locations of the metal clips&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1420,8 +1543,9 @@ Disengaging the clips on both sides can be done after, either by alternating bet
 &lt;p>I&amp;rsquo;ll reiterate:
 Refer to the video tutorial first on how exactly this is done.&lt;/p>
 &lt;h3 id="2-disconnecting-the-battery-ribbon">2. Disconnecting the battery ribbon&lt;/h3>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi3.jpeg"
-alt="an opened ipod"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi3.jpeg"
+alt="an opened ipod"/> &lt;figcaption>
 &lt;p>Disconnecting the battery ribbon&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1430,8 +1554,9 @@ Slowly carefully lift the back chassis.
 metal-clips shouldn&amp;rsquo;t open it wide yet, because there&amp;rsquo;s a battery ribbon still connected.&lt;/p>
 &lt;p>With a plastic prying tool, slide up the black plastic clip that holds the battery ribbon.
 The battery ribbon can now be lifted (carefully) up, still with the help of a prying tool.&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi4.jpeg"
-alt="an opened ipod"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi4.jpeg"
+alt="an opened ipod"/> &lt;figcaption>
 &lt;p>Freshly opened iPod. LEFT: Back metal shell, battery (the yellow-orange rectangle); RIGHT: Front chassis, and what you&amp;rsquo;re seeing is the mechanical hard drive and some foam&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1443,16 +1568,18 @@ Keep it in tact.&lt;/p>
 &lt;p>The battery still has some significant juice in it, so that&amp;rsquo;s an upgrade for another time.&lt;/p>
 &lt;h3 id="3-disconnect-the-original-hard-drive">3. Disconnect the original hard drive&lt;/h3>
 &lt;p>The original hard drive is attached to the motherboard via flexible flat cable (FFC) through called a Zero Insertion Force (ZIF) connector.&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi5.jpeg"
-alt="an opened ipod"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi5.jpeg"
+alt="an opened ipod"/> &lt;figcaption>
 &lt;p>Disconnecting the HDD&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
 &lt;p>On the side of the hard drive, there&amp;rsquo;s a sliver of black plastic flap that must first be flipped to disengage the FFC from the ZIF.
 Do that carefully with a plastic prying tool.&lt;/p>
 &lt;p>Once disengaged, the hard drive shall be easy to pull off.&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi6.jpeg"
-alt="an opened ipod and a mechanical hard disk"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi6.jpeg"
+alt="an opened ipod and a mechanical hard disk"/> &lt;figcaption>
 &lt;p>RIGHTMOST: Hard drive successfully removed&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1463,8 +1590,9 @@ Insert it in one of the slots in the iFlash-Quad adapter.&lt;/p>
 This will act as a spacer between the adapter and the iPod&amp;rsquo;s circuit board.
 The adapter being thinner than the original hard drive, the foam provides a snug fit, so the iPod won&amp;rsquo;t be an overpriced maracas.
 Refer to the following image to know which side the foam must be placed.&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi7.jpeg"
-alt="image of iFlash solid state drive"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi7.jpeg"
+alt="image of iFlash solid state drive"/> &lt;figcaption>
 &lt;p>iFlash-Quad, with foams&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1473,8 +1601,9 @@ It shouldn&amp;rsquo;t be hard to slide it in.
 If the FFC is somewhat resisting, be sure that it is evenly sliding in, not at an angle.
 Then, lock it in by putting the black plastic flap back down.&lt;/p>
 &lt;p>Check the following image to see the orientation of the adapter during connection.
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi8.jpeg"
-alt="an opened ipod"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi8.jpeg"
+alt="an opened ipod"/> &lt;figcaption>
 &lt;p>Installing the solid state drive&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1484,8 +1613,9 @@ alt="an opened ipod"/>&lt;figcaption>
 &lt;p>Using a tweezer (pictured in the following image), reconnect the battery ribbon in the same slot as before.
 Lock it in by pushing down the black plastic slider.
 Give it a light tug to ensure that it isn&amp;rsquo;t loosely connected.&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/mi9.jpeg"
-alt="an opened ipod"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/mi9.jpeg"
+alt="an opened ipod"/> &lt;figcaption>
 &lt;p>Reconnecting the battery ribbon&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1513,16 +1643,16 @@ Look it up online.&lt;/p>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>iPod Classic, 6th Generation (&amp;ldquo;7th gen&amp;rdquo; in some sites), 2nd revision, 160 GB capacity, Model No. A1238.
-For more info on iPods, &lt;a href="https://en.wikipedia.org/wiki/IPod_Classic">check the wikipedia about it&lt;/a>.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+For more info on iPods, &lt;a href="https://en.wikipedia.org/wiki/IPod_Classic">check the wikipedia about it&lt;/a>. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
 &lt;p>We like to call ourselves &lt;a href="https://arawseekers.github.io">Araw Seekers&lt;/a>.
-You&amp;rsquo;re welcome to go over there and read.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+You&amp;rsquo;re welcome to go over there and read. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3" role="doc-endnote">
 &lt;p>One would notice the absence of screws with which to open the device.
 Instead, there are metal clips on the inside all around the edge.
-Without prior knowledge, one would think that the iPod was not designed to be maintained, and one would be right in thinking so.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+Without prior knowledge, one would think that the iPod was not designed to be maintained, and one would be right in thinking so. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Encoding: From Hardcopy to Softcopy</title><link>https://ohio.araw.xyz/encode/</link><pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate><guid>https://ohio.araw.xyz/encode/</guid><description>&lt;h2 class="statusDone" id="status-done">Status: Done&lt;/h2>
@@ -1612,10 +1742,10 @@ Type your thoughts in a distraction-free machine&lt;sup id="fnref:2">&lt;a href=
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>To easily come up with a password, this would be the best time to start using a &lt;a href="https://privacytools.io/software/passwords/#pw">password manager&lt;/a>.
-Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
-&lt;p>See the &lt;a href="https://typewriterrevolution.com/manifesto">Typewriter Manifesto&lt;/a> if you&amp;rsquo;re into that.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>See the &lt;a href="https://typewriterrevolution.com/manifesto">Typewriter Manifesto&lt;/a> if you&amp;rsquo;re into that. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Always Carry Website</title><link>https://ohio.araw.xyz/alwayscarry/</link><pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate><guid>https://ohio.araw.xyz/alwayscarry/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
@@ -1623,8 +1753,9 @@ Most of the password managers have randomizers, which prints out random strings 
 The website shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p>
 &lt;p>Visit the site:
 &lt;strong>&lt;a href="https://alwayscarry.netlify.app">Always Carry!&lt;/a>&lt;/strong>&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/alwayscarry.png"
-alt="screenshot from Always Carry website "/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/alwayscarry.png"
+alt="screenshot from Always Carry website "/> &lt;figcaption>
 &lt;p>Screenshot from the website&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -1780,8 +1911,9 @@ These days, though, it&amp;rsquo;s vulnerable to a lot of cyberattacks, more so 
 And yet, some institutions still use it.
 If their computers are connected to the Internet,
 they are exposed to black hat hackers.&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/msi-wind.jpeg"
-alt="screenshot of the laptop&amp;#39;s system properties"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/msi-wind.jpeg"
+alt="screenshot of the laptop&amp;#39;s system properties"/> &lt;figcaption>
 &lt;p>And now, a crappy photo of the laptop&amp;rsquo;s system properties&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -2038,24 +2170,24 @@ Be patient to go through them.&lt;/li>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>It&amp;rsquo;s just a server that provides the exact copy of data from another server.
-Usually to provide a means of redundancy.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+Usually to provide a means of redundancy. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
-&lt;p>Since this is going to be a server, I don&amp;rsquo;t need graphical user interface.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Since this is going to be a server, I don&amp;rsquo;t need graphical user interface. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3" role="doc-endnote">
 &lt;p>The USB drive.
 This might be different for every other machine.
-At any point during the installation, type &lt;code>?&lt;/code> to list the possible choices.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+At any point during the installation, type &lt;code>?&lt;/code> to list the possible choices. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:4" role="doc-endnote">
 &lt;p>vi is a text editor already present in the base install of OpenBSD.
-I&amp;rsquo;m familiar with it, but ultimately I&amp;rsquo;ll use (neo)vim.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+I&amp;rsquo;m familiar with it, but ultimately I&amp;rsquo;ll use (neo)vim. &lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:5" role="doc-endnote">
 &lt;p>The SSH (secure shell) protocol uses encryption to secure the connection between a client and a server.
 All user authentication, commands, ouput, and file transfers are encrypted to protect against attacks in the network.
-For more info: &lt;a href="https://www.ssh.com">https://www.ssh.com&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+For more info: &lt;a href="https://www.ssh.com">https://www.ssh.com&lt;/a> &lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>This Site: Colophon</title><link>https://ohio.araw.xyz/site/</link><pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate><guid>https://ohio.araw.xyz/site/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
@@ -2132,7 +2264,7 @@ Note: In iOS and iPadOS, this arrow becomes an emoji version of it.&lt;/p>
 &lt;span style="color:#f92672">a&lt;/span>&lt;span style="color:#f92672">[&lt;/span>&lt;span style="color:#f92672">href&lt;/span>&lt;span style="color:#f92672">^=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;https://&amp;#34;&lt;/span>&lt;span style="color:#f92672">]&lt;/span>:&lt;span style="color:#a6e22e">not&lt;/span>&lt;span style="color:#f92672">([&lt;/span>&lt;span style="color:#f92672">href&lt;/span>&lt;span style="color:#f92672">*=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span>&lt;span style="color:#f92672">])&lt;/span>:&lt;span style="color:#a6e22e">after&lt;/span>{
 &lt;span style="color:#66d9ef">content&lt;/span>: &lt;span style="color:#e6db74">&amp;#34;\2917&amp;#34;&lt;/span>;
 &lt;span style="color:#66d9ef">color&lt;/span>: &lt;span style="color:#66d9ef">green&lt;/span>;
-&lt;span style="color:#66d9ef">display&lt;/span>: &lt;span style="color:#66d9ef">inline-block&lt;/span>;
+&lt;span style="color:#66d9ef">display&lt;/span>: &lt;span style="color:#66d9ef">inline&lt;/span>&lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#66d9ef">block&lt;/span>;
 }
 &lt;/code>&lt;/pre>&lt;/div>&lt;p>The above snippet means that if a link does not contain &lt;code>ohio.araw.xyz&lt;/code>, then &lt;code>content&lt;/code> will be displayed &lt;code>after&lt;/code> it.&lt;/p>
 &lt;p>Currently, these arrows only indicate external links to let visitors know that they will be directed away.
@@ -2249,27 +2381,27 @@ I&amp;rsquo;d like to step away from that.&lt;/li>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>That&amp;rsquo;s just a wild claim.
 I have no proof of it &lt;em>yet&lt;/em>, but absence of evidence doesn&amp;rsquo;t mean evidence of absence, &lt;em>no&lt;/em>?
-Maybe the creatives who are coerced into doing the visuals also like their work.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+Maybe the creatives who are coerced into doing the visuals also like their work. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
 &lt;p>It&amp;rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
-Visit their page for more info.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+Visit their page for more info. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3" role="doc-endnote">
 &lt;p>Exchangeable image file format (EXIF) metadata is removed to help reduce the image size.
-As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:4" role="doc-endnote">
 &lt;p>Or, if you have &lt;a href="https://pandoc.org/">Pandoc&lt;/a> in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
-It takes some fiddling around the documentation, but it can be done.&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+It takes some fiddling around the documentation, but it can be done. &lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:5" role="doc-endnote">
-&lt;p>Check out &lt;a href="https://jamstack.org/generators/">Jamstack&lt;/a> for a list of hundreds of possible SSGs!&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Check out &lt;a href="https://jamstack.org/generators/">Jamstack&lt;/a> for a list of hundreds of possible SSGs! &lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:6" role="doc-endnote">
 &lt;p>By &amp;ldquo;decent&amp;rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&amp;rsquo;s reliable.
-However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing.&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+However, the more complex you make your site, you&amp;rsquo;ll find that Hugo documentation still needs more polishing. &lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item></channel></rss>

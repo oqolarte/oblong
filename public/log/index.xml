@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/log/</link><description>Recent content in Log on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml"/><item><title>Simplex Patch Cord</title><link>https://ohio.araw.xyz/simplex/</link><pubDate>Fri, 02 Jul 2021 02:37:39 +0800</pubDate><guid>https://ohio.araw.xyz/simplex/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/log/</link><description>Recent content in Log on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml"/><item><title>Signs of Aging</title><link>https://ohio.araw.xyz/aging/</link><pubDate>Sat, 10 Jul 2021 03:52:29 +0800</pubDate><guid>https://ohio.araw.xyz/aging/</guid><description>&lt;p>Hello there,&lt;/p>
+&lt;p>Today&amp;rsquo;s update is, well,
+about how my life in general kicks me &lt;em>initially&lt;/em>
+in the ass&amp;mdash;butt first.&lt;/p>
+&lt;ul>
+&lt;li>Added &lt;a href="https://ohio.araw.xyz/old-computer">The Old Computer Challenge&lt;/a>.
+I decided to list it as a &amp;ldquo;project&amp;rdquo;.&lt;/li>
+&lt;/ul>
+&lt;p>I&amp;rsquo;m participating in said challenge using the MSI Wind that I initially intended to be my &lt;a href="https://ohio.araw.xyz/server">server&lt;/a>.
+Since this metal is i386 architecture,
+there are only a handful of systems that still support this
+that&amp;rsquo;s fit to run on modern age.
+For me, replacing Windows &lt;em>XP&lt;/em> (!) with OpenBSD only makes sense.&lt;/p>
+&lt;p>Configuring this system so it&amp;rsquo;s useable for a whole week is important to me.
+That&amp;rsquo;s why I spent some time customizing it, from colors, key bindings,
+to the programs that can run on this machine.&lt;/p>
+&lt;p>Anyway, this got me thinking:
+it&amp;rsquo;s weird that when it comes to technology,
+especially those that have electronics in them,
+anything that&amp;rsquo;s older than five is already considered &amp;ldquo;old.&amp;rdquo;&lt;/p>
+&lt;p>The term implies experience, maybe signs of aging.
+The older a piece of technology is,
+the harder it is to refurbish it to keep up with the demands of modern times.
+Replacement parts may already be out of production,
+or are themselves already refurbished.
+But refurbish and/or upcycle it we must, in my opinion,
+so long as resources would still allow it.&lt;/p>
+&lt;p>&lt;em>This is Day 1 of &lt;a href="https://ohio.araw.xyz/old-computer">Old Computer Challenge&lt;/a>.&lt;/em>&lt;/p></description></item><item><title>Simplex Patch Cord</title><link>https://ohio.araw.xyz/simplex/</link><pubDate>Fri, 02 Jul 2021 02:37:39 +0800</pubDate><guid>https://ohio.araw.xyz/simplex/</guid><description>&lt;ul>
 &lt;li>Actually updated the &lt;a href="https://ohio.araw.xyz/cv.pdf">pdf of my CV&lt;/a>!&lt;/li>
 &lt;li>Added a few lines in the foreword of &lt;a href="https://ohio.araw.xyz/imbentori">Imbentori&lt;/a>.
 There are 19 new entries and a dozen one-liners there as well.&lt;/li>
@@ -16,7 +43,7 @@ despited repeated follow-ups from our end.&lt;/p>
 (or any other ISPs for that matter)
 should improve their services.
 Start by giving better benefits and wages to their employees.
-Provide them with the needed tools of the trade on company&amp;rsquo;s expense.&lt;/p>
+Provide them with the needed tools of the trade on company&amp;rsquo;s expense, etc.&lt;/p>
 &lt;p>While angry customers shouldn&amp;rsquo;t berate field technicians and other customer-facing agents for poor service,
 ISP management should understand that throwing bureaucracy at customers only insults them.
 Corporate speak will never sound polite.
@@ -57,7 +84,7 @@ Our interaction did not last two minutes.&lt;/p>
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
-&lt;p>It&amp;rsquo;s &lt;a href="https://pldthome.com">PLDT&lt;/a>, btw.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>It&amp;rsquo;s &lt;a href="https://pldthome.com">PLDT&lt;/a>, btw. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>CS50x</title><link>https://ohio.araw.xyz/cs50x/</link><pubDate>Fri, 25 Jun 2021 15:35:12 +0800</pubDate><guid>https://ohio.araw.xyz/cs50x/</guid><description>&lt;ul>
@@ -108,7 +135,7 @@ And perhaps I&amp;rsquo;ll help somebody along the way.&lt;/p>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>At the time of writing.
-Might change in the future.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+Might change in the future. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Dread</title><link>https://ohio.araw.xyz/dread/</link><pubDate>Thu, 24 Jun 2021 05:46:33 +0800</pubDate><guid>https://ohio.araw.xyz/dread/</guid><description>&lt;ul>
@@ -284,8 +311,9 @@ It then proceeds with whatever mode it&amp;rsquo;s on.&lt;/p>
 using superglue and baking soda.
 Hopefully it sticks for a long time.&lt;/p>
 &lt;p>Finally, I can go on with the laundry hassle-free.&lt;/p>
-&lt;figure>&lt;img src="https://ohio.araw.xyz/image/lgfz.jpeg"
-alt="digital control panel of a top-load automatic washing machine"/>&lt;figcaption>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/lgfz.jpeg"
+alt="digital control panel of a top-load automatic washing machine"/> &lt;figcaption>
 &lt;p>Fridge Magnet solves the issue. Now where&amp;rsquo;s the manual?&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -294,7 +322,7 @@ alt="digital control panel of a top-load automatic washing machine"/>&lt;figcapt
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>Besides, it&amp;rsquo;s Sunday.
-It&amp;rsquo;s unlikely that someone is available.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+It&amp;rsquo;s unlikely that someone is available. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Tyler Durden's Empty Seat</title><link>https://ohio.araw.xyz/tyler-durden/</link><pubDate>Sat, 15 May 2021 03:01:31 +0800</pubDate><guid>https://ohio.araw.xyz/tyler-durden/</guid><description>&lt;ul>
@@ -380,7 +408,7 @@ sudo make
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>I&amp;rsquo;m actually talking to my future self.
-This is my notes.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+This is my notes. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Heat</title><link>https://ohio.araw.xyz/heat/</link><pubDate>Sun, 02 May 2021 10:55:38 +0800</pubDate><guid>https://ohio.araw.xyz/heat/</guid><description>&lt;ul>
@@ -425,7 +453,7 @@ Wouldn&amp;rsquo;t it be great to buy and sit on the &lt;code>yellowcab.pizza&lt
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>This sample text becomes bold when you click from the footnote reference.
-It returns to regular font weight when you return.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+It returns to regular font weight when you return. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Clean Act</title><link>https://ohio.araw.xyz/act/</link><pubDate>Fri, 16 Apr 2021 00:11:22 +0800</pubDate><guid>https://ohio.araw.xyz/act/</guid><description>&lt;ul>
@@ -525,7 +553,7 @@ Mostly, they are just flash fiction typewritten on a fragile old parchment that 
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>This will be highlighted if you just click on the note reference above.
 This helps you, the reader, know which note the text is referring to.
-The highlight will disappear once you click on the backlink, the one at the end of this note.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+The highlight will disappear once you click on the backlink, the one at the end of this note. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Week 11</title><link>https://ohio.araw.xyz/wk11/</link><pubDate>Mon, 22 Mar 2021 00:48:28 +0800</pubDate><guid>https://ohio.araw.xyz/wk11/</guid><description>&lt;p>&lt;strong>Because there&amp;rsquo;s no creative way to title this post.&lt;/strong>&lt;/p>
@@ -563,10 +591,10 @@ But I&amp;rsquo;m only partly to blame.&lt;/p>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
 &lt;p>Wine (&amp;ldquo;Wine Is Not an Emulator&amp;rdquo;) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Debian, the one in my machine right now.
-More info: &lt;a href="https://winehq.org">https://winehq.org&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+More info: &lt;a href="https://winehq.org">https://winehq.org&lt;/a> &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
-&lt;p>Muscle pains had afflicted my thighs for days when I attempted to do pistol squats without properly learning the technique.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Muscle pains had afflicted my thighs for days when I attempted to do pistol squats without properly learning the technique. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>What D&amp;D Character Am I?</title><link>https://ohio.araw.xyz/cgud/</link><pubDate>Wed, 17 Mar 2021 14:52:37 +0800</pubDate><guid>https://ohio.araw.xyz/cgud/</guid><description>&lt;ul>
@@ -600,7 +628,7 @@ Every time, I&amp;rsquo;m transported to the past by nostalgia.&lt;/p>
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
-&lt;p>Northwestern University. &amp;ldquo;Why odors trigger powerful memories: Smell travels on superhighway to hippocampus in the brain.&amp;rdquo; ScienceDaily. ScienceDaily, 8 March 2021. &amp;lt;&lt;a href="https://www.sciencedaily.com/releases/2021/03/210308140743.htm">www.sciencedaily.com/releases/2021/03/210308140743.htm&lt;/a>&amp;gt;.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Northwestern University. &amp;ldquo;Why odors trigger powerful memories: Smell travels on superhighway to hippocampus in the brain.&amp;rdquo; ScienceDaily. ScienceDaily, 8 March 2021. &amp;lt;&lt;a href="https://www.sciencedaily.com/releases/2021/03/210308140743.htm">www.sciencedaily.com/releases/2021/03/210308140743.htm&lt;/a>&amp;gt;. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Qualitative Research</title><link>https://ohio.araw.xyz/grnq/</link><pubDate>Sat, 13 Mar 2021 15:16:14 +0800</pubDate><guid>https://ohio.araw.xyz/grnq/</guid><description>&lt;p>How else do you spend an afternoon other than answering &lt;a href="https://flyeronthewall.wordpress.com/about/about-yourself/">questions from the internet&lt;/a>?
@@ -684,7 +712,7 @@ If my calculations remain correct for the foreseeable future, I have between 8-1
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
-&lt;p>The name of my Thinkpad X220 that I bought secondhand a little over a year ago.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>The name of my Thinkpad X220 that I bought secondhand a little over a year ago. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Skill or Virtue?</title><link>https://ohio.araw.xyz/piav/</link><pubDate>Mon, 08 Mar 2021 13:42:44 +0800</pubDate><guid>https://ohio.araw.xyz/piav/</guid><description>&lt;ul>
@@ -842,8 +870,9 @@ I wish I was exagerrating.
 Let&amp;rsquo;s not even go to how long that toxic fume sticks on your person.
 Hours!&lt;/p>
 &lt;p>But there we went, with or without incentives, because it&amp;rsquo;s been more than a year since I saw them.
-We have more catching up to do.&lt;/p></description></item><item><title>Esmeris Farm</title><link>https://ohio.araw.xyz/esmeris/</link><pubDate>Fri, 29 Jan 2021 15:16:41 +0800</pubDate><guid>https://ohio.araw.xyz/esmeris/</guid><description>&lt;figure>&lt;img src="https://ohio.araw.xyz/image/esmeris.jpeg"
-alt="foliage, forest"/>&lt;figcaption>
+We have more catching up to do.&lt;/p></description></item><item><title>Esmeris Farm</title><link>https://ohio.araw.xyz/esmeris/</link><pubDate>Fri, 29 Jan 2021 15:16:41 +0800</pubDate><guid>https://ohio.araw.xyz/esmeris/</guid><description>&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/esmeris.jpeg"
+alt="foliage, forest"/> &lt;figcaption>
 &lt;p>Imagine being surrounded by this&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -973,7 +1002,7 @@ As you may know, Nolan&amp;rsquo;s films require more than just one viewing.&lt;
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
-&lt;p>&lt;em>Inay&lt;/em> is their term of endearment for their paternal grandmother.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>&lt;em>Inay&lt;/em> is their term of endearment for their paternal grandmother. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>Impostor Syndrome</title><link>https://ohio.araw.xyz/impsyn/</link><pubDate>Sat, 05 Dec 2020 17:51:47 +0800</pubDate><guid>https://ohio.araw.xyz/impsyn/</guid><description>&lt;ul>
