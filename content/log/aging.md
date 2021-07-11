@@ -30,10 +30,12 @@ anything that's older than five is already considered "old."
 
 The term implies experience, maybe signs of aging.
 The older a piece of technology is,
-the harder it is to refurbish it to keep up with the demands of modern times.
-Replacement parts may already be out of production,
+the harder it is to maintain it to keep up with the demands of modern times.
+Replacement parts may either be out of production,
+hard to find due to scarcity,
 or are themselves already refurbished.
-But refurbish and/or upcycle it we must, in my opinion,
+
+But refurbish and/or upcycle old tech we must, in my opinion,
 so long as resources would still allow it.
 
 *This is Day 1 of [Old Computer Challenge](/old-computer).*

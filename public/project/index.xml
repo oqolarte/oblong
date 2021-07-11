@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Old Computer</title><link>https://ohio.araw.xyz/old-computer/</link><pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate><guid>https://ohio.araw.xyz/old-computer/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>The Old Computer Challenge</title><link>https://ohio.araw.xyz/old-computer/</link><pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate><guid>https://ohio.araw.xyz/old-computer/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+&lt;p>This project is my attempt to &amp;ldquo;make it work&amp;rdquo; using old, un-upgraded computer.
+Over this period, I will document the good, the bad, and the ugly.
+Below isn&amp;rsquo;t necessarily a tutorial, but personal notes.
+Whenever possible, I link the things I use to their respective online documentation.&lt;/p>
 &lt;p>&lt;a href="https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html">Solene&amp;rsquo;s prompt was to use old computers for a week&lt;/a>,
 from 10-17 July 2021.
-That&amp;rsquo;s the gist of the whole challenge.
-For details, check Solene&amp;rsquo;s post about it.&lt;/p>
+That&amp;rsquo;s the gist.
+For details, check Solene&amp;rsquo;s post.&lt;/p>
 &lt;p>I don&amp;rsquo;t think I followed all the rules to the letter.
 For example, I didn&amp;rsquo;t limit my RAM to 512MB.
-Doing so, in my case, would terribly limit my only poor hardware.&lt;/p>
+Doing so, in my case, would terribly limit my hardware.&lt;/p>
 &lt;p>For this, I&amp;rsquo;m recommissioning the MSI Wind Netbook for this project,
 the same laptop that I originally planned to be my &lt;a href="https://ohio.araw.xyz/server.md">homebrew server&lt;/a>.&lt;/p>
 &lt;p>For context, here are the following specs that I&amp;rsquo;m dealing with:&lt;/p>
@@ -13,7 +17,6 @@ the same laptop that I originally planned to be my &lt;a href="https://ohio.araw
 &lt;p>The &lt;a href="https://www.laptopmag.com/reviews/laptops/msi-wind-u123">MSI Wind Netbook&lt;/a> makes another comeback for this week,
 whose physical parts comprise:&lt;/p>
 &lt;ul>
-&lt;li>Bluetooth 2.0&lt;/li>
 &lt;li>CPU: 1.66-GHZ Intel Atom N280&lt;/li>
 &lt;li>Display size: 10.2&amp;quot;&lt;/li>
 &lt;li>Graphics card: Intel GMA 950&lt;/li>
@@ -32,20 +35,32 @@ whose physical parts comprise:&lt;/p>
 &lt;li>speakers can only go up to a certain volume, barely audible
 (this is a non-issue, though; I can just use earphones as the jacks are working fine).&lt;/li>
 &lt;/ul>
-&lt;p>This project is me attempting to &amp;ldquo;make it work&amp;rdquo; in old, un-upgraded computer.
-In real life, some people may just be lucky enough to have a working computer (maybe as a donation),
+&lt;p>In real life, some people may just be lucky enough to have a working computer (maybe as a donation),
 but not so much to afford to upgrade its parts.
 Think far-flung rural areas.&lt;/p>
 &lt;h2 id="software">Software&lt;/h2>
+&lt;p>I need software that requires minimal resources but still empowers the user to &amp;ldquo;do things.&amp;rdquo;
+To me, this means that I have to use the terminal whenever possible.&lt;/p>
 &lt;ul>
 &lt;li>Operating System: &lt;a href="https://openbsd.org">OpenBSD 6.9&lt;/a>&lt;/li>
 &lt;li>Window Manager: cwm&lt;/li>
 &lt;li>Terminal: &lt;a href="https://st.suckless.org">st&lt;/a>&lt;/li>
 &lt;li>Terminal Multiplexer: tmux&lt;/li>
 &lt;li>Text Editor: &lt;a href="https://neovim.io">neovim&lt;/a> or vi&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> depending on the mood&lt;/li>
-&lt;li>Web Browser: qutebrowser (GUI) or w3m (TUI)&lt;/li>
+&lt;li>Web Browser: &lt;a href="https://qutebrowser.org">qutebrowser&lt;/a> (GUI) or w3m (TUI)&lt;/li>
 &lt;li>Shell: ksh&lt;/li>
+&lt;li>RSS reader: &lt;a href="https://newsboat.org">newsboat&lt;/a>&lt;/li>
+&lt;li>Media player: &lt;a href="https://mpv.io">mpv&lt;/a>&lt;/li>
+&lt;li>Static site generator: &lt;a href="https://gohugo.io">hugo&lt;/a>&lt;/li>
+&lt;li>File manager: sometimes &lt;a href="https://github.com/jarun/nnn">nnn&lt;/a>; mostly just Unix utilities&lt;/li>
 &lt;/ul>
+&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/oldpc.png"
+alt="screenshot of system running tmux with neovim, pfetch, htop, and scrot"/> &lt;figcaption>
+&lt;p>System captured with &lt;code>scrot&lt;/code>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>For anyone who cares, here&amp;rsquo;s &lt;a href="https://ohio.araw.xyz/dmesg.txt">dmesg&lt;/a> for more details about my system.&lt;/p>
 &lt;h2 id="window-manager">Window Manager&lt;/h2>
 &lt;p>For the window manager,
 I initially opted for &lt;a href="https://dwm.suckless.org">dwm&lt;/a>,
@@ -55,73 +70,115 @@ the X System seems to hang&amp;hellip;?
 At this point, it will only respond when I switch to tty (&lt;code>ctrl + alt + F1&lt;/code>).
 Since I couldn&amp;rsquo;t&amp;mdash;&lt;em>don&amp;rsquo;t&lt;/em> have the patience&amp;mdash;to figure it out,
 I decided to settle with what&amp;rsquo;s on the base install.&lt;/p>
-&lt;p>I tried fvwm.
+&lt;p>I tried &lt;a href="https://fvwm.org">fvwm&lt;/a>.
 Everything in the base install seems to work fine.
 But I don&amp;rsquo;t get the layout.
 And the aesthetic is too&amp;hellip; archaic for me.
 Lastly, it seems to rely heavily on the mouse?
 Not sure about that last line, though.
 Maybe there&amp;rsquo;s a way to configure it to be keyboard-centric.&lt;/p>
-&lt;p>Then, I switched to cwm, also present in the base install.
+&lt;p>Then, I switched to cwm,
+or calm window manager,
+which is also present in the base install.
 After fumbling with this,
 I find cwm more pleasant to use than fvwm.&lt;/p>
 &lt;p>I didn&amp;rsquo;t want the console log to open everytime I log in,
 so I commented it out of the &lt;code>/etc/X11/Xenodm/Xsetup_0&lt;/code> file.&lt;/p>
+&lt;h2 id="file-manager">File Manager&lt;/h2>
+&lt;p>I&amp;rsquo;d like to say that I won&amp;rsquo;t use file manager,
+but I installed nnn just in case.&lt;/p>
+&lt;pre>&lt;code># pkg_add nnn
+&lt;/code>&lt;/pre>&lt;p>However, mostly I use &lt;code>mv&lt;/code>, &lt;code>cp&lt;/code>, &lt;code>rm&lt;/code>, &lt;code>cd&lt;/code>, &lt;code>ls&lt;/code> and other Unix utilities.
+Doing so &amp;ldquo;forces&amp;rdquo; me to be mindful of the current file tree structure in home directory.
+It also encourages me to immediately clean up files and/or put them where they need to be.&lt;/p>
+&lt;p>As an effect, my system is clutter-free and simple&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
+I believe the cool people call it digital minimalism.&lt;/p>
+&lt;h3 id="status-bar">Status bar&lt;/h3>
+&lt;p>I have no separate program for status bar like &lt;a href="https://polybar.github.io">polybar&lt;/a> and the like.
+The status bar of tmux works fine displaying the date and time.&lt;/p>
+&lt;p>If I suspect that the internet is down,
+I can just use &lt;code>ping&lt;/code>.
+Luckily, I can rely on my ISP uptime &lt;em>most of the time&lt;/em>.&lt;/p>
+&lt;p>Since I use the headphone jack,
+I don&amp;rsquo;t need a visual representation of the volume;
+the actual sound coming out of the earphones that I use should be enough an indicator.&lt;/p>
 &lt;h2 id="watching-videos">Watching Videos&lt;/h2>
-&lt;p>I wanted to still watch some videos from the channels that I subscribe to on YouTube.
-For this endeavor,
-I&amp;rsquo;ll use mpv, youtube-dl, and &lt;a href="https://github.com/pystardust/ytfzf">ytfzf&lt;/a>.&lt;/p>
-&lt;p>There&amp;rsquo;s a youtube-dl ported to OpenBSD&amp;rsquo;s official packages,
-but that one seems outdated.
-It wouldn&amp;rsquo;t download a video, and returns an error.
-I thought of getting the latest one from pip3 instead.&lt;/p>
+&lt;p>To watch videos from the channels that I subscribe to on YouTube,
+I use mpv, youtube-dl, and &lt;a href="https://github.com/pystardust/ytfzf">ytfzf&lt;/a>.&lt;/p>
+&lt;p>Download mpv, a lightweight yet extensible media player:&lt;/p>
+&lt;pre>&lt;code># pkg_add mpv
+&lt;/code>&lt;/pre>&lt;p>There&amp;rsquo;s a youtube-dl ported to OpenBSD&amp;rsquo;s official packages,
+but it&amp;rsquo;s outdated.
+It returns an error when I try downloading a video with it.
+I got the latest version from pip3 instead.&lt;/p>
 &lt;p>Download pip3:&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># pkg_add py3-pip&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then download youtube-dl using pip3:&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># pip3.8 install youtube-dl&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>Download ytfzf, to look up videos from terminal, and open them in mpv, without the need to open a browser:&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">$ git clone https://github.com/pystardust/ytfzf &lt;span style="color:#f92672">&amp;amp;&amp;amp;&lt;/span> cd ytfzf
-&lt;span style="color:#75715e"># make install&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>ytfzf, youtube-dl, mpv works in this setup so far.&lt;/p>
-&lt;h2 id="getting-updates">Getting updates&lt;/h2>
-&lt;p>I use newsboat as my RSS reader.
-Good thing it&amp;rsquo;s ported to OpenBSD officially.&lt;/p>
+&lt;pre>&lt;code># pkg_add py3-pip
+&lt;/code>&lt;/pre>&lt;p>Then download youtube-dl using pip3:&lt;/p>
+&lt;pre>&lt;code># pip3.8 install youtube-dl
+&lt;/code>&lt;/pre>&lt;p>Download ytfzf,&lt;/p>
+&lt;pre>&lt;code>$ git clone https://github.com/pystardust/ytfzf &amp;amp;&amp;amp; cd ytfzf
+# make install
+&lt;/code>&lt;/pre>&lt;p>ytfzf, youtube-dl, mpv works in this setup so far.
+Now, I can look up YT videos from terminal, and open them in mpv, browser-less!&lt;/p>
+&lt;h2 id="getting-the-latest">Getting the latest&lt;/h2>
+&lt;p>I use newsboat as my RSS reader.&lt;/p>
+&lt;p>Get it from the official packages:&lt;/p>
+&lt;pre>&lt;code># pkg_add newsboat
+&lt;/code>&lt;/pre>&lt;p>I reused (copied) the URL list from my main machine to this netbook,
+but I trimmed the sites that don&amp;rsquo;t offer the full content in their feed.
+This is to keep my reading contained within newsboat,
+and to not have to open a browser.&lt;/p>
 &lt;h2 id="blogging">Blogging&lt;/h2>
 &lt;p>How else can I report to the public about this project if not through this site?&lt;/p>
-&lt;p>&lt;a href="https://gohugo.io">Hugo&lt;/a> is still my go-to static site generator.
+&lt;p>I build this site using hugo.
 It&amp;rsquo;s officially ported to OpenBSD, so getting it is as easy as:&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># pkg_add hugo&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="accesing-github">Accesing Github&lt;/h3>
+&lt;pre>&lt;code># pkg_add hugo
+&lt;/code>&lt;/pre>&lt;h3 id="accesing-github">Accesing Github&lt;/h3>
 &lt;p>At the time of writing,
 this site and its source code is hosted on Github.
-I wanted to access Github&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> through their &lt;a href="cli.github.com">gh-cli&lt;/a>,
+I wanted to access Github&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> through their &lt;a href="cli.github.com">gh-cli&lt;/a>,
 because I believe it&amp;rsquo;s less resource intensive than opening a browser every time.&lt;/p>
-&lt;p>The only option is to build it from source.&lt;/p>
+&lt;p>The only option for me is to build it from source.&lt;/p>
 &lt;p>First, I need golang and gmake,
 the latter for compiling,
 because &lt;code>make == clang&lt;/code> in base install,
 and &lt;code>clang&lt;/code> doesn&amp;rsquo;t work (I&amp;rsquo;ve tried).&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># pkg_add go gmake&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then follow the &lt;a href="https://github.com/cli/cli/blob/trunk/docs/source.md">instructions when installing from source&lt;/a>,
+&lt;pre>&lt;code># pkg_add go gmake
+&lt;/code>&lt;/pre>&lt;p>Then follow the &lt;a href="https://github.com/cli/cli/blob/trunk/docs/source.md">instructions when installing from source&lt;/a>,
 except do use &lt;code>gmake&lt;/code> when building and installing, like so:&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">&lt;span style="color:#75715e"># gmake install&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>Lastly, I followed the prompts after typing:&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-shell" data-lang="shell">$ gh auth login
-&lt;/code>&lt;/pre>&lt;/div>&lt;section class="footnotes" role="doc-endnotes">
+&lt;pre>&lt;code># gmake install
+&lt;/code>&lt;/pre>&lt;figure>
+&lt;img src="https://ohio.araw.xyz/image/gh-cli.png"
+alt="screenshot of tmux running gmake, htop, and scrot"/> &lt;figcaption>
+&lt;p>Compiling time compelled me to make lunch.&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Lastly, I followed the prompts after typing:&lt;/p>
+&lt;pre>&lt;code>$ gh auth login
+&lt;/code>&lt;/pre>&lt;h2 id="smartphone">Smartphone&lt;/h2>
+&lt;p>I contact my friends and family through &lt;a href="https://signal.org">Signal Messenger&lt;/a>,
+so that means I must keep on using my smartphone.&lt;/p>
+&lt;section class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>
 &lt;li id="fn:1" role="doc-endnote">
-&lt;p>vi in OpenBSD is actually nvi,
-an improved version of vi,
-in my opinion. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>vi in OpenBSD is actually &lt;a href="https://www.bostic.com/vi/">nvi&lt;/a>.
+vi works well (quickly) for editing config files. &lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:2" role="doc-endnote">
-&lt;p>I also use Github for other non-blogging projects, so doing this is vital. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>Of course, this is purely a subjective assessment of my system. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3" role="doc-endnote">
+&lt;p>I also use Github for other non-blogging projects, so doing this is vital. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>My Bullet Journal Method</title><link>https://ohio.araw.xyz/bujo/</link><pubDate>Thu, 13 May 2021 17:04:58 +0800</pubDate><guid>https://ohio.araw.xyz/bujo/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
 &lt;p>I have been bullet-journaling (bujo) since I first chanced on it on 2015.
-It made sense to me at the time, and it still does.&lt;/p>
+It made sense to me at the time, and it still does.
+Whether I like it or not,
+the technology that humans are now developing rapidly moves towards the digital.
+Bujo remains my anchor to the analog world,
+where things are slower and require more deliberation.&lt;/p>
 &lt;p>If you&amp;rsquo;re curious what this is, Ryder Carroll, the creator, explains it &lt;a href="https://bulletjournal.com/pages/learn">here&lt;/a>.&lt;/p>
 &lt;p>In this post, I discuss my setup, riffed from Carroll&amp;rsquo;s minimal design.
 This documentation also serves as future reference.&lt;/p>
@@ -162,7 +219,7 @@ I write the page number at the bottom corners of each page.&lt;/p>
 &lt;ul>
 &lt;li>cooking recipes&lt;/li>
 &lt;li>instructions on how to do a recurring thing&lt;/li>
-&lt;li>listicles I copied from the internet that I need to access offline&lt;/li>
+&lt;li>listicles I hand-copied from the internet that I need to access offline&lt;/li>
 &lt;/ul>
 &lt;p>The notebook is done when notes from the front and back finally meet in the middle.&lt;/p>
 &lt;h2 id="core-collections">Core Collections&lt;/h2>
@@ -189,12 +246,15 @@ but on the page after the last the Daily Log of the month.
 Here I try to talk about what happened to FORM (Friends and Family, Occupation, Recreation, Motivation) during the month.
 This is not a strict format, though.&lt;/li>
 &lt;/ol>
+&lt;p>I should also note that my I also incorporate my mood tracker in the calendar.
+I do this by highlighting the day with a color in the rainbow:
+red is a great day, violet is horrible day.&lt;/p>
 &lt;h3 id="daily-log">Daily Log&lt;/h3>
 &lt;p>Bujo&amp;rsquo;s bulk comprises Daily Logs.&lt;/p>
 &lt;p>As the day goes on, I update the log, adding and/or subtracting bullets.&lt;/p>
 &lt;p>My Daily Log is many things: a to-do list, a reminder, an analog Twitter, notepad, tracker, etc.&lt;/p>
 &lt;p>Below is the format I currently use:&lt;/p>
-&lt;pre>&lt;code>01 JAN, MON □ △ ◯ X 4
+&lt;pre>&lt;code>01 JAN, MON □ △ ◯ X
 AF: tosilog, coffee
 PF: sinigang na bangus, pakbet, brown rice
 ○ New Year's Day! (event bullet)
@@ -211,12 +271,6 @@ x Prepare anti-hungover drink (task completed bullet)
 &lt;li>Daily Trackers. I only have four,&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> each one represented by a PlayStation symbol, because I&amp;rsquo;m creative like that.
 Notice that I have my trackers in the Daily Log, and not on a dedicated spread like in many bujos online.
 This is just a personal preference.&lt;/li>
-&lt;li>The last number in this line is the mood tracker.
-Currently, 1 is lowest, which means a very bad day;
-5 is highest, a rare jubilant point in life.
-Recently, however, I&amp;rsquo;m contemplating of ditching putting a number on my mood,
-because I don&amp;rsquo;t think it&amp;rsquo;s a quantifiable thing.
-I might replace it with emojis.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>The next two lines, &lt;code>AF&lt;/code> and &lt;code>PF&lt;/code>, are Food Log.

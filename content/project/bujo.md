@@ -8,6 +8,10 @@ draft: false
 
 I have been bullet-journaling (bujo) since I first chanced on it on 2015.
 It made sense to me at the time, and it still does.
+Whether I like it or not,
+the technology that humans are now developing rapidly moves towards the digital.
+Bujo remains my anchor to the analog world,
+where things are slower and require more deliberation.
 
 If you're curious what this is, Ryder Carroll, the creator, explains it [here](https://bulletjournal.com/pages/learn).
 
@@ -55,7 +59,7 @@ I write the page number at the bottom corners of each page.
 Sample of non-log Collections that I write from the back door:
 - cooking recipes
 - instructions on how to do a recurring thing
-- listicles I copied from the internet that I need to access offline
+- listicles I hand-copied from the internet that I need to access offline
 
 The notebook is done when notes from the front and back finally meet in the middle.
 
@@ -93,6 +97,10 @@ but on the page after the last the Daily Log of the month.
 Here I try to talk about what happened to FORM (Friends and Family, Occupation, Recreation, Motivation) during the month.
 This is not a strict format, though.
 
+I should also note that my I also incorporate my mood tracker in the calendar.
+I do this by highlighting the day with a color in the rainbow:
+red is a great day, violet is horrible day.
+
 ### Daily Log
 
 Bujo's bulk comprises Daily Logs.
@@ -103,7 +111,7 @@ My Daily Log is many things: a to-do list, a reminder, an analog Twitter, notepa
 
 Below is the format I currently use:
 ```
-01 JAN, MON □ △ ◯ X 4
+01 JAN, MON □ △ ◯ X
         AF: tosilog, coffee
         PF: sinigang na bangus, pakbet, brown rice
 
@@ -122,12 +130,6 @@ Let's break this down by section:
    - Daily Trackers. I only have four,[^tracker] each one represented by a PlayStation symbol, because I'm creative like that.
    Notice that I have my trackers in the Daily Log, and not on a dedicated spread like in many bujos online.
    This is just a personal preference.
-   - The last number in this line is the mood tracker.
-   Currently, 1 is lowest, which means a very bad day;
-   5 is highest, a rare jubilant point in life.
-   Recently, however, I'm contemplating of ditching putting a number on my mood,
-   because I don't think it's a quantifiable thing.
-   I might replace it with emojis.
 1. The next two lines, `AF` and `PF`, are Food Log.
 I list my meals during daytime (`AF` or AM Food) and nighttime (`PF` or PM Food).
 1. The rest are bullets.
