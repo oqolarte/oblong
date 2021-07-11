@@ -59,7 +59,7 @@ To me, this means that I have to use the terminal whenever possible.
 
 - Operating System: [OpenBSD 6.9](https://openbsd.org)
 - Window Manager: cwm
-- Terminal: [st](https://st.suckless.org)
+- Terminal Emulator: [st](https://st.suckless.org) mostly, xterm for using w3m (more info below)
 - Terminal Multiplexer: tmux
 - Text Editor: [neovim](https://neovim.io) or vi[^vi] depending on the mood
 - Web Browser: [qutebrowser](https://qutebrowser.org) (GUI) or w3m (TUI) 
@@ -72,7 +72,7 @@ To me, this means that I have to use the terminal whenever possible.
 [^vi]: vi in OpenBSD is actually [nvi](https://www.bostic.com/vi/).
 vi works well (quickly) for editing config files.
 
-{{< figure src="/image/oldpc.png" alt="screenshot of system running tmux with neovim, pfetch, htop, and scrot" caption="System captured with `scrot`" >}}
+{{< figure src="/image/oldpc.png" alt="screenshot of system running tmux with neovim, pfetch, htop" caption="System captured with `scrot`" >}}
 
 For anyone who cares, here's [dmesg](/dmesg.txt) for more details about my system.
 
@@ -91,8 +91,7 @@ Everything in the base install seems to work fine.
 But I don't get the layout.
 And the aesthetic is too... archaic for me.
 Lastly, it seems to rely heavily on the mouse?
-Not sure about that last line, though.
-Maybe there's a way to configure it to be keyboard-centric.
+There's probably a way to configure it be keyboard-centric.
 
 Then, I switched to cwm,
 or calm window manager,
@@ -103,16 +102,26 @@ I find cwm more pleasant to use than fvwm.
 I didn't want the console log to open everytime I log in,
 so I commented it out of the `/etc/X11/Xenodm/Xsetup_0` file.
 
+## Terminal Emulator
+
+I use st because it's snappier than xterm. 
+st lacks scrollback feature, though, which tmux solves fortunately.
+I applied no patches for my build.
+
+I use xterm only for when using w3m-img,
+because it properly renders images, unlike st.
+A dedicated key-binding spawns an xterm instance outside of tmux just to load w3m-img.
+
 ## File Manager
-I'd like to say that I won't use file manager,
+I'd like to say that I won't use a file manager,
 but I installed nnn just in case.
 
 ```
 # pkg_add nnn
 ```
 
-However, mostly I use `mv`, `cp`, `rm`, `cd`, `ls` and other Unix utilities.
-Doing so "forces" me to be mindful of the current file tree structure in home directory.
+However, mostly I use `mv`, `cp`, `rm`, `cd`, `ls` and other Unix utilities for moving around.
+Using them "forces" me to be mindful of the current file tree structure in home directory.
 It also encourages me to immediately clean up files and/or put them where they need to be.
 
 As an effect, my system is clutter-free and simple[^fs].
@@ -131,6 +140,39 @@ Luckily, I can rely on my ISP uptime *most of the time*.
 Since I use the headphone jack,
 I don't need a visual representation of the volume;
 the actual sound coming out of the earphones that I use should be enough an indicator.
+
+## Web Browsers
+
+### w3m
+Text-based browsers would help me connect to the internet on limited hardware.
+They are less resource intensive, not like the GUI ones, and that's expected.
+
+However, it's only natural for my human eyes to want to look at pictures from time to time,
+especially if it's relevant to the content.
+
+The w3m in base install had to be replaced with another w3m version that supports image[^w3m].
+Such version is available in the official packages.
+
+```
+# pkg_add w3m-*-image
+```
+
+Like I said, using w3m-img on xterm works as expected.
+Now, I won't miss out on photos on blogs!
+
+[^w3m]: According to `pkg_add`, w3m-img is in direct conflict with w3m (in base install).
+I installed the former after removing the latter.
+
+I use the lightest version of DuckDuckGo (that I know) as my search engine:
+`ddg.gg/lite`
+
+### GUI
+
+I can tolerate the slow loading times of Firefox,
+but often, it's just too heavy on the resources.
+
+qutebrowser is a more lightweight option, and runs okay.
+I prefer using this one over Firefox.
 
 ## Watching Videos
 

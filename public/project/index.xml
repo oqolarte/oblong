@@ -44,7 +44,7 @@ To me, this means that I have to use the terminal whenever possible.&lt;/p>
 &lt;ul>
 &lt;li>Operating System: &lt;a href="https://openbsd.org">OpenBSD 6.9&lt;/a>&lt;/li>
 &lt;li>Window Manager: cwm&lt;/li>
-&lt;li>Terminal: &lt;a href="https://st.suckless.org">st&lt;/a>&lt;/li>
+&lt;li>Terminal Emulator: &lt;a href="https://st.suckless.org">st&lt;/a> mostly, xterm for using w3m (more info below)&lt;/li>
 &lt;li>Terminal Multiplexer: tmux&lt;/li>
 &lt;li>Text Editor: &lt;a href="https://neovim.io">neovim&lt;/a> or vi&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup> depending on the mood&lt;/li>
 &lt;li>Web Browser: &lt;a href="https://qutebrowser.org">qutebrowser&lt;/a> (GUI) or w3m (TUI)&lt;/li>
@@ -56,7 +56,7 @@ To me, this means that I have to use the terminal whenever possible.&lt;/p>
 &lt;/ul>
 &lt;figure>
 &lt;img src="https://ohio.araw.xyz/image/oldpc.png"
-alt="screenshot of system running tmux with neovim, pfetch, htop, and scrot"/> &lt;figcaption>
+alt="screenshot of system running tmux with neovim, pfetch, htop"/> &lt;figcaption>
 &lt;p>System captured with &lt;code>scrot&lt;/code>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
@@ -75,8 +75,7 @@ Everything in the base install seems to work fine.
 But I don&amp;rsquo;t get the layout.
 And the aesthetic is too&amp;hellip; archaic for me.
 Lastly, it seems to rely heavily on the mouse?
-Not sure about that last line, though.
-Maybe there&amp;rsquo;s a way to configure it to be keyboard-centric.&lt;/p>
+There&amp;rsquo;s probably a way to configure it be keyboard-centric.&lt;/p>
 &lt;p>Then, I switched to cwm,
 or calm window manager,
 which is also present in the base install.
@@ -84,12 +83,19 @@ After fumbling with this,
 I find cwm more pleasant to use than fvwm.&lt;/p>
 &lt;p>I didn&amp;rsquo;t want the console log to open everytime I log in,
 so I commented it out of the &lt;code>/etc/X11/Xenodm/Xsetup_0&lt;/code> file.&lt;/p>
+&lt;h2 id="terminal-emulator">Terminal Emulator&lt;/h2>
+&lt;p>I use st because it&amp;rsquo;s snappier than xterm.
+st lacks scrollback feature, though, which tmux solves fortunately.
+I applied no patches for my build.&lt;/p>
+&lt;p>I use xterm only for when using w3m-img,
+because it properly renders images, unlike st.
+A dedicated key-binding spawns an xterm instance outside of tmux just to load w3m-img.&lt;/p>
 &lt;h2 id="file-manager">File Manager&lt;/h2>
-&lt;p>I&amp;rsquo;d like to say that I won&amp;rsquo;t use file manager,
+&lt;p>I&amp;rsquo;d like to say that I won&amp;rsquo;t use a file manager,
 but I installed nnn just in case.&lt;/p>
 &lt;pre>&lt;code># pkg_add nnn
-&lt;/code>&lt;/pre>&lt;p>However, mostly I use &lt;code>mv&lt;/code>, &lt;code>cp&lt;/code>, &lt;code>rm&lt;/code>, &lt;code>cd&lt;/code>, &lt;code>ls&lt;/code> and other Unix utilities.
-Doing so &amp;ldquo;forces&amp;rdquo; me to be mindful of the current file tree structure in home directory.
+&lt;/code>&lt;/pre>&lt;p>However, mostly I use &lt;code>mv&lt;/code>, &lt;code>cp&lt;/code>, &lt;code>rm&lt;/code>, &lt;code>cd&lt;/code>, &lt;code>ls&lt;/code> and other Unix utilities for moving around.
+Using them &amp;ldquo;forces&amp;rdquo; me to be mindful of the current file tree structure in home directory.
 It also encourages me to immediately clean up files and/or put them where they need to be.&lt;/p>
 &lt;p>As an effect, my system is clutter-free and simple&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
 I believe the cool people call it digital minimalism.&lt;/p>
@@ -102,6 +108,24 @@ Luckily, I can rely on my ISP uptime &lt;em>most of the time&lt;/em>.&lt;/p>
 &lt;p>Since I use the headphone jack,
 I don&amp;rsquo;t need a visual representation of the volume;
 the actual sound coming out of the earphones that I use should be enough an indicator.&lt;/p>
+&lt;h2 id="web-browsers">Web Browsers&lt;/h2>
+&lt;h3 id="w3m">w3m&lt;/h3>
+&lt;p>Text-based browsers would help me connect to the internet on limited hardware.
+They are less resource intensive, not like the GUI ones, and that&amp;rsquo;s expected.&lt;/p>
+&lt;p>However, it&amp;rsquo;s only natural for my human eyes to want to look at pictures from time to time,
+especially if it&amp;rsquo;s relevant to the content.&lt;/p>
+&lt;p>The w3m in base install had to be replaced with another w3m version that supports image&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.
+Such version is available in the official packages.&lt;/p>
+&lt;pre>&lt;code># pkg_add w3m-*-image
+&lt;/code>&lt;/pre>&lt;p>Like I said, using w3m-img on xterm works as expected.
+Now, I won&amp;rsquo;t miss out on photos on blogs!&lt;/p>
+&lt;p>I use the lightest version of DuckDuckGo (that I know) as my search engine:
+&lt;code>ddg.gg/lite&lt;/code>&lt;/p>
+&lt;h3 id="gui">GUI&lt;/h3>
+&lt;p>I can tolerate the slow loading times of Firefox,
+but often, it&amp;rsquo;s just too heavy on the resources.&lt;/p>
+&lt;p>qutebrowser is a more lightweight option, and runs okay.
+I prefer using this one over Firefox.&lt;/p>
 &lt;h2 id="watching-videos">Watching Videos&lt;/h2>
 &lt;p>To watch videos from the channels that I subscribe to on YouTube,
 I use mpv, youtube-dl, and &lt;a href="https://github.com/pystardust/ytfzf">ytfzf&lt;/a>.&lt;/p>
@@ -136,7 +160,7 @@ It&amp;rsquo;s officially ported to OpenBSD, so getting it is as easy as:&lt;/p>
 &lt;/code>&lt;/pre>&lt;h3 id="accesing-github">Accesing Github&lt;/h3>
 &lt;p>At the time of writing,
 this site and its source code is hosted on Github.
-I wanted to access Github&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> through their &lt;a href="cli.github.com">gh-cli&lt;/a>,
+I wanted to access Github&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> through their &lt;a href="cli.github.com">gh-cli&lt;/a>,
 because I believe it&amp;rsquo;s less resource intensive than opening a browser every time.&lt;/p>
 &lt;p>The only option for me is to build it from source.&lt;/p>
 &lt;p>First, I need golang and gmake,
@@ -169,7 +193,11 @@ vi works well (quickly) for editing config files. &lt;a href="#fnref:1" class="f
 &lt;p>Of course, this is purely a subjective assessment of my system. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3" role="doc-endnote">
-&lt;p>I also use Github for other non-blogging projects, so doing this is vital. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;p>According to &lt;code>pkg_add&lt;/code>, w3m-img is in direct conflict with w3m (in base install).
+I installed the former after removing the latter. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4" role="doc-endnote">
+&lt;p>I also use Github for other non-blogging projects, so doing this is vital. &lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
 &lt;/section></description></item><item><title>My Bullet Journal Method</title><link>https://ohio.araw.xyz/bujo/</link><pubDate>Thu, 13 May 2021 17:04:58 +0800</pubDate><guid>https://ohio.araw.xyz/bujo/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
