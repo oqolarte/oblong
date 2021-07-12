@@ -68,6 +68,7 @@ To me, this means that I have to use the terminal whenever possible.
 - Media player: [mpv](https://mpv.io)
 - Static site generator: [hugo](https://gohugo.io)
 - File manager: sometimes [nnn](https://github.com/jarun/nnn); mostly just Unix utilities
+- IRC client: [irssi]()
 
 [^vi]: vi in OpenBSD is actually [nvi](https://www.bostic.com/vi/).
 vi works well (quickly) for editing config files.
