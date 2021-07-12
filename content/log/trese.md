@@ -26,29 +26,32 @@ Could've been better.
 
 Characters could have been more "human";
 others feel flat or forced or tokenistic.
-Antagonists could have had more believable purpose in them.
+Antagonists could have had more believable purpose in them other than just being bad.
 
 The plot could have revealed more,
 explained more why this person must do this,
 why this event must happen, etc.
+I guess everything's too tight to make room for more exposition.
 
 Some lines felt unnatural,
 like no normal person would say them in day-to-day life.
+And I can already hear some of you arguing that,
+"How dare you consider people in Trese Universe to be normal?"
 
 ### Visual Arts
 
 I like the how the backdrops are rendered visually.
 Very representative of Metro Manila:
-chaotic but magnetizing.
+chaotic but magnetizing still to a lot of us.
 
 Lack of fluidity in motion (frame rate) is understandable,
 since a huge chunk of the budget must have been dedicated to the action sequences.
 
-Personally, I like the look of Trese in comics.
+Personally, I like the look of Alexandra Trese in comics.
 In the adaptation,
 she looks too... polished, too white.
 
-In fact, colorism is a major criticism for the show.
+Speaking of which, colorism is a major criticism for the show.
 Why is it that the protagonists and their allies are fair- and light-skinned,
 and the bad guys are dark-skinned?
 
@@ -72,7 +75,7 @@ We never skipped the opening and closing themes because of these.
 ## Conclusion
 
 It's likely that the good and the bad of the show resulted from
-factors like budget, creators' internal belief systems, target audience, etc.
+factors like budget, creators' existing internal belief systems, target audience, etc.
 
 Fans expect that the next season (?) improves,
 and the onus is on the creators and producers to meet this new standard
