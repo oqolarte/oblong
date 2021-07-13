@@ -53,7 +53,8 @@ To me, this means that I have to use the terminal whenever possible.&lt;/p>
 &lt;li>Media player: &lt;a href="https://mpv.io">mpv&lt;/a>&lt;/li>
 &lt;li>Static site generator: &lt;a href="https://gohugo.io">hugo&lt;/a>&lt;/li>
 &lt;li>File manager: sometimes &lt;a href="https://github.com/jarun/nnn">nnn&lt;/a>; mostly just Unix utilities&lt;/li>
-&lt;li>IRC client: &lt;a href="">irssi&lt;/a>&lt;/li>
+&lt;li>IRC client: &lt;a href="https://irssi.org">irssi&lt;/a>&lt;/li>
+&lt;li>Version Conrol: &lt;a href="https://git-scm.com">git&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;figure>
 &lt;img src="https://ohio.araw.xyz/image/oldpc.png"
@@ -110,9 +111,9 @@ Luckily, I can rely on my ISP uptime &lt;em>most of the time&lt;/em>.&lt;/p>
 I don&amp;rsquo;t need a visual representation of the volume;
 the actual sound coming out of the earphones that I use should be enough an indicator.&lt;/p>
 &lt;h2 id="web-browsers">Web Browsers&lt;/h2>
-&lt;h3 id="w3m">w3m&lt;/h3>
-&lt;p>Text-based browsers would help me connect to the internet on limited hardware.
-They are less resource intensive, not like the GUI ones, and that&amp;rsquo;s expected.&lt;/p>
+&lt;h3 id="text-based">Text-based&lt;/h3>
+&lt;p>Text-based browsers can connect me to the internet even on limited hardware.
+They are less resource intensive, unlike the GUI ones, and that&amp;rsquo;s expected.&lt;/p>
 &lt;p>However, it&amp;rsquo;s only natural for my human eyes to want to look at pictures from time to time,
 especially if it&amp;rsquo;s relevant to the content.&lt;/p>
 &lt;p>The w3m in base install had to be replaced with another w3m version that supports image&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.
@@ -154,7 +155,7 @@ but I trimmed the sites that don&amp;rsquo;t offer the full content in their fee
 This is to keep my reading contained within newsboat,
 and to not have to open a browser.&lt;/p>
 &lt;h2 id="blogging">Blogging&lt;/h2>
-&lt;p>How else can I report to the public about this project if not through this site?&lt;/p>
+&lt;p>How else can I report to the public about this project if not through this &lt;a href="https://ohio.araw.xyz/site">site&lt;/a>?&lt;/p>
 &lt;p>I build this site using hugo.
 It&amp;rsquo;s officially ported to OpenBSD, so getting it is as easy as:&lt;/p>
 &lt;pre>&lt;code># pkg_add hugo
@@ -162,13 +163,14 @@ It&amp;rsquo;s officially ported to OpenBSD, so getting it is as easy as:&lt;/p>
 &lt;p>At the time of writing,
 this site and its source code is hosted on Github.
 I wanted to access Github&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> through their &lt;a href="cli.github.com">gh-cli&lt;/a>,
-because I believe it&amp;rsquo;s less resource intensive than opening a browser every time.&lt;/p>
+because it&amp;rsquo;s quicker than opening a GUI browser.&lt;/p>
 &lt;p>The only option for me is to build it from source.&lt;/p>
 &lt;p>First, I need golang and gmake,
 the latter for compiling,
 because &lt;code>make == clang&lt;/code> in base install,
-and &lt;code>clang&lt;/code> doesn&amp;rsquo;t work (I&amp;rsquo;ve tried).&lt;/p>
-&lt;pre>&lt;code># pkg_add go gmake
+and &lt;code>clang&lt;/code> doesn&amp;rsquo;t work (I&amp;rsquo;ve tried).
+Might as well add, you know, git, into the mix.&lt;/p>
+&lt;pre>&lt;code># pkg_add go gmake git
 &lt;/code>&lt;/pre>&lt;p>Then follow the &lt;a href="https://github.com/cli/cli/blob/trunk/docs/source.md">instructions when installing from source&lt;/a>,
 except do use &lt;code>gmake&lt;/code> when building and installing, like so:&lt;/p>
 &lt;pre>&lt;code># gmake install
@@ -180,7 +182,12 @@ alt="screenshot of tmux running gmake, htop, and scrot"/> &lt;figcaption>
 &lt;/figure>
 &lt;p>Lastly, I followed the prompts after typing:&lt;/p>
 &lt;pre>&lt;code>$ gh auth login
-&lt;/code>&lt;/pre>&lt;h2 id="smartphone">Smartphone&lt;/h2>
+&lt;/code>&lt;/pre>&lt;h2 id="irc">IRC&lt;/h2>
+&lt;p>I&amp;rsquo;ve been meaning to get into the internet relay chat, or IRC, for a long time now.&lt;/p>
+&lt;p>I choose irssi as my IRC client.&lt;/p>
+&lt;pre>&lt;code># pkg_add irssi
+&lt;/code>&lt;/pre>&lt;p>Currently, I hangout in &lt;code>irc.libera.chat&lt;/code> as &lt;code>oqo&lt;/code>.&lt;/p>
+&lt;h2 id="smartphone">Smartphone&lt;/h2>
 &lt;p>I contact my friends and family through &lt;a href="https://signal.org">Signal Messenger&lt;/a>,
 so that means I must keep on using my smartphone.&lt;/p>
 &lt;section class="footnotes" role="doc-endnotes">

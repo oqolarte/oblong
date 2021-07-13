@@ -70,7 +70,7 @@ ready to take the day's challenge(r)s.
 
 Closing theme is good, too!
 
-We never skipped the opening and closing themes because of these.
+We never skipped both the opening and closing themes because we enjoyed it.
 
 ## Conclusion
 
@@ -87,7 +87,7 @@ Not on the old computer I'm currently using.
 It has the potential to waste time;
 and is unhealthy especially when it makes one inactive for long periods of time.
 When watching a series, I make it a point to only watch one episode per day,
-assuming that many (or all) episodes are already available.
+assuming that more (or all) episodes are readily available for consumption.
 This gives me time to digest and process what I just watched,
 and perhaps speculate on what might happen next,
 which is equally stimulating.

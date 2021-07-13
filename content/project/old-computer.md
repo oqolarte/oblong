@@ -68,7 +68,8 @@ To me, this means that I have to use the terminal whenever possible.
 - Media player: [mpv](https://mpv.io)
 - Static site generator: [hugo](https://gohugo.io)
 - File manager: sometimes [nnn](https://github.com/jarun/nnn); mostly just Unix utilities
-- IRC client: [irssi]()
+- IRC client: [irssi](https://irssi.org)
+- Version Conrol: [git](https://git-scm.com)
 
 [^vi]: vi in OpenBSD is actually [nvi](https://www.bostic.com/vi/).
 vi works well (quickly) for editing config files.
@@ -144,9 +145,9 @@ the actual sound coming out of the earphones that I use should be enough an indi
 
 ## Web Browsers
 
-### w3m
-Text-based browsers would help me connect to the internet on limited hardware.
-They are less resource intensive, not like the GUI ones, and that's expected.
+### Text-based
+Text-based browsers can connect me to the internet even on limited hardware.
+They are less resource intensive, unlike the GUI ones, and that's expected.
 
 However, it's only natural for my human eyes to want to look at pictures from time to time,
 especially if it's relevant to the content.
@@ -225,7 +226,7 @@ and to not have to open a browser.
 
 ## Blogging
 
-How else can I report to the public about this project if not through this site?
+How else can I report to the public about this project if not through this [site](/site)?
 
 I build this site using hugo.
 It's officially ported to OpenBSD, so getting it is as easy as:
@@ -238,7 +239,7 @@ It's officially ported to OpenBSD, so getting it is as easy as:
 At the time of writing,
 this site and its source code is hosted on Github.
 I wanted to access Github[^gh] through their [gh-cli](cli.github.com),
-because I believe it's less resource intensive than opening a browser every time.
+because it's quicker than opening a GUI browser.
 
 The only option for me is to build it from source.
 
@@ -246,8 +247,9 @@ First, I need golang and gmake,
 the latter for compiling,
 because `make == clang` in base install,
 and `clang` doesn't work (I've tried).
+Might as well add, you know, git, into the mix.
 ```
-# pkg_add go gmake
+# pkg_add go gmake git
 ```
 
 Then follow the [instructions when installing from source](https://github.com/cli/cli/blob/trunk/docs/source.md),
@@ -264,6 +266,17 @@ $ gh auth login
 ```
 
 [^gh]: I also use Github for other non-blogging projects, so doing this is vital.
+
+## IRC
+
+I've been meaning to get into the internet relay chat, or IRC, for a long time now.
+
+I choose irssi as my IRC client.
+```
+# pkg_add irssi
+```
+
+Currently, I hangout in `irc.libera.chat` as `oqo`.
 
 ## Smartphone
 
