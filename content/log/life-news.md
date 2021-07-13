@@ -1,6 +1,6 @@
 ---
 title: "Life as News"
-date: 2021-07-13T21:25:59+08:00
+date: 2021-07-13T01:25:59+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
