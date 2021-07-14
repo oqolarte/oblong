@@ -1,5 +1,5 @@
 ---
-title: "Own Web Server"
+title: "Homebrew Server"
 date: 2020-12-22T22:37:41+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "server", "web server", "homebrew server", "server in the basement", "debian as server", "openbsd as server"]
 draft: false

@@ -164,6 +164,16 @@ and to not have to open a browser.&lt;/p>
 Ever since I got into making static websites,
 it&amp;rsquo;s all I use.
 I &lt;code>git&lt;/code> my files for version control.&lt;/p>
+&lt;p>I even blogged daily during the course of this Challenge,
+to feel what it&amp;rsquo;s like to compose texts on this electric typewriter.
+Here are the (non-tech) logs so far:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://ohio.araw.xyz/aging">Day 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/haircut">Day 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/trese">Day 3&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/life-news">Day 4&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/flu">Day 5&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h3 id="accesing-github">Accesing Github&lt;/h3>
 &lt;p>At the time of writing,
 this site and its source code is hosted on Github.
@@ -1964,7 +1974,7 @@ Its SD Card will also fit nicely in one of the Mac&amp;rsquo;s ports.&lt;/p>
 &lt;p>The phone&amp;rsquo;s camera will serve as a backup.&lt;/p>
 &lt;h3 id="syndication-of-posts">Syndication of Posts&lt;/h3>
 &lt;p>If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
-Right now, as mentioned, we focus the content management in IG due to its reach.&lt;/p></description></item><item><title>Own Web Server</title><link>https://ohio.araw.xyz/server/</link><pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate><guid>https://ohio.araw.xyz/server/</guid><description>&lt;h2 class="statusClosed" id="status-closed">Status: Closed&lt;/h2>
+Right now, as mentioned, we focus the content management in IG due to its reach.&lt;/p></description></item><item><title>Homebrew Server</title><link>https://ohio.araw.xyz/server/</link><pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate><guid>https://ohio.araw.xyz/server/</guid><description>&lt;h2 class="statusClosed" id="status-closed">Status: Closed&lt;/h2>
 &lt;p>As of the last update,
 I&amp;rsquo;m putting this project to a halt until further notice.&lt;/p>
 &lt;p>For now, I&amp;rsquo;ll believe the experts:

@@ -228,6 +228,15 @@ Ever since I got into making static websites,
 it's all I use.
 I `git` my files for version control.
 
+I even blogged daily during the course of this Challenge,
+to feel what it's like to compose texts on this electric typewriter.
+Here are the (non-tech) logs so far:
+- [Day 1](/aging)
+- [Day 2](/haircut)
+- [Day 3](/trese)
+- [Day 4](/life-news)
+- [Day 5](/flu)
+
 ### Accesing Github
 
 At the time of writing,
