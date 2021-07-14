@@ -388,21 +388,10 @@ A few tweaks are needed to make SSH a pleasant experience.
    PermitRootLogin yes
    ```
 
-## Web Server on OpenBSD
-
-Now we're at the heart of this project:
-to make this old laptop a working server for this site.
-Let's start by configuring httpd, the native HTTP daemon in the OpenBSD.
-
-### Configure httpd
-
-### Enable HTTPS with acme-client(1) and Let's Encrypt
-
-### Add HTTP security headers with relayd(8)
-
 ## Other Noteworthy Inconveniences
 
-In this section, I'll discuss the obstacles that I had to go through.
+In this section, I'll discuss the obstacles 
+(read: rookie mistakes) that I had to go through.
 
 ### LAN Ports problem
 

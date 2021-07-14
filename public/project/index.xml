@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>The Old Computer Challenge</title><link>https://ohio.araw.xyz/old-computer/</link><pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate><guid>https://ohio.araw.xyz/old-computer/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
 &lt;p>This project is my attempt to &amp;ldquo;make it work&amp;rdquo; using old, un-upgraded computer.
-Over this period, I will document the good, the bad, and the ugly.
+Over this period, I&amp;rsquo;ll document the good, the bad, and the ugly.
 Below isn&amp;rsquo;t necessarily a tutorial, but personal notes.
-Whenever possible, I link the things I use to their respective online documentation.&lt;/p>
+Whenever possible, I&amp;rsquo;ll link the things I use to their respective online documentation.&lt;/p>
 &lt;p>&lt;a href="https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html">Solene&amp;rsquo;s prompt was to use old computers for a week&lt;/a>,
 from 10-17 July 2021.
-That&amp;rsquo;s the gist.
 For details, check Solene&amp;rsquo;s post.&lt;/p>
-&lt;p>I don&amp;rsquo;t think I followed all the rules to the letter.
+&lt;p>I didn&amp;rsquo;t follow all the rules to the letter.
 For example, I didn&amp;rsquo;t limit my RAM to 512MB.
-Doing so, in my case, would terribly limit my hardware.&lt;/p>
-&lt;p>For this, I&amp;rsquo;m recommissioning the MSI Wind Netbook for this project,
+Doing so, in my case, would result in a terrible experience.&lt;/p>
+&lt;p>I&amp;rsquo;m recommissioning the MSI Wind Netbook for this project,
 the same laptop that I originally planned to be my &lt;a href="https://ohio.araw.xyz/server.md">homebrew server&lt;/a>.&lt;/p>
-&lt;p>For context, here are the following specs that I&amp;rsquo;m dealing with:&lt;/p>
+&lt;p>Here are the specs of what I&amp;rsquo;m dealing with:&lt;/p>
 &lt;h2 id="hardware">Hardware&lt;/h2>
 &lt;p>The &lt;a href="https://www.laptopmag.com/reviews/laptops/msi-wind-u123">MSI Wind Netbook&lt;/a> makes another comeback for this week,
 whose physical parts comprise:&lt;/p>
@@ -28,19 +27,22 @@ whose physical parts comprise:&lt;/p>
 &lt;li>RAM: 2Gb&lt;/li>
 &lt;li>Wifi: 802.11b/g&lt;/li>
 &lt;/ul>
-&lt;p>Moreover, the physical condition is not even good to begin with:&lt;/p>
+&lt;p>Note also that the physical condition is not even good to begin with:&lt;/p>
 &lt;ul>
 &lt;li>no battery, always plugged in;&lt;/li>
 &lt;li>some keys don&amp;rsquo;t work properly;&lt;/li>
 &lt;li>speakers can only go up to a certain volume, barely audible
-(this is a non-issue, though; I can just use earphones as the jacks are working fine).&lt;/li>
+(this is a non-issue, though; I can just use earphones as the jacks are working fine);&lt;/li>
+&lt;li>fan hums weirdly, like choking on static.&lt;/li>
 &lt;/ul>
 &lt;p>In real life, some people may just be lucky enough to have a working computer (maybe as a donation),
 but not so much to afford to upgrade its parts.
 Think far-flung rural areas.&lt;/p>
+&lt;p>For anyone who cares, here&amp;rsquo;s &lt;a href="https://ohio.araw.xyz/dmesg.txt">dmesg&lt;/a> for more details about my system.&lt;/p>
 &lt;h2 id="software">Software&lt;/h2>
 &lt;p>I need software that requires minimal resources but still empowers the user to &amp;ldquo;do things.&amp;rdquo;
-To me, this means that I have to use the terminal whenever possible.&lt;/p>
+To me, this means that I have to use the terminal whenever possible.
+The following are what I have in my netbook:&lt;/p>
 &lt;ul>
 &lt;li>Operating System: &lt;a href="https://openbsd.org">OpenBSD 6.9&lt;/a>&lt;/li>
 &lt;li>Window Manager: cwm&lt;/li>
@@ -62,51 +64,52 @@ alt="screenshot of system running tmux with neovim, pfetch, htop"/> &lt;figcapti
 &lt;p>System captured with &lt;code>scrot&lt;/code>&lt;/p>
 &lt;/figcaption>
 &lt;/figure>
-&lt;p>For anyone who cares, here&amp;rsquo;s &lt;a href="https://ohio.araw.xyz/dmesg.txt">dmesg&lt;/a> for more details about my system.&lt;/p>
-&lt;h2 id="window-manager">Window Manager&lt;/h2>
-&lt;p>For the window manager,
-I initially opted for &lt;a href="https://dwm.suckless.org">dwm&lt;/a>,
+&lt;p>Most of them are available in the official ports.
+Download them, and some other dependencies, in one go:&lt;/p>
+&lt;pre>&lt;code># pkg_add firefox git gmake go irssi hugo \
+newsboat nnn nvim mpv py3-pip \
+qutebrowser w3m-*-image webkitgtk4
+&lt;/code>&lt;/pre>&lt;h2 id="window-manager">Window Manager&lt;/h2>
+&lt;p>I initially opted for &lt;a href="https://dwm.suckless.org">dwm&lt;/a>,
 because that&amp;rsquo;s my favorite.
 However, everytime I boot into it,
-the X System seems to hang&amp;hellip;?
-At this point, it will only respond when I switch to tty (&lt;code>ctrl + alt + F1&lt;/code>).
+the X Server seems to hang&amp;hellip;?
+At this point, it would only respond when I switch to tty (&lt;code>ctrl + alt + F1&lt;/code>).
 Since I couldn&amp;rsquo;t&amp;mdash;&lt;em>don&amp;rsquo;t&lt;/em> have the patience&amp;mdash;to figure it out,
 I decided to settle with what&amp;rsquo;s on the base install.&lt;/p>
 &lt;p>I tried &lt;a href="https://fvwm.org">fvwm&lt;/a>.
-Everything in the base install seems to work fine.
+All existing systems were good.
 But I don&amp;rsquo;t get the layout.
 And the aesthetic is too&amp;hellip; archaic for me.
-Lastly, it seems to rely heavily on the mouse?
-There&amp;rsquo;s probably a way to configure it be keyboard-centric.&lt;/p>
-&lt;p>Then, I switched to cwm,
-or calm window manager,
+Lastly, default config seems to rely heavily on mouse?
+There&amp;rsquo;s probably a way to configure it to be keyboard-centric.&lt;/p>
+&lt;p>Finally, I switched to &lt;a href="https://man.openbsd.org/cwm.1">cwm&lt;/a>,
 which is also present in the base install.
-After fumbling with this,
 I find cwm more pleasant to use than fvwm.&lt;/p>
 &lt;p>I didn&amp;rsquo;t want the console log to open everytime I log in,
 so I commented it out of the &lt;code>/etc/X11/Xenodm/Xsetup_0&lt;/code> file.&lt;/p>
 &lt;h2 id="terminal-emulator">Terminal Emulator&lt;/h2>
-&lt;p>I use st because it&amp;rsquo;s snappier than xterm.
-st lacks scrollback feature, though, which tmux solves fortunately.
+&lt;p>I use &lt;code>st&lt;/code> because it&amp;rsquo;s snappier than &lt;code>xterm&lt;/code>.
+&lt;code>st&lt;/code> lacks scrollback feature, though, which &lt;code>tmux&lt;/code> solves fortunately.
 I applied no patches for my build.&lt;/p>
-&lt;p>I use xterm only for when using w3m-img,
-because it properly renders images, unlike st.
-A dedicated key-binding spawns an xterm instance outside of tmux just to load w3m-img.&lt;/p>
+&lt;p>I use &lt;code>xterm&lt;/code> only for when using &lt;code>w3m-img&lt;/code>,
+because it properly renders images, unlike &lt;code>st&lt;/code>.
+A dedicated key-binding spawns an &lt;code>xterm&lt;/code> instance outside of &lt;code>tmux&lt;/code> just to load &lt;code>w3m-img&lt;/code>.&lt;/p>
 &lt;h2 id="file-manager">File Manager&lt;/h2>
-&lt;p>I&amp;rsquo;d like to say that I won&amp;rsquo;t use a file manager,
-but I installed nnn just in case.&lt;/p>
-&lt;pre>&lt;code># pkg_add nnn
-&lt;/code>&lt;/pre>&lt;p>However, mostly I use &lt;code>mv&lt;/code>, &lt;code>cp&lt;/code>, &lt;code>rm&lt;/code>, &lt;code>cd&lt;/code>, &lt;code>ls&lt;/code> and other Unix utilities for moving around.
-Using them &amp;ldquo;forces&amp;rdquo; me to be mindful of the current file tree structure in home directory.
-It also encourages me to immediately clean up files and/or put them where they need to be.&lt;/p>
-&lt;p>As an effect, my system is clutter-free and simple&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
+&lt;p>I don&amp;rsquo;t often use a file manager,
+but I installed &lt;code>nnn&lt;/code> just in case.&lt;/p>
+&lt;p>Mostly, I use &lt;code>mv&lt;/code>, &lt;code>cp&lt;/code>, &lt;code>rm&lt;/code>, &lt;code>cd&lt;/code>, &lt;code>ls&lt;/code> and other Unix utilities for moving around.
+Using them &amp;ldquo;forces&amp;rdquo; me to be mindful of the current file tree structure in (and out) of home directory.
+It also encourages me to immediately clean up files and/or put them where they need to be.
+As an effect, my system is clutter-free and simple&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
 I believe the cool people call it digital minimalism.&lt;/p>
 &lt;h3 id="status-bar">Status bar&lt;/h3>
 &lt;p>I have no separate program for status bar like &lt;a href="https://polybar.github.io">polybar&lt;/a> and the like.
-The status bar of tmux works fine displaying the date and time.&lt;/p>
+I refer to tmux&amp;rsquo;s status bar for date and time.&lt;/p>
 &lt;p>If I suspect that the internet is down,
 I can just use &lt;code>ping&lt;/code>.
-Luckily, I can rely on my ISP uptime &lt;em>most of the time&lt;/em>.&lt;/p>
+Luckily, I can rely on my ISP uptime &lt;em>most of the time&lt;/em>.
+No need for a visual cue for that.&lt;/p>
 &lt;p>Since I use the headphone jack,
 I don&amp;rsquo;t need a visual representation of the volume;
 the actual sound coming out of the earphones that I use should be enough an indicator.&lt;/p>
@@ -116,62 +119,62 @@ the actual sound coming out of the earphones that I use should be enough an indi
 They are less resource intensive, unlike the GUI ones, and that&amp;rsquo;s expected.&lt;/p>
 &lt;p>However, it&amp;rsquo;s only natural for my human eyes to want to look at pictures from time to time,
 especially if it&amp;rsquo;s relevant to the content.&lt;/p>
-&lt;p>The w3m in base install had to be replaced with another w3m version that supports image&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.
-Such version is available in the official packages.&lt;/p>
-&lt;pre>&lt;code># pkg_add w3m-*-image
-&lt;/code>&lt;/pre>&lt;p>Like I said, using w3m-img on xterm works as expected.
+&lt;p>The &lt;code>w3m&lt;/code> in base install had to be replaced with another &lt;code>w3m&lt;/code> version that supports image&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>.&lt;/p>
+&lt;p>Like I said, using w3m-img on xterm works as expected.
 Now, I won&amp;rsquo;t miss out on photos on blogs!&lt;/p>
+&lt;p>&lt;code>w3m&lt;/code> doesn&amp;rsquo;t support CSS and JavaScript,
+and that&amp;rsquo;s good!
+Web developers, though, haven&amp;rsquo;t been designing the modern web to beusable with HTML only,
+so expect that many sites will break while using text-based browsers.
+I wish this weren&amp;rsquo;t the case, but it has come to this&amp;hellip;&lt;/p>
 &lt;p>I use the lightest version of DuckDuckGo (that I know) as my search engine:
 &lt;code>ddg.gg/lite&lt;/code>&lt;/p>
 &lt;h3 id="gui">GUI&lt;/h3>
-&lt;p>I can tolerate the slow loading times of Firefox,
-but often, it&amp;rsquo;s just too heavy on the resources.&lt;/p>
+&lt;p>I &lt;em>could&lt;/em> tolerate the slow loading times of Firefox,
+but why would I?
+(Hardened) Firefox is only okay to use on computer with 4GB ram or up.&lt;/p>
 &lt;p>qutebrowser is a more lightweight option, and runs okay.
-I prefer using this one over Firefox.&lt;/p>
+I prefer using this one over Firefox,
+but only do so when &lt;code>w3m&lt;/code> won&amp;rsquo;t do.&lt;/p>
+&lt;p>I tried installing &lt;a href="https://surf.suckless.org">suckless surf&lt;/a>,
+but was only successful when I got webkitgtk4.
+surf can also be an alternative lightweight GUI browser,
+but it needs more patching to be as usable as qutebrowser.&lt;/p>
 &lt;h2 id="watching-videos">Watching Videos&lt;/h2>
 &lt;p>To watch videos from the channels that I subscribe to on YouTube,
-I use mpv, youtube-dl, and &lt;a href="https://github.com/pystardust/ytfzf">ytfzf&lt;/a>.&lt;/p>
-&lt;p>Download mpv, a lightweight yet extensible media player:&lt;/p>
-&lt;pre>&lt;code># pkg_add mpv
-&lt;/code>&lt;/pre>&lt;p>There&amp;rsquo;s a youtube-dl ported to OpenBSD&amp;rsquo;s official packages,
+I use &lt;code>mpv&lt;/code>, &lt;code>youtube-dl&lt;/code>, and &lt;a href="https://github.com/pystardust/ytfzf">&lt;code>ytfzf&lt;/code>&lt;/a>.&lt;/p>
+&lt;p>There&amp;rsquo;s a &lt;code>youtube-dl&lt;/code> ported to OpenBSD&amp;rsquo;s official packages,
 but it&amp;rsquo;s outdated.
 It returns an error when I try downloading a video with it.
 I got the latest version from pip3 instead.&lt;/p>
-&lt;p>Download pip3:&lt;/p>
-&lt;pre>&lt;code># pkg_add py3-pip
-&lt;/code>&lt;/pre>&lt;p>Then download youtube-dl using pip3:&lt;/p>
 &lt;pre>&lt;code># pip3.8 install youtube-dl
-&lt;/code>&lt;/pre>&lt;p>Download ytfzf,&lt;/p>
-&lt;pre>&lt;code>$ git clone https://github.com/pystardust/ytfzf &amp;amp;&amp;amp; cd ytfzf
+&lt;/code>&lt;/pre>&lt;p>Download &lt;code>ytfzf&lt;/code>, a &amp;ldquo;POSIX script to find and watch YT videos from the terminal.&amp;rdquo;&lt;/p>
+&lt;pre>&lt;code>$ git clone https://github.com/pystardust/ytfzf
+$ cd ytfzf
 # make install
-&lt;/code>&lt;/pre>&lt;p>ytfzf, youtube-dl, mpv works in this setup so far.
-Now, I can look up YT videos from terminal, and open them in mpv, browser-less!&lt;/p>
-&lt;h2 id="getting-the-latest">Getting the latest&lt;/h2>
-&lt;p>I use newsboat as my RSS reader.&lt;/p>
-&lt;p>Get it from the official packages:&lt;/p>
-&lt;pre>&lt;code># pkg_add newsboat
-&lt;/code>&lt;/pre>&lt;p>I reused (copied) the URL list from my main machine to this netbook,
+&lt;/code>&lt;/pre>&lt;h2 id="getting-the-latest">Getting the latest&lt;/h2>
+&lt;p>I use newsboat as my RSS reader.
+I reused (copied) the URL list from my main machine to this netbook,
 but I trimmed the sites that don&amp;rsquo;t offer the full content in their feed.
 This is to keep my reading contained within newsboat,
 and to not have to open a browser.&lt;/p>
 &lt;h2 id="blogging">Blogging&lt;/h2>
 &lt;p>How else can I report to the public about this project if not through this &lt;a href="https://ohio.araw.xyz/site">site&lt;/a>?&lt;/p>
-&lt;p>I build this site using hugo.
-It&amp;rsquo;s officially ported to OpenBSD, so getting it is as easy as:&lt;/p>
-&lt;pre>&lt;code># pkg_add hugo
-&lt;/code>&lt;/pre>&lt;h3 id="accesing-github">Accesing Github&lt;/h3>
+&lt;p>I build this site using &lt;code>hugo&lt;/code>.
+Ever since I got into making static websites,
+it&amp;rsquo;s all I use.
+I &lt;code>git&lt;/code> my files for version control.&lt;/p>
+&lt;h3 id="accesing-github">Accesing Github&lt;/h3>
 &lt;p>At the time of writing,
 this site and its source code is hosted on Github.
-I wanted to access Github&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> through their &lt;a href="cli.github.com">gh-cli&lt;/a>,
+I wanted to access Github&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> through their &lt;a href="https://cli.github.com">&lt;code>gh-cli&lt;/code>&lt;/a>,
 because it&amp;rsquo;s quicker than opening a GUI browser.&lt;/p>
 &lt;p>The only option for me is to build it from source.&lt;/p>
-&lt;p>First, I need golang and gmake,
+&lt;p>I need &lt;code>go&lt;/code> and &lt;code>gmake&lt;/code>,
 the latter for compiling,
-because &lt;code>make == clang&lt;/code> in base install,
-and &lt;code>clang&lt;/code> doesn&amp;rsquo;t work (I&amp;rsquo;ve tried).
-Might as well add, you know, git, into the mix.&lt;/p>
-&lt;pre>&lt;code># pkg_add go gmake git
-&lt;/code>&lt;/pre>&lt;p>Then follow the &lt;a href="https://github.com/cli/cli/blob/trunk/docs/source.md">instructions when installing from source&lt;/a>,
+because &lt;code>make&lt;/code> is really &lt;code>clang&lt;/code> in base install,
+and &lt;code>clang&lt;/code> doesn&amp;rsquo;t compile &lt;code>gh-cli&lt;/code> (I&amp;rsquo;ve tried).&lt;/p>
+&lt;p>Then follow the &lt;a href="https://github.com/cli/cli/blob/trunk/docs/source.md">instructions when installing from source&lt;/a>,
 except do use &lt;code>gmake&lt;/code> when building and installing, like so:&lt;/p>
 &lt;pre>&lt;code># gmake install
 &lt;/code>&lt;/pre>&lt;figure>
@@ -183,13 +186,14 @@ alt="screenshot of tmux running gmake, htop, and scrot"/> &lt;figcaption>
 &lt;p>Lastly, I followed the prompts after typing:&lt;/p>
 &lt;pre>&lt;code>$ gh auth login
 &lt;/code>&lt;/pre>&lt;h2 id="irc">IRC&lt;/h2>
-&lt;p>I&amp;rsquo;ve been meaning to get into the internet relay chat, or IRC, for a long time now.&lt;/p>
-&lt;p>I choose irssi as my IRC client.&lt;/p>
-&lt;pre>&lt;code># pkg_add irssi
-&lt;/code>&lt;/pre>&lt;p>Currently, I hangout in &lt;code>irc.libera.chat&lt;/code> as &lt;code>oqo&lt;/code>.&lt;/p>
+&lt;p>I&amp;rsquo;ve been meaning to get into the internet relay chat, or IRC, for a long time now.
+I choose &lt;code>irssi&lt;/code> as my IRC client.
+Currently, I hangout in &lt;code>irc.libera.chat&lt;/code> as &lt;code>oqo&lt;/code>.
+Got to talk with some of the cool people hanging out on &lt;code>#old-computer-challenge&lt;/code>&lt;/p>
 &lt;h2 id="smartphone">Smartphone&lt;/h2>
-&lt;p>I contact my friends and family through &lt;a href="https://signal.org">Signal Messenger&lt;/a>,
-so that means I must keep on using my smartphone.&lt;/p>
+&lt;p>I contact my friends and family through &lt;a href="https://signal.org">Signal Messenger&lt;/a> on my four-year old phone.
+By today&amp;rsquo;s standards, that too is an old computer.
+Talk about staying consistent with the project&amp;rsquo;s theme!&lt;/p>
 &lt;section class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>
@@ -201,7 +205,7 @@ vi works well (quickly) for editing config files. &lt;a href="#fnref:1" class="f
 &lt;p>Of course, this is purely a subjective assessment of my system. &lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:3" role="doc-endnote">
-&lt;p>According to &lt;code>pkg_add&lt;/code>, w3m-img is in direct conflict with w3m (in base install).
+&lt;p>According to &lt;code>pkg_add&lt;/code>, &lt;code>w3m-img&lt;/code> is in direct conflict with &lt;code>w3m&lt;/code> (in base install).
 I installed the former after removing the latter. &lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li id="fn:4" role="doc-endnote">
@@ -2226,15 +2230,9 @@ PasswordAuthentication no
 PermitRootLogin yes
 &lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;/ol>
-&lt;h2 id="web-server-on-openbsd">Web Server on OpenBSD&lt;/h2>
-&lt;p>Now we&amp;rsquo;re at the heart of this project:
-to make this old laptop a working server for this site.
-Let&amp;rsquo;s start by configuring httpd, the native HTTP daemon in the OpenBSD.&lt;/p>
-&lt;h3 id="configure-httpd">Configure httpd&lt;/h3>
-&lt;h3 id="enable-https-with-acme-client1-and-lets-encrypt">Enable HTTPS with acme-client(1) and Let&amp;rsquo;s Encrypt&lt;/h3>
-&lt;h3 id="add-http-security-headers-with-relayd8">Add HTTP security headers with relayd(8)&lt;/h3>
 &lt;h2 id="other-noteworthy-inconveniences">Other Noteworthy Inconveniences&lt;/h2>
-&lt;p>In this section, I&amp;rsquo;ll discuss the obstacles that I had to go through.&lt;/p>
+&lt;p>In this section, I&amp;rsquo;ll discuss the obstacles
+(read: rookie mistakes) that I had to go through.&lt;/p>
 &lt;h3 id="lan-ports-problem">LAN Ports problem&lt;/h3>
 &lt;p>At the time of writing, our internet service provider is PLDT Home Fibr.
 Subscription comes with an actual telephone and a router.
