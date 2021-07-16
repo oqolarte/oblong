@@ -247,15 +247,16 @@ Here are some other sites from which I got inspiration:
 - [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club), and even [1024b Club](https://1024b.club)
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 - [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
+- And other small, obscure personal websites that we have yet to discover.
 
 ## To-Do
 
 Here's a wishlist of sorts that I need to do for this site:
 - [X] Purchase a proper domain name for this site
-- [ ] Move away from GitHub Pages and host somewhere else, [preferably on a machine I own]({{< ref "/project/server.md" >}}).
+- [X] Move away from GitHub Pages and host somewhere else, [preferably on a machine I own]({{< ref "/project/server.md" >}}).
 GitHub has become more bloated over the years.
 I'd like to step away from that.
-- [ ] Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
+- [X] Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
 - [ ] Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)
 
 When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.

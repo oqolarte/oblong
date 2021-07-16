@@ -67,7 +67,7 @@ alt="screenshot of system running tmux with neovim, pfetch, htop"/> &lt;figcapti
 &lt;p>Most of them are available in the official ports.
 Download them, and some other dependencies, in one go:&lt;/p>
 &lt;pre>&lt;code># pkg_add firefox git gmake go irssi hugo \
-newsboat nnn nvim mpv py3-pip \
+newsboat nnn neovim mpv py3-pip \
 qutebrowser w3m-*-image webkitgtk4
 &lt;/code>&lt;/pre>&lt;h2 id="window-manager">Window Manager&lt;/h2>
 &lt;p>I initially opted for &lt;a href="https://dwm.suckless.org">dwm&lt;/a>,
@@ -135,7 +135,7 @@ but why would I?
 (Hardened) Firefox is only okay to use on computer with 4GB ram or up.&lt;/p>
 &lt;p>qutebrowser is a more lightweight option, and runs okay.
 I prefer using this one over Firefox,
-but only do so when &lt;code>w3m&lt;/code> won&amp;rsquo;t do.&lt;/p>
+but only do so when &lt;code>w3m&lt;/code>, for some reason, won&amp;rsquo;t do.&lt;/p>
 &lt;p>I tried installing &lt;a href="https://surf.suckless.org">suckless surf&lt;/a>,
 but was only successful when I got webkitgtk4.
 surf can also be an alternative lightweight GUI browser,
@@ -2461,15 +2461,16 @@ web designers and developers &lt;em>must see to it&lt;/em> that everyone can acc
 &lt;li>&lt;a href="https://1mb.club">1MB Club&lt;/a>, and it&amp;rsquo;s contemporaries, &lt;a href="https://512kb.club">512KB Club&lt;/a>, &lt;a href="https://250kb.club">250KB Club&lt;/a>, and even &lt;a href="https://1024b.club">1024b Club&lt;/a>&lt;/li>
 &lt;li>The &amp;ldquo;&lt;a href="https://bestmotherfucking.website">Best Motherfucking Website&lt;/a>&amp;rdquo;&lt;/li>
 &lt;li>&lt;a href="https://danluu.com">Dan Luu&amp;rsquo;s website&lt;/a>, although it begs a few design tweaks to improve readability.&lt;/li>
+&lt;li>And other small, obscure personal websites that we have yet to discover.&lt;/li>
 &lt;/ul>
 &lt;h2 id="to-do">To-Do&lt;/h2>
 &lt;p>Here&amp;rsquo;s a wishlist of sorts that I need to do for this site:&lt;/p>
 &lt;ul>
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> Purchase a proper domain name for this site&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else, &lt;a href="https://ohio.araw.xyz/server/">preferably on a machine I own&lt;/a>.
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Move away from GitHub Pages and host somewhere else, &lt;a href="https://ohio.araw.xyz/server/">preferably on a machine I own&lt;/a>.
 GitHub has become more bloated over the years.
 I&amp;rsquo;d like to step away from that.&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Have TLS certificate, preferably from &lt;a href="https://letsencrypt.org">Let&amp;rsquo;s Encrypt&lt;/a>, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Have TLS certificate, preferably from &lt;a href="https://letsencrypt.org">Let&amp;rsquo;s Encrypt&lt;/a>, because there&amp;rsquo;s really no excuse to use just HTTP&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> Get at least a score of 50 on Mozilla&amp;rsquo;s &lt;a href="https://observatory.mozilla.org/">HTTP Observatory&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.&lt;/p>

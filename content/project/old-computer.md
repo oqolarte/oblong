@@ -83,7 +83,7 @@ Download them, and some other dependencies, in one go:
 
 ```
 # pkg_add firefox git gmake go irssi hugo \
-newsboat nnn nvim mpv py3-pip \
+newsboat nnn neovim mpv py3-pip \
 qutebrowser w3m-*-image webkitgtk4
 ```
 
@@ -182,7 +182,7 @@ but why would I?
 
 qutebrowser is a more lightweight option, and runs okay.
 I prefer using this one over Firefox,
-but only do so when `w3m` won't do.
+but only do so when `w3m`, for some reason, won't do.
 
 I tried installing [suckless surf](https://surf.suckless.org),
 but was only successful when I got webkitgtk4.
