@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>The Old Computer Challenge</title><link>https://ohio.araw.xyz/old-computer/</link><pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate><guid>https://ohio.araw.xyz/old-computer/</guid><description>&lt;h2 class="statusOnGoing" id="status-on-going">Status: On-going&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/project/</link><description>Recent content in Projects on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml"/><item><title>The Old Computer Challenge</title><link>https://ohio.araw.xyz/old-computer/</link><pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate><guid>https://ohio.araw.xyz/old-computer/</guid><description>&lt;h2 class="statusDone" id="status-done">Status: Done&lt;/h2>
 &lt;p>This project is my attempt to &amp;ldquo;make it work&amp;rdquo; using old, un-upgraded computer.
 Over this period, I&amp;rsquo;ll document the good, the bad, and the ugly.
 Below isn&amp;rsquo;t necessarily a tutorial, but personal notes.
 Whenever possible, I&amp;rsquo;ll link the things I use to their respective online documentation.&lt;/p>
-&lt;p>&lt;a href="https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html">Solene&amp;rsquo;s prompt was to use old computers for a week&lt;/a>,
+&lt;p>&lt;a href="https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html">Solène&amp;rsquo;s prompt was to use old computers for a week&lt;/a>,
 from 10-17 July 2021.
-For details, check Solene&amp;rsquo;s post.&lt;/p>
+For details, check her post.&lt;/p>
 &lt;p>I didn&amp;rsquo;t follow all the rules to the letter.
 For example, I didn&amp;rsquo;t limit my RAM to 512MB.
 Doing so, in my case, would result in a terrible experience.&lt;/p>
@@ -56,7 +56,7 @@ The following are what I have in my netbook:&lt;/p>
 &lt;li>Static site generator: &lt;a href="https://gohugo.io">hugo&lt;/a>&lt;/li>
 &lt;li>File manager: sometimes &lt;a href="https://github.com/jarun/nnn">nnn&lt;/a>; mostly just Unix utilities&lt;/li>
 &lt;li>IRC client: &lt;a href="https://irssi.org">irssi&lt;/a>&lt;/li>
-&lt;li>Version Conrol: &lt;a href="https://git-scm.com">git&lt;/a>&lt;/li>
+&lt;li>Version Control: &lt;a href="https://git-scm.com">git&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;figure>&lt;img src="https://ohio.araw.xyz/image/oldpc.png"
 alt="screenshot of system running tmux with neovim, pfetch, htop"/>&lt;figcaption>
@@ -71,7 +71,7 @@ qutebrowser w3m-*-image webkitgtk4
 &lt;/code>&lt;/pre>&lt;h2 id="window-manager">Window Manager&lt;/h2>
 &lt;p>I initially opted for &lt;a href="https://dwm.suckless.org">dwm&lt;/a>,
 because that&amp;rsquo;s my favorite.
-However, everytime I boot into it,
+However, every time I boot into it,
 the X Server seems to hang&amp;hellip;?
 At this point, it would only respond when I switch to tty (&lt;code>ctrl + alt + F1&lt;/code>).
 Since I couldn&amp;rsquo;t&amp;mdash;&lt;em>don&amp;rsquo;t&lt;/em> have the patience&amp;mdash;to figure it out,
@@ -85,7 +85,7 @@ There&amp;rsquo;s probably a way to configure it to be keyboard-centric.&lt;/p>
 &lt;p>Finally, I switched to &lt;a href="https://man.openbsd.org/cwm.1">cwm&lt;/a>,
 which is also present in the base install.
 I find cwm more pleasant to use than fvwm.&lt;/p>
-&lt;p>I didn&amp;rsquo;t want the console log to open everytime I log in,
+&lt;p>I didn&amp;rsquo;t want the console log to open every time I log in,
 so I commented it out of the &lt;code>/etc/X11/Xenodm/Xsetup_0&lt;/code> file.&lt;/p>
 &lt;h2 id="terminal-emulator">Terminal Emulator&lt;/h2>
 &lt;p>I use &lt;code>st&lt;/code> because it&amp;rsquo;s snappier than &lt;code>xterm&lt;/code>.
@@ -98,7 +98,7 @@ A dedicated key-binding spawns an &lt;code>xterm&lt;/code> instance outside of &
 &lt;p>I don&amp;rsquo;t often use a file manager,
 but I installed &lt;code>nnn&lt;/code> just in case.&lt;/p>
 &lt;p>Mostly, I use &lt;code>mv&lt;/code>, &lt;code>cp&lt;/code>, &lt;code>rm&lt;/code>, &lt;code>cd&lt;/code>, &lt;code>ls&lt;/code> and other Unix utilities for moving around.
-Using them &amp;ldquo;forces&amp;rdquo; me to be mindful of the current file tree structure in (and out) of home directory.
+Using them &amp;ldquo;forces&amp;rdquo; me to be mindful of the file tree structure of the current working directory.
 It also encourages me to immediately clean up files and/or put them where they need to be.
 As an effect, my system is clutter-free and simple&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.
 I believe the cool people call it digital minimalism.&lt;/p>
@@ -113,8 +113,11 @@ No need for a visual cue for that.&lt;/p>
 I don&amp;rsquo;t need a visual representation of the volume;
 the actual sound coming out of the earphones that I use should be enough an indicator.&lt;/p>
 &lt;h2 id="web-browsers">Web Browsers&lt;/h2>
+&lt;p>The overrated portals to the internet, any maybe rightly so.
+Subject of many online debates.
+Good thing that there are that can still run on limited hardware.&lt;/p>
 &lt;h3 id="text-based">Text-based&lt;/h3>
-&lt;p>Text-based browsers can connect me to the internet even on limited hardware.
+&lt;p>Text-based browsers are enough to connect me to the internet.
 They are less resource intensive, unlike the GUI ones, and that&amp;rsquo;s expected.&lt;/p>
 &lt;p>However, it&amp;rsquo;s only natural for my human eyes to want to look at pictures from time to time,
 especially if it&amp;rsquo;s relevant to the content.&lt;/p>
@@ -123,11 +126,12 @@ especially if it&amp;rsquo;s relevant to the content.&lt;/p>
 Now, I won&amp;rsquo;t miss out on photos on blogs!&lt;/p>
 &lt;p>&lt;code>w3m&lt;/code> doesn&amp;rsquo;t support CSS and JavaScript,
 and that&amp;rsquo;s good!
-Web developers, though, haven&amp;rsquo;t been designing the modern web to beusable with HTML only,
+Web developers, though, haven&amp;rsquo;t been designing the modern web to be usable with HTML only,
 so expect that many sites will break while using text-based browsers.
 I wish this weren&amp;rsquo;t the case, but it has come to this&amp;hellip;&lt;/p>
-&lt;p>I use the lightest version of DuckDuckGo (that I know) as my search engine:
-&lt;code>ddg.gg/lite&lt;/code>&lt;/p>
+&lt;p>I use the lightest version of DuckDuckGo (that I know) as my search engine,
+&lt;code>ddg.gg/lite&lt;/code>,
+for quick searches.&lt;/p>
 &lt;h3 id="gui">GUI&lt;/h3>
 &lt;p>I &lt;em>could&lt;/em> tolerate the slow loading times of Firefox,
 but why would I?
@@ -136,7 +140,7 @@ but why would I?
 I prefer using this one over Firefox,
 but only do so when &lt;code>w3m&lt;/code>, for some reason, won&amp;rsquo;t do.&lt;/p>
 &lt;p>I tried installing &lt;a href="https://surf.suckless.org">suckless surf&lt;/a>,
-but was only successful when I got webkitgtk4.
+but was only successful when I got &lt;code>webkitgtk4&lt;/code>.
 surf can also be an alternative lightweight GUI browser,
 but it needs more patching to be as usable as qutebrowser.&lt;/p>
 &lt;h2 id="watching-videos">Watching Videos&lt;/h2>
@@ -157,6 +161,9 @@ I reused (copied) the URL list from my main machine to this netbook,
 but I trimmed the sites that don&amp;rsquo;t offer the full content in their feed.
 This is to keep my reading contained within newsboat,
 and to not have to open a browser.&lt;/p>
+&lt;p>With a bit more effort,
+one could even subscribe to social media feeds like YouTube, Twitter, Mastodon, podcasts, and perhaps some more;
+but I didn&amp;rsquo;t do it in this machine.&lt;/p>
 &lt;h2 id="blogging">Blogging&lt;/h2>
 &lt;p>How else can I report to the public about this project if not through this &lt;a href="https://ohio.araw.xyz/site">site&lt;/a>?&lt;/p>
 &lt;p>I build this site using &lt;code>hugo&lt;/code>.
@@ -165,16 +172,19 @@ it&amp;rsquo;s all I use.
 I &lt;code>git&lt;/code> my files for version control.&lt;/p>
 &lt;p>I even blogged daily during the course of this Challenge,
 to feel what it&amp;rsquo;s like to compose texts on this electric typewriter.
-Here are the (non-tech) logs so far:&lt;/p>
+Here are the logs so far:&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://ohio.araw.xyz/aging">Day 1&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ohio.araw.xyz/haircut">Day 2&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ohio.araw.xyz/trese">Day 3&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ohio.araw.xyz/life-news">Day 4&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ohio.araw.xyz/flu">Day 5&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/aging">Day 1: Signs of Aging&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/haircut">Day 2: Haircut&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/trese">Day 3: Trese&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/life-news">Day 4: Life as News&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/flu">Day 5: Is It Flue Season Already?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/uphills">Day 6: Uphills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/dogwalk">Day 7: Walking the Dog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ohio.araw.xyz/afolk">Day 8: FOLK&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="accesing-github">Accesing Github&lt;/h3>
-&lt;p>At the time of writing,
+&lt;p>During the course of this project,
 this site and its source code is hosted on Github.
 I wanted to access Github&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> through their &lt;a href="https://cli.github.com">&lt;code>gh-cli&lt;/code>&lt;/a>,
 because it&amp;rsquo;s quicker than opening a GUI browser.&lt;/p>
@@ -199,9 +209,80 @@ I choose &lt;code>irssi&lt;/code> as my IRC client.
 Currently, I hangout in &lt;code>irc.libera.chat&lt;/code> as &lt;code>oqo&lt;/code>.
 Got to talk with some of the cool people hanging out on &lt;code>#old-computer-challenge&lt;/code>&lt;/p>
 &lt;h2 id="smartphone">Smartphone&lt;/h2>
-&lt;p>I contact my friends and family through &lt;a href="https://signal.org">Signal Messenger&lt;/a> on my four-year old phone.
-By today&amp;rsquo;s standards, that too is an old computer.
-Talk about staying consistent with the project&amp;rsquo;s theme!&lt;/p>
+&lt;p>I still use my four-year old phone during this project,
+but mainly for keeping in touch with friends and family.
+By today&amp;rsquo;s standards, that too is an old computer.&lt;/p>
+&lt;p>So, in line with the project&amp;rsquo;s theme,
+below is a short list of my device&amp;rsquo;s noteworthy specs.&lt;/p>
+&lt;h3 id="hardware-1">Hardware&lt;/h3>
+&lt;ul>
+&lt;li>Phone: Samsung A7 (2017)&lt;/li>
+&lt;li>Chipset: Exynos 7880 (14 nm)&lt;/li>
+&lt;li>CPU: Octa-core 1.9 GHz Cortex-A53&lt;/li>
+&lt;li>Main Camera: 16 MP, f/1.9, 27mm (wide), AF&lt;/li>
+&lt;li>Selfie Camera: 16 MP, f/1.9, 26mm (wide), 1/3.06&amp;quot;, 1.0µm&lt;/li>
+&lt;li>Sound: With 3.5mm jack (!!)&lt;/li>
+&lt;/ul>
+&lt;h3 id="software-1">Software&lt;/h3>
+&lt;ul>
+&lt;li>Operating System: &lt;a href="https://lineageos.org">Lineage OS 17.1&lt;/a>&lt;/li>
+&lt;li>App Store: &lt;a href="https://f-droid.org/">F-Droid&lt;/a>&lt;/li>
+&lt;li>Instant Messenger: &lt;a href="https://signal.org">Signal&lt;/a>&lt;/li>
+&lt;li>Launcher: &lt;a href="https://kisslauncher.com/">KISS&lt;/a>&lt;/li>
+&lt;li>Maps: &lt;a href="https://osmand.net/">OsmAnd~&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="thoughts-and-opinions">Thoughts and Opinions&lt;/h2>
+&lt;p>&lt;strong>Specifications unmet&lt;/strong>:
+As mentioned, I didn&amp;rsquo;t meet the hardware requirements.
+I&amp;rsquo;ll be the first to admit that it wouldn&amp;rsquo;t have been enjoyable,
+to do what is considered today normal computing tasks on an old computer.
+It&amp;rsquo;s called a challenge for a reason after all!
+And of course, kudos to the &lt;a href="https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html#_Social_medias">other participants&lt;/a> who ran in 512MB RAM!&lt;/p>
+&lt;p>&lt;strong>Realistic use-case?&lt;/strong>:
+On the software side,
+my setup is not for those who are only familiar with GUI.
+Only a handful of people would actually want to move their computing to terminal-based applications.
+So, we cannot, &lt;em>shall not&lt;/em>, expect non-tech savvy people to use old
+computers, especially when they&amp;rsquo;d use only GUI,
+and the alternative has a steep learning curve.&lt;/p>
+&lt;p>&lt;strong>No muzak&lt;/strong>:
+I didn&amp;rsquo;t listen to music, because I don&amp;rsquo;t have any on this computer.
+I could stream, but didn&amp;rsquo;t.&lt;/p>
+&lt;p>&lt;strong>No e-book reading&lt;/strong>:
+I only read blog posts in the RSS.
+I reserved book reading as an offline endeavor.
+Good for the eyes.&lt;/p>
+&lt;p>&lt;strong>Torrenting?&lt;/strong>:
+I wanted to torrent a relatively huge file,
+and see how it would handle that.
+Life kept getting in the way, though&amp;mdash;which
+is good, more time away from computers&amp;mdash;that I was unable to do that.&lt;/p>
+&lt;p>&lt;strong>Looking forward to it&lt;/strong>:
+I noticed my excitement to record my day on this old computer.
+It&amp;rsquo;s like capping the day with a favorite drink.
+Blogging on a more-than-ten-year-old machine evokes a kind of nostalgic feeling, I guess.
+But it&amp;rsquo;s also more than that:
+it&amp;rsquo;s knowing that I, in principle, can do most, if not all,
+of my daily tasks in this MSI Wind Netbook,
+given enough time and effort.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>This challenge only reinforces my notions about having a simple computer setup.
+I realize that while it&amp;rsquo;s not for everyone,
+it&amp;rsquo;s doable with the right mindset.&lt;/p>
+&lt;p>Computers do the boring stuff for us,
+so we may accomplish other things.
+However, we need to consider that this access to efficiency and precision is a double-edged sword.&lt;/p>
+&lt;p>The manufacturers, developers, and consumers must be responsible
+in keeping away as much e-waste from landfills as possible.&lt;/p>
+&lt;p>Manufacturers should build computers that will remain operational for at least ten years.
+Planned obsolescence harms the people and the environment.&lt;/p>
+&lt;p>Developers should design their software to work even on old computers.
+Before adding a feature,
+consider how it would impact modern and decades-old electronics.&lt;/p>
+&lt;p>Consumers: stop asking, needing, wanting for more.
+Why upgrade if the effects are ephemeral?
+We need to simplify our workflows.
+Only use what is needed, both in hardware and software.&lt;/p>
 &lt;section class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>

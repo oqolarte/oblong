@@ -4,16 +4,16 @@ date: 2021-07-10T13:21:43+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-## Status: On-going {.statusOnGoing}
+## Status: Done {.statusDone}
 
 This project is my attempt to "make it work" using old, un-upgraded computer.
 Over this period, I'll document the good, the bad, and the ugly.
 Below isn't necessarily a tutorial, but personal notes.
 Whenever possible, I'll link the things I use to their respective online documentation.
 
-[Solene's prompt was to use old computers for a week](https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html),
+[Solène's prompt was to use old computers for a week](https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html),
 from 10-17 July 2021.
-For details, check Solene's post.
+For details, check her post.
 
 I didn't follow all the rules to the letter.
 For example, I didn't limit my RAM to 512MB.
@@ -71,7 +71,7 @@ The following are what I have in my netbook:
 - Static site generator: [hugo](https://gohugo.io)
 - File manager: sometimes [nnn](https://github.com/jarun/nnn); mostly just Unix utilities
 - IRC client: [irssi](https://irssi.org)
-- Version Conrol: [git](https://git-scm.com)
+- Version Control: [git](https://git-scm.com)
 
 [^vi]: vi in OpenBSD is actually [nvi](https://www.bostic.com/vi/).
 vi works well (quickly) for editing config files.
@@ -91,7 +91,7 @@ qutebrowser w3m-*-image webkitgtk4
 
 I initially opted for [dwm](https://dwm.suckless.org),
 because that's my favorite.
-However, everytime I boot into it,
+However, every time I boot into it,
 the X Server seems to hang...?
 At this point, it would only respond when I switch to tty (`ctrl + alt + F1`).
 Since I couldn't---*don't* have the patience---to figure it out,
@@ -108,7 +108,7 @@ Finally, I switched to [cwm](https://man.openbsd.org/cwm.1),
 which is also present in the base install.
 I find cwm more pleasant to use than fvwm.
 
-I didn't want the console log to open everytime I log in,
+I didn't want the console log to open every time I log in,
 so I commented it out of the `/etc/X11/Xenodm/Xsetup_0` file.
 
 ## Terminal Emulator
@@ -127,7 +127,7 @@ I don't often use a file manager,
 but I installed `nnn` just in case.
 
 Mostly, I use `mv`, `cp`, `rm`, `cd`, `ls` and other Unix utilities for moving around.
-Using them "forces" me to be mindful of the current file tree structure in (and out) of home directory.
+Using them "forces" me to be mindful of the file tree structure of the current working directory.
 It also encourages me to immediately clean up files and/or put them where they need to be.
 As an effect, my system is clutter-free and simple[^fs].
 I believe the cool people call it digital minimalism.
@@ -150,8 +150,12 @@ the actual sound coming out of the earphones that I use should be enough an indi
 
 ## Web Browsers
 
+The overrated portals to the internet, any maybe rightly so.
+Subject of many online debates.
+Good thing that there are that can still run on limited hardware.
+
 ### Text-based
-Text-based browsers can connect me to the internet even on limited hardware.
+Text-based browsers are enough to connect me to the internet.
 They are less resource intensive, unlike the GUI ones, and that's expected.
 
 However, it's only natural for my human eyes to want to look at pictures from time to time,
@@ -167,12 +171,13 @@ I installed the former after removing the latter.
 
 `w3m` doesn't support CSS and JavaScript,
 and that's good!
-Web developers, though, haven't been designing the modern web to beusable with HTML only,
+Web developers, though, haven't been designing the modern web to be usable with HTML only,
 so expect that many sites will break while using text-based browsers.
 I wish this weren't the case, but it has come to this...
 
-I use the lightest version of DuckDuckGo (that I know) as my search engine:
-`ddg.gg/lite`
+I use the lightest version of DuckDuckGo (that I know) as my search engine,
+`ddg.gg/lite`,
+for quick searches.
 
 ### GUI
 
@@ -185,7 +190,7 @@ I prefer using this one over Firefox,
 but only do so when `w3m`, for some reason, won't do.
 
 I tried installing [suckless surf](https://surf.suckless.org),
-but was only successful when I got webkitgtk4.
+but was only successful when I got `webkitgtk4`.
 surf can also be an alternative lightweight GUI browser,
 but it needs more patching to be as usable as qutebrowser.
 
@@ -219,6 +224,10 @@ but I trimmed the sites that don't offer the full content in their feed.
 This is to keep my reading contained within newsboat,
 and to not have to open a browser.
 
+With a bit more effort,
+one could even subscribe to social media feeds like YouTube, Twitter, Mastodon, podcasts, and perhaps some more;
+but I didn't do it in this machine.
+
 ## Blogging
 
 How else can I report to the public about this project if not through this [site](/site)?
@@ -230,16 +239,19 @@ I `git` my files for version control.
 
 I even blogged daily during the course of this Challenge,
 to feel what it's like to compose texts on this electric typewriter.
-Here are the (non-tech) logs so far:
-- [Day 1](/aging)
-- [Day 2](/haircut)
-- [Day 3](/trese)
-- [Day 4](/life-news)
-- [Day 5](/flu)
+Here are the logs so far:
+- [Day 1: Signs of Aging](/aging)
+- [Day 2: Haircut](/haircut)
+- [Day 3: Trese](/trese)
+- [Day 4: Life as News](/life-news)
+- [Day 5: Is It Flue Season Already?](/flu)
+- [Day 6: Uphills](/uphills)
+- [Day 7: Walking the Dog](/dogwalk)
+- [Day 8: FOLK](/afolk)
 
 ### Accesing Github
 
-At the time of writing,
+During the course of this project,
 this site and its source code is hosted on Github.
 I wanted to access Github[^gh] through their [`gh-cli`](https://cli.github.com),
 because it's quicker than opening a GUI browser.
@@ -275,6 +287,90 @@ Got to talk with some of the cool people hanging out on `#old-computer-challenge
 
 ## Smartphone
 
-I contact my friends and family through [Signal Messenger](https://signal.org) on my four-year old phone.
+I still use my four-year old phone during this project,
+but mainly for keeping in touch with friends and family.
 By today's standards, that too is an old computer.
-Talk about staying consistent with the project's theme!
+
+So, in line with the project's theme,
+below is a short list of my device's noteworthy specs.
+
+### Hardware
+- Phone: Samsung A7 (2017)
+- Chipset: Exynos 7880 (14 nm)
+- CPU: Octa-core 1.9 GHz Cortex-A53
+- Main Camera: 16 MP, f/1.9, 27mm (wide), AF
+- Selfie Camera: 16 MP, f/1.9, 26mm (wide), 1/3.06", 1.0µm
+- Sound: With 3.5mm jack (!!)
+
+### Software
+- Operating System: [Lineage OS 17.1](https://lineageos.org)
+- App Store: [F-Droid](https://f-droid.org/)
+- Instant Messenger: [Signal](https://signal.org)
+- Launcher: [KISS](https://kisslauncher.com/)
+- Maps: [OsmAnd~](https://osmand.net/)
+
+## Thoughts and Opinions
+
+**Specifications unmet**:
+As mentioned, I didn't meet the hardware requirements.
+I'll be the first to admit that it wouldn't have been enjoyable,
+to do what is considered today normal computing tasks on an old computer.
+It's called a challenge for a reason after all!
+And of course, kudos to the [other participants](https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html#_Social_medias) who ran in 512MB RAM!
+
+**Realistic use-case?**:
+On the software side,
+my setup is not for those who are only familiar with GUI.
+Only a handful of people would actually want to move their computing to terminal-based applications.
+So, we cannot, *shall not*, expect non-tech savvy people to use old
+computers, especially when they'd use only GUI,
+and the alternative has a steep learning curve.
+
+**No muzak**:
+I didn't listen to music, because I don't have any on this computer.
+I could stream, but didn't.
+
+**No e-book reading**:
+I only read blog posts in the RSS.
+I reserved book reading as an offline endeavor.
+Good for the eyes.
+
+**Torrenting?**:
+I wanted to torrent a relatively huge file,
+and see how it would handle that.
+Life kept getting in the way, though---which
+is good, more time away from computers---that I was unable to do that.
+
+**Looking forward to it**:
+I noticed my excitement to record my day on this old computer.
+It's like capping the day with a favorite drink.
+Blogging on a more-than-ten-year-old machine evokes a kind of nostalgic feeling, I guess.
+But it's also more than that:
+it's knowing that I, in principle, can do most, if not all,
+of my daily tasks in this MSI Wind Netbook,
+given enough time and effort.
+
+## Conclusion
+
+This challenge only reinforces my notions about having a simple computer setup.
+I realize that while it's not for everyone,
+it's doable with the right mindset.
+
+Computers do the boring stuff for us,
+so we may accomplish other things.
+However, we need to consider that this access to efficiency and precision is a double-edged sword.
+
+The manufacturers, developers, and consumers must be responsible
+in keeping away as much e-waste from landfills as possible.
+
+Manufacturers should build computers that will remain operational for at least ten years.
+Planned obsolescence harms the people and the environment.
+
+Developers should design their software to work even on old computers.
+Before adding a feature,
+consider how it would impact modern and decades-old electronics.
+
+Consumers: stop asking, needing, wanting for more.
+Why upgrade if the effects are ephemeral?
+We need to simplify our workflows.
+Only use what is needed, both in hardware and software.
