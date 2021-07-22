@@ -1416,6 +1416,56 @@ her savior, her last debuff that would put an end to all this scam.
 maybe she was right, but in order to prove her theory, her particles
 should not have begun drifting away.
 
+### Entry # 68
+Date: Fri, 31 Jan 2014
+
+No time for preparation
+I muffled my breathing for someone beneath the bed.
+The person kept shifting as the metal hinges creaked around me.
+Someone yelled in the distant roundabouts of the street.
+The person's breathing, and the occasional murmuring, was more audible, though.
+The air around me diffuses, and I would be choking soon.
+
+Dreams show you an escape;
+nightmares pin you down.
+This was about the latter.
+The moment of helplessness, when you must realize this is just a dream.
+You hope you are smart enough to convince yourself to snap out of it,
+but sometimes, the magic does not work.
+It needs the latest patch, this *magic*,
+and you wonder if it's already available on the App Store.
+
+The person sensed a shuffling below. They stood up, metal hinges creaking noisily, and checked.
+*She* was naked---this I duly
+noticed---peering into my eyes.
+A woman, twenty-plus-plus of age.
+Had I given more interest in social sciences,
+I could have easily figured out the constructs that baffled the pools she was whirling me in.
+However, she did not mind seeing me there, a pollutant, a beg bud
+(or bed bug) lying quietly, breathing heavily in this tight space.
+She lay down on the wooden floor and rolled towards me under the bed.
+We gazed long enough before finally closing our eyes and did what had to be done.
+When I tried sliding my tongue into her mouth,
+she gently pushed me off, smiled, and said,
+"No, no tongue. Tongue is for pussies."
+
+### Entry # 69
+Date: Fri, 31 Jan 2014
+
+It was just a phase. And I was just fooling around when I said something
+about a recent thought of inter-species prostitution, an idea I am now
+alienating myself from after watching *District 9* for the third time.
+That was a bit tough to stomach, I know; and no one, I think, could
+digest the thought without feeling nauseous. But I was just fooling around. Just
+being me, being funny.
+
+I can be dark and shallow when agitated; more so when pushed to the
+edge. What you did kind of forced me to the edge. You were being nasty.
+The stuff coming out of your foul mouth was boiling like an ectoplasmic
+substance. You were just ugly. I thought of landing several fists on
+your face, but I couldn't. I just could not.
+
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 

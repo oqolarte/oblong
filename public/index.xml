@@ -1,176 +1,261 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a log on somersaulting</title><link>https://ohio.araw.xyz/</link><description>Recent content on to oblique lair</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 17 Jul 2021 08:58:54 +0800</lastBuildDate><atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogroll</title><link>https://ohio.araw.xyz/blogroll/</link><pubDate>Wed, 14 Apr 2021 22:24:19 +0800</pubDate><guid>https://ohio.araw.xyz/blogroll/</guid><description>&lt;h2 id="favorites">Favorites&lt;/h2>
-&lt;p>&lt;a href="https://leap-isya.netlify.app">Isya the Leap Trader&lt;/a>&lt;br>
-&lt;a href="https://arawseekers.github.io">Araw Seekers&lt;/a>&lt;/p>
-&lt;h2 id="cool-assortments">Cool Assortments&lt;/h2>
-&lt;p>&lt;a href="https://datagubbe.se/">Carl Svensson&lt;/a>&lt;br>
-&lt;a href="https://cheapskatesguide.org/">Cheapskate&amp;rsquo;s Guide&lt;/a>&lt;br>
-&lt;a href="https://crystal.ph/">Crystal Camarao&lt;/a>&lt;br>
-&lt;a href="https://danluu.com">Dan Luu&lt;/a>&lt;br>
-&lt;a href="https://drewdevault.com">Drew DeVault&lt;/a>&lt;br>
-&lt;a href="http://earlyretirementextreme.com">Early Retirement Extreme&lt;/a>&lt;br>
-&lt;a href="https://www.engineeringforchange.org">Engineering For Change&lt;/a>&lt;br>
-&lt;a href="https://ethical.net">Ethical Net&lt;/a>&lt;br>
-&lt;a href="https://100r.co">Hundred Rabbits&lt;/a>&lt;br>
-&lt;a href="https://laurakalbag.com/">Laura Kalbag&lt;/a>&lt;br>
-&lt;a href="https://solar.lowtechmagazine.com">Low-tech Magazine&lt;/a>&lt;br>
-&lt;a href="https://listed.to/@mo">Mo Bitar&lt;/a>&lt;br>
-&lt;a href="https://nadiaeghbal.com/">Nadia Eghbal&lt;/a>&lt;br>
-&lt;a href="https://roytang.net/">Roy Tang&lt;/a>&lt;br>
-&lt;a href="https://simplifier.neocities.org">Simplifier&lt;/a>&lt;br>
-&lt;a href="https://dataswamp.org/~solene/">Solène Rapenne&lt;/a>&lt;br>
-&lt;a href="https://pbfcomics.com/">The Perry Bible Fellowship&lt;/a>&lt;br>
-&lt;a href="https://victoria.dev">Victoria Drake&lt;/a>&lt;/p>
-&lt;h2 id="from-tumblr">From Tumblr&lt;/h2>
-&lt;p>&lt;a href="https://ohninesevennine.tumblr.com">1979&lt;/a>&lt;br>
-&lt;a href="https://aftersalt.tumblr.com">aftersalt&lt;/a>&lt;br>
-&lt;a href="https://tkmk.tumblr.com">tkmk&lt;/a>&lt;br>
-&lt;a href="https://tributary.tumblr.com">tributary&lt;/a>&lt;br>
-&lt;a href="https://viperslang.tumblr.com">viperslang&lt;/a>&lt;/p></description></item><item><title>Disclaimer</title><link>https://ohio.araw.xyz/disclaimer/</link><pubDate>Sat, 10 Apr 2021 15:05:20 +0800</pubDate><guid>https://ohio.araw.xyz/disclaimer/</guid><description>&lt;p>Views expressed here are mine alone, not of my past, present, nor future employer/s.
-They may change at any point in time&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>.&lt;/p>
-&lt;p>Any content is provided &amp;ldquo;as is&amp;rdquo; and I disclaim all warranties.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>a log on somersaulting</title>
+    <link>https://ohio.araw.xyz/</link>
+    <description>Recent content on to oblique lair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jul 2021 01:07:15 +0800</lastBuildDate>
+    
+        <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogroll</title>
+      <link>https://ohio.araw.xyz/blogroll/</link>
+      <pubDate>Wed, 14 Apr 2021 22:24:19 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/blogroll/</guid>
+      <description>&lt;h2 id=&#34;favorites&#34;&gt;Favorites&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://leap-isya.netlify.app&#34;&gt;Isya the Leap Trader&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://arawseekers.github.io&#34;&gt;Araw Seekers&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cool-assortments&#34;&gt;Cool Assortments&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://datagubbe.se/&#34;&gt;Carl Svensson&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://cheapskatesguide.org/&#34;&gt;Cheapskate&amp;rsquo;s Guide&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://crystal.ph/&#34;&gt;Crystal Camarao&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://drewdevault.com&#34;&gt;Drew DeVault&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://earlyretirementextreme.com&#34;&gt;Early Retirement Extreme&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.engineeringforchange.org&#34;&gt;Engineering For Change&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://ethical.net&#34;&gt;Ethical Net&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://100r.co&#34;&gt;Hundred Rabbits&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://laurakalbag.com/&#34;&gt;Laura Kalbag&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;Low-tech Magazine&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://listed.to/@mo&#34;&gt;Mo Bitar&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://nadiaeghbal.com/&#34;&gt;Nadia Eghbal&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://roytang.net/&#34;&gt;Roy Tang&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://simplifier.neocities.org&#34;&gt;Simplifier&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://dataswamp.org/~solene/&#34;&gt;Solène Rapenne&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://pbfcomics.com/&#34;&gt;The Perry Bible Fellowship&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://victoria.dev&#34;&gt;Victoria Drake&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;from-tumblr&#34;&gt;From Tumblr&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://ohninesevennine.tumblr.com&#34;&gt;1979&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://aftersalt.tumblr.com&#34;&gt;aftersalt&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://tkmk.tumblr.com&#34;&gt;tkmk&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://tributary.tumblr.com&#34;&gt;tributary&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://viperslang.tumblr.com&#34;&gt;viperslang&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>https://ohio.araw.xyz/disclaimer/</link>
+      <pubDate>Sat, 10 Apr 2021 15:05:20 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/disclaimer/</guid>
+      <description>&lt;p&gt;Views expressed here are mine alone, not of my past, present, nor future employer/s.
+They may change at any point in time&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Any content is provided &amp;ldquo;as is&amp;rdquo; and I disclaim all warranties.
 Although every effort is being made to ensure correctness, content might still include errors, and I don&amp;rsquo;t take responsibility for any damages to anything as result.
-If you see any error, please let me know through email&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>.&lt;/p>
-&lt;section class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1" role="doc-endnote">
-&lt;p>In fact, it&amp;rsquo;s likely to change given enough time.
+If you see any error, please let me know through email&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;In fact, it&amp;rsquo;s likely to change given enough time.
 People change, given enough time.
-Everything does.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:2" role="doc-endnote">
-&lt;p>See Index for email address.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/section></description></item><item><title>Ideas of Possible Projects</title><link>https://ohio.araw.xyz/di-why/</link><pubDate>Fri, 26 Feb 2021 10:08:28 +0800</pubDate><guid>https://ohio.araw.xyz/di-why/</guid><description>&lt;p>You&amp;rsquo;ve likely come here from the &lt;a href="https://ohio.araw.xyz/support/">Support&lt;/a> page.&lt;/p>
-&lt;p>I&amp;rsquo;m trying to get into the habit of doing projects so I stay sharp.
-In the process, I&amp;rsquo;ll try to document each step, and publish whatever findings I might have here for public viewing.&lt;/p>
-&lt;p>Like any other person, my interests oscillate wildly, so the ideas listed here can&amp;rsquo;t be lumped into one big category.
-The list is likely to grow or shrink
-(check this page every once in a while),
+Everything does.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;See Index for email address.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ideas of Possible Projects</title>
+      <link>https://ohio.araw.xyz/di-why/</link>
+      <pubDate>Fri, 26 Feb 2021 10:08:28 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/di-why/</guid>
+      <description>&lt;p&gt;You&amp;rsquo;ve likely come here from the &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m trying to get into the habit of doing projects so I stay sharp.
+In the process, I&amp;rsquo;ll try to document each step,
+and publish whatever findings I might have here for public viewing.&lt;/p&gt;
+&lt;p&gt;We need to be sharing ideas freely,
+not covet them.&lt;/p&gt;
+&lt;p&gt;Like any other person, my interests oscillate wildly,
+so the ideas listed here can&amp;rsquo;t be lumped into one big category.
+The list is likely to grow or shrink,
 depending on my current situation.
 &amp;ldquo;Life happens,&amp;rdquo; they say.
-I tend to agree.&lt;/p>
-&lt;p>Anyway, here is the list, in no particular order:&lt;/p>
-&lt;ol>
-&lt;li>News aggregator/portal&lt;/li>
-&lt;li>Wifi router from household rejects&lt;/li>
-&lt;li>Water filter&lt;/li>
-&lt;li>Soap from used oil&lt;/li>
-&lt;li>Hand tools&lt;/li>
-&lt;li>Computer monitor from a broken laptop&lt;/li>
-&lt;li>Laundry detergent&lt;/li>
-&lt;li>Fixed-gear bike, preferably converted from an old roadie&lt;/li>
-&lt;li>Repair, refurbish, and/or repurposing of different consumer electronics&lt;/li>
-&lt;li>Make a free and open-source software &lt;em>and&lt;/em> hardware, but not necessarily found together in a single device, that a layperson would find useful&lt;/li>
-&lt;li>Bio-digester&lt;/li>
-&lt;/ol>
-&lt;p>As soon as I start working on an idea here, it will be migrated to the &lt;a href="https://ohio.araw.xyz/project/">Projects&lt;/a> page.&lt;/p></description></item><item><title>PALIMOS</title><link>https://ohio.araw.xyz/support/</link><pubDate>Sat, 20 Feb 2021 17:36:42 +0800</pubDate><guid>https://ohio.araw.xyz/support/</guid><description>&lt;p>&lt;strong>&amp;ldquo;Prosperity always lives in many open-handed souls&amp;rdquo;&lt;/strong> is my go-to maxim these days.&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
-&lt;p>I&amp;rsquo;m always polishing my projects listed in this site,
+I tend to agree.&lt;/p&gt;
+&lt;p&gt;Anyway, here is the list, in no particular order:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;News aggregator/portal&lt;/li&gt;
+&lt;li&gt;Wifi router from household rejects&lt;/li&gt;
+&lt;li&gt;Water filter&lt;/li&gt;
+&lt;li&gt;Soap from used oil&lt;/li&gt;
+&lt;li&gt;Hand tools&lt;/li&gt;
+&lt;li&gt;Computer monitor from a broken laptop&lt;/li&gt;
+&lt;li&gt;Laundry detergent&lt;/li&gt;
+&lt;li&gt;Repair, refurbish, and/or repurposing of different consumer electronics&lt;/li&gt;
+&lt;li&gt;Make a free and open-source software &lt;em&gt;and&lt;/em&gt; hardware, but not necessarily found together in a single device, that a layperson would find useful&lt;/li&gt;
+&lt;li&gt;Bio-digester&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As soon as I start working on an idea here, it will be migrated to the &lt;a href=&#34;https://ohio.araw.xyz/project/&#34;&gt;Projects&lt;/a&gt; page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PALIMOS</title>
+      <link>https://ohio.araw.xyz/support/</link>
+      <pubDate>Sat, 20 Feb 2021 17:36:42 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/support/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Prosperity always lives in many open-handed souls&amp;rdquo;&lt;/strong&gt; is my go-to maxim these days.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re reading this,
+thank you for considering to support what I do online.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m always polishing my projects listed in this site,
 so that they&amp;rsquo;re updated, and more importantly,
-as accessible to as many as possible.&lt;/p>
-&lt;p>I have also put up a &lt;a href="https://ohio.araw.xyz/di-why/">list of interesting project ideas&lt;/a> that, depending on circumstances, I may or may not pursue.&lt;/p>
-&lt;p>Consider supporting my work if you find it helpful or enjoyable:&lt;/p>
-&lt;h2 id="financial-support">Financial support&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://liberapay.com/oqo_frxbj/donate">Liberapay&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://paypal.me/oqolarte">Paypal&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>I don&amp;rsquo;t like cryptocurrencies for various reasons, so I don&amp;rsquo;t have wallets for those.&lt;/p>
-&lt;p>If you prefer other means of supporting me (e.g. bank transfer, GCash, etc.), please email me.&lt;/p>
-&lt;h2 id="hardware-support">Hardware support&lt;/h2>
-&lt;p>I&amp;rsquo;m getting in the habit of fixing, making, and repairing stuff.
+as accessible to as many as possible.&lt;/p&gt;
+&lt;p&gt;I have also put up a &lt;a href=&#34;https://ohio.araw.xyz/di-why/&#34;&gt;list of interesting project ideas&lt;/a&gt; that,
+depending on circumstances, I may or may not pursue.&lt;/p&gt;
+&lt;h2 id=&#34;financial-support&#34;&gt;Financial support&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://liberapay.com/oqo_frxbj/donate&#34;&gt;Liberapay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paypal.me/oqolarte&#34;&gt;Paypal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I don&amp;rsquo;t like cryptocurrencies for various reasons, so I don&amp;rsquo;t have wallets for those.&lt;/p&gt;
+&lt;p&gt;If you prefer other means of supporting me (e.g. bank transfer, GCash, etc.), please email me.&lt;/p&gt;
+&lt;h2 id=&#34;hardware-support&#34;&gt;Hardware support&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m getting in the habit of fixing, making, and repairing stuff.
 This wishlist is in constant change, so please check in here from time to time.
-Please email me first if you plan to give me any of these stuff.&lt;/p>
-&lt;ul>
-&lt;li>New 6- or 9-cell battery for Thinkpad X220&lt;/li>
-&lt;li>New battery for MSI Wind U123&lt;/li>
-&lt;li>Raspberry Pi (any model), used and in good working condition&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/li>
-&lt;li>IBM Thinkpad T40, used and in good working condition.
-&lt;a href="https://ohio.araw.xyz/old-laptop#ibm-thinkpad-t40">More info in this log&lt;/a>.&lt;/li>
-&lt;li>Apple Magsafe 1 L-type power adapter.
-&lt;a href="https://ohio.araw.xyz/old-laptop#apple-power-adapter">More info in this log&lt;/a>.&lt;/li>
-&lt;li>LCD or LED computer monitor, used and in good working condition&lt;/li>
-&lt;li>Corded hammer drill, used and in good working condition&lt;/li>
-&lt;li>e-ink reader, used and in good working condition&lt;/li>
-&lt;li>Road bike, or fixed-gear bike, preferably with &lt;a href="https://youtu.be/VPmcge4yKxU">unstealable components&lt;/a> but in good working condition&lt;/li>
-&lt;li>Mechanical keyboard, 75% or 80% (tenkeyless, TKL)&lt;/li>
-&lt;li>Crowbar or wrecking bar&lt;/li>
-&lt;li>Chain mail&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>&lt;/li>
-&lt;li>Casio F-91W, preferably black&lt;/li>
-&lt;/ul>
-&lt;section class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1" role="doc-endnote">
-&lt;p>Not really, but you get the point.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:2" role="doc-endnote">
-&lt;p>I prefer pre-loved, secondhand, or used stuff,
+Please email me first if you plan to give me any of these stuff.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;New 6- or 9-cell battery for Thinkpad X220&lt;/li&gt;
+&lt;li&gt;New battery for MSI Wind U123&lt;/li&gt;
+&lt;li&gt;Raspberry Pi (any model), used and in good working condition&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;IBM Thinkpad T40, used and in good working condition.
+&lt;a href=&#34;https://ohio.araw.xyz/old-laptop#ibm-thinkpad-t40&#34;&gt;More info in this log&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Apple Magsafe 1 L-type power adapter.
+&lt;a href=&#34;https://ohio.araw.xyz/old-laptop#apple-power-adapter&#34;&gt;More info in this log&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;LCD or LED computer monitor, used and in good working condition&lt;/li&gt;
+&lt;li&gt;Corded hammer drill, used and in good working condition&lt;/li&gt;
+&lt;li&gt;e-ink reader, used and in good working condition&lt;/li&gt;
+&lt;li&gt;Mechanical keyboard, 75% or 80% (tenkeyless, TKL)&lt;/li&gt;
+&lt;li&gt;Crowbar or wrecking bar&lt;/li&gt;
+&lt;li&gt;Chain mail&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Casio F-91W, preferably black&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Not really, but you get the point.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I prefer pre-loved, secondhand, or used stuff,
 because I want to extend their life span.
-Also, I don&amp;rsquo;t expect, nor do I encourage, people to give me newly bought hardware.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li id="fn:3" role="doc-endnote">
-&lt;p>Against random stabbing&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/section></description></item><item><title/><link>https://ohio.araw.xyz/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ohio.araw.xyz/cv/</guid><description>&lt;h1 id="ohio-quilbio-olarte">&lt;strong>Ohio Quilbio Olarte&lt;/strong>&lt;/h1>
-&lt;p>Email: &lt;a href="mailto:ohio@araw.xyz">ohio@araw.xyz&lt;/a>&lt;br>
-Website: ohio.araw.xyz&lt;/p>
-&lt;h2 id="summary">SUMMARY&lt;/h2>
-&lt;p>Aspiring to forward more sustainable solutions and technologies for a more inclusive future.
+Also, I don&amp;rsquo;t expect, nor do I encourage, people to give me newly bought hardware.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Against random stabbing&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ohio.araw.xyz/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohio.araw.xyz/cv/</guid>
+      <description>&lt;h1 id=&#34;ohio-quilbio-olarte&#34;&gt;&lt;strong&gt;Ohio Quilbio Olarte&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:ohio@araw.xyz&#34;&gt;ohio@araw.xyz&lt;/a&gt;&lt;br&gt;
+Website: &lt;a href=&#34;https://ohio.araw.xyz&#34;&gt;https://ohio.araw.xyz&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;SUMMARY&lt;/h2&gt;
+&lt;p&gt;Aspiring to forward more sustainable solutions and technologies for a more inclusive future.
 Detail-oriented and highly motivated Electrical Engineer with a track record of completing construction-related projects.
 Reputation for collaborating effectively with people from diverse backgrounds and levels.
-Demonstrated strengths include:&lt;/p>
-&lt;ul>
-&lt;li>Project Management (end-to-end)&lt;/li>
-&lt;li>Quality Engineering (QS, QA)&lt;/li>
-&lt;li>Customer Relationship Management&lt;/li>
-&lt;li>Communication Skills&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="professional-history">PROFESSIONAL HISTORY&lt;/h3>
-&lt;p>&lt;strong>Jones Lang LaSalle (Philippines), Inc. &amp;mdash; Assistant Project Manager&lt;/strong>&lt;br>
-&lt;em>December 2017 &amp;ndash; February 2021&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>As an Assistant Project Manager, I am responsible for coordinating with all stakeholders (Designers, Consultants, Contractors, and other Vendors) in implementing the activities of each project to ensure that cost, schedule, document control, and quality standards of evolving real estate industry are met.&lt;/li>
-&lt;li>As each developing project requires at least a working knowledge of every trade in engineering, I guarantee to be up to date with the latest standards and codes of the industry, and can confidently address any concern that may arise on site.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Archen Technologies, Inc. &amp;mdash; Project Engineer&lt;/strong>&lt;br>
-&lt;em>June 2015 &amp;ndash; Novemeber 2017&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>Archen, the engineering arm of San Miguel Corporation, got me on board as a Project Engineer, when they were expanding their Oil &amp;amp; Gas operations nationwide.
-During this time, I learned more about electrical and mechanical engineering, as well as project management.&lt;/li>
-&lt;li>Together with different Petron groups all over the archipelago, I managed projects from their conceptualization to completion, amounting to Php 300 million on my first year alone.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="other-activities">OTHER ACTIVITIES&lt;/h3>
-&lt;p>&lt;strong>Siliman University &amp;mdash; Research Assistant&lt;/strong>&lt;br>
-&lt;em>May &amp;ndash; June 2021&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>The research, lead by Dr. Jorge Emmanuel, was about &lt;em>Zero Waste Sari-sari Store Models&lt;/em>,
-a study that aims to help small sari-sari stores transition &lt;em>away&lt;/em> from plastic use.&lt;/li>
-&lt;li>As research assistants, my colleagues and I went to a low-income barangay in Quezon City,
-and conducted interviews with store owners and their customers with the help of survey forms and guide questionnaires.&lt;/li>
-&lt;li>Data collected were then compiled using various pieces of software,
-including Microsoft Office programs, and basic Unix Shell Scripting.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h3 id="education--training">EDUCATION &amp;amp; TRAINING&lt;/h3>
-&lt;p>Python 3+ &amp;mdash; Automate the Boring Stuff &amp;mdash; Jun 2020&lt;br>
-Project Management &amp;mdash; JLL MyDevelopment &amp;mdash; Jan 2020&lt;br>
-People Management &amp;mdash; JLL MyDevelopment &amp;mdash; Mar 2020&lt;br>
-Construction Safety and Health Course &amp;mdash; JLL MyDevelopment &amp;mdash; Sep 2019&lt;br>
-Registered Electrical Engineer &amp;mdash; Philippine Regulatory Commission &amp;mdash; Sep 2014&lt;br>
-BSc. Electrical Eng&amp;rsquo;g &amp;mdash; Technological University of the Philippines &amp;mdash; Mar 2014&lt;br>
-Academic Scholar &amp;mdash; Department of Science and Technology SEI &amp;mdash; AY 2009-2014&lt;/p>
-&lt;hr>
-&lt;h3 id="languages">LANGUAGES&lt;/h3>
-&lt;dl>
-&lt;dt>Human&lt;/dt>
-&lt;dd>Filipino (native), English (fluent in speaking and writing)&lt;/dd>
-&lt;dt>Computer&lt;/dt>
-&lt;dd>Unix Shell Scripting (basic), C (basic), Python 3+ (basic), HTML + CSS (basic)&lt;/dd>
-&lt;/dl>
-&lt;h3 id="hobbies">HOBBIES&lt;/h3>
-&lt;p>Reading, Creative Endeavors, Computer Programming, Cycling, Repair and Upcycling, Watching Films, Web Development&lt;/p></description></item><item><title>Log</title><link>https://ohio.araw.xyz/log/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ohio.araw.xyz/log/</guid><description/></item><item><title>Projects</title><link>https://ohio.araw.xyz/project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ohio.araw.xyz/project/</guid><description/></item></channel></rss>
+Demonstrated strengths include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Project Management (end-to-end)&lt;/li&gt;
+&lt;li&gt;Quality Engineering (QS, QA)&lt;/li&gt;
+&lt;li&gt;Customer Relationship Management&lt;/li&gt;
+&lt;li&gt;Communication Skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;professional-history&#34;&gt;PROFESSIONAL HISTORY&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Jones Lang LaSalle (Philippines), Inc. &amp;mdash; Assistant Project Manager&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;December 2017 &amp;ndash; February 2021&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As an Assistant Project Manager, I am responsible for coordinating with all stakeholders (Designers, Consultants, Contractors, and other Vendors) in implementing the activities of each project to ensure that cost, schedule, document control, and quality standards of evolving real estate industry are met.&lt;/li&gt;
+&lt;li&gt;As each developing project requires at least a working knowledge of every trade in engineering, I guarantee to be up to date with the latest standards and codes of the industry, and can confidently address any concern that may arise on site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Archen Technologies, Inc. &amp;mdash; Project Engineer&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;June 2015 &amp;ndash; Novemeber 2017&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Archen, the engineering arm of San Miguel Corporation, got me on board as a Project Engineer, when they were expanding their Oil &amp;amp; Gas operations nationwide.
+During this time, I learned more about electrical and mechanical engineering, as well as project management.&lt;/li&gt;
+&lt;li&gt;Together with different Petron groups all over the archipelago, I managed projects from their conceptualization to completion, amounting to Php 300 million on my first year alone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;other-activities&#34;&gt;OTHER ACTIVITIES&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Siliman University &amp;mdash; Research Assistant&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;May &amp;ndash; June 2021&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The research, lead by Dr. Jorge Emmanuel, was about &lt;em&gt;Zero Waste Sari-sari Store Models&lt;/em&gt;,
+a study that aims to help small sari-sari stores transition &lt;em&gt;away&lt;/em&gt; from plastic use.&lt;/li&gt;
+&lt;li&gt;As research assistants, my colleagues and I went to a low-income barangay in Quezon City,
+and conducted interviews with store owners and their customers with the help of survey forms and guide questionnaires.&lt;/li&gt;
+&lt;li&gt;Data collected were then compiled using various pieces of software,
+including Microsoft Office programs, and basic Unix Shell Scripting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;education--training&#34;&gt;EDUCATION &amp;amp; TRAINING&lt;/h3&gt;
+&lt;p&gt;Python 3+ &amp;mdash; Automate the Boring Stuff &amp;mdash; Jun 2020&lt;br&gt;
+Project Management &amp;mdash; JLL MyDevelopment &amp;mdash; Jan 2020&lt;br&gt;
+People Management &amp;mdash; JLL MyDevelopment &amp;mdash; Mar 2020&lt;br&gt;
+Construction Safety and Health Course &amp;mdash; JLL MyDevelopment &amp;mdash; Sep 2019&lt;br&gt;
+Registered Electrical Engineer &amp;mdash; Philippine Regulatory Commission &amp;mdash; Sep 2014&lt;br&gt;
+BSc. Electrical Eng&amp;rsquo;g &amp;mdash; Technological University of the Philippines &amp;mdash; Mar 2014&lt;br&gt;
+Academic Scholar &amp;mdash; Department of Science and Technology SEI &amp;mdash; AY 2009-2014&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;languages&#34;&gt;LANGUAGES&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Human&lt;/dt&gt;
+&lt;dd&gt;Filipino (native), English (fluent in speaking and writing)&lt;/dd&gt;
+&lt;dt&gt;Computer&lt;/dt&gt;
+&lt;dd&gt;Unix Shell Scripting (basic), C (basic), Python 3+ (basic), HTML + CSS (basic)&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;hobbies&#34;&gt;HOBBIES&lt;/h3&gt;
+&lt;p&gt;Reading, Creative Endeavors, Computer Programming, Cycling, Repair and Upcycling, Watching Films, Web Development&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>https://ohio.araw.xyz/log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohio.araw.xyz/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ohio.araw.xyz/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohio.araw.xyz/project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

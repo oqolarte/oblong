@@ -6,8 +6,10 @@ draft: false
 ---
 ## Status: On-going {.statusOnGoing}
 
-The making of this site is itself a personal project. 
-Here in this oversized Colophon I will discuss how and, most importantly, why this all was conceived.
+The making of this site is itself a personal project.
+In this oversized Colophon,
+I'll tell you about my brutalist website,
+the design of which is an accurate depiction of my knack for simplicity.
 
 The status is likely to stay **on-going**;
 this site is always under construction.
@@ -224,6 +226,31 @@ Hugo ships with internal templates that I have disabled because they either viol
 
 To have a privacy-centered configuration, I followed [this documentation](https://gohugo.io/about/hugo-and-gdpr/) and [disabled all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
 
+### nginx
+
+[nginx](https://nginx.org/en/) ("engine X"), is an HTTP and reverse proxy server.
+To meet defensive security standards,
+I have the snippet in my server configuration:
+
+```shell
+server {
+        server_name ohio.araw.xyz ;
+        root /var/www/ohio.araw.xyz ;
+        index index.html index.htm index.nginx-debian.html ;
+        add_header Content-Security-Policy "default-src 'self';" always;
+        add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" always;
+        add_header X-Frame-Options "SAMEORIGIN";
+        add_header X-XSS-Protection 1;
+        add_header X-Content-Type-Options nosniff;
+        location / {
+                try_files $uri $uri/ =404 ;
+        }
+}
+```
+
+With this,
+my site scores `A+` in [Mozilla Observatory](https://observatory.mozilla.org/).
+
 ## Inspiration
 
 In high school, computer lab was not my favorite, and I'm okay with that.
@@ -248,18 +275,6 @@ Here are some other sites from which I got inspiration:
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 - [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
 - And other small, obscure personal websites that we have yet to discover.
-
-## To-Do
-
-Here's a wishlist of sorts that I need to do for this site:
-- [X] Purchase a proper domain name for this site
-- [X] Move away from GitHub Pages and host somewhere else, [preferably on a machine I own]({{< ref "/project/server.md" >}}).
-GitHub has become more bloated over the years.
-I'd like to step away from that.
-- [X] Have TLS certificate, preferably from [Let's Encrypt](https://letsencrypt.org), because there's really no excuse to use just HTTP
-- [ ] Get at least a score of 50 on Mozilla's [HTTP Observatory](https://observatory.mozilla.org/)
-
-When all of the items in this (growing) list is ticked off, this TODO segment will be deleted.
 
 [^ads]: That's just a wild claim.
 I have no proof of it *yet*, but absence of evidence doesn't mean evidence of absence, *no*?

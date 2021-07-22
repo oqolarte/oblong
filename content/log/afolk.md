@@ -37,7 +37,7 @@ For posterity, here are the specs:
 
 It's rusty on some joints, and it may need some minor adjustments,
 but I like it!
-As long as it can transport me between two or more multiple points,
+As long as it can transport me between two or more points,
 I'm good.
 
 [^crmo]: Chromoly steel is a type of low alloy steel

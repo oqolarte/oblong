@@ -7,13 +7,15 @@ draft: false
 
 **"Prosperity always lives in many open-handed souls"** is my go-to maxim these days.[^1]
 
+If you're reading this,
+thank you for considering to support what I do online.
+
 I'm always polishing my projects listed in this site,
 so that they're updated, and more importantly,
 as accessible to as many as possible.
 
-I have also put up a [list of interesting project ideas]({{< ref "di-why.md" >}}) that, depending on circumstances, I may or may not pursue.
-
-Consider supporting my work if you find it helpful or enjoyable:
+I have also put up a [list of interesting project ideas]({{< ref "di-why.md" >}}) that,
+depending on circumstances, I may or may not pursue.
 
 ## Financial support
 - [Liberapay](https://liberapay.com/oqo_frxbj/donate)
@@ -39,12 +41,10 @@ Please email me first if you plan to give me any of these stuff.
 - LCD or LED computer monitor, used and in good working condition
 - Corded hammer drill, used and in good working condition
 - e-ink reader, used and in good working condition
-- Road bike, or fixed-gear bike, preferably with [unstealable components](https://youtu.be/VPmcge4yKxU) but in good working condition
 - Mechanical keyboard, 75% or 80% (tenkeyless, TKL)
 - Crowbar or wrecking bar
 - Chain mail[^chain]
 - Casio F-91W, preferably black
-
 
 [^1]: Not really, but you get the point.
 [^used]: I prefer pre-loved, secondhand, or used stuff,

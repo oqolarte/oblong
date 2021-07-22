@@ -1,7 +1,7 @@
 ---
 title: "The Old Computer Challenge"
 date: 2021-07-10T13:21:43+08:00
-keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
+keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "old computer", "using old computer", "unix", "openbsd on old computer", "openbsd"]
 draft: false
 ---
 ## Status: Done {.statusDone}
@@ -20,9 +20,7 @@ For example, I didn't limit my RAM to 512MB.
 Doing so, in my case, would result in a terrible experience.
 
 I'm recommissioning the MSI Wind Netbook for this project,
-the same laptop that I originally planned to be my [homebrew server](/server.md).
-
-Here are the specs of what I'm dealing with:
+the same laptop that I originally planned to be my [homebrew server](/server).
 
 ## Hardware
 
@@ -53,6 +51,47 @@ Think far-flung rural areas.
 
 For anyone who cares, here's [dmesg](/dmesg.txt) for more details about my system.
 
+### Crippled by Microsoft
+
+One of the Challenge's participants, matto, [mentioned](gopher://box.matto.nl/0/one-week-with-freebsd-13-on-an-acer-aspire-one-zg5-part-one.txt) (gopher link[^gopher]):
+
+> Microsoft came up with some crazy requirements for netbooks,
+like too low RAM-size ceiling and a not too capable CPU.
+OEM manufacturers had to comply,
+to be allowed to put a less expensive netbook-version of Windows on it.
+
+I wouldn't be surprised if this were actually the case.
+And only a few searches later,
+indeed, in mid-2008, Computerworld reported[^ms1] about Microsoft's trojan horse:
+
+> Microsoft plans to offer PC makers steep discounts on Windows XP Home Edition
+to encourage them to use that OS instead of Linux on ultra low-cost PCs (ULPCs).
+To be eligible, however,
+the PC vendors that make ULPCs must limit screen sizes to 10.2 inches
+and hard drives to 80G bytes, and they cannot offer touch-screen PCs.
+[...] Systems can have no more than [1 Gb RAM] and a single-core processor running at no more than 1Ghz.
+
+The RAM requirement may not have been applied to all netbooks,
+as evident by this very one that I used.
+
+Unsurprisingly, more than a year later, Microsoft's then-director of worldwide product marketing,
+Don Paterson condescended to consumers for wanting an affordable computer[^ms2] that's preinstalled with an outdated OS. 
+This either forced the netbook owners to shell out more money to upgrade to Windows 7,
+or keep the Windows XP.
+Whatever they choose, they'd be stuck with the same low-end hardware.
+
+
+[^ms1]: Shah, A. (2008, May 11). *Microsoft to limit capabilities of cheap laptops.* Computerworld. https://www.computerworld.com/article/2786595/microsoft-to-limit-capabilities-of-cheap-laptops.html
+
+[^ms2]: Clarke, G. (2009, November 12). Windows XP on netbooks to lose life support? The Register. https://www.theregister.com/2009/11/12/microsoft_windows_7_netbooks/
+
+[^gopher]: Gopher protocol is an old internet protocol.
+Unless you install a specific plugin,
+modern web browsers, like Chrome or Firefox,
+can't access the contents in gopher.
+`w3m` is one of the command-line browsers that are still available today that can access gopher.
+This is mentioned later in the article.
+
 ## Software
 
 I need software that requires minimal resources but still empowers the user to "do things."
@@ -73,8 +112,7 @@ The following are what I have in my netbook:
 - IRC client: [irssi](https://irssi.org)
 - Version Control: [git](https://git-scm.com)
 
-[^vi]: vi in OpenBSD is actually [nvi](https://www.bostic.com/vi/).
-vi works well (quickly) for editing config files.
+[^vi]: `vi` in OpenBSD is actually an implementation of [nvi](https://www.bostic.com/vi/).
 
 {{< figure src="/image/oldpc.png" alt="screenshot of system running tmux with neovim, pfetch, htop" caption="System captured with `scrot`" >}}
 
@@ -150,12 +188,12 @@ the actual sound coming out of the earphones that I use should be enough an indi
 
 ## Web Browsers
 
-The overrated portals to the internet, any maybe rightly so.
+The overrated portals to the internet, and rightly so.
 Subject of many online debates.
-Good thing that there are that can still run on limited hardware.
+Good thing that there are some that can still run on limited hardware.
 
 ### Text-based
-Text-based browsers are enough to connect me to the internet.
+Text-based (or more accurately, command line) browsers are enough to connect me to the internet.
 They are less resource intensive, unlike the GUI ones, and that's expected.
 
 However, it's only natural for my human eyes to want to look at pictures from time to time,
@@ -289,14 +327,16 @@ Got to talk with some of the cool people hanging out on `#old-computer-challenge
 
 I still use my four-year old phone during this project,
 but mainly for keeping in touch with friends and family.
-By today's standards, that too is an old computer.
+By today's standards, that too is an old computing device.
 
 So, in line with the project's theme,
-below is a short list of my device's noteworthy specs.
+below is a short list of my device's noteworthy specs,
+followed by some of the tools that I use regularly.
 
 ### Hardware
 - Phone: Samsung A7 (2017)
 - Chipset: Exynos 7880 (14 nm)
+- Memory: 32Gb internal storage, 3Gb RAM
 - CPU: Octa-core 1.9 GHz Cortex-A53
 - Main Camera: 16 MP, f/1.9, 27mm (wide), AF
 - Selfie Camera: 16 MP, f/1.9, 26mm (wide), 1/3.06", 1.0µm
@@ -304,7 +344,7 @@ below is a short list of my device's noteworthy specs.
 
 ### Software
 - Operating System: [Lineage OS 17.1](https://lineageos.org)
-- App Store: [F-Droid](https://f-droid.org/)
+- App Store: [F-Droid](https://f-droid.org/) (FOSS) and [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) (Google Play Store alternative)
 - Instant Messenger: [Signal](https://signal.org)
 - Launcher: [KISS](https://kisslauncher.com/)
 - Maps: [OsmAnd~](https://osmand.net/)
