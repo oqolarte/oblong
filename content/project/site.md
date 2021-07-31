@@ -129,6 +129,7 @@ So why this "distaste" for JS in websites?
 
 Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It's absence is definitely beneficial, because there's less code to maintain.
+Eliminating the excess, even in the form of code, does leave a positive impact via negativa.
 
 ### No Ads
 Only advertisers like ads[^ads].
@@ -274,7 +275,7 @@ Here are some other sites from which I got inspiration:
 - [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club), and even [1024b Club](https://1024b.club)
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 - [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
-- And other small, obscure personal websites that we have yet to discover.
+- And other small, obscure personal blogs in the "smol net" and "dork web" that we have yet to discover.
 
 [^ads]: That's just a wild claim.
 I have no proof of it *yet*, but absence of evidence doesn't mean evidence of absence, *no*?

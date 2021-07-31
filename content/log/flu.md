@@ -22,7 +22,7 @@ Any symptom that's slightly related to influenza is not to be taken lightly.
 
 However, then and now, pandemic and all,
 people's self-medication rely heavily on modern pharmaceuticals.
-Where our first-world contemporaries would seek medical help on theearliest signs of flu (in the context of Covid pandemic), 
+Where our first-world contemporaries would seek medical help on the earliest signs of flu (in the context of Covid pandemic), 
 here in our country,
 we would just rest it out in our homes.
 

@@ -1465,6 +1465,138 @@ The stuff coming out of your foul mouth was boiling like an ectoplasmic
 substance. You were just ugly. I thought of landing several fists on
 your face, but I couldn't. I just could not.
 
+### Entry # 70
+Date: Fri, 31 Jan 2014
+
+I see the curves and rolls, but none of them sticks to the heart.
+I see Mt. Fuji in every one of them.
+I look up and find it odd to say that none of them could really take me anywhere.
+They suffer the consistency of fluctuation.
+The movement of fashionistas impregnating their to-wear lists with high-end garments,
+but I won't do anything about it.
+It might have even occurred to me to begin to hate them and the way they gyrate at anything that juts up the trend,
+but no, I won't do that.
+Porcelain faces in horror movies have come out of the silver screen to haunt me during dawn.
+They evaporate and condense; they disintegrate and materialize.
+Stirrings are dragged down to the bottom by an unwanted enigma, and all
+the sediments pile up. The accumulated weight is a force enough to
+pressurize the amalgam into a hard slab. It is a mysterious event, if
+you really want to know.
+
+### Entry # 71
+Date: Sat, 01 Feb 2014
+
+Hunger encroaches me as I leave my core crooning on empty rambles.
+It wails like a cat, yearning, wanting comfort. But don't cats solve
+problems by themselves? They stoop on hot solids for warmth; they make
+themselves fit in narrow places for comfort. They are mathematicians,
+geniuses of the hexagonal cliques, indifferent to the happenings below
+and above them. So are my guts. My iron guts. My
+expanding-then-contracting-then-expanding-again guts. My forlorn,
+agitated, sweet, empty guts. My chemical guts. Well, if you wanted
+honesty, that's all *I* had to say.
+
+### Entry # 72
+Date: Sun, 02 Feb 2014
+
+I admire the discretion you like to keep in your circle, but have your
+eyes laid upon what's real? It's still out there. Compose all
+you want, but it does not do away the hunger and thirst, the lack of
+clothing.
+
+Mark of proboscis left pinkish dots on my legs last night, and that's
+nothing. When I was a youngster, I used to apply hydrogen peroxide on an
+open wound I got from a roach bite, and the infected area would fizzle
+like soda. Crummy! I used to chug down my old man's leftover drinks
+because I wanted to maximize our water consumption. That, or I simply
+wanted to prove something. Our lives were impeded by this kind of
+living. It was not my choice, however. There was no nobility in it, as
+you may have heard. Only instincts on loop.
+
+If you were annoyed by the extreme impoliteness of those you have
+touched with your keen sense of romance, then I don't get you or your
+kin. Your story are written in books so few I bet they're treasure. I
+will bring myself to this: you do *not* suck, oh perfected being.
+Although it shouldn't be anyone's nature, I cannot blame them for
+looking up to you with their sunglasses on. Again: you do not suck. Not
+the slightest bit. You do, however, contain somewhere in your core the
+need to obliterate. Golems will bow down before you. Totems will be
+erected in your presence. But you will be the storm that doesn't give a
+damn. For that, I will be secretly be battling against myself (again)
+for such is athletics, and athletics means endurance.
+
+Go back to the years of small talk, and you might just see what I have
+seen in the eyes of many. I know the alleys at night are quite dark, but
+the infection is real. Maybe an agua oxinada flashflood would come soon.
+
+### Entry # 73
+Date: Wed, 05 Feb 2014
+
+the thrash bin in my room was already seven days worth of garbage when
+my friend walked in. he quickly put a palm over his mouth and nose,
+perhaps awed as he couldn't help but notice the sight and smell.
+i told him it was rude to keep staring at my junk.
+
+### Entry # 74
+Date: Wed, 05 Feb 2014
+
+It was the musty atmosphere that makes those dots in the night sky
+shimmer with a faint fluctuation, giving the illusion of wonder. Glitter
+is fake, experts say. We wanted them to flicker, but that is not a
+hottie hot sure shot. And when the nights no longer show us the stars,
+we grow ignorant of so-and-so's such as how goes the process of
+whatever. Meaningless, and all shall be forced to commit to their faith.
+
+### Entry # 75
+Date: Wed, 05 Feb 2014
+
+A hot gust of vapor draws abstract murals from dust particles on
+decrepit vestiges. Invasive is the dust twister, momentous the amber, as
+restless as I, submitting all to droop under the shades. I've been
+waking early to long hours of stagnation, torn already and, come noon,
+odorous of mixed sweat and cheap perfume. This is a way of life that's
+supposed to be something good, but has gone otherwise. It would be
+helpful, though, if a sort-of god would fall from somewhere and start
+directing the flow of traffic---what goes where, which goes here. But no
+astral transfiguration would ever occur, however dire the problems are.
+For contingencies such as this, I must not resort into believing
+nonexistent deities but must possess a sound mind, instead.
+
+### Entry # 76
+Date: Thu, 06 Feb 2014
+
+I always feel as though I've forgotten something. That much is
+certain, though, that I've forgotten a great deal, but this nagging
+feeling of forgotten priority or importance is always there---that
+without remembering I stand to lose a great deal. So each moment
+becomes a struggle to remember. Remembering is easy, though, for me
+anyway. Or it once was, but it still seems to be. I choose to forget
+now. I spent the bulk of my childhood remembering, without choice,
+flowing into what I've become as an adult; if you forget, you're
+forgotten: undependable, dead-weight, uncaring. It all comes down to
+time---what we think about time---because remembering only matters in
+the context of promptness, that you remember when the time is nigh.
+Miss the moment and the remembering no longer matters, or not in the
+same way anyway (like *l'esprit d'escalier*). Keeping deadlines,
+delivering on demand, and giving people a reason to trust you with
+themselves: this is what remembering consists in. And I choose to
+forget. And that's inertia; that's death, the default setting we'll
+turn back to in the end. But writing is remembering, and, on some
+basic level, I think thought is too. So for now I'll sleep, forget all
+this, and you will too. Maybe I've forgotten that it's okay to forget,
+but I'm sure I'll forget that too, once it's time to remember again.
+
+### Entry # 77
+Date: Mon, 10 Feb 2014
+
+The busiest parts of the city are the dirtiest. The playground of imps.
+Vehicles bucking on bumpers upon bumpers; and drivers are not so
+different. Everyone's strategy: cut into line, be ahead.
+The smog causes a dull buzz below the folds of the forehead. I walked
+on calloused roads with a smile in my head. It seemed to be a good fuel
+for the core. On long and tiring treks along pavements with marred and
+tainted dimwits, if one must pursue one, I suggest keeping a slip of
+happy in the chink of the mind. Works wonders.
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -1497,3 +1629,4 @@ so please try to forgive me when I talk about them.
 1. Be mad, but be respectful still.
 1. **sext**: i will bang you like i bang my door---carefully
 1. any song can be a driving song if one is so willing to adjust the track and go with the crack.
+1. *got apprehended for smuggling liquor in the cemetery*, and other tales from the crypt

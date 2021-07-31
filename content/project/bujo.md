@@ -15,7 +15,7 @@ where things are slower and require more deliberation.
 
 If you're curious what this is, Ryder Carroll, the creator, explains it [here](https://bulletjournal.com/pages/learn).
 
-In this post, I discuss my setup, riffed from Carroll's minimal design.
+In this post, I discuss my bidirectional setup, riffed from a combination of Carroll's and others' minimal designs.
 This documentation also serves as future reference.
 
 Marked as **on-going** because I'm always revising my bujo ways.
@@ -48,11 +48,14 @@ Each module, or Collection, serves to organize related information...
 Accessing the notebook via "front door" means opening it in its proper orientation.
 Conversely, "back door" means the back cover of the notebook.
 
-All the logs are written from the front door going in.
+From one side, the front,
+all the logs---daily, monthly, future---are written.
 I don't put the Index in this side,
 because it's not often that I refer back to a Daily Log.
 
-Other Collections are written from the back door going in.
+For the other Collections,
+the bujo is flipped over,
+and writing starts from the back door going in.
 On this other side, I put the Index.
 I write the page number at the bottom corners of each page.
 
@@ -61,7 +64,10 @@ Sample of non-log Collections that I write from the back door:
 - instructions on how to do a recurring thing
 - listicles I hand-copied from the internet that I need to access offline
 
-The notebook is done when notes from the front and back finally meet in the middle.
+The notebook is done when two sides meet in the middle.
+
+This front-back split makes navigating easier.
+I know that the *chocolate crinkles* recipe would be in the back side of the bujo.
 
 ## Core Collections
 
@@ -104,6 +110,7 @@ red is a great day, violet is horrible day.
 ### Daily Log
 
 Bujo's bulk comprises Daily Logs.
+This is where it's at for me.
 
 As the day goes on, I update the log, adding and/or subtracting bullets.
 
