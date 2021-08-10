@@ -2,10 +2,10 @@
 Email: ohio@araw.xyz  
 Website: https://ohio.araw.xyz  
 
-## SUMMARY
-Aspiring to forward more sustainable solutions and technologies for a more inclusive future.
-Detail-oriented and highly motivated Electrical Engineer with a track record of completing construction-related projects.
-Reputation for collaborating effectively with people from diverse backgrounds and levels.
+## Career Objective
+
+I am aspiring to forward more sustainable solutions and technologies
+for a more inclusive future.
 Demonstrated strengths include:
 
 - Project Management (end-to-end)
@@ -15,54 +15,56 @@ Demonstrated strengths include:
 
 ---
 
-### PROFESSIONAL HISTORY
+## Work Experience
 
-**Jones Lang LaSalle (Philippines), Inc. --- Assistant Project Manager**  
-*December 2017 -- February 2021*
+**Kantar Philippines Inc. --- Associate Project Manager** (Current)
 
-- As an Assistant Project Manager, I am responsible for coordinating with all stakeholders (Designers, Consultants, Contractors, and other Vendors) in implementing the activities of each project to ensure that cost, schedule, document control, and quality standards of evolving real estate industry are met.
-- As each developing project requires at least a working knowledge of every trade in engineering, I guarantee to be up to date with the latest standards and codes of the industry, and can confidently address any concern that may arise on site.
+- Ensures delivery of a complete project to Operating Companies from inception
+  to completion
+- Proactively lists all the relevant internal and external information required
+  for the project
+- Executes project plans to ensure timely and accurate delivery of outcomes as
+  per Scope of Work
 
-**Archen Technologies, Inc. --- Project Engineer**  
-*June 2015 -- Novemeber 2017*
+**Jones Lang LaSalle (Philippines), Inc. --- Assistant Project Manager** (3 years)
 
-- Archen, the engineering arm of San Miguel Corporation, got me on board as a Project Engineer, when they were expanding their Oil & Gas operations nationwide.
-During this time, I learned more about electrical and mechanical engineering, as well as project management.
-- Together with different Petron groups all over the archipelago, I managed projects from their conceptualization to completion, amounting to Php 300 million on my first year alone.
+- Responsible for coordinating with all stakeholders (Designers, Consultants, Contractors, and other Vendors) in implementing the activities of each project to ensure that cost, schedule, document control, and quality standards of evolving real estate industry are met
+- Guaranteed all works to be up to date with the latest standards and codes of the industry, and confidently addressed any concern on site
 
----
+**Archen Technologies, Inc. --- Project Engineer** (2 years)
 
-### OTHER ACTIVITIES
-
-**Siliman University --- Research Assistant**  
-*May -- June 2021*  
-
-- The research, lead by Dr. Jorge Emmanuel, was about *Zero Waste Sari-sari Store Models*,
-a study that aims to help small sari-sari stores transition *away* from plastic use.
-- As research assistants, my colleagues and I went to a low-income barangay in Quezon City,
-and conducted interviews with store owners and their customers with the help of survey forms and guide questionnaires.
-- Data collected were then compiled using various pieces of software,
-including Microsoft Office programs, and basic Unix Shell Scripting.
+- In charge of planning and coordinating technical engineering initiatives for
+  Petron as they were expanding their Oil & Gas operations nationwide.
+- Managed projects from their conceptualization to completion, amounting to Php 300 million on my first year alone.
+- Documented and reported project progress to stakeholders
 
 ---
 
-### EDUCATION & TRAINING
-Python 3+ --- Automate the Boring Stuff --- Jun 2020  
-Project Management --- JLL MyDevelopment --- Jan 2020  
-People Management --- JLL MyDevelopment --- Mar 2020  
-Construction Safety and Health Course --- JLL MyDevelopment --- Sep 2019  
-Registered Electrical Engineer --- Philippine Regulatory Commission --- Sep 2014  
-BSc. Electrical Eng'g --- Technological University of the Philippines --- Mar 2014  
-Academic Scholar --- Department of Science and Technology SEI --- AY 2009-2014
+## Education and Training
+
+Registered Electrical Engineer --- Philippine Regulatory Commission  
+BSc. Electrical Eng'g --- Technological University of the Philippines  
+Academic Scholar --- Department of Science and Technology SEI  
+Python 3+ --- Automate the Boring Stuff  
+Project Management --- JLL MyDevelopment  
+People Management --- JLL MyDevelopment  
+Construction Safety and Health Course --- JLL MyDevelopment  
 
 ---
 
-### LANGUAGES
+## Community Involvement
+
+- Research Assistant -- Siliman University (1 month)
+- Contributor -- Greenpeace (4 years)
+
+---
+
+## Languages
 Human
 : Filipino (native), English (fluent in speaking and writing)  
 
 Computer
 : Unix Shell Scripting (basic), C (basic), Python 3+ (basic), HTML + CSS (basic)
 
-### HOBBIES
+## Hobbies
 Reading, Creative Endeavors, Computer Programming, Cycling, Repair and Upcycling, Watching Films, Web Development

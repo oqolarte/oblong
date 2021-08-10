@@ -17,6 +17,19 @@ as accessible to as many as possible.
 I have also put up a [list of interesting project ideas]({{< ref "di-why.md" >}}) that,
 depending on circumstances, I may or may not pursue.
 
+## Brain Support
+
+See any mistakes that I made?
+Perhaps you'd like to point out some factual deficiency in my reporting?
+Or typo error?
+I accept constructive criticisms,
+because I believe they help me grow and learn.
+
+If you just want to share ideas,
+my inbox welcomes those as well.
+
+Feel free to message me!
+
 ## Financial support
 - [Liberapay](https://liberapay.com/oqo_frxbj/donate)
 - [Paypal](https://paypal.me/oqolarte)

@@ -1598,6 +1598,360 @@ for the core. On long and tiring treks along pavements with marred and
 tainted dimwits, if one must pursue one, I suggest keeping a slip of
 happy in the chink of the mind. Works wonders.
 
+### Entry # 78
+Date: Mon, 10 Feb 2014
+
+I don't mind playing with people who listen drone tracks on
+YouTube for entertainment, because they're the ones who have interesting
+thoughts to share.
+
+I don't mind alpha beings of my social circle hexing me. I have
+done a lot of bad things, and a little curse from them would only serve
+as a reminder that I should do worse.
+
+I don't mind being missed by some chubby lass who happens to be one of
+the peers' leading darlings, even if she's just joking. I don't mind
+because I don't believe her. She's just being nice. Sometimes, I would
+like to think of myself as immune to such charms, but some charms
+develop new kind of strains that pass through my defense system.
+
+I don't mind not fitting anywhere with anyone, because no matter what I
+do, there will still be empty slots for me to get in.
+
+I don't mind being unable to patch this wanton bleeding with a remedial
+touch, for there will be appropriate hands willing to do that. I'll just
+have to hang on and look for them and hope it's not too late.
+
+### Entry # 79: *Carlin's Comical Cynicism's Carefully Corrupting*
+Date: Mon, 10 Feb 2014
+
+If you would tell me I am different, I would have to respond with the
+most improper inquiry, thus: Am I *differently* different, or am I
+*simply *different just like everybody else? It is my way, unintelligent
+though it may be, of possibly making you explain to me how I go
+noticeably about the realm of social anxiety and decrepitude.
+
+### Entry # 80
+Date: Tue, 11 Feb 2014
+
+(i am you. 
+
+*you* write what you like using understandable rhetoric strewn
+creatively, and you queue it because you don't simply give in to the
+impulse. you let yourself and your new-found ego cool down. you allow it
+to settle before telling if it's already good to get baked out there.
+
+minutes later, you read a fellow's recent post and in it you find a very
+similar understandable rhetoric you used in the one you just queued. you
+are now considering to reformat the whole thing but are slightly
+agitated, for doing so might mess it up.
+
+five seconds--what will you do, *you*?)
+
+### Entry # 81
+Date: Thu, 13 Feb 2014
+
+the things i would say to my kindergarten-self are definitive on their
+own. it's just that, this boy was past his time that he couldn't even look
+after his own or smell his morning breath. he would brush his teeth. he
+would smell of his parents' cologne, because to his senses,
+they reminded him of people who loved his every cell. he could
+tie his own shoelaces, and now look at him, tall enough to see what's
+over the fence.
+
+i am him. or more appropriately, i *was* him. to be honest, i white-lied
+when i/he said a paragraph ago that his idiocy in the vastness of the
+cosmic plane was noticeable, but such was not always the case. there
+were holes in him which were passed down as a genetic malnutrition to a
+much younger sibling, and had he been eager to fill them with something,
+he would have been a hole himself. but he is me now. and i am getting
+there, stronger daily, more unpredictable than my kindergarten-self.
+
+### Entry # 82
+Date: Fri, 21 Feb 2014
+
+And when something real cannot happen to people with glossy, fragile
+skins, or the natural flow of things does not provide them what they
+need or want, I have some explaining to do.
+
+People, including you and me, embalm their selves with the platitudes of
+comfort and lies, their disappointed when reality overpowers
+expectations. It's always a nasty feeling. Do not force a lid onto a
+boiling pot of stew.
+
+However they defy their insides, it will always be too repulsive, and
+instinctively, they will groan in disbelief. If they would find
+themselves more miserable than before,
+it could be that theirclothes don't fit anymore,
+and they who have endured the
+discomfort just to invigorate minds will no longer be known to the true
+ways of the world.
+
+### Entry # 83
+Date: Fri, 21 Feb 2014
+
+So cold a gaze chilled the feet and quashed the appeals to move. What
+freaky look this villain must have, impertinently so that it degraded
+the chap to a decrepit slab of dung. It provoked the heart of the
+panic-stricken victim to violent convulsions. The chap sought for warmth
+in him that might thaw his frozen figure, but none of it was found.
+Nothing but the peculiar sense of disability, as if the legs were stiff
+columns attached permanently to the perpendicular floor.
+
+### Entry # 84
+Date: Sat, 22 Feb 2014
+
+Snitches and their knack for uttering in cursed tongue the strangest of
+their gigs and affairs just to baffle those---maybe us---who are molded to
+live only in normalcy or less. This is evident everywhere I turn my head
+to, more so their ineffective disguise of their own tedious statures
+jeweled only so as to steer the optical inferences from the truth.
+
+I have tried to mingle with these porcelain-skinned hippos, observe
+their mannerisms from a fence, and---and this is for the future
+seedlings, so listen up---none of which are astonishing. I can get
+more hype from staring at a full moon. That shit gets me hanging all the
+time, not these bipeds. I will not be forcing an attempt sojourning
+about their living fantastic lives as such a thing is plain stupid and
+for paparazzi only. Theirs is a make-believe job and a perishable
+nobility. Plus, I can enjoy my own corner, with or without a
+dunce-labeled hennin.
+
+### Entry # 85
+Date: Sun, 23 Feb 2014
+
+Sweat was smelly underneath the clothes. Indeed, it was a race against
+the self, against his tigers that had lain dormant and have now trembled
+awake---the tormentors versus the tormented. He perished in discomfort.
+Knowing that his body had become the adversary did not help. Giving up
+was not an option, though. He dragged on continuously, careful not to
+lose concentration. With determination, he was convinced that this
+stupid skirmish was his to win. Vengeance and its squalor would be
+swift. The beasts must no longer clutch him by his entrails, and in its
+spot, belch subsiding, solace would emerge.
+
+### Entry # 86
+Date: Sun, 23 Feb 2014
+
+You are an entity I hear as the headphones speak to me in lyrical glum,
+you who have taken residence in the smug of a mind. I feel you as
+glowing lamp or a growing lump homing for the core.
+
+Too, I feel dispirited knowing your nearness is as far as you are, but
+the distance does not always matter, especially when things involved are
+beyond logical entanglement and scientific method. My eyes can only
+discern objects up to about 10 kilometers, yet the syntax of the
+physical stretch is making me sketch on the eyes. This itch requires
+them to be drugged with special milk drops as the lactose in them is
+rumored to reduce the redness of the sclera, although---who am I
+kidding?
+
+The mourning is over. The bills now pile up, and you have left the spot.
+However, as long as memories remain mine, I'll seek more of you in my
+clammy head, and less of the hopes that are stolen from me by the real
+icon of you here in my computer, and by fate.
+
+### Entry # 87
+Date: Mon, 24 Feb 2014
+
+The protests against needless use of fossil fuel proceed; however, as
+ignorance prevails, any rehabilitative efforts for a greener environment
+are only shelved in vain. We must be so amused to the collective fuzzing
+of cars in traffic, the lost watts they emit. We have this weird
+fascination for their kind of jamming.
+
+### Entry # 88
+Date: Tue, 25 Feb 2014
+
+The last of the chills crept up the last strings caught in the cobweb of
+a hair bundle. I am cold again; I thought the last phase of cold winds
+has gone down the enema meteoron, but it seems to have returned,
+checking on us if we have sunken enough to the lowest of our low. I am
+cold, but I don't need anyone sharing my cot. It is small and narrow,
+and I don't like sharing it with another human being. Besides, there is
+always that option of peering down deep into myself, back to the past,
+and it is proven to be more effective in keeping together the internal
+heat than to have some warm flesh next to mine.
+
+### Entry # 89
+Date: Wed, 26 Feb 2014
+
+the hardest part of finding myself in my own dream was, my ability
+to bend morphean gases was muted. in the arms of myself, i wailed in
+fright as i tried to outrun whatever it was that was after me. imagine
+me sprinting on a nether architectural abandoned ruins whilst hugging
+myself. i was a straitjacket away from being a hospital fugitive, and
+maybe the addition of such could have explained it better. it did not
+match any interpretations, and so it must have surpassed anyone's
+knowledge; however, i cannot be certain of this. and that, kids, was
+what made this dream a nightmare: uncertainty.
+
+### Entry # 90
+Date: Wed, 26 Feb 2014
+
+I see you evolve every time I visit you here. I see you grow, as time
+passes, more refreshing, the blur stuffier. The friendly aura is
+understandable, but friends in any form or shape in this region are made
+up of surges and of subconsciousness.
+
+This is a giveaway: your soul rests upon the blinding neon lights, but I
+don't believe in the existence of souls. They're just one of those terms
+people use as an excuse to be hyperbolic about whoever is no longer in
+the physical here. Whatever happiness or sadness or weariness you
+consume consumes me as well. We are here, and it is in this isolation we
+are linked.
+
+Any temperament is the result of the pushing and pulling of my
+imagination until it is almost imperfect. The flaws make you a better
+person than who you were the last time I was here.
+
+### Entry # 91
+Date: Fri, 28 Feb 2014
+
+There will be no more humiliation for the self, and I'll design
+something to extinguish this desire for personal affliction. Patience
+has helped me laugh again.
+
+If ever I mentioned once that I was not fond of changes, don't mind it.
+Transformation is either for the betterment or for the other way, and
+the process of how will it be hasn't swung by me yet. I am on my way
+there, however.
+
+### Entry # 92
+Date: Mon, 03 Mar 2014
+
+who went here but again another shadow all by her lonesome, an odd
+presence in the homestretch of valentine's. strange that her beauty
+didn't attract attention other than mine. yet i made no move. i've seen
+this face before. but the setting was inappropriate, and i bet the
+arcade boys would shoot me in the hoops if ever they found out that i
+was eyeing her.
+
+### Entry # 93
+
+nothingness is not really the conventional idea concerning the lack of
+everything. there is a lot going on in such a state; however, the things
+involved are of opposite magnitudes. hence, there is no net difference,
+no absolute sense. (haven't i said this before?)
+
+### Entry # 94
+Date: Tue, 18 Mar 2014
+
+Forward again through the slosh of nosy people who have always been
+imprudent when they step on feet unknown. Watch their faces smirk as you
+frown upon them. They never apologize, at least not with words. They
+just cock their heads slightly forward, a palm up. *Idiots*.
+Nevertheless, I could pass this as a reasonable excuse. Nowhere is safe.
+A fact.
+
+This is a daily routine to and from school. That inevitable commutation
+from point A to point B. I study people from a distance carefully. I
+could earn a degree called Bachelor of Science in Sociopathological
+Polyphasing---whatever that means. My hands on my pockets, sometimes
+always, sometimes never. There's no such thing as being too alert. It
+isn't comfortable anywhere near these people, in this kind of density.
+
+Fellow commuters do the same. They get lost. Lean on a dry wall, their
+hopes fleshing out their glimpses until they bleed out their entire
+sprites. In a place like this, I've always assumed a defensive tactic of
+not giving a whole bunch of heck to strangers. It seems to work. I seem
+to be alive.
+
+### Entry # 95
+Date: Sat, 22 Mar 2014
+
+I will tell you any of the jukebox jokes I heard from a recent elevator
+ride, but it is too foggy today, despite the climate, despite the
+counterclockwise rotation of an ethereal axis, to be telling local puns
+to someone who has no basic interest invested in me. I recall your
+fondness for stupidity-masked garbage-can comedians (which explains why
+you like oscar the grouch), but I am more of a cynical ass-hat rather
+than the funny guy you knew from years back.
+
+"You are the love of my life," said no one, not even me. "---but i will
+let you know every now and then that a good laugh makes it somehow a bit
+bearable." It is a good point. I like how it is pungent on my tongue,
+the way it clicks.
+
+Every time I make my way down the staircase, the spirits of the past
+keep pulling me back up to the first step. they know it will be hard all
+over again.
+
+(At the back, somebody is secretly paying attention to my maneuvers, but
+he's just a furry douche. He is bound to be like that. He will end up
+puking by the sewers one day and he will rejoice on ten meals a week. No
+one actually minds him; that is, in the conventional sense of
+mindfulness. He too is full of jokes. From birth until he gives his
+entire existence to this branch of the hyperspace. You will like him
+when you meet him.)
+
+Am I again on a trance? I have frequented this site since we decided to
+call it quits. The branches grow again, the leaves greener, the sense
+vaguer as usual.
+
+### Entry # 96
+Date: Tue, 25 Mar 2014
+
+how does one avoid not to tear up a bit upon hearing *Liebesträume No.
+3*? (and by 'tear up a bit' i mean not of tear/s spilling profusely out
+but a hidden vibration convulsing somewhere inside, like a muffled
+thunder of joy or something of the equivalent)
+
+### Entry # 97
+Date: Fri, 28 Mar 2014
+
+the coming of an indigo like the last track of *Interstellar 5555*
+extensively stretched to induce a hard drive malfunction. however, there
+is no hard drive; only a squishy organ of neurons lodged in its own
+cranial asylum, always on the brink of lacunar amnesia. the ability of
+how a person can remember to wait varies solely on the song being played
+on that blasted stereo. no song at all means impatience exponentially
+growing, invariably.
+
+this has been too long a wait for precipitation, too tiring an amble
+across the asphalt desert in search for an oasis. the batt on my phone
+is 2 minutes away from complete silence, and i have still to walk for at
+least 2 lifespans. in 2 minutes, i will be relying on the party in my
+head, and if that would be the case, shall i consider now formulating a
+long-walk mental mixtape?
+
+(there is no hidden punchline here. if that's what you've been waiting
+for, read this whole thing again.)
+
+### Entry # 98
+Date: Sun, 30 Mar 2014
+
+a circle has an infinite corner, not cornerless. a sphere numerous
+fringes, never an 'edgeless cube'. slenderman, therefore, instead of
+having no face, dons limitless visages where only one should be.
+
+### Entry ## 99
+Date: Tue, 01 Apr 2014
+
+Saved hopes are the very atoms of a place in full oscillation, working
+for something routine after routine until the system can provide not
+longer. They are the points in which we bound ourselves to rub over our
+limbs for bliss.
+
+Gone were the days that made me so proud about this place. Gone was its
+magnificence. The city swells; in it are torn people wanting to survive
+and to occasionally live. At even rarer instances, to laugh. It swells
+past harmonics, past all this noise, this wasteful waves of losses until
+it can no longer contain the blankness that would soon embalm every
+corner as soon as it ceases to pursue living.
+
+### Entry # 100
+Date: Sat, 05 Apr 2014
+
+the dream was: i was in a theater and the lights were already out. few minutes into the
+film, shadow figures came out; one in each entry halls and one in each
+fire exits (a total of four). the next moment, everything was
+illuminated with gunfire, and everyone fell down. i did not know how
+many were dead, but i was alive. when the spraying of bullets was over,
+i got up to look for the silhouettes, but it was as if they were never
+there. these kinds of nightmares make me want to wake up, but no matter
+the will, the body simply won't just snap out of it.
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -1630,3 +1984,18 @@ so please try to forgive me when I talk about them.
 1. **sext**: i will bang you like i bang my door---carefully
 1. any song can be a driving song if one is so willing to adjust the track and go with the crack.
 1. *got apprehended for smuggling liquor in the cemetery*, and other tales from the crypt
+1. smh: sending my henchmen
+1. where tensions are stronger, time seems slower
+1. poor guy wanted to be a baker, but sadly, he did not have enough dough.
+1. one is outside his/her own containment when tainted with the bacchanalian devils, and it is in this trance that his/her intelligence is hyped thither and yon.
+1. a booking at a hotel on the moon, a tour to pluto, an interstellar travel ticket---among the three, the third one *cosmos*.
+1. aren't bunnies supposed to be untalkative?
+1. wherever they may be, i hope to see them again.
+1. the best torrents are overrated.
+1. a lengthy correspondence that comprises unnecessary (amount of)
+dismissive remarks means brain matter is stretched, sometimes carefully,
+to its limits, usually an attempt to soothe one's ego.
+1. a rotten phoenix rises from the rashes
+1. the ambient to my hiphop, my jazz on bebop, but never the bieber of pop
+1. the trickiest part of being so hungry is when one is too tired to prepare one's food
+1. wondering what it is like to be near a lavender field

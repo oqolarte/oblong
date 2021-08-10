@@ -26,12 +26,21 @@ This site, then, is my digital garden.
 Expect that things will be corrected, deleted, edited, fed, *grown*, depending on any number of factors, including the current state of things.
 People change---they need to, lest they stagnate---and every fiber of their being changes with them, literally.
 
+Like a real garden, tending this one also relaxes me.
+It helps me reorganize my thoughts by weeding out
+what's unnecessary.
+
 ### Public Repository of Independent Research
 
 Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all. 
 Research, in this context, will be very different from that within academia.
 This "progressive" route bypasses the traditional way to earn a post-graduate degree.
 After reading [Nadia Eghbal](https://nadiaeghbal.com)'s post, "[Reimagining the PhD](https://nadiaeghbal.com/phd)," I'm now more inclined to do this.
+The downside is,
+I don't get a certification.
+But what are certifications anyway if not,
+for better or worse,
+a glorified piece of paper?
 
 I can't also imagine spending at least three years getting a master's degree, holding on to the fact that it's "necessary" to further my career.
 I am, more or less, happy with the opportunity cost of not dealing with it.
@@ -40,7 +49,6 @@ Instead of going through the application process for post-graduate studies, may 
 I hope you don't mind.
 
 I never liked receiving rejection emails, but I get that they're needed, in that they let me know that I can go on with other applications.
-
 At least, through this site, I (hopefully) wouldn't be receiving (unsolicited) rejection letters from anyone.
 
 Finally, having the public as my peer reviewer, I think, opens interesting avenues for the stakeholders (me and the public).
@@ -56,7 +64,7 @@ I can learn by doing, and sharing the entire process with you as I go.
 This site is divided into two main sections: **Log** and **Projects**.
 
 The Log, more than anything else, is a changelog of what has evolved since the last update.
-It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects. 
+It mainly captures the significant revisions in the busiest parts of the Site, which would be the Projects.
 Each Log will start with a changelog.
 After that, I'll try to incorporate some personal skits, in an attempt to add character.
 
@@ -66,15 +74,12 @@ Readers can click each topic in the ToC if they feel like jumping to that part a
 The write-ups will be a healthy blend of creative and technical writing, to prevent you from getting bored, something I won't afford to do in a formal setting.
 Of course, I'll include citations properly.
 
-The RSS feed, which tracks only the Log (which, as mentioned, tracks all the changes anyway), is a whole separate thing.
-I don't consider it a section of this site, though.
-It's only a link that you can copy and paste on your favorite RSS reader.
-
-A lot of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
+There's RSS (RDF [Resource Description Framework] Site Summary,
+or Really Simple Syndication), which is a web feed,
+to which readers can subscribe to get updated.
+To do that, one needs RSS readers.
+Alternatively, lots of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
 A web service is available along these lines: check out [RSS by email](https://rssby.email).
-
-BONUS: If you're like me, then you're already a fan of RSS.
-For the newsletters that you'd like to subscribe to *and* access them in your RSS reader (NOT on your email), you may want to look into [Kill the Newsletter](https://kill-the-newsletter.com/) service.
 
 ## Front-end
 
@@ -89,7 +94,7 @@ By simplifying the design, I'm making this site less bloated.
 This means that:
 - low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;
 - locations with poor internet connectivity can still browse the content;
-- I can also improve this site's accessibility by improving layout, among many other things;
+- improving accessibility is easier;
 - the site loads fast because of no tracking, no custom fonts; and,
 - no distractions.
 
@@ -195,13 +200,13 @@ But I'll take the massive freedom gains provided by SSGs[^SSG] anytime!
 
 ### Using Hugo
 
-Great Hugo tutorials abound online, in blog post and video formats.
+Great Hugo tutorials abound online, in blog posts and video formats.
 Some target new users;
 some have specific use cases in mind.
 
 However, like most tutorials online, they get outdated quickly.
 Sooner or later, reading the official documentation becomes necessary,
-as one can assume that it's updated.
+as one can safely assume that it's updated.
 
 As with everything else, it's important to be patient and willing to read the manual.
 In case you're stuck, you can also ask the community. 
@@ -217,9 +222,12 @@ After all, a tool is a tool.
 
 ### Disabling Internal Templates
 
-Hugo ships with internal templates that I have disabled because they either violate privacy, will add unnecessary bloat to the site, or both. They are:
+Hugo ships with internal templates that I have disabled
+because they have serious privacy issues,
+will add unnecessary bloat to the site,
+and I don't have any use for them. They are:
 - Google Analytics;
-- Disqus comments, a popular commenting system;
+- Disqus comments;
 - Instagram cards;
 - Twitter cards;
 - YouTube; and
@@ -270,8 +278,9 @@ I'd like to say that I dedicate this to my former self, who couldn't seem to gra
 As we rely on the internet for improving our collective knowledge,
 web designers and developers *must see to it* that everyone can access information, in spite of the current tech they have.
 
-Here are some other sites from which I got inspiration:
-- Low-tech Magazine, the [solar-powered one](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
+Here are some other sites from which I also got inspiration:
+
+- LOW←TECH MAGAZINE, the [solar-powered one](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
 - [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club), and even [1024b Club](https://1024b.club)
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 - [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
