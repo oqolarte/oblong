@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ohio.araw.xyz/az1/</loc>
-    <lastmod>2021-08-10T20:01:58+08:00</lastmod>
+    <loc>https://ohio.araw.xyz/lin/</loc>
+    <lastmod>2021-08-12T10:50:13+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/</loc>
+    <lastmod>2021-08-12T10:50:13+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/az1/</loc>
     <lastmod>2021-08-10T20:01:58+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/errands/</loc>
