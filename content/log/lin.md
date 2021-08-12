@@ -5,7 +5,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
 LinkedIn *is* a social networking site (SNS).
-Don't let anyone make you into believing otherwise.
+Don't let anyone make you believe otherwise.
 It's different, yes, in that it caters to the boring aspects of one's professional
 life.
 I only say boring because the platform never really appealed to me.
