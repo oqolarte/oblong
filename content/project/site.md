@@ -101,6 +101,56 @@ This means that:
 I consider these points important as they all relate to my current situation.
 In fact, websites should be guided by these principles.
 
+### Typography
+
+Many designers would argue that typography should elevate the content,
+and they'd be right.
+What I'm doing here may not be the best practice for professional typographers,
+but it gets the job done,
+i.e. serve readable content.
+
+And there are many ways to do that without compromising the overall experience
+of readers.
+
+I use *your* system's default font stack so your computer wouldn't
+need to look elsewhere to render the fonts.
+Well, technically, I prefer some fonts over others that you'll see in the next
+two code blocks, but in case your system
+doesn't have the fonts that I like, it falls back to the default typeface that
+it does have.
+
+I use serif for headings. This is the font stack that I use (as found in my
+CSS):
+
+```css
+h1,h2,h3,h4,h5,h6 {
+        font-family: Georgia, Palatino, serif;
+        line-height:1.2
+        }
+```
+
+And I use sans serif for body and the rest of the page.
+While I'm at it, I made sure that there's enough negative space around bodies of
+text.
+This is what I have in my CSS:
+
+```css
+body {
+        margin: 1em auto;
+        max-width: 40em;
+        padding: 0.7em;
+        font: 1.2em/1.5 Helvetica, Arial, Tahoma, sans-serif
+        }
+```
+
+Using serif for headings and sans serif for body gives a clear delineation which
+is which.
+Of course, the converse is true.
+Sans serif for headings and serif for body
+gives similar effect.
+It's just a matter of personal preference.
+At least, this point can be applied to the two languages I use, English and Filipino.
+
 ### Link Management
 
 Links in this site that have a northeast arrow ("↗" or "`\2197`" in CSS) right after them are *external links*, i.e. links that take the visitor out of this website.

@@ -1952,6 +1952,127 @@ i got up to look for the silhouettes, but it was as if they were never
 there. these kinds of nightmares make me want to wake up, but no matter
 the will, the body simply won't just snap out of it.
 
+### Entry # 101
+Date: Thu, 10 Apr 2014
+
+it's like in the video game, but to see it personally made it much worse
+an experience. to see from a safe distance the graduates being led to a
+pool of fire. each one literally jumped off from a ledge to their
+burning demise. the reward was fake. there was no reward. no one
+deserved to be convinced to take a leap towards something so inhumane.
+
+### Entry # 102
+Date: Sat, 12 Apr 2014
+
+i hope it doesn't come to a point in this warped timeline of ours when
+smarts would run away from us as we continue to ignore our stupid
+actions, that we would have to remove the plasters off the walls where
+bits of graffiti once were illegally imprinted.
+
+### Entry # 103
+Date: Sun, 13 Apr 2014
+
+talk about genetics, about patterns flourishing and going in and out of
+the blue, about architecture, landscapes, your travels, but please not
+again these old adages, these beat-up notions of yours on politics and
+religion. we all know it will take us a long time to get *there*, so
+please, let's talk about something else. i am tired of hearing your
+visions and seeing your soundless arguments. the horizon is an illusion,
+you do know, yes?
+
+### Entry # 104
+Date: Thu, 17 Apr 2014
+
+To let the joules die down even amid this season is pragmatic, but to
+what extent is it considered to be sane still? I get the occasional
+desire of diving in a pool of water. The reason behind this may have
+something to do with heat being related to fire, and fire being quenched
+by water, thinking that by diving into the blues will somehow lower our
+body temperature. However, this concept is only true in some cases. Not
+all the time does water extinguish fire, or in this case, body heat; is
+the water in the form of steam? Is it boiling? Is the water a hard block
+of polar ice? Think about it.
+
+### Entry # 105
+Date: Wed, 23 Apr 2014
+
+my swirling shit are internal yet damning all the same. the first three
+words in the previous sentence is just a phrase of mad idioms to equal
+that, um, "lamentation" i am currently experiencing that when expelled
+leaves me empty in the guts. most of the time, it's a relief to let it
+go, similar to the sensation one feels for expelling actual swirling
+shit.
+
+### Entry # 106
+Date: Mon, 28 Apr 2014
+
+so boundless was the poor man's want to leave that he forgot to look
+out, and was stuck instead in the misgivings and misleadings of the past
+and present for another week. if isn't obvious enough, let me tell you:
+it sucks.
+
+### Entry # 107
+Date: Mon, 28 Apr 2014
+
+Rudeness is as internally ubiquitous as every oscillating particle in
+our being, but being the sentient creatures that we are, committing such
+is more of a choice than a predetermined fate.
+
+### Entry # 108
+Date: Wed, 30 Apr 2014
+
+tell a parent that,
+for succumbing to the groundless notions of other
+people, you don't blame them for not gaining experience and, thus, not
+leveling up. it was when you last checked yourself on the mirror, hair
+so unkempt i swear ants are already stockpiling there for december, that
+you realized everything (and nothing) is the result of your knock-outs.
+look into yourself now. you will see a wooden drawer painted white. pull
+the top most compartment. when you check the files dated april 30^th^ of
+every year, notice that there is nothing out of place. in fact, there is
+nothing but but's.
+
+### Entry # 109: *choking jumpscare sequences*
+Date: Fri, 09 May 2014
+
+nightmarish distresses have me by the neck as each sends me to hysteria.
+blood gushes to throat, vehemently throbbing. i am left immobile and
+paralyzed, vulnerable to my own mind's freak shows. here are the latest
+ones:
+
+- A man in his suit named Lou stood sweating in front me.
+From his pocket, he drew what seemed like a dagger and quickly plunged the
+tool deep into his chest. He gurgled, wriggled, and died. Moreover,
+that he was in a suit and named Lou could be the closest I can be of
+getting Litt up.
+- VIP pass to a photoshoot of a famous fashion magazine. Semi-nude
+models sprung out of the wardrobe and into the set. Their eyes were
+as wide as their grins.
+- I poured hot water in a porcelain cup before thinking that "the heat
+is stupid." I let the cup be fully heated before I poured out the
+hot water. Then, I poured in ice cold water. The abrupt change in
+temperature caused the cup to crack, crumble, and shatter in my
+hands.
+
+### Entry # 110
+Date: Wed, 14 May 2014
+
+In the passing of time, I have read several articles about the truces
+between the upper and lower layers of forgetfulness, and how each fold
+is affecting the ones adjacent to it. But if I should re-type from
+memory the first two sentences of each article, I could be wrong.
+Memories are often misleading, and everyone knows that.
+
+Sometimes I listen to music to help me remember what I should have
+forgotten, a note assigned to each ego I have shed, one beat for every
+tooth I have misplaced. There are questions, too, that are triggered by
+some tracks, and usually, the answers to those are something about
+learning (or choosing not to) from the sections we divide to belong on
+the left side of spacetime line. As we skim the past, we will see traces
+of sound waves that bring out the melodies we long to disinfect but
+somehow cannot. Makes me wonder: Why bother re-tracking what is or are
+not anymore?
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -1999,3 +2120,7 @@ to its limits, usually an attempt to soothe one's ego.
 1. the ambient to my hiphop, my jazz on bebop, but never the bieber of pop
 1. the trickiest part of being so hungry is when one is too tired to prepare one's food
 1. wondering what it is like to be near a lavender field
+1. a place rigged with stupid and crazy might just be the inspiration you need, if you stayed long enough to become attached to it.
+1. fate looks back on itself as a franchise of human disillusionment because it is without doubt a product of another bored species.
+1. you are an out-of-date medicine i plan on ingesting just so i can get off this splitting headache.
+1. are the souls in heaven smiling perpetually?

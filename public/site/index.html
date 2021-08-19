@@ -39,6 +39,7 @@
     </li>
     <li><a href="#front-end">Front-end</a>
       <ul>
+        <li><a href="#typography">Typography</a></li>
         <li><a href="#link-management">Link Management</a></li>
         <li><a href="#no-javascript">No JavaScript?</a></li>
         <li><a href="#no-ads">No Ads</a></li>
@@ -131,6 +132,43 @@ This means that:</p>
 </ul>
 <p>I consider these points important as they all relate to my current situation.
 In fact, websites should be guided by these principles.</p>
+<h3 id="typography">Typography</h3>
+<p>Many designers would argue that typography should elevate the content,
+and they&rsquo;d be right.
+What I&rsquo;m doing here may not be the best practice for professional typographers,
+but it gets the job done,
+i.e. serve readable content.</p>
+<p>And there are many ways to do that without compromising the overall experience
+of readers.</p>
+<p>I use <em>your</em> system&rsquo;s default font stack so your computer wouldn&rsquo;t
+need to look elsewhere to render the fonts.
+Well, technically, I prefer some fonts over others that you&rsquo;ll see in the next
+two code blocks, but in case your system
+doesn&rsquo;t have the fonts that I like, it falls back to the default typeface that
+it does have.</p>
+<p>I use serif for headings. This is the font stack that I use (as found in my
+CSS):</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">h1</span><span style="color:#f92672">,</span><span style="color:#f92672">h2</span><span style="color:#f92672">,</span><span style="color:#f92672">h3</span><span style="color:#f92672">,</span><span style="color:#f92672">h4</span><span style="color:#f92672">,</span><span style="color:#f92672">h5</span><span style="color:#f92672">,</span><span style="color:#f92672">h6</span> {
+        <span style="color:#66d9ef">font-family</span>: Georgia, Palatino, <span style="color:#66d9ef">serif</span>;
+        <span style="color:#66d9ef">line-height</span>:<span style="color:#ae81ff">1.2</span>
+        }
+</code></pre></div><p>And I use sans serif for body and the rest of the page.
+While I&rsquo;m at it, I made sure that there&rsquo;s enough negative space around bodies of
+text.
+This is what I have in my CSS:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">body</span> {
+        <span style="color:#66d9ef">margin</span>: <span style="color:#ae81ff">1</span><span style="color:#66d9ef">em</span> <span style="color:#66d9ef">auto</span>;
+        <span style="color:#66d9ef">max-width</span>: <span style="color:#ae81ff">40</span><span style="color:#66d9ef">em</span>;
+        <span style="color:#66d9ef">padding</span>: <span style="color:#ae81ff">0.7</span><span style="color:#66d9ef">em</span>;
+        <span style="color:#66d9ef">font</span>: <span style="color:#ae81ff">1.2</span><span style="color:#66d9ef">em</span><span style="color:#f92672">/</span><span style="color:#ae81ff">1.5</span> Helvetica, Arial, Tahoma, <span style="color:#66d9ef">sans-serif</span>
+        }
+</code></pre></div><p>Using serif for headings and sans serif for body gives a clear delineation which
+is which.
+Of course, the converse is true.
+Sans serif for headings and serif for body
+gives similar effect.
+It&rsquo;s just a matter of personal preference.
+At least, this point can be applied to the two languages I use, English and Filipino.</p>
 <h3 id="link-management">Link Management</h3>
 <p>Links in this site that have a northeast arrow (&ldquo;↗&rdquo; or &ldquo;<code>\2197</code>&rdquo; in CSS) right after them are <em>external links</em>, i.e. links that take the visitor out of this website.
 Note: In iOS and iPadOS, this arrow becomes an emoji version of it.</p>
@@ -303,7 +341,7 @@ Comments, suggestions? Email me at <code>ohio&#xFF20;araw&#x2024;xyz</code><br>
 Helpful? Consider <a href="/support">supporting me</a>.<br>
 </p>
 <p>
-Back to 🏠<a href="/">Index</a> :: 📋<a href="/log">Log</a> :: 📚<a href="/project">Projects</a>
+Back to <a href="/">Index</a> :: <a href="/log">Log</a> :: <a href="/project">Projects</a>
 </p>
 
 
@@ -316,7 +354,7 @@ Back to 🏠<a href="/">Index</a> :: 📋<a href="/log">Log</a> :: 📚<a href="
 	Content license: <a href="http://creativecommons.org/licenses/by-sa/4.0/" >CC BY-SA 4.0</a>
 	<br>
 	<a href="https://250kb.club">250KB Club member</a>
-    <br>No cookies, scripts, trackers, and analytics. 😏
+    <br>No cookies, scripts, trackers, and analytics.
     <br>Ideas &#x21f6; Author &#8644; Opinions &#8603; Not-Author. <a href="/disclaimer/">More details here.</a>
 </footer>
 

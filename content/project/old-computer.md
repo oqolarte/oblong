@@ -124,6 +124,19 @@ Download them, and some other dependencies, in one go:
 newsboat nnn neovim mpv py3-pip \
 qutebrowser w3m-*-image webkitgtk4
 ```
+### Dotfiles
+
+Dotfiles are configuration files for various programs,
+so named because their names usually begin with a dot,
+meaning that they're hidden,
+unless specified otherwise.
+
+[`.cwmrc`](/cwmrc)  
+[`.exrc`](/exrc)  
+[`.vimrc`](/vimrc)  
+[`.kshrc`](/kshrc)  
+[`.tmux.conf`](/tmux)  
+[`.xsession`](/xsession)  
 
 ## Window Manager
 
@@ -148,6 +161,7 @@ I find cwm more pleasant to use than fvwm.
 
 I didn't want the console log to open every time I log in,
 so I commented it out of the `/etc/X11/Xenodm/Xsetup_0` file.
+
 
 ## Terminal Emulator
 
@@ -277,7 +291,7 @@ I `git` my files for version control.
 
 I even blogged daily during the course of this Challenge,
 to feel what it's like to compose texts on this electric typewriter.
-Here are the logs so far:
+Here were the logs:
 - [Day 1: Signs of Aging](/aging)
 - [Day 2: Haircut](/haircut)
 - [Day 3: Trese](/trese)

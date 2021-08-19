@@ -1,0 +1,29 @@
+map <F8> :setlocal spell! spelllang=en_us<CR>
+
+" fix closest previous spell error
+" zg a word to add to local dictionary
+imap <c-f> <c-g>u<Esc>[s1z=`]a<c-g>u
+nmap <c-f> [s1z=``
+
+" :help option(-list)
+set nocp bs=2 cot= hid is sm vb nu rnu t_Co=256 ai ts=4 et tm=50 enc=utf-8 fenc=utf-8 fencs=utf-8 udf udir=/tmp pa+=** wmnu
+set list lcs=nbsp:¬,tab:»·,trail:·,extends:>
+
+let g:netrw_banner=0
+let g:netrw_browse_split=4
+let g:netrw_altv=1
+let g:netrw_liststyle=3
+let g:netrw_list_hide=netrw_gitignore#Hide()
+let g:netrw_list_hide.=',\(^\|\s\s\)\zs\.\S\+'
+
+let g:python2_host_prog = '/usr/local/bin/python'
+let g:python3_host_prog = '/usr/local/bin/python3'
+
+filetype off
+syntax on
+
+" Set syntax highlighting for specific file types
+autocmd BufRead,BufNewFile *.md set filetype=markdown
+
+" auto wrap at 80 chars for markdown
+autocmd BufRead,BufNewFile *.md setlocal textwidth=80

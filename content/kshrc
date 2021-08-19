@@ -15,7 +15,7 @@ alias du='du -ch'
 alias kshrc='nvim ~/.kshrc'
 alias zxcv='doas halt -p'
 alias qwer='doas reboot'
-alias hugc='hugo --cleanDestinationDir --gc --minify'
+alias hugc='hugo --cleanDestinationDir --gc'
 alias hs='hugo server'
 alias moon='curl wttr.in/moon'
 alias wea='curl wttr.in'
@@ -25,7 +25,6 @@ alias gita='git add .'
 alias gitca='git commit -a'
 alias gitpp='git push -u origin main'
 alias gito='eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_ed25519'
-alias suckless='doas make uninstall && doas make install'
 
 # show contents of dir after changing to it
 function cd {

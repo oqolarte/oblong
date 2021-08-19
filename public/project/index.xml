@@ -112,7 +112,18 @@ Download them, and some other dependencies, in one go:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;# pkg_add firefox git gmake go irssi hugo \
 newsboat nnn neovim mpv py3-pip \
 qutebrowser w3m-*-image webkitgtk4
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;window-manager&#34;&gt;Window Manager&lt;/h2&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;dotfiles&#34;&gt;Dotfiles&lt;/h3&gt;
+&lt;p&gt;Dotfiles are configuration files for various programs,
+so named because their names usually begin with a dot,
+meaning that they&amp;rsquo;re hidden,
+unless specified otherwise.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ohio.araw.xyz/cwmrc&#34;&gt;&lt;code&gt;.cwmrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://ohio.araw.xyz/exrc&#34;&gt;&lt;code&gt;.exrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://ohio.araw.xyz/vimrc&#34;&gt;&lt;code&gt;.vimrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://ohio.araw.xyz/kshrc&#34;&gt;&lt;code&gt;.kshrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://ohio.araw.xyz/tmux&#34;&gt;&lt;code&gt;.tmux.conf&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://ohio.araw.xyz/xsession&#34;&gt;&lt;code&gt;.xsession&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;window-manager&#34;&gt;Window Manager&lt;/h2&gt;
 &lt;p&gt;I initially opted for &lt;a href=&#34;https://dwm.suckless.org&#34;&gt;dwm&lt;/a&gt;,
 because that&amp;rsquo;s my favorite.
 However, every time I boot into it,
@@ -216,7 +227,7 @@ it&amp;rsquo;s all I use.
 I &lt;code&gt;git&lt;/code&gt; my files for version control.&lt;/p&gt;
 &lt;p&gt;I even blogged daily during the course of this Challenge,
 to feel what it&amp;rsquo;s like to compose texts on this electric typewriter.
-Here are the logs so far:&lt;/p&gt;
+Here were the logs:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/aging&#34;&gt;Day 1: Signs of Aging&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/haircut&#34;&gt;Day 2: Haircut&lt;/a&gt;&lt;/li&gt;
@@ -2118,6 +2129,107 @@ many were dead, but i was alive. when the spraying of bullets was over,
 i got up to look for the silhouettes, but it was as if they were never
 there. these kinds of nightmares make me want to wake up, but no matter
 the will, the body simply won&amp;rsquo;t just snap out of it.&lt;/p&gt;
+&lt;h3 id=&#34;entry--101&#34;&gt;Entry # 101&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 10 Apr 2014&lt;/p&gt;
+&lt;p&gt;it&amp;rsquo;s like in the video game, but to see it personally made it much worse
+an experience. to see from a safe distance the graduates being led to a
+pool of fire. each one literally jumped off from a ledge to their
+burning demise. the reward was fake. there was no reward. no one
+deserved to be convinced to take a leap towards something so inhumane.&lt;/p&gt;
+&lt;h3 id=&#34;entry--102&#34;&gt;Entry # 102&lt;/h3&gt;
+&lt;p&gt;Date: Sat, 12 Apr 2014&lt;/p&gt;
+&lt;p&gt;i hope it doesn&amp;rsquo;t come to a point in this warped timeline of ours when
+smarts would run away from us as we continue to ignore our stupid
+actions, that we would have to remove the plasters off the walls where
+bits of graffiti once were illegally imprinted.&lt;/p&gt;
+&lt;h3 id=&#34;entry--103&#34;&gt;Entry # 103&lt;/h3&gt;
+&lt;p&gt;Date: Sun, 13 Apr 2014&lt;/p&gt;
+&lt;p&gt;talk about genetics, about patterns flourishing and going in and out of
+the blue, about architecture, landscapes, your travels, but please not
+again these old adages, these beat-up notions of yours on politics and
+religion. we all know it will take us a long time to get &lt;em&gt;there&lt;/em&gt;, so
+please, let&amp;rsquo;s talk about something else. i am tired of hearing your
+visions and seeing your soundless arguments. the horizon is an illusion,
+you do know, yes?&lt;/p&gt;
+&lt;h3 id=&#34;entry--104&#34;&gt;Entry # 104&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 17 Apr 2014&lt;/p&gt;
+&lt;p&gt;To let the joules die down even amid this season is pragmatic, but to
+what extent is it considered to be sane still? I get the occasional
+desire of diving in a pool of water. The reason behind this may have
+something to do with heat being related to fire, and fire being quenched
+by water, thinking that by diving into the blues will somehow lower our
+body temperature. However, this concept is only true in some cases. Not
+all the time does water extinguish fire, or in this case, body heat; is
+the water in the form of steam? Is it boiling? Is the water a hard block
+of polar ice? Think about it.&lt;/p&gt;
+&lt;h3 id=&#34;entry--105&#34;&gt;Entry # 105&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 23 Apr 2014&lt;/p&gt;
+&lt;p&gt;my swirling shit are internal yet damning all the same. the first three
+words in the previous sentence is just a phrase of mad idioms to equal
+that, um, &amp;ldquo;lamentation&amp;rdquo; i am currently experiencing that when expelled
+leaves me empty in the guts. most of the time, it&amp;rsquo;s a relief to let it
+go, similar to the sensation one feels for expelling actual swirling
+shit.&lt;/p&gt;
+&lt;h3 id=&#34;entry--106&#34;&gt;Entry # 106&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 28 Apr 2014&lt;/p&gt;
+&lt;p&gt;so boundless was the poor man&amp;rsquo;s want to leave that he forgot to look
+out, and was stuck instead in the misgivings and misleadings of the past
+and present for another week. if isn&amp;rsquo;t obvious enough, let me tell you:
+it sucks.&lt;/p&gt;
+&lt;h3 id=&#34;entry--107&#34;&gt;Entry # 107&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 28 Apr 2014&lt;/p&gt;
+&lt;p&gt;Rudeness is as internally ubiquitous as every oscillating particle in
+our being, but being the sentient creatures that we are, committing such
+is more of a choice than a predetermined fate.&lt;/p&gt;
+&lt;h3 id=&#34;entry--108&#34;&gt;Entry # 108&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 30 Apr 2014&lt;/p&gt;
+&lt;p&gt;tell a parent that,
+for succumbing to the groundless notions of other
+people, you don&amp;rsquo;t blame them for not gaining experience and, thus, not
+leveling up. it was when you last checked yourself on the mirror, hair
+so unkempt i swear ants are already stockpiling there for december, that
+you realized everything (and nothing) is the result of your knock-outs.
+look into yourself now. you will see a wooden drawer painted white. pull
+the top most compartment. when you check the files dated april 30^th^ of
+every year, notice that there is nothing out of place. in fact, there is
+nothing but but&amp;rsquo;s.&lt;/p&gt;
+&lt;h3 id=&#34;entry--109-choking-jumpscare-sequences&#34;&gt;Entry # 109: &lt;em&gt;choking jumpscare sequences&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Date: Fri, 09 May 2014&lt;/p&gt;
+&lt;p&gt;nightmarish distresses have me by the neck as each sends me to hysteria.
+blood gushes to throat, vehemently throbbing. i am left immobile and
+paralyzed, vulnerable to my own mind&amp;rsquo;s freak shows. here are the latest
+ones:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A man in his suit named Lou stood sweating in front me.
+From his pocket, he drew what seemed like a dagger and quickly plunged the
+tool deep into his chest. He gurgled, wriggled, and died. Moreover,
+that he was in a suit and named Lou could be the closest I can be of
+getting Litt up.&lt;/li&gt;
+&lt;li&gt;VIP pass to a photoshoot of a famous fashion magazine. Semi-nude
+models sprung out of the wardrobe and into the set. Their eyes were
+as wide as their grins.&lt;/li&gt;
+&lt;li&gt;I poured hot water in a porcelain cup before thinking that &amp;ldquo;the heat
+is stupid.&amp;rdquo; I let the cup be fully heated before I poured out the
+hot water. Then, I poured in ice cold water. The abrupt change in
+temperature caused the cup to crack, crumble, and shatter in my
+hands.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;entry--110&#34;&gt;Entry # 110&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 14 May 2014&lt;/p&gt;
+&lt;p&gt;In the passing of time, I have read several articles about the truces
+between the upper and lower layers of forgetfulness, and how each fold
+is affecting the ones adjacent to it. But if I should re-type from
+memory the first two sentences of each article, I could be wrong.
+Memories are often misleading, and everyone knows that.&lt;/p&gt;
+&lt;p&gt;Sometimes I listen to music to help me remember what I should have
+forgotten, a note assigned to each ego I have shed, one beat for every
+tooth I have misplaced. There are questions, too, that are triggered by
+some tracks, and usually, the answers to those are something about
+learning (or choosing not to) from the sections we divide to belong on
+the left side of spacetime line. As we skim the past, we will see traces
+of sound waves that bring out the melodies we long to disinfect but
+somehow cannot. Makes me wonder: Why bother re-tracking what is or are
+not anymore?&lt;/p&gt;
 &lt;h3 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h3&gt;
 &lt;p&gt;Tweet-like witticisms back in the day.&lt;/p&gt;
 &lt;ol&gt;
@@ -2165,6 +2277,10 @@ to its limits, usually an attempt to soothe one&amp;rsquo;s ego.&lt;/li&gt;
 &lt;li&gt;the ambient to my hiphop, my jazz on bebop, but never the bieber of pop&lt;/li&gt;
 &lt;li&gt;the trickiest part of being so hungry is when one is too tired to prepare one&amp;rsquo;s food&lt;/li&gt;
 &lt;li&gt;wondering what it is like to be near a lavender field&lt;/li&gt;
+&lt;li&gt;a place rigged with stupid and crazy might just be the inspiration you need, if you stayed long enough to become attached to it.&lt;/li&gt;
+&lt;li&gt;fate looks back on itself as a franchise of human disillusionment because it is without doubt a product of another bored species.&lt;/li&gt;
+&lt;li&gt;you are an out-of-date medicine i plan on ingesting just so i can get off this splitting headache.&lt;/li&gt;
+&lt;li&gt;are the souls in heaven smiling perpetually?&lt;/li&gt;
 &lt;/ol&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
@@ -3034,6 +3150,43 @@ This means that:&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;I consider these points important as they all relate to my current situation.
 In fact, websites should be guided by these principles.&lt;/p&gt;
+&lt;h3 id=&#34;typography&#34;&gt;Typography&lt;/h3&gt;
+&lt;p&gt;Many designers would argue that typography should elevate the content,
+and they&amp;rsquo;d be right.
+What I&amp;rsquo;m doing here may not be the best practice for professional typographers,
+but it gets the job done,
+i.e. serve readable content.&lt;/p&gt;
+&lt;p&gt;And there are many ways to do that without compromising the overall experience
+of readers.&lt;/p&gt;
+&lt;p&gt;I use &lt;em&gt;your&lt;/em&gt; system&amp;rsquo;s default font stack so your computer wouldn&amp;rsquo;t
+need to look elsewhere to render the fonts.
+Well, technically, I prefer some fonts over others that you&amp;rsquo;ll see in the next
+two code blocks, but in case your system
+doesn&amp;rsquo;t have the fonts that I like, it falls back to the default typeface that
+it does have.&lt;/p&gt;
+&lt;p&gt;I use serif for headings. This is the font stack that I use (as found in my
+CSS):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h4&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h5&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h6&lt;/span&gt; {
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;font-family&lt;/span&gt;: Georgia, Palatino, &lt;span style=&#34;color:#66d9ef&#34;&gt;serif&lt;/span&gt;;
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;line-height&lt;/span&gt;:&lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;
+        }
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And I use sans serif for body and the rest of the page.
+While I&amp;rsquo;m at it, I made sure that there&amp;rsquo;s enough negative space around bodies of
+text.
+This is what I have in my CSS:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt; {
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;margin&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt;;
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;max-width&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;40&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;0.7&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
+        &lt;span style=&#34;color:#66d9ef&#34;&gt;font&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt; Helvetica, Arial, Tahoma, &lt;span style=&#34;color:#66d9ef&#34;&gt;sans-serif&lt;/span&gt;
+        }
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Using serif for headings and sans serif for body gives a clear delineation which
+is which.
+Of course, the converse is true.
+Sans serif for headings and serif for body
+gives similar effect.
+It&amp;rsquo;s just a matter of personal preference.
+At least, this point can be applied to the two languages I use, English and Filipino.&lt;/p&gt;
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
 &lt;p&gt;Links in this site that have a northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are &lt;em&gt;external links&lt;/em&gt;, i.e. links that take the visitor out of this website.
 Note: In iOS and iPadOS, this arrow becomes an emoji version of it.&lt;/p&gt;
