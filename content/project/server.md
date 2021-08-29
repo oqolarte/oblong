@@ -185,8 +185,14 @@ At any point during the installation, type `?` to list the possible choices.
 
 ### Set up wi-fi and ethernet networks
 
-Before doing anything else, it's important to be connected to the internet.
+Before doing anything else, it's important to be connected to the
+internet.[^catch22]
 This is to update any firmwares (using `fw_update`) and patches (using `syspatch`).
+
+[^catch22]: Note that you might encounter a problematic situation
+in which you need to install the firmware, e.g. for your wifi card,
+but you need a working network connection to do that.
+A workaround is discussed in the following sections.
 
 #### Ethernet
 Most OpenBSD developers recommend using ethernet if it's available.

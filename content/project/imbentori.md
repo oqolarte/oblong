@@ -661,7 +661,7 @@ them up, to debunk the surrounding myths, to suffer from our
 recklessness, and to procure among the ruins that glistening wisdom I
 assumed to have possessed but never actually had.
 
-### Entry #26
+### Entry # 26
 Date: Sun, 01 Dec 2013
 
 I have not yet involved myself in a physically intimate act,
@@ -2073,6 +2073,71 @@ of sound waves that bring out the melodies we long to disinfect but
 somehow cannot. Makes me wonder: Why bother re-tracking what is or are
 not anymore?
 
+### Entry # 111
+Date: Fri, 23 May 2014
+
+the crisp in one's face becomes crinkled upon agreeing with the internal
+faction of the self to set out on a trek away from the living
+standardized by the norms of the environs. 
+only a philosophy founded on empirical accounts could have supported this
+belief.
+
+"it might work," one would say. (*what might work?*
+the crowd would ask. this time, however, one no longer pays
+attention to the whims of many.) and to believe it to be the road to
+recovery is one thing; it is another for it to actually work. if and
+when asked, one would openly admit that without professional assistance,
+the outcomes are blurry at best. if done right, it could act as a
+placebo; otherwise, a paraplegia of sorts. it really depends, this
+figure now thinks, on the setting of the journey and, ultimately, the
+destination.
+
+### Entry # 112
+Date: Tue, 27 May 2014
+
+i took off, leaving a few sweetened nothings to those who saw me on
+my way out, but there were busy spirits upstairs so absorbed in other
+things that i did not mind saying goodbye to them. i thought it was
+cool, disappearing like that, but it isn't. it was me breaking my own
+fingers, thinking the spasms would go unnoticed; immature and unclean.
+
+the 'spirits', via text, told me, "we didn't know you already left.
+say goodbye next time, will you? haha. take care."
+
+the message was so
+striking i cannot help but feel sorry for myself.
+again, my actions have
+let down the important people in my life.
+
+small regrets do add up to form an indelible one.
+futureSelf, if you're reading this, don't do it again.
+
+### Entry # 113
+Date: Wed, 28 May 2014
+
+the point of buying movie tickets is to have the best place in the
+theater, and in my opinion, that would be four to six rows from the first.
+apparently, many still prefer to watch from the balcony, the point of
+which i don't understand. isn't it the same as watching at home on a
+42" tv? if i were to spend my money on cinema, i'd make
+the most out of it by placing myself where the magic happens.
+
+however, i didn't want to argue with the couple who dragged me to go
+and watch the latest installment about mutants.
+after all, my ticket came from their money;
+and any intolerable situation that comes with good freebies i can
+purge later over the net. call it whining or complaining, whatever
+poisons your heart.
+
+### Entry # 114
+Date: Thu, 29 May 2014
+
+due to much contemplation, one eventually becomes wrought to the point
+where the skin hugs tightly the flesh. it grips around the neck and
+fatally damages the trachea. before submitting to the void, one expends
+the last calorie on one final thought: this is just a drill, and the
+sooner i comply, the better.
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -2124,3 +2189,16 @@ to its limits, usually an attempt to soothe one's ego.
 1. fate looks back on itself as a franchise of human disillusionment because it is without doubt a product of another bored species.
 1. you are an out-of-date medicine i plan on ingesting just so i can get off this splitting headache.
 1. are the souls in heaven smiling perpetually?
+1. i like my cartoons weird, if not childhood-bruising.
+1. drinking moonshine is nonsense, i believe.
+1. adding friends and family on social media might mean you can't
+post nonsense, cryptic texts on facebook ever again, including
+lyrics from your favorite indie bands, because they would think you're
+going off the charts again.
+1. *how to get out of a labyrinth*, and other amazing lifehacks [^maze]
+
+[^maze]: "technically speaking, labyrinths only have a single path, and
+(minotaurs aside) are fairly easy to navigate (as opposed to mazes
+that have dead ends and multiple, branching paths etc). this is your
+completely useless fact of the day."
+Thanks, [Tom](https://tkmk.tumblr.com)
