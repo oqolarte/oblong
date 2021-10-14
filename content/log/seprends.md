@@ -4,7 +4,7 @@ date: 2021-09-30T12:10:36+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
-My main laptop ("Ador") broke on me about a month ago now.
+My main laptop ("Ador") broke on me about a month ago now (as of writing this).
 Twice I ordered a replacement motherboard in Lazada, and twice the seller cancelled on me.
 They gave me no reasons.
 
@@ -16,7 +16,7 @@ What you can, keep a copy of it somewhere, kids!
 On the good side, I got to focus more on my newfound job.
 I career-shifted into it, so learning the new ways of working can be tricky, and requires my full attention.
 The thing is, even stripped down and minimal, I still find excuses to make Ador distract me. 
-Mainly, it's because of my RSS feed. 
+Mainly, it's because of my RSS feed.
 I like reading blogs and op-eds and people's technical perspectives on things that I find interesting.
 I call it Research when it adds value to me;
 mindless consumption when it doesn't.

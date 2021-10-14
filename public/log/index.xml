@@ -11,6 +11,50 @@
     
     
     <item>
+      <title>mSATA to USB Adapter: A Quick Mid-October Update</title>
+      <link>https://ohio.araw.xyz/q1/</link>
+      <pubDate>Thu, 14 Oct 2021 08:32:25 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/q1/</guid>
+      <description>&lt;p&gt;Late this afternoon, I just received the aforementioned adapter
+that I ordered from Shopee.
+I&amp;rsquo;ve been using mSATA SSD when Ador (a thinkpad X220) was still active.
+To access my current OS and files there, said adapter is needed.&lt;/p&gt;
+&lt;p&gt;This post is proof that my mSATA SSD and the adapter I bought
+works together.
+I booted into the OS installed in it via Isya&amp;rsquo;s Thinkpad T440, codename: Trader.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll see you in a bit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wake me up when September rends</title>
+      <link>https://ohio.araw.xyz/seprends/</link>
+      <pubDate>Thu, 30 Sep 2021 12:10:36 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/seprends/</guid>
+      <description>&lt;p&gt;My main laptop (&amp;ldquo;Ador&amp;rdquo;) broke on me about a month ago now (as of writing this).
+Twice I ordered a replacement motherboard in Lazada, and twice the seller cancelled on me.
+They gave me no reasons.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m typing this on the &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;old computer&lt;/a&gt; that I used last July.
+But this won&amp;rsquo;t get published until I figure out how to SSH into my server without my keys.
+A hard lesson, I guess, for me, and a reminder for you, to always have a back-up for everything.
+What you can, keep a copy of it somewhere, kids!&lt;/p&gt;
+&lt;p&gt;On the good side, I got to focus more on my newfound job.
+I career-shifted into it, so learning the new ways of working can be tricky, and requires my full attention.
+The thing is, even stripped down and minimal, I still find excuses to make Ador distract me.
+Mainly, it&amp;rsquo;s because of my RSS feed.
+I like reading blogs and op-eds and people&amp;rsquo;s technical perspectives on things that I find interesting.
+I call it Research when it adds value to me;
+mindless consumption when it doesn&amp;rsquo;t.
+Would you guess how many hours I had spent thoughtlessly perusing articles?&lt;/p&gt;
+&lt;p&gt;On the bad side, I&amp;rsquo;ve been using &lt;em&gt;only&lt;/em&gt; Windows, and all of its heavily restricting apps.
+Office 365 almost requires the user to be perpetually be online.
+I&amp;rsquo;m losing my Vim- and Unix-game here, people, help me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Creative Writing in a Second Language</title>
       <link>https://ohio.araw.xyz/cwsl/</link>
       <pubDate>Sun, 29 Aug 2021 08:25:50 +0800</pubDate>
