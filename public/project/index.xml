@@ -109,7 +109,7 @@ The following are what I have in my netbook:&lt;/p&gt;
 
 &lt;p&gt;Most of them are available in the official ports.
 Download them, and some other dependencies, in one go:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# pkg_add firefox git gmake go irssi hugo \
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# pkg_add firefox git gmake go irssi hugo \
 newsboat nnn neovim mpv py3-pip \
 qutebrowser w3m-*-image webkitgtk4
 &lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;dotfiles&#34;&gt;Dotfiles&lt;/h3&gt;
@@ -205,9 +205,9 @@ I use &lt;code&gt;mpv&lt;/code&gt;, &lt;code&gt;youtube-dl&lt;/code&gt;, and &lt
 but it&amp;rsquo;s outdated.
 It returns an error when I try downloading a video with it.
 I got the latest version from pip3 instead.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# pip3.8 install youtube-dl
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# pip3.8 install youtube-dl
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Download &lt;code&gt;ytfzf&lt;/code&gt;, a &amp;ldquo;POSIX script to find and watch YT videos from the terminal.&amp;rdquo;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ git clone https://github.com/pystardust/ytfzf
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ git clone https://github.com/pystardust/ytfzf
 $ cd ytfzf
 # make install
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;getting-the-latest&#34;&gt;Getting the latest&lt;/h2&gt;
@@ -250,7 +250,7 @@ because &lt;code&gt;make&lt;/code&gt; is really &lt;code&gt;clang&lt;/code&gt; i
 and &lt;code&gt;clang&lt;/code&gt; doesn&amp;rsquo;t compile &lt;code&gt;gh-cli&lt;/code&gt; (I&amp;rsquo;ve tried).&lt;/p&gt;
 &lt;p&gt;Then follow the &lt;a href=&#34;https://github.com/cli/cli/blob/trunk/docs/source.md&#34;&gt;instructions when installing from source&lt;/a&gt;,
 except do use &lt;code&gt;gmake&lt;/code&gt; when building and installing, like so:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;# gmake install
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# gmake install
 &lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/gh-cli.png&#34;
          alt=&#34;screenshot of tmux running gmake, htop, and scrot&#34;/&gt;&lt;figcaption&gt;
             &lt;p&gt;Compiling time compelled me to make lunch.&lt;/p&gt;
@@ -258,7 +258,7 @@ except do use &lt;code&gt;gmake&lt;/code&gt; when building and installing, like 
 &lt;/figure&gt;
 
 &lt;p&gt;Lastly, I followed the prompts after typing:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;$ gh auth login
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ gh auth login
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;irc&#34;&gt;IRC&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;ve been meaning to get into the internet relay chat, or IRC, for a long time now.
 I choose &lt;code&gt;irssi&lt;/code&gt; as my IRC client.
@@ -470,7 +470,7 @@ This is where it&amp;rsquo;s at for me.&lt;/p&gt;
 &lt;p&gt;As the day goes on, I update the log, adding and/or subtracting bullets.&lt;/p&gt;
 &lt;p&gt;My Daily Log is many things: a to-do list, a reminder, an analog Twitter, notepad, tracker, etc.&lt;/p&gt;
 &lt;p&gt;Below is the format I currently use:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;01 JAN, MON □ △ ◯ X
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;01 JAN, MON □ △ ◯ X
         AF: tosilog, coffee
         PF: sinigang na bangus, pakbet, brown rice
 
@@ -496,7 +496,7 @@ I list my meals during daytime (&lt;code&gt;AF&lt;/code&gt; or AM Food) and nigh
 I maintained Carroll&amp;rsquo;s bullet and signifier usage, with a bit of addition.
 I also used Mood Tracker symbols as signifiers in conjunction with a Note bullet.
 For example:
-&lt;pre&gt;&lt;code&gt;□ -   A flying cat was chasing me. Weird!
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;□ -   A flying cat was chasing me. Weird!
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I use □ as my Dream Tracker.
 When I use it as a signifier to a note,
 it becomes a Dream Log, in which I can write about the dream I had.
@@ -514,6 +514,26 @@ I simply write the start and end dates that the bujo served me,
 usually along the spine.
 I still keep them accessible,
 because I usually have some notes that I need to refer to from time to time.&lt;/p&gt;
+&lt;h2 id=&#34;what-about-digital-bullet-journal&#34;&gt;What about digital bullet journal?&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s entirely possible to use bujo in the digital space.
+In fact I use one, solely dedicated for work.&lt;/p&gt;
+&lt;p&gt;This work bujo incorporates ideas from &lt;a href=&#34;https://jeffhuang.com/productivity_text_file/&#34;&gt;Jeff Huang&amp;rsquo;s .txt file as productivity app&lt;/a&gt;,
+implemented using a plaintext editor.
+In this case, Notepad, since I use Windows for work.&lt;/p&gt;
+&lt;p&gt;Not only is it light on resources&amp;mdash;currently
+at 25 KB storing three months worth of logged info&amp;mdash;it&amp;rsquo;s
+easily portable, as many operating systems accept plaintext.&lt;/p&gt;
+&lt;p&gt;Mine is inventively named as &lt;code&gt;log.txt&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;separating-work-and-personal&#34;&gt;Separating Work and Personal&lt;/h3&gt;
+&lt;p&gt;In the ever increasing complexities of modern life,
+having boundaries can be helpful,
+especially when trying to maintain a work-life balance.&lt;/p&gt;
+&lt;p&gt;In this case, not only do we have physical
+but also computational boundaries, between Work and Personal life.
+This is important for me:
+my personal bujo won&amp;rsquo;t be cluttered with the hot mess that is my work;
+and my work bujo won&amp;rsquo;t distract me with personal stuff.&lt;/p&gt;
+&lt;p&gt;Do what works for you.&lt;/p&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;I only go the these subreddits: &lt;a href=&#34;https://old.reddit.com/r/BasicBulletJournals&#34;&gt;r/BasicBulletJournals&lt;/a&gt; and &lt;a href=&#34;https://old.reddit.com/r/BasicBulletJournals&#34;&gt;r/bujo&lt;/a&gt;.
 It&amp;rsquo;s because they tend to focus on utility and productivity, not on aesthetics.&lt;/p&gt;

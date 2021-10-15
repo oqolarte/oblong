@@ -1,0 +1,31 @@
+---
+title: "Semantics"
+date: 2021-10-15T04:11:36+08:00
+keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
+draft: false
+---
+- Added sections in [Bujo](/bujo)
+
+Some people are so hung up on using proper semantics,
+not realizing that humans,
+of varying experiences and struggles,
+will naturally find more creative ways to express themselves,
+even if it means "misusing" words and phrases.
+
+Some do it as a coping mechanism.
+Some do it for the lulz.
+Some do it to pave a path to creative enlightenment.
+
+It makes me wonder how linguists are trying to keep up with the evolution of
+language in real observable time.
+If you are one, please, I'm interested in hearing from you.
+
+However, that's a fine line to walk on.
+People may, knowingly or otherwise, co-opt terms from experiences and struggles
+beyond their own to push their agenda.
+Apart from it being inappropriate to say the least,
+we can tell from afar that such narrative lacks authenticity.
+
+Today's proverb:
+
+> Look here, lackey: Liu Kang's low kick to bloke's prick is low-key Loki.

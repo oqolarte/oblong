@@ -169,6 +169,35 @@ usually along the spine.
 I still keep them accessible,
 because I usually have some notes that I need to refer to from time to time.
 
+## What about digital bullet journal?
+
+It's entirely possible to use bujo in the digital space.
+In fact I use one, solely dedicated for work.
+
+This work bujo incorporates ideas from [Jeff Huang's .txt file as productivity app](https://jeffhuang.com/productivity_text_file/),
+implemented using a plaintext editor.
+In this case, Notepad, since I use Windows for work.
+
+Not only is it light on resources---currently
+at 25 KB storing three months worth of logged info---it's
+easily portable, as many operating systems accept plaintext.
+
+Mine is inventively named as `log.txt`.
+
+### Separating Work and Personal
+
+In the ever increasing complexities of modern life,
+having boundaries can be helpful,
+especially when trying to maintain a work-life balance.
+
+In this case, not only do we have physical
+but also computational boundaries, between Work and Personal life.
+This is important for me:
+my personal bujo won't be cluttered with the hot mess that is my work;
+and my work bujo won't distract me with personal stuff.
+
+Do what works for you.
+
 ## Inspiration
 
 I only go the these subreddits: [r/BasicBulletJournals](https://old.reddit.com/r/BasicBulletJournals) and [r/bujo](https://old.reddit.com/r/BasicBulletJournals).
