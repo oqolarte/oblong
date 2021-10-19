@@ -18,4 +18,4 @@ un-budging.
 
 How am I supposed to get food then?
 
-{{< figure src="/image/ed.jpeg" alt="cat between the lap and table" caption="Where else to go but here?" >}}
+{{< figure src="/image/ed.jpg" alt="cat between the lap and table" caption="Where else to go but here?" >}}
