@@ -11,6 +11,70 @@
     
     
     <item>
+      <title>Fixing Some Broken Images</title>
+      <link>https://ohio.araw.xyz/img403/</link>
+      <pubDate>Fri, 22 Oct 2021 10:48:16 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/img403/</guid>
+      <description>&lt;p&gt;I noticed recently that some of the images in this site were broken,
+that is, they didn&amp;rsquo;t show up.
+Before I push the updates to live,
+I always make sure that everything is looking the way I want them to.&lt;/p&gt;
+&lt;p&gt;However, just because it works on the local instance doesn&amp;rsquo;t mean it would work
+well in live.&lt;/p&gt;
+&lt;p&gt;Good thing that I make it a habbit to put alternative texts to all images in the
+site,
+so that&amp;rsquo;s what I was seeing instead.&lt;/p&gt;
+&lt;p&gt;After investigating and asking around&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;,
+I found that the problem was due to file permissions.&lt;/p&gt;
+&lt;h2 id=&#34;troubleshooting&#34;&gt;Troubleshooting&lt;/h2&gt;
+&lt;p&gt;In a modern browser (I use Firefox), I opened the network tab in the developer tools.
+I reloaded a localhost instance (&lt;code&gt;localhost:1313&lt;/code&gt; using &lt;code&gt;hugo server&lt;/code&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;),
+and the live website instance.
+I compared the requested paths.&lt;/p&gt;
+&lt;p&gt;On the broken images, they indicated 403 errors.&lt;/p&gt;
+&lt;h2 id=&#34;http-403&#34;&gt;HTTP 403&lt;/h2&gt;
+&lt;p&gt;HTTP 403 status code means &amp;ldquo;access forbidden&amp;rdquo;.
+With &amp;ldquo;forbidden&amp;rdquo; being the operative word,
+we can infer that the file exists in the server,
+it&amp;rsquo;s just that the server won&amp;rsquo;t serve the file to you
+because you&amp;rsquo;re not allowed to it.
+It&amp;rsquo;s different from HTTP status 404, which means &amp;ldquo;file not found&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;file-permissions&#34;&gt;File Permissions&lt;/h2&gt;
+&lt;p&gt;According to some folks I asked in the internet,
+this 403 errors is usually caused by access permission problems on ther server.&lt;/p&gt;
+&lt;p&gt;In my case, some of the files (images) that I pushed live to server were owned
+&lt;em&gt;only&lt;/em&gt; by my user account in my local machine.
+The server &amp;ldquo;respected&amp;rdquo; this, and, in effect, didn&amp;rsquo;t display these images.&lt;/p&gt;
+&lt;h3 id=&#34;changing-file-permissionsfp&#34;&gt;Changing File Permissions&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
+&lt;p&gt;To view permissions of all files in a folder, type &lt;code&gt;ls -la&lt;/code&gt; in the terminal.
+Broken images would look like the following:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;-rw------- oqo oqo &lt;span style=&#34;color:#ae81ff&#34;&gt;44486&lt;/span&gt; Feb  &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;  &lt;span style=&#34;color:#ae81ff&#34;&gt;2021&lt;/span&gt;  mi1.jpeg
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Make them viewable by using &lt;code&gt;chmod&lt;/code&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo chmod u&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;rw,g&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;r,o&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;r mi1.jpeg
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The ending result, with file permissions changed, would be:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;-rw-r--r-- oqo oqo &lt;span style=&#34;color:#ae81ff&#34;&gt;44486&lt;/span&gt; Feb  &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;  &lt;span style=&#34;color:#ae81ff&#34;&gt;2021&lt;/span&gt;  mi1.jpeg
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Many thanks to &lt;code&gt;/u/pm-me-your-nenen&lt;/code&gt; and &lt;code&gt;/u/diMario&lt;/code&gt; on Reddit for
+taking the time to answer my questions.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://ohio.araw.xyz/site/#using-hugo&#34;&gt;I use Hugo&lt;/a&gt; as my static site
+generator.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;More details in this tutorial
+&lt;a href=&#34;https://www.delftstack.com/howto/linux/how-to-change-file-permissions-in-linux/&#34;&gt;here&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hunger</title>
       <link>https://ohio.araw.xyz/hungered/</link>
       <pubDate>Tue, 19 Oct 2021 19:37:06 +0800</pubDate>
