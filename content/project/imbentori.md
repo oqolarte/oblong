@@ -2138,6 +2138,139 @@ fatally damages the trachea. before submitting to the void, one expends
 the last calorie on one final thought: this is just a drill, and the
 sooner i comply, the better.
 
+### Entry # 115
+Date: Mon, 02 Jun 2014
+
+The hot eastern breeze brings me again the smell of the dying spirit of
+a man who, at his drifting moments, prefers to be drunk than to be
+sober. He sends absurd messages about the value of family and friends,
+and the need to glorify a supreme being. Is this the manifestation of
+his ancient doings, to be a sorry figure he inflicted upon himself long
+ago, a silhouette among the sunny crowd that demands only pity because
+he can no longer afford one for himself?
+
+We throw first the ball far out the verdant field, hoping a loyal friend
+would get it for us. But that isn't how loyalty is determined. And so,
+having finally noticed that the ball is there and we are here, and no
+one else would retrieve it for us, we ourselves fetch what we have
+thrown. We are our own dogs, leashed, illogical. Why are we even willing
+to do even simple things for a greater authority? And, isn't this
+greater authority our own selves? We did not realize that early on. Too
+dumb, actually, to have thrown something away in the first place that we
+would want or need right away.
+
+This old man had thrown away his one life, and now, it's almost too late
+to think things over, especially that his mind smells foggy with brandy.
+
+### Entry # 116
+Date: Tue, 03 Jun 2014
+
+She sends an e-mail to her latest lover every time something important
+comes up. She is with us, but her mind is across time zones, the globe
+she spins as her own, wondering what he has bee doing. Is he eating junk
+food? Is he himself a piece of junk? Will he be sharing bread to help us
+out here in this tropical place? Her eyes dance to the bits of waiting,
+but can only be so patient. She waits for him to go online every night,
+and when he does, they would spend hours chatting about the things they
+already know. Hours of canned convo on loop. Why? Because people are
+dying to hear something familiar again.
+
+Everything is quickly becoming foreign to everyone. Even the space is
+altered constantly to blur tick after tick the visions of moments ago.
+Details are microscopic as observed from a perspective. Despite this,
+the world still feels the same, the grand blanket not threatened. Too
+many earthly heartaches, afraid of the known and unknown and all those
+in the un-categorized synapses.
+
+She looked beautiful yesterday, but an hour ago, she decayed a bit. So
+he must be updated, lest he recognizes this person of his interest no
+more.
+
+### Entry # 117
+Date: Mon, 23 Jun 2014
+
+The gaps themselves serve as tips on how to quantify the seemingly
+immeasurable stretch between two points. The tension does us a
+disservice and at the same time connects us at some caring level: a
+pull-here push-there mechanism we barely can integrate into our senses.
+Start convincing ourselves to put aside these variances, and instead,
+begin to nurture the remaining similarities, minute though they may be;
+here commences the series of stimulation where respect for the other
+becomes more pronounced through actions, growing little by little. The
+liking of personalities comes afterwards, being able to forget to look
+down on our altered views of living, finally agreeing at something
+compassionate or unique or otherworldly. --*No*, we will not admit that
+there is something more to this flimflam, but soon enough, we will lock
+ourselves in distressing passion, and whatnot.
+
+### Entry # 118
+Date: Tue, 03 Jun 2014
+
+Do some bad things for your own detox, but ultimately, you should not be
+so cruel to yourself. The frailty that is your own dumbness can subject
+you to hazards, but this does not always permit you to search for your
+things in the wrong places. In the mornings when the sun is hiding
+behind the vapors, have an apple or a banana or a coffee, or any other
+ABC's, because your purpose for yourself is to be in mint condition.
+most of the time, it is Monday. Do not look for your undergarments in
+the wrong pile of clothes. Have you forgotten where you placed them? Too
+bad. Somebody might have already bleached your granny boxers for you, in
+which case, set the said pile ablaze and seek solace from the warmth of
+its fire.
+
+### Entry # 119
+Date: Wed, 04 Jun 2014
+
+i rattled the crisp carcass on my head along with me not only because i
+needed it to confirm how dubious strangers can get (and i was right--two
+individuals gazed at me in a bad way), but also it doubles as an
+adorable protection from the sun (but i was wrong--my scalp almost
+burned). a bird can perch in the nest of my hair, and i would not mind.
+anyway, there was i walking towards a skinny buddy familiar only to keen
+senses, for after all these months that i have not seen him, he has not
+gained weight nor another strand of hair. he told me that not much has
+changed since last we met: him, slim and peculiar; i, outstanding only
+in implosion.
+
+we both complained about the thinning of the ozone.
+you see, in many ways we are similar. we grumble at anything of minute
+importance, from the dots of our being to the relevance of government,
+ans such and such. i was about to tell him this discernment, but when i
+looked over my shoulder, the guy was gone.
+
+the afternoon was deadly, nothing unusual. anything can disappear
+and anyone with asthma would want to disappear. i moved on.
+
+i went back to the old apartment, and therein stood a lovely parent
+waiting for me. she seemed more organic now. buddy and hogan[^b-and-h] have been moved out.
+our refrigerator was gone. most of the objects that we had
+were no longer there. she sold so many things. the living room was the
+only sentiment of this abode's previous splendor left, and even in that
+moment, it echoed the chills of the occupants who once had been screwing
+their lives there. "where is everybody?" i asked my mother. she did not
+speak. maybe she was disappointed, too. this rest house, this anthill,
+no more.
+
+[^b-and-h]: Run free and wild, Buddy and Hogan, wherever you are.
+
+### Entry # 120
+Date: Wed, 04 Jun 2014
+
+I will fail to distinguish the abilities of devices, if any, modern or
+imagined or both, that gauge the overall sinister receding to the
+specter of your ancestral genes. Temperate regions near your aura deny
+me the will to make the first step, primarily due to the conflict with
+what you discretely portray and with my lineage. 
+
+### Entry # 121
+Date: Mon, 09 Jun 2014
+
+you have survived the weekend through the mastery of pretension. but
+honestly, it's fine, given that you will remain true to yourself no
+matter the complications. it is understandable to rely now on any input,
+since you have been emptied by the malice and travails. if anything,
+struggle was a cyclone that came and went.
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -2196,6 +2329,9 @@ post nonsense, cryptic texts on facebook ever again, including
 lyrics from your favorite indie bands, because they would think you're
 going off the charts again.
 1. *how to get out of a labyrinth*, and other amazing lifehacks [^maze]
+1. fm static is a bandwidth a lot of negative feedback.
+1. the blue screen of death is a huge turn-off.
+1. you think it's petrichor, but really it's vitriol.
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
 (minotaurs aside) are fairly easy to navigate (as opposed to mazes
