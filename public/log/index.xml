@@ -11,6 +11,41 @@
     
     
     <item>
+      <title>Sunday Pares</title>
+      <link>https://ohio.araw.xyz/pares/</link>
+      <pubDate>Sun, 24 Oct 2021 20:50:55 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/pares/</guid>
+      <description>&lt;p&gt;Going on a short trip on a not-my-bike is better than not riding out on a Sunday afternoon.
+The weather isn&amp;rsquo;t so bad either, hijo.&lt;/p&gt;
+&lt;p&gt;I have mentally sketched my route based on the errands that I needed to do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;get the not-my-bike fixed so the rear wheel doesn&amp;rsquo;t wobble;&lt;/li&gt;
+&lt;li&gt;buy urinary S/O cat food;&lt;/li&gt;
+&lt;li&gt;eat beef pares at Pares House&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/pares.jpeg&#34;
+         alt=&#34;Garlic fried rice and beef pares&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;It&amp;rsquo;s an alright scene from the potato phone.&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Perhaps, they have less than ideal conditions on the premises,
+but the quality of the beef pares has been declining.
+It&amp;rsquo;s still good and edible, but at this rate,
+we might have to look elsewhere.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Location: 14.6324061, 121.0978921&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Second Shot of AZ in Full Effect</title>
       <link>https://ohio.araw.xyz/az2/</link>
       <pubDate>Sat, 23 Oct 2021 09:05:25 +0800</pubDate>
@@ -72,7 +107,10 @@ Broken images would look like the following:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;-rw------- oqo oqo &lt;span style=&#34;color:#ae81ff&#34;&gt;44486&lt;/span&gt; Feb  &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;  &lt;span style=&#34;color:#ae81ff&#34;&gt;2021&lt;/span&gt;  mi1.jpeg
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Make them viewable by using &lt;code&gt;chmod&lt;/code&gt;:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo chmod u&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;rw,g&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;r,o&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;r mi1.jpeg
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The ending result, with file permissions changed, would be:&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;or&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;644&lt;/span&gt; mi1.jpeg
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;They are the same.&lt;/p&gt;
+&lt;p&gt;The ending result, with file permissions changed, would be:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;-rw-r--r-- oqo oqo &lt;span style=&#34;color:#ae81ff&#34;&gt;44486&lt;/span&gt; Feb  &lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;  &lt;span style=&#34;color:#ae81ff&#34;&gt;2021&lt;/span&gt;  mi1.jpeg
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;

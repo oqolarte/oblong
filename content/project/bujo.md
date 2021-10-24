@@ -200,7 +200,7 @@ Do what works for you.
 
 ## Inspiration
 
-I only go the these subreddits: [r/BasicBulletJournals](https://old.reddit.com/r/BasicBulletJournals) and [r/bujo](https://old.reddit.com/r/BasicBulletJournals).
+I only go the these subreddits: [r/BasicBulletJournals](https://old.reddit.com/r/BasicBulletJournals) and [r/bujo](https://old.reddit.com/r/bujo).
 It's because they tend to focus on utility and productivity, not on aesthetics.
 
 And, of course, thanks to Ryder Carroll for sharing this method to the world *for free*.[^bujo]
