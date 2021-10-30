@@ -11,6 +11,64 @@
     
     
     <item>
+      <title>Frankenpad X225</title>
+      <link>https://ohio.araw.xyz/x225/</link>
+      <pubDate>Sat, 30 Oct 2021 03:51:58 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/x225/</guid>
+      <description>&lt;p&gt;Ador, my Thinkpad X220, got its motherboard (mobo) fried a little over two
+months ago.&lt;/p&gt;
+&lt;p&gt;In my research online, a Thinkpad X230 mobo could be a drop-in replacement.
+I only needed to modify some bits in the chassis,
+and the resulting &amp;ldquo;Frankenpad&amp;rdquo; should be better than X220.&lt;/p&gt;
+&lt;p&gt;I found &lt;a href=&#34;https://panacek.net/post/frankenpad_x225/&#34;&gt;this guide&lt;/a&gt; by a certain
+Jiri Panacek during my first
+round of research.
+But at the time of writing this, it returns a 403 Forbidden error.&lt;/p&gt;
+&lt;p&gt;Luckily, someone archived it in the Wayback Machine.
+You can visit the entirety of the guide &lt;a href=&#34;https://web.archive.org/web/20200124134623/https://panacek.net/post/frankenpad_x225/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Below the line are sections copied from the guide for my case.
+This will be my reference when I finally fix Ador with the X230 mobo I ordered.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;ThinkPad X230 is a generation update which shares many components with the previous X220 model.
+There are still some differences:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;new chicklet keyboard&lt;/li&gt;
+&lt;li&gt;slightly different palmrest&lt;/li&gt;
+&lt;li&gt;a mini DisplayPort instead of the full-size DisplayPort&lt;/li&gt;
+&lt;li&gt;most importantly, Ivy Bridge chipset which outperforms its older brother, especially when it comes to the integrated graphics card.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pros&#34;&gt;Pros:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ivy Bridge chipset with the official Windows 10 support&lt;/li&gt;
+&lt;li&gt;Improved graphics performance&lt;/li&gt;
+&lt;li&gt;Two USB 3.0 ports&lt;/li&gt;
+&lt;li&gt;Support for two external LCD screens plus one internal (with Mini Dock Plus Series 3)&lt;/li&gt;
+&lt;li&gt;Lenovo officially supports drivers for Windows 7, 8, 8.1 and 10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cons&#34;&gt;Cons:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;X230 is not officially compatible with x220 batteries (you need to flash the embedded controller)&lt;/li&gt;
+&lt;li&gt;You lose the CapsLock LED indicator on the keyboard&lt;/li&gt;
+&lt;li&gt;COA Windows sticker does not match the OS&lt;/li&gt;
+&lt;li&gt;TPFanControl does not show all sensors for the Ivy Bridge chipset&lt;/li&gt;
+&lt;li&gt;A weird hole around the mini DisplayPort connector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;process&#34;&gt;Process&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Obtain X230 mobo.&lt;/li&gt;
+&lt;li&gt;Replace thermal paste under CPU heatsink (optional but recommended).&lt;/li&gt;
+&lt;li&gt;Take laptop apart and replace the motherboard. &lt;a href=&#34;https://youtu.be/iJs01Q8EuDw&#34;&gt;Video (Youtube) reference&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thinkwiki.org/wiki/Install_Classic_Keyboard_on_xx30_Series_ThinkPads&#34;&gt;Modify the
+keyboard&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Put everything together.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hamishcoleman/thinkpad-ec&#34;&gt;Flash the EC controller&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Done!&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sunday Pares</title>
       <link>https://ohio.araw.xyz/pares/</link>
       <pubDate>Sun, 24 Oct 2021 20:50:55 +0800</pubDate>
