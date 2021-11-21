@@ -74,4 +74,4 @@ I don't miss the smell, and how it lingers on every surface, including my hair
 and skin.
 I don't miss how people move away from me because of said smell (stench,
 really).
-I don't miss the addiction, the financial costs to sustain it, the damage on my body it causes.
+I don't miss the addiction, the financial costs to sustain it, the damage on my body it has caused.

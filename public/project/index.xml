@@ -445,32 +445,32 @@ I know that the &lt;em&gt;chocolate crinkles&lt;/em&gt; recipe would be in the b
 &lt;p&gt;A spread is dedicated for each month of the year.&lt;/p&gt;
 &lt;p&gt;Mine contains the following, going from the left page to the right:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Calendar&lt;/strong&gt; of the month;&lt;/li&gt;
-&lt;li&gt;Below it, &lt;strong&gt;Upcoming&lt;/strong&gt; tasks and events for the month.
-These are usually migrated from the Future Log.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;strong&gt;Calendar&lt;/strong&gt;&amp;rdquo; of the month, implemented as one day per line;&lt;/li&gt;
+&lt;li&gt;On each day I write &lt;strong&gt;Daily Highlight/s&lt;/strong&gt;.
+I write a one- or two-sentence summary of what happened that day.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Habit Trackers&lt;/strong&gt; are also in here.
+Currently, I only track three habits.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Expenses tracker&lt;/strong&gt;, in which I list the expenses I make per day.
-I transfer this data to a spreadsheet in my computer, where the calculation takes place.
-This tracker serves as a reminder to be mindful of expenses, as well as a backup, in case something corrupts the spreadsheet.&lt;/li&gt;
-&lt;li&gt;The whole right page of the spread is dedicated for &lt;strong&gt;Daily Highlights&lt;/strong&gt;.
-I write one to two lines per day here.
-In the past, this was my &amp;ldquo;daily gratitude,&amp;rdquo;
-but I find it hard to be grateful everyday.&lt;/li&gt;
-&lt;li&gt;I also write a &lt;strong&gt;Monthly Review&lt;/strong&gt; at the end of each month,
+I transfer this data to a spreadsheet in my computer,
+where the calculation takes place.
+This tracker serves as a reminder to be mindful of expenses,
+as well as a backup, in case something corrupts the spreadsheet.&lt;/li&gt;
+&lt;li&gt;I also have a place for &lt;strong&gt;upcoming to-do&amp;rsquo;s&lt;/strong&gt;, tasks that don&amp;rsquo;t necessarily
+have a schedule yet.
+These usually are important but not urgent.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I also write a &lt;strong&gt;Monthly Review&lt;/strong&gt; at the end of each month,
 which I don&amp;rsquo;t place on the spread,
 but on the page after the last the Daily Log of the month.
 Here I try to talk about what happened to FORM (Friends and Family, Occupation, Recreation, Motivation) during the month.
-This is not a strict format, though.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I should also note that my I also incorporate my mood tracker in the calendar.
-I do this by highlighting the day with a color in the rainbow:
-red is a great day, violet is horrible day.&lt;/p&gt;
+This is not a strict format, though.&lt;/p&gt;
 &lt;h3 id=&#34;daily-log&#34;&gt;Daily Log&lt;/h3&gt;
 &lt;p&gt;Bujo&amp;rsquo;s bulk comprises Daily Logs.
 This is where it&amp;rsquo;s at for me.&lt;/p&gt;
 &lt;p&gt;As the day goes on, I update the log, adding and/or subtracting bullets.&lt;/p&gt;
 &lt;p&gt;My Daily Log is many things: a to-do list, a reminder, an analog Twitter, notepad, tracker, etc.&lt;/p&gt;
 &lt;p&gt;Below is the format I currently use:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;01 JAN, MON □ △ ◯ X
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;01 JAN, MON □
         AF: tosilog, coffee
         PF: sinigang na bangus, pakbet, brown rice
 
@@ -485,24 +485,14 @@ This is where it&amp;rsquo;s at for me.&lt;/p&gt;
 &lt;li&gt;The first line already contains several info.
 &lt;ul&gt;
 &lt;li&gt;Current date, day of the week&lt;/li&gt;
-&lt;li&gt;Daily Trackers. I only have four,&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; each one represented by a PlayStation symbol, because I&amp;rsquo;m creative like that.
-Notice that I have my trackers in the Daily Log, and not on a dedicated spread like in many bujos online.
-This is just a personal preference.&lt;/li&gt;
+&lt;li&gt;Dream signifier, represented by a square. This is just a reminder that I had a dream from the
+previous night&amp;rsquo;s sleep.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;The next two lines, &lt;code&gt;AF&lt;/code&gt; and &lt;code&gt;PF&lt;/code&gt;, are Food Log.
 I list my meals during daytime (&lt;code&gt;AF&lt;/code&gt; or AM Food) and nighttime (&lt;code&gt;PF&lt;/code&gt; or PM Food).&lt;/li&gt;
 &lt;li&gt;The rest are bullets.
-I maintained Carroll&amp;rsquo;s bullet and signifier usage, with a bit of addition.
-I also used Mood Tracker symbols as signifiers in conjunction with a Note bullet.
-For example:
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;□ -   A flying cat was chasing me. Weird!
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I use □ as my Dream Tracker.
-When I use it as a signifier to a note,
-it becomes a Dream Log, in which I can write about the dream I had.
-I don&amp;rsquo;t have to make a note on each of the Daily Tracker,
-but when I do, their symbol makes a useful signifier.&lt;/p&gt;
-&lt;/li&gt;
+I maintained Carroll&amp;rsquo;s bullet and signifier usage, with a bit of addition.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;index&#34;&gt;Index&lt;/h3&gt;
 &lt;p&gt;I do have an Index, but it is placed right after the back door,
@@ -519,9 +509,9 @@ because I usually have some notes that I need to refer to from time to time.&lt;
 In fact I use one, solely dedicated for work.&lt;/p&gt;
 &lt;p&gt;This work bujo incorporates ideas from &lt;a href=&#34;https://jeffhuang.com/productivity_text_file/&#34;&gt;Jeff Huang&amp;rsquo;s .txt file as productivity app&lt;/a&gt;,
 implemented using a plaintext editor.
-In this case, Notepad, since I use Windows for work.&lt;/p&gt;
+For this I use Notepad, since I use Windows for work.&lt;/p&gt;
 &lt;p&gt;Not only is it light on resources&amp;mdash;currently
-at 25 KB storing three months worth of logged info&amp;mdash;it&amp;rsquo;s
+at ~45 KB storing four months worth of logged info&amp;mdash;it&amp;rsquo;s
 easily portable, as many operating systems accept plaintext.&lt;/p&gt;
 &lt;p&gt;Mine is inventively named as &lt;code&gt;log.txt&lt;/code&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;separating-work-and-personal&#34;&gt;Separating Work and Personal&lt;/h3&gt;
@@ -537,7 +527,7 @@ and my work bujo won&amp;rsquo;t distract me with personal stuff.&lt;/p&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;I only go the these subreddits: &lt;a href=&#34;https://old.reddit.com/r/BasicBulletJournals&#34;&gt;r/BasicBulletJournals&lt;/a&gt; and &lt;a href=&#34;https://old.reddit.com/r/bujo&#34;&gt;r/bujo&lt;/a&gt;.
 It&amp;rsquo;s because they tend to focus on utility and productivity, not on aesthetics.&lt;/p&gt;
-&lt;p&gt;And, of course, thanks to Ryder Carroll for sharing this method to the world &lt;em&gt;for free&lt;/em&gt;.&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;And, of course, thanks to Ryder Carroll for sharing this method to the world &lt;em&gt;for free&lt;/em&gt;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -548,12 +538,8 @@ As a consequence, the notebook becomes a list of list of items in bullet points,
 hence the name Bullet Journal.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;In my opinion, one should not have millions of trackers.
-I found four to be manageable.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;You see, it&amp;rsquo;s amazing how there are paid &amp;ldquo;courses&amp;rdquo; to &amp;ldquo;guide you in setting up&amp;rdquo; your own bujo.
-Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorite search engine, and see what comes up.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorite search engine, and see what comes up.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
@@ -2412,6 +2398,98 @@ honestly, it&amp;rsquo;s fine, given that you will remain true to yourself no
 matter the complications. it is understandable to rely now on any input,
 since you have been emptied by the malice and travails. if anything,
 struggle was a cyclone that came and went.&lt;/p&gt;
+&lt;h3 id=&#34;entry--122&#34;&gt;Entry # 122&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 24 Jun 2014&lt;/p&gt;
+&lt;p&gt;any promises of coming up with an epistolary compilation plummeted to
+naught when the receiving party, on thorough dissection of the contents
+of the mail, chose not to reply. the sending party might have penned
+something barely inducing a response, but how could they know? they are
+not the smartest guild in this damned rut. their hearts convulse at
+small inconveniences, their brains short out. fools!&amp;ndash;they had to bother
+the mailman for many months just to realize nothing was coming their
+way.&lt;/p&gt;
+&lt;p&gt;it is all in the past now, and everybody changes places at some point in
+life, builds new forts, or adapts into a new circle of unfriendly
+neighborhood. the return address on that mail does not belong to anybody
+anymore. and the mailman, now happier, has been untouched since.&lt;/p&gt;
+&lt;h3 id=&#34;entry--123&#34;&gt;Entry # 123&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 25 Jun 2014&lt;/p&gt;
+&lt;p&gt;a scene where i was running away from a man with a gun recurred. every
+time i looked back, he could not be seen because it was too dark in this
+long alley. when i looked down, my legs were running on concrete
+treadmill. i kept running, but didn&amp;rsquo;t move. i yelled at him to stay
+back, but he just gave off a sinister chuckle, the only sign of his
+lurking.&lt;/p&gt;
+&lt;h3 id=&#34;entry--124&#34;&gt;Entry # 124&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 30 Jun 2014&lt;/p&gt;
+&lt;p&gt;I could hardly make out the figures of stoichiometry chalked on the
+board, or hear from the soft droning the instructor&amp;rsquo;s purr. There was no
+dullness in any chemistry class I have been, until that moment, when in
+a blink I found myself&amp;mdash;quite instantaneously, as if bypassing the
+physical laws of nature&amp;mdash;lying on a bed. In that moment of my
+teleportation, came in the room a girl of familiar shape. We used to
+hang out together. We played with flames, but along the way an
+obstruction was formed. It all just did not feel right anymore. Funny
+how small things can make big differences. The flames were extinguished,
+and it was all queasiness from there.&lt;/p&gt;
+&lt;p&gt;Anyway, she came in the room and feigned surprise. I was &lt;em&gt;not&lt;/em&gt; in my
+bedroom. But her walking in was graceful and felt natural, like I had
+predicted her going in the room and likewise, she was expecting to see
+me there, and that my being unexpectedly there was something easily
+thrown out of the picture. We made out on the bed, which felt good. And
+remembering &lt;em&gt;this whole dream&lt;/em&gt; I had still makes me feel good, but not
+in the way you are probably thinking right now.&lt;/p&gt;
+&lt;h3 id=&#34;entry--125&#34;&gt;Entry # 125&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 01 Jul 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;it is&lt;/strong&gt; [hh:mm, between midnight and dawn] &lt;strong&gt;AM here and my&lt;/strong&gt;
+[medical term for &amp;lsquo;eyes&amp;rsquo;] &lt;strong&gt;are&lt;/strong&gt; [a synonym for &amp;lsquo;suffer&amp;rsquo;, in
+present progressive tense] &lt;strong&gt;from&lt;/strong&gt; [an eye defect, in layman&amp;rsquo;s
+terms]. [an irrelevant Latin clause/phrase]. &lt;strong&gt;you are&lt;/strong&gt; [phrase/s
+with deep philosophy references] &lt;strong&gt;while i am&lt;/strong&gt; [string/s of coffee
+shop jargon] &lt;strong&gt;with my&lt;/strong&gt; [brand of cigarette] &lt;strong&gt;and&lt;/strong&gt; [brand of the
+most overrated liquor there is]. &lt;strong&gt;this is how i miss you, formatted,
+on a template of gloom.&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;entry--126&#34;&gt;Entry # 126&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 02 Jul 2014&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scene 1&lt;/strong&gt;: It is tough to look at the songbook for a number for the jays to sing.
+Your lungs don&amp;rsquo;t hold as much air as you&amp;rsquo;d like. They go out when
+the crowd doesn&amp;rsquo;t have a clue on what you&amp;rsquo;re on to, if you really
+were in sync with the karaoke. On the plus side, your voice sucks.
+Another party blending, human tapestries to shy away from. It is
+altogether different in the rural villages. The audience there are
+more tolerable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scene 2&lt;/strong&gt;: A housemate dragged me in front of his girl to celebrate a two-decade
+defeat. My eyes hardly peeled themselves as he prompted me to a glass
+stall of many a love song.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scene 3&lt;/strong&gt;: Gut me not as I down my last meal in zero expertise. It feels good to
+know that such food is possible in a lewd setting. I have always
+thought of KTV bars as establishments erected solely for old timers
+willing to empty their wallets in exchange for a quick relief. I was
+wrong. Good grub, bad choice. Good drag, bad voice.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scene 4&lt;/strong&gt;: Two tables actively participated in a garbling chorale during the
+happy hour. Tough battle.&lt;/p&gt;
+&lt;h3 id=&#34;entry--127-how-to-be-creative&#34;&gt;Entry # 127: &lt;em&gt;how to be creative&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 02 Jul 2014&lt;/p&gt;
+&lt;p&gt;when an earthquake of low magnitude shakes the
+place and is felt by the millions of strangers prancing on afternoon
+streets, go directly to the nearest wifi hotspot, ideally a coffee shop,
+and hop online. but don&amp;rsquo;t you just post a mindless &amp;ldquo;did you just feel
+that earthquake?&amp;rdquo; status to direct the local netizens&#39; attention to the
+obvious. do not cheat nor settle for this mediocre chore. you, as a
+trickster of various complex trades, are better than that.&lt;/p&gt;
+&lt;p&gt;instead, say:
+&amp;ldquo;i witnessed something that trembled me to my knees. i was on the
+twelfth floor when the ground beneath the cars of the street across this
+building convulsed and split, and from the fissure, at least four iron
+tendrils, each as long as a ten-wheeler, came out and started striking
+and crushing all the moving objects nearby. every businessmen sprinted
+off from the chaos; the hipsters held up their smartphones (run, you
+bastards!); the lovers accepted their fate. when the ground quaked
+again, the cleft grew wider, eating the street up (and all on it) until
+the sidewalks became the dried lips of a gaping mouth. from this
+opening, an abysmal cyber-cuttlefish slowly rose. as i type this, the
+fins just passed by my window. why do i feel leaden? i&amp;rsquo;m afraid this
+city will be baptized very, very soon.&amp;rdquo;&lt;/p&gt;
 &lt;h3 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h3&gt;
 &lt;p&gt;Tweet-like witticisms back in the day.&lt;/p&gt;
 &lt;ol&gt;
@@ -2473,6 +2551,10 @@ going off the charts again.&lt;/li&gt;
 &lt;li&gt;fm static is a bandwidth a lot of negative feedback.&lt;/li&gt;
 &lt;li&gt;the blue screen of death is a huge turn-off.&lt;/li&gt;
 &lt;li&gt;you think it&amp;rsquo;s petrichor, but really it&amp;rsquo;s vitriol.&lt;/li&gt;
+&lt;li&gt;the world stinks in mysterious ways.&lt;/li&gt;
+&lt;li&gt;although the world is full of art, life sometimes is but a fart.&lt;/li&gt;
+&lt;li&gt;i did not mind to change my socks; zero neatness nets zero fucks.&lt;/li&gt;
+&lt;li&gt;diamond extraction, &lt;em&gt;and other hoar ore stories&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
@@ -3128,8 +3210,7 @@ In my Debian-like system, I installed &lt;code&gt;dosfstools&lt;/code&gt;.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;I plugged in and located the USB drive by running this in terminal:
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;lsblk
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;In my case, it&amp;rsquo;s &lt;code&gt;/dev/sdc&lt;/code&gt; .&lt;/p&gt;
-&lt;/li&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;In my case, it&amp;rsquo;s &lt;code&gt;/dev/sdc&lt;/code&gt; .&lt;/li&gt;
 &lt;li&gt;Unmount the USB drive, because it can&amp;rsquo;t be formatted when mounted:
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo umount /dev/sdc
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
@@ -3184,9 +3265,8 @@ Filenames include:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Enter this in the terminal:
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssh-keygen -t ed25519 -a &lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;-t ed25519&lt;/code&gt; option specifies the type of key;&lt;br&gt;
-&lt;code&gt;-a 100&lt;/code&gt;  option specifies the number of key derivation function rounds used.&lt;/p&gt;
-&lt;/li&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;code&gt;-t ed25519&lt;/code&gt; option specifies the type of key;&lt;br&gt;
+&lt;code&gt;-a 100&lt;/code&gt;  option specifies the number of key derivation function rounds used.&lt;/li&gt;
 &lt;li&gt;Follow the prompts.
 I left the defaults as they are, but feel free to configure for your use case.&lt;/li&gt;
 &lt;li&gt;In order to add key, start the ssh-agent in the background.
@@ -3199,9 +3279,8 @@ I left the defaults as they are, but feel free to configure for your use case.&l
 Instead of that, we can use the SSH key.
 Copy that into the remote server:
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssh-copy-id username@example.com
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This will prompt you one last time for the password of the server.
-If successful, the server will no longer prompt you for password everytime you SSH into it.&lt;/p&gt;
-&lt;/li&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;This will prompt you one last time for the password of the server.
+If successful, the server will no longer prompt you for password everytime you SSH into it.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;server-side-the-openbsd-machine&#34;&gt;Server Side (the OpenBSD machine)&lt;/h3&gt;
 &lt;p&gt;A few tweaks are needed to make SSH a pleasant experience.&lt;/p&gt;

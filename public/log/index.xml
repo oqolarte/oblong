@@ -11,6 +11,66 @@
     
     
     <item>
+      <title>Vague Update</title>
+      <link>https://ohio.araw.xyz/vague/</link>
+      <pubDate>Sun, 21 Nov 2021 06:52:37 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/vague/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Improved the &lt;code&gt;font-family&lt;/code&gt; of this site, thanks to &lt;a href=&#34;https://systemfontstack.com/&#34;&gt;System Font
+Stack&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Added five new entries and four new one-liners to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Changed some sections on &lt;a href=&#34;https://ohio.araw.xyz/bujo&#34;&gt;Bujo&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s just say that it&amp;rsquo;s been about a year since &lt;a href=&#34;https://ohio.araw.xyz/hi&#34;&gt;I officially launched this
+personal site&lt;/a&gt;.
+Design-wise, not much has changed.
+The brutalist spirit remains at the forefront,
+and acts as a natural repellent against those
+who are into shiny albeit wobbly things.&lt;/p&gt;
+&lt;p&gt;We are down to the last five or six weeks of the year 2021.
+But where are we really now?
+As an individual?
+As a community?
+So many of us, including myself, still have some figuring out to do.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;VAGUE HOPE, VAGUE CONFIDENCE&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;mdash; From Diaries of Franz Kafka (1921)
+(&lt;em&gt;all-caps stylization mine&lt;/em&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here&amp;rsquo;s a stand-alone bi-weekly update (first half of Nov 2021):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The motherboard replacement for my Thinkpad arrived.
+It turned out that the seller shipped the wrong one;
+it&amp;rsquo;s a mobo for a different model.
+They were kind enough, though, to send a replacement for &lt;em&gt;piso!&lt;/em&gt; (Php 1.00)&lt;/li&gt;
+&lt;li&gt;Had lunch-out with workmates somewhere in Quezon City.
+It was my first time seeing a lot of them, what they actually look like in
+person,
+and how they are in the flæsh.
+See, we&amp;rsquo;re always off-cam in calls in our work-from-home setups, &amp;ldquo;to save
+bandwidth.&amp;rdquo;
+To my knowledge, we&amp;rsquo;re all fully vaccinated there, so all (relatively) good.&lt;/li&gt;
+&lt;li&gt;Work is work is burning through my hours like jet flame through lint.
+Supposedly, it&amp;rsquo;s because corporations are going manic on getting data on this
+last quarter of the year (Q4) for their
+forecasts and whatnot.
+I&amp;rsquo;d like to empower my colleagues,
+even in unorthodox ways,
+but even that is unlikely lest I burn myself on the way out.&lt;/li&gt;
+&lt;li&gt;I have resorted again to listening to &amp;ldquo;City Pop 80&amp;rsquo;s Japan&amp;rdquo; muzak just to stay
+sane.
+But, as the meme goes, I am now having visions of memories of a time and place I
+wasn&amp;rsquo;t in as a consequence.&lt;/li&gt;
+&lt;li&gt;I feel like I&amp;rsquo;m no longer just watching my dreams from a third-person point of
+view.
+I now enact them as they happen.
+Solipsism resurfaces.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Home Alone</title>
       <link>https://ohio.araw.xyz/home-alone/</link>
       <pubDate>Sun, 31 Oct 2021 17:30:00 +0800</pubDate>
@@ -67,7 +127,7 @@ I just miss its aesthetic.&lt;/p&gt;
 and skin.
 I don&amp;rsquo;t miss how people move away from me because of said smell (stench,
 really).
-I don&amp;rsquo;t miss the addiction, the financial costs to sustain it, the damage on my body it causes.&lt;/p&gt;
+I don&amp;rsquo;t miss the addiction, the financial costs to sustain it, the damage on my body it has caused.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -1438,28 +1498,24 @@ You can either:
 &lt;li&gt;Enter in the terminal:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;curl -LO https://www.rarlab.com/rar/rarlinux-x64-6.0.1.tar.gz
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Note that at the time of writing, the current version is &lt;code&gt;6.0.1&lt;/code&gt;.
-Be sure to check the site for latest updates.&lt;/p&gt;
-&lt;/li&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;Note that at the time of writing, the current version is &lt;code&gt;6.0.1&lt;/code&gt;.
+Be sure to check the site for latest updates.&lt;/li&gt;
 &lt;li&gt;Go to the folder where it got downloaded to.
 Use &lt;code&gt;tar&lt;/code&gt; to extract the files
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;tar -xvzf rarlinux-x64-6.0.1.tar.gz
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;-x&lt;/code&gt; option means extracts the file/s from tar&lt;br&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;code&gt;-x&lt;/code&gt; option means extracts the file/s from tar&lt;br&gt;
 &lt;code&gt;-v&lt;/code&gt; option means verbose, to see the extraction progress&lt;br&gt;
 &lt;code&gt;-z&lt;/code&gt; option decompresses all the files within, if any&lt;br&gt;
-&lt;code&gt;-f&lt;/code&gt; option indicates the filename you&amp;rsquo;ll work on&lt;/p&gt;
-&lt;/li&gt;
+&lt;code&gt;-f&lt;/code&gt; option indicates the filename you&amp;rsquo;ll work on&lt;/li&gt;
 &lt;li&gt;Go into the extracted folder.
 It should have a &lt;code&gt;Makefile&lt;/code&gt;, &lt;code&gt;rar&lt;/code&gt; and &lt;code&gt;unrar&lt;/code&gt; executables, among other files.
 Run &lt;code&gt;make&lt;/code&gt; like so:
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;cd rar/
 sudo make
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This will copy the executables to the &lt;code&gt;/usr/local/bin&lt;/code&gt; and is now available to the user (you!).&lt;/p&gt;
-&lt;/li&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;This will copy the executables to the &lt;code&gt;/usr/local/bin&lt;/code&gt; and is now available to the user (you!).&lt;/li&gt;
 &lt;li&gt;Time to extract the &lt;code&gt;.rar&lt;/code&gt; file you got there:
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;unrar e legallyDownloadedFile.rar
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;e&lt;/code&gt; option means extract.&lt;/p&gt;
-&lt;/li&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;code&gt;e&lt;/code&gt; option means extract.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;That&amp;rsquo;s it.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;

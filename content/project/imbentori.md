@@ -2271,6 +2271,117 @@ matter the complications. it is understandable to rely now on any input,
 since you have been emptied by the malice and travails. if anything,
 struggle was a cyclone that came and went.
 
+### Entry # 122
+Date: Tue, 24 Jun 2014
+
+any promises of coming up with an epistolary compilation plummeted to
+naught when the receiving party, on thorough dissection of the contents
+of the mail, chose not to reply. the sending party might have penned
+something barely inducing a response, but how could they know? they are
+not the smartest guild in this damned rut. their hearts convulse at
+small inconveniences, their brains short out. fools!--they had to bother
+the mailman for many months just to realize nothing was coming their
+way.
+
+it is all in the past now, and everybody changes places at some point in
+life, builds new forts, or adapts into a new circle of unfriendly
+neighborhood. the return address on that mail does not belong to anybody
+anymore. and the mailman, now happier, has been untouched since.
+
+### Entry # 123
+Date: Wed, 25 Jun 2014
+
+a scene where i was running away from a man with a gun recurred. every
+time i looked back, he could not be seen because it was too dark in this
+long alley. when i looked down, my legs were running on concrete
+treadmill. i kept running, but didn't move. i yelled at him to stay
+back, but he just gave off a sinister chuckle, the only sign of his
+lurking.
+
+### Entry # 124
+Date: Mon, 30 Jun 2014
+
+I could hardly make out the figures of stoichiometry chalked on the
+board, or hear from the soft droning the instructor's purr. There was no
+dullness in any chemistry class I have been, until that moment, when in
+a blink I found myself---quite instantaneously, as if bypassing the
+physical laws of nature---lying on a bed. In that moment of my
+teleportation, came in the room a girl of familiar shape. We used to
+hang out together. We played with flames, but along the way an
+obstruction was formed. It all just did not feel right anymore. Funny
+how small things can make big differences. The flames were extinguished,
+and it was all queasiness from there.
+
+Anyway, she came in the room and feigned surprise. I was *not* in my
+bedroom. But her walking in was graceful and felt natural, like I had
+predicted her going in the room and likewise, she was expecting to see
+me there, and that my being unexpectedly there was something easily
+thrown out of the picture. We made out on the bed, which felt good. And
+remembering *this whole dream* I had still makes me feel good, but not
+in the way you are probably thinking right now.
+
+### Entry # 125
+Date: Tue, 01 Jul 2014
+
+**it is** [hh:mm, between midnight and dawn] **AM here and my**
+[medical term for 'eyes'] **are** [a synonym for 'suffer', in
+present progressive tense] **from** [an eye defect, in layman's
+terms]. [an irrelevant Latin clause/phrase]. **you are** [phrase/s
+with deep philosophy references] **while i am** [string/s of coffee
+shop jargon] **with my** [brand of cigarette] **and** [brand of the
+most overrated liquor there is]. **this is how i miss you, formatted,
+on a template of gloom.**
+
+### Entry # 126
+Date: Wed, 02 Jul 2014
+
+**Scene 1**: It is tough to look at the songbook for a number for the jays to sing.
+Your lungs don't hold as much air as you'd like. They go out when
+the crowd doesn't have a clue on what you're on to, if you really
+were in sync with the karaoke. On the plus side, your voice sucks.
+Another party blending, human tapestries to shy away from. It is
+altogether different in the rural villages. The audience there are
+more tolerable.
+
+**Scene 2**: A housemate dragged me in front of his girl to celebrate a two-decade
+defeat. My eyes hardly peeled themselves as he prompted me to a glass
+stall of many a love song.
+
+**Scene 3**: Gut me not as I down my last meal in zero expertise. It feels good to
+know that such food is possible in a lewd setting. I have always
+thought of KTV bars as establishments erected solely for old timers
+willing to empty their wallets in exchange for a quick relief. I was
+wrong. Good grub, bad choice. Good drag, bad voice.
+
+**Scene 4**: Two tables actively participated in a garbling chorale during the
+happy hour. Tough battle.
+
+### Entry # 127: *how to be creative*
+Date: Wed, 02 Jul 2014
+
+when an earthquake of low magnitude shakes the
+place and is felt by the millions of strangers prancing on afternoon
+streets, go directly to the nearest wifi hotspot, ideally a coffee shop,
+and hop online. but don't you just post a mindless "did you just feel
+that earthquake?" status to direct the local netizens' attention to the
+obvious. do not cheat nor settle for this mediocre chore. you, as a
+trickster of various complex trades, are better than that.
+
+instead, say:
+"i witnessed something that trembled me to my knees. i was on the
+twelfth floor when the ground beneath the cars of the street across this
+building convulsed and split, and from the fissure, at least four iron
+tendrils, each as long as a ten-wheeler, came out and started striking
+and crushing all the moving objects nearby. every businessmen sprinted
+off from the chaos; the hipsters held up their smartphones (run, you
+bastards!); the lovers accepted their fate. when the ground quaked
+again, the cleft grew wider, eating the street up (and all on it) until
+the sidewalks became the dried lips of a gaping mouth. from this
+opening, an abysmal cyber-cuttlefish slowly rose. as i type this, the
+fins just passed by my window. why do i feel leaden? i'm afraid this
+city will be baptized very, very soon."
+
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -2332,6 +2443,10 @@ going off the charts again.
 1. fm static is a bandwidth a lot of negative feedback.
 1. the blue screen of death is a huge turn-off.
 1. you think it's petrichor, but really it's vitriol.
+1. the world stinks in mysterious ways.
+1. although the world is full of art, life sometimes is but a fart.
+1. i did not mind to change my socks; zero neatness nets zero fucks.
+1. diamond extraction, *and other hoar ore stories*
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
 (minotaurs aside) are fairly easy to navigate (as opposed to mazes

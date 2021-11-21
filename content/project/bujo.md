@@ -87,25 +87,26 @@ hence the name Bullet Journal.
 A spread is dedicated for each month of the year.
 
 Mine contains the following, going from the left page to the right:
-1. **Calendar** of the month;
-1. Below it, **Upcoming** tasks and events for the month.
-These are usually migrated from the Future Log.
+1. "**Calendar**" of the month, implemented as one day per line;
+1. On each day I write **Daily Highlight/s**.
+I write a one- or two-sentence summary of what happened that day.
+1. **Habit Trackers** are also in here.
+Currently, I only track three habits.
 1. **Expenses tracker**, in which I list the expenses I make per day.
-I transfer this data to a spreadsheet in my computer, where the calculation takes place.
-This tracker serves as a reminder to be mindful of expenses, as well as a backup, in case something corrupts the spreadsheet.
-1. The whole right page of the spread is dedicated for **Daily Highlights**.
-I write one to two lines per day here.
-In the past, this was my "daily gratitude,"
-but I find it hard to be grateful everyday.
-1. I also write a **Monthly Review** at the end of each month,
+I transfer this data to a spreadsheet in my computer,
+where the calculation takes place.
+This tracker serves as a reminder to be mindful of expenses,
+as well as a backup, in case something corrupts the spreadsheet.
+1. I also have a place for **upcoming to-do's**, tasks that don't necessarily
+   have a schedule yet.
+These usually are important but not urgent.
+
+
+I also write a **Monthly Review** at the end of each month,
 which I don't place on the spread,
 but on the page after the last the Daily Log of the month.
 Here I try to talk about what happened to FORM (Friends and Family, Occupation, Recreation, Motivation) during the month.
 This is not a strict format, though.
-
-I should also note that my I also incorporate my mood tracker in the calendar.
-I do this by highlighting the day with a color in the rainbow:
-red is a great day, violet is horrible day.
 
 ### Daily Log
 
@@ -118,7 +119,7 @@ My Daily Log is many things: a to-do list, a reminder, an analog Twitter, notepa
 
 Below is the format I currently use:
 ```
-01 JAN, MON □ △ ◯ X
+01 JAN, MON □
         AF: tosilog, coffee
         PF: sinigang na bangus, pakbet, brown rice
 
@@ -134,23 +135,12 @@ Let's break this down by section:
 
 1. The first line already contains several info.
    - Current date, day of the week
-   - Daily Trackers. I only have four,[^tracker] each one represented by a PlayStation symbol, because I'm creative like that.
-   Notice that I have my trackers in the Daily Log, and not on a dedicated spread like in many bujos online.
-   This is just a personal preference.
+   - Dream signifier, represented by a square. This is just a reminder that I had a dream from the
+     previous night's sleep.
 1. The next two lines, `AF` and `PF`, are Food Log.
 I list my meals during daytime (`AF` or AM Food) and nighttime (`PF` or PM Food).
 1. The rest are bullets.
 I maintained Carroll's bullet and signifier usage, with a bit of addition.
-I also used Mood Tracker symbols as signifiers in conjunction with a Note bullet.
-For example:
-   ```
-   □ -   A flying cat was chasing me. Weird!
-   ```
-   I use □ as my Dream Tracker.
-   When I use it as a signifier to a note,
-   it becomes a Dream Log, in which I can write about the dream I had.
-   I don't have to make a note on each of the Daily Tracker,
-   but when I do, their symbol makes a useful signifier.
 
 [^tracker]: In my opinion, one should not have millions of trackers.
 I found four to be manageable.
@@ -176,10 +166,10 @@ In fact I use one, solely dedicated for work.
 
 This work bujo incorporates ideas from [Jeff Huang's .txt file as productivity app](https://jeffhuang.com/productivity_text_file/),
 implemented using a plaintext editor.
-In this case, Notepad, since I use Windows for work.
+For this I use Notepad, since I use Windows for work.
 
 Not only is it light on resources---currently
-at 25 KB storing three months worth of logged info---it's
+at ~45 KB storing four months worth of logged info---it's
 easily portable, as many operating systems accept plaintext.
 
 Mine is inventively named as `log.txt`.
