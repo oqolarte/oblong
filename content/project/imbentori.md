@@ -2381,6 +2381,127 @@ opening, an abysmal cyber-cuttlefish slowly rose. as i type this, the
 fins just passed by my window. why do i feel leaden? i'm afraid this
 city will be baptized very, very soon."
 
+### Entry # 128
+Date: Thu, 03 Jul 2014
+
+my ideas emulate the rapid propagation of bacteria in a culture. do i
+have a filthy mind?
+
+### Entry # 129: *connections*
+Date: Fri, 04 Jul 2014
+
+1.  in pulling down the lever that opens the louvre, the light reveals
+    unto thee the crisis of spatial contingency located in the gap
+    between two households. this gap is an outside basement of ancient
+    debris, an ecosystem for stray cats and other non-mammalian pests
+    that, come dusk, bug you with eerie messages. this is your view when
+    you get up late in the morning, when you recover again from the
+    previous hours what you claimed you'd  have forgotten by daylight.
+    reminder: push back up the louvre lever during bad weather,
+    because there is a rain drain pipe about a meter away of which end
+    opening conveniently faces your window. on stormy days, your view is
+    niagara falls.
+2.  what kind of room is this? a sliding door with a hook-and-eye lock?
+    even the hounds can topple it.
+3.  speaking of hounds, there are two of them of the same muscular
+    build. the younger one frequently sprites on furniture and footwear
+    and the trash bin, and leaves a mess when he's left unchecked. if
+    caught doing misdeeds, i beg you, do not grab the broom stick and
+    whack him like a golf ball. you imbecile, you irresponsible dog
+    owner. teach him manners without using fear and violence. be cesar
+    millan. besides, golf sucks. and golf courses waste acres of space.
+4.  the only credit i can give to the entirety of golf is in the
+    engineering that lies on the ball itself. its pioneers were smart to
+    design onto its surface a tessellation (of sorts) of dimples that
+    would make it fly efficiently in terms of aerodynamics.
+5.  one more time, i froze in an un-cool way, the way in which i put a
+    palm over my mouth, and my pupils dilate. it is hard to regain from
+    a shocking incident. i shall narrate briefly about it, nonetheless:
+    my cousin and i were eating our dinner together, talking about the
+    richest drummers---because david grohl was on tv at the moment---when
+    from midair and onto our food landed a rogue cockroach. it
+    strolled over our dinner, and my pal started cursing at it,
+    profusely so. the villain was uninterested in humanspeak. cousin
+    spooned it out and placed it atop the table, still near the food,
+    and stood up to get the insect spray. like i told you, the whole
+    time i froze in an un-cool way, not because i feel icky around
+    roaches, no. it was this bold move, to not give a damn about humans
+    having their dinner, that insulted me speechless. BAH---the memory
+    is fresh: the soft buzz of the wings, its hideous presence, its
+    indifference. i know it's over.
+
+### Entry # 130
+Date: Mon, 07 Jul 2014
+
+Stooped on a seat and quiet was the only friend. Your drink was rattling
+on the table turning sour. It was a cough of coffee from somewhere,
+another item on my list of odd offerings from myself to myself---the
+strangest one, by the way, is a sleeping pill. It's funny because it's
+an antidepressant that opposes the main function of caffeine, and could
+someone be held responsible if these were inaccurate? Yet, I would
+rather gulp petroleum. I mean, I would *never* drink fossil fuel,
+because that would be crude. My mother used to bring home Arabian
+beverages, but none of them could restore the lost youthful vigor. 
+
+My veins at the side of my head feel like vines creeping up a steeple of
+nowhere-land, green whips lashing all at once a crack. 
+
+And when Time slowly ripened---the boy ageing to a man, passed from one
+to somebody's meager hands---the Life, if it were one, was
+threatened, when the last option was to choke the limbered existence
+with a fade from the changing smoke.
+
+### Entry # 131
+Date: Tue, 15 Jul 2014
+
+the flesh had avoided mingling, and now, it longed for warmth. i
+strolled down the grime network of alleys and streets. at night in some
+corners, an armed man waits for his next victim. one could die for the
+simplest yet stupidest reasons. good thing i did not fancy the night
+mistress that time nor did her darklings paid me visit. i did stroll at
+daytime, safe and away from curs; and went out and met the disorder
+pleasantly. i exist *here and now*, that means i took the *right* turn
+homeward and slept through nocturia. 
+
+some say the way to a thug's heart is to fiddle first through their
+fatty liver and then their blackened lungs. others prefer the benign
+processes of social merry-making in which only money talks. but since i
+did not inherit the gambling traits of my father, this suggests that i
+take the liver-lung option, unless there is a third, more viable
+option: why bother myself of the disdain among choices, when not
+choosing may be just as valid? 
+
+### Entry # 132
+Date: Tue, 15 Jul 2014
+
+i noticed somebody who walked just right in. "nice figure,"
+i told them, offering a compliment. something about the way i
+spoke irked them. this newcomer, before leaving that same instant,
+retorted in disgust, "i am a complex, multi-faceted being, and i don't
+deserve this catcalling." and just like that, the person had come
+*n*-gon.[^ngon]
+
+[^ngon]: *n*-gon is a polygon with n sides. E.g., hexagon is also 6-gon.
+
+### Entry # 133
+Date: Tue, 15 Jul 2014
+
+say, the audience has a way of nodding the other way when one yearns to
+lavishly hold the heart by the hand. meld with this crowd to find the
+silver-ticket seat in it and enjoy the rest of the play, or walk out and
+return to the same derelict zone where the engaging things happen only
+at the other side of a screen? hint: the answer, the obvious answer,
+cannot be uttered in chorus; comes (or in this case, goes) only during a
+meditative posture over a ceramic bowl.
+
+### Entry # 134
+Date: Sun, 20 Jul 2014
+
+Out of fatigue, I have mapped the innermost spheres to bring myself back
+to the life of some familiar thoughts, regardless of the lack of logic.
+I found myself rolling over, restlessly wrestling with the ideas and the
+perversions we shared that I think both you and I cannot forget.
+
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -2447,6 +2568,11 @@ going off the charts again.
 1. although the world is full of art, life sometimes is but a fart.
 1. i did not mind to change my socks; zero neatness nets zero fucks.
 1. diamond extraction, *and other hoar ore stories*
+1. sweet sleep is the post-afterparty movement
+1. i like the idea of liking the idea of how an idea can be, like, unlikely
+liked or, like, likely disliked.
+1. 'unfollowing everyone', and it begins with **u**.
+1. having a platonic relationship with geometric solids
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
 (minotaurs aside) are fairly easy to navigate (as opposed to mazes

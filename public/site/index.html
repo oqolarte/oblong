@@ -141,15 +141,10 @@ i.e. serve readable content.</p>
 <p>And there are many ways to do that without compromising the overall experience
 of readers.</p>
 <p>I use <em>your</em> system&rsquo;s default font stack so your computer wouldn&rsquo;t
-need to look elsewhere to render the fonts.
-Well, technically, I prefer some fonts over others that you&rsquo;ll see in the next
-two code blocks, but in case your system
-doesn&rsquo;t have the fonts that I like, it falls back to the default typeface that
-it does have.</p>
+need to look elsewhere to render the fonts.</p>
 <p>I use serif for headings. This is the font stack that I use (as found in my
 CSS):</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">h1</span><span style="color:#f92672">,</span><span style="color:#f92672">h2</span><span style="color:#f92672">,</span><span style="color:#f92672">h3</span><span style="color:#f92672">,</span><span style="color:#f92672">h4</span><span style="color:#f92672">,</span><span style="color:#f92672">h5</span><span style="color:#f92672">,</span><span style="color:#f92672">h6</span> {
-        <span style="color:#66d9ef">font-family</span>: Georgia, Palatino, <span style="color:#66d9ef">serif</span>;
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">h1</span><span style="color:#f92672">,</span><span style="color:#f92672">h2</span><span style="color:#f92672">,</span><span style="color:#f92672">h3</span><span style="color:#f92672">,</span><span style="color:#f92672">h4</span><span style="color:#f92672">,</span><span style="color:#f92672">h5</span><span style="color:#f92672">,</span><span style="color:#f92672">h6</span> { <span style="color:#66d9ef">font-family</span>: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, <span style="color:#66d9ef">serif</span>, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
         <span style="color:#66d9ef">line-height</span>:<span style="color:#ae81ff">1.2</span>
         }
 </code></pre></div><p>And I use sans serif for body and the rest of the page.
@@ -160,7 +155,7 @@ This is what I have in my CSS:</p>
         <span style="color:#66d9ef">margin</span>: <span style="color:#ae81ff">1</span><span style="color:#66d9ef">em</span> <span style="color:#66d9ef">auto</span>;
         <span style="color:#66d9ef">max-width</span>: <span style="color:#ae81ff">40</span><span style="color:#66d9ef">em</span>;
         <span style="color:#66d9ef">padding</span>: <span style="color:#ae81ff">0.7</span><span style="color:#66d9ef">em</span>;
-        <span style="color:#66d9ef">font</span>: <span style="color:#ae81ff">1.2</span><span style="color:#66d9ef">em</span><span style="color:#f92672">/</span><span style="color:#ae81ff">1.5</span> Helvetica, Arial, Tahoma, <span style="color:#66d9ef">sans-serif</span>
+        <span style="color:#66d9ef">font</span>: <span style="color:#ae81ff">1.2</span><span style="color:#66d9ef">em</span><span style="color:#f92672">/</span><span style="color:#ae81ff">1.5</span> <span style="color:#f92672">-</span>apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, <span style="color:#66d9ef">sans-serif</span>;
         }
 </code></pre></div><p>Using serif for headings and sans serif for body gives a clear delineation which
 is which.
@@ -185,14 +180,15 @@ Note: In iOS and iPadOS, this arrow becomes an emoji version of it.</p>
 Clicking one does <strong><em>not</em></strong> open it in a new tab or window.
 You have to manually right-click it and select <code>Open in a new tab</code> (or <code>...window</code>) (or click with Mouse3/MouseWheel).</p>
 <h3 id="no-javascript">No JavaScript?</h3>
-<p>It&rsquo;s not really that I find JS harmful, although some would argue that it could be.
+<p>It&rsquo;s not really that I find JS harmful,
+although some would argue that it could be.
 I don&rsquo;t even know enough of the language to make that claim.</p>
 <p>So why this &ldquo;distaste&rdquo; for JS in websites?</p>
 <p>Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&rsquo;s absence is definitely beneficial, because there&rsquo;s less code to maintain.
 Eliminating the excess, even in the form of code, does leave a positive impact via negativa.</p>
 <h3 id="no-ads">No Ads</h3>
-<p>Only advertisers like ads<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.
+<p>Only advertisers like ads.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>
 I don&rsquo;t intend on monetizing this site with ads,
 so expect a clean (read: boring) experience.</p>
 <p>Also, did you know that a lot of online advertising you see depends on JS?</p>
@@ -227,10 +223,14 @@ There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo
 <p>Using SSG like Hugo arguably increases security by simplifying a lot of things<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.
 There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.</p>
 <p>In many SSGs, content is written in Markdown, a simple markup &ldquo;language&rdquo; for creating formatted text using a plaintext editor.
-Markdown files (<code>.md</code>) are lightweight, portable, easy to backup, and transfer between computers.</p>
+Markdown files (<code>.md</code>) are lightweight, portable, easy to backup, and transfer between computers.
+It&rsquo;s often used because it&rsquo;s intuitive to use;
+and with its relatively simple syntax,
+a skilled enough programmer can write a program (say, a SSG) that can parse a markdown file
+to be converted to HTML.</p>
 <p>Generation time depends on the size and volume of files that need to be compiled.
 I&rsquo;ve heard that some SSGs could take up to a minute to build one whole site;
-some only <em>milliseconds</em>.</p>
+some only take <em>milliseconds</em>.</p>
 <p>It <em>is</em> tedious to go through all that.
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.</p>
 <p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> anytime!</p>

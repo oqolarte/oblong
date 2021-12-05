@@ -11,6 +11,51 @@
     
     
     <item>
+      <title>Core Memories</title>
+      <link>https://ohio.araw.xyz/coremem/</link>
+      <pubDate>Sun, 05 Dec 2021 10:30:04 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/coremem/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; link on Index for visibility.&lt;/li&gt;
+&lt;li&gt;Added seven new entries and four new one-liners on &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Edit some sections on &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;habits&#34;&gt;Habits&lt;/h2&gt;
+&lt;p&gt;Same old habits stir within when triggered by very specific stimuli.
+And so I had to look up for more.
+More Cartoon Network station IDs or promos or interstitials from the good old
+days of early 2000s.
+I still know the lines in some of them.
+Core memories have been unlocked by chance, but now, where to put them?&lt;/p&gt;
+&lt;h2 id=&#34;adors-fan&#34;&gt;Ador&amp;rsquo;s Fan&lt;/h2&gt;
+&lt;p&gt;Ador, my &lt;a href=&#34;https://ohio.araw.xyz/x225&#34;&gt;Thinkpad X225&lt;/a&gt;, never had any fan problems,
+even when I thought it had some.&lt;/p&gt;
+&lt;p&gt;I was testing the new motherboard (mobo), when I noticed that on boot,
+the fan would start spinning, and then stop just after a few seconds.
+I had never noticed this before, so I thought this was alarming, the fan being a
+regulator of the machine&amp;rsquo;s heat.&lt;/p&gt;
+&lt;p&gt;It turns out that this is normal.
+On boot, the system turns on the fan
+as part of the onboard tests,
+ensuring that it&amp;rsquo;s working,
+until the embedded controller (EC) turns it off after a short while.
+When the mobo hits a certain temperature (~60-65 degrees Celsius),
+the fan kicks on to do it&amp;rsquo;s job, i.e. exhaust the heat out and away from mobo.&lt;/p&gt;
+&lt;h2 id=&#34;occupation&#34;&gt;Occupation&lt;/h2&gt;
+&lt;p&gt;My diligent, industrious peers and I could have been swimming in the cold waters
+of the year&amp;rsquo;s homestretch any day now,
+and yet we grind on,
+mostly choice-less, as we subsidize the holidays of some people we have never
+met with our hours.&lt;/p&gt;
+&lt;p&gt;In many parts of our life,
+we balance effectivity and efficiency.
+The two don&amp;rsquo;t always get along;
+it&amp;rsquo;s up to us&amp;mdash;&lt;em&gt;really&lt;/em&gt;&amp;mdash;what to choose given the tasks at hand.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Vague Update</title>
       <link>https://ohio.araw.xyz/vague/</link>
       <pubDate>Sun, 21 Nov 2021 06:52:37 +0800</pubDate>
