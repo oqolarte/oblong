@@ -111,11 +111,11 @@ This is not a strict format, though.
 ### Daily Log
 
 Bujo's bulk comprises Daily Logs.
-This is where it's at for me.
+This is the main feature.
 
-As the day goes on, I update the log, adding and/or subtracting bullets.
+As the day goes on, I update the log, adding and/or crossing out bullets.
 
-My Daily Log is many things: a to-do list, a reminder, an analog Twitter, notepad, tracker, etc.
+My Daily Log is many things: a to-do list, a reminder, an analog private Twitter, notepad, tracker, etc.
 
 Below is the format I currently use:
 ```
@@ -169,7 +169,7 @@ implemented using a plaintext editor.
 For this I use Notepad, since I use Windows for work.
 
 Not only is it light on resources---currently
-at ~45 KB storing four months worth of logged info---it's
+at ~60 KB storing five months worth of logged info---it's
 easily portable, as many operating systems accept plaintext.
 
 Mine is inventively named as `log.txt`.
