@@ -2502,6 +2502,333 @@ to the life of some familiar thoughts, regardless of the lack of logic.
 I found myself rolling over, restlessly wrestling with the ideas and the
 perversions we shared that I think both you and I cannot forget.
 
+### Entry # 135
+Date: Sun, 20 Jul 2014
+
+Out of fatigue, I have mapped the innermost spheres to bring myself back
+to the life of some familiar thoughts, regardless of lack of logic.
+I found myself rolling over, restlessly wrestling with the ideas and the
+perversions we shared that I think both you and I can't forget.
+
+### Entry # 136
+Date: Mon, 21 Jul 2014
+
+When you look at your watch, you perceive the duration of your stay. It
+is alluring in itself: its hands beckoning your eyes to look at it again
+when just ten seconds ago, you checked the time. Unless your reality
+twists on itself in a loop, ten-second moment does not change much.
+
+Alas, you have no watch, yet you imagined yourself wearing one. That
+feeling when a concept materializes because (y)our mind can be, at some
+instances, playful; when you are humming a tune and suddenly the radio is
+playing it; or when the door reveals what's on the other side but you
+already know what or what not to expect. This is the time you feign the
+awe, and since no one will do it for you, might as well rediscover your
+type of entertainment.
+
+So look inward, and tell me what's in the stall. Do you see magazines
+filed in a rack? Now, don't let your hands rearrange them in an order---usually,
+the most informative ones in the front, fashion mags at the
+back. No one cares about your pick nor your priorities. Or, do you see
+your favorite electronic apparatuses? (Again, don't.) Do you see plates
+of food? (Surely, you won't.) Is this your enjoyment? Would you like to
+grab one for yourself? Do you buy your happiness? If, instead, you see
+abstract objects---colorful and always psychedelic---it's because you
+haven't been in extravagant shopping centers.
+
+Everything might have seemed illustrious at one point in your life, but
+I think it was a part of a long-ago blindness, when your status was
+still surrounded in debris, and you and your friends played in front of
+the rich man's gates because that was all this penury could offer.
+
+### Entry # 137
+Date: Mon, 21 Jul 2014
+
+i had a dream---in fact a series of dreams, but i can't remember all of
+them except for this one. i was taking out a smelly trash when the
+plastic bag broke at the bottom due to much weight, and all the rubbish
+and garbage juice splattered on the ground. i picked them one by one and
+put them back in the bag, which just slipped right out of the hole. this
+went on for minutes, until i felt a squirming sensation in my mouth, as
+if to snap me out of my focus. i spat on the ground. it was all saliva,
+blood, and maggots. i spat some more, because the squirming would not
+stop. still, blood and maggots. horrifying.
+
+### Entry # 138: *afternoon ale-ment*
+Date: Tue, 22 Jul 2014
+
+a guitar man once told me that people find creative ways to authenticate
+their unhappiness. i thought to myself, "do they also generate their
+own festering?" 
+
+i attempt this now, because my self as usual belongs to a different
+place and time, the self that waxes some fake wings onto his back to fly
+above the cityscape just to have a talk with you---
+
+would you swear to tell me next time we meet on that alternative setting
+the consequences of ignorance regarding the science of jesters
+conscripting their fellow jokers under depressive fumes? humor seeks to
+temper the blemished cheeks. yours, though, as i remember it, is beyond
+despair. the way people snap their necks to your way just to claim your
+cheekiness for their own, even for a while. or the way they applaud at
+you every time you share a laugh. they are selfish. they only want to
+have *your* fun for *them*selves. and by 'they', i mean 'we'. by 'we',
+'i'.
+
+and if i may, i want to tell you some things. don't worry, though. the
+sun is high and the wax melts on my back. i am dizzy from keeping my
+composure here mid-air. the harder i fight the fall, the dizzier it
+gets. i'm not sure you can condone this, but this will be over soon. i
+will tell you this in the most non-poetic method i can, as poets are
+often misunderstood, and i don't want to be it that way.
+
+...periodically, i wear jackets of different thickness to fend off the
+cold that is never here. remember, the sun is high on my back. i can't
+even imagine what winter feels like or what six sol-less months must be
+on the skin, as i have lived my entire life in a tropical metropolis.
+yet, whenever it is unusually chilling and/or i just feel fashionable, i
+wear jackets.
+
+why jackets? why of different thickness? (i ask questions i want to
+answer myself. read on to not know why.)
+
+the phantoms---phantoms being strangers enlisted under 'painfully
+wonderful'---avoid making themselves visible, but when i spot one, i
+acknowledge them with all the disease in my heart. i shiver. i steal
+from my courage, and look. my hopes, on the other hand, strive not too
+hard in the labyrinthine craft of the virginal, semi-acoustic,
+like-minded imaginings of art and clarity of cloisters found both inside
+and out of my pad. i need to have a third set of skin to protect me.
+like the glossy veil that hugs a hardbound's cardboard shell. a cover to
+cover the cover, you might say.
+
+as long as the thought of any self-rubbing, self-squeezing celestia i
+have down under my clothes, there would be no problem. as long as you
+find the idea of it appropriate for you to hold, then i shall, with
+all of my calories, stand ever so firmly with this your notion,
+even if it directs me to my perdition.
+
+immortality is a cheat index to fulfill a lifelong death wish. you do
+recall, don't you? it is also the wax that holds together my
+'flappiness' that is almost gone now, and yet here i am, asserting the
+point still. you do recall, don't you? well, *i don't*, but it doesn't
+mean it's not true in many cases.
+
+*in any case*, i know this afternoon is spent yet again in trance, the
+prismatic heavens dancing along my breadth, but i enjoyed it since i
+have you to guide me safely into a landing spot as my wings finally
+detach themselves off of my spine.
+
+### Entry # 139: *mortals and pestles*
+Date: Thu, 24 Jul 2014
+
+Shortly after an earthquake dream, I wriggled out of the blanket into
+the world downsized from its colossal stature.
+
+Inside dreamland, everything is blown up out of scale, and the dreamer
+will have to resort to other forms of traveling. Once, I summoned a
+firetruck and boarded it. I escaped a traffic jam but was later flagged
+down by a traffic enforcer. What said he? He scribbled on some
+ticket-pad as I reasoned my way out of this mess. "But Officer, this
+must be a dream?"
+
+I resumed much later my choking seizures, because that is how I deal
+with the contingencies of my itchy closet life.
+
+Mortality, if anything, is a bitter potion I have been drinking from the
+fountain of my grandma's garden. It helped me flush down the lipids that
+were passed to me down by her black sheep offspring through genetics,
+which were then stuffed in my atria at the dawn of my existence. I don't
+know what to make of that, but it was boiling in me. That was a long
+while ago, though, at least several hundred honeymoons into the past.
+
+And if the ground shakes again the next time I lose consciousness? Or is
+the inversion of this that I must be aware of?
+
+Everybody would shift from side to side, their pelvic bones gyrating
+without me, retracing lost steps on grand parquet still without me. I
+would have to dance alone to safety. However, this is nothing new to me---a task from my routine, it simply is.
+
+I don't like how this is gradually becoming a burden when I really think
+it isn't, and I can't be certain anymore whether meteors are worth the
+synthetic stigma of aspiring spacepeople. Or of astrologers who think of
+them as the trails of omen.
+
+### Entry # 140
+
+Date: Mon, 28 Jul 2014
+
+Actions are supposedly rougher than things involving those being still.
+The sirens are fast asleep and the vehement things (i.e., *very* bad
+people) are thrown back into the mix. If there is one moment of peace amid
+commotion, it happens on a bed.
+
+### Entry # 141
+Date: Sat, 02 Aug 2014
+
+The collected horns of traffic rising up to the challenge went on
+tirelessly. Another day to get by. I knew that I must look in every
+direction before crossing the street. At one moment, a truck étude blew me
+off as if to say "Speed up!"
+The driver did not wave a hand when I looked up at him through the windshield,
+but, in a raspy yell, said some bad things. This must be the workings of
+having to wake up early in the morning, groggy still and breakfast-less,
+to deliver big things big people buy, in order to live by until the next
+paycheck. I forgave him for being crass and out of mechanical
+practicality. I could have flipped him the bird, but that would not have
+taken the both of us anywhere. 
+
+As I walked on, I saw a tramp waving at me. He is fat and ugly and
+untidy. His smile was devilish but kind. I did not give him any spare
+change. He quickly averted his attention toward another soloist about a
+few meters behind me.
+
+There was a time in the past when I imagined myself walking the streets
+of Manila, with a placard containing cryptic message, begging for alms.
+What could the reasons be that I had to escape all civilized endeavors
+and be a vagabond? I wanted to know how difficult it must feel knowing
+that pedestrians would never look at me the same way. Also, could I go
+under the radar long enough for everyone to forget I ever existed? It is
+possible, I thought, since authorities pay no attention to missing
+individuals of little importance to society. Make no mistake: this was
+out of curiosity and not of deluded romanticism.
+
+I guess, I just wanted to travel by foot, see where my legs would take
+me.
+
+### Entry # 142
+Date: Sun, 03 Aug 2014
+
+**she danced with the 17 roses unceremonously.** there was a hint of
+contentment, though. i think the 13th and 14th roses are her flings. i
+can tell by the way her lady friends shrill their *kilig*. she must make
+a choice soon, though. it is a fickle thing, *love*, especially at such
+an age when the body dictates the mind and not the other way.
+
+she is my second cousin. in the clan's customs, everyone should know
+everyone, but i have been too busy with the immediate radius that i did
+not bother expanding my social circles. because i see no good point in
+it, pretending to want to be around a relative i barely grew up with.
+
+and yet, i was watching her enjoy herself.
+
+they hired singers, too. i forgot what the guy was singing in this part,
+but it was very good. the quality of his quips? inversely proportional.
+
+in between dances, my table mates and i would excuse ourselves for a
+breath of air. outside the venue, there's a photo booth. we went there.
+
+my hair was unruly, as always, but it was the first time that night that
+i saw how terrible the case was. i could pass as the next vocalist of
+The Cure. we took pictures anyway.
+
+**back inside**, they already serverd the dessert. it was a
+bland gelatin, yellowish in color, almost like a pus. would not be
+surprised if it tasted like one too.
+
+my seatmate, Gary, turned to me and said, "everyone is about to cry." i
+looked up and saw why.
+
+when the debutante threw her arms around her father, heaps of the crowd
+wept. he's the 18th rose. the last dance? aunt says he's been diagnosed
+with stage 2 prostate cancer. says his days are numbered.
+
+she has every reason to cry.
+
+my eyes were itchy. must be the dust.
+
+**hotel food is always rubbish.** always prepared sans passion. i have
+watched too many cooking shows, and that must be the reason why i expect
+so much every time.
+
+
+**soon enough**, the old man was drunk and making noises again, as were
+his table mates. thirty minutes before the party even began, they were
+already drinking shots of double black. he brings shame wherever he
+goes. there's that.
+
+**does anyone wish people stopped attaching definitions to a certain
+name?** i do. in my dream, i am always not me, which is good.
+
+**a good drive** is doing at least 60kph in EDSA. EDSA! i am talking
+about the most notorious avenue in the country being a free road!
+
+driver, step on it, would you? get me out of here.
+
+### Entry # 143
+Date: Mon, 04 Aug 2014
+
+double black, per the suggestion of our resident ortho, must be tried by
+anyone who fancies a clean hit, because "it's smoother than the black
+label when it comes to sensation."
+
+i was going to ask him to expound on this topic, but seeing the
+speedometer swerve between 99 and 101 while cruising homebound on skyway
+should be enough for me an evidence of his DUI as i leaned my head back
+and closed my eyes.
+
+### Entry # 144
+Date: Mon, 04 Aug 2014
+
+bus stops full of air and smoke and not of people standing beneath,
+because they no longer wait in safe places. they would rather jump
+aboard anything that whooshes by above 40 kph than fan themselves in
+boredom near suspicious-looking smugs. if you flag down something, be
+prepared to run after it. it does not stop for anyone, and who you are
+going to be after this commutation determines a good, at least decent,
+fate only if you were alert. attention here is crucial. as is everywhere
+else, i suppose.
+
+### Entry # 145
+Date: Tue, 05 Aug 2014
+
+it is rather simplified, i guess---the clouds spinning
+invariably to form a greater cause of casualty, wherein the issues
+involved do not attenuate the fear of getting struck by the heaven's
+bolt, let alone help one to crawl back under a shade; that in this
+dreamy hour, all rambling and rain-swept, i step back to the discomfort
+of my moving legs, my first walk to my first school. it is just a lane
+away from here. not too far. but to the calendars on which my memories
+are taped may already be pushed way back in the distant space; and
+need i some treading to reach it once again. again, for the sake of
+doing something.
+
+the learning center has been shut down for years. beyond the gates, last
+i checked, were the peering capsules that used to modify the future
+heroes whose guardians did not mind throwing away their money to the
+modes, albeit ridiculous as i have learned in the grapevine, of
+education that was never saintly contrary to the used-to slogan. as a
+child, i was not informed of the ways of payroll. no child should ever
+be burdened of it. here, i only learned the fundamentals.
+
+my first school teacher, Carol, already a divorcée when i met her, said
+that i was a brilliant kid. she stamped my hand with a purple star
+labeled *very good*. i knew that apple was red, and that one apple added
+to another makes two apples. rough guess: i was not born stupid.
+
+it smelled like an infirmary, her small office, although at the time, i
+did not know what infirmaries smelled like. the janitors, perhaps in
+seeing that they would be mingling with kids everyday, had to sanitize
+everything to bleach white. the basic stench could have fried our little
+neurons, but i need a good source to back this up. it remains an
+observation, untested in the laboratory or at the field of ascetic
+hypotheses.
+
+father told me her son died due to food poisoning. out of neglect. which
+is why her husband decided to leave her for good. 
+
+teacher Carol erected the center in memory of her dead son. thinking
+about it now, it is weird, since the back story was unfit to support the
+beams of this mini-institution, the slow degradation injected to the
+thoughts of young enrollees, i included. the legacy lived on in spite of
+it. the valedictory speech that excluded any formal attempts of
+greeting, reduced to a simple nod to while away the persecutors perched
+on their seats.
+
+however, coming to grips, yes, this is it: mi último adiós, to the
+necessities unfailingly dismissed by the order of hand landing briskly
+on their cheeks.
+
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -2573,6 +2900,17 @@ going off the charts again.
 liked or, like, likely disliked.
 1. 'unfollowing everyone', and it begins with **u**.
 1. having a platonic relationship with geometric solids
+1. how bothersome it is to come to terms with yourself, to settle those
+arguments alone, left hemisphere versus the right, or the entirety of
+dear brain against itself.
+1. may the palms never get tired of holding the head uninterested at
+'living the moment'.
+1. an exposition of gazes elucidating the phenomena that could have
+happened, but since i am the slightly differential, i owe you another
+explanation.
+1. untouched fruits, too ripe now and wild-seed swollen, are let go from
+the branch that had held them for some time.
+
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
 (minotaurs aside) are fairly easy to navigate (as opposed to mazes

@@ -169,7 +169,7 @@ implemented using a plaintext editor.
 For this I use Notepad, since I use Windows for work.
 
 Not only is it light on resources---currently
-at ~60 KB storing five months worth of logged info---it's
+at ~100 KB storing five months worth of logged info---it's
 easily portable, as many operating systems accept plaintext.
 
 Mine is inventively named as `log.txt`.
