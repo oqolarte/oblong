@@ -70,7 +70,7 @@ The following are the entries that I like, with slight edits.
 ### Entry # 1
 Date: Wed, 30 Oct 2013
 
-Someone called me on the phone, but I did'nt hear it
+Someone called me on the phone, but I didn't hear it
 immediately, because I was too absorbed on the gyrating sound waves
 coming out of the speakers. 
 My music, Queen, was too loud, and the
@@ -2829,6 +2829,284 @@ however, coming to grips, yes, this is it: mi último adiós, to the
 necessities unfailingly dismissed by the order of hand landing briskly
 on their cheeks.
 
+### Entry # 146
+Date: Mon, 11 Aug 2014
+
+it is often without good reason that i tend to push the things needed to
+be done further into the calendar until pressure builds at one corner,
+but today, four days from deadline, amid the tangle and toss of Recto
+("rectum of Manila," Sionil José once said), i finished something
+significant. i don't feel proud, though. just tired. and weary.
+
+they say that delaying the accomplishment of a task improves the
+quality of output. practitioners from the
+medicine field might not agree on this.
+
+### Entry # 147
+Date: Tue, 12 Aug 2014
+
+din regurgitates into being much "oblivionism", a state in which no
+other states exist except nothingness itself. and maybe train tracks,
+and the train on it, and the people aboard the train. are they part of
+this whole new nothingness experience? maybe, of the entire
+consciousness where the 'soul' arrives.
+
+every station is a new quest to find ways of austere astral jaunts, to
+seek thrills that are slowly consuming. i think if alchemy were real, it
+would be the grounds of metaphorical truths. or rather, it is only true
+in metaphors.
+
+nebulous cries dissolve in time, and as they do, they are converted to a
+new form of energy, as if lead being transmuted to gold, poison to
+elixir, burden to enlightenment.
+
+i, mor(t)al, am running alongside a train trying to outrun it, all the
+while singing a christmas carol. in here, however, one has no lordship
+over one's speed. one simply witnesses oneself play for the theatrics of
+one's mind.
+
+i find it less odd to know how slow i am in a race against a machine.
+
+i woke up feeling golden, which is not startling.
+
+### Entry # 148: *for someone who dismisses horoscope, this is it*
+Date: Wed, 13 Aug 2014
+
+we can stay and be friends. 
+
+we'll watch together other sunset photographers fill their portfolios with
+overused motifs and themes---the same fibonacci of flowers against a
+tangerine opacity---but let me not blame them for marveling at the
+picturesque facets of nature, how they point their cameras westward
+feebly, funny because it could not be helped. i can imagine how helpless
+they must feel, unable to temper that desire to document all that is
+beyond their hands, as most of the time, i feel that, too, when putting
+to words my thoughts on certain aspects of living. humans can capture
+through manic simulations that elusive beauty of nature, although our
+copies only asymptotically arrive to what could qualify as good. give a
+few more years, decades.
+
+from our vista that is like no other, watch how bats flutter at the low
+altitudes of the metropolitan squabble, and wonder, as we should, where
+do they go to sleep? do they have caves here somewhere (perhaps, beneath
+a footbridge) made out of guanos and stalactites? i'd like to see that---with you,
+of course. i think of their migration from provinces to the
+capital, clouds of them filling the skyline of roxas blvd. motorists
+would stomp on their brakes, and cars would pile up from baywalk to
+nowhere, all of them looking up at squeaking portents, flying bats.
+
+in this note, i'd like to know if manileños are a curious lot? i mean,
+to the point of giving in to the cessation, just to watch (with us, of
+course) any motion of ill omen.
+
+but we are too absorbed to be anything else. only seldom we focus.
+
+cities are full of noise. never has telecommunication been so important.
+white screeches and negative feedbacks, night lights blotting out the
+stellar pyre: anti-magic in the form of hidden humanity, anti-motivation
+in the form escapism. nonetheless, both cannot be heard nor seen, even
+if one pays attention.
+
+too much for too long, the blankness in expression expresses that much
+diffidence pervading throughout the air, reaching zeniths, but not way,
+way up and out. we nominate which of our scriptures would ascend in air
+to be carried to places, the best breath we can part with the wind. it
+is up to the newest methods we have at our disposal if such texts and
+tones will land on their destinations. even then, we are barely
+understood. as peers, we have been out of touch. as colleagues, we are
+too arrogant in advertising ourselves. in the end, we wake up to the
+same monotony that cannot be auto-tuned.
+
+however, stay---for the vodka ever so vivifying; for the superlative
+factors that we have yet to seek, many of which do not belong anywhere
+and anywhen else but here and now. the future might not be as amazing as
+it looks, and the past, despite my previous convolutions, apprehensive. i
+hope we can visit soon a big observatory, that i can disprove myself
+these allegations.
+
+### Entry # 149
+Date: Thu, 14 Aug 2014
+
+when i seek peace at the roundabout, i do not expect that something good
+will come out of it. as a matter of fact, through the years, i have
+leaned on an incline where bad outcomes outweigh the good. if a man
+would jump out of a corner with an ice pick on his hand, then i know i
+was not wrong in thinking of the lurking harm that riddles the unseen.
+
+when i seek peace on my bed via slumber, then it is another experience
+altogether. yes, it could feel swift, but it should not be as
+detrimental a sensory as the one above.
+
+it has been bothering me, however, for quite some time now, when the
+solemn act of sleeping (alone on a wide bed, preferably) cuts into the
+known dimensions of space. physically, it is not possible, or at least,
+not yet to laymen. but that is what i hope to achieve: to rip through
+the rift and jump to the morrow in the most efficient way. meaning,
+arriving at point B from point A expending minimum effort. 
+
+i lie there, eyes closed, illusions of time are chucked to the null. it
+does not matter when i retire early or late at night. my body clock
+wakes me up at the same hour: 10 AM.
+
+time supposedly is a man-made abstraction, a term coined to describe the
+passing duration; a word that tells something about an organism's age in
+a language humans can understand; represented as *t* in calculations. if
+i were to talk about the virtues of time, wouldn't it be just a waste of
+it? but how can such non-material concept be wasted? most importantly,
+did i oversleep again?
+
+### Entry # 150
+Date: Sat, 16 Aug 2014
+
+to transfer all the bile polluting the organ beneath the chest out of
+the system; the fluid finds its way somewhere non-hepatic, somehow. to
+transfer it all from the random sketches of envy and venom to the fangs
+of a lower serpent, and out to the bunks of the underworld waiting, if
+only that were anatomically possible.
+
+i haven't been to an ocean's floor. more so, it is not dead. even more
+so, it does not wish to receive my refuse, and at the same time, i don't
+want a trace of humanity among its dark depths. and yet here i go,
+casting now and casting more. every segment is an episode of quivering
+motion. this is dilemma setting in. either that, or i, at this
+unfortunate slice of moment, am too blind to see what is visible to
+many, too dumb to derive a conclusion based on the provided evidence.
+whichever holds true, and truth being one coming from a third neutral
+perspective, for the time being, i assume the former.
+
+i know what you (future-me) are thinking. you think i have overruled the
+impossibility of mistake by disabling that which only mechanically
+functions nowadays. then, you are wrong. your instructor, flawed and
+hemispherical, does not benefit from the perverse discretion of
+isolation. for all i know, it is a symptom. you are fermenting your own
+in a vat, full to the brim with nothing but. 
+
+it is fermented: the blaring news. and now you know.
+
+...
+
+gist in one question: how do i deal with such intemperance?
+
+...
+
+sometimes, i wonder if there's a benefit in addressing the current
+problems to a person from a different spacetime, and if such benefit
+would be immediately, effectively, noticed by the one who is babbling
+(me). that no matter how hard i suppress dem feelz, they only flow in
+every direction but inward. 
+
+lo, this is another low, the newest actually, delivered unto me in a
+quick fire through the account of a similarly aquatic drone, but under
+no circumstance is it intentional. my part here is atlantic.
+
+### Entry # 151
+Date: Sat, 16 Aug 2014
+
+abundance of a source, as long as it is free and safe, is never the
+subject nor the issue. you know how the
+imps whisper into the ears of winos but not nibble at the rim of the ale
+bottle? there are no 'dirty' things. there are only \'dirty' people.
+
+someone once told me that a shot is enough to displace one's beliefs,
+depending on the quality and content. i held on to this, although i've
+never dreamed of evolving into an active bar brawler. i am a lever not a
+fighter. by that, i mean i am more of finding leverage in other means
+rather than submit my physique to a process of reduction. if, however,
+the only way to deal with the situation is a hand-to-hand combat, i'd go
+and give it my game.
+
+the problem is, i seldom go to bars, because they are all filled with
+noisy people. noisy people alone are fine, but noisy people quarantined
+in the confines of alcohol -- that is a different brooding. i've seen in
+those spaces how my contemporaries were bred further into bad
+socialites. therefore, the chances of my hitchhiking onto a fist-fest
+are slim. there in bars, my blood boils for some reason, my veins pop,
+my teeth grind my teeth. this is unnatural. my temper is not usually
+disorderly. besides, i am too broke to be wagging my tail bone
+around, pretending i need new phone pals, because i don't.
+
+i wheeze, but i strive to smile and be thoughtful. and my poor metallic
+curse cures itself poorly; and that's how things are *here*.
+
+the last time prior to checking out of a reggae bar, i stomped too hard
+on the pedal of a bass drum. i questioned too why the featured bands
+imitate a jamaican accent. one of them looked very oriental, his eyes,
+and yet he formulated his voice to sound differently. *be yourself*, i
+thought. amid the kung-fusion, i sat placidly with a free beer in hand.
+who was i to contemplate?
+
+friends let their friends get left behind, burning at ice palaces, not
+looking back, apologies fleeing from the stares, for they have stolen
+something they couldn't return, because they thought i had embarrassed
+them. the only way to confront this was with a mild sedative.
+
+nevertheless, my goodness is still in tact.
+
+it might take me a long time to go again where the mass is happy while
+the roads are splitting open, the ceilings ablaze with phosphorescence.
+at some corners, there would be voyeurs asking for bruises in some
+conduits, and accidentally eyeing on them makes me uncomfortable.
+
+so, i've never been this eager to feel so mega after feeling so milli. i
+try not to be impulsive.
+
+### Entry # 152
+Date: Mon, 15 Sep 2014
+
+it was almost an honest moon, stars striking our cordial conversation,
+when the one-sided attraction lost my favors by a rub. i always kept a
+fact sheet of data to present to a future ignominy, however unpromising
+the fluctuations had been, to be as scientific as possible. but is it
+really possible to be scientific in dealing with these kinds of things?
+
+in many attempts, the prowess extraordinaire of the limbic system
+transcends logic. this abstract made the scene serene, almost palpable.
+somewhere were the lost pieces of fullness as evidenced by how the way
+the lips once parted in marvel. all the data confirmed the sense that
+both internal and external realities are amalgamated into a, usually,
+post-nocturnal nicety---truly a far better embrace of *the* truth,
+albeit stupidly so.
+
+### Entry # 153
+Date: Tue, 16 Sep 2014
+
+your poise croons under the bridge, throwing rocking bits to strangers.
+those you have hit will puke into the river below in agony. the river
+becomes rueful because of this. but, you take your needs and nutrients
+from the river. the murky water you drink worsens your poise, further
+desolating whatever still remains of your inhibition. sometimes, you
+wonder if there's a way of elating out this cycle.
+
+### Entry # 154
+Date: Wed, 17 Sep 2014
+
+anguish corrupts worse than any carnelian lethargy, but, as i have
+experienced, a lot of looking inward and meditating in the trenches of
+thoughtless words, there is a chance to weaken altogether the sensation,
+or at least turn some of it as excess heat. peering down on myself from
+an altered perspective might sound obtrusive, but in examining why and
+how my core diminishes from time to time gives me sense in a way. we
+have altars no other being can hold. we have temples; and within those
+complex, we can make anything out of something so perilous.
+
+### Entry # 155
+Date: Thu, 18 Sep 2014
+
+You define the counterargument for the stakes that firmly hold the
+discipline (or the absence thereof) of being an urban crook. And this
+without hesitation is my main absolution as to why am I in front of you,
+kissing the gratitude onto your knees one small, dutiful peck at a time.
+Maybe you would pat my forehead as if patronizing the humility of my
+expression, but whether this will be the case, I have long since thrown
+my speculations out the proverbial window; and I have since then assumed
+that you must be a great thinker in the previous arrangement of your
+very atoms, for you (and only you, of all the beings I have met) only
+deflect any stimuli of hooligan-ness away from you with garlands and
+grace. Personally, I don't think of it as a bad thing.
+
+In time, everything will forge again routines, and those will break into
+fractals; and all shall be back to their excellent simplicity where I
+would like to find myself stuck. Maybe, you'd be there.
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -2910,7 +3188,20 @@ happened, but since i am the slightly differential, i owe you another
 explanation.
 1. untouched fruits, too ripe now and wild-seed swollen, are let go from
 the branch that had held them for some time.
-
+1. overheated laptop is in its self-defeating behavior
+1. a world in which the hair strands obediently sways against the bashing
+of gales is a world depleted of hair products, and what a marvelous
+place would that be.
+1. either frustration or just plain dumb, it's something i feel when,
+however hard i play my imaginary ocarina, no mythical
+bird comes to my aid to take me away.
+1. fridges stink when left unplugged / freezers undermine the meat / fruits so begin to rot / what to make of this heat
+1. because i want some hair strands to be pasted above my eyelids, I say, "may eyebrow these?"
+1. the paper strip in the fortune cookie you just opened says, "INSUFFICIENT DATA FOR MEANINGFUL ANSWER"
+1. cheers to the hours of wasted development, of haphazardly improvised philosophy, and may you and i never get over it.
+1. what rescues you from the synthetic pop of the world?
+1. *\*quotes Bukowski in a grad school application essay\**
+1. how do i love thee? let me count clichés
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
 (minotaurs aside) are fairly easy to navigate (as opposed to mazes

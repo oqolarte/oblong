@@ -7,9 +7,12 @@ draft: false
 ## Status: On-going {.statusOnGoing}
 
 The making of this site is itself a personal project.
-In this oversized Colophon,
+In this oversized colophon[^colophon]
 I'll tell you about my brutalist website,
 the design of which is an accurate depiction of my knack for simplicity.
+
+[^colophon]: Colophon is a brief statement containing information about the
+  publication of a book. [Wikipedia](https://en.wikipedia.org/wiki/Colophon_(publishing))
 
 The status is likely to stay **on-going**;
 this site is always under construction.
@@ -114,6 +117,10 @@ of readers.
 
 I use *your* system's default font stack so your computer wouldn't
 need to look elsewhere to render the fonts.
+Well, technically, I prefer some fonts over others that you'll see in the next
+two code blocks, but in case your system
+doesn't have the fonts that I like, it falls back to the default typeface that
+it does have.
 
 I use serif for headings. This is the font stack that I use (as found in my
 CSS):
@@ -172,8 +179,7 @@ You have to manually right-click it and select `Open in a new tab` (or `...windo
 
 ### No JavaScript?
 
-It's not really that I find JS harmful,
-although some would argue that it could be.
+It's not really that I find JS harmful, although some would argue that it could be.
 I don't even know enough of the language to make that claim.
 
 So why this "distaste" for JS in websites?
@@ -183,7 +189,7 @@ It's absence is definitely beneficial, because there's less code to maintain.
 Eliminating the excess, even in the form of code, does leave a positive impact via negativa.
 
 ### No Ads
-Only advertisers like ads.[^ads]
+Only advertisers like ads[^ads].
 I don't intend on monetizing this site with ads, 
 so expect a clean (read: boring) experience.
 
@@ -234,14 +240,10 @@ It takes some fiddling around the documentation, but it can be done.
 
 In many SSGs, content is written in Markdown, a simple markup "language" for creating formatted text using a plaintext editor.
 Markdown files (`.md`) are lightweight, portable, easy to backup, and transfer between computers.
-It's often used because it's intuitive to use;
-and with its relatively simple syntax,
-a skilled enough programmer can write a program (say, a SSG) that can parse a markdown file
-to be converted to HTML.
 
 Generation time depends on the size and volume of files that need to be compiled.
 I've heard that some SSGs could take up to a minute to build one whole site;
-some only take *milliseconds*.
+some only *milliseconds*.
 
 It *is* tedious to go through all that.
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.

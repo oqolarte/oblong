@@ -60,7 +60,7 @@
 </div>
 <h2 class="statusOnGoing" id="status-on-going">Status: On-going</h2>
 <p>The making of this site is itself a personal project.
-In this oversized Colophon,
+In this oversized colophon<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>
 I&rsquo;ll tell you about my brutalist website,
 the design of which is an accurate depiction of my knack for simplicity.</p>
 <p>The status is likely to stay <strong>on-going</strong>;
@@ -141,7 +141,11 @@ i.e. serve readable content.</p>
 <p>And there are many ways to do that without compromising the overall experience
 of readers.</p>
 <p>I use <em>your</em> system&rsquo;s default font stack so your computer wouldn&rsquo;t
-need to look elsewhere to render the fonts.</p>
+need to look elsewhere to render the fonts.
+Well, technically, I prefer some fonts over others that you&rsquo;ll see in the next
+two code blocks, but in case your system
+doesn&rsquo;t have the fonts that I like, it falls back to the default typeface that
+it does have.</p>
 <p>I use serif for headings. This is the font stack that I use (as found in my
 CSS):</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">h1</span><span style="color:#f92672">,</span><span style="color:#f92672">h2</span><span style="color:#f92672">,</span><span style="color:#f92672">h3</span><span style="color:#f92672">,</span><span style="color:#f92672">h4</span><span style="color:#f92672">,</span><span style="color:#f92672">h5</span><span style="color:#f92672">,</span><span style="color:#f92672">h6</span> { <span style="color:#66d9ef">font-family</span>: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, <span style="color:#66d9ef">serif</span>, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
@@ -180,15 +184,14 @@ Note: In iOS and iPadOS, this arrow becomes an emoji version of it.</p>
 Clicking one does <strong><em>not</em></strong> open it in a new tab or window.
 You have to manually right-click it and select <code>Open in a new tab</code> (or <code>...window</code>) (or click with Mouse3/MouseWheel).</p>
 <h3 id="no-javascript">No JavaScript?</h3>
-<p>It&rsquo;s not really that I find JS harmful,
-although some would argue that it could be.
+<p>It&rsquo;s not really that I find JS harmful, although some would argue that it could be.
 I don&rsquo;t even know enough of the language to make that claim.</p>
 <p>So why this &ldquo;distaste&rdquo; for JS in websites?</p>
 <p>Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
 It&rsquo;s absence is definitely beneficial, because there&rsquo;s less code to maintain.
 Eliminating the excess, even in the form of code, does leave a positive impact via negativa.</p>
 <h3 id="no-ads">No Ads</h3>
-<p>Only advertisers like ads.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>
+<p>Only advertisers like ads<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>.
 I don&rsquo;t intend on monetizing this site with ads,
 so expect a clean (read: boring) experience.</p>
 <p>Also, did you know that a lot of online advertising you see depends on JS?</p>
@@ -206,7 +209,7 @@ If it it&rsquo;s not adding value content-wise, it&rsquo;s likely not going in.<
 There are several tools you can use to do this.
 <a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.</li>
 </ul>
-<p>Nowadays, I  tend to use <a href="https://github.com/jarun/imgp">imgp</a><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, a &ldquo;high-performance cli batch image resizer and rotator,&rdquo; that I can use offline.</p>
+<p>Nowadays, I  tend to use <a href="https://github.com/jarun/imgp">imgp</a><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, a &ldquo;high-performance cli batch image resizer and rotator,&rdquo; that I can use offline.</p>
 <p>From the command line, I do something like:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">imgp -x 1366x0 --quality<span style="color:#f92672">=</span><span style="color:#ae81ff">85</span> -pew ~/image.jpg
 </code></pre></div><ul>
@@ -214,26 +217,22 @@ There are several tools you can use to do this.
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.</li>
 <li><code>--quality</code> is the quality factor.
 Here, I set it to 85.</li>
-<li><code>-pew</code> combines three options: optimize, erase EXIF metadata<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>, and overwrite source images respectively.</li>
+<li><code>-pew</code> combines three options: optimize, erase EXIF metadata<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>, and overwrite source images respectively.</li>
 </ul>
 <h2 id="back-end">Back-end</h2>
 <p>I use <a href="https://gohugo.io">Hugo</a> static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.</p>
 <h3 id="in-the-name-of-static-site-generator-ssg">In the name of Static Site Generator (SSG)</h3>
-<p>Using SSG like Hugo arguably increases security by simplifying a lot of things<sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup>.
+<p>Using SSG like Hugo arguably increases security by simplifying a lot of things<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup>.
 There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.</p>
 <p>In many SSGs, content is written in Markdown, a simple markup &ldquo;language&rdquo; for creating formatted text using a plaintext editor.
-Markdown files (<code>.md</code>) are lightweight, portable, easy to backup, and transfer between computers.
-It&rsquo;s often used because it&rsquo;s intuitive to use;
-and with its relatively simple syntax,
-a skilled enough programmer can write a program (say, a SSG) that can parse a markdown file
-to be converted to HTML.</p>
+Markdown files (<code>.md</code>) are lightweight, portable, easy to backup, and transfer between computers.</p>
 <p>Generation time depends on the size and volume of files that need to be compiled.
 I&rsquo;ve heard that some SSGs could take up to a minute to build one whole site;
-some only take <em>milliseconds</em>.</p>
+some only <em>milliseconds</em>.</p>
 <p>It <em>is</em> tedious to go through all that.
 Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog, with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.</p>
-<p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> anytime!</p>
+<p>But I&rsquo;ll take the massive freedom gains provided by SSGs<sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup> anytime!</p>
 <h3 id="using-hugo">Using Hugo</h3>
 <p>Great Hugo tutorials abound online, in blog posts and video formats.
 Some target new users;
@@ -243,7 +242,7 @@ Sooner or later, reading the official documentation becomes necessary,
 as one can safely assume that it&rsquo;s updated.</p>
 <p>As with everything else, it&rsquo;s important to be patient and willing to read the manual.
 In case you&rsquo;re stuck, you can also ask the community.
-Hugo has both decent <a href="https://discourse.gohugo.io">community</a> and <a href="https://gohugo.io/documentation">documentation</a><sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup>.</p>
+Hugo has both decent <a href="https://discourse.gohugo.io">community</a> and <a href="https://gohugo.io/documentation">documentation</a><sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup>.</p>
 <p>Honestly, Hugo&rsquo;s learning curve is steep, especially if you&rsquo;re like me with no &ldquo;real&rdquo; coding experience.
 But if you have the patience to read, learn, and ask for help, Hugo, as well as other SSGs, might just be the right magic for you.</p>
 <p>My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
@@ -306,29 +305,33 @@ web designers and developers <em>must see to it</em> that everyone can access in
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
-<p>That&rsquo;s just a wild claim.
-I have no proof of it <em>yet</em>, but absence of evidence doesn&rsquo;t mean evidence of absence, <em>no</em>?
-Maybe the creatives who are coerced into doing the visuals also like their work.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Colophon is a brief statement containing information about the
+publication of a book. <a href="https://en.wikipedia.org/wiki/Colophon_(publishing)">Wikipedia</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2" role="doc-endnote">
-<p>It&rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
-Visit their page for more info.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>That&rsquo;s just a wild claim.
+I have no proof of it <em>yet</em>, but absence of evidence doesn&rsquo;t mean evidence of absence, <em>no</em>?
+Maybe the creatives who are coerced into doing the visuals also like their work.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3" role="doc-endnote">
-<p>Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
-As an added bonus, it&rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>It&rsquo;s available in many Unix-like systems, including Linux distros, and macOS.
+Visit their page for more info.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:4" role="doc-endnote">
-<p>Or, if you have <a href="https://pandoc.org/">Pandoc</a> in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
-It takes some fiddling around the documentation, but it can be done.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
+As an added bonus, it&rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:5" role="doc-endnote">
-<p>Check out <a href="https://jamstack.org/generators/">Jamstack</a> for a list of hundreds of possible SSGs!&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Or, if you have <a href="https://pandoc.org/">Pandoc</a> in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
+It takes some fiddling around the documentation, but it can be done.&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:6" role="doc-endnote">
+<p>Check out <a href="https://jamstack.org/generators/">Jamstack</a> for a list of hundreds of possible SSGs!&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7" role="doc-endnote">
 <p>By &ldquo;decent&rdquo; I mean it covers all the basic needs to help you set up a working site.
 In its current state, it&rsquo;s reliable.
-However, the more complex you make your site, you&rsquo;ll find that Hugo documentation still needs more polishing.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+However, the more complex you make your site, you&rsquo;ll find that Hugo documentation still needs more polishing.&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>
