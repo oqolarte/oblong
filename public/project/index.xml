@@ -4428,20 +4428,22 @@ I have the snippet in my server configuration:&lt;/p&gt;
 my site scores &lt;code&gt;A+&lt;/code&gt; in &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;Mozilla Observatory&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;In high school, computer lab was not my favorite, and I&amp;rsquo;m okay with that.&lt;/p&gt;
-&lt;p&gt;One of our &amp;ldquo;lab works&amp;rdquo; was to create our own website.
+&lt;p&gt;One of our lab works was to create our own (offline) website.
 It had to be interesting, catchy.
 That&amp;rsquo;s why many of my classmates had &lt;code&gt;&amp;lt;marquee&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags in their works.&lt;/p&gt;
-&lt;p&gt;I don&amp;rsquo;t remember how mine looked, but I&amp;rsquo;m sure it&amp;rsquo;s basic, with broken links hither and thither.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t remember how mine looked, but I&amp;rsquo;m sure it&amp;rsquo;s basic,
+with broken links hither and thither.&lt;/p&gt;
 &lt;p&gt;More than a decade later, here I am, building one again.
 Only this time, I have more enthusiasm.
-At least I&amp;rsquo;ve retained the important bits on how HTML works, so I&amp;rsquo;m not starting from zero.&lt;/p&gt;
+At least I&amp;rsquo;ve retained the important bits on how HTML works,
+so I&amp;rsquo;m not starting from zero.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;d like to say that I dedicate this to my former self, who couldn&amp;rsquo;t seem to grasp the importance of web design.
 As we rely on the internet for improving our collective knowledge,
 web designers and developers &lt;em&gt;must see to it&lt;/em&gt; that everyone can access information, in spite of the current tech they have.&lt;/p&gt;
 &lt;p&gt;Here are some other sites from which I also got inspiration:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;LOW←TECH MAGAZINE, the &lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;solar-powered one&lt;/a&gt;. Their article on &lt;a href=&#34;https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html&#34;&gt;how to build a low-tech website&lt;/a&gt; is eye-opening.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;, and even &lt;a href=&#34;https://1024b.club&#34;&gt;1024b Club&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;, and even &lt;a href=&#34;https://10kbclub.com&#34;&gt;10KB Club&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;The &amp;ldquo;&lt;a href=&#34;https://bestmotherfucking.website&#34;&gt;Best Motherfucking Website&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&amp;rsquo;s website&lt;/a&gt;, although it begs a few design tweaks to improve readability.&lt;/li&gt;
 &lt;li&gt;And other small, obscure personal blogs in the &amp;ldquo;smol net&amp;rdquo; and &amp;ldquo;dork web&amp;rdquo; that we have yet to discover.&lt;/li&gt;

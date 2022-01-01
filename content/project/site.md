@@ -316,15 +316,17 @@ my site scores `A+` in [Mozilla Observatory](https://observatory.mozilla.org/).
 
 In high school, computer lab was not my favorite, and I'm okay with that.
 
-One of our "lab works" was to create our own website.
+One of our lab works was to create our own (offline) website.
 It had to be interesting, catchy.
 That's why many of my classmates had `<marquee>` and `<blink>` tags in their works.
 
-I don't remember how mine looked, but I'm sure it's basic, with broken links hither and thither.
+I don't remember how mine looked, but I'm sure it's basic,
+with broken links hither and thither.
 
 More than a decade later, here I am, building one again.
 Only this time, I have more enthusiasm.
-At least I've retained the important bits on how HTML works, so I'm not starting from zero.
+At least I've retained the important bits on how HTML works,
+so I'm not starting from zero.
 
 I'd like to say that I dedicate this to my former self, who couldn't seem to grasp the importance of web design.
 As we rely on the internet for improving our collective knowledge,
@@ -333,7 +335,7 @@ web designers and developers *must see to it* that everyone can access informati
 Here are some other sites from which I also got inspiration:
 
 - LOW←TECH MAGAZINE, the [solar-powered one](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
-- [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club), and even [1024b Club](https://1024b.club)
+- [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club), and even [10KB Club](https://10kbclub.com)
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 - [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
 - And other small, obscure personal blogs in the "smol net" and "dork web" that we have yet to discover.
