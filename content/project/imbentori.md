@@ -3108,6 +3108,224 @@ In time, everything will forge again routines, and those will break into
 fractals; and all shall be back to their excellent simplicity where I
 would like to find myself stuck. Maybe, you'd be there.
 
+### Entry # 156
+Date: Wed, 24 Sep 2014
+
+not that i've hit a wall, but it seems, now that everyone within
+proximity is dead asleep, that that *is* the case: a curious, massive
+block of hindrance is in front of me. i am done submitting applications.
+the next step is to do it again the following day, wait for response,
+get back to the new house, and live with new people. and in the
+meantime, i can take solace in the brain-firing convulsions of dota[^dota].
+(remind me to deal with my slouching habit during video-gaming. if only
+there was a way of auto-correcting the posture. poor spine.)
+
+[^dota]: Defense of the Ancients. I only ever played the one in Warcraft III:
+  Frozen Throne. [More at
+  Wikipedia](https://en.wikipedia.org/wiki/Defense_of_the_Ancients).
+
+### Entry # 157
+Date: Wed, 24 Sep 2014
+
+it understands the nature of being in the know-how, i mean, this special
+canine that i have in my hands, it sniffs the fire, be it provincial or
+sentimental, and somehow, it knows what to do with it. i think of it as
+a rare phenomenon: a smart, ambitious dog igniting amid several knots
+of mischief its curiosity one sniff at a time. for a species to evolve
+into a self-destructive maniac like humans, it is deemed important to
+have that drive to know more of oneself, one's surroundings, tools, the
+world, the space outside the world, and whatever forces, laws, and/or
+momenta that govern habitability in the plane on which one experiences
+realities. and, somehow, this dog "has it all".
+
+### Entry # 158
+Date: Tue, 30 Sep 2014
+
+degrees of consciousness dictate a good direction of dreams with a
+recklessness that does not match anything but something that resembles a
+proton running the length of a collider at the speed of snail. i think
+living requires a supernatural effort. am i thinking too obviously?
+
+### Entry # 159
+Date: Fri, 03 Oct 2014
+
+i have been demoted from a licensed professional to a tindero, which has
+its own propensity of edging me---or at least some parts of me---to a
+certain smack of doom, totally unpalatable for my taste, if you might
+ask me.
+
+### Entry # 160
+Date: Sat, 04 Oct 2014
+
+laughter fades at the smallest hint of crass misdirected while i
+struggle to maintain a smile at meaningless accusations. your laughing
+at them as if they weren't Real---a bit aching for the Real, behind the
+excited grin---says more of the chum that has found its Imaginary
+residence.
+
+i find the tactlessness of people out of time and out of place, since
+most of them are fueled by ancient vendetta. this is why one (or
+probably all) of my friends is a toilet.
+
+i don't usually not dodge persons but smiling---the feeling is
+good, though a little tragic, aside from the fact that they are sparks
+filliping that end just as quick.
+
+i am so many things, yet *here you go* in the crummy of my compartment
+to a certain person with no luck or good excuse.
+
+### Entry # 161
+Date: Sun, 26 Oct 2014
+
+among the weeks that have me anchored to a(nother) foreign house not
+ours, it could not get any duller than this one, largely because of
+monotony. it sucks to be *and* not to be tethered to the webz,
+especially when mad thoughts are flung my way for no good reason and
+with no readily available medium to divert it to.
+
+the old man comes
+around for a drink, but i despise having to share a drink with him. he
+gets too hyped and cannot control what he says and how he says them when
+the spirits have come to meet him dizzy. last time, i just stared at the
+night sky while he was babbling with his cheap principles, and i could
+not even recognize the big dipper. the incandescence of street lamps
+have washed the twinkles of stellar dots. being around this old man when
+that happens is something i did not dream of.
+
+speaking of dreams, i
+dreamed of my brother the other night. he had shorter hair. he had
+styled it so that the front bundle was spiked outwards. anyway, life
+cannot conjure something from the shiftless.
+
+### Entry # 162
+Date: Wed, 20 Aug 2014
+
+Oh, weathered in the most natural position you can assume, epidermis
+cawing for the monsoon. You court the dregs of precipitation before its
+droplets even land on the garden.
+
+Greetings from the light brown earth scorched under the gradual movement
+of solar impatience. Light brown to dark. Dark brown to darker brown.
+Like how it is in the early levels of Blendoku. The shades step down one
+point from detachment, towards the pit.
+
+Waking up to a body enfeebled during the wee hours of morning as if
+sleep had become fatigue. Corpulent figures from dreamscape seem
+augmented to fit the large space of imagination. Walking up the patio
+and you find the door locked. Waking up to check your pocket if you had
+the keys, only feeling stupid after reality had set in.
+
+Dehydrated and weak and irritated by the blatant insinuations of
+Belphegor, it that none of your delegates would want to know of. You
+barely managed to pull yourself up and attend to your bodily needs. At
+times like this, you wish there was an anatomical valet of sorts that
+would carry off of you your piss and shit without you having to go to
+the loo.
+
+Consequently, your mind wanders to another unrelated idea: you think if
+only you could pull your heart straight out of your chest without being
+messy, and try to see if this tireless, selfless organ really is the
+epitome of all that is, was, and will ever be romantic. No, it cannot
+be. In a few forceful forthbringing to fruition, the day will have
+reached its hottest. Smile because the time is not yet. Pull your eyes
+shut again and sleep again.
+
+This time, it is about your molar: it wiggles in its place, and you pull
+it out of your gums. This tooth is habituated by larvae on the underside
+of it. Waking up so anxious to mumble, "Oh the Anguish!" And so against
+the mutiny of odds you proceed. You crush the joblessness behind a
+skinny electronic with relative ease, only this time, you shuffle
+between review materials and the cacophony of those two lovely hounds.
+Blessed beings they are, might I add, although you wonder if they were
+asking for a mild touch.
+
+(Somewhere therein is a pause disguised as a sigh, a pause to be
+grateful that it will soon be over.)
+
+You are bored and you tell no one but the passers-by about it. And so,
+out of the blue, you make up at least three stories to inconvenient
+them, which are the following -- 
+
+**One**: *My nana used to call me a constellation boy, and wow, how it
+snacked on my being. There were instances that I would look into her
+eyes, and would see mierda swirling through maelstrom. Apparently, my
+back was perforated with scars from bed bugs and prepubescent zits. I
+did not know how to deal with bed bugs and back acne at the time*. *I
+beckoned the presence of a parent to tell off my nana, but no one came.
+I don't blame her, though, my nana. My back was indeed a Picasso's
+painting of pus.* 
+
+**Two***: It is in looking inwardly that I visit the places I have never
+been, or places that could never be. Imagination, although at best a
+fickle aspect of the human condition, takes me anywhere. I hope I can
+really travel soon, you know.* 
+
+**Three**: *I once put my arm 'unknowingly' around the person I was
+dating, and she told me that I was a Scam, that there is no such thing
+as 'unknowingly' putting one's arm around the corporeal being of
+another. I saw her smiling, though. Does that mean anything?*
+
+---Such downpour of mad prose skills can flood España Blvd in seconds,
+but to your dismay, none of them gives a damn about your orations, and
+so you snap out of it. 
+
+(Another pause. This time, covered in slumber.)
+
+Waking up to an unknown rage seemingly so self-sufficient and
+sycophantic that it takes only a few moments to figure out that there
+sits a vermilion on the sclera of the mind's eye. 'Tis the weather again
+you are rambling about. Well, it must be it.
+
+Short stories of Borges did not help last night. Rain dance to the
+melody of Alesana's *Ambrosia* did not help either. What could be that
+one thing the might assist you in fending off the persistent tapping of
+ennui and enigma? Eight glasses of water? Ten? No matter how hard you
+wish for the sun to go away, it just won't. It stays in its rightful
+place up in the sky, flashing. It makes you think: a prominence *is *the
+sun's way of smiling. It makes you stutter. It blinds you of the
+morrow. 
+
+### Entry # 163
+Date: Thu, 21 Aug 2014
+
+i bide the rigors of impunity with the tempest of glance, but in accord
+to that personal action which barely, if at all, alleviates the
+pressure, i am aware of the recent "ghosts" assailing me at the dead of
+night. however, i will only acknowledge them while they aren't here yet,
+and in ambiguity.
+
+forgive me cardiologists for i have sinned. it is not
+a matter of health but the absence of it. it is not about the elements
+of dissatisfaction that continuously edit into me how and why i may not
+be going the right way, although that could fairly be overridden with
+exercising the will. while the heart is overly stated in literary air
+and in everyday blah for the wrong reasons (i think so), it is worth
+noting of the real effects of human emotions upon it.
+
+### Entry # 164
+Date: Wed, 26 Sep 2012
+
+there were days like this one when I feel like puttering both everywhere
+and nowhere, reading signs from fading posts, inhaling the musty air of
+San Marcelino. always there are students racing for home. too, there are
+those who prefer to stay behind and wait for the night to set in.
+
+### Entry # 165
+Date: Tue, 02 Sep 2014
+
+i did not know what to make of the situation, the postponed surprise for
+people who initially said yes but in the end backed out, that in that
+moment when i saw again him after many years, the celebrant's figure
+shocked me. from 90 or so kilograms, he thinned down to 40-something in
+a short period of time.
+
+i remember him making fun of me because of my feral hair-do, suggesting
+that i'm two white strands shy from being a 'dyslexic scientist'.
+
+while whole point of this festivity is for him to regain his previous
+health, i doubt the medicine field has developed perfect treatment for
+his acute syndrome. i wish him well. i wish him...contentment.
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -3202,6 +3420,13 @@ bird comes to my aid to take me away.
 1. what rescues you from the synthetic pop of the world?
 1. *\*quotes Bukowski in a grad school application essay\**
 1. how do i love thee? let me count clichés
+1. due to sleeplessness that directly skews my eating habits, i reiterate unto myself those unattained ambitions still stirring about me.
+1. when i think of freedom, i think of falling, which is weird since there
+is no option for me to go to except down.
+1. boredom stirring the structure into a frame of sadness
+1. when all you had to do is follow that damn train
+1. after pining comes the grit
+1. the art of snoring discreetly but audibly
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
 (minotaurs aside) are fairly easy to navigate (as opposed to mazes
