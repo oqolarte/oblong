@@ -22,6 +22,7 @@ Doing so, in my case, would result in a terrible experience.
 I'm recommissioning the MSI Wind Netbook for this project,
 the same laptop that I originally planned to be my [homebrew server](/server).
 
+{{< btt >}}
 ## Hardware
 
 The [MSI Wind Netbook](https://www.laptopmag.com/reviews/laptops/msi-wind-u123) makes another comeback for this week,
@@ -51,6 +52,7 @@ Think far-flung rural areas.
 
 For anyone who cares, here's [dmesg](/dmesg.txt) for more details about my system.
 
+{{< btt >}}
 ### Crippled by Microsoft
 
 One of the Challenge's participants, matto, [mentioned](gopher://box.matto.nl/0/one-week-with-freebsd-13-on-an-acer-aspire-one-zg5-part-one.txt) (gopher link[^gopher]):
@@ -92,6 +94,7 @@ can't access the contents in gopher.
 `w3m` is one of the command-line browsers that are still available today that can access gopher.
 This is mentioned later in the article.
 
+{{< btt >}}
 ## Software
 
 I need software that requires minimal resources but still empowers the user to "do things."
@@ -124,6 +127,7 @@ Download them, and some other dependencies, in one go:
 newsboat nnn neovim mpv py3-pip \
 qutebrowser w3m-*-image webkitgtk4
 ```
+{{< btt >}}
 ### Dotfiles
 
 Dotfiles are configuration files for various programs,
@@ -138,6 +142,7 @@ unless specified otherwise.
 [`.tmux.conf`](/tmux)  
 [`.xsession`](/xsession)  
 
+{{< btt >}}
 ## Window Manager
 
 I initially opted for [dwm](https://dwm.suckless.org),
@@ -163,6 +168,7 @@ I didn't want the console log to open every time I log in,
 so I commented it out of the `/etc/X11/Xenodm/Xsetup_0` file.
 
 
+{{< btt >}}
 ## Terminal Emulator
 
 I use `st` because it's snappier than `xterm`.
@@ -173,6 +179,7 @@ I use `xterm` only for when using `w3m-img`,
 because it properly renders images, unlike `st`.
 A dedicated key-binding spawns an `xterm` instance outside of `tmux` just to load `w3m-img`.
 
+{{< btt >}}
 ## File Manager
 
 I don't often use a file manager,
@@ -186,6 +193,7 @@ I believe the cool people call it digital minimalism.
 
 [^fs]: Of course, this is purely a subjective assessment of my system.
 
+{{< btt >}}
 ### Status bar
 
 I have no separate program for status bar like [polybar](https://polybar.github.io) and the like.
@@ -200,12 +208,14 @@ Since I use the headphone jack,
 I don't need a visual representation of the volume;
 the actual sound coming out of the earphones that I use should be enough an indicator.
 
+{{< btt >}}
 ## Web Browsers
 
 The overrated portals to the internet, and rightly so.
 Subject of many online debates.
 Good thing that there are some that can still run on limited hardware.
 
+{{< btt >}}
 ### Text-based
 Text-based (or more accurately, command line) browsers are enough to connect me to the internet.
 They are less resource intensive, unlike the GUI ones, and that's expected.
@@ -231,6 +241,7 @@ I use the lightest version of DuckDuckGo (that I know) as my search engine,
 `ddg.gg/lite`,
 for quick searches.
 
+{{< btt >}}
 ### GUI
 
 I *could* tolerate the slow loading times of Firefox,
@@ -246,6 +257,7 @@ but was only successful when I got `webkitgtk4`.
 surf can also be an alternative lightweight GUI browser,
 but it needs more patching to be as usable as qutebrowser.
 
+{{< btt >}}
 ## Watching Videos
 
 To watch videos from the channels that I subscribe to on YouTube,
@@ -268,6 +280,7 @@ $ cd ytfzf
 # make install
 ```
 
+{{< btt >}}
 ## Getting the latest
 
 I use newsboat as my RSS reader.
@@ -280,6 +293,7 @@ With a bit more effort,
 one could even subscribe to social media feeds like YouTube, Twitter, Mastodon, podcasts, and perhaps some more;
 but I didn't do it in this machine.
 
+{{< btt >}}
 ## Blogging
 
 How else can I report to the public about this project if not through this [site](/site)?
@@ -301,6 +315,7 @@ Here were the logs:
 - [Day 7: Walking the Dog](/dogwalk)
 - [Day 8: FOLK](/afolk)
 
+{{< btt >}}
 ### Accesing Github
 
 During the course of this project,
@@ -330,6 +345,7 @@ $ gh auth login
 
 [^gh]: I also use Github for other non-blogging projects, so doing this is vital.
 
+{{< btt >}}
 ## IRC
 
 I've been meaning to get into the internet relay chat, or IRC, for a long time now.
@@ -337,6 +353,7 @@ I choose `irssi` as my IRC client.
 Currently, I hangout in `irc.libera.chat` as `oqo`.
 Got to talk with some of the cool people hanging out on `#old-computer-challenge`
 
+{{< btt >}}
 ## Smartphone
 
 I still use my four-year old phone during this project,
@@ -347,6 +364,7 @@ So, in line with the project's theme,
 below is a short list of my device's noteworthy specs,
 followed by some of the tools that I use regularly.
 
+{{< btt >}}
 ### Hardware
 - Phone: Samsung A7 (2017)
 - Chipset: Exynos 7880 (14 nm)
@@ -356,6 +374,7 @@ followed by some of the tools that I use regularly.
 - Selfie Camera: 16 MP, f/1.9, 26mm (wide), 1/3.06", 1.0µm
 - Sound: With 3.5mm jack (!!)
 
+{{< btt >}}
 ### Software
 - Operating System: [Lineage OS 17.1](https://lineageos.org)
 - App Store: [F-Droid](https://f-droid.org/) (FOSS) and [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) (Google Play Store alternative)
@@ -363,6 +382,7 @@ followed by some of the tools that I use regularly.
 - Launcher: [KISS](https://kisslauncher.com/)
 - Maps: [OsmAnd~](https://osmand.net/)
 
+{{< btt >}}
 ## Thoughts and Opinions
 
 **Specifications unmet**:
@@ -404,6 +424,7 @@ it's knowing that I, in principle, can do most, if not all,
 of my daily tasks in this MSI Wind Netbook,
 given enough time and effort.
 
+{{< btt >}}
 ## Conclusion
 
 This challenge only reinforces my notions about having a simple computer setup.
@@ -428,3 +449,5 @@ Consumers: stop asking, needing, wanting for more.
 Why upgrade if the effects are ephemeral?
 We need to simplify our workflows.
 Only use what is needed, both in hardware and software.
+
+{{< btt >}}

@@ -26,6 +26,7 @@ We do MR to make better decisions.
 As with many things in life, good information reduces risk.
 Thus, MR is also about risk management.
 
+{{< btt >}}
 ## 6 Cs of MR
 - Capable research skills
 - Communicate effectively
@@ -34,6 +35,7 @@ Thus, MR is also about risk management.
 - Clients request and help them make better informed decisions
 - Career development
 
+{{< btt >}}
 ## Product life cycle
 
 Consider how MR playes a role in providing information in this cycle.
@@ -44,6 +46,7 @@ Consider how MR playes a role in providing information in this cycle.
 1. Decline: monitor to give an early warning of the need for change;
 1. Rejuvenation: identify, develop, and test options; realigning to a changed market; replacing with innovations
 
+{{< btt >}}
 ## Demand cycle
 - Business/category vision and strategy: "Where to play?"
 - Brand strategy: "What to stand for?"
@@ -52,8 +55,10 @@ Consider how MR playes a role in providing information in this cycle.
 - Go to market strategy and execution: "How to win with shopper and customer?"
 - Organization capability: "How to build organizational capability?"
 
+{{< btt >}}
 ## Broad research classification
 
+{{< btt >}}
 ### Primary vs Secondary Research
 
 **Primary research** is done by you or on your behalf,
@@ -67,6 +72,7 @@ It answers the research problem without the need for primary research.
 Secondary research, by getting a bird's eyeview of the marketplace,
 helps define the problem.
 
+{{< btt >}}
 ### Qualitative (Qual) vs Quantitative (Quant) Research
 
 **Qualitative research** is all about exploring opinions and behaviors.
@@ -95,6 +101,7 @@ i.e., in generalization to the population.
 It identifies the most important groups from a broad population,
 rather than going in depth of understanding.
 
+{{< btt >}}
 ## Key Research Methodologies
 
 exploratory research - flexible, unstructured research; used to establish research priorities
@@ -106,6 +113,7 @@ descriptive research - answers who what where when how; surveys
 causal research - measure relationships, such as if x then y
 	- e.g.: test market, before-after with control group
 
+{{< btt >}}
 ### 5 KEY RESEARCH METHODS
 1. usage and attitude - measures what people do and what people feel/think
 	- determines penetration/incidence of product/service usage
@@ -148,6 +156,7 @@ causal research - measure relationships, such as if x then y
 5. omnibus - serving several purposes at once; comprising several items/categories
 
 
+{{< btt >}}
 ## Questionnaire Design
 
 Not really sure how incentives work in our FW (if any), pero how would you tell that to respondents? Like in the beginning of the questionnaires?
@@ -168,6 +177,7 @@ Open or Pre-coded
 - pro: very qualitative
 - cons: hard to control the fram
 
+{{< btt >}}
 ## Probability Sampling
 - Simple Random - all members of the population have an equal chance of being included in the sample
 - Systematic - every kth unit after the chosen random start is taken as a sample
@@ -176,6 +186,7 @@ Open or Pre-coded
 - Stratified
 - Multi-stage - sampling done in 2 or more stages
 
+{{< btt >}}
 ## Non-probability Sampling
 - Convenience - most readily available subjects
 - Purposive - researcher their judgment to select those respondents
@@ -204,3 +215,5 @@ Brand salience - being remembered by consumers
 Sample accurately reflects the characteristics of the population.
 
 SOV (share of voice) - measures the investment in your placement; share in the noise
+
+{{< btt >}}

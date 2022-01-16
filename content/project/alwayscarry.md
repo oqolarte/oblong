@@ -17,6 +17,7 @@ Visit the site:
 Essentially, this is a static online shop with limited functionalities.
 Let me explain.
 
+{{< btt >}}
 ## Design Choices
 
 I thought of going through this project with as few components as possible.
@@ -30,6 +31,7 @@ One major decision is to use free and/or open source software services for the t
 
 Of course, we intend to scale as business grows.
 
+{{< btt >}}
 ### Landing Page
 
 The cat-holding-a-book logo is drawn by my partner, Isya herself, using Wacom Bamboo Tablet on [Krita](https://krita.org), a free and open source painting program.
@@ -42,6 +44,7 @@ From the Index, the visitor is presented with two links to the two branches of t
 Each of these are Lists of single pages.
 Each single page is an embedded Instagram page including the details of the product.
 
+{{< btt >}}
 ### Integration with Instagram
 
 To reach as many people as possible, the shop is also available in Instagram and Facebook.
@@ -57,6 +60,7 @@ Good thing that from that same discussion, [monsieurnebo's fix](https://github.c
 
 For the time being, I can use the IG photo's ID to be embedded on the site.
 
+{{< btt >}}
 ### Payment Gateway?
 
 Today, it's expected for an e-commerce site to have a payment method coded in it.
@@ -69,6 +73,7 @@ Google Forms is also used for the customers to fill up when placing their orders
 We noticed, though, that this is underutilized.
 People prefer to directly message the shop via FB messenger or IG chat.
 
+{{< btt >}}
 ### Hosting: GitHub + Netlify
 
 The source files are on [our GitHub](https://github.com/arawseekers) (pull requests welcome!). 
@@ -79,6 +84,7 @@ I make the changes locally, in a laptop.
 These changes are then committed and pushed to the GitHub repository.
 Finally, I have set up Netlify to detect the changes from the repository, and the site is deployed for public viewing.
 
+{{< btt >}}
 ### "Just-in-time" Preloading
 
 Improving user experience might just be the key to a successful small online shop.
@@ -90,11 +96,13 @@ Bandwidth-wise, this should only have small effects on the user, since by design
 According to the Instant.Page, uBlock Origin blocks it.
 The author explains how to [self-host the script](https://instant.page/tech#self-hosting), and so I did just that, because I use uBlock Origin.
 
+{{< btt >}}
 ## How A Transaction Looks Like
 
 Here, I outline the processes involved for the customer and the dealer.
 This is not final as we streamline further.
 
+{{< btt >}}
 ### Customer Side
 
 1. Customer browses the book list, and makes a selection.
@@ -109,6 +117,7 @@ Customer's waiting duration depends on the delivery option they chose in the For
 6. Customer tracks the package until they receive it.
 7. Customer receives the package, and the transaction is complete.
 
+{{< btt >}}
 ### Dealer Side (*we*, the sellers)
 
 1. We check the Google Form at least once a day for any orders made.
@@ -124,6 +133,7 @@ The number of waiting days depends on customer's location.
 6. We track the package and give updates to the customer until they receive it.
 7. When the customer receives the package, the transaction is complete.
 
+{{< btt >}}
 ## 'Dropping' Content
 
 In e-commerce jargon, "dropping" means putting up new items in the shop.
@@ -143,6 +153,7 @@ Since the IG account is already linked to the FB Page, each post shall simultane
 3. Once posted, we will get the photo ID for each IG post.
 4. Using the ID, we can now embed the IG post on the website, thanks to the workaround mentioned earlier.
 
+{{< btt >}}
 ### Taking Photos
 
 Photo-taking is done during daytime, when we make use of natural light.
@@ -159,9 +170,12 @@ Its SD Card will also fit nicely in one of the Mac's ports.
 
 The phone's camera will serve as a backup.
 
+{{< btt >}}
 ### Syndication of Posts
 
 If embedding posts from IG would fail somehow in the future, we could just post directly on the website.
 Right now, as mentioned, we focus the content management in IG due to its reach.
+
+{{< btt >}}
 
 [^iife]: For more information, read the [Mozilla's explainer](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)

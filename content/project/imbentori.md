@@ -20,6 +20,8 @@ It's just that I have more interesting things to tackle, in my opinion.
 
 In the meantime, read the foreword I drafted some time ago for this would-be collection of personal essays.
 
+{{< btt >}}
+
 ## Foreword
 
 The tongue that swirls with its perceived languages can only cope so much from the demands of diction.
@@ -54,6 +56,7 @@ Right now, I'll compromise by trimming *some* of the bad stuff.
 If everything sounds strange,
 it's because I had been in this odd phase.
 
+{{< btt >}}
 ### There's a free copy online
 
 Most of them are lumped into what I call [Unscholarly Notes](https://iooare.tumblr.com/tagged/unscholarly-notes),
@@ -63,10 +66,12 @@ after a chapter in one of my favorite books by F. Sionil Jose.
 Some 20(20) years ago when I last visited an art museum (or was it just gallery?), 
 I couldn't help but roll my eyes on a lot of pieces' description cards that seemingly always include how the artist "explores" this or that.
 
+{{< btt >}}
 ## Selected Entries
 
 The following are the entries that I like, with slight edits.
 
+{{< btt >}}
 ### Entry # 1
 Date: Wed, 30 Oct 2013
 
@@ -96,6 +101,7 @@ stays, and she waits for the landlord, the two of them will lock
 themselves in their old room where they will make love for the rest of
 the day. Why can't they just leave me in peace?
 
+{{< btt >}}
 ### Entry # 2
 Date: Wed, 30 Oct 2013
 
@@ -142,6 +148,7 @@ cold baths, because life isn't a big porcelain bath tub,
 nor a playlist
 of fetishes.
 
+{{< btt >}}
 ### Entry # 3
 Date: Thu, 31 Oct 2013
 
@@ -150,6 +157,7 @@ Everything is modernized.
 Everything looks hopeful, yet ugly, but only
 if you looked long enough to see the details. 
 
+{{< btt >}}
 ### Entry # 4
 Date: Thu, 31 Oct 2013
 
@@ -164,6 +172,7 @@ I wish to rebuild the walls I destroyed in order to get here, but it
 seems that it's all too late now. 
 Someone out there knows why.
 
+{{< btt >}}
 ### Entry # 5 
 Date: Fri, 01 Nov 2013
 
@@ -180,6 +189,7 @@ It would echo in here.
 It lacks inspiration, but it has me now. 
 And now, I have it.
 
+{{< btt >}}
 ### Entry # 6
 Date: Fri, 01 Nov 2013
 
@@ -200,6 +210,7 @@ your cats and your boy friends.
 I had nothing to do with them, so I, in
 turn, chose to set you free, even if I wanted otherwise.
 
+{{< btt >}}
 ### Entry # 7
 Date: Fri, 01 Nov 2013
 
@@ -236,6 +247,7 @@ wept during the funeral, so much so that they laughed at her,
 saying she was
 over-reacting.
 
+{{< btt >}}
 ### Entry # 8
 Date: Sat, 02 Nov 2013
 
@@ -260,6 +272,7 @@ widow.
 The sparrows will soon take her and all of her possessions away. 
 The last air she will breathe looms nigh before her.
 
+{{< btt >}}
 ### Entry # 9
 Date: Sun, 03 Nov 2013
 
@@ -281,6 +294,7 @@ myself jacked in the computer and played all of the piano concertos
 repetitively, until I came back to my senses, and everything seemed
 wonderful again.
 
+{{< btt >}}
 ### Entry # 10 
 Date: Mon, 04 Nov 2013
 
@@ -315,6 +329,7 @@ If you have to jot these down,
 do it, for tomorrow and the day after that and so on, there will be
 difficult exams. Life is a practical test.
 
+{{< btt >}}
 ### Entry # 11
 Date: Tue, 05 Nov 2013
 
@@ -327,6 +342,7 @@ Later this day, I might trace my steps
 back into the previous night to see what I have done to feel so gutted
 and spooked, although I highly doubt it would be of any help.
 
+{{< btt >}}
 ### Entry # 12
 Date: Thu, 07 Nov 2013
 
@@ -352,6 +368,7 @@ She might get tired of driving and just take me to her room instead.
 Of course, no one will actually show up and demand my presence. 
 None of this will ever happen.
 
+{{< btt >}}
 ### Entry # 13
 Date: Thu, 07 Nov 2013
 
@@ -365,6 +382,7 @@ Well, I don't need help.
 I'm doing good with my dull, simple life,
 thank you very much.
 
+{{< btt >}}
 ### Entry # 14
 Date: Sun, 10 Nov 2013
 
@@ -375,6 +393,7 @@ needing the other.
 We might all become asexual, and the only terrible
 thing about that is not finding enough limbs to stimulate the genitals.
 
+{{< btt >}}
 ### Entry # 15: *the response to any dream is its own ending*
 Date: Tue, 12 Nov 2013
 
@@ -416,6 +435,7 @@ so badly wrecked, decided one day to teach me a lesson on how to deal
 with the feminine intricacy:
 Snap out of it.
 
+{{< btt >}}
 ### Entry # 16
 Date: Tue, 12 Nov 2013
 
@@ -430,6 +450,7 @@ Thus,
 it isolates a person in a barren phenomena, a distant sanctuary of the
 inner self, sometimes called madness.
 
+{{< btt >}}
 ### Entry # 17
 Date: Wed, 13 Nov 2013
 
@@ -453,6 +474,7 @@ the short ones are swift and tasteless.
 After thousands of years of improving technology, we still find
 ourselves stuck and deserted in a different dimension.
 
+{{< btt >}}
 ### Entry # 18
 Date: Wed, 13 Nov 2013
 
@@ -478,6 +500,7 @@ grows out as patches of facial hair and untrimmed nails and
 badly-attended hygiene. The sores itch him somewhere just above the
 chest, but he's become tolerant now.
 
+{{< btt >}}
 ### Entry # 19
 Date: Thu, 14 Nov 2013
 
@@ -507,6 +530,7 @@ I nodded and smiled and went to bed.
 
 I try to recall what they told me, but all of those went with the gastric pulp down the reservoir of rejected principles (called toilet).
 
+{{< btt >}}
 ### Entry # 20
 Date: Sat, 16 Nov 2013
 
@@ -534,6 +558,7 @@ have had enough of this abject misery. Here we are still with our
 dumbness in tact, trying to make something out of nothing. Conjurers we
 are not.
 
+{{< btt >}}
 ### Entry # 21
 Date: Tue, 19 Nov 2013
 
@@ -565,6 +590,7 @@ In 45 minutes I was done with the whole thing. Whether I took the
 exam seriously was out of the question. It's a funny world we live in.
 We wait for the wrong things to happen.
 
+{{< btt >}}
 ### Entry # 22
 Date: Wed, 20 Nov 2013
 
@@ -594,6 +620,7 @@ The joints are creaky when they shouldn't be.
 I may feel pretty sometimes, but rainbows aren't going to last the whole day.
 I'm just like everyone else, trying to be cool.
 
+{{< btt >}}
 ### Entry # 23
 Date: Sat, 23 Nov 2013
 
@@ -613,6 +640,7 @@ in this important subject only made me sink deeper into my own grave.
 The lesson, I hope I know now, is to never back out, not now, not later
 or ever.
 
+{{< btt >}}
 ### Entry # 24
 Date: Tue, 26 Nov 2013
 
@@ -640,6 +668,7 @@ can be deceiving. do not be fooled. learn how to read beyond the lines.
 when i say my pillows are wet, i could mean my pillows were doused in
 nightmarish sweat. think about it.
 
+{{< btt >}}
 ### Entry # 25: *50 years past bedtime*
 Date: Sat, 30 Nov 2013
 
@@ -661,6 +690,7 @@ them up, to debunk the surrounding myths, to suffer from our
 recklessness, and to procure among the ruins that glistening wisdom I
 assumed to have possessed but never actually had.
 
+{{< btt >}}
 ### Entry # 26
 Date: Sun, 01 Dec 2013
 
@@ -668,6 +698,7 @@ I have not yet involved myself in a physically intimate act,
 sometimes crudely referred to as *having sex*, with another person.
 Fuck me, right?
 
+{{< btt >}}
 ### Entry # 27: *Kb*
 Date: Mon, 02 Dec 2013
 
@@ -703,6 +734,7 @@ you might be in this darkest hour, but I am not myself at this
 minute. The likes of me cannot make advances because the likes of
 me drop by to say hello a bit too late.
 
+{{< btt >}}
 ### Entry # 28
 Date: Mon, 02 Dec 2013
 
@@ -714,6 +746,7 @@ unwilling to choke me with their ideals. Here is a good place. Here you
 aren't, you weren't, you won't be. Oh the joy of cumulative absence,
 whatever it means to you!
 
+{{< btt >}}
 ### Entry # 29
 Date: Wed, 11 Dec 2013
 
@@ -723,6 +756,7 @@ would be worth my while. Disconnect a lonely guy from the tranquil
 comforts of his zone, and believe me, he will soon be hearing a voice so
 lovely he won't believe it is from his own illusory incantations.
 
+{{< btt >}}
 ### Entry # 30
 Date: Thu, 12 Dec 2013 10:26:32
 
@@ -766,6 +800,7 @@ head finally.
 
 Introductions again on the morrow, but not now. I need some snoozing.
 
+{{< btt >}}
 ### Entry # 31
 Date: Fri, 13 Dec 2013
 
@@ -778,6 +813,7 @@ The infinite quirks of our daily lives bore the heck of me. Get me out
 of such languorous affairs, and let me see you already prepped up for
 this simple occasion I am trying to pull you in.
 
+{{< btt >}}
 ### Entry # 32
 Date: Sat, 14 Dec 2013
 
@@ -794,6 +830,7 @@ that I am not to be so spooky to them. Ah---
 Do not force it, they say. Do not. Do not, and all shall naturally,
 smoothly follow.
 
+{{< btt >}}
 ### Entry # 33
 Date: Tue, 17 Dec 2013
 
@@ -815,6 +852,7 @@ And her god would talk to her in her dreams, asking her to stop smoking.
 But she is such a stubborn woman that
 even a divine deity as influential and popular as her god could not convince her.
 
+{{< btt >}}
 ### Entry # 34
 Date: Tue, 17 Dec 2013
 
@@ -824,6 +862,7 @@ Hers was a daring shot to the skies of blaring cyber-fame.
 The magic in her soul is hers to handle,
 and for the world to leash.
 
+{{< btt >}}
 ### Entry # 35
 Date: Tue, 17 Dec 2013
 
@@ -838,6 +877,7 @@ Strings of used floss. Polished fingernails.
 An affection for the outdated minds.
 Love is real, but lovers are not.
 
+{{< btt >}}
 ### Entry # 36: *innumerable pointlessness*
 Date: Wed, 18 Dec 2013
 
@@ -858,6 +898,7 @@ It's physics.
 Nothing in your speech is interesting.
 Because it's about *meta*physics.
 
+{{< btt >}}
 ### Entry # 37
 Date: Thu, 19 Dec 2013
 
@@ -872,6 +913,7 @@ where the strangling gasesss would essscape, slithering all the way out.
 The buzz I made was a lot, but the anguish in the guts remains. I might
 be perpetually strangled.
 
+{{< btt >}}
 ### Entry # 38
 Date: Fri, 20 Dec 2013
 
@@ -890,6 +932,7 @@ No one knows for sure.
 Time has been distorted by countless corrections and mistakes.
 Either we are dying, or already we are dead.
 
+{{< btt >}}
 ### Enrty # 39
 Date: Sat, 21 Dec 2013
 
@@ -913,6 +956,7 @@ expensive wristwatch I can't afford. In reality, I cannot hold you, nor
 can I ask you to kindly hike up the skirt and show me a flawed world no
 longer knowledgeable of pampering.
 
+{{< btt >}}
 ### Entry # 40
 Date: Tue, 24 Dec 2013
 
@@ -925,6 +969,7 @@ one day, if you pulled and pushed the oars hard enough, you will
 transcend from such a low point in your life, one way or another. Be
 dear now, and don't do anything stupid.
 
+{{< btt >}}
 ### Entry # 41
 Date: Wed, 25 Dec 2013
 
@@ -957,6 +1002,7 @@ I am everyone's mailbox of undelivered hate, and if you would just
 *please* bash my head with a baseball bat like what jocks do in shitty
 movies for fun---
 
+{{< btt >}}
 ### Entry # 42
 Date: Sat, 28 Dec 2013 12:01:00
 
@@ -982,6 +1028,7 @@ I don't mind being unable to patch this wanton bleeding with a remedial
 touch, for there will be appropriate hands willing to do that. I'll just
 have to hang on and look for them and hope it's not too late.
 
+{{< btt >}}
 ### Entry # 43: *Things I've Learned in Matabungkay Beach Resort the First Time I Got There*
 Date: Wed, 01 Jan 2014
 
@@ -1005,6 +1052,7 @@ At least, that's what I have observed 500 meters away from them.
 - Grill everything; die from colon cancer later.
 - End your trip by catching a final glimpse of the setting sun.
 
+{{< btt >}}
 ### Entry # 44
 Date: Thu, 02 Jan 2014
 
@@ -1015,6 +1063,7 @@ However, they're altogether defamed with detestable comments that often
 come from detestable figures, increasingly so that the evening has
 become an impatient wait for the dawn.
 
+{{< btt >}}
 ### Entry # 45: *(i wrote once to a semi-imaginary fling. how stupid.)*
 Date: Thu, 02 Jan 2014
 
@@ -1043,6 +1092,7 @@ it shall wane a bit of my impatience,
 and halt temporarily the effluvium of my tizzy thoughts of a faraway you.
 Take care always.
 
+{{< btt >}}
 ### Entry # 46
 Date: Fri, 03 Jan 2014
 
@@ -1055,6 +1105,7 @@ We are so stupidly driven we think we can own our disgusting selves.
 We are an asylum of dumb fucks in dusty trunks.
 We are a multitude of tragedies.
 
+{{< btt >}}
 ### Entry # 47
 Date: Fri, 03 Jan 2014
 
@@ -1066,6 +1117,7 @@ I am staring, too, at some faces, those declaring innocence.
 Inanimate faces are the only innocent things one can look peacefully at nowadays;
 and what a bad-luck-for-the-earth, for they cannot change the world.
 
+{{< btt >}}
 ### Entry # 48
 Date: Sat, 04 Jan 2014
 
@@ -1082,6 +1134,7 @@ metal lilies on torrents of filth; bastards into sentimental poets. The
 rest---they are kids again, and the sour smell from their fermented
 armpits has gone.
 
+{{< btt >}}
 ### Entry # 49
 Date: Sat, 04 Jan 2014
 
@@ -1095,6 +1148,7 @@ The key to their internally induced contentment
 may lie on daydreaming that peace *has* a chance.
 That peace does stand a chance in changing the heartless into philanthropist.
 
+{{< btt >}}
 ### Entry # 50: *four steps to senselessness and non-misanthropy*
 Date: Sun, 05 Jan 2014 12:01:17
 
@@ -1116,6 +1170,7 @@ Date: Sun, 05 Jan 2014 12:01:17
     that you maybe familiar with, for I am a human nevertheless, doing
     robotic dance moves for a living.
 
+{{< btt >}}
 ### Entry # 51
 Date: Sun, 05 Jan 2014
 
@@ -1125,6 +1180,7 @@ gets injured, as if it had been approved by the whole universe to be so
 magnetizing yet detrimental. Such elegance prohibits me to witness its
 passing. It's all theoretically acceptable, now that I think of it.
 
+{{< btt >}}
 ### Entry # 52
 Date: Sun, 19 Jan 2014
 
@@ -1137,6 +1193,7 @@ the joker in the movie *The Dark Knight* said,
 "this is what happens when an unstoppable force meets an
 immovable object." nothing. nothing happens.
 
+{{< btt >}}
 ### Entry # 53
 Date: Sun, 19 Jan 2014
 
@@ -1145,6 +1202,7 @@ virtue we have to embrace. We have to teach them this, especially that
 we see a lot of unfairness in this world. Pity is only given to those
 who deserve it. Thanks.
 
+{{< btt >}}
 ### Entry # 54
 Date: Sun, 19 Jan 2014
 
@@ -1157,6 +1215,7 @@ I am startled by his need to branch out from the existing norms, and to
 just create one that would fit his style. I wish to lend him a hand one
 of these days.
 
+{{< btt >}}
 ### Entry # 55
 Date: Tue, 21 Jan 2014
 
@@ -1176,6 +1235,7 @@ despite their ordeals.
 I would be hungry most of the time, feel groggy and smell bad, but
 that's part of the plan. Restoration never comes easily.
 
+{{< btt >}}
 ### Entry # 56
 Date: Tue, 21 Jan 2014
 
@@ -1187,6 +1247,7 @@ to learn again the profits of breakage, to harness the prowess
 and gather every last bit of
 sickness and health.
 
+{{< btt >}}
 ### Entry # 57
 Date: Wed, 22 Jan 2014
 
@@ -1214,6 +1275,7 @@ lines at the far side of the meadow.
 I know this is a phantom exercise difficult to do, but doing it is kind of alleviating.
 (I don't think alleviating is the proper term, but there goes.)
 
+{{< btt >}}
 ### Entry # 58
 Date: Thu, 23 Jan 2014
 
@@ -1229,6 +1291,7 @@ So, I gave up on the idea, wore my worn-out slippers, and walked outside.
 I would like for the sun to shine just a little,
 that there may be a glimpse of hope waiting behind the clouds.
 
+{{< btt >}}
 ### Entry # 59
 Date: Sat, 11 Jan 2014
 
@@ -1242,6 +1305,7 @@ Remind me of that sometime, do you mind?
 Who would have thought that within these white walls we chanted
 the same unintelligible syllables that only you and I must know?
 
+{{< btt >}}
 ### Entry # 60
 Date: Sun, 12 Jan 2014
 
@@ -1268,6 +1332,7 @@ eyes, but they would never see again what once was. They would fail to
 recognize---as it was in the past---the decaying things in front of
 them. All those time they were awake, they really were asleep!
 
+{{< btt >}}
 ### Entry # 61: *a quick message to someone who is not the same as before*
 Date: Sun, 12 Jan 2014
 
@@ -1281,6 +1346,7 @@ one day, if we must inevitably talk, that this is not the case. Forgive
 me if, however, from now on, I'd be dodging your glances. I am not a fan
 of your Change. I was never a fan of yours to begin with.
 
+{{< btt >}}
 ### Entry # 62:
 Date: Sun, 12 Jan 2014
 
@@ -1293,6 +1359,7 @@ won't mind, really.
 I don't mind you not existing at all, imaginary friend. Please come
 whenever you like. I could use some back-rubbing.
 
+{{< btt >}}
 ### Entry # 63:
 Date: Sun, 12 Jan 2014
 
@@ -1308,6 +1375,7 @@ would calm me down.
 Fool me again with your whining, and that is fine,
 that is, as long as you are patient enough to hear my forlorn desires.
 
+{{< btt >}}
 ### Entry # 64
 Date: Thu, 16 Jan 2014
 
@@ -1330,6 +1398,7 @@ college paper, but only if you would offer to help me in mine after. I'm
 being clever now, but that's because I am hoping that someday you would
 let us be clever together.
 
+{{< btt >}}
 ### Entry # 65
 Date: Thu, 16 Jan 2014
 
@@ -1338,6 +1407,7 @@ It clings for a long time, the scum, even after many attempts of
 reformation. And this process I truly detest, as I find it ridiculous
 that manliness sometimes requires filth to be smothering the grin.
 
+{{< btt >}}
 ### Entry # 66: *the fury of sunny days and humid nights*
 Date: Wed, 29 Jan 2014
 
@@ -1375,6 +1445,7 @@ my direction. So, fill in the gap. Fate is only a funny valentine, an
 incredulous affair written randomly in the stretch of space, not on
 paper nor in mind.
 
+{{< btt >}}
 ### Entry # 67
 Date: Thu, 30 Jan 2014
 
@@ -1416,6 +1487,7 @@ her savior, her last debuff that would put an end to all this scam.
 maybe she was right, but in order to prove her theory, her particles
 should not have begun drifting away.
 
+{{< btt >}}
 ### Entry # 68
 Date: Fri, 31 Jan 2014
 
@@ -1449,6 +1521,7 @@ When I tried sliding my tongue into her mouth,
 she gently pushed me off, smiled, and said,
 "No, no tongue. Tongue is for pussies."
 
+{{< btt >}}
 ### Entry # 69
 Date: Fri, 31 Jan 2014
 
@@ -1465,6 +1538,7 @@ The stuff coming out of your foul mouth was boiling like an ectoplasmic
 substance. You were just ugly. I thought of landing several fists on
 your face, but I couldn't. I just could not.
 
+{{< btt >}}
 ### Entry # 70
 Date: Fri, 31 Jan 2014
 
@@ -1483,6 +1557,7 @@ the sediments pile up. The accumulated weight is a force enough to
 pressurize the amalgam into a hard slab. It is a mysterious event, if
 you really want to know.
 
+{{< btt >}}
 ### Entry # 71
 Date: Sat, 01 Feb 2014
 
@@ -1496,6 +1571,7 @@ expanding-then-contracting-then-expanding-again guts. My forlorn,
 agitated, sweet, empty guts. My chemical guts. Well, if you wanted
 honesty, that's all *I* had to say.
 
+{{< btt >}}
 ### Entry # 72
 Date: Sun, 02 Feb 2014
 
@@ -1529,6 +1605,7 @@ Go back to the years of small talk, and you might just see what I have
 seen in the eyes of many. I know the alleys at night are quite dark, but
 the infection is real. Maybe an agua oxinada flashflood would come soon.
 
+{{< btt >}}
 ### Entry # 73
 Date: Wed, 05 Feb 2014
 
@@ -1537,6 +1614,7 @@ my friend walked in. he quickly put a palm over his mouth and nose,
 perhaps awed as he couldn't help but notice the sight and smell.
 i told him it was rude to keep staring at my junk.
 
+{{< btt >}}
 ### Entry # 74
 Date: Wed, 05 Feb 2014
 
@@ -1547,6 +1625,7 @@ hottie hot sure shot. And when the nights no longer show us the stars,
 we grow ignorant of so-and-so's such as how goes the process of
 whatever. Meaningless, and all shall be forced to commit to their faith.
 
+{{< btt >}}
 ### Entry # 75
 Date: Wed, 05 Feb 2014
 
@@ -1562,6 +1641,7 @@ astral transfiguration would ever occur, however dire the problems are.
 For contingencies such as this, I must not resort into believing
 nonexistent deities but must possess a sound mind, instead.
 
+{{< btt >}}
 ### Entry # 76
 Date: Thu, 06 Feb 2014
 
@@ -1586,6 +1666,7 @@ basic level, I think thought is too. So for now I'll sleep, forget all
 this, and you will too. Maybe I've forgotten that it's okay to forget,
 but I'm sure I'll forget that too, once it's time to remember again.
 
+{{< btt >}}
 ### Entry # 77
 Date: Mon, 10 Feb 2014
 
@@ -1598,6 +1679,7 @@ for the core. On long and tiring treks along pavements with marred and
 tainted dimwits, if one must pursue one, I suggest keeping a slip of
 happy in the chink of the mind. Works wonders.
 
+{{< btt >}}
 ### Entry # 78
 Date: Mon, 10 Feb 2014
 
@@ -1622,6 +1704,7 @@ I don't mind being unable to patch this wanton bleeding with a remedial
 touch, for there will be appropriate hands willing to do that. I'll just
 have to hang on and look for them and hope it's not too late.
 
+{{< btt >}}
 ### Entry # 79: *Carlin's Comical Cynicism's Carefully Corrupting*
 Date: Mon, 10 Feb 2014
 
@@ -1631,6 +1714,7 @@ most improper inquiry, thus: Am I *differently* different, or am I
 though it may be, of possibly making you explain to me how I go
 noticeably about the realm of social anxiety and decrepitude.
 
+{{< btt >}}
 ### Entry # 80
 Date: Tue, 11 Feb 2014
 
@@ -1648,6 +1732,7 @@ agitated, for doing so might mess it up.
 
 five seconds--what will you do, *you*?)
 
+{{< btt >}}
 ### Entry # 81
 Date: Thu, 13 Feb 2014
 
@@ -1667,6 +1752,7 @@ much younger sibling, and had he been eager to fill them with something,
 he would have been a hole himself. but he is me now. and i am getting
 there, stronger daily, more unpredictable than my kindergarten-self.
 
+{{< btt >}}
 ### Entry # 82
 Date: Fri, 21 Feb 2014
 
@@ -1687,6 +1773,7 @@ and they who have endured the
 discomfort just to invigorate minds will no longer be known to the true
 ways of the world.
 
+{{< btt >}}
 ### Entry # 83
 Date: Fri, 21 Feb 2014
 
@@ -1698,6 +1785,7 @@ in him that might thaw his frozen figure, but none of it was found.
 Nothing but the peculiar sense of disability, as if the legs were stiff
 columns attached permanently to the perpendicular floor.
 
+{{< btt >}}
 ### Entry # 84
 Date: Sat, 22 Feb 2014
 
@@ -1717,6 +1805,7 @@ for paparazzi only. Theirs is a make-believe job and a perishable
 nobility. Plus, I can enjoy my own corner, with or without a
 dunce-labeled hennin.
 
+{{< btt >}}
 ### Entry # 85
 Date: Sun, 23 Feb 2014
 
@@ -1730,6 +1819,7 @@ stupid skirmish was his to win. Vengeance and its squalor would be
 swift. The beasts must no longer clutch him by his entrails, and in its
 spot, belch subsiding, solace would emerge.
 
+{{< btt >}}
 ### Entry # 86
 Date: Sun, 23 Feb 2014
 
@@ -1751,6 +1841,7 @@ However, as long as memories remain mine, I'll seek more of you in my
 clammy head, and less of the hopes that are stolen from me by the real
 icon of you here in my computer, and by fate.
 
+{{< btt >}}
 ### Entry # 87
 Date: Mon, 24 Feb 2014
 
@@ -1760,6 +1851,7 @@ are only shelved in vain. We must be so amused to the collective fuzzing
 of cars in traffic, the lost watts they emit. We have this weird
 fascination for their kind of jamming.
 
+{{< btt >}}
 ### Entry # 88
 Date: Tue, 25 Feb 2014
 
@@ -1773,6 +1865,7 @@ always that option of peering down deep into myself, back to the past,
 and it is proven to be more effective in keeping together the internal
 heat than to have some warm flesh next to mine.
 
+{{< btt >}}
 ### Entry # 89
 Date: Wed, 26 Feb 2014
 
@@ -1786,6 +1879,7 @@ match any interpretations, and so it must have surpassed anyone's
 knowledge; however, i cannot be certain of this. and that, kids, was
 what made this dream a nightmare: uncertainty.
 
+{{< btt >}}
 ### Entry # 90
 Date: Wed, 26 Feb 2014
 
@@ -1805,6 +1899,7 @@ Any temperament is the result of the pushing and pulling of my
 imagination until it is almost imperfect. The flaws make you a better
 person than who you were the last time I was here.
 
+{{< btt >}}
 ### Entry # 91
 Date: Fri, 28 Feb 2014
 
@@ -1817,6 +1912,7 @@ Transformation is either for the betterment or for the other way, and
 the process of how will it be hasn't swung by me yet. I am on my way
 there, however.
 
+{{< btt >}}
 ### Entry # 92
 Date: Mon, 03 Mar 2014
 
@@ -1827,6 +1923,7 @@ this face before. but the setting was inappropriate, and i bet the
 arcade boys would shoot me in the hoops if ever they found out that i
 was eyeing her.
 
+{{< btt >}}
 ### Entry # 93
 
 nothingness is not really the conventional idea concerning the lack of
@@ -1834,6 +1931,7 @@ everything. there is a lot going on in such a state; however, the things
 involved are of opposite magnitudes. hence, there is no net difference,
 no absolute sense. (haven't i said this before?)
 
+{{< btt >}}
 ### Entry # 94
 Date: Tue, 18 Mar 2014
 
@@ -1857,6 +1955,7 @@ sprites. In a place like this, I've always assumed a defensive tactic of
 not giving a whole bunch of heck to strangers. It seems to work. I seem
 to be alive.
 
+{{< btt >}}
 ### Entry # 95
 Date: Sat, 22 Mar 2014
 
@@ -1889,6 +1988,7 @@ Am I again on a trance? I have frequented this site since we decided to
 call it quits. The branches grow again, the leaves greener, the sense
 vaguer as usual.
 
+{{< btt >}}
 ### Entry # 96
 Date: Tue, 25 Mar 2014
 
@@ -1897,6 +1997,7 @@ how does one avoid not to tear up a bit upon hearing *Liebesträume No.
 but a hidden vibration convulsing somewhere inside, like a muffled
 thunder of joy or something of the equivalent)
 
+{{< btt >}}
 ### Entry # 97
 Date: Fri, 28 Mar 2014
 
@@ -1918,6 +2019,7 @@ long-walk mental mixtape?
 (there is no hidden punchline here. if that's what you've been waiting
 for, read this whole thing again.)
 
+{{< btt >}}
 ### Entry # 98
 Date: Sun, 30 Mar 2014
 
@@ -1925,6 +2027,7 @@ a circle has an infinite corner, not cornerless. a sphere numerous
 fringes, never an 'edgeless cube'. slenderman, therefore, instead of
 having no face, dons limitless visages where only one should be.
 
+{{< btt >}}
 ### Entry ## 99
 Date: Tue, 01 Apr 2014
 
@@ -1940,6 +2043,7 @@ past harmonics, past all this noise, this wasteful waves of losses until
 it can no longer contain the blankness that would soon embalm every
 corner as soon as it ceases to pursue living.
 
+{{< btt >}}
 ### Entry # 100
 Date: Sat, 05 Apr 2014
 
@@ -1952,6 +2056,7 @@ i got up to look for the silhouettes, but it was as if they were never
 there. these kinds of nightmares make me want to wake up, but no matter
 the will, the body simply won't just snap out of it.
 
+{{< btt >}}
 ### Entry # 101
 Date: Thu, 10 Apr 2014
 
@@ -1961,6 +2066,7 @@ pool of fire. each one literally jumped off from a ledge to their
 burning demise. the reward was fake. there was no reward. no one
 deserved to be convinced to take a leap towards something so inhumane.
 
+{{< btt >}}
 ### Entry # 102
 Date: Sat, 12 Apr 2014
 
@@ -1969,6 +2075,7 @@ smarts would run away from us as we continue to ignore our stupid
 actions, that we would have to remove the plasters off the walls where
 bits of graffiti once were illegally imprinted.
 
+{{< btt >}}
 ### Entry # 103
 Date: Sun, 13 Apr 2014
 
@@ -1980,6 +2087,7 @@ please, let's talk about something else. i am tired of hearing your
 visions and seeing your soundless arguments. the horizon is an illusion,
 you do know, yes?
 
+{{< btt >}}
 ### Entry # 104
 Date: Thu, 17 Apr 2014
 
@@ -1993,6 +2101,7 @@ all the time does water extinguish fire, or in this case, body heat; is
 the water in the form of steam? Is it boiling? Is the water a hard block
 of polar ice? Think about it.
 
+{{< btt >}}
 ### Entry # 105
 Date: Wed, 23 Apr 2014
 
@@ -2003,6 +2112,7 @@ leaves me empty in the guts. most of the time, it's a relief to let it
 go, similar to the sensation one feels for expelling actual swirling
 shit.
 
+{{< btt >}}
 ### Entry # 106
 Date: Mon, 28 Apr 2014
 
@@ -2011,6 +2121,7 @@ out, and was stuck instead in the misgivings and misleadings of the past
 and present for another week. if isn't obvious enough, let me tell you:
 it sucks.
 
+{{< btt >}}
 ### Entry # 107
 Date: Mon, 28 Apr 2014
 
@@ -2018,6 +2129,7 @@ Rudeness is as internally ubiquitous as every oscillating particle in
 our being, but being the sentient creatures that we are, committing such
 is more of a choice than a predetermined fate.
 
+{{< btt >}}
 ### Entry # 108
 Date: Wed, 30 Apr 2014
 
@@ -2032,6 +2144,7 @@ the top most compartment. when you check the files dated april 30^th^ of
 every year, notice that there is nothing out of place. in fact, there is
 nothing but but's.
 
+{{< btt >}}
 ### Entry # 109: *choking jumpscare sequences*
 Date: Fri, 09 May 2014
 
@@ -2054,6 +2167,7 @@ hot water. Then, I poured in ice cold water. The abrupt change in
 temperature caused the cup to crack, crumble, and shatter in my
 hands.
 
+{{< btt >}}
 ### Entry # 110
 Date: Wed, 14 May 2014
 
@@ -2073,6 +2187,7 @@ of sound waves that bring out the melodies we long to disinfect but
 somehow cannot. Makes me wonder: Why bother re-tracking what is or are
 not anymore?
 
+{{< btt >}}
 ### Entry # 111
 Date: Fri, 23 May 2014
 
@@ -2092,6 +2207,7 @@ placebo; otherwise, a paraplegia of sorts. it really depends, this
 figure now thinks, on the setting of the journey and, ultimately, the
 destination.
 
+{{< btt >}}
 ### Entry # 112
 Date: Tue, 27 May 2014
 
@@ -2112,6 +2228,7 @@ let down the important people in my life.
 small regrets do add up to form an indelible one.
 futureSelf, if you're reading this, don't do it again.
 
+{{< btt >}}
 ### Entry # 113
 Date: Wed, 28 May 2014
 
@@ -2129,6 +2246,7 @@ and any intolerable situation that comes with good freebies i can
 purge later over the net. call it whining or complaining, whatever
 poisons your heart.
 
+{{< btt >}}
 ### Entry # 114
 Date: Thu, 29 May 2014
 
@@ -2138,6 +2256,7 @@ fatally damages the trachea. before submitting to the void, one expends
 the last calorie on one final thought: this is just a drill, and the
 sooner i comply, the better.
 
+{{< btt >}}
 ### Entry # 115
 Date: Mon, 02 Jun 2014
 
@@ -2162,6 +2281,7 @@ would want or need right away.
 This old man had thrown away his one life, and now, it's almost too late
 to think things over, especially that his mind smells foggy with brandy.
 
+{{< btt >}}
 ### Entry # 116
 Date: Tue, 03 Jun 2014
 
@@ -2186,6 +2306,7 @@ She looked beautiful yesterday, but an hour ago, she decayed a bit. So
 he must be updated, lest he recognizes this person of his interest no
 more.
 
+{{< btt >}}
 ### Entry # 117
 Date: Mon, 23 Jun 2014
 
@@ -2203,6 +2324,7 @@ compassionate or unique or otherworldly. --*No*, we will not admit that
 there is something more to this flimflam, but soon enough, we will lock
 ourselves in distressing passion, and whatnot.
 
+{{< btt >}}
 ### Entry # 118
 Date: Tue, 03 Jun 2014
 
@@ -2218,6 +2340,7 @@ bad. Somebody might have already bleached your granny boxers for you, in
 which case, set the said pile ablaze and seek solace from the warmth of
 its fire.
 
+{{< btt >}}
 ### Entry # 119
 Date: Wed, 04 Jun 2014
 
@@ -2253,6 +2376,7 @@ no more.
 
 [^b-and-h]: Run free and wild, Buddy and Hogan, wherever you are.
 
+{{< btt >}}
 ### Entry # 120
 Date: Wed, 04 Jun 2014
 
@@ -2262,6 +2386,7 @@ specter of your ancestral genes. Temperate regions near your aura deny
 me the will to make the first step, primarily due to the conflict with
 what you discretely portray and with my lineage. 
 
+{{< btt >}}
 ### Entry # 121
 Date: Mon, 09 Jun 2014
 
@@ -2271,6 +2396,7 @@ matter the complications. it is understandable to rely now on any input,
 since you have been emptied by the malice and travails. if anything,
 struggle was a cyclone that came and went.
 
+{{< btt >}}
 ### Entry # 122
 Date: Tue, 24 Jun 2014
 
@@ -2288,6 +2414,7 @@ life, builds new forts, or adapts into a new circle of unfriendly
 neighborhood. the return address on that mail does not belong to anybody
 anymore. and the mailman, now happier, has been untouched since.
 
+{{< btt >}}
 ### Entry # 123
 Date: Wed, 25 Jun 2014
 
@@ -2298,6 +2425,7 @@ treadmill. i kept running, but didn't move. i yelled at him to stay
 back, but he just gave off a sinister chuckle, the only sign of his
 lurking.
 
+{{< btt >}}
 ### Entry # 124
 Date: Mon, 30 Jun 2014
 
@@ -2320,6 +2448,7 @@ thrown out of the picture. We made out on the bed, which felt good. And
 remembering *this whole dream* I had still makes me feel good, but not
 in the way you are probably thinking right now.
 
+{{< btt >}}
 ### Entry # 125
 Date: Tue, 01 Jul 2014
 
@@ -2332,6 +2461,7 @@ shop jargon] **with my** [brand of cigarette] **and** [brand of the
 most overrated liquor there is]. **this is how i miss you, formatted,
 on a template of gloom.**
 
+{{< btt >}}
 ### Entry # 126
 Date: Wed, 02 Jul 2014
 
@@ -2356,6 +2486,7 @@ wrong. Good grub, bad choice. Good drag, bad voice.
 **Scene 4**: Two tables actively participated in a garbling chorale during the
 happy hour. Tough battle.
 
+{{< btt >}}
 ### Entry # 127: *how to be creative*
 Date: Wed, 02 Jul 2014
 
@@ -2381,12 +2512,14 @@ opening, an abysmal cyber-cuttlefish slowly rose. as i type this, the
 fins just passed by my window. why do i feel leaden? i'm afraid this
 city will be baptized very, very soon."
 
+{{< btt >}}
 ### Entry # 128
 Date: Thu, 03 Jul 2014
 
 my ideas emulate the rapid propagation of bacteria in a culture. do i
 have a filthy mind?
 
+{{< btt >}}
 ### Entry # 129: *connections*
 Date: Fri, 04 Jul 2014
 
@@ -2430,6 +2563,7 @@ Date: Fri, 04 Jul 2014
     is fresh: the soft buzz of the wings, its hideous presence, its
     indifference. i know it's over.
 
+{{< btt >}}
 ### Entry # 130
 Date: Mon, 07 Jul 2014
 
@@ -2451,6 +2585,7 @@ to somebody's meager hands---the Life, if it were one, was
 threatened, when the last option was to choke the limbered existence
 with a fade from the changing smoke.
 
+{{< btt >}}
 ### Entry # 131
 Date: Tue, 15 Jul 2014
 
@@ -2471,6 +2606,7 @@ take the liver-lung option, unless there is a third, more viable
 option: why bother myself of the disdain among choices, when not
 choosing may be just as valid? 
 
+{{< btt >}}
 ### Entry # 132
 Date: Tue, 15 Jul 2014
 
@@ -2483,6 +2619,7 @@ deserve this catcalling." and just like that, the person had come
 
 [^ngon]: *n*-gon is a polygon with n sides. E.g., hexagon is also 6-gon.
 
+{{< btt >}}
 ### Entry # 133
 Date: Tue, 15 Jul 2014
 
@@ -2494,6 +2631,7 @@ at the other side of a screen? hint: the answer, the obvious answer,
 cannot be uttered in chorus; comes (or in this case, goes) only during a
 meditative posture over a ceramic bowl.
 
+{{< btt >}}
 ### Entry # 134
 Date: Sun, 20 Jul 2014
 
@@ -2502,6 +2640,7 @@ to the life of some familiar thoughts, regardless of the lack of logic.
 I found myself rolling over, restlessly wrestling with the ideas and the
 perversions we shared that I think both you and I cannot forget.
 
+{{< btt >}}
 ### Entry # 135
 Date: Sun, 20 Jul 2014
 
@@ -2510,6 +2649,7 @@ to the life of some familiar thoughts, regardless of lack of logic.
 I found myself rolling over, restlessly wrestling with the ideas and the
 perversions we shared that I think both you and I can't forget.
 
+{{< btt >}}
 ### Entry # 136
 Date: Mon, 21 Jul 2014
 
@@ -2541,6 +2681,7 @@ I think it was a part of a long-ago blindness, when your status was
 still surrounded in debris, and you and your friends played in front of
 the rich man's gates because that was all this penury could offer.
 
+{{< btt >}}
 ### Entry # 137
 Date: Mon, 21 Jul 2014
 
@@ -2554,6 +2695,7 @@ if to snap me out of my focus. i spat on the ground. it was all saliva,
 blood, and maggots. i spat some more, because the squirming would not
 stop. still, blood and maggots. horrifying.
 
+{{< btt >}}
 ### Entry # 138: *afternoon ale-ment*
 Date: Tue, 22 Jul 2014
 
@@ -2619,6 +2761,7 @@ prismatic heavens dancing along my breadth, but i enjoyed it since i
 have you to guide me safely into a landing spot as my wings finally
 detach themselves off of my spine.
 
+{{< btt >}}
 ### Entry # 139: *mortals and pestles*
 Date: Thu, 24 Jul 2014
 
@@ -2654,6 +2797,7 @@ it isn't, and I can't be certain anymore whether meteors are worth the
 synthetic stigma of aspiring spacepeople. Or of astrologers who think of
 them as the trails of omen.
 
+{{< btt >}}
 ### Entry # 140
 
 Date: Mon, 28 Jul 2014
@@ -2663,6 +2807,7 @@ The sirens are fast asleep and the vehement things (i.e., *very* bad
 people) are thrown back into the mix. If there is one moment of peace amid
 commotion, it happens on a bed.
 
+{{< btt >}}
 ### Entry # 141
 Date: Sat, 02 Aug 2014
 
@@ -2696,6 +2841,7 @@ out of curiosity and not of deluded romanticism.
 I guess, I just wanted to travel by foot, see where my legs would take
 me.
 
+{{< btt >}}
 ### Entry # 142
 Date: Sun, 03 Aug 2014
 
@@ -2755,6 +2901,7 @@ about the most notorious avenue in the country being a free road!
 
 driver, step on it, would you? get me out of here.
 
+{{< btt >}}
 ### Entry # 143
 Date: Mon, 04 Aug 2014
 
@@ -2767,6 +2914,7 @@ speedometer swerve between 99 and 101 while cruising homebound on skyway
 should be enough for me an evidence of his DUI as i leaned my head back
 and closed my eyes.
 
+{{< btt >}}
 ### Entry # 144
 Date: Mon, 04 Aug 2014
 
@@ -2779,6 +2927,7 @@ going to be after this commutation determines a good, at least decent,
 fate only if you were alert. attention here is crucial. as is everywhere
 else, i suppose.
 
+{{< btt >}}
 ### Entry # 145
 Date: Tue, 05 Aug 2014
 
@@ -2829,6 +2978,7 @@ however, coming to grips, yes, this is it: mi último adiós, to the
 necessities unfailingly dismissed by the order of hand landing briskly
 on their cheeks.
 
+{{< btt >}}
 ### Entry # 146
 Date: Mon, 11 Aug 2014
 
@@ -2842,6 +2992,7 @@ they say that delaying the accomplishment of a task improves the
 quality of output. practitioners from the
 medicine field might not agree on this.
 
+{{< btt >}}
 ### Entry # 147
 Date: Tue, 12 Aug 2014
 
@@ -2869,6 +3020,7 @@ i find it less odd to know how slow i am in a race against a machine.
 
 i woke up feeling golden, which is not startling.
 
+{{< btt >}}
 ### Entry # 148: *for someone who dismisses horoscope, this is it*
 Date: Wed, 13 Aug 2014
 
@@ -2924,6 +3076,7 @@ it looks, and the past, despite my previous convolutions, apprehensive. i
 hope we can visit soon a big observatory, that i can disprove myself
 these allegations.
 
+{{< btt >}}
 ### Entry # 149
 Date: Thu, 14 Aug 2014
 
@@ -2955,6 +3108,7 @@ i were to talk about the virtues of time, wouldn't it be just a waste of
 it? but how can such non-material concept be wasted? most importantly,
 did i oversleep again?
 
+{{< btt >}}
 ### Entry # 150
 Date: Sat, 16 Aug 2014
 
@@ -2999,6 +3153,7 @@ lo, this is another low, the newest actually, delivered unto me in a
 quick fire through the account of a similarly aquatic drone, but under
 no circumstance is it intentional. my part here is atlantic.
 
+{{< btt >}}
 ### Entry # 151
 Date: Sat, 16 Aug 2014
 
@@ -3050,6 +3205,7 @@ conduits, and accidentally eyeing on them makes me uncomfortable.
 so, i've never been this eager to feel so mega after feeling so milli. i
 try not to be impulsive.
 
+{{< btt >}}
 ### Entry # 152
 Date: Mon, 15 Sep 2014
 
@@ -3067,6 +3223,7 @@ both internal and external realities are amalgamated into a, usually,
 post-nocturnal nicety---truly a far better embrace of *the* truth,
 albeit stupidly so.
 
+{{< btt >}}
 ### Entry # 153
 Date: Tue, 16 Sep 2014
 
@@ -3077,6 +3234,7 @@ from the river. the murky water you drink worsens your poise, further
 desolating whatever still remains of your inhibition. sometimes, you
 wonder if there's a way of elating out this cycle.
 
+{{< btt >}}
 ### Entry # 154
 Date: Wed, 17 Sep 2014
 
@@ -3089,6 +3247,7 @@ how my core diminishes from time to time gives me sense in a way. we
 have altars no other being can hold. we have temples; and within those
 complex, we can make anything out of something so perilous.
 
+{{< btt >}}
 ### Entry # 155
 Date: Thu, 18 Sep 2014
 
@@ -3108,6 +3267,7 @@ In time, everything will forge again routines, and those will break into
 fractals; and all shall be back to their excellent simplicity where I
 would like to find myself stuck. Maybe, you'd be there.
 
+{{< btt >}}
 ### Entry # 156
 Date: Wed, 24 Sep 2014
 
@@ -3124,6 +3284,7 @@ there was a way of auto-correcting the posture. poor spine.)
   Frozen Throne. [More at
   Wikipedia](https://en.wikipedia.org/wiki/Defense_of_the_Ancients).
 
+{{< btt >}}
 ### Entry # 157
 Date: Wed, 24 Sep 2014
 
@@ -3138,6 +3299,7 @@ world, the space outside the world, and whatever forces, laws, and/or
 momenta that govern habitability in the plane on which one experiences
 realities. and, somehow, this dog "has it all".
 
+{{< btt >}}
 ### Entry # 158
 Date: Tue, 30 Sep 2014
 
@@ -3146,6 +3308,7 @@ recklessness that does not match anything but something that resembles a
 proton running the length of a collider at the speed of snail. i think
 living requires a supernatural effort. am i thinking too obviously?
 
+{{< btt >}}
 ### Entry # 159
 Date: Fri, 03 Oct 2014
 
@@ -3174,6 +3337,7 @@ filliping that end just as quick.
 i am so many things, yet *here you go* in the crummy of my compartment
 to a certain person with no luck or good excuse.
 
+{{< btt >}}
 ### Entry # 161
 Date: Sun, 26 Oct 2014
 
@@ -3197,6 +3361,7 @@ dreamed of my brother the other night. he had shorter hair. he had
 styled it so that the front bundle was spiked outwards. anyway, life
 cannot conjure something from the shiftless.
 
+{{< btt >}}
 ### Entry # 162
 Date: Wed, 20 Aug 2014
 
@@ -3285,6 +3450,7 @@ place up in the sky, flashing. It makes you think: a prominence *is *the
 sun's way of smiling. It makes you stutter. It blinds you of the
 morrow. 
 
+{{< btt >}}
 ### Entry # 163
 Date: Thu, 21 Aug 2014
 
@@ -3302,6 +3468,7 @@ exercising the will. while the heart is overly stated in literary air
 and in everyday blah for the wrong reasons (i think so), it is worth
 noting of the real effects of human emotions upon it.
 
+{{< btt >}}
 ### Entry # 164
 Date: Wed, 26 Sep 2012
 
@@ -3310,6 +3477,7 @@ and nowhere, reading signs from fading posts, inhaling the musty air of
 San Marcelino. always there are students racing for home. too, there are
 those who prefer to stay behind and wait for the night to set in.
 
+{{< btt >}}
 ### Entry # 165
 Date: Tue, 02 Sep 2014
 
@@ -3325,6 +3493,35 @@ that i'm two white strands shy from being a 'dyslexic scientist'.
 while whole point of this festivity is for him to regain his previous
 health, i doubt the medicine field has developed perfect treatment for
 his acute syndrome. i wish him well. i wish him...contentment.
+
+{{< btt >}}
+### Entry # 166
+Date: Tue, 02 Sep 2014
+
+stumbling upon a love letter i wrote for a previous romance from eons
+back, returned to me as if the receiver never had imbibed the downward
+strokes contained within; and, woe, what crap i was then. cringing to
+sleep.
+
+{{< btt >}}
+### Entry # 167
+Date: Thu, 04 Sep 2014
+
+bad changelings who lost their spines when faced with the formidable
+task of skimming off the cholesterol from their brackets; those who wash
+the grimes off of the plans only to replace them with filth of a higher
+tier.
+
+there is no moment of clarity for them, i suspect. whatever byte
+sounds appealing, take it in, take it all in, every detail so long as it
+harmonizes with the drive. it is too late.
+
+their ability to take
+everyone down will only be suppressed by an opposition that is, as of
+yet, still gaining momentum. until then, i hope the grotto does not wear
+out from the faithless prayers.
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -3427,6 +3624,8 @@ is no option for me to go to except down.
 1. when all you had to do is follow that damn train
 1. after pining comes the grit
 1. the art of snoring discreetly but audibly
+
+{{< btt >}}
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
 (minotaurs aside) are fairly easy to navigate (as opposed to mazes

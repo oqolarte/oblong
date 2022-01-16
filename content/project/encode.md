@@ -10,6 +10,7 @@ One day, I decided to help Isya on encoding a lot of documents from a family fri
 
 Here is an attempt to document the entire process.
 
+{{< btt >}}
 ## Scope of Work
 
 The documents that we're talking about here are printed articles written by Tito Jorge.
@@ -20,6 +21,7 @@ We are tasked to convert these printed materials into a Word document (docx) as 
 The initial suggestion was to manually typewrite *everything*.
 Surely, though, there must be a smarter way to make softcopies?
 
+{{< btt >}}
 ## Scanning of Documents
 
 Currently, we have no scanner in our home.
@@ -40,6 +42,7 @@ Just remember that the important things here are:
 - a way to scan the documents; and 
 - a way to transfer them to the computer.
 
+{{< btt >}}
 ## Converting PDF to docx
 
 It's time to make use of free online software.
@@ -55,6 +58,7 @@ The max file size is also limited to 15 MB.
 
 To increase these numbers, you need to sign up.
 
+{{< btt >}}
 ### Sign up on Free Online OCR using disposable email
 
 Never use your own personal email account.
@@ -86,6 +90,7 @@ When creating another account, be sure to delete the cookies in your browser.
 
 Don't forget to download all the docx files.
 
+{{< btt >}}
 ## Polish the documents 
 
 At this point, all the files are now in docx format.
@@ -104,6 +109,7 @@ This is the most labor-intensive part of the whole process which includes these 
 
 I have processed about 133 pages of scholarly articles, done in about 13 hours (non-continuous).
 
+{{< btt >}}
 ## Recommendation/s
 
 To future-proof the articles, it would be nice to convert them also to plaintext (txt). 
@@ -118,6 +124,8 @@ the OCR might not recognize your cursive penmanship!
 
 Or perhaps, you own a distraction-free, old-but-working-still typewriter?
 Type your thoughts in a distraction-free machine[^typewriter], scan, and edit and/or finalize the digital copy.
+
+{{< btt >}}
 
 [^pw]: To easily come up with a password, this would be the best time to start using a [password manager](https://privacytools.io/software/passwords/#pw).
 Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.

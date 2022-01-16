@@ -20,6 +20,7 @@ This documentation also serves as future reference.
 
 Marked as **on-going** because I'm always revising my bujo ways.
 
+{{< btt >}}
 ## Materials
 
 A notebook and a pen(cil).
@@ -28,15 +29,18 @@ Some people even do it with tablet and stylus
 (usually iPad and Apple Pencil),
 but that's unnecessary and too high-tech for my taste.
 
+{{< btt >}}
 ### Preferred, but not required
 - notebook: dotted, at least 35 rows, A5 max size
 - pen: 0.5mm needle point, black ink, doesn't smudge
 
+{{< btt >}}
 ### Optional
 - small ruler
 - highlighter/s
 - other pen/s with different color
 
+{{< btt >}}
 ## Front- and Back-door Scheme
 
 From the official website:
@@ -69,6 +73,7 @@ The notebook is done when two sides meet in the middle.
 This front-back split makes navigating easier.
 I know that the *chocolate crinkles* recipe would be in the back side of the bujo.
 
+{{< btt >}}
 ## Core Collections
 
 ### Future Log
@@ -82,6 +87,7 @@ to write down a thought quickly before the mind forgets it.
 As a consequence, the notebook becomes a list of list of items in bullet points,
 hence the name Bullet Journal.
 
+{{< btt >}}
 ### Monthly Log
 
 A spread is dedicated for each month of the year.
@@ -108,6 +114,7 @@ but on the page after the last the Daily Log of the month.
 Here I try to talk about what happened to FORM (Friends and Family, Occupation, Recreation, Motivation) during the month.
 This is not a strict format, though.
 
+{{< btt >}}
 ### Daily Log
 
 Bujo's bulk comprises Daily Logs.
@@ -145,12 +152,14 @@ I maintained Carroll's bullet and signifier usage, with a bit of addition.
 [^tracker]: In my opinion, one should not have millions of trackers.
 I found four to be manageable.
 
+{{< btt >}}
 ### Index
 
 I do have an Index, but it is placed right after the back door,
 where non-log Collections are.
 I allot a spread for this, but I have never maximized this space ever.
 
+{{< btt >}}
 ## Archiving
 
 When a bujo is (mostly) filled, it's time to archive them.
@@ -159,6 +168,7 @@ usually along the spine.
 I still keep them accessible,
 because I usually have some notes that I need to refer to from time to time.
 
+{{< btt >}}
 ## What about digital bullet journal?
 
 It's entirely possible to use bujo in the digital space.
@@ -174,6 +184,7 @@ easily portable, as many operating systems accept plaintext.
 
 Mine is inventively named as `log.txt`.
 
+{{< btt >}}
 ### Separating Work and Personal
 
 In the ever increasing complexities of modern life,
@@ -188,12 +199,15 @@ and my work bujo won't distract me with personal stuff.
 
 Do what works for you.
 
+{{< btt >}}
 ## Inspiration
 
 I only go the these subreddits: [r/BasicBulletJournals](https://old.reddit.com/r/BasicBulletJournals) and [r/bujo](https://old.reddit.com/r/bujo).
 It's because they tend to focus on utility and productivity, not on aesthetics.
 
 And, of course, thanks to Ryder Carroll for sharing this method to the world *for free*.[^bujo]
+
+{{< btt >}}
 
 [^bujo]: You see, it's amazing how there are paid "courses" to "guide you in setting up" your own bujo.
 Look up the terms "bullet journaling course" in your favorite search engine, and see what comes up.

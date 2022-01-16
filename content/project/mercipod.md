@@ -16,14 +16,14 @@ This isn't necessarily a step-by-step guide, and shouldn't be considered as such
 It's merely an attempt to document the process through a crappy camera and poor lighting that I have.
 Pardon the amateur.
 
----
-
+{{< btt >}}
 ## Getting what I need
 
 Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.
 
 {{< figure src="/image/mi1.jpeg" alt="a spread of items needed to upgrade the ipod, including hard drive and prying tools" caption="TOP HALF, LEFT TO RIGHT: iPod Classic, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools" >}}
 
+{{< btt >}}
 ### iFlash-Quad
 
 [iFlash](https://iflash.xyz) is the go-to site/store when it comes to iPod adapters.
@@ -47,6 +47,7 @@ It's true.
 I've done this in Isya's iPod, and it has worked better since its upgraded.
 So I know it will improve 'Nay Merci's iPod, which I'll unofficially call Mercipod.
 
+{{< btt >}}
 ### MicroSD Cards
 
 Maximum of four.
@@ -60,6 +61,7 @@ Since you're reading this, I'm assuming you have some familiarity with iPods and
 For those who don't know, when we connect the iPod to a computer with iTunes on it, the iTunes will be the one to put music on it, by syncing the library with the iPod.
 So, don't put your mp3 files in the microSD just yet!
 
+{{< btt >}}
 ### Prying tools
 
 As with any Apple device, iPod is tricky to open.
@@ -76,12 +78,14 @@ Other plastic prying tools may be needed.
 They can be bought on the cheap at your favorite e-commerce site.
 Look up with terms like "plastic prying tools for electronics".
 
+{{< btt >}}
 ### Tweezer
 
 Not included in the picture above, sorry about that.
 This will come in handy when putting back the battery ribbon to its slot.
 More on this later.
 
+{{< btt >}}
 ### Video Tutorial
 
 Yes, I couldn't have done this (again) without the help of a guide.
@@ -92,6 +96,7 @@ In addition to his tutorial, he also discussed the hurdles he had to overcome so
 
 He also provided an "[iPod Classic opening reference card in PDF](http://bit.ly/2NpjDTD)" (Dropbox link) so I would know where to locate the metal clips that hold together the iPod chassis.
 
+{{< btt >}}
 ### Patience
 
 Lots of it.
@@ -109,10 +114,12 @@ This is my second time doing this, so I'm more confident.
 
 ---
 
+{{< btt >}}
 ## Swapping the Hard Drives
 
 Now we will be discussing the steps involved in taking out the old hard drive to be replaced with the new solid state one.
 
+{{< btt >}}
 ### 1. Open the iPod
 
 {{< figure src="/image/mi2.jpeg" alt="an image of ipod and a small roll of washi tape below it" caption="Washi tape marks the locations of the metal clips" >}}
@@ -128,6 +135,7 @@ Disengaging the clips on both sides can be done after, either by alternating bet
 I'll reiterate:
 Refer to the video tutorial first on how exactly this is done.
 
+{{< btt >}}
 ### 2. Disconnecting the battery ribbon
 
 {{< figure src="/image/mi3.jpeg" alt="an opened ipod" caption="Disconnecting the battery ribbon" >}}
@@ -150,6 +158,7 @@ Keep it in tact.
 
 The battery still has some significant juice in it, so that's an upgrade for another time.
 
+{{< btt >}}
 ### 3. Disconnect the original hard drive
 
 The original hard drive is attached to the motherboard via flexible flat cable (FFC) through called a Zero Insertion Force (ZIF) connector.
@@ -164,6 +173,7 @@ Once disengaged, the hard drive shall be easy to pull off.
 
 {{< figure src="/image/mi6.jpeg" alt="an opened ipod and a mechanical hard disk" caption="RIGHTMOST: Hard drive successfully removed" >}}
 
+{{< btt >}}
 ### 4. Installing the new solid state drive
 
 The solid state drive here, technically, is the microSD.
@@ -184,6 +194,7 @@ Then, lock it in by putting the black plastic flap back down.
 Check the following image to see the orientation of the adapter during connection.
 {{< figure src="/image/mi8.jpeg" alt="an opened ipod" caption="Installing the solid state drive" >}}
 
+{{< btt >}}
 ### 5. Closing the iPod
 
 Realign the back chassis back to the front.
@@ -206,6 +217,7 @@ the metals clips are now engaged and the iPod is locked closed.
 
 ---
 
+{{< btt >}}
 ## ...then comes the music
 
 At this point, the iPod should feel snappier and lighter, because it is!
@@ -221,6 +233,8 @@ Do these both via iTunes.
 When successfully done, the iPod can now sync with iTunes, so make sure you packed the latter with decent muzak.
 They syncing process is outside the scope of this post, but it shouldn't be too hard.
 Look it up online.
+
+{{< btt >}}
 
 [^ipod-classic]: iPod Classic, 6th Generation ("7th gen" in some sites), 2nd revision, 160 GB capacity, Model No. A1238. 
 For more info on iPods, [check the wikipedia about it](https://en.wikipedia.org/wiki/IPod_Classic).

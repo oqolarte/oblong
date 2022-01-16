@@ -17,6 +17,7 @@ the design of which is an accurate depiction of my knack for simplicity.
 The status is likely to stay **on-going**;
 this site is always under construction.
 
+{{< btt >}}
 ## Digital Garden
 
 If you've been looking around for personal websites like I have, "digital garden" is a phrase that gets used often.
@@ -33,6 +34,7 @@ Like a real garden, tending this one also relaxes me.
 It helps me reorganize my thoughts by weeding out
 what's unnecessary.
 
+{{< btt >}}
 ### Public Repository of Independent Research
 
 Speaking of ideas, I will use this site as a publishing platform of the results of my research, if any at all. 
@@ -62,6 +64,7 @@ In this online space, let's assume that nothing is set to stone.
 Through editing, I'm able to improve a body of content.
 I can learn by doing, and sharing the entire process with you as I go.
 
+{{< btt >}}
 ### Major Sections
 
 This site is divided into two main sections: **Log** and **Projects**.
@@ -84,6 +87,7 @@ To do that, one needs RSS readers.
 Alternatively, lots of the modern email clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their own built-in RSS reader, so you can use that as well, especially if you do the majority of your reading in an email client.
 A web service is available along these lines: check out [RSS by email](https://rssby.email).
 
+{{< btt >}}
 ## Front-end
 
 As you are well aware, this site's design borders on brutalism.
@@ -104,6 +108,7 @@ This means that:
 I consider these points important as they all relate to my current situation.
 In fact, websites should be guided by these principles.
 
+{{< btt >}}
 ### Typography
 
 Many designers would argue that typography should elevate the content,
@@ -153,6 +158,7 @@ gives similar effect.
 It's just a matter of personal preference.
 At least, this point can be applied to the two languages I use, English and Filipino.
 
+{{< btt >}}
 ### Link Management
 
 Links in this site that have a northeast arrow ("↗" or "`\2197`" in CSS) right after them are *external links*, i.e. links that take the visitor out of this website.
@@ -177,6 +183,8 @@ Currently, these arrows only indicate external links to let visitors know that t
 Clicking one does **_not_** open it in a new tab or window.
 You have to manually right-click it and select `Open in a new tab` (or `...window`) (or click with Mouse3/MouseWheel).
 
+
+{{< btt >}}
 ### No JavaScript?
 
 It's not really that I find JS harmful, although some would argue that it could be.
@@ -188,6 +196,7 @@ Given the simple layout, the interactions with the visitor are limited to clicki
 It's absence is definitely beneficial, because there's less code to maintain.
 Eliminating the excess, even in the form of code, does leave a positive impact via negativa.
 
+{{< btt >}}
 ### No Ads
 Only advertisers like ads[^ads].
 I don't intend on monetizing this site with ads, 
@@ -195,6 +204,7 @@ so expect a clean (read: boring) experience.
 
 Also, did you know that a lot of online advertising you see depends on JS?
 
+{{< btt >}}
 ### Images
 
 Humans can be very visual *sometimes*.
@@ -225,11 +235,13 @@ Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.
 Here, I set it to 85.
 - `-pew` combines three options: optimize, erase EXIF metadata[^metadata], and overwrite source images respectively.
 
+{{< btt >}}
 ## Back-end
 
 I use [Hugo](https://gohugo.io) static site generator to build this site.
 There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
 
+{{< btt >}}
 ### In the name of Static Site Generator (SSG)
 
 Using SSG like Hugo arguably increases security by simplifying a lot of things[^pandoc].
@@ -250,6 +262,7 @@ Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you ca
 
 But I'll take the massive freedom gains provided by SSGs[^SSG] anytime!
 
+{{< btt >}}
 ### Using Hugo
 
 Great Hugo tutorials abound online, in blog posts and video formats.
@@ -272,6 +285,7 @@ My process involves a lot of trial and error to get this site looking the way it
 Having said all that, I'm still looking out for a "simpler" tool, the SSG that fits just right for my use case.
 After all, a tool is a tool.
 
+{{< btt >}}
 ### Disabling Internal Templates
 
 Hugo ships with internal templates that I have disabled
@@ -287,6 +301,7 @@ and I don't have any use for them. They are:
 
 To have a privacy-centered configuration, I followed [this documentation](https://gohugo.io/about/hugo-and-gdpr/) and [disabled all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
 
+{{< btt >}}
 ### nginx
 
 [nginx](https://nginx.org/en/) ("engine X"), is an HTTP and reverse proxy server.
@@ -312,6 +327,7 @@ server {
 With this,
 my site scores `A+` in [Mozilla Observatory](https://observatory.mozilla.org/).
 
+{{< btt >}}
 ## Inspiration
 
 In high school, computer lab was not my favorite, and I'm okay with that.
@@ -339,6 +355,8 @@ Here are some other sites from which I also got inspiration:
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 - [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
 - And other small, obscure personal blogs in the "smol net" and "dork web" that we have yet to discover.
+
+{{< btt >}}
 
 [^ads]: That's just a wild claim.
 I have no proof of it *yet*, but absence of evidence doesn't mean evidence of absence, *no*?

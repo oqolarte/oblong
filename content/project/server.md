@@ -29,6 +29,7 @@ The server will actually be an old laptop that's just lying around here.
 And it's not actually mine.
 The [MSI Wind Netbook](https://www.laptopmag.com/reviews/laptops/msi-wind-u123) belongs to Isya, and I got her permission to use it for this project.
 
+{{< btt >}}
 ## Specifications of the Machine
 - Bluetooth 2.0
 - CPU: 1.66-GHZ Intel Atom N280
@@ -44,6 +45,7 @@ The [MSI Wind Netbook](https://www.laptopmag.com/reviews/laptops/msi-wind-u123) 
 - Weight: 1.45 kg (3.2 lbs)
 - Wifi: 802.11b/g
 
+{{< btt >}}
 ### It's old...
 
 By today's standards, it's an old machine.
@@ -58,6 +60,7 @@ they are exposed to black hat hackers.
 
 {{< figure src="/image/msi-wind.jpeg" alt="screenshot of the laptop's system properties" caption="And now, a crappy photo of the laptop's system properties" >}}
 
+{{< btt >}}
 ### ... but works fine.
 
 Just because it's old doesn't mean it's no longer valuable.
@@ -69,6 +72,7 @@ In its current state, it "runs out of breath" trying to run modern applications 
 The next best thing is to refurbish it into something that isn't resource intensive. 
 This project will also be a learning process for me on how to manage my own small server.
 
+{{< btt >}}
 ## A suitable operating system
 
 To many system administrators (sysadmin), a suitable operating system (OS) could mean many different things.
@@ -86,6 +90,7 @@ because they still have support for 32-bit architecture
 
 I also have experience in using both, albeit in a 64-bit architecture.
 
+{{< btt >}}
 ### Using OpenBSD as a server
 
 OpenBSD is a fully functional, Unix-like OS based on Berkeley Networking Release 2 (Net/2) and 4.4BSD-Lite.
@@ -97,12 +102,14 @@ Before anything else, a disclaimer:
 While I'll do my best to update this document, assume that the most recent documentation there is can be found over at the [OpenBSD website](https://openbsd.org).
 Their [manual pages](https://man.openbsd.org) contain the details needed to operate a machine running on OpenBSD, and is entirely available offline on a base install.
 
+{{< btt >}}
 ## Installing OpenBSD on bare metal
 
 If you're new to the system, I highly recommend to go over the [OpenBSD FAQ - Installation Guide](https://www.openbsd.org/faq/faq4.html) at least once.
 
 I downloaded the image from a Debian-based system, through the terminal, so most of the commands here are based on that.
 
+{{< btt >}}
 ### 1. Download the installer
 
 There are mirrors[^mirror] from which to download the installer.
@@ -116,6 +123,7 @@ Usually to provide a means of redundancy.
 curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.9/i386/install69.img
 ```
 
+{{< btt >}}
 ### 2. Create Install Media in Flash Drive
 
 Plug in the USB stick.
@@ -135,6 +143,7 @@ In my case, the successful output is:
 471859200 bytes (472 MB, 450 MiB) copied, 31.9492 s, 14.8 MB/s
 ```
 
+{{< btt >}}
 ### 3. Proceed with the Installation.
 
 Insert the USB drive into the machine.
@@ -157,6 +166,7 @@ Reboot after installation.
 
 Then login as root.
 
+{{< btt >}}
 #### Enable `apmd(8)`
 
 ```shell
@@ -169,6 +179,7 @@ rcctl start apmd
 `-a` option means BIOS-initiated suspend or standby requests are ignored if the system is connected to line current (plugged) and not running from batteries.  
 `-z` option means to automatically *suspend* the system if no AC is connected and the estimated battery life is equal or below `7` percent.
 
+{{< btt >}}
 #### Add username to `/etc/doas.conf`
 
 ```shell
@@ -183,6 +194,7 @@ Reboot to make the changes.
 This might be different for every other machine.
 At any point during the installation, type `?` to list the possible choices.
 
+{{< btt >}}
 ### Set up wi-fi and ethernet networks
 
 Before doing anything else, it's important to be connected to the
@@ -194,6 +206,7 @@ in which you need to install the firmware, e.g. for your wifi card,
 but you need a working network connection to do that.
 A workaround is discussed in the following sections.
 
+{{< btt >}}
 #### Ethernet
 Most OpenBSD developers recommend using ethernet if it's available.
 It's reliable and secure.
@@ -230,6 +243,7 @@ Enter as root:
 fw_update
 ```
 
+{{< btt >}}
 #### Wi-fi
 This laptop has wi-fi capabilities, but isn't immediately compatible due to firmware issues.
 As mentioned, firmware can be updated by `fw_update` if ethernet connection was successful.
@@ -252,6 +266,7 @@ chmod 0640 /etc/hostname.athn0
 sh /etc/netstart
 ```
 
+{{< btt >}}
 #### Installing the needed firmware (from another device)
 
 Not everything might work as expected.
@@ -316,6 +331,7 @@ The USB drive will appear to have several partitions, e.g. sd1c.
    ```
 1. Reboot.
 
+{{< btt >}}
 ### Optional things
 
 In this laptop, I'm going install several binaries from the ports, namely **git** (version control system), and **neovim** (text editor).
@@ -323,6 +339,7 @@ To install in one go, enter as root:
 ```shell
 pkg_add git neovim 
 ```
+{{< btt >}}
 ## SSH Server and Client
 
 In order for the client to connect to the server, 
@@ -335,6 +352,7 @@ Now, to set up the SSH[^ssh]:
 All user authentication, commands, ouput, and file transfers are encrypted to protect against attacks in the network.
 For more info: https://www.ssh.com
 
+{{< btt >}}
 ### Client Side
 
 Before generating, be sure to check first whether there are any existing ones.
@@ -373,6 +391,7 @@ Copy that into the remote server:
    This will prompt you one last time for the password of the server.
    If successful, the server will no longer prompt you for password everytime you SSH into it.
 
+{{< btt >}}
 ### Server Side (the OpenBSD machine)
 
 A few tweaks are needed to make SSH a pleasant experience.
@@ -394,11 +413,13 @@ A few tweaks are needed to make SSH a pleasant experience.
    PermitRootLogin yes
    ```
 
+{{< btt >}}
 ## Other Noteworthy Inconveniences
 
 In this section, I'll discuss the obstacles 
 (read: rookie mistakes) that I had to go through.
 
+{{< btt >}}
 ### LAN Ports problem
 
 At the time of writing, our internet service provider is PLDT Home Fibr.
@@ -417,9 +438,12 @@ it wasn't detecting anything.
 During troubleshoot, I tried the three remaining ports with different ethernets that were available to me at the time.
 None of this approaches worked.
 
+{{< btt >}}
 ### Takeaway/s
 
 - Always read the official documentations.
 In the case of OpenBSD, their man pages are superb, and is available already in the base install.
 Be patient to go through them.
 - Check with your internet service provider whether some things need to be done first, before setting up a homebrew server. 
+
+{{< btt >}}
