@@ -6,7 +6,7 @@ draft: false
 ---
 - Code license for anything that appears on this site is now under
   [MIT License](/LICENSE.txt).
-- Added new project: [Moving to FOSS](/foss.md).
+- Added new project: [Moving to FOSS](/foss).
 - Each section in each [Project](/project) now has a back-to-top link for a more
   convenient navigation.
 - Added two new entries to [Imbentori](/imbentori).

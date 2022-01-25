@@ -8,15 +8,15 @@ draft: false
 
 I have been bullet-journaling (bujo) since I first chanced on it on 2015.
 It made sense to me at the time, and it still does.
-Whether I like it or not,
-the technology that humans are now developing rapidly moves towards the digital.
+
+Our technology rapidly moves towards the digital.
 Bujo remains my anchor to the analog world,
 where things are slower and require more deliberation.
 
 If you're curious what this is, Ryder Carroll, the creator, explains it [here](https://bulletjournal.com/pages/learn).
 
-In this post, I discuss my bidirectional setup, riffed from a combination of Carroll's and others' minimal designs.
-This documentation also serves as future reference.
+Here I discuss my bidirectional setup,
+riffed from a combination of Carroll's and others' minimal designs.
 
 Marked as **on-going** because I'm always revising my bujo ways.
 
@@ -148,6 +148,9 @@ Let's break this down by section:
 I list my meals during daytime (`AF` or AM Food) and nighttime (`PF` or PM Food).
 1. The rest are bullets.
 I maintained Carroll's bullet and signifier usage, with a bit of addition.
+1. Bonus: I use other symbols for the rest of my trackers (e.g., a square means 'I dreamt last
+   night'), which I also use as signifiers for a note if I ever want to expound
+   on them (see example above).
 
 [^tracker]: In my opinion, one should not have millions of trackers.
 I found four to be manageable.
