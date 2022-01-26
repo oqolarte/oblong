@@ -17,3 +17,12 @@ Sentimental music in city pop always puts me in place, especially when the setti
 
 The Future will be chilling long after it has burned.
 Every notion will have become useless by then, but it the meantime, any idea is worth arguing for so long as it makes perfect sense to us.
+
+## Music that reminds me of this time
+**Artist**: Tatsuro Yamashita 山下達郎  
+**Album**: Pocket Music (1986)  
+The aforementioned city pop.
+
+**Artist**: The Drums  
+**Album**: Portamento (2011)  
+The music on our drive homebound.

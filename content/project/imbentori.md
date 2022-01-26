@@ -3522,6 +3522,90 @@ yet, still gaining momentum. until then, i hope the grotto does not wear
 out from the faithless prayers.
 
 {{< btt >}}
+### Entry # 168: another dream
+Date: Thu, 04 Sep 2014
+
+i watched an orange decay rapidly as if it were on video time lapse---a
+few days worth of decomposition compressed in a minute---and mycology
+doing its carnival on the thing. in a matter of moments, it had lost its
+orangeness and turned into something greige with fungi. i wondered what
+it would taste like; so i put the specimen in my mouth and began
+chewing. indeed it was chewy, like a gum, but lacking any recognizable
+taste. when i spat it all out, to my horror, the pulp comprised---*again*---maggots.
+
+{{< btt >}}
+### Entry # 169
+Date: Wed, 10 Sep 2014
+
+Defect the cards on the coffee table that were once of immense value.
+Being susceptible to differentiating values of blur and red, the cards
+are now only a pile of pseudo-premonitions, because mysticism is an
+ailment whose sole aim is to defy my own understanding of the
+unfeathered logic and sound reasoning, a dagger inside the head of the
+king of hearts. Abandon---yes, as you have always done, and today, I
+won't blame you for getting lost in the tarot audience.
+
+You have a nice-looking palm.
+
+Leave before the seers foretell that I would be coiling over the same
+lofty mattress, uttering the same chapbook stories from
+abroad, thinking, maybe sneezing, or maybe wolfing down lines of tar
+jutting up from my personal box.
+
+But before you do, let me first close my eyes so it would be improbable
+to envision the scene of your closing the door behind you unlocked.
+
+{{< btt >}}
+### Entry # 170
+Date: Thu, 06 Nov 2014
+
+the pursuit of contentment is still under construction. i am gaining
+flabs on my abdomen. my face is starry with infectious dots, so
+repulsive that i can't look at my bathroom reflection without plunging
+further into darker depths. i might decide one morning to go for a
+lengthy session of brisk walking, cut in front of aggressive drivers
+just to have this habit of flipping them the bird, but i doubt all these
+would be my saving grace.
+
+life convulses around the corners of this
+new edifice, still under construction; the sidewalk people below have
+their arms above their heads as if those were enough to protect them
+from falling debris. they wait in a long queue at a local grill joint.
+we have been cynical towards others' perspectives as we way in line,
+trying to enjoy the urban solitude---but how can we when all we do is
+check up on our smartphones every few moments?
+
+...
+
+albeit torturous the recent disambiguation of myself might seem to *me*,
+it would be absurd to actually think about it that way, to base the
+morrow's lifetime regurgitation of the sound and senseless on that.
+
+people become relentless when they attempt to disprove me that we are
+impractical creatures. to them, it is about how one goes around the
+corner (whatever that means). to me, it is largely how one distills the
+water they are to drink (whatever that means). still---i wonder from my
+concrete, linoleum-covered seat the muteness of employers and why they
+haven't gotten to any of my applications yet.
+
+*the world outside is built on confusion by confused people*: a
+documentary of a person who almost marturbated his blues away.
+
+...
+
+dreaming of a certain person i had missed brings back the times of
+adolescence, my bicycle days. certainly i must record this incident,
+even through the pervading struggle of phantom mists, because it removed
+me from the entanglement i was in the night before.
+
+of course, it was of a female, now remodeled by starbucks "sophistry"
+and maple cadence, but what can i say? i am glad that she is doing well,
+and that her casting herself closer to contentment has delivered her
+some deep insights about the meaning of existence. and k-pop. she still
+bewitches even the most horrendous of men with her noble smile, in or
+out of dreams.
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -3624,6 +3708,8 @@ is no option for me to go to except down.
 1. when all you had to do is follow that damn train
 1. after pining comes the grit
 1. the art of snoring discreetly but audibly
+1. the ability to snag attention even from a great distance, solitude, truly rare and unique: the perks of being a pall flower
+1. python as a scarf
 
 {{< btt >}}
 

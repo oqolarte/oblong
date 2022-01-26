@@ -19,5 +19,5 @@ depending on where you are.
 The cool temperate days of early January that we predicted
 to last until February have faded now.
 In its place, a reminder of what it really feels like for the rest of the
-year---sticky, humid, bliding.
+year---sticky, humid, blinding.
 *Don't you forget.*

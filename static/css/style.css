@@ -6,11 +6,11 @@
 }
 body {  margin:1em auto;max-width:40em;padding: 0.69em;
         font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;}
-a:hover { color:#69bb69 }
+a:hover { color:#36ca5c }
 a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
 a[href^="https://"]:not([href*="ohio.araw.xyz"]):after{
         content: "\2197";
-        color: #69bb69;
+        color: #36ca5c;
         display: inline-block }
 h1,h2,h3,h4,h5,h6 { font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
         line-height:1.2 }

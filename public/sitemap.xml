@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ohio.araw.xyz/janam/</loc>
-    <lastmod>2022-01-25T19:41:52+08:00</lastmod>
+    <loc>https://ohio.araw.xyz/janam2/</loc>
+    <lastmod>2022-01-26T18:57:46+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/</loc>
+    <lastmod>2022-01-26T18:57:46+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/janam/</loc>
     <lastmod>2022-01-25T19:41:52+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/default/</loc>

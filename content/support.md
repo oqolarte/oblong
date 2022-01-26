@@ -44,7 +44,7 @@ I'm getting in the habit of fixing, making, and repairing stuff.
 This wishlist is in constant change, so please check in here from time to time.
 Please email me first if you plan to give me any of these stuff.
 
-- New 6- or 9-cell battery for Thinkpad X220
+- New 6- or 9-cell battery for Thinkpad X220/X230
 - New battery for MSI Wind U123
 - Raspberry Pi (any model), used and in good working condition[^used]
 - IBM Thinkpad T40, used and in good working condition.
@@ -52,7 +52,6 @@ Please email me first if you plan to give me any of these stuff.
 - Apple Magsafe 1 L-type power adapter.
 [More info in this log](/old-laptop#apple-power-adapter).
 - LCD or LED computer monitor, used and in good working condition
-- Corded hammer drill, used and in good working condition
 - e-ink reader, used and in good working condition
 - Mechanical keyboard, 75% or 80% (tenkeyless, TKL)
 - Crowbar or wrecking bar
