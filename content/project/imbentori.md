@@ -2028,7 +2028,7 @@ fringes, never an 'edgeless cube'. slenderman, therefore, instead of
 having no face, dons limitless visages where only one should be.
 
 {{< btt >}}
-### Entry ## 99
+### Entry # 99
 Date: Tue, 01 Apr 2014
 
 Saved hopes are the very atoms of a place in full oscillation, working
@@ -3606,6 +3606,192 @@ bewitches even the most horrendous of men with her noble smile, in or
 out of dreams.
 
 {{< btt >}}
+### Entry # 171
+Date: Tue, 11 Nov 2014
+
+terms like 'minimum wage' should not be a deterrent when looking over
+and over for something ~~you~~ *i* can work on and for, but
+typically, such is not the case.
+
+in other news, mosquitoes have been
+artistic. i woke up to a small constellation on my arm, each its own
+miniature antares.
+
+{{< btt >}}
+### Entry # 172
+Date: Sun, 16 Nov 2014
+
+i am hooked to the whir of urban traffic drama,
+how extensively corrupt one plot can be,
+as if watching a film critic defend its turf but never the essence of what is served.
+and every time i see one,
+i will ride it to the end.
+
+one would notice various discrepancies offered within the arguments of both camps,
+offender and defender,
+although one might not have rigid constructs of basic street-smarts.
+
+it is obvious: emotions reduce our ability to reason.
+these drivers decline open-mindedness.
+maybe it was not taught in their school (or anywhere else for that
+matter), but it only takes two reckless people to have an accident.
+
+every instance i see leaves an odd spectrum on my overall personality,
+that which is sometimes mildly savage, oft cavernous as it tunnels
+through the psyche.
+
+{{< btt >}}
+### Entry # 173
+Date: Mon, 17 Nov 2014
+
+just when you think disputes dissolved as the hallucinations stir,
+they do not.
+they only form a sediment at the bottom. years later, you have a limestone.
+
+{{< btt >}}
+### Entry # 174: *friendships among netizens, and the unusual discord that follows*
+Date: Wed, 19 Nov 2014
+
+downright agitating---and the agitation remains exclusively malignant
+where an epidermis must be---but promising: future friendships arising
+from cybernetic origins might soften the blow of the lasting
+preoccupation of the bruised genitalia and immobilized alter egos.
+sometimes, in order to participate in this growing bubble, there needs
+to be a certain balance of confidence and diffidence, to give and to
+take either/or. kind of like maintaining the right pH level in a pool.
+
+to be more unofficial about this, let me tell you what i think, so you
+can pass this around like it's hot shit:
+in many instances, a person
+conducting an in-depth meditation on what good things are there to say,
+he or she reanimates premeditated gabs and combines them in a particular
+sequence such that it makes no sense yet can baffle others. to establish
+this sense of being, one is willing to garble on fart-thoughts to win a
+stranger's approval. sometimes, this does not work out.
+
+amid the distances, one imagines tentatively the benefits; and it is
+during this quest for conformity that hormones quiz the will if or not
+it could pass the industrial standards. if we set up rules on which this
+late-night hip would stand, the morning shall come as menacing as the
+first rays of sunlight piercing the eyelids. by then, adults would be up
+to cook the first meal of the day (supposedly). or, they would wander by
+your room and hear the audible commotions transpiring behind the door.
+have you forgotten that the earphones you bought last week was
+inexpensive and therefore below normal. it has been emitting excess
+decibels outward to your room and further past your door and---look,
+your parent has opened your door.
+
+"did you even sleep?" asks your parent.
+
+you are taken aback. a glimpse into the future tells you that this might
+mean you would be grounded for the next two lifetimes if you're lucky.
+no time to evaluate the situation. this is worse than the happening. if
+there is a solution, it needs to barge in right now and take you away
+from this in a blink.
+
+the laptop beeps and then darkens as it discharges the last of its
+energy before dying off. *pariah*, the air whispers, *you now drink your
+snot of a fitting dose---deal with it*.
+
+the curtains fall abruptly as
+the reader now proceeds to question the essence of bonds fortified
+within a hazy reality created by superficial creatures *for* other
+superficial creatures.
+
+a neighbro[^neighbro] measures the time it takes for an average person to
+ponder upon this and formulate their own useless posits to be submitted
+next, next, ... , next tuesday. 
+
+[^neighbro]: A male neighbor of utmost detachment to human species; cool neighbor
+
+{{< btt >}}
+### Entry # 175
+Date: Wed, 26 Nov 2014
+
+to which worldly substance does an applicant need to ascribe the
+unnecessarily talkative mouth of an interviewer?
+
+does the interviewer shuffle through the mess of her family when she gets home?
+
+does my not conforming to the latest trends of fashion insult her \#ootd, even
+mildly?
+
+i don't understand these kind of people, but it seems i would be
+dealing with them soon enough.
+
+the length of makati avenue is full of filth, occasional vice-grips
+(like i am) who have to meddle with the metaphors of possible employers
+before getting ignored at the end of the day. elevators have shiny
+metals for walls, and inside is where somebody reflects before expelling
+a gust of afternoon breath. i must be exhausted.
+
+so instead of me complaining further, let me tell you something funny i
+heard on the street: a guy went to a casino to have some wild night.
+[*and then what?*] he approached a table of some betting game and
+placed a mental bet, since he did not want to get too involved. [*then
+what?*] then, the dice were thrown, and the banker won. [*and?*] he,
+thus, lost his mind.
+
+{{< btt >}}
+### Entry # 176: *venting, or so it says*
+Date: Mon, 01 Dec 2014
+
+i am everywhere... i am everywhere an orphan of yet another dysfunctional
+family. i tend to gravitate towards households that concern its tenants
+with familial mishaps. sometimes, the feeling of isolation cannot be
+prohibited, unless i am preoccupied with two playful poodles. (i am
+thinking of attaching at least a photograph of each dog, but that's
+extra labor.) that is why...
+
+this house has been accepting lady bedspacers, but the slots are
+currently full. one of the ladies thought it funny to start calling me
+'baby' or 'sweetheart', even though we both know no spark will come out.
+if anything confuses me
+of the totality of the west, it's the hardening of impulses and,
+thus, preventive releasing of tension towards humorous housemates.
+
+perhaps, it is a joke she shares with the landlady, or her own way of
+introducing herself to a malignant cyst (ahem) throbbing usually
+silently on a chair (ahem). i don't usually respond to this, but when i
+do, it's with a sarcastic half smile. for once, i thought this
+involvement of words of endearment to hopefully establish rapport is
+kind of sad, but the thought quickly passed as i rubbed my forehead with
+a wet pillow.
+
+some masculine person with a darkened skin is the headhunter. his
+partner has a child with another man whom i have never met. this kid is
+peculiar, but not as peculiar as i am in most social aspects. this kid
+is 25 years old, still schooling. feels no shame nor guilt, even as he
+errs. the landlady must have spoiled him. in any case, this point in
+time has been a weird ride in a 14-year-old sports car with this family.
+at least---
+
+i am always present... i am always presented to the structures of society
+that has been misinformed for decades. media do not help. or maybe they
+do, but in other ways that favor them.
+
+the sad part about it is, i can't do much to make a change.
+nobody quickly shifts into a position
+where one can do superhuman alterations. no one can be as grand as that.
+let it be known then that everywhere i go, i see to it that i try to be
+as invisible as possible.
+
+in the past few days, i have had dancing thoughts about people going
+about their routines. an old man told me of the proud things he had
+achieved when he was in college. it went on for days, his storytelling.
+he could not be stopped, not even with a too-good-to-be-true nod. his
+declamation almost always bored me every time his former glory came up
+at the dinner table. almost always, i let him vent. the pressure must
+have been too great for him to contain, and since the kid of his partner
+he could not rely on to share his personal thoughts with, i took it as
+task to be an absorber. a listener. a spongebob squared to the pants.
+
+i guess in expecting it to die down to a more subtle state, the
+involuntary wobble of human tissues, after all, shall not be muted just
+because an external null entity is so fed up with repetitive envious
+accounts.
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -3710,6 +3896,8 @@ is no option for me to go to except down.
 1. the art of snoring discreetly but audibly
 1. the ability to snag attention even from a great distance, solitude, truly rare and unique: the perks of being a pall flower
 1. python as a scarf
+1. i withdrew money from the ATM; a big heap---80M
+
 
 {{< btt >}}
 

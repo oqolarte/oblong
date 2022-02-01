@@ -33,6 +33,7 @@ Feel free to message me!
 ## Financial support
 - [Liberapay](https://liberapay.com/oqo_frxbj/donate)
 - [Paypal](https://paypal.me/oqolarte)
+- [BPI QR Code](/image/BPIQR_OQO.png)
 
 I don't like cryptocurrencies for various reasons, so I don't have wallets for those.
 
