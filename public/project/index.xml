@@ -28,6 +28,13 @@ share it here.&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;h2 id=&#34;day-2&#34;&gt;Day 2&lt;/h2&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220202.jpg&#34;
+         alt=&#34;room with various items like two yoga mats, a standing fan, a few books, a guitar in a case in the corner, an air conditioning unit&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;Before or After Yoga&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 </description>
     </item>
     
@@ -5571,7 +5578,7 @@ There are several tools you can use to do this.
 &lt;/ul&gt;
 &lt;p&gt;Nowadays, I  tend to use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
 &lt;p&gt;From the command line, I do something like:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;imgp -x 1366x0 --quality&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt; -pew ~/image.jpg
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;imgp -x 1366x0 --quality&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt; -ew --optimize ~/image.jpg
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;&lt;code&gt;-x&lt;/code&gt; is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li&gt;

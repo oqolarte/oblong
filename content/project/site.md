@@ -226,7 +226,7 @@ Nowadays, I  tend to use [imgp](https://github.com/jarun/imgp)[^imgp], a "high-p
 From the command line, I do something like:
 
 ```shell
-imgp -x 1366x0 --quality=85 -pew ~/image.jpg
+imgp -x 1366x0 --quality=85 -ew --optimize ~/image.jpg
 ```
 
 - `-x` is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
