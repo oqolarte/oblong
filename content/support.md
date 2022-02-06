@@ -59,7 +59,8 @@ Please email me first if you plan to give me any of these stuff.
 - Chain mail[^chain]
 - Casio F-91W, preferably black
 
-[^1]: Not really, but you get the point.
+[^1]: *Limós* is the root of this Tagalog word, meaning "alms".
+From [Tagalog Lang](https://www.tagaloglang.com/palimos/): In the Philippines, it is common for street children to approach strangers and say, “Palimos po.”
 [^used]: I prefer pre-loved, secondhand, or used stuff,
 because I want to extend their life span.
 Also, I don't expect, nor do I encourage, people to give me newly bought hardware.

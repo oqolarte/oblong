@@ -190,6 +190,8 @@ You have to manually right-click it and select `Open in a new tab` (or `...windo
 It's not really that I find JS harmful, although some would argue that it could be.
 I don't even know enough of the language to make that claim.
 
+I'd assume that there are applications where JavaScript definitely shines.
+
 So why this "distaste" for JS in websites?
 
 Given the simple layout, the interactions with the visitor are limited to clicking links, which my site can practically do without JavaScript.
@@ -233,7 +235,8 @@ imgp -x 1366x0 --quality=85 -ew --optimize ~/image.jpg
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.
 - `--quality` is the quality factor.
 Here, I set it to 85.
-- `-pew` combines three options: optimize, erase EXIF metadata[^metadata], and overwrite source images respectively.
+- `--optimize` does exactly that to the image.
+- `-ew` combines two options: optimize, erase EXIF metadata[^metadata], and overwrite source images respectively.
 
 {{< btt >}}
 ## Back-end

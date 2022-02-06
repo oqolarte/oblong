@@ -3792,6 +3792,152 @@ because an external null entity is so fed up with repetitive envious
 accounts.
 
 {{< btt >}}
+### Entry # 177
+Date: Thu, 04 Dec 2014
+
+fresh grads opting for entry level positions cannot haggle their
+desired salary with the one in charge.
+at this stage in their career, the employers choose.
+and in order to be singled out from others, you, the applicant,
+improve the credentials, which you might find a bit troubling since you have
+little to no experience to brag about.
+
+then, you---choose to hide underneath layers of comfort to confront the adversaries that are
+mashing elevator buttons for fun. elevator rides become more dizzying
+every time. whose giant's head must you spit on because of this
+invention? hide on the thirteenth floor in your fuschia flannel. avoid
+ghosts and their hands. avoid intriguing questions. avoid stupid
+inquirers asking you, "why are you sniffing the pages of the book?"
+although by then, you cannot help but think, "isn't it imperative to do
+such?"
+
+you see, i had in me a mental book about life and how often it is
+plagiarized and other facets of diarrhea that are obviously manufactured
+by an empty mind; and i was mentally reading it. a woman in corporate
+attire noticed. why was i sniffing the pages? a bit odd, no? so i guess,
+it wasn't that dumb a question.
+
+i sought solace to compromise my nostalgia with nasty pulp reads whilst
+caffeine-stoked. i detoured my duties away from the sleazed up nooks of
+mabini, all the while puffing the air that sits by the nostrils. unless
+you look important, nobody here will give any drag about how you tremble
+to your appendages.
+
+meanwhile, the complainants of the year, the decembrists, have a lot of
+lists to publish, mostly typewritten at the back of a coffee shop
+receipt. what's more odd, though, is the smell of their smegma caked
+just around the eyes, and judging from the looks of it, i need not bring
+my nose any closer to know they've been veering from happy thoughts all
+night.
+
+{{< btt >}}
+### Entry # 178
+Date: Fri, 05 Dec 2014
+
+the kettle clanks empty throughout the last few waking moments, from the
+remaining glow of fluorescence to naught. before dream sets in, i wish
+to partake in a tableau of foodfest, but even that is to think frugally.
+
+my stomach awakens its beast. can't i just ward the hunger off, or must
+i get up and scour for change in pockets even when i know there is none?
+
+also, every store owner is asleep. somehow, this predicament places me
+in a limbo, in limited options and, most likely, hours of rest.
+
+{{< btt >}}
+### Entry # 179
+Date: Sat, 06 Dec 2014
+
+if it were possible to determine---whether through telepathy or superior
+biological senses---a foreboding fight between a couple that i won't be a
+part of, then i'd like to have that as a weird ability.
+
+it would be a lottery, though.
+
+of unlikely odds declining humanistic stupidity
+(sometimes abbreviated as 'wish').
+
+because there's nothing more
+exasperating than getting caught within the vicinity of lover's quarrel.
+because the tension is beyond me to manipulate; that is, i hate
+intervening. because i don't want to hear arguments from either sides,
+knowing full well they would crash on their own bottomlessness. i
+suppose such wishful thinking can only come true had there been a glitch
+in the making of this simulation.
+
+{{< btt >}}
+### Entry # 180
+Date: Mon, 22 Dec 2014
+
+oldster in a warehouse of misguided colleagues:
+he thinks of himself as a shepherd and the peeps his sheep.
+and i, the wolf in woolen guise.
+it could be distracting to isolate this deflated ego.
+necessary, nonetheless.
+
+he speaks of sociopathic tendencies a non-conformist may have
+as he gazes into me, as if searching for clues.
+what can i do?
+is there something to be done?
+a wolf lost amid the disconcert of trees,
+their rustling leaves barely guide this furry one away from fire.
+
+and then the stairs would thunder from the hit of footsteps---someone
+is coming down. a savior? someone to pull me from this awkward convo?
+or need i excuse myself?
+clocks seem bored.
+the tables.
+anything that has been absorbing the details of this debate would have grooves on its surface.
+interestingly, no phonograph that can be mounted with narra tablets has been invented yet.
+
+still, i commute towards the front of the store.
+someone with short hair passes by but comes back to take a second look.
+we exchanged words of humility and kindness.
+i know i can never jump to her level,
+but you know what, a dude like me has nothing to lose...
+
+the night often beckons my presence.
+i am theirs to be shifted.
+i wait my avalon to drift me from the haughty perversions of nails as the last
+drop of brandy-ice mix paves way to muchness, while i recover from the
+stitches, while a new pen forges through the woods. but in reality, it
+is the bladder that begs to be emptied. sometimes, deliberately, i get
+back to sleep, certain that i have forgotten a wonderful dream before
+having the chance to jot it down with a song that curbs the feels 180
+degrees. like giving a dog a bath that it always is a drag.
+
+a small poodle in heat that i must always jerk with four fingers on his
+side picks himself up to climb up my knees and, with oblivious pupils,
+seeks affection. pets have their way of making themselves needed to be
+kneaded. greyish muons traverse in a certain frequency before retinas
+are able to process them and relay the data to the main processor. they
+say that knowing is scraping any artistic value without aesthetics, but
+is that possible? to assign light over the dimness of creation? in order
+to evaluate a stimulus, it requires a good working rubric, many of
+which, if not really that scholastic the subject, are derived from
+experience.
+
+{{< btt >}}
+### Entry # 181
+Date: Tue, 23 Dec 2014
+
+the household supplies are divided among the residents accordingly as
+december turns deep-red sherry-flavored molotov.
+i am aware of the frosty blades that have shied away from the bellows of an old flame,
+although there is not much for me in it.
+besides, i don't have the right to interfere between the unspoken discussions of two grown-ups living
+together in an apartment they---*we*---cannot afford.
+
+i haven't been told the details,
+but judging from the recent dispositions of the
+involved individuals, the quarrel seem to have begun from a long-buried dispute.
+sometimes, i wonder if civility can be exhausted, and if babble
+would soon engulf the silence once the human condition's ability to
+withstand grudges had been put out. 
+and if that happens, will i
+be sent packing to make room for their "adjustments"?
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
