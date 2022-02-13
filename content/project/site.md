@@ -305,6 +305,12 @@ and I don't have any use for them. They are:
 To have a privacy-centered configuration, I followed [this documentation](https://gohugo.io/about/hugo-and-gdpr/) and [disabled all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
 
 {{< btt >}}
+### Hosting
+[Vultr](https://www.vultr.com) currently hosts this site using their cheapest
+VPS.
+The VM runs on Debian 10 "Buster".
+
+{{< btt >}}
 ### nginx
 
 [nginx](https://nginx.org/en/) ("engine X"), is an HTTP and reverse proxy server.

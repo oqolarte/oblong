@@ -36,3 +36,39 @@ share it here.
 ## Day 5
 
 {{< figure src="/image/20220205.jpg" alt="waiting shed made of steel poles" caption="You can't sit for long on this non-ergonomic, hostile architecture!" >}}
+
+{{< btt >}}
+## Day 6
+
+{{< figure src="/image/20220206.jpg" alt="Buko Pie" caption="Buko Pie of the Week" >}}
+
+{{< btt >}}
+## Day 7
+
+{{< figure src="/image/20220207.jpg" alt="Coconut juice in a glass pitcher" caption="Buko Juice" >}}
+
+{{< btt >}}
+## Day 8
+
+{{< figure src="/image/20220208.jpg" alt="Self-portrait of author through a mirror" caption="`https://iooare.tumblr.com/tagged/me`" >}}
+
+{{< btt >}}
+## Day 9
+
+{{< figure src="/image/20220209.jpg" alt="black cat lounging on the ground" caption="Who's this cat? Whose cat is this?" >}}
+
+{{< btt >}}
+## Day 10
+
+{{< figure src="/image/20220210.jpg" alt="Trees covering a cityscape behind" caption="Trees" >}}
+
+{{< btt >}}
+## Day 11
+
+{{< figure src="/image/20220211.jpg" alt="View of Highway from a Mall's curbside" caption="Nighttime in Masinag" >}}
+
+
+{{< btt >}}
+## Day 12
+
+{{< figure src="/image/20220212.jpg" alt="two trees and a banana sprout" caption="Something there that wasn't there before" >}}

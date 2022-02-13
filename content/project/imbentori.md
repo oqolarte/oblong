@@ -3938,6 +3938,280 @@ and if that happens, will i
 be sent packing to make room for their "adjustments"?
 
 {{< btt >}}
+### Entry # 182
+Date: Thu, 25 Dec 2014
+
+i've watched *Toy Story* plenty of times, and it's only the most recent
+one that i finally got to laugh at this one brief scene between mr.
+potatohead and hamm in which the latter altered his face to emulate a
+picasso painting. hamm "\[didn't\] get it" (as many kids don't). mr.
+potatohead, said "you uncultured swine!"
+
+took me, what, more than a decade to get that?
+
+{{< btt >}}
+### Entry # 183
+Date: Sat, 27 Dec 2014
+
+glitches only govern the basic functions of this machine. i wish to
+printscreen to have some proof, but the spots, i found out, are
+physical. when i log off, i return to the familiar stone that waits me.
+
+guimba is a nice exile. such a shame that i have only found about this
+place recently, when mother finally became strong enough to tug me
+towards the provincial bus.
+
+also, i found myself lounging at a big old couch, old as dusk, dusty as
+heavens. waves of red and green curtained the daylight from the world
+that had been searching for proper materials with which it will create a
+new bolder one; in the end, it revolved around the same point, and
+everything seemed good again, but we all know it won't be that simple.
+
+{{< btt >}}
+### Entry # 184
+Date: Sat, 27 Dec 2014
+
+how hearts are broken idk.
+televised versions of debate about love often includes that one pumping organ,
+but when will humanity shift
+to a more accurate approach?
+that it is not the heart that manipulates
+emotions?
+
+maybe in metaphors i can acknowledge such "youthful"
+sentiments, but come on.
+
+the heart? leave it be. it has grown tired of
+your personifications. the heart that so you claim to be the core of all
+feelz might one day leave you for another entity, another soul.
+
+{{< btt >}}
+### Entry # 185
+Date: Sun, 04 Jan 2015
+
+finally crawling for the narrow space that is sometimes mistaken as a
+bed to cool the overworked eyes down. if the monsoon whistles again at
+daybreak, tell it to hush me deeper into slumber. so bear with me in
+this contingency, will you?
+
+{{< btt >}}
+### Entry # 186
+Date: Mon, 05 Jan 2015
+
+do you ever feel like you've been sitting on a cliff,
+watching the breakfast flock go about their itinerary just a few skies from your
+point,
+when amid fantastic solitude an imp appears from nowhere and
+whispers unto thee to try free falling?
+you say no to its persistence.
+
+the soft slap of a palm on your forehead does not convince the visitor.
+it belongs from within you and that a mediocre push-away sets not off its nagging mood.
+and insists on you pursuing this malicious endeavor for no reason, to fall into the depths below. you try
+to ignore him because your intent is simple: to watch the flock fly. and
+
+you wonder now how it feels to soar with wings. the cliff is high, you
+see; and the lunch is still a few good albums away. you are now
+wondering.
+
+{{< btt >}}
+### Entry # 187
+Date: Mon, 12 Jan 2015
+
+lying in the lower bunk has its *-isms* for me to think about.
+as inexpensive as it sounds,
+casually snapping my fingers to the buzz of jitters not really is la vie en rose that fixes this natural game of
+waiting for the fall of ripe aching upon the bored being.
+i root for something else.
+
+everybody is in their position,
+and from this point forth,
+no one would be bothering me as i rest and look up for a pseudo-skyline.
+let the brother confuse himself by the machine he condemns;
+let the sister screech at him because his temper smashes the mouse,
+which is outright stupid.
+and so i accept the wantons of daily provisions:
+they are beyond my mugging.
+
+sometimes, when i get too quiet, a sibling would look over their
+shoulder to check up on me.
+and they would catch me staring upwards sans electronics at hand.
+how craggy the mind can get,
+originally beseeching a posh scent from the past to stimulate perception,
+although the eye gazes at woes dimensional,
+and dead becomes it.
+
+i have my realities sorted and filed,
+always ready for me-times like this, yet people always
+try to bring me back to the one that best suits their lifestyles.
+they classlessly accuse me of being a daydreamer,
+but i'd rather be that than exclaim every once in a while a broken cuss for the hungry and poor.
+
+i notice, then, some sort of writing, done as if by fevered hands,
+or someone with unintelligible qualms.
+it is written on a cardboard that was placed underneath the mattress of the top bunk.
+"auntie pura was here,"
+squiggled awfully in rotating lines,
+and it appeared to have been done on purpose.
+
+but what is the purpose?
+the name to which the endearment belonged has long been dead.
+it could be, therefore, a prank
+by a misfit with nothing better to do.
+here, he thought of 300 dying
+people's parting displays of annoyance for the world,
+reduced merely to four words.
+sadness and sickness go skinny: structures of the passing
+minds, if inked, look doped on cardboard.
+
+{{< btt >}}
+### Entry # 188
+Date: Fri, 30 Jan 2015
+
+first, an indiscernible figurine that walked against light
+the source of light---an
+incandescent ode to dancing in yellow shame atop a wicked
+wax---abruptly shifted towards the observer and displaced itself behind him.
+this, thus, seized a vivid image of the figurine:
+some petite lady in dandelion shirt,
+all noble as basked she in the idea of slow walk...
+
+i will now slight you with a list of notes that i have intended for the
+subject flora of the previous garbage paragraph.
+i do hope that you'd assume now a more malevolent attitude towards reading this personal
+matter.
+
+1.  in submitting to the grips and grabs of a foreign blizzard, i have
+    failed myself to put back this intermittent commotion to nether
+    past. what frustrations stir the blood cannot be put into words; and so in the interest of 'fresh start', i will try to follow a diagram, one that is as basic as
+    lye and as equally damning to human skin, which i doubt i can
+    follow.
+2.  i assume that this will be a perpetual haunting of illusions that
+    the subconscious could not let go. the practice of abolishing you
+    from the furnace of time-long-gone demands disciplinary diving
+    towards the parabolic vertex of all cosmic processes.
+3.  other arguments will rise with your next apparition, of this i am
+    sure. and the images will be more crisp as they present themselves
+    in slideshow form. must i resist.
+4.  i refuse to disengage from the inviting dullness of television. this
+    is good; i will be dumbed down and numbed up.
+
+{{< btt >}}
+### Entry # 189: *maria susafe*
+Date: Sat, 31 Jan 2015
+
+lilt sometimes condones that often grizzly obstruction of a solitude
+twisted.
+the rise and fall of enthusiasm was okay.
+there were days that i thought i could accomplish many things.
+but it was the subsequent fall,
+from which i could no longer ascend,
+that nearly defeated the purpose of my then-thesis;
+and minus that needed push from my colleagues
+at the time, the energy i required to at least finish this main task
+with grace depleted gradually.
+the paper became a heap of indiscriminate
+use of phrases and adjectives *\*ahem\** that would only bear meaning if
+the whole mess was to be thrown into the smirking bowels of typhoon.
+
+i don't know if it was just a phase,
+or i was just too saturated
+by the commotions amounting to five years worth of intellectual bullshitry.
+
+believe me when i tell you this:
+i almost did not make it to the finals.
+
+some days, i grew up.
+some days, i just grew old.
+life does not necessarily have to be so profound all the time,
+but i could not carry the weight of being in such a low point that even i have
+failed to describe understandably.
+
+i was nearing my graduation,
+and to be honest,
+the renewal of year seemed to have renewed my tardiness.
+huge chunk of it had been spent looking out the window,
+perturbed by a dilemma of whether or not i would go to school.
+in the days that i did not, i made a 500-word-or-less reflection why,
+and posted some of it, edited here on tumblr.
+
+there are many things about perfectionism.
+for me, it's about how a journey is processed carefully through the lens of human sensibilities;
+that asymptotic arrival towards one's ideals,
+almost hitting the ceiling (if you aim high). for me, too, it's the opposite of what i had experienced: it's
+about how i negated duties, and in turn, i had been the subject of my
+own anomaly, as i metaphorically lie on a floor to think about the why's
+of why's.
+
+i took a few pictures of myself in that black gown to remember the stuff
+i really do not want to remember.
+
+{{< btt >}}
+### Entry # 190
+Date: Tue, 10 Feb 2015
+
+in the fluids heaving there comes the manifestation of poverty,
+arguably a messy by-product from the previous night's partaking of dinner.
+the colossal bit that i ingested as substitute for temporary satisfaction
+birthed seemingly new species of microorganisms in my stomach.
+gluttony crafts special repercussions for the sorts who devour mindlessly through
+cobwebby viands.
+and now i feel arachnids terraforming my insides.
+is that normal?
+
+aptly, must i recall now:
+i ate the mid-section of the fish;
+a tall guy ate the head part,
+quite particular on not missing the eyes;
+sister munched on the tail section;
+and who ate what.
+
+the servings came in calculated proportions;
+however, the calculating process always is in need of stitches.
+the knife chopped through and across,
+doing away equal divisions,
+because who needs equality when you're boiling with dysphoria.
+
+midnight hallucination usually suffers in rarity if you're not sober or
+far from being afflicted by residual disinclination for vanity and
+get-rich-quick schemes.
+sometimes, in order to dream big,
+one must have read several artsy textbooks on decadence,
+however atavistic its philosophies may be.
+
+in my case, having no dreams it reduces the chance of me getting a complete sleep.
+i am shocked by the passive creativity fed to me in prim intervals,
+more obvious when i'm not aware of it.
+these hallucinations fuel my, uh, creativity.
+but before i digress,
+the more important thing here is:
+the guts part, in much postulating, did this to me.
+
+i awoke from a rowdy rest of rolling into an urge to visit the
+porcelain, which, in this apartment complex, is situated outside the
+flat and is shared with other tenants. trysts, or their bastardized
+versions, howled from the inside of one of the cubicles, like the sound
+of felines fighting for scraps at night. i could not press on during
+this period. i was a swelling bladder. i was digestion mutiny, sleep
+deprived, restlessly overusing olfactory nerves to separate the good
+smell from the bad.
+
+i remembered the stories of Poe, vanilla horrifying and tiresome, still
+teasingly haunting me with the image of that one black cat.
+
+as for regulating the movement, i would not so much as walk a step
+further into the yellow palls that divide the causeway and cubicles,
+simply because of few distorted frequencies misplaced in air, misheard
+in ear. maybe the candor air startled me with its din; or the thunderous
+bang of door failing by one of its hinges reminding me of its much
+needed repair; or maybe the sound of what i thought were cats.
+whatever---but the unknown always insists to instill a fizz beyond our working
+knowledge. the unknown is always steps ahead.
+
+how one morning sounded like doubts unfurling on the yodels of chest,
+and to refuse to acknowledge its presence gives me something to do.
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -4043,7 +4317,8 @@ is no option for me to go to except down.
 1. the ability to snag attention even from a great distance, solitude, truly rare and unique: the perks of being a pall flower
 1. python as a scarf
 1. i withdrew money from the ATM; a big heap---80M
-
+1. 'tis time for the terrible accumulation of noise of handheld horns and "i slept for a year" quips.
+1. one of the quirks of lycanthropy is the ability to become a weirdwolf.
 
 {{< btt >}}
 

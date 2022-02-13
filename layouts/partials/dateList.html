@@ -1,3 +1,2 @@
 {{ $dateTime := .PublishDate.Format "2006-01-02" }}
-{{ $dateFormat :=  "2006 Jan 02" }}
-<time datetime="{{ $dateTime }}">{{ .PublishDate.Format $dateFormat }}</time>
+<time datetime="{{ $dateTime }}">{{  $dateTime }}</time>
