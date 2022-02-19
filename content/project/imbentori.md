@@ -4212,6 +4212,220 @@ how one morning sounded like doubts unfurling on the yodels of chest,
 and to refuse to acknowledge its presence gives me something to do.
 
 {{< btt >}}
+### Entry # 191
+Date: Wed, 11 Feb 2015
+
+"a coin comes from many miraculous events," thought the guy.
+
+an iron knob screeched counter-clockwise as friction proved to be more
+than just a thing. the shower spurted a few sprays before coming to
+malfunction; it was dead again, and someone from the housemates must
+have emptied the bottle of shampoo in the toilet. although, now, in
+honesty, there is no shower. there is only the faucet and the rusty iron
+wires that hold it in place against the wall.
+
+> "the history of coins extends from ancient times to the present, and
+> is related to economic history, the history of minting technologies,
+> the history shown by the images on coins, and the history of coin
+> collecting. coins are still widely used for monetary and other
+> purposes," said the [wiki
+> article](http://en.wikipedia.org/wiki/History_of_coins).
+
+nevertheless, in this idle time, he mused on some topics that have been
+proven invaluable to human existence.
+
+> "titanium is a strong light metal that is corrosion resistant. It
+> could be used for coins, and has been used to strike medals. however,
+> there are problems in producing a sheet of the metal with a smooth
+> enough surface for coinage purposes, and this increases the cost of
+> producing coins in bulk using this metal. as the basic cost of the raw
+> metal is high as well, other cheaper alternatives are more attractive
+> to governments!" said tony clayton, *[metals used in coins and
+> medals](http://www.coins-of-the-uk.co.uk/pics/metal.html#Ag).*
+
+it was his time of self-love.
+too, it was the time of bathing, and in
+bathing one can accomplish an array of activities. at one moment, this
+guy that i am talking about soared an intestinal road of a vast foreign
+land without having him leave the definite coziness of shower room. at
+another, he recited in multiple languages the lyrics of that one pop
+song he despised. the problem was, he knows only two languages. 
+
+today, he saw a coin. what of it, then? and he stumbled upon that lost
+coin on the soap rack, now pinkish as it was smudged into an ugly shape.
+he thought of coughing up a proper essay about coins, but first, he must
+rub himself with that pink soap and wish away either apathy or stretch
+marks, whichever is easier to deal with.
+
+{{< btt >}}
+### Entry # 192: *impossible tweets*
+Date: Sun, 15 Feb 2015
+
+when everybody knocks off their heads onto a soft pillow, when lights
+are put out and the light emissions themselves cease to flicker, what
+prayers have you to utter to shield yourself from yourself against a
+foreboding corrosion of broods, that this is just an ordinary episode of
+loneliness, solvable, measurable? that it isn't deep enough to reach the
+network of graft beneath this place our own? that when you come again
+'here' 'right now', everything will calm you, and you will no longer
+feel anxious about whichever way the river flows? perhaps, you are
+patient in your working out a proper sentence for the current to carry,
+one so potent structure- and substance-wise that it is immune to the
+mocking of agnostic sputum.
+
+...
+
+more and more the penance is becoming vibrant in coming up with
+excuses to explain its being.
+now, it must be proven---or rather, i
+must prove---that it is for the better.
+
+...
+
+don't you think that postmodern gibberish ousts even the chicest essays
+about romance ever penned? i do, sometimes; but not because i myself
+*try* to practice blandly this approach in my style with words. i simply
+think there are other ways in professing one's adoration for that
+special somebody one cannot in any thread of fate pinch, without ever
+having to tackle the essence. this unpopular notion leads me to believe
+that, should i ever publish a book, only a handful (if i'm that lucky)
+would every buy and read them. out of those, only one might like it (i
+am looking at you, ma; be proud of your son). and same goes for my
+contemplation on filmmaking---no, i don't think i can make it work that
+way.
+
+...
+
+black-and-white films from previous decades give me a hint of how a
+fraction of perceived reality could be distorted. exactly like a dream,
+but more fictitious.
+
+...
+
+in godard's *vivre sa vie*
+(viewed best, may i include, only in french tongue and verbosity from first scene to fin),
+it was not explained openly how and why nana, the main character, became a prostitute. susan
+sontag wasn't so sure either. well, she said, "Godard's films are
+particularly directed toward proof, rather than analysis. *Vivre Sa Vie*
+is an exhibit, a demonstration. It shows that something happened, not
+why it happened. It exposes the inexorability of an event."
+
+...
+
+whatever it lacks in the sense department (to me), it compensates for
+the wonderful tunes that accompany the images. i have yet to do some
+looking up on titles of those tracks, as i hope soon to extend the list
+of marvels in my music library.
+
+...
+
+it could be that this jean-luc wanted the viewers to arrive at different
+conclusions, giving the story a more pitchfork dynamics.
+
+...
+
+it is everything 'art' in the fair game of naught and all and whatever
+values there are in between.
+
+...
+
+serve into mind again the rants of that one huge man i so codenamed vito
+here. done? good. the wide vicinity of his mind remains detach from
+films hailing from countries that are neither filipinx or american.
+going on from this point, is it assumptive of me to conclude that he
+might not want to probe the multi-billion permutations of art?
+
+...
+
+but art releases; it imprisons; it invokes familial hurt, a redness
+along the banks of sclera, akin to imagined lamentations a relative
+might have caused; it is a series of patterns swaying with the artist's
+feelz, be it contemporary or something as neolithic as granite; it is a
+word repeated over and over again until it loses its original meaning;
+art is *it.*
+
+...
+
+it's a good thing, i guess, that in the second house there is no
+internet connection. i fear that the moment they call the linemen to
+install one, i'd be live-tweeting about every black-and-white movie i
+see on cable channels.
+
+...
+
+my guess is, it would be chunks and chunks of lazy analyses underscoring
+the parts that could only serve me and my purposes. my attempts at
+astute remarks regarding said films---140 characters tops per woe---i
+imagine, would be lost in a timeline devoid of cohesion, unless recalled
+in such a fashion that they, when summoned all together, would arrange
+themselves in a neat fix. still, without doubt, each tweet would breeze
+by on unknowing fellows. however, on a slim chance that someone would
+opt to interact with them, methinks it be worded thusly: "@iooare stop
+livetweeting hbo ffs!"
+
+...
+
+*\*flushes the toilet\**
+
+{{< btt >}}
+
+### Entry # 193
+Date: Thu, 26 Feb 2015
+
+i right you from a faulty mental artifact to a physical evidence, as
+ivory as matriarch. i am, in a way, a Ross of my own sort, exhuming thee
+from the ageless depths of subconscious.
+
+flaws demand the attention
+of gavel-yielding souls. and the case would have been worse, in my
+opinion, had you been dressed less promiscuous inside this passing
+miasma.
+
+ah, but it's all a fancy nightmare, and Agnes was your name,
+although honestly, i didn't imagine that you can be love and tears at
+the same time.
+
+{{< btt >}}
+
+### Entry # 193
+Date: Sat, 28 Feb 2015
+
+you bore me. you bore me unto the many matters that often mend those
+disadvantaged scars, consequently leaving perforation on an edifice
+already tesselated by iron bruises. most of the time, you only speak in
+spiky copper tongue, only that you do so with amour. at times, you make
+me wretchedly happy using blithely your opulent reservoir of sophia, or
+what is still authentic of it.
+
+{{< btt >}}
+
+### Entry # 194
+Date: Sun, 01 Mar 2015
+
+the look upon the sky could not be perceived as an exact veneer of crude
+oil except with decay of facial flesh on a previous thursday that,
+as usual, came and vvent:
+an evening full of hopes, only to be dotted by
+statements going beyond morale, and the feeling one could feel a little
+less like slush rolling and tumbling in that metal container, lights
+a-blipping.
+
+ferdie helped himself with a beer, and so did we.
+this was over the bay, where sundry of silica flowed uncensored to the peeled
+eyes of men, most of whom were balding decrepits. there the sounds of
+brass and electronica humped together to make a noise akin to the talent
+of katy perry.
+
+i should have known that i could not expect any good
+here, even from the guys who dragged me.
+
+i had then a twitching edge;
+i didn't imagine this experience to be caustic to the virginal sense---this menial side of paradise,
+this smoking zone dark as soot, only
+serving as a stopover for crooks who dupe themselves with light before
+plunging altogether to the chants of unholy hours.
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -4319,6 +4533,7 @@ is no option for me to go to except down.
 1. i withdrew money from the ATM; a big heap---80M
 1. 'tis time for the terrible accumulation of noise of handheld horns and "i slept for a year" quips.
 1. one of the quirks of lycanthropy is the ability to become a weirdwolf.
+1. there is penitence in consuming callow versions of oriental dumplings obtained from a dilapidated corner of nowhere.
 
 {{< btt >}}
 
