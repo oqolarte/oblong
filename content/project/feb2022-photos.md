@@ -72,3 +72,46 @@ share it here.
 ## Day 12
 
 {{< figure src="/image/20220212.jpg" alt="two trees and a banana sprout" caption="Something there that wasn't there before" >}}
+
+{{< btt >}}
+## Day 13
+
+{{< figure src="/image/20220213.jpg" alt="alley to street with two exit signs" caption="No Exit" >}}
+
+{{< btt >}}
+## Day 14
+
+{{< figure src="/image/20220214.jpg" alt="Brown dog sniffing the ground" caption="Always happy to see Benjules during our walk" >}}
+
+{{< btt >}}
+## Day 15
+
+{{< figure src="/image/20220215.jpg" alt="pots and pans hanging" caption="Pots and Pans" >}}
+
+{{< btt >}}
+## Day 16
+
+{{< figure src="/image/20220216.jpg" alt="abandoned gasoline station with trees around it cut" caption="Do not enter; Bleak spot" >}}
+
+{{< btt >}}
+## Day 17
+
+{{< figure src="/image/20220217.jpg" alt="side view of a dog"
+caption="`0lbaps-aduren.jpg`" >}}
+
+{{< btt >}}
+## Day 18
+
+{{< figure src="/image/20220218.jpg" alt="freshly baked chocolate crinkles in the oven" caption="Freshly Baked" >}}
+
+{{< btt >}}
+## Day 19
+
+{{< figure src="/image/20220219.jpg" alt="front yard with foliage" caption="Back to the Old House" >}}
+
+{{< btt >}}
+## Day 20
+
+{{< figure src="/image/20220220.jpg" alt="bed enclosed in mosquito net" caption="Kulambo" >}}
+
+{{< btt >}}
