@@ -4426,6 +4426,298 @@ serving as a stopover for crooks who dupe themselves with light before
 plunging altogether to the chants of unholy hours.
 
 {{< btt >}}
+### Entry # 195: *sh(t txt p0st/\$*
+Date: Wed, 04 Mar 2015
+
+"i finally saw this post again!" said the loco tumblrite. the moments
+wasted on scourging through this unknown were met with the asymmetry of
+astonishment. if it were of the good type or bad, i will not tell. but
+such was a progression of moments from one beat leading to the next.
+
+> [*the biggest disappointment in life is when good shows have a bad
+> episode like i waited a week and u give me this
+> shit*](http://genies.tumblr.com/post/79620908501/the-biggest-disappointment-in-life-is-when-good)
+
+he rushed up to examine the post, its authenticity versus the last time
+he saw it, which was not that long ago. his breath, nearly depleted,
+remained excitable, because who knew this would happen---this
+seemingly sick humor parted unto his essence by forces ethereal,
+unforgiving---again?
+
+> *After high school you realize you were only friends with some people
+> because you saw them five times a
+> week.*
+
+it was a street lamp post.
+
+> [*i don't understand why some people want the power to freeze things
+> or fly or be invisible dude imagine if you could stop time. like
+> you could literally just stop time for a year and just do nothing or
+> write a book. or you could stop time at night and literally have a
+> full night's worth of sleep in less than a second. you'd have so
+> much time to do whatever you
+> want*](http://nnarie.tumblr.com/post/77643643695/i-dont-understand-why-some-people-want-the-power)
+
+you see, he was fanning through the contents of his fast-paced
+dashboard, reblogging text posts from a user---all the while walking
+blindly. 
+
+> *i live by a rule that if google can't answer your question it cannot
+> be
+> answered*
+
+he had been lost for about an hour now, and he wouldn't have noticed it
+until he finally looked up and checked what the eerie silence was about.
+and there stood lonely a street lamp post, its orange beam barely
+radiant against this nightly backdrop. nobody around, not an ether nor
+wisp. only multitudes of trees several meters from him on both sides,
+posturing themselves intimidatingly as a reminder for him not to go
+deeper into them. but into them he went anyway. he couldn't think of any
+part of the city where trees bloomed lush yet with dark motivations,
+that is, if indeed he were still in *a* city.
+
+> *ok but platonic forehead
+> kisses*
+
+the surge either made his shouting too vehement or made his larynx
+unresponsive. whatever the case, the trees proved to be misleading
+throughout this curious case of dejection. he did not know that his not
+tapping to the commotion of subconscious wits was causing him to
+circumnavigate this ghost-place. alas, back he was, to this spot where a
+light-emitting mad lamp waited---for him, it seemed.
+
+{{< btt >}}
+### Entry # 196
+Date: Fri, 06 Mar 2015
+
+everybody has their eyeballs sheening as they shed the softer, outer
+shells inwardly without making a fuss of it at the heart of a city.
+
+everyone practices stereognosis inside the jingling confines of pockets
+and/or purses, as if to show others how hip they look, which, of
+course, is just another contrast of how they really are. and through the
+tunnels of head, a jittery song plays them apart: a popular message to
+shepherd them into a flash mob of mambo.
+
+there is no shelter against this;
+everybody is bound to be infected.
+and through the myopic complex conduiting an individual to another,
+the song stammers with the
+malleable memento to be imparted as a "unique part of me that i am
+willing to share".
+
+does this song pull out a piece from a person, and
+everyone gladly partakes in it?
+
+everybody crumbles patiently inside
+themselves, and it brings on them the needed jumpstart to topple the
+dominoes of convulsing greed for anger-turned-tears or dysfunction as a
+general trait of being parvenu.
+
+and then, there are annotations brewing---of the same suspicious minds that just won't quit on giving up.
+the strength. the endurance. and behind it, the fad. the magic. no more is
+there sameness in circles with which everyone draws their overlapping
+charts; only similarly shaped couture that, if placed adjacent to one
+another, the body would correspond to machine, and the mind to the
+terabytes announcing themselves properly working.
+
+{{< btt >}}
+### Entry # 197
+Date: Sat, 14 Mar 2015
+
+i've got two tickets to iron maiden, baby. come with me friday, don't
+say that you never in your life could have thought that my preferences
+in music are solely fitting to whatever preconceived notions you might
+have had of me, that the genres i am currently dying to listen to follow
+a format you might have based on my appearance and/or personality,
+neither of which sums up the entirety of my being. if, however, you did,
+i am inclined to assume that you're a complete goodie-two-shoes douche,
+douche. i'm just a teenage dirtbag baby like you.
+
+{{< btt >}}
+### Entry # 198: *character development?*
+Date: Sat, 14 Mar 2015
+
+*"why is it not funny for a mathematician to do drugs?"*
+
+the last time he was this anxious was the first day after the pupil died
+of sadness under his watch. it has been about a month now, and the
+geometry teacher is reeling back from his comforts. he feels especially
+down today. what of self-forgiving trait and its biting tendencies
+against hope?
+
+good thing this saturday blows temperate winds, to calm his finicky
+requirements, although it is debatable still whether they want to be
+calmed. another good thing: he wouldn't have to worry about teaching
+kids their proving lessons. not that the order would have allowed him
+inside the school premises this time of the year or ever. or any other
+institution for that matter.
+
+he grabs a small bag of salt-appearing powder that he shopped from a
+spooky meat the other evening. a narra table at the center of his office
+waits for him to prep his line on it. he fishes his kit from a drawer
+and starts to assemble his little event. 
+
+something snaps in him and he descends from his anxiety to the forlorn
+depths of psyche.
+
+*"...a line is a set of points arranged in a straight manner and is
+extending in opposite directions without end..."*
+
+{{< btt >}}
+### Entry # 199
+Date: Mon, 16 Mar 2015
+
+three nights of practice driving around ayala is three nights worth of
+planning the 'drive' muzak playlist that doesn't come to be. at least i
+have made friends with the traffic lights.
+
+{{< btt >}}
+### Entry # 200
+Date: Thu, 19 Mar 2015
+
+beautifully deceased flora left at my plate bloomed at the afterlife.
+a zest of lemon to feel clean while knowingly you cling to the scent.
+
+in the shedding of veiny antlers, or, lo, the weary eyes of men,
+evidence of majesty is nothing.
+i mean, the excessive malfunction of an apologia by the agents of plants.
+
+nature must have been working overtime to even stand the gnawing confusion.
+do you fight when jaws are fangs-deep in your throat?
+do you seek vengeance?
+
+i am on a playground in a purgatory plaza.
+i am with gout and a messy tuft.
+feeling spiritual me, sounding
+like a creepy-crawly inflection; i shine inward. my leisure is to warp
+the trees to my whim.
+
+i am a hare disadvantged, hare traversing uphill
+against a sky full of hungry eagles.
+i am a goose beside a friend.
+the light rays freely tamper the insides of translucent spores and lush vegetation.
+
+{{< btt >}}
+
+### Entry # 201: *last night in holy trinity*
+Date: Thu, 19 Mar 2015
+
+to be unable to cry in a funeral parlor, because to cry means very
+little to the ones too far from heart;
+
+to be warmed up only by peanuts and other fingers; to drink the stalest
+coffee and imagine the marquee of heavens;
+
+to laugh at a grandmother who impulse-bought a coffin for herself;
+
+the tragedy, for me, is missing the chance to know these dead people
+better, to blame the slow forward motion of arrows that delayed me to
+summon myself in this leveled existence; and not death itself;
+
+the tragedy, for me, is to know only the good memories from bereaved
+relatives, and not of blocked-out bad versions;
+
+the dead in his casket surrounded only by misty eyes of others and their
+fondness of him;
+
+my whistling *rock tha house* through the vacant halls to feel
+something;
+
+a planetary woman mistaking me as a love interest, only to abate her
+desires after telling her i am a family relative;
+
+to see how a daughter aches behind the shades; to feel how stoned she
+must be;
+
+my companions did not let me hold the wheels.
+
+{{< btt >}}
+### Entry # 202
+Date: Thu, 19 Mar 2015
+
+dear, a tuesday fellow sought in his tongue to pressure me with the
+prospects of rising from the rashes. i had to held back joints to launch
+his throat; acting on it would only provoke the man, worsening my
+situation.
+
+"what are you doing with your life?" he asked.
+
+i explained how my undergoings proceeded down the void, though would he
+hear any of it? this for him always outweighs the reality until its very
+defining part suits the purposes of his last few neurons.
+
+the way he speaks has always been condescending, so much so that
+tolerating any din he regurgitates is difficult. this is the problem, i
+think, and not me. his willingness to pull down people to his standards.
+
+indeed, the guy lives a difficult life. he continues not to divorce
+himself from the mock complexity of ancient rites.
+
+instead of instigating rave, the stock response was to shut him out of
+my new wave yodel and let his old bones be. meanwhile, i regret having
+to hold back this little could-have-been monologue:
+
+to dismiss the infernal luxury of universal entities tugging at limbs
+and hacking into fields commends only so much kudos, if not
+*the* salvation, of the placid of wills. things do find ways to test
+entropic processes, whether a certain one is fixed by the aesthetics au
+naturel; but in order to place objects, living or otherwise, in
+locations that would be least aggressive with the shifts of forces, one
+is bound to commit to the syntax. else, wade with a chosen group of
+spirits.
+
+our functions are our own, that i'd like to believe. however, in
+instances within which i am involved, even indirectly, i see to it that
+my next course of action enables the unraveling of coils to intercept
+any predetermined claims, and ultimately convert such into conditions to
+foster even the most basic mores.
+
+we overestimate ourselves through our cartoonish interconnections, here
+and out there.
+
+{{< btt >}}
+### Entry # 203
+Date: Sat, 21 Mar 2015
+
+the solid base on which we ground our footing is vitalized by the sump
+system of the floors above the heads. that is not to say that a
+character glued here cannot pull their body to a comfortable wrung, but
+to do so requires, evidently, a serious inkling towards detachment from
+the abrasive taste of elite, albeit the natural response is to initially
+seek stability.
+
+regardless of stimulus, whether perverse or otherwise,
+our ilk, being social creatures, tend to situate themselves alongside a
+trend. and nowadays, trends often promote the former.
+
+the dilemma to be seen here needs people to comprehend that while, yes, it is okay to be
+part of the accepting crowd, their behavior should transcend from time
+to time a little beyond the fundamentals.
+however, that's not to say that we only get by on stuffing our cranial compartments with cheap
+sophistication, since it is impossible to live on abstracts alone...
+
+when a tercentennial grudge made port from europe, some of the
+indigenous people already surmised the vehemence behind the (un)godly
+hue of blanche that was, and still is, as cunning as its con. we must
+deal then with the predicaments of reality. it takes a bit of effort to
+rattle the head away from papal incantations that would only make
+matters worse. same goes for pushing your thoughts to some dope with a
+big round head.
+
+{{< btt >}}
+### Entry # 204
+Date: Mon, 23 Mar 2015
+
+and on deliberation of the lightest blur we brought a brief bravura to
+the one who rests now among the skeletal frames reduced to ashes. still
+i could not come up with sincere sadness nor was i able to remember to
+take some of the burden. i was completely unaware that the primary
+reason of my being so dumped had something to do with my already being
+pinned helplessly down on my belly whilst tears from an encumbered,
+sleepless spirit ravaged the floorboards.
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -4534,6 +4826,7 @@ is no option for me to go to except down.
 1. 'tis time for the terrible accumulation of noise of handheld horns and "i slept for a year" quips.
 1. one of the quirks of lycanthropy is the ability to become a weirdwolf.
 1. there is penitence in consuming callow versions of oriental dumplings obtained from a dilapidated corner of nowhere.
+1. there settles at the pinnacle of existential hardship very little glory.
 
 {{< btt >}}
 

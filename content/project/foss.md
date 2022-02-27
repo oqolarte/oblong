@@ -77,6 +77,9 @@ LocalCDN
 : emulates Contend Delivery Networks to intercept traffic, find
 supported resources locally, and inject them into the environment.
 
+NoScript
+: allows active content only for trusted domains to prevent exploitation
+
 Redirector
 : automatically redirects content based on user-defined rules.
 

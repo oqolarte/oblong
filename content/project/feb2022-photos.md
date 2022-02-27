@@ -115,3 +115,39 @@ caption="`0lbaps-aduren.jpg`" >}}
 {{< figure src="/image/20220220.jpg" alt="bed enclosed in mosquito net" caption="Kulambo" >}}
 
 {{< btt >}}
+
+## Day 21
+
+{{< figure src="/image/20220221.jpg" alt="concrete structure of rail transit system" caption="Industrial Underbelly" >}}
+
+{{< btt >}}
+## Day 22
+
+{{< figure src="/image/20220222.jpg" alt="foliage" caption="Greeneries" >}}
+
+{{< btt >}}
+## Day 23
+
+{{< figure src="/image/20220223.jpg" alt="ferns" caption="*What kind of fern is this?*" >}}
+
+{{< btt >}}
+## Day 24
+
+{{< figure src="/image/20220224.jpg" alt="cityscape from afar" caption="City Beyond the Bay" >}}
+
+{{< btt >}}
+## Day 25
+
+{{< figure src="/image/20220225.jpg" alt="Windmills" caption="Pililla Windmills" >}}
+
+{{< btt >}}
+## Day 26
+
+{{< figure src="/image/20220226.jpg" alt="Foliage by the hills" caption="More greeneries" >}}
+
+{{< btt >}}
+## Day 27
+
+{{< figure src="/image/20220227.jpg" alt="Plants in the garden" caption="Not out Garden definitely" >}}
+
+{{< btt >}}

@@ -305,6 +305,21 @@ and I don't have any use for them. They are:
 To have a privacy-centered configuration, I followed [this documentation](https://gohugo.io/about/hugo-and-gdpr/) and [disabled all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
 
 {{< btt >}}
+### Privacy
+As privacy advocate myself, I'd like to report that,
+as far as I'm aware,
+this site:
+- has no ad trackers;
+- has no third-party cookies;
+- has no tracking that evades cookie blockers;
+- has no session recording services;
+- has no keystroke logger;
+- has no Facebook Pixel;
+
+The above findings are according to [The Markup's Blacklight tool](https://themarkup.org/blacklight).
+
+{{< btt >}}
+
 ### Hosting
 [Vultr](https://www.vultr.com) currently hosts this site using their cheapest
 VPS.

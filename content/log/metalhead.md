@@ -6,6 +6,7 @@ draft: false
 ---
 - Minor visual design change in which the lists of pages, [Log](/log) and
   [Projects](/project), look tighter now, literally.
+  On Log, dates now follow ISO 8601 format, i.e., `yyyy-mm-dd`.
 - Added a section in the [Colophon](/site).
 - Added 9 new entries and 2 new one-liners in [Imbentori](/imbentori).
 - Added 7 new photos in [Daily Photos](/feb2022-photos).
