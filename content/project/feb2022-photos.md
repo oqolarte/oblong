@@ -5,12 +5,22 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
 
-## Status: On-going {.statusOnGoing}
+## Status: Done {.statusDone}
 
 For the whole month of February 2022,
-I'll try taking one photo a day,
+I have tried taking one photo a day,
 process it however I like---likely through dithering and/or compression---and
 share it here.
+
+## Tools
+
+**Hardware**: Canon Powershot G1X[^cam]
+
+**Software**: [imgp](https://github.com/jarun/imgp),
+[ImageMagick](https://legacy.imagemagick.org/Usage/), [dither
+it](https://ditherit.com/)
+
+[^cam]: Not even mine. *Daghang salamat, 'Nay Merci!*
 
 ## Day 1
 
@@ -149,5 +159,45 @@ caption="`0lbaps-aduren.jpg`" >}}
 ## Day 27
 
 {{< figure src="/image/20220227.jpg" alt="Plants in the garden" caption="Not out Garden definitely" >}}
+
+{{< btt >}}
+## Day 28
+
+{{< figure src="/image/20220228.jpg" alt="Overhead shot of lense cover on wooden table" caption="Last photo" >}}
+
+{{< btt >}}
+
+## Final Thoughts
+
+It's not easy to decide one day that you're taking up photography as a hobby
+*just because*,
+especially when you're not well to do, like me, to start off.
+Decent cameras, even secondhand ones, do not come cheap.
+
+With today's technology, though,
+it's not farfetch to get into wanting to take pictures with a bit of style,
+now that we have cameras in smartphones,
+which in turn are as accessible now as ever.
+This is even more evident in social media platforms dedicated to sharing photos with other people.
+
+What I did, however, was to borrow, if only for a month, somebody's rarely used
+digicam,
+and tried photography for one month.
+
+I took no formal classes that taught me how to properly do it.
+Maybe one or two YouTube videos on the basics;
+maybe another one or two articles about it.
+Perhaps, you can see the result of this going by gut feel alone in all of the photos here.
+
+Objectively, I think the end results are a bit bland
+(but I'm happy to hear your thoughts!).
+On the other hand, by foregoing the technicalities at this early stage,
+I have allowed myself to be in the moment,
+not sweating the small things about taking the perfect shot.
+
+Hence, the products, while not pro, serve as a good reminder of what happened in
+that moment.
+This way, photography, in my opinion, has served its purpose:
+to capture a feeling in a visual medium to be our anchor to the past.
 
 {{< btt >}}
