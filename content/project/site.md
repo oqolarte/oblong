@@ -111,9 +111,9 @@ In fact, websites should be guided by these principles.
 {{< btt >}}
 ### Typography
 
-Many designers would argue that typography should elevate the content,
+Many designers argue that typography should elevate the content,
 and they'd be right.
-What I'm doing here may not be the best practice for professional typographers,
+What I have here may not be the best practice for professional typographers,
 but it gets the job done,
 i.e. serve readable content.
 
@@ -152,11 +152,25 @@ body {
 
 Using serif for headings and sans serif for body gives a clear delineation which
 is which.
-Of course, the converse is true.
-Sans serif for headings and serif for body
-gives similar effect.
-It's just a matter of personal preference.
-At least, this point can be applied to the two languages I use, English and Filipino.
+
+{{< btt >}}
+
+### Default is Dark
+
+I personally like dark mode on my screens
+because it's less straining to the eyes,
+especially in low-light environment.
+
+It's also said to prolong the device's battery's charge.
+In theory, it's because the screen emits less photons (light) for using darker colors,
+therefore using less energy.
+In practice,
+it can be difficult to gauge.
+
+For me, this is a 60/40 form/function decision.
+
+There's still a light theme fallback for those who prefer it that way,
+which depends on the device's system-wide setting.
 
 {{< btt >}}
 ### Link Management
@@ -201,8 +215,8 @@ Eliminating the excess, even in the form of code, does leave a positive impact v
 {{< btt >}}
 ### No Ads
 Only advertisers like ads[^ads].
-I don't intend on monetizing this site with ads, 
-so expect a clean (read: boring) experience.
+I don't intend on monetizing this site with ads,
+so expect a clean experience.
 
 Also, did you know that a lot of online advertising you see depends on JS?
 
@@ -242,7 +256,7 @@ Here, I set it to 85.
 ## Back-end
 
 I use [Hugo](https://gohugo.io) static site generator to build this site.
-There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
+There are many other popular alternatives, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.
 
 {{< btt >}}
 ### In the name of Static Site Generator (SSG)
@@ -309,7 +323,8 @@ To have a privacy-centered configuration, I followed [this documentation](https:
 As privacy advocate myself, I'd like to report that,
 as far as I'm aware,
 this site:
-- has no ad trackers;
+- has no ad trackers
+because advertising is not compatible with my philosophy;
 - has no third-party cookies;
 - has no tracking that evades cookie blockers;
 - has no session recording services;

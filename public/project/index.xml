@@ -284,19 +284,19 @@ it&lt;/a&gt;&lt;/p&gt;
 especially when you&amp;rsquo;re not well to do, like me, to start off.
 Decent cameras, even secondhand ones, do not come cheap.&lt;/p&gt;
 &lt;p&gt;With today&amp;rsquo;s technology, though,
-it&amp;rsquo;s not farfetch to get into wanting to take pictures with a bit of style,
+it&amp;rsquo;s not far-fetched to get into wanting to take pictures with a bit of style,
 now that we have cameras in smartphones,
-which in turn are as accessible now as ever.
-This is even more evident in social media platforms dedicated to sharing photos with other people.&lt;/p&gt;
+which in turn are as accessible as ever.
+This is more evident in social media platforms dedicated to sharing photos with other people.&lt;/p&gt;
 &lt;p&gt;What I did, however, was to borrow, if only for a month, somebody&amp;rsquo;s rarely used
 digicam,
-and tried photography for one month.&lt;/p&gt;
-&lt;p&gt;I took no formal classes that taught me how to properly do it.
+and tried photography.&lt;/p&gt;
+&lt;p&gt;I took no formal classes teaching me how to properly do it.
 Maybe one or two YouTube videos on the basics;
 maybe another one or two articles about it.
 Perhaps, you can see the result of this going by gut feel alone in all of the photos here.&lt;/p&gt;
-&lt;p&gt;Objectively, I think the end results are a bit bland
-(but I&amp;rsquo;m happy to hear your thoughts!).
+&lt;p&gt;Objectively, I think the end results are a bit bland&amp;mdash;but
+I&amp;rsquo;m happy to hear your thoughts!
 On the other hand, by foregoing the technicalities at this early stage,
 I have allowed myself to be in the moment,
 not sweating the small things about taking the perfect shot.&lt;/p&gt;
@@ -424,7 +424,9 @@ although this can still be modified.&lt;/dd&gt;
 &lt;h2 id=&#34;search-engines&#34;&gt;Search Engines&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; &amp;ndash; my default search engine in my main
-computer&lt;/li&gt;
+computer.
+In my Suckless Surf browser,
+I use the lite version: &lt;a href=&#34;https://lite.duckduckgo.com/lite&#34;&gt;https://lite.duckduckgo.com/lite&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.startpage.com/&#34;&gt;Startpage&lt;/a&gt; &amp;ndash; the default search engine I set up
 in my work computer&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://searx.space/&#34;&gt;Searx&lt;/a&gt; &amp;ndash; the meta-search engine I use for looking up
@@ -447,6 +449,9 @@ on more obscure topics&lt;/li&gt;
 &lt;li&gt;Select &amp;ldquo;Start my reply below the quote&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Repeat this for any other email accounts&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h3 id=&#34;tui-clients&#34;&gt;TUI Clients&lt;/h3&gt;
+&lt;p&gt;In the future, I plan to move to TUI email clients like
+&lt;a href=&#34;https://neomutt.org&#34;&gt;neomutt&lt;/a&gt; or &lt;a href=&#34;https://aerc-mail.org&#34;&gt;aerc&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;small&#34; style=&#34;text-decoration: none&#34;&gt;back to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;email-providers&#34;&gt;Email Providers&lt;/h2&gt;
@@ -489,6 +494,7 @@ and Twitter&amp;mdash;in this case, that one person is me.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libreoffice&lt;/a&gt; &amp;ndash; I only have Writer (word
 processor) and Calc (spreadsheet) installed.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; &amp;ndash; my text editor of choice.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;small&#34; style=&#34;text-decoration: none&#34;&gt;back to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -1318,7 +1324,7 @@ In fact I use one, solely dedicated for work.&lt;/p&gt;
 implemented using a plaintext editor.
 For this I use Notepad, since I use Windows for work.&lt;/p&gt;
 &lt;p&gt;Not only is it light on resources&amp;mdash;currently
-at ~100 KB storing five months worth of logged info&amp;mdash;it&amp;rsquo;s
+at ~100 KB storing seven months worth of logged info&amp;mdash;it&amp;rsquo;s
 easily portable, as many operating systems accept plaintext.&lt;/p&gt;
 &lt;p&gt;Mine is inventively named as &lt;code&gt;log.txt&lt;/code&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;small&#34; style=&#34;text-decoration: none&#34;&gt;back to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -6564,9 +6570,9 @@ In fact, websites should be guided by these principles.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;small&#34; style=&#34;text-decoration: none&#34;&gt;back to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;typography&#34;&gt;Typography&lt;/h3&gt;
-&lt;p&gt;Many designers would argue that typography should elevate the content,
+&lt;p&gt;Many designers argue that typography should elevate the content,
 and they&amp;rsquo;d be right.
-What I&amp;rsquo;m doing here may not be the best practice for professional typographers,
+What I have here may not be the best practice for professional typographers,
 but it gets the job done,
 i.e. serve readable content.&lt;/p&gt;
 &lt;p&gt;And there are many ways to do that without compromising the overall experience
@@ -6593,12 +6599,21 @@ This is what I have in my CSS:&lt;/p&gt;
         &lt;span style=&#34;color:#66d9ef&#34;&gt;font&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, &lt;span style=&#34;color:#66d9ef&#34;&gt;sans-serif&lt;/span&gt;;
         }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Using serif for headings and sans serif for body gives a clear delineation which
-is which.
-Of course, the converse is true.
-Sans serif for headings and serif for body
-gives similar effect.
-It&amp;rsquo;s just a matter of personal preference.
-At least, this point can be applied to the two languages I use, English and Filipino.&lt;/p&gt;
+is which.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;small&#34; style=&#34;text-decoration: none&#34;&gt;back to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;default-is-dark&#34;&gt;Default is Dark&lt;/h3&gt;
+&lt;p&gt;I personally like dark mode on my screens
+because it&amp;rsquo;s less straining to the eyes,
+especially in low-light environment.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s also said to prolong the device&amp;rsquo;s battery&amp;rsquo;s charge.
+In theory, it&amp;rsquo;s because the screen emits less photons (light) for using darker colors,
+therefore using less energy.
+In practice,
+it can be difficult to gauge.&lt;/p&gt;
+&lt;p&gt;For me, this is a 60/40 form/function decision.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s still a light theme fallback for those who prefer it that way,
+which depends on the device&amp;rsquo;s system-wide setting.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;small&#34; style=&#34;text-decoration: none&#34;&gt;back to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
@@ -6631,7 +6646,7 @@ Eliminating the excess, even in the form of code, does leave a positive impact v
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
 &lt;p&gt;Only advertisers like ads&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.
 I don&amp;rsquo;t intend on monetizing this site with ads,
-so expect a clean (read: boring) experience.&lt;/p&gt;
+so expect a clean experience.&lt;/p&gt;
 &lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;small&#34; style=&#34;text-decoration: none&#34;&gt;back to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -6664,7 +6679,7 @@ Here, I set it to 85.&lt;/li&gt;
 
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator to build this site.
-There are many other big names out there, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.&lt;/p&gt;
+There are many other popular alternatives, like Jekyll, Gatsby, Pelican, and Hexo, but I have no experience using them.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;small&#34; style=&#34;text-decoration: none&#34;&gt;back to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;in-the-name-of-static-site-generator-ssg&#34;&gt;In the name of Static Site Generator (SSG)&lt;/h3&gt;
@@ -6718,7 +6733,8 @@ and I don&amp;rsquo;t have any use for them. They are:&lt;/p&gt;
 as far as I&amp;rsquo;m aware,
 this site:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;has no ad trackers;&lt;/li&gt;
+&lt;li&gt;has no ad trackers
+because advertising is not compatible with my philosophy;&lt;/li&gt;
 &lt;li&gt;has no third-party cookies;&lt;/li&gt;
 &lt;li&gt;has no tracking that evades cookie blockers;&lt;/li&gt;
 &lt;li&gt;has no session recording services;&lt;/li&gt;

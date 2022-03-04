@@ -42,8 +42,8 @@ If you prefer other means of supporting me (e.g. bank transfer, GCash, etc.), pl
 ## Hardware support
 
 I'm getting in the habit of fixing, making, and repairing stuff.
-This wishlist is in constant change, so please check in here from time to time.
-Please email me first if you plan to give me any of these stuff.
+This wishlist constantly changes.
+Please email me first if you plan to give me any of these.
 
 - New 6- or 9-cell battery for Thinkpad X220/X230
 - New battery for MSI Wind U123
@@ -58,10 +58,12 @@ Please email me first if you plan to give me any of these stuff.
 - Crowbar or wrecking bar
 - Chain mail[^chain]
 - Casio F-91W, preferably black
+- Canon Powershot S120
+- Typewriter in working condition, preferably the portable kind
 
 [^1]: *Limós* is the root of this Tagalog word, meaning "alms".
 From [Tagalog Lang](https://www.tagaloglang.com/palimos/): In the Philippines, it is common for street children to approach strangers and say, “Palimos po.”
 [^used]: I prefer pre-loved, secondhand, or used stuff,
 because I want to extend their life span.
-Also, I don't expect, nor do I encourage, people to give me newly bought hardware.
+Not that I expect nor encourage people to give me newly bought hardware.
 [^chain]: Against random stabbing

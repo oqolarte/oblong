@@ -23,4 +23,4 @@ Contact the external site for answers to questions regarding its content.
 [^change]: In fact, it's likely to change given enough time.
 People change, given enough time.
 Everything does.
-[^index]: See Index for email address.
+[^index]: See footer for email address.

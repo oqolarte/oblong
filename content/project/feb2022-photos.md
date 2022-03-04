@@ -175,22 +175,22 @@ especially when you're not well to do, like me, to start off.
 Decent cameras, even secondhand ones, do not come cheap.
 
 With today's technology, though,
-it's not farfetch to get into wanting to take pictures with a bit of style,
+it's not far-fetched to get into wanting to take pictures with a bit of style,
 now that we have cameras in smartphones,
-which in turn are as accessible now as ever.
-This is even more evident in social media platforms dedicated to sharing photos with other people.
+which in turn are as accessible as ever.
+This is more evident in social media platforms dedicated to sharing photos with other people.
 
 What I did, however, was to borrow, if only for a month, somebody's rarely used
 digicam,
-and tried photography for one month.
+and tried photography.
 
-I took no formal classes that taught me how to properly do it.
+I took no formal classes teaching me how to properly do it.
 Maybe one or two YouTube videos on the basics;
 maybe another one or two articles about it.
 Perhaps, you can see the result of this going by gut feel alone in all of the photos here.
 
-Objectively, I think the end results are a bit bland
-(but I'm happy to hear your thoughts!).
+Objectively, I think the end results are a bit bland---but
+I'm happy to hear your thoughts!
 On the other hand, by foregoing the technicalities at this early stage,
 I have allowed myself to be in the moment,
 not sweating the small things about taking the perfect shot.

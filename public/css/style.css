@@ -1,12 +1,15 @@
-@media (prefers-color-scheme: dark){
-        body {color:#edf2ea;background:#0f0a12}
+@media (prefers-color-scheme: light){
+        body {color:#000;background:#f5f5dc}
         a:link {color:#7aa3cc}
-        a:hover, a:visited:hover {color:#a3becc}
-        a:visited {color:#a37acc}
+        a:hover, a:visited:hover {color:#009}
+        a:visited {color:#551a8b}
 }
 body {  margin:1em auto;max-width:40em;padding: 0.69em;
-        font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;}
-a:hover { color:#36ca5c }
+        font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+        color:#edf2ea;background:#0a0012}
+a:link {color:#7aa3cc}
+a:hover, a:visited:hover {color:#36ca5c}
+a:visited {color:#cc7aa3}
 a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
 a[href^="https://"]:not([href*="ohio.araw.xyz"]):after{
         content: "\2197";

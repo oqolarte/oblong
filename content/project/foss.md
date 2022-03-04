@@ -111,7 +111,9 @@ although this can still be modified.
 {{< btt >}}
 ## Search Engines
 - [DuckDuckGo](https://duckduckgo.com/) -- my default search engine in my main
-  computer
+  computer.
+In my Suckless Surf browser,
+I use the lite version: https://lite.duckduckgo.com/lite
 - [Startpage](https://www.startpage.com/) -- the default search engine I set up
   in my work computer
 - [Searx](https://searx.space/) -- the meta-search engine I use for looking up
@@ -131,6 +133,11 @@ although this can still be modified.
 1. Disable "Compose messages in HTML format"
 1. Select "Start my reply below the quote"
 1. Repeat this for any other email accounts
+
+### TUI Clients
+
+In the future, I plan to move to TUI email clients like
+[neomutt](https://neomutt.org) or [aerc](https://aerc-mail.org).
 
 {{< btt >}}
 ## Email Providers
@@ -170,6 +177,7 @@ and Twitter---in this case, that one person is me.
 ## Productivity
 - [Libreoffice](https://www.libreoffice.org/) -- I only have Writer (word
   processor) and Calc (spreadsheet) installed.
+- [neovim](https://neovim.io) -- my text editor of choice.
 
 {{< btt >}}
 ## RSS Feed Readers

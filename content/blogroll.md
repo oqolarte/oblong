@@ -7,7 +7,6 @@ draft: false
 [Isya the Leap Trader](https://leap-isya.netlify.app)  
 [Araw Seekers](https://arawseekers.github.io)  
 
-[Carl Svensson](https://datagubbe.se/)  
 [Cheapskate's Guide](https://cheapskatesguide.org/)  
 [Crystal Camarao](https://crystal.ph/)  
 [Dan Luu](https://danluu.com)  
@@ -25,3 +24,5 @@ draft: false
 [Solène Rapenne](https://dataswamp.org/~solene/)  
 [The Perry Bible Fellowship](https://pbfcomics.com/)  
 [Victoria Drake](https://victoria.dev)  
+[False Knees](https://falseknees.tumblr.com/)  
+[Derek Sivers](https://sive.rs/)
