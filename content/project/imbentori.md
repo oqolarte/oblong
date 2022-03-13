@@ -4718,6 +4718,191 @@ pinned helplessly down on my belly whilst tears from an encumbered,
 sleepless spirit ravaged the floorboards.
 
 {{< btt >}}
+### Entry # 205
+Date: Wed, 25 Mar 2015
+
+anywhere a certain type---for there are many types outside of science
+and art,
+although many of which poses minimal credibility---of
+*gravity* mechanizes the cathodic riffraff of capital punishments.
+
+i went to my annual graveyard shift and there i saw a growing shrub from
+out the crack of a femur.
+why this particular thigh bone was not in its tomb i knew not.
+the mystery, however, lay not on the bone alone, but
+also on how a green thingy could thrive from the lack of nutrients
+therein. were there generations that skipped altogether the maneuvering
+of evolution, only to emerge much, much later in tragic-stricken
+provinces?
+
+a few woofs of rookie ligament-consuming deferred and discarded
+seemingly attempting to snap me out of my job?
+no.
+i knew better.
+if ever supernatural workings were to clef my logic,
+that must be, like,
+super-duper-wooper-natural.
+
+an army of fire ants disappeared marrow-ward,
+where rings patiently retraced the lineage.
+the swarm marched forth like a red lightning
+whipping the sides of spruce,
+originating from the hollows below to the nether spaces.
+i grubbed my supper and observed the unfolding:
+
+arthropod trunk yearned for morning light, but it was still hours away from dawn.
+i left my waste beside me and procured from my knapsack a flashlight.
+something about this awful plant was magnetizing.
+its starch-like color, instead of a shade of verdant, emitted a boiling
+stench similar from months-old stew buried meters deep beneath a rotten
+beach. the branches formed a cage that housed a beat-up stache -- only
+at closer look did i see its spine, calcified, with leaves poised to
+catch the lower jaw. stars would fit in eye pockets had they been rid of
+fruit maggots.
+
+hour 3---paler and paler went stroke of beams onto openings. this very
+sentinel, its entire architecture that was gothic by design yet
+deceiving by nature, marveled the disconcert in my pupils, while i in
+turn saw nothing in its, save for the damnation imminent.
+
+hour 6---against the glint of vision, its body, almost phosphorous
+then but when red vines began choking the plant, swelled now for the
+vapors escaping me. do you ever wonder why plants behave different from
+us? hasn't that always been the case? i wrestled with my idle thoughts
+on my final hour, and the young now-tree seemed to pull its roots from
+earth. i sat on my butt as it approached me slower yet closer. for a
+moment, it placed a balete hand on my right thigh, the etudes shortly
+cut the scene.
+
+a mourning followed my wake;
+a few woods of life roll deep into dirt.
+the city on fire---from the rubble columns of clay sprout.
+new cavities blossom on my shift for the next intern to record.
+
+{{< btt >}}
+### Entry # 206
+Date: Sun, 29 Mar 2015
+
+twenty-two solar revolutions, and still the purpose drifts along the cosmos,
+each point in spacetime never to be real again except in theory
+and/or imaginative narration from a more artsy goon.
+i was given two books to read under the influence of stagnation,
+and i thank my sister for that. so there is that. yay/
+
+{{< btt >}}
+### Entry # 207
+Date: Sat, 04 Apr 2015
+
+in a recent nightmare,
+i was a bum (which i find almost prophetic),
+and sleep or rest had me arrested in front of a beauty parlor.
+a man approached the parlor, seemingly with something bad going on upstairs,
+as evident by the way he strode forward. what stirred me alert was, when
+upon examination, in his right hand he gripped a pistol. he noticed my
+getting up, and, perhaps afraid of my unveiling his evil, he turned to
+me and shot three bullets across my collarbone, much like an ellipsis
+and the pause it offers. never have i convinced myself to wake up so
+quickly.
+
+{{< btt >}}
+### Entry # 208
+Date: Mon, 06 Apr 2015
+
+the credentials of a friend remains refutable when their suggestive
+pessimism knocks the jenga blocks and makes a song out of the debris.
+
+take ecclesiastes for example: how his virulent tongue did not spare a
+page (or *so*) inside the divine text as he included his fascination on
+running after the moving air, and then saying how it was *all* useless
+to him. i guess, my friend, the same thing goes for me.
+
+only when the faint gleam of reflected sunlight at night obliges itself
+of touching the sublime crevices of the hypothetical mind frame will you
+learn of my dishonesty towards the way the chef prepares any supper for
+me. that to me it is impossible to consume, as i myself am inside a
+really bad vortex of consumption.
+
+every movement feels slow. i stretch
+my body over the strong traction of dirt;
+and a hundred slugs swarm
+inside my hungered mouth,
+their slime wronging local cavities.
+
+you mull on the enigmatic injustices you find frustrating for quite some
+time now. that is the proper way to gain a friend but lose a limb.
+
+{{< btt >}}
+### Entry # 209
+Date: Tue, 07 Apr 2015
+
+the promise of sad pop love songs, however uninventive their promises to
+fix, lasts more than eight hours, more than enough for a hundred
+restroom round trips, in which the final cubicle at the far end is not
+reached by visible light, perfect for checking social media accounts
+that are far better on patching up holes.
+
+{{< btt >}}
+### Entry # 210
+Date: Fri, 10 Apr 2015
+
+except during the inert hours when the sun sits godly at zenith,
+bonifacio global city (aptly shortened to 'BGC'), despite how it
+condescendingly approximates wayward wallets, is not so bad a place to
+meet dark-lipped by-passers with whom one could share a moment of
+silence.
+
+{{< btt >}}
+### Entry # 211
+Date: Tue, 14 Apr 2015
+
+the kind of love we know,
+which to the untrained nerve bundles is immune to defiant tissues,
+posthumously sprouts from the desultory of vanity.
+
+the plight of mental sacs,
+as they inwardly project menial staccatos of gyrating imagined mouth-to-mouth conversations,
+inconvenience my punching the jaw off of its fixation.
+
+o the things that come when i am idle!
+i could star on the next sofia coppola film if it weren't for the
+lack of dullness in my hair and skin.
+
+one thing, though: i don't trust
+my *kagwapuhan* enough to ensure me a slot in the limelight.
+not that i showcase any to start off.
+*kagaguhan siguro, oui...*
+
+...perhaps the ill-conditioning of proverbial stiffness---a
+contrathetical manifestation of some moldy levite code---attests as to
+how i am enslaved by the late, late reckons of the same frame yet of a
+mythical chamois variant.
+
+hello, you, down there.
+are you feeling especially downcast this time?
+
+{{< btt >}}
+### Entry # 212
+Date: Thu, 16 Apr 2015
+
+a recent encounter with a crowbar brought me back to my sailor-mouthed
+adolescence when i first knew of the taciturn physicist, gordon freeman.
+how could he swing such (relatively) heavy a tool as though it were
+bamboo stick?
+
+{{< btt >}}
+### Entry # 213
+Date: Tue, 21 Apr 2015
+
+on some occasions i delight on the crash-course cleansing of being,
+that quick dopamine rush,
+so exuberant in my own expression that this type of
+happiness consequently smudges out of picture *some* episodes,
+but only as long as the moment.
+
+{{< btt >}}
+
+
+
 
 ### One-Liners
 Tweet-like witticisms back in the day.

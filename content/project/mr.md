@@ -16,7 +16,7 @@ and worse.
 The notes below are raw, unabridged.
 I will polish them when I find time.
 
----
+## Definition
 **Market Research** is the process of understanding your business and the intended recepients of
 its products and/or services, by gathering and analyzing data, and making
 insights on them on a specific market.
@@ -58,6 +58,14 @@ Consider how MR playes a role in providing information in this cycle.
 {{< btt >}}
 ## Broad research classification
 
+There are many ways to do research;
+and there is no *one* way.
+In fact,
+we use a combination of these methods in practice.
+
+But it's helpful to determined first how each one differs from another,
+so we can better decide what approach/es to use.
+
 {{< btt >}}
 ### Primary vs Secondary Research
 
@@ -81,11 +89,12 @@ It involves a small number of respondents.
 
 The researcher, most of the time, is also the interviewer.
 
-Examples include focus group discussions, depth interviews,
+Examples include focus group discussions (FGD),
+depth interviews,
 and observations/ethnography.
 
-Qual investigates habitual behavior where people need help to articulate why
-they do what they do.
+Qual investigates habitual behavior
+where people need help to articulate why they do what they do.
 It is used to generate ideas by asking only a niche market.
 
 **Quantitative research** focuses on measuring opinions and behaviors.

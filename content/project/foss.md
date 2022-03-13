@@ -47,45 +47,38 @@ because they're upgrading to a new one.
 {{< btt >}}
 ## Web Browser
 
-- [Firefox](https://www.mozilla.org/firefox/) -- for more intensive web-surfing,
-  which usually includes video-streaming and JavaScript-heavy sites like banking
-- [Suckless Surf](https://surf.suckless.org) -- for lightweight usage, usually
-  includes researching and reading texts and looking at web images.
+- [LibreWolf](https://librewolf.net) -- for more intensive web-surfing,
+which usually includes video-streaming
+and JavaScript-heavy sites like banking.
+Firefox was formerly in this spot,
+but decided I wanted a simpler life.
+- [Suckless Surf](https://surf.suckless.org) -- for lightweight usage,
+usually includes researching and reading texts and looking at web images.
+
+### Special Mention
+
+- [Tor Browser](https://www.torproject.org) -- for circumventing not
+  surveillance more than censorship.
+I don't regularly use this,
+but I have this in my computer just in case.
 
 {{< btt >}}
-### Firefox Add-ons
-Firefox, out of the box, doesn't exactly provide a great UX.
+### LibreWolf Add-ons
+LibreWolf has nice defaults
+that are centered on privacy, security, and user freedom after all.
+
 I have these add-ons, all of which are available in [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/), to make my web surfing more bearable.
 
-HTTPS everywhere
-: encrypts browser communications with websites
-
 uBlock Origin
-: is a wide-spectrum blocker (which includes adblocking) with CPU and memory efficiency as a primary feature.
-
-CanvasBlocker
-: alters some JavaScript APIs to prevent fingerprinting
-
-ClearURLs
-: remomve tracking elements from URLs
-
-Cookie AutoDelete
-: automatically removes unwanted cookies from closed tabs
-while keeping the ones you want
-
-LocalCDN
-: emulates Contend Delivery Networks to intercept traffic, find
-supported resources locally, and inject them into the environment.
-
-NoScript
-: allows active content only for trusted domains to prevent exploitation
+: is a wide-spectrum blocker
+(which includes adblocking)
+with CPU and memory efficiency as a primary feature.
+Already included in LibreWolf as a default add-on.
 
 Redirector
 : automatically redirects content based on user-defined rules.
-
-Smart Referer
-: automatically hides HTTP referer and JavaScript
-document.referrer for cross-domain requests.
+Currently redirecting Medium sites to [Scribe](https://scribe.rip),
+and Twitter to a [Nitter](https://nitter.kavin.rocks) instance.
 
 SponsorBlock
 : is a crowdsourced extension that skips sponsorships, subscription-begging, intros, outros, and

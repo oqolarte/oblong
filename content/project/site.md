@@ -131,9 +131,17 @@ I use serif for headings. This is the font stack that I use (as found in my
 CSS):
 
 ```css
-h1,h2,h3,h4,h5,h6 { font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-        line-height:1.2
-        }
+h1,h2,h3,h4,h5,h6 {
+        font-family:    Iowan Old Style,
+                        Apple Garamond,
+                        Baskerville,
+                        Times New Roman,
+                        Droid Serif,
+                        Times,
+                        Source Serif Pro,
+                        serif,
+        line-height:    1.2
+}
 ```
 
 And I use sans serif for body and the rest of the page.
@@ -146,8 +154,19 @@ body {
         margin: 1em auto;
         max-width: 40em;
         padding: 0.7em;
-        font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
-        }
+        font: 1.2em/1.5 -apple-system,
+                        BlinkMacSystemFont,
+                        avenir next,
+                        avenir,
+                        segoe ui,
+                        helvetica neue,
+                        helvetica,
+                        Ubuntu,
+                        roboto,
+                        noto,
+                        arial,
+                        sans-serif;
+}
 ```
 
 Using serif for headings and sans serif for body gives a clear delineation which

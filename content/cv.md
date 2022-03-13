@@ -1,4 +1,7 @@
 # **Ohio Quilbio Olarte**
+
+{{ partial "dateProj.html" . }}
+
 Email: ohio@araw.xyz  
 Website: https://ohio.araw.xyz  
 

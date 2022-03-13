@@ -5,7 +5,7 @@
         a:visited {color:#551a8b}
 }
 body {  margin:1em auto;max-width:40em;padding: 0.69em;
-        font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+        font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir, "Segoe UI", "Helvetica Neue", Helvetica, Ubuntu, Cantarell, "Open Sans", "Fira Sans", "Droid Sans", roboto, noto, arial, sans-serif;
         color:#edf2ea;background:#0a0012}
 a:link {color:#7aa3cc}
 a:hover, a:visited:hover {color:#36ca5c}
@@ -23,7 +23,8 @@ td,th {padding: 0.5em; border-bottom: 2px solid}
 figure,figcaption { text-align:center;font-size: 0.8em;color: #808080;margin-right: auto;margin-left: auto }
 blockquote { font: 1.1em/1.4 Times,serif;padding-left: 0.9em;border-left: 5px solid #6b7c85 }
 code,kbd,pre,samp { font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
-        font-size: inherit; overflow-x: auto; padding: 0.2em}
+        font-size: inherit; overflow-x: auto;
+        margin-left: 2em; margin-right: 2em}
 sub,sup { font-size: 69% }
 footer :target {font-weight:bold}
 .container { max-width: 700px }
@@ -36,3 +37,4 @@ footer :target {font-weight:bold}
 .statusOnGoing { text-shadow: 1px 1px 2px #0040ff;color: #ffbf00 }
 .statusOpen { text-shadow: 1px 1px 2px #85fcfc;color: #8a0303 }
 .statusDone { text-shadow: 1px 1px 2px #ca76b4;color: #76c78c }
+a.btt {font-size: 0.8em; text-align: right; text-decoration: none}

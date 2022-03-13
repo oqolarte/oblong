@@ -396,13 +396,15 @@ And of course, kudos to the [other participants](https://dataswamp.org/~solene/2
 On the software side,
 my setup is not for those who are only familiar with GUI.
 Only a handful of people would actually want to move their computing to terminal-based applications.
-So, we cannot, *shall not*, expect non-tech savvy people to use old
-computers, especially when they'd use only GUI,
+So, we cannot, *shall not*, expect non-tech savvy people to use old computers,
 and the alternative has a steep learning curve.
 
 **No muzak**:
-I didn't listen to music, because I don't have any on this computer.
-I could stream, but didn't.
+I didn't listen to music,
+because I don't have any on this computer.
+I could stream,
+but even that would be a chore,
+so I didn't.
 
 **No e-book reading**:
 I only read blog posts in the RSS.
