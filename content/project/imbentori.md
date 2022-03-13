@@ -4,7 +4,7 @@ date: 2021-03-08T11:59:15+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "imbentori", "tumblog", "tumblr blog"]
 draft: false
 ---
-## Status: On-going {.statusOnGoing}
+{{< ongoing >}}
 
 It may or may not have been obvious,
 but people my age like to express themselves on the internet.
@@ -20,7 +20,7 @@ It's just that I have more interesting things to tackle, in my opinion.
 
 In the meantime, read the foreword I drafted some time ago for this would-be collection of personal essays.
 
-{{< btt >}}
+{{< toc >}}
 
 ## Foreword
 
@@ -59,7 +59,7 @@ it's because I had been in this odd phase.
 {{< btt >}}
 ### There's a free copy online
 
-Most of them are lumped into what I call [Unscholarly Notes](https://iooare.tumblr.com/tagged/unscholarly-notes),
+Most of them are lumped into what I call [Unscholarly Notes](https://iooare.tumblr.com/tagged/unscholarly%20notes),
 after a chapter in one of my favorite books by F. Sionil Jose.
 
 [^bs]: Reminds me of a paper called [_"Bullshit Makes The Art Grow Profounder"_](http://journal.sjdm.org/19/190712/jdm190712.html) (Turpin et. al., 2019). 

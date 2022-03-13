@@ -4,19 +4,21 @@ date: 2021-02-02T17:45:52+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "ipod", "ipod classic", "ipod classic 6g", "ipod classic 6th gen", "ipod classic 6th generation", "ipod classic hard drive upgrade", "iflash"]
 draft: false
 ---
-## Status: Done {.statusDone}
+{{< done >}}
 
-'Nay Merci, Isya's mom, sent her iPod Classic[^ipod-classic] to me for repair, a device that's at least ten years old now.
+'Nay Merci, Isya's mom,
+sent her iPod Classic[^ipod-classic] to me for repair,
+a device that's at least ten years old now.
 It's life can still be stretched by upgrading some of its components.
 
-Back in 2018, I did a similar upgrade on Isya's iPod Classic, which I wrote about on *our* blog[^arawseekers], so doing this isn't something new.
+Back in 2018, I did a similar upgrade on Isya's iPod Classic,
+so doing this isn't something new.
 
-In this post, I'll discuss the overview of what I did.
-This isn't necessarily a step-by-step guide, and shouldn't be considered as such. 
-It's merely an attempt to document the process through a crappy camera and poor lighting that I have.
-Pardon the amateur.
+I'll discuss the overview of what I did.
+This isn't necessarily a step-by-step guide, and shouldn't be considered as such.
+This is an attempt to document the process through a crappy camera and poor lighting that I have.
 
-{{< btt >}}
+{{< toc >}}
 ## Getting what I need
 
 Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.
@@ -111,8 +113,6 @@ Go over your chosen guide (or video tutorial) again as long as you need to.
 It's better to make sure, than force something  and then breaking it needlessly.
 
 This is my second time doing this, so I'm more confident.
-
----
 
 {{< btt >}}
 ## Swapping the Hard Drives
@@ -215,8 +215,6 @@ While making sure the back is aligned to the front chassis, push down on the met
 Clicks should be heard; 
 the metals clips are now engaged and the iPod is locked closed.
 
----
-
 {{< btt >}}
 ## ...then comes the music
 
@@ -238,8 +236,6 @@ Look it up online.
 
 [^ipod-classic]: iPod Classic, 6th Generation ("7th gen" in some sites), 2nd revision, 160 GB capacity, Model No. A1238. 
 For more info on iPods, [check the wikipedia about it](https://en.wikipedia.org/wiki/IPod_Classic).
-[^arawseekers]: We like to call ourselves [Araw Seekers](https://arawseekers.github.io).
-You're welcome to go over there and read.
 [^metal-clips]: One would notice the absence of screws with which to open the device.
 Instead, there are metal clips on the inside all around the edge.
 Without prior knowledge, one would think that the iPod was not designed to be maintained, and one would be right in thinking so.

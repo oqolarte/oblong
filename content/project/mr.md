@@ -4,7 +4,7 @@ date: 2021-12-25T14:19:42+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
-## Status: On-going {.statusOnGoing}
+{{< ongoing >}}
 
 I'm currently in market research (MR) by accident.
 
@@ -15,6 +15,8 @@ and worse.
 
 The notes below are raw, unabridged.
 I will polish them when I find time.
+
+{{< toc >}}
 
 ## Definition
 **Market Research** is the process of understanding your business and the intended recepients of

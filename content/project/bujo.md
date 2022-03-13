@@ -4,7 +4,7 @@ date: 2021-05-13T17:04:58+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "bullet journal", "bullet journal method"]
 draft: false
 ---
-## Status: On-going {.statusOnGoing}
+{{< ongoing >}}
 
 I have been bullet-journaling (bujo) since I first chanced on it on 2015.
 It made sense to me at the time, and it still does.
@@ -20,7 +20,7 @@ riffed from a combination of Carroll's and others' minimal designs.
 
 Marked as **on-going** because I'm always revising my bujo ways.
 
-{{< btt >}}
+{{< toc >}}
 ## Materials
 
 A notebook and a pen(cil).

@@ -4,7 +4,7 @@ date: 2021-01-02T15:02:49+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "static site", "static e-commerce site", "online bookshop"]
 draft: false
 ---
-## Status: Closed {.statusClosed}
+{{< closed >}}
 
 My partner asked me to come up with a website to act as a central hub for their small online shop.
 The website shall mirror the contents of the shop's other social media presence.
@@ -17,7 +17,7 @@ Visit the site:
 Essentially, this is a static online shop with limited functionalities.
 Let me explain.
 
-{{< btt >}}
+{{< toc >}}
 ## Design Choices
 
 I thought of going through this project with as few components as possible.

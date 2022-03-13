@@ -4,7 +4,7 @@ date: 2022-01-16T11:14:38+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
-## Status: On-going {.statusOnGoing}
+{{< ongoing >}}
 
 Free and Open Source Software (FOSS) aims to improve the quality of our digital lives, whether we know it or not, by maintaining these freedoms (aka Four Essential Freedoms of Free Software):
 
@@ -23,7 +23,7 @@ whether we like it or not.
 
 Listed here are the programs I use on a regular basis.
 
-{{< btt >}}
+{{< toc >}}
 ## Operating System 
 
 - [Debian 10 "Buster"](https://www.debian.org/releases/buster/) -- OS in the server that
@@ -33,8 +33,10 @@ Listed here are the programs I use on a regular basis.
 
 {{< btt >}}
 ### Special Mentions
-- [Fedora Workstation](https://getfedora.org/en/workstation/) -- The first Linux
-  distro I used.
+- [Fedora Workstation](https://getfedora.org/en/workstation/) --
+The first Linux distro I used.
+First time using a GNOME desktop environment which was nice.
+It's also here that I first used a tiling window manager, i3.
 - [OpenBSD](https://www.openbsd.org/) -- The one I used in [the Old Computer Challenge](/old-computer)
 - [Artix Linux](https://artixlinux.org/) -- the first Arch-based Linux
   I used.
@@ -178,8 +180,11 @@ and Twitter---in this case, that one person is me.
 
 {{< btt >}}
 ## YouTube Alternatives
-- [NewPipe](https://newpipe.net/)
-- [PeerTube](https://joinpeertube.org/)
+- [NewPipe](https://newpipe.net/) -- For watching on an Android-run smarphone
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) -- Download videos,
+and watch it with [mpv](https://mpv.io)
+- [PeerTube](https://joinpeertube.org/) -- Not really YouTube per se.
+A decentralized alternative to video sharing platforms.
 
 
 {{< btt >}}

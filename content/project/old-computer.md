@@ -4,7 +4,7 @@ date: 2021-07-10T13:21:43+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "old computer", "using old computer", "unix", "openbsd on old computer", "openbsd"]
 draft: false
 ---
-## Status: Done {.statusDone}
+{{< done >}}
 
 This project is my attempt to "make it work" using old, un-upgraded computer.
 Over this period, I'll document the good, the bad, and the ugly.
@@ -12,7 +12,7 @@ Below isn't necessarily a tutorial, but personal notes.
 Whenever possible, I'll link the things I use to their respective online documentation.
 
 [Solène's prompt was to use old computers for a week](https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html),
-from 10-17 July 2021.
+from 10-17 Jul 2021.
 For details, check her post.
 
 I didn't follow all the rules to the letter.
@@ -22,7 +22,7 @@ Doing so, in my case, would result in a terrible experience.
 I'm recommissioning the MSI Wind Netbook for this project,
 the same laptop that I originally planned to be my [homebrew server](/server).
 
-{{< btt >}}
+{{< toc >}}
 ## Hardware
 
 The [MSI Wind Netbook](https://www.laptopmag.com/reviews/laptops/msi-wind-u123) makes another comeback for this week,

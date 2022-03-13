@@ -4,7 +4,7 @@ date: 2020-11-27T14:42:32+08:00
 keywords: ["web development", "web design", "sustainable web design", "simple web design", "full stack web development", "full stack web design", "sustainable full stack web development"]
 draft: false
 ---
-## Status: On-going {.statusOnGoing}
+{{< ongoing >}}
 
 The making of this site is itself a personal project.
 In this oversized colophon[^colophon]
@@ -17,7 +17,7 @@ the design of which is an accurate depiction of my knack for simplicity.
 The status is likely to stay **on-going**;
 this site is always under construction.
 
-{{< btt >}}
+{{< toc >}}
 ## Digital Garden
 
 If you've been looking around for personal websites like I have, "digital garden" is a phrase that gets used often.

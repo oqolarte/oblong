@@ -5,13 +5,14 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
 
-## Status: Done {.statusDone}
+{{< done >}}
 
 For the whole month of February 2022,
 I have tried taking one photo a day,
 process it however I like---likely through dithering and/or compression---and
 share it here.
 
+{{< toc >}}
 ## Tools
 
 **Hardware**: Canon Powershot G1X[^cam]

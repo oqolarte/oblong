@@ -4,13 +4,13 @@ date: 2021-01-18T16:48:23+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "encoding", "hardcopy to softcopy"]
 draft: false
 ---
-## Status: Done {.statusDone}
+{{< done >}}
 
 One day, I decided to help Isya on encoding a lot of documents from a family friend, Tito Jorge.
 
 Here is an attempt to document the entire process.
 
-{{< btt >}}
+{{< toc >}}
 ## Scope of Work
 
 The documents that we're talking about here are printed articles written by Tito Jorge.
