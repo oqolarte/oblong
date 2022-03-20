@@ -4901,7 +4901,381 @@ but only as long as the moment.
 
 {{< btt >}}
 
+### Entry # 214
+Date: Tue, 21 Apr 2015
 
+a classless zymurgy of the lovely breakup aftermath, coupled with
+cognitive mapping that bears some semblance to that movie about wanting
+to erase someone from memory's form, zooms in on the restlessly
+anticipating vito and his pursuit of one lani. as the mushiness of
+tenderloins transsubstantiate into a woeful shell, the man decided that
+i be his wingman (*coughs*), one who regularly checks the evolution of
+the second chin (*coughs*); the minimum-wage supporting actor; me the
+minion.
+
+i can hear through the creaks of gate how the woman sighs intensely. her
+son---not vito's btw but of another faceless,
+indifferent guy---becomes increasingly prejudiced by the reappearing of the man who once
+almost anthologized the refurbishing of an old room back at the old
+house. i understand his qualms toward his stepfather: he, vito, is a
+seasoned cutting edge against the monotonous espresso-quaffing,
+forked-tongued douche like him, the son.
+
+when vito and lani called it quits, there i was, skimming already my
+tomes for reference materials that deal with these kinds of things. i
+wanted to call the guy who knows this guy who knows this guy and ask for
+advice. abashed for myself to be caught amid the whirlwind of these
+on&off sweethearts, i tirade with others who nod that not only is this
+dipsomaniac affair partly non-convalescent, it is also partly false.
+
+and so: spare me the visual effects and digitized vinyl scratches
+press-released for many a black shiny box, because i for one don't
+promote feigned nostalgia. had i the chance, i'd let them throat the
+minuscule head of pride and claim the experience as either real or
+righteously sanctimonious, depending on their combined mood, for their
+prized profession.
+
+{{< btt >}}
+
+### Entry # 215
+Date: Tue, 12 May 2015
+
+it always begins with coming to form in front of a bookstore, when all
+else simply passes by with me slightly off the center of it. and so,
+formally speaking, i found myself in a bookstore. in my case, even
+forcing the brain to beckon from phrenology bytes of blurry memory
+yields no results as to what were the exact circumstances that placed me
+inside that claustrophobic stall except that, perhaps, it had something
+to do with my not having anything better to do at that time. perhaps, it
+was one of those open-ended scenarios i got caught up in when the
+residual glamour that thankfully *was* college had not faded much yet.
+
+this particular book i got while under the influence of boldfaced
+impulsive buying brings to me a squishy kind of queasiness that, at
+times, disappoints me, because many things in it can only devise
+satisfaction if shared, preferably read, to someone of the same
+wavelength as i, which my current predicament nay permits.
+
+what makes it more special, though, aside from the fact that i
+practically stole it at a low price in BookSale, is the state of its
+leaves: that the very pages i intend to dogear had been pre-dogeared by
+its previous owner/s.
+
+now, i do notice geodesic lines anywhere else---on public transit with
+strangers as meditative glances, on gatherings with peers as exchanged
+ideas, etc. ---and with the heaving of internet, stumbling upon such
+rarely is an accident one must celebrate. but never have i thought it
+possible to find one as a manifestation of an old book's past holder.
+
+the genome immanent in all things wild that had been used are heavy with
+geranium's scent, or are they?
+
+{{< btt >}}
+### Entry # 216
+Date: Thu, 14 May 2015
+
+they invite themselves in any occasion, regardless of your thought
+process. tears do gather after yawning. is, then, sadness really a
+consequence of boredom, of that immovable bulge which hinders you from
+fixing your stuff? the small area in each of your eyes can only hold so
+much liquid before a single drop escapes to your cheeks and rolls onto
+the floor. this prismatic essence of your lamentation through which the
+worldly light, both void and all, hits the floor with a silvery chime, a
+sound with a faint hint of hope in it. however solid the floor, the drop
+causes a ripple of about three feet in diameter.
+
+while, affirmative, it is difficult to assure the skeptical self of the
+certainty of physics, which supposedly could explain how the universal
+vectors work, your understanding of it at the moment is wavy at best.
+
+from the rippling floor an angel figurine gradually emerges.
+
+a lot of things in the world to merit a ponderous hour of wailing, and
+yet here the seat shifts for the discomfort of your buttocks already
+hardened and sore from days of endless bumming out.
+
+of the many installments of dark moods brooding about, this point, you
+wonder, has been chosen by fate to show you how in the mysterious
+alchemy of things something so pleasant a stimulus can bloom from where
+it is least expected. and law-abiding nature, since it *is* her right to
+abandon human expectations from time to time, sends one of her angels to
+materialize from none the less the floor over which you were calling out
+the wrong concepts of everything.
+
+you visit different quora in search of answers. *is it possible?* how
+strange is it, that from the seemingly nullified floor a figurine rises?
+can a quick search on google provide a list of such impossible instances
+in recorded history?
+
+dissonance malfunctions, and you remember the twitching of twigs and
+branches, some 200 of them, phosphorously calcified, classified even
+according to use. this is you: how you fumble, how you slink. ever so
+determined to stumble on surprises. the casual oh-yes at the face of
+pointlessness, the remarkable apathy that none can emulate. i do wonder
+of your noir, its artistic levers you manipulate; and, of course, your
+hearing---if your hearing past this point still is doing fine---of the
+summons of *l\'esprit de l\'escalier*.
+
+{{< btt >}}
+### Entry # 217
+Date: Wed 20 May 2015
+
+in shiny surfaces there are unseen gauntlets on which i thoroughly gauge
+my compassion for myself. not that shiny surfaces bear any semblance of
+authority on these topics. and, to me, they are either excuses or forms
+of torture of the vain to check themselves out before venturing forth
+into autumn.
+
+what if instead of trembling lips and a stomach aching for
+fullness, i had the most bizarre case of leadened appendages that longed
+to labor on heavy tasks? what do i do then if i administer upon the self---beyond
+congeniality, that is---a meaning to which that many folks
+find so mundane?
+
+i do not fancy myself as a tough guy. ha, i can't even
+get pass through ten push-ups without condemning both heaven and earth
+for burdening me the thought that i have the strength to accomplish it.
+by the principle of mediocrity, from cortex to callous, i am the
+outdated modification of man living off on silicons and diodes.
+
+what does this mean? it means that although i am informed, dressed decently
+for my everyday bumming, i pother the shenanigans of electronic
+equipment for my 'latest fix'. is this then the beginning of a cynical
+life? a young man cruised along the devils of modern soc because he
+could not give way for what they were imposing on him.
+
+a psychologist could not openly speak out his mind regarding my
+disposition as compared to the statistically normal. maybe he is scared
+of the consequences he might have to deal with in case he realized that
+even he cannot provide a rudimentary analysis of my person, with all the
+genius he so often boasts simply he cannot. i am not scared of such
+consequences. at one point in our life we meet someone who has the
+iron-meshed guts to tell us to our face what we really are. a tim lee
+pointed it out: aside from the polishing of my ruffian accent, the
+primary reason why i cannot be so out there hard enough is because of my
+insufferable detachment from...
+
+in the end, there is no other way but to discern thusly: i don't know
+really the concept of people. my condition is irreparable, a chain of
+trivial junks shaking more violent the harder i try to fend them off.
+unless i consult a shrink.
+
+{{< btt >}}
+### Entry # 218
+Date: Sat, 23 May 2015
+
+the infinity offers candid answers to the everyday stigma of having to
+live through both heat and heated haughtiness alike, to be the extension
+of inventorial productivity.
+
+it will come to a certain passing, this
+infinite trade of grit across a cosmic proper, but whether we would
+perceive even the faintest of its gleam i am not sure. and i wonder what
+must it be like to be seated in front of people whose calling you do not know.
+but it is not the kind of wonder that lets one detest one's own
+inability to understand. it is the kind that is as trivial as air. and
+through this cyclic conversion of unknown into known back into unknown
+(like breathing, *o* very much like it) your only companion has been
+your faith, untarnished i believe, in the goddess of love.
+
+perhaps, it has something to do with venusian wont,
+her majesty's ensemble that
+plays the song of all in the language of all.
+
+however, out of all the characters that make up the system,
+here we landed unjustly on the cusp of touch.
+here we sat across each other: i, desperately losing focus on
+the interstellar region of your face;
+you, seemingly losing orbit.
+
+and here, our attempts to be as pro as possible stemmed from a sheet of
+paper on which writ, to me, the ways i fumbled effortlessly, and, to
+you, the overall substance that might be me.
+
+{{< btt >}}
+### Entry # 219
+Date: Tue, 26 May 2015
+
+when the prescription of scripts does not match your integrity, as
+against that of maestro lording over you, read your orchestration here,
+even if it beats rancorously to the chest-pulp.
+
+read your notes, if that kicks you fine,
+however scholastic they seem to appear, or unparalleled
+to its own nature of being versatile, even if you must say, they kind of
+need of undertoning.
+
+being fooled is not a sin, at least not yet;
+fooling is.
+and you will come to this conclusion when you decide in the
+future to come back here and see the molds that have become of your
+thoughts.
+
+your notes reflect upon a deeper sentience living off on
+others' jokes, and are often the disambiguation of diverse personal
+schema: when gloom tinkers you from the inside; when, alas, the strong
+and the weak make peace with one another; when you start re-calibrating
+your actions to reduce any space for certainty.
+
+read them as you go along.
+when no one else is watching.
+read them when you are ready to let them gnaw;
+and then share them, so they could start gnawing you. your
+consciousness perfumes the earthly winds.
+
+{{< btt >}}
+
+### Entry # 220
+Date: Fri, 29 May 2015
+
+two persons from different walks to meet half-way their life spring to
+their limbs and trek the jagged streets of city. to embark on a
+half-empty ballad, bold though it may seem, only to find out that
+fortune-seeking at this impure hour of night offers no permanent
+satisfaction; only the minimum requirements to be locked up.
+
+the first person is unmanned, the other unnamed.
+
+the first person strides into the
+silent gala with a business-success look, disappointed because the place
+is run by rodents, if not by ghosts.
+in fact, no one is here, except for
+the old person tending the floor with broomstick, and the bartender. not
+too long after that the double doors banged as the second runs in after,
+rather looking too famished to deny the drag of an unquenchable thirst.
+
+of course, two persons of aerodynamic snobbishness: the first examining
+this unnamed fellow, while the second double-taking the bartender, the
+contemptuous sort that hands out glares accounting only a part of self
+which cares not for the one who would hand the liquor over in such a
+tenderly appreciative fashion.
+
+the bartender fumes, fumbles through a
+mental handbook (on how to deal with prospective binge-drinkers) for
+something to give back to this particularly ill-eyed visitor; and
+two-double-aught-three milliseconds later, bartender decides to flash
+the bird. the first person assumes understandably the meaning of all the
+fuss---the exchange of rudeness and lesser absurdities, the call to
+arms of these strangers---and so the first person stands aside and let
+the bartender's aim be truer.
+
+a calm strikes in before the heat of duel.
+momentous, yet quiet. the unnamed person is hit by the insulting
+gesture, but who really fanned the flame?
+
+the first person imagines
+stepping in to prevent the spark of bar brawl. unmanned one wants to
+participate by stopping it before it goes out of control.
+
+however, here
+begins the real awful line of interrogation: who among the first and
+second person is real? is it possible that only one of them is real, and
+that the other, being unmanned, simply is a chance to change oneself for
+one's amusement, a chance to conjure two illusory statements of
+different technicalities superimposed as a single image?
+
+hurry---the bartender is fast approaching the breaking point.
+
+{{< btt >}}
+### Entry # 221
+Date: Mon, 01 Jun 2015
+
+after rummaging through an empty vault, and sad, discontent sighing, the
+vampire flicks through *Tinder* instead, possibly postulating who goes
+right and who goes left. the vampire occasionally looms about a temporal
+air that could have escaped into fangs if indeed such superficial fluid
+was cinnabar. but air is thinner than blood. this is both the magic*k*
+and the trick: that blood trumps oxygen. it chokes the victim yet
+cherishes the villain. it triumphs over post-coital interaction, even.
+nearly forgotten, although, is the feeling.
+
+much has changed, thinks the vampire. indeed, since the dawn of quantum
+physics, humans have actively hunted 'violent' immortals. some crude
+group of scientists discovered a way to store huge amounts of natural
+sunlight inside a slim electronic device for later dispersion.
+
+finding romance on information age requires plutonium will. to tap the
+inner meredithian volition. to violate comfort for survival's sake. to
+iron that synthetic duress with the heat that has not been there ever
+since. mush has changed; the way the heart tickles its meat with redness
+and swelling. the pain. plus fear that would not subside. and this
+endless search for a substitute.
+
+exaggerated stories of the 'virtually undying' have evolved. life moves
+relatively slow, so people make it a point to disappoint people with
+their natural tendencies to create a destroyer within themselves. in the
+process, lives are devalued and commercialized. what is the real
+purpose, then, of the villainy they see in vampires? the trick is
+knowing how small people are compared to the grand scheme. maybe in
+knowing, they would evolve accordingly.
+
+...it is a hard task though, this swiping. the capacitive touchscreen of
+a smartphone finds it difficult to detect the marble-like fingers of the
+vampire. nobody expected this; it was not in the folk lore. with
+patience, however, and hours, days, years of attempting, the vampire
+would find a way to make this existence a tad more bearable.
+
+{{< btt >}}
+### Entry # 222
+Date: Sun, 07 Jun 2015
+
+when exhibiting to the public's eye the thought processes thrashed
+within when procreating for oneself a methodically engineered outfit --
+ahem, more accurately known to me as comfortable, ahem -- it seems that
+every ogling eyes consequently burn white. knowing already the aged
+rings of psychological demure of one from slums, thusly preparing me for
+its elitist, english-spanking version, this i can already take. dare i
+say that all my adolescent years i have prepared myself to resist this
+kind of bombardment. however, some manage to find their way in, those
+that are sharp enough.
+
+this curious nagging, this indirect accusations that flesh out the
+subject from the subject's skin without physical contact is, to me,
+worse than an insulting slap for being in articles that i deemed decent.
+this leaving only the fibers -- and where now is the whole plant, the
+flower itself, the chance at fruition? uh, what does it accomplish? the
+power of scrutiny, as it swirls, is delectable for those who enjoy it.
+and why do they enjoy it? i can't know for sure, but i have some
+thoughts about it. 
+
+i thought i was way past this nervous point in life (where co-operatives
+would want to actually dine with me when i finally mustered that thing
+to toughen up and invite them to fool me in their fanciest talks) after
+i stepped down from stage to unemployment. and at a certain angle, this
+demotion did step up my preconceived ideas about how the gears of
+society really work. i now understand more how hoary the rudders are
+from underneath the surface. i thought i had the statistics correct. but
+now, bit-by-bit redemption thanks to wolfram alpha, maybe i do have what
+it takes to be somebody. maybe such provoking an idea scours still the
+floor for bits of approval as time is yet to be convinced.
+
+i also thought that apart from the abating personal cynicism, much of
+myself has changed: i am constantly fact-checking my nightmares; the
+moths and mayflies of wallet have been constantly in touch with me
+(although i believe that in a few weeks i would be eating better food);
+i have been leaving the doors open around midnight to let the cool
+summer air in; et cetera.
+
+does it matter anymore whether i address them of my flaws in lieu of
+theirs? -- because i for one am contra their unjust tribulations toward
+my laundry list when only a small fraction of it is authentic, the rest
+mere spawns of 2nd hand gestures. these odd sort of people usually sets
+the standard. one can smell them from lounging too long around the
+plucking of pubic hair. the key to ciphering the names and notions
+depends on the distance one puts between them and oneself.
+
+another fumbling through life's expectations with damn hot wires and
+analytics. they say, "stop in the name of love!" before actually
+breaking into a chase. sun never gets them, does not warm them. they
+refuse to be warmed. they refuse the warm feeling of basic human
+kindness with some sleight of fist; and what does that tell me about
+their fundamentals? do i have to read thick hardbounds about people
+getting off on hurting others? -- because that is plain sickening. the
+cool circulation of oxygenated veins keeps them from messing up. but
+they are messed up, whatever it is they doing that is brute-some; and
+then some.
+
+{{< btt >}}
 
 
 ### One-Liners
@@ -5012,6 +5386,10 @@ is no option for me to go to except down.
 1. one of the quirks of lycanthropy is the ability to become a weirdwolf.
 1. there is penitence in consuming callow versions of oriental dumplings obtained from a dilapidated corner of nowhere.
 1. there settles at the pinnacle of existential hardship very little glory.
+1. recent english linguistics paper recommends that every sentence should end with the 25th alphabet letter, and here's y.
+1. interstellar 5555 directed by christopher nolan
+1. *n* reasons why "*n*" should be a counting number
+1. gods bark there at the distance
 
 {{< btt >}}
 
