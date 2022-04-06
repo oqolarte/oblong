@@ -4,7 +4,7 @@ date: 2022-04-05T12:55:13+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
-It's only until recently that I've realized this:
+It's only recently that I've realized this:
 
 There *is* an artist in me.
 
