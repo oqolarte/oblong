@@ -1,18 +1,36 @@
 ---
 title: "Dada: Text-only Local News"
-date: 2021-05-05T21:35:49+08:00
+date: 2022-04-10T01:35:49+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "web scraping news", "python web scraping news"]
-draft: true
+draft: false
 ---
-## Status: Open {.statusOpen}
+{{< closed >}}
 
-*Dada* is a working title for this project.
-It's based on the Filipino expression, "*Puro ka dada!* (You're full of empty talk!)"
+I haven't had a real chance to work on this project.
+Now that I'm making it public,
+and it's already dead!
+
+The premise would have been simple:
+text-only news sites.
+
+For more experienced developers,
+the implementation would have been simple, too.
+
+{{< toc >}}
+
+## Introduction
+
+*Dada* was a working title for this project.[^dada]
+It's based on the Filipino expression,
+"*Puro ka dada!* (You're full of empty talk!)"
+
+[^dada]: While one could make connections,
+this is entirely different from the art movement of similarly spelled name.
 
 Now, by all means, this concept won't be empty talk.
 What I hope it would be, though, is text only.
 
-The four news sites that I'll be scraping are:
+The four news sites worth considering for now are:
 - [Inquirer](https://www.inquirer.net) (INQ)
 - [Manila Bulletin](https://mb.com.ph) (MB)
 - [Philippine Star](https://www.philstar.com) (PHS)
@@ -20,6 +38,8 @@ The four news sites that I'll be scraping are:
 
 I know that there are other online newspapers in the Philippines,
 but I'll be focusing my efforts in these four.
+
+{{< btt >}}
 
 ## Why? Why not?
 
@@ -34,14 +54,15 @@ According to [GTMetrix](https://gtmetrix.com), the weight of each site is:
    |RAP  | 3 MB       | 7.4 MB       |
 
    That's an average of ~5 MB (~12.6 MB uncompressed)!
-2. As we demand for better internet speeds from our service providers,
+1. As we demand for better internet speeds from our service providers,
 we should also design lightweight websites.
 A news site, by drastically reducing the weight of its webpages,
 will be more accessible, as is its purpose!
-3. No ads, trackers, pop-ups, videos, graphics, interactive elements.
+1. No ads, trackers, pop-ups, videos, graphics, interactive elements.
 It will be a boring site, which is good:
 no one needs to consume news 24/7.
 
+{{< btt >}}
 ## Inspiration
 
 Text-only news sites are not new.
@@ -50,3 +71,11 @@ Here are some, that are still live and kept up to date:
 - [CNN](https://lite.cnn.com/en)
 - [The Christian Science Monitor](https://www.csmonitor.com/layout/set/text/textedition)
 - [Legible News](https://legiblenews.com/)
+
+{{< btt >}}
+## Abandoning the Project (for now?)
+
+I personally don't want to make something I wouldn't regularly use.
+
+Now, I'm not a fan of news sites to begin with,
+nor do I consume news all that much.

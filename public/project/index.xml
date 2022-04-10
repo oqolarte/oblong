@@ -11,6 +11,134 @@
     
     
     <item>
+      <title>Dada: Text-only Local News</title>
+      <link>https://ohio.araw.xyz/dada/</link>
+      <pubDate>Sun, 10 Apr 2022 01:35:49 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/dada/</guid>
+      <description>&lt;p class=&#34;statusClosed&#34;&gt;
+Status:
+&lt;strong&gt;CLOSED&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t had a real chance to work on this project.
+Now that I&amp;rsquo;m making it public,
+and it&amp;rsquo;s already dead!&lt;/p&gt;
+&lt;p&gt;The premise would have been simple:
+text-only news sites.&lt;/p&gt;
+&lt;p&gt;For more experienced developers,
+the implementation would have been simple, too.&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#why-why-not&#34;&gt;Why? Why not?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#abandoning-the-project-for-now&#34;&gt;Abandoning the Project (for now?)&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Dada&lt;/em&gt; was a working title for this project.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;
+It&amp;rsquo;s based on the Filipino expression,
+&amp;ldquo;&lt;em&gt;Puro ka dada!&lt;/em&gt; (You&amp;rsquo;re full of empty talk!)&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Now, by all means, this concept won&amp;rsquo;t be empty talk.
+What I hope it would be, though, is text only.&lt;/p&gt;
+&lt;p&gt;The four news sites worth considering for now are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.inquirer.net&#34;&gt;Inquirer&lt;/a&gt; (INQ)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mb.com.ph&#34;&gt;Manila Bulletin&lt;/a&gt; (MB)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.philstar.com&#34;&gt;Philippine Star&lt;/a&gt; (PHS)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rappler.com&#34;&gt;Rappler&lt;/a&gt; (RAP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I know that there are other online newspapers in the Philippines,
+but I&amp;rsquo;ll be focusing my efforts in these four.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;why-why-not&#34;&gt;Why? Why not?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;News websites are needlessly heavy.
+Ours here in the Philippines, more so.
+According to &lt;a href=&#34;https://gtmetrix.com&#34;&gt;GTMetrix&lt;/a&gt;, the weight of each site is:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Site&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Compressed&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Uncompressed&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;INQ&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;8.4 MB&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;18.7 MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MB&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;5 MB&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;11.3 MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PHS&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;3.3 MB&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;12.9 MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;RAP&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;3 MB&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;7.4 MB&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;That&amp;rsquo;s an average of ~5 MB (~12.6 MB uncompressed)!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;As we demand for better internet speeds from our service providers,
+we should also design lightweight websites.
+A news site, by drastically reducing the weight of its webpages,
+will be more accessible, as is its purpose!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No ads, trackers, pop-ups, videos, graphics, interactive elements.
+It will be a boring site, which is good:
+no one needs to consume news 24/7.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;Text-only news sites are not new.
+Here are some, that are still live and kept up to date:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://text.npr.org/&#34;&gt;National Public Radio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lite.cnn.com/en&#34;&gt;CNN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.csmonitor.com/layout/set/text/textedition&#34;&gt;The Christian Science Monitor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://legiblenews.com/&#34;&gt;Legible News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;abandoning-the-project-for-now&#34;&gt;Abandoning the Project (for now?)&lt;/h2&gt;
+&lt;p&gt;I personally don&amp;rsquo;t want to make something I wouldn&amp;rsquo;t regularly use.&lt;/p&gt;
+&lt;p&gt;Now, I&amp;rsquo;m not a fan of news sites to begin with,
+nor do I consume news all that much.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;While one could make connections,
+this is entirely different from the art movement of similarly spelled name.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Daily Photos - Feb 2022</title>
       <link>https://ohio.araw.xyz/feb2022-photos/</link>
       <pubDate>Tue, 01 Feb 2022 23:24:14 +0800</pubDate>
@@ -1826,6 +1954,12 @@ It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion
         &lt;li&gt;&lt;a href=&#34;#entry--220&#34;&gt;Entry # 220&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--221&#34;&gt;Entry # 221&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--222&#34;&gt;Entry # 222&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--223&#34;&gt;Entry # 223&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--224&#34;&gt;Entry # 224&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--225&#34;&gt;Entry # 225&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--226&#34;&gt;Entry # 226&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--227&#34;&gt;Entry # 227&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--228&#34;&gt;Entry # 228&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#one-liners&#34;&gt;One-Liners&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
@@ -6369,6 +6503,96 @@ they are messed up, whatever it is they doing that is brute-some; and
 then some.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
+&lt;h3 id=&#34;entry--223&#34;&gt;Entry # 223&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 15 Jun 2015&lt;/p&gt;
+&lt;p&gt;however close you are to falling, however fatal the distance to ground,
+a part of you that assesses your position quickly kicks in.&lt;/p&gt;
+&lt;p&gt;you are now awake. panting, but alive again. and sweating.&lt;/p&gt;
+&lt;p&gt;you look around and see
+that your dog studies that egregious aesthetic of post-nightmare
+coming-to.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;what&amp;rsquo;s wrong, human?&amp;rdquo; the dog would say.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;nothing&lt;/em&gt;&amp;mdash;nothing in this world, or off of it, is ever safe.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--224&#34;&gt;Entry # 224&lt;/h3&gt;
+&lt;p&gt;Date: Fri, 19 Jun 2015&lt;/p&gt;
+&lt;p&gt;that part just before midnight when one complains that one is not
+getting enough sleep because of things that requires one&amp;rsquo;s full
+attention; and yet, here, inside this blue-less blue void of endless
+scrolling and unrequited text posts, one finds oneself murmuring, again,
+to an ancient, decrepit self, the crosses to be shouldered, the wounds
+to be tended, the feet that wouldn&amp;rsquo;t stand on themselves, the eyes
+emulating shutter sounds&amp;mdash;because when one works hard, the larks
+perched atop a gas station bow down.&lt;/p&gt;
+&lt;p&gt;one remembers one&amp;rsquo;s office, the
+corporate entanglement, the unnecessary po&amp;rsquo;s &amp;amp; opo&amp;rsquo;s; finds oneself
+somebody to exhume back from the growling pits of empty stomach, angry,
+determined, ultimately (yet casually) bored.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--225&#34;&gt;Entry # 225&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 29 Jun 2015&lt;/p&gt;
+&lt;p&gt;how many times have you died inside a train station? how many times have
+you accidentally elbowed a limp phallus (or any small area of soft
+tissue) because space reduces itself between people, occasionally doing
+haunts at prerogative stages of ride? how many pages have you read
+within a crowded car? how much time have you flung around sticking pens
+into various lungs inside your mind? how many billboards? how is it that
+you&amp;rsquo;re never late?&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--226&#34;&gt;Entry # 226&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 29 Jun 2015&lt;/p&gt;
+&lt;p&gt;what a nice step forward*!*&lt;/p&gt;
+&lt;p&gt;makes me think i, too, can do wonders. the
+constrictions of arteries within emerge victorious. a promising arch
+looms from biblical parodies, and better, more tasteful ways resurface
+to again invigorate us. the news slides to me in multiple hues of
+visible light. many people are overjoyed, and they type with same
+keystrokes with which to help them broadcast to the ever-attentive world
+how they feel: justice, fairness. but justice and fairness still has a
+long way to go. hate, sadly, prevails.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--227&#34;&gt;Entry # 227&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 30 Jun 2015&lt;/p&gt;
+&lt;p&gt;let my feet race each other through alleys of sarcoline filth. and my
+hunger despises its cocoon for the million ways i could have achieved
+its discoloration. and the apos and manangs who wave at my pale stature,
+beckoning to have a bite&amp;mdash;they all seem kind at first glance.&lt;/p&gt;
+&lt;p&gt;let the absence of food be the presence of force; or, the will to chop on whilst
+towering edifices resist the fall-down. i will gladly look forward to
+pauses, because it is during those that i cease inveighing the sum of
+external conundra. let my face reek of fodder every once in a while. and
+then bring me back to my feet so i can let them carry on on what they do
+best.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--228&#34;&gt;Entry # 228&lt;/h3&gt;
+&lt;p&gt;Date: Sat, 04 Jul 2015&lt;/p&gt;
+&lt;p&gt;doing unnecessary math to navigate the undecorated time.&lt;/p&gt;
+&lt;p&gt;overly hydrating around mates in a structured path because not much has been
+assigned to me, save for a few clerical errands.&lt;/p&gt;
+&lt;p&gt;sometimes, i demand perfect efficiency
+(or is it effectivity? effectiveness?) from myself
+with every delegated task. sometimes, i refill my container with cold
+water. again, to drink what is only free. again, to route the fluids to
+a chosen urinal. again, prior to routing weights to be jammed into a
+slit between tables. pissing the hours away as i try to improve myself
+all the while forgetting the primary functions of wheelies.&lt;/p&gt;
+&lt;p&gt;i compose as i decompose.&lt;/p&gt;
+&lt;p&gt;i give the face of time intermittent glances. either i have
+overused its purpose or i have succeeded at depleting my calories
+finding excessive ones with which to accomplish such obtuseness.&lt;/p&gt;
+&lt;p&gt;the evidence are in the cameras. they reel inside plastic domes that observe
+us from a ceiling fixture, although i believe that behind the actual
+screen on which the visuals are relayed, no one monitors us there. which
+make us free in this cage. and true enough, there have been rumors about
+missing pens, staplers, even items as detectable as dignity. i am at a
+beer hive, or at least i&amp;rsquo;d like to think so.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h3&gt;
 &lt;p&gt;Tweet-like witticisms back in the day.&lt;/p&gt;
 &lt;ol&gt;
@@ -6481,6 +6705,11 @@ is no option for me to go to except down.&lt;/li&gt;
 &lt;li&gt;interstellar 5555 directed by christopher nolan&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;n&lt;/em&gt; reasons why &amp;ldquo;&lt;em&gt;n&lt;/em&gt;&amp;rdquo; should be a counting number&lt;/li&gt;
 &lt;li&gt;gods bark there at the distance&lt;/li&gt;
+&lt;li&gt;okay but plutonic kisses&lt;/li&gt;
+&lt;li&gt;thank the soundtracks crafted through osmosis (and, of course, the
+soulful people behind each of them) for saving semi-okay films, thus
+making life spent watching less disappointing.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;indistinct chatter at the tapsilugan&lt;/em&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 

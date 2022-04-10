@@ -5277,6 +5277,118 @@ then some.
 
 {{< btt >}}
 
+### Entry # 223
+
+Date: Mon, 15 Jun 2015
+
+however close you are to falling, however fatal the distance to ground,
+a part of you that assesses your position quickly kicks in.
+
+you are now awake. panting, but alive again. and sweating.
+
+you look around and see
+that your dog studies that egregious aesthetic of post-nightmare
+coming-to.
+
+"what's wrong, human?" the dog would say.
+
+*nothing*---nothing in this world, or off of it, is ever safe.
+
+{{< btt >}}
+
+### Entry # 224
+Date: Fri, 19 Jun 2015
+
+that part just before midnight when one complains that one is not
+getting enough sleep because of things that requires one's full
+attention; and yet, here, inside this blue-less blue void of endless
+scrolling and unrequited text posts, one finds oneself murmuring, again,
+to an ancient, decrepit self, the crosses to be shouldered, the wounds
+to be tended, the feet that wouldn't stand on themselves, the eyes
+emulating shutter sounds---because when one works hard, the larks
+perched atop a gas station bow down.
+
+one remembers one's office, the
+corporate entanglement, the unnecessary po's & opo's; finds oneself
+somebody to exhume back from the growling pits of empty stomach, angry,
+determined, ultimately (yet casually) bored.
+
+{{< btt >}}
+
+### Entry # 225
+Date: Mon, 29 Jun 2015
+
+how many times have you died inside a train station? how many times have
+you accidentally elbowed a limp phallus (or any small area of soft
+tissue) because space reduces itself between people, occasionally doing
+haunts at prerogative stages of ride? how many pages have you read
+within a crowded car? how much time have you flung around sticking pens
+into various lungs inside your mind? how many billboards? how is it that
+you're never late?
+
+{{< btt >}}
+### Entry # 226
+Date: Mon, 29 Jun 2015
+
+what a nice step forward*!*
+
+makes me think i, too, can do wonders. the
+constrictions of arteries within emerge victorious. a promising arch
+looms from biblical parodies, and better, more tasteful ways resurface
+to again invigorate us. the news slides to me in multiple hues of
+visible light. many people are overjoyed, and they type with same
+keystrokes with which to help them broadcast to the ever-attentive world
+how they feel: justice, fairness. but justice and fairness still has a
+long way to go. hate, sadly, prevails.
+
+{{< btt >}}
+
+### Entry # 227
+Date: Tue, 30 Jun 2015
+
+let my feet race each other through alleys of sarcoline filth. and my
+hunger despises its cocoon for the million ways i could have achieved
+its discoloration. and the apos and manangs who wave at my pale stature,
+beckoning to have a bite---they all seem kind at first glance.
+
+let the absence of food be the presence of force; or, the will to chop on whilst
+towering edifices resist the fall-down. i will gladly look forward to
+pauses, because it is during those that i cease inveighing the sum of
+external conundra. let my face reek of fodder every once in a while. and
+then bring me back to my feet so i can let them carry on on what they do
+best.
+
+{{< btt >}}
+### Entry # 228
+Date: Sat, 04 Jul 2015
+
+doing unnecessary math to navigate the undecorated time.
+
+overly hydrating around mates in a structured path because not much has been
+assigned to me, save for a few clerical errands.
+
+sometimes, i demand perfect efficiency
+(or is it effectivity? effectiveness?) from myself
+with every delegated task. sometimes, i refill my container with cold
+water. again, to drink what is only free. again, to route the fluids to
+a chosen urinal. again, prior to routing weights to be jammed into a
+slit between tables. pissing the hours away as i try to improve myself
+all the while forgetting the primary functions of wheelies.
+
+i compose as i decompose.
+
+i give the face of time intermittent glances. either i have
+overused its purpose or i have succeeded at depleting my calories
+finding excessive ones with which to accomplish such obtuseness.
+
+the evidence are in the cameras. they reel inside plastic domes that observe
+us from a ceiling fixture, although i believe that behind the actual
+screen on which the visuals are relayed, no one monitors us there. which
+make us free in this cage. and true enough, there have been rumors about
+missing pens, staplers, even items as detectable as dignity. i am at a
+beer hive, or at least i'd like to think so.
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -5390,6 +5502,11 @@ is no option for me to go to except down.
 1. interstellar 5555 directed by christopher nolan
 1. *n* reasons why "*n*" should be a counting number
 1. gods bark there at the distance
+1. okay but plutonic kisses
+1. thank the soundtracks crafted through osmosis (and, of course, the
+soulful people behind each of them) for saving semi-okay films, thus
+making life spent watching less disappointing.
+1. *indistinct chatter at the tapsilugan*
 
 {{< btt >}}
 
