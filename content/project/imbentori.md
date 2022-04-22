@@ -5389,7 +5389,22 @@ missing pens, staplers, even items as detectable as dignity. i am at a
 beer hive, or at least i'd like to think so.
 
 {{< btt >}}
+### Entry # 229
+Date: Wed, 08 Jul 2015
 
+the forms have taken over the suits of villains. most of them are men,
+those who reciprocate kindness with impolite contours. i remember seeing
+a bearded figure from a window bus as we passed along leveriza;
+underneath the rain he smacked a woman who seemed to be his wife in
+front of the by-standers at nearby kiosks. woman shrieked while
+retreating. everything was in effect, in sums of violences, from gashing
+particulates to blobs that fossilized on damaged area. we grow not
+because it is the best way to utilize our duration, but we grow to meet
+an endowment with a brutal contraption. i am not afraid of the absence
+of light. in fact, i would have skated on its blunt edge had i known how
+to do that. even with soggy socks.
+
+{{< btt >}}
 ### One-Liners
 Tweet-like witticisms back in the day.
 

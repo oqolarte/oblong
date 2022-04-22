@@ -105,14 +105,9 @@ although this can still be modified.
 
 {{< btt >}}
 ## Search Engines
-- [DuckDuckGo](https://duckduckgo.com/) -- my default search engine in my main
-  computer.
-In my Suckless Surf browser,
-I use the lite version: https://lite.duckduckgo.com/lite
+- [Searx](https://searx.be/) -- the meta-search engine I use daily.
 - [Startpage](https://www.startpage.com/) -- the default search engine I set up
   in my work computer
-- [Searx](https://searx.space/) -- the meta-search engine I use for looking up
-  on more obscure topics
 
 {{< btt >}}
 ## Email Client
@@ -137,8 +132,9 @@ In the future, I plan to move to TUI email clients like
 {{< btt >}}
 ## Email Providers
 
-- [Migadu](https://www.migadu.com/)
-- [Tutanota](https://tutanota.com/)
+- [Migadu](https://www.migadu.com/) - paid service with a very affordable price.
+- [Tutanota](https://tutanota.com/) - freemium service with end-to-end
+  encryption turned on by default.
 
 {{< btt >}}
 ## Torrent Client
@@ -185,6 +181,5 @@ and Twitter---in this case, that one person is me.
 and watch it with [mpv](https://mpv.io)
 - [PeerTube](https://joinpeertube.org/) -- Not really YouTube per se.
 A decentralized alternative to video sharing platforms.
-
 
 {{< btt >}}

@@ -17,8 +17,8 @@ I thought it was an exciting venue to be in.
 Looking back at it now,
 I think it was a waste of money.
 
-I remember still that the building had a brutalist facade,
-although I didn't know then what a brutalist design is,
+I remember still the building had a brutalist facade,
+although I didn't know then what a brutalist design was,
 nor did I appreciate it.
 The building looked stiff enough in its greyness and roughness,
 and that was it.

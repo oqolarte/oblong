@@ -30,7 +30,8 @@ text-only news sites.&lt;/p&gt;
 the implementation would have been simple, too.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
@@ -39,6 +40,7 @@ the implementation would have been simple, too.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#abandoning-the-project-for-now&#34;&gt;Abandoning the Project (for now?)&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -155,7 +157,8 @@ process it however I like&amp;mdash;likely through dithering and/or compression&
 share it here.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#tools&#34;&gt;Tools&lt;/a&gt;&lt;/li&gt;
@@ -190,6 +193,7 @@ share it here.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#final-thoughts&#34;&gt;Final Thoughts&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
@@ -516,7 +520,8 @@ whether we like it or not.&lt;/p&gt;
 &lt;p&gt;Listed here are the programs I use on a regular basis.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#operating-system&#34;&gt;Operating System&lt;/a&gt;
@@ -547,6 +552,7 @@ whether we like it or not.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#youtube-alternatives&#34;&gt;YouTube Alternatives&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;operating-system&#34;&gt;Operating System&lt;/h2&gt;
@@ -632,14 +638,9 @@ although this can still be modified.&lt;/dd&gt;
 
 &lt;h2 id=&#34;search-engines&#34;&gt;Search Engines&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt; &amp;ndash; my default search engine in my main
-computer.
-In my Suckless Surf browser,
-I use the lite version: &lt;a href=&#34;https://lite.duckduckgo.com/lite&#34;&gt;https://lite.duckduckgo.com/lite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://searx.be/&#34;&gt;Searx&lt;/a&gt; &amp;ndash; the meta-search engine I use daily.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.startpage.com/&#34;&gt;Startpage&lt;/a&gt; &amp;ndash; the default search engine I set up
 in my work computer&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://searx.space/&#34;&gt;Searx&lt;/a&gt; &amp;ndash; the meta-search engine I use for looking up
-on more obscure topics&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -665,8 +666,9 @@ on more obscure topics&lt;/li&gt;
 
 &lt;h2 id=&#34;email-providers&#34;&gt;Email Providers&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.migadu.com/&#34;&gt;Migadu&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://tutanota.com/&#34;&gt;Tutanota&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.migadu.com/&#34;&gt;Migadu&lt;/a&gt; - paid service with a very affordable price.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tutanota.com/&#34;&gt;Tutanota&lt;/a&gt; - freemium service with end-to-end
+encryption turned on by default.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -746,7 +748,8 @@ and worse.&lt;/p&gt;
 I will polish them when I find time.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#definition&#34;&gt;Definition&lt;/a&gt;&lt;/li&gt;
@@ -769,6 +772,7 @@ I will polish them when I find time.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#non-probability-sampling&#34;&gt;Non-probability Sampling&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
@@ -1032,7 +1036,8 @@ Doing so, in my case, would result in a terrible experience.&lt;/p&gt;
 the same laptop that I originally planned to be my &lt;a href=&#34;https://ohio.araw.xyz/server&#34;&gt;homebrew server&lt;/a&gt;.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#hardware&#34;&gt;Hardware&lt;/a&gt;
@@ -1076,6 +1081,7 @@ the same laptop that I originally planned to be my &lt;a href=&#34;https://ohio.
     &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;hardware&#34;&gt;Hardware&lt;/h2&gt;
@@ -1491,7 +1497,8 @@ riffed from a combination of Carroll&amp;rsquo;s and others&#39; minimal designs
 &lt;p&gt;Marked as &lt;strong&gt;on-going&lt;/strong&gt; because I&amp;rsquo;m always revising my bujo ways.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#materials&#34;&gt;Materials&lt;/a&gt;
@@ -1518,6 +1525,7 @@ riffed from a combination of Carroll&amp;rsquo;s and others&#39; minimal designs
     &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
@@ -1721,7 +1729,8 @@ It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion
 &lt;p&gt;In the meantime, read the foreword I drafted some time ago for this would-be collection of personal essays.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#foreword&#34;&gt;Foreword&lt;/a&gt;
@@ -1960,11 +1969,13 @@ It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion
         &lt;li&gt;&lt;a href=&#34;#entry--226&#34;&gt;Entry # 226&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--227&#34;&gt;Entry # 227&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--228&#34;&gt;Entry # 228&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--229&#34;&gt;Entry # 229&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#one-liners&#34;&gt;One-Liners&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;foreword&#34;&gt;Foreword&lt;/h2&gt;
@@ -6593,6 +6604,21 @@ missing pens, staplers, even items as detectable as dignity. i am at a
 beer hive, or at least i&amp;rsquo;d like to think so.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
+&lt;h3 id=&#34;entry--229&#34;&gt;Entry # 229&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 08 Jul 2015&lt;/p&gt;
+&lt;p&gt;the forms have taken over the suits of villains. most of them are men,
+those who reciprocate kindness with impolite contours. i remember seeing
+a bearded figure from a window bus as we passed along leveriza;
+underneath the rain he smacked a woman who seemed to be his wife in
+front of the by-standers at nearby kiosks. woman shrieked while
+retreating. everything was in effect, in sums of violences, from gashing
+particulates to blobs that fossilized on damaged area. we grow not
+because it is the best way to utilize our duration, but we grow to meet
+an endowment with a brutal contraption. i am not afraid of the absence
+of light. in fact, i would have skated on its blunt edge had i known how
+to do that. even with soggy socks.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h3&gt;
 &lt;p&gt;Tweet-like witticisms back in the day.&lt;/p&gt;
 &lt;ol&gt;
@@ -6769,7 +6795,8 @@ This isn&amp;rsquo;t necessarily a step-by-step guide, and shouldn&amp;rsquo;t b
 This is an attempt to document the process through a crappy camera and poor lighting that I have.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#getting-what-i-need&#34;&gt;Getting what I need&lt;/a&gt;
@@ -6794,6 +6821,7 @@ This is an attempt to document the process through a crappy camera and poor ligh
     &lt;li&gt;&lt;a href=&#34;#then-comes-the-music&#34;&gt;&amp;hellip;then comes the music&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;getting-what-i-need&#34;&gt;Getting what I need&lt;/h2&gt;
@@ -7032,7 +7060,8 @@ Status:
 &lt;p&gt;Here is an attempt to document the entire process.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#scope-of-work&#34;&gt;Scope of Work&lt;/a&gt;&lt;/li&gt;
@@ -7046,6 +7075,7 @@ Status:
     &lt;li&gt;&lt;a href=&#34;#recommendations&#34;&gt;Recommendation/s&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;scope-of-work&#34;&gt;Scope of Work&lt;/h2&gt;
@@ -7179,7 +7209,8 @@ The website shall mirror the contents of the shop&amp;rsquo;s other social media
 Let me explain.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#design-choices&#34;&gt;Design Choices&lt;/a&gt;
@@ -7205,6 +7236,7 @@ Let me explain.&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;design-choices&#34;&gt;Design Choices&lt;/h2&gt;
@@ -7362,7 +7394,8 @@ servers &lt;em&gt;on-prem&lt;/em&gt; (i.e. in our home) may not be a good idea a
 &lt;p&gt;Below the line is an archive of my notes, incomplete as is.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#brief&#34;&gt;Brief&lt;/a&gt;&lt;/li&gt;
@@ -7400,6 +7433,7 @@ servers &lt;em&gt;on-prem&lt;/em&gt; (i.e. in our home) may not be a good idea a
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;brief&#34;&gt;Brief&lt;/h2&gt;
@@ -7785,7 +7819,8 @@ the design of which is an accurate depiction of my knack for simplicity.&lt;/p&g
 this site is always under construction.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
-  &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#digital-garden&#34;&gt;Digital Garden&lt;/a&gt;
@@ -7817,6 +7852,7 @@ this site is always under construction.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
+  &lt;/details&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
