@@ -31,9 +31,9 @@ my inbox welcomes those as well.
 Feel free to message me!
 
 ## Financial support
-- [Liberapay](https://liberapay.com/oqo_frxbj/donate)
+- [Liberapay](https://liberapay.com/oqo_frxbj/donate) ![Libera goal stat](https://img.shields.io/liberapay/goal/oqo_frxbj.svg?logo=liberapay)
 - [Paypal](https://paypal.me/oqolarte)
-- [BPI QR Code](/image/BPIQR_OQO.png)
+- [BPI QR Code](/image/BPIQR_OQO.png) (Philippines only)
 
 I don't like cryptocurrencies for various reasons, so I don't have wallets for those.
 

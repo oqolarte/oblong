@@ -11,6 +11,56 @@
     
     
     <item>
+      <title>Knowing Here</title>
+      <link>https://ohio.araw.xyz/here/</link>
+      <pubDate>Sun, 01 May 2022 18:46:15 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/here/</guid>
+      <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
+Status:
+&lt;strong&gt;ON-GOING&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;For the month of May 2022,
+I&amp;rsquo;ll attempt to get to know more where I currently am.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Inspired by Kevin Kelly&amp;rsquo;s &lt;a href=&#34;https://kk.org/thetechnium/the-big-here-quiz/&#34;&gt;The Big Here Quiz&lt;/a&gt;,&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;
+which in turn is inspired by Peter Warshall,
+naturalist extraordinaire.&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#point-north&#34;&gt;Point North&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;point-north&#34;&gt;Point North&lt;/h2&gt;
+&lt;p&gt;Facing the house from the street,
+North would be between 10 and 11 o&amp;rsquo;clock direction.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;This doesn&amp;rsquo;t necessarily mean I&amp;rsquo;ll be mentioning the exact address of
+where I currently am.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;I won&amp;rsquo;t be taking this as a quiz,
+but will conduct a research for each item.
+So, this will definitely be an internet-assisted effort.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dada: Text-only Local News</title>
       <link>https://ohio.araw.xyz/dada/</link>
       <pubDate>Sun, 10 Apr 2022 01:35:49 +0800</pubDate>
@@ -38,6 +88,7 @@ the implementation would have been simple, too.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#why-why-not&#34;&gt;Why? Why not?&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#inspiration&#34;&gt;Inspiration&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#abandoning-the-project-for-now&#34;&gt;Abandoning the Project (for now?)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#recommendations&#34;&gt;Recommendations&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -128,6 +179,19 @@ Here are some, that are still live and kept up to date:&lt;/p&gt;
 &lt;p&gt;I personally don&amp;rsquo;t want to make something I wouldn&amp;rsquo;t regularly use.&lt;/p&gt;
 &lt;p&gt;Now, I&amp;rsquo;m not a fan of news sites to begin with,
 nor do I consume news all that much.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;recommendations&#34;&gt;Recommendations&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Implement this using a POSIX shell script.
+Scrape content from news sites,
+and format it in HTML + CSS on the local machine,
+before pushing to live server.&lt;/li&gt;
+&lt;li&gt;Implement this using Python,
+possibly by combining Beautiful Soup and Flask.&lt;/li&gt;
+&lt;li&gt;Implement by using your favorite programming language
+(C and Go comes to mind).&lt;/li&gt;
+&lt;/ol&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
@@ -1970,6 +2034,12 @@ It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion
         &lt;li&gt;&lt;a href=&#34;#entry--227&#34;&gt;Entry # 227&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--228&#34;&gt;Entry # 228&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--229&#34;&gt;Entry # 229&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--230&#34;&gt;Entry # 230&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--231&#34;&gt;Entry # 231&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--232&#34;&gt;Entry # 232&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--233&#34;&gt;Entry # 233&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--234&#34;&gt;Entry # 234&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--235&#34;&gt;Entry # 235&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#one-liners&#34;&gt;One-Liners&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
@@ -6619,6 +6689,112 @@ of light. in fact, i would have skated on its blunt edge had i known how
 to do that. even with soggy socks.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
+&lt;h3 id=&#34;entry--230&#34;&gt;Entry # 230&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 14 Jul 2015&lt;/p&gt;
+&lt;p&gt;i don&amp;rsquo;t understand: a few months ago, i had mired myself in a prima
+facie notion of escaping my own futile discourse here with metro
+manila&amp;rsquo;s persona, so unoriginally chic during that time, partly because
+emotional clouds hung quite low about.&lt;/p&gt;
+&lt;p&gt;manila is a more decrepit version
+of new york or tokyo admixed with brownian cunning; and, i thought, &amp;ldquo;the
+sooner i hike a bus or boat or plane out of here, the better preserved
+will the rest of me be.&amp;rdquo; and now that work literally kicks me to fly to
+places i have never been, i realize that a huge part of me resists
+leaving. that this has been me all along: unswept corridors of ammonia,
+loud horns, crying stuck-ups with their placards of hope. this has been
+me&amp;hellip; and the sooner i hike a bus or boat or plane out of here, the
+better.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--231&#34;&gt;Entry # 231&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 16 Jul 2015&lt;/p&gt;
+&lt;p&gt;whatever passes the rigorous shoulder-shaking when one enumerates good
+things with one&amp;rsquo;s digits, unabashed is one to consider them goodies as
+basic as breathing oxygen or drinking water. and so, when a superior
+handed (or, more appropriately, burdened) me down with two, nay, three
+volumes of electrical codes (that i have been &lt;em&gt;d y i n g&lt;/em&gt; to lay my
+hands on) dating around the dawn of second millenium, i did not mind. i
+did not mind, even though each volume has had at least one revision over
+the last decade, and that each is as bulky as a burger machine. i did
+not mind at all. besides, if anyone must know, reading outdated
+textbooks &lt;em&gt;is&lt;/em&gt; my jam.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--232&#34;&gt;Entry # 232&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 20 Jul 2015&lt;/p&gt;
+&lt;p&gt;the key in expression is to have a very good grasp of the basic syntax
+before one is allowed to break some rules into unknowable tidbits in
+one&amp;rsquo;s little blue corner. in my case, the only purpose is to chalk up
+amateur depth in my way of being for on-lookers to analyze. and so,
+here: analyze.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--233&#34;&gt;Entry # 233&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 22 Jul 2015&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;pro tip:&lt;/strong&gt; all allegedly discussed souvenirs for your
+predestination-paradox self lies somewhere in the knot of tenses,
+somewhere in the itch of it all that this attempts to unveil. all sorts
+of discomfort and irony around you, people tend to personify into
+existence. you ask, &amp;ldquo;are you cutesy?&amp;rdquo; when people evolve to cynics at
+rapid rate. you ask, &amp;ldquo;are you famished?&amp;rdquo; when same people provide less
+space for lonely those. greylings cascade down with every beat at every
+turn of every twisted whim. you ask when the future succeeds to fail
+you, and i am then bound to answer my mistakes. i tell you to never
+attach any sentiments with lifelong web-spinning harmony. later on in
+life, some crisis will personify itself into existence, and it will drag
+along your tune. you would have to orchestrate an exit from this, lest
+you implode. think of &lt;em&gt;a clockwork orange&lt;/em&gt;. also, never try it with
+scents. you ask, &amp;ldquo;and the &amp;lsquo;viddy&amp;rsquo;?&amp;rdquo; especially not with visuals.
+consider me in your scope: my fields were ideal, but i have aimed lower
+since i saw myself when i was 42 and nothing turned out quite well.
+really, i have aimed lower, like wall fan low. also, never attach any
+memento to taste, as romantic as it may sound, as falsifiable as it
+seems. in fact, suppress most of your senses as something happens on the
+get-go, and learn to grow wooden roots. be a plant, instead. be balete
+and give your ghosts a shade.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--234&#34;&gt;Entry # 234&lt;/h3&gt;
+&lt;p&gt;Date: Fri, 24 Jul 2015&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;boss,&amp;rdquo; i said, through octopus-chasing-fish arms and some wobbly
+legs, &amp;ldquo;i need some time off.&amp;rdquo; the exact date and time does not
+matter, as long as from day one to day &lt;em&gt;n&lt;/em&gt; it is fully paid.&lt;/p&gt;
+&lt;p&gt;the world out there already is slick with acrylic, carbon, and methanol;
+the world, both capable and incapable, patiently arrests every day from
+hectic Being. all of it to be maneuvered across vast canvas as a
+pixel of immemorial doom.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;boss,&amp;rdquo; i wrote, &amp;ldquo;i would have handed you the
+list of things to buy, which included, but are not limited to,
+*a *hubble space telescope, happyness, and un-folding bike; however, the
+biped specimen you keep in front of your office to overlord us lesser
+specimens&amp;mdash;the one with a handsome face yet disproportionate vino belly&amp;mdash;told
+me that you would have none of it. and so, here i go directly to
+you, hoping for you to consider my position.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;but before investing on
+that muscovado Mut, i had already resigned to my cubicle and flicked
+through my head for some used tease ballads for a low-cost
+meditation. &amp;ldquo;if you were paying attention,&amp;rdquo; the remarkable voice said
+(i, honored that it acknowledged me after &lt;em&gt;n&lt;/em&gt; days, listened), &amp;ldquo;then you
+know that at least this day has been a good effort on your end.&amp;rdquo;&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--235&#34;&gt;Entry # 235&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 29 Jul 2015&lt;/p&gt;
+&lt;p&gt;anything across lips is merely a stretch mark. any mumbled space-junkie
+intuition hurled from the hangar of neurons barely passes as a midget of
+thought, if at all. slave of cerveza beyond doubt, iconic among my
+peers, because after fifteen months of fruitless search for something to
+aim with, what better way to rise from the rashes than to spelunk into a
+spunk of malt, etc?&lt;/p&gt;
+&lt;p&gt;but who am i really? another hole in Sagan&amp;rsquo;s
+stardust to stitch? i am as blue as my Corona journal, although not as
+busy. i have kept track on finite lists to set at the bottom, a safety
+bet against plan-b mishaps.&lt;/p&gt;
+&lt;p&gt;however, on a blink of choice, the
+enterprise shifts into a one-dimensional chain reaction; and before
+results are apparent many good times might have slipped unnoticed.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h3&gt;
 &lt;p&gt;Tweet-like witticisms back in the day.&lt;/p&gt;
 &lt;ol&gt;
@@ -6736,6 +6912,7 @@ is no option for me to go to except down.&lt;/li&gt;
 soulful people behind each of them) for saving semi-okay films, thus
 making life spent watching less disappointing.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;indistinct chatter at the tapsilugan&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;beam me up, scully&lt;/li&gt;
 &lt;/ol&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -7644,7 +7821,7 @@ In my Debian-like system, I installed &lt;code&gt;dosfstools&lt;/code&gt;.
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script -- mklabel msdos
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;I specified that the whole drive must be of FAT32 file system, primary partition type:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script -- mkpart primary fat32 1MiB 100%
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Format the drive to FAT32:
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo mkfs.fat -F &lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt; -I /dev/sdc

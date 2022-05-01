@@ -5405,6 +5405,130 @@ of light. in fact, i would have skated on its blunt edge had i known how
 to do that. even with soggy socks.
 
 {{< btt >}}
+### Entry # 230
+Date: Tue, 14 Jul 2015
+
+i don't understand: a few months ago, i had mired myself in a prima
+facie notion of escaping my own futile discourse here with metro
+manila's persona, so unoriginally chic during that time, partly because
+emotional clouds hung quite low about.
+
+manila is a more decrepit version
+of new york or tokyo admixed with brownian cunning; and, i thought, "the
+sooner i hike a bus or boat or plane out of here, the better preserved
+will the rest of me be." and now that work literally kicks me to fly to
+places i have never been, i realize that a huge part of me resists
+leaving. that this has been me all along: unswept corridors of ammonia,
+loud horns, crying stuck-ups with their placards of hope. this has been
+me... and the sooner i hike a bus or boat or plane out of here, the
+better.
+
+{{< btt >}}
+### Entry # 231
+
+Date: Thu, 16 Jul 2015
+
+whatever passes the rigorous shoulder-shaking when one enumerates good
+things with one's digits, unabashed is one to consider them goodies as
+basic as breathing oxygen or drinking water. and so, when a superior
+handed (or, more appropriately, burdened) me down with two, nay, three
+volumes of electrical codes (that i have been *d y i n g* to lay my
+hands on) dating around the dawn of second millenium, i did not mind. i
+did not mind, even though each volume has had at least one revision over
+the last decade, and that each is as bulky as a burger machine. i did
+not mind at all. besides, if anyone must know, reading outdated
+textbooks *is* my jam.
+
+{{< btt >}}
+### Entry # 232
+
+Date: Mon, 20 Jul 2015
+
+the key in expression is to have a very good grasp of the basic syntax
+before one is allowed to break some rules into unknowable tidbits in
+one's little blue corner. in my case, the only purpose is to chalk up
+amateur depth in my way of being for on-lookers to analyze. and so,
+here: analyze.
+
+{{< btt >}}
+### Entry # 233
+
+Date: Wed, 22 Jul 2015
+
+**pro tip:** all allegedly discussed souvenirs for your
+predestination-paradox self lies somewhere in the knot of tenses,
+somewhere in the itch of it all that this attempts to unveil. all sorts
+of discomfort and irony around you, people tend to personify into
+existence. you ask, "are you cutesy?" when people evolve to cynics at
+rapid rate. you ask, "are you famished?" when same people provide less
+space for lonely those. greylings cascade down with every beat at every
+turn of every twisted whim. you ask when the future succeeds to fail
+you, and i am then bound to answer my mistakes. i tell you to never
+attach any sentiments with lifelong web-spinning harmony. later on in
+life, some crisis will personify itself into existence, and it will drag
+along your tune. you would have to orchestrate an exit from this, lest
+you implode. think of *a clockwork orange*. also, never try it with
+scents. you ask, "and the 'viddy'?" especially not with visuals.
+consider me in your scope: my fields were ideal, but i have aimed lower
+since i saw myself when i was 42 and nothing turned out quite well.
+really, i have aimed lower, like wall fan low. also, never attach any
+memento to taste, as romantic as it may sound, as falsifiable as it
+seems. in fact, suppress most of your senses as something happens on the
+get-go, and learn to grow wooden roots. be a plant, instead. be balete
+and give your ghosts a shade.
+
+{{< btt >}}
+### Entry # 234
+
+Date: Fri, 24 Jul 2015
+
+"boss," i said, through octopus-chasing-fish arms and some wobbly
+legs, "i need some time off." the exact date and time does not
+matter, as long as from day one to day *n* it is fully paid.
+
+the world out there already is slick with acrylic, carbon, and methanol;
+the world, both capable and incapable, patiently arrests every day from
+hectic Being. all of it to be maneuvered across vast canvas as a
+pixel of immemorial doom.
+
+"boss," i wrote, "i would have handed you the
+list of things to buy, which included, but are not limited to,
+*a *hubble space telescope, happyness, and un-folding bike; however, the
+biped specimen you keep in front of your office to overlord us lesser
+specimens---the one with a handsome face yet disproportionate vino belly---told
+me that you would have none of it. and so, here i go directly to
+you, hoping for you to consider my position."
+
+but before investing on
+that muscovado Mut, i had already resigned to my cubicle and flicked
+through my head for some used tease ballads for a low-cost
+meditation. "if you were paying attention," the remarkable voice said
+(i, honored that it acknowledged me after *n* days, listened), "then you
+know that at least this day has been a good effort on your end."
+
+{{< btt >}}
+### Entry # 235
+
+Date: Wed, 29 Jul 2015
+
+anything across lips is merely a stretch mark. any mumbled space-junkie
+intuition hurled from the hangar of neurons barely passes as a midget of
+thought, if at all. slave of cerveza beyond doubt, iconic among my
+peers, because after fifteen months of fruitless search for something to
+aim with, what better way to rise from the rashes than to spelunk into a
+spunk of malt, etc?
+
+but who am i really? another hole in Sagan's
+stardust to stitch? i am as blue as my Corona journal, although not as
+busy. i have kept track on finite lists to set at the bottom, a safety
+bet against plan-b mishaps.
+
+however, on a blink of choice, the
+enterprise shifts into a one-dimensional chain reaction; and before
+results are apparent many good times might have slipped unnoticed.
+
+
+{{< btt >}}
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -5522,6 +5646,7 @@ is no option for me to go to except down.
 soulful people behind each of them) for saving semi-okay films, thus
 making life spent watching less disappointing.
 1. *indistinct chatter at the tapsilugan*
+1. beam me up, scully
 
 {{< btt >}}
 

@@ -306,7 +306,7 @@ However, the USB drive to which I would save these must be **formatted as FAT32*
         ```
     1. I specified that the whole drive must be of FAT32 file system, primary partition type:
         ```shell
-        sudo parted /dev/sdb --script -- mkpart primary fat32 1MiB 100%
+        sudo parted /dev/sdc --script -- mkpart primary fat32 1MiB 100%
         ```
     1. Format the drive to FAT32:
         ```shell

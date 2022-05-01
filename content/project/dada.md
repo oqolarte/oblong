@@ -79,3 +79,15 @@ I personally don't want to make something I wouldn't regularly use.
 
 Now, I'm not a fan of news sites to begin with,
 nor do I consume news all that much.
+
+{{< btt >}}
+## Recommendations
+
+1. Implement this using a POSIX shell script.
+Scrape content from news sites,
+and format it in HTML + CSS on the local machine,
+before pushing to live server.
+1. Implement this using Python,
+possibly by combining Beautiful Soup and Flask.
+1. Implement by using your favorite programming language
+(C and Go comes to mind).
