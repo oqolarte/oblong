@@ -5529,6 +5529,180 @@ results are apparent many good times might have slipped unnoticed.
 
 
 {{< btt >}}
+### Entry # 236
+
+Date: Sun, 02 Aug 2015
+
+what better way to outdo the existing mode within an urban area
+populated by high-rise buildings and seldom trees than to coalesce with
+plot twists of matrix, to dot the spacetime with occupational errors?
+
+what better way to draw lines among cotton clouds than to let them be
+drawn towards you? the point of having matters at hand is generally
+uplifting. but when the hand turns the knob and the door swings open and
+your eyes quickly fix on a stranger sleeping in your space, something
+happens in the matrix. something flips the protective device. you take a
+look around and start to scrunge sharp items at this lecherous creature.
+
+
+{{< btt >}}
+### Entry # 237
+
+Date: Fri, 07 Aug 2015
+
+when i ordered a double-shot espresso, Ms. Barista wondered. perhaps,
+to her, my ragged outfit could not justify neither my presence in such a
+coffee shop nor my, *mm*, impeccable taste.
+
+i don't blame her; kids these
+days are so fond of cold and creamy and sweet drinks. it did not help
+that i told her my name is [REDACTED].
+
+my co-worker who was with me at the
+time was laughing all the while i flicked through alibis worth
+mentioning. so, we had our coffee. after downing mine in an instant,
+feeling bitin, i went back to her and ordered their today's-special lung
+ching dragonwell tea. not bad.
+
+...
+
+the many repositories of dreams rising in the wet air lacked color. they
+had been washed with hours of raining. the depot visit and the pier
+inspection were exhausting, but not as much as the traffic jams that
+seemed to lock vehicles in their place. what is happening to you,
+manila?
+
+{{< btt >}}
+### Entry # 238
+
+Date: Fri, 07 Aug 2015
+
+the ghosts of all the friend dogs whose coats i smoothed, your dreams
+were childlike even if i can never surmise them into my human
+translation. and i meant that as a good thing, since it is probable that
+i will never have kids, and all of you have been the closest to my
+having one. i wish there were a dog memory bank, and from it i could tap
+tap tap...
+
+
+{{< btt >}}
+### Entry # 239
+
+Date: Mon, 10 Aug 2015
+
+the east of a passing earth, before ranting of pre-babylon slams, was
+split into many shards while the sky itself simply accepted its shedding
+of multiple layers of skin. flecks of time on my nape brushed, and an
+ever-perennial manna knocked twice, thrice on a clogged nose. some say
+it is the season of sickness, some say a culture of post-resurrection
+destruction. so i sleep with my skullcap on even nothing abed is wrong
+and dilute the brine with glands and fitting however untested they are.
+
+{{< btt >}}
+### Entry # 240
+
+Date: Thu, 13 Aug 2015
+
+all the minor spinning gestures of hand spun around a cold air complex
+like pinwheel moved by breath; and by the window, the rush of wheels
+hummed whenever the circle lit green. sometimes, out of curiosity, one
+peeks out of the glass into the faraway holes of edifices, wondering who
+or what could have been transpiring behind those idle curtains. but the
+greyness of mist alters the visible with how motes of toxin continue
+their hype of damascened invasion. maybe it was not the outside world
+that i should speak about, but who was near me at the time: a bundle of
+flesh held by nuisance, a keen sense of wont for
+strangers-turning-friends. maybe this should not be a travelogue of one
+butaw but an open-ended boy-greets-girl tale. un/fortunately, this is
+not any of the mentioned.
+
+{{< btt >}}
+### Entry # 241
+
+Date: Tue, 18 Aug 2015
+
+As casual clothing settled the scene, as fraud conjurations of
+how-art-thou's carouseled from person to person, there hung somewhere an
+imagined tension when lamps closed their eyes and snuffed the din from
+air. Confusion greeted people as though an accomplice passing by to
+remind of the indelible horrors they had spray-painted together one
+night. But it was thought to be day. Not entirely was the din muted,
+however. In fact, the instant after the dark bit, everyone was close to
+hysterical. When the lights flickered again, and the piercing tone that
+followed had gone to another place, people realized that it was not a
+trick. The surprise groped them by the chest; and soon, heart, sinew,
+and splendid callings contested the visions of our kindred spirits that
+did not know when and where to place said items.
+
+{{< btt >}}
+### Entry # 242
+
+Date: Wed, 26 Aug 2015
+
+if a person is ultimately limited by myopic projections of self into the
+future deemed a greener pasture, then that person, in one way or
+another, somehow has predestined themself to do anything just so such
+projections would materialize, although the term 'anything' encompasses
+a general lot.
+
+it is not a blanket testament with which to contrast past
+with present with future self. it merely is (well, to me) the most
+brutal a person can get.
+
+'anything could happen and the world resembles the genitals of an oyster'
+is talking high likeliness of success here.
+i myself could not believe it at first, that these people exist, until
+i've met them in person. alcohol tricks them into voicing their
+aspirations. i've heard of guns, i've heard of meticulous premeditation,
+left, right jaunts to querida's night post, and so on; and through all
+these monologues, i have no choice but to keep it to myself, smile,
+maybe aggressively nod my shrunken head. at some point, they could bend
+some without breaking some... there has to be a counterculture for this
+one that tolerates person-to-person infection of ideals as one tries to
+climb the proverbial ladder, this pulp-thought reduction process amidst
+weaving into royal grandeur of scum.
+
+or, perhaps, it is inevitable: that
+one must kick and pull wrungs down in order to get up. it is here, me
+looking out only for myself, as the community attempts to quantify
+accomplishments.
+
+{{< btt >}}
+### Entry # 243
+
+Date: Sat, 29 Aug 2015
+
+at least once in your english-speaking phase in life, include in a
+thinkpiece the words 'unstoppable force, immovable object' so that when
+you resurface to a personal renaissance, you will realize that nothing
+is the resultant.
+
+{{< btt >}}
+### Entry # 244
+
+Date: Sun, 30 Aug 2015
+
+nothing is wrong with wanting to get out of a mess, to skip the poor
+stages of life where your parents made poor decisions ending poorly.
+
+nothing wrong with wanting three meals for your family even though to
+some that is already a divine justice; to occasionally drift to land
+where good comes to good *and* unfortunate.
+
+{{< btt >}}
+### Entry # 245
+
+Date: Mon, 31 Aug 2015
+
+suppose one piledriver evening, instead of succumbing to the requests of
+succubi, you explore the vastness of netherwebz. you decide to ebb the
+eddies by watching recorded live concerts of your fave artists. the
+camera once in a while focuses on the crowd, and you ask yourself in
+disappointment, "how are not they jamming out?" you have imagined losing
+yourself there, and yet all of these peeps seemed to have frozen in
+their shoes as though their budget were flushed down the loo.
+
+{{< btt >}}
 ### One-Liners
 Tweet-like witticisms back in the day.
 

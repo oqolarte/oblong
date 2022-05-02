@@ -27,3 +27,9 @@ Facing the house from the street,
 North would be between 10 and 11 o'clock direction.
 
 {{< btt >}}
+
+## What time is sunset today?
+
+Today, 2 May, the sun set at 6:12 PM.
+
+{{< btt >}}
