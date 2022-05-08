@@ -5703,6 +5703,24 @@ yourself there, and yet all of these peeps seemed to have frozen in
 their shoes as though their budget were flushed down the loo.
 
 {{< btt >}}
+### Entry # 
+Date: Thu, 03 Sep 2015
+
+no more predilections for the vampire twerking class. no more needless
+incarcerations of angels with hues. in fact, the world needs more pints
+of paints to wash, not cover, the sins of those that cannot be altered
+through crosses. no more hold-on monologues, no more green tongues
+forking for similes from aging millenials, because, come on, have you
+not the enthusiasm to actually do something? unless, of course,
+something is internally hindering you. then, by all means, give in to
+your personal quests. but please, try foucault or lorde or someone from
+your mother tongue that could purge your atrophy. no more telescopes
+whose flashy ends are grommeted with the supposed downward tomorrow.
+future *is* bleak. humans *are* doomed. nigh well are we to face our
+masters, but it is up to us to have whether teeth or lips to taunt them
+with.
+
+{{< btt >}}
 ### One-Liners
 Tweet-like witticisms back in the day.
 
