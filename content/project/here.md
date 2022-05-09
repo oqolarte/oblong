@@ -67,7 +67,7 @@ I'm around 50 meters above sea level.
 
 Kalachuchi is one.
 
-{{< figure src="/image/kalachuch.jpg" alt="close-up of kalachuchi's flowers of a white variant" caption="*Plumeria rubra*" >}}
+{{< figure src="/image/kalach.jpg" alt="close-up of kalachuchi's flowers of a white variant" caption="*Plumeria rubra*" >}}
 
 {{< btt >}}
 
