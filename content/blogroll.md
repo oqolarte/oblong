@@ -5,7 +5,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
 [Isya the Leap Trader](https://leap-isya.netlify.app)  
-[Araw Seekers](https://arawseekers.github.io)  
+[Araw Seekers](https://seekers.araw.xyz)  
 
 [Cheapskate's Guide](https://cheapskatesguide.org/)  
 [Crystal Camarao](https://crystal.ph/)  
