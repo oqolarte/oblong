@@ -27,7 +27,7 @@ So, this will definitely be an internet-assisted effort.
 ## Point North
 
 Facing the house from the street,
-North would be between 10 and 11 o'clock direction.
+North would be between 9 and 9:30 o'clock direction.
 
 {{< btt >}}
 
