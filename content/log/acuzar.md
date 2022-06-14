@@ -44,6 +44,9 @@ we discovered there were no towels,
 no slippers,
 and no bottles of water.
 We had to call the reception for towels and water multiple times.
+If love motels can provide it by default---as per my friends *\*wink\**---then
+why can't this pricey resort?
+
 The split-type aircon unit leaked,
 creating an unpleasant puddle.
 Supposedly there's a water heater,
@@ -52,6 +55,7 @@ There's an electric kettle,
 but I'm sure they don't expect us to use that
 as our water heater, right?
 Right??
+
 
 All roads are made of cobblestone.
 Depending on one's preference,
@@ -66,8 +70,8 @@ To my knowledge, only the tram is free of charge.
 
 There's a mythical bike rental shop,
 but I never got around to locating it,
-nor did I have the energy to even cycle around knowing I would
-roll on uneven roads.
+nor would I have had the energy to cycle around knowing roads'
+unevenness.
 
 {{< figure src="/image/bicuzar.jpeg" alt="A small green vintage bike hanging on a wall" caption="All I got is a picture of this" >}}
 
@@ -75,12 +79,14 @@ roll on uneven roads.
 
 Buffet food, not good.
 Most were bland:
-pieces of meat with uneventful releases unsavory liquid when bitten.
+pieces of meat with uneventful releases
+of unsavory liquid when bitten.
+Some like, but I've had better from a local carinderia near our home.
 
 It's like seasoning was never part of the menu.
-Only the speculative feeling of taste that I had to imagine,
-just so I could finish the food,
-and honor the lives that were sacrificed to feed me.
+Only the speculative feeling of taste that the diner had to imagine,
+just so they could finish the food,
+and honor the lives that were sacrificed to feed them.
 
 ## Beach
 
@@ -90,7 +96,7 @@ before reaching the saltwater.
 This one definitely felt better than the shores
 of [Calatagan](/calatagan)---smooth sand sans jagged stones.
 
-Naturally, we played the waves,
+Naturally, we played [with] the waves,
 even dared chasing them.
 The waves were game.
 It was only when the sun was setting when the waves were getting
