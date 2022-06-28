@@ -14,7 +14,7 @@ draft: false
 - Added 10 new entries and 2 new one-liners to [Imbentori](/imbentori).
 
 *In this part 2 of me subtly complaining about unbelievable it is that we're
-already halfway through the year 2022... (Read [Part 1](half2022))*
+already halfway through the year 2022... (Read [Part 1](/half2022))*
 
 June 2022 is one of those slow months, I think.
 It could be because no one dares to believe that we're already six months in.
