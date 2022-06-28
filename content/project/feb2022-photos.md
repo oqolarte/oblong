@@ -172,18 +172,17 @@ caption="`0lbaps-aduren.jpg`" >}}
 
 It's not easy to decide one day that you're taking up photography as a hobby
 *just because*,
-especially when you're not well to do, like me, to start off.
+especially when you're not well-to-do, like me, to start off.
 Decent cameras, even secondhand ones, do not come cheap.
 
 With today's technology, though,
 it's not far-fetched to get into wanting to take pictures with a bit of style,
 now that we have cameras in smartphones,
-which in turn are as accessible as ever.
+which are as accessible as ever.
 This is more evident in social media platforms dedicated to sharing photos with other people.
 
-What I did, however, was to borrow, if only for a month, somebody's rarely used
-digicam,
-and tried photography.
+What I did, however, was to borrow, if only for a month, somebody's rarely used digicam,
+and *tried* photography.
 
 I took no formal classes teaching me how to properly do it.
 Maybe one or two YouTube videos on the basics;

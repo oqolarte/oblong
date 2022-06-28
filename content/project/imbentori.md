@@ -5703,7 +5703,7 @@ yourself there, and yet all of these peeps seemed to have frozen in
 their shoes as though their budget were flushed down the loo.
 
 {{< btt >}}
-### Entry # 
+### Entry # 246
 Date: Thu, 03 Sep 2015
 
 no more predilections for the vampire twerking class. no more needless
@@ -5721,6 +5721,159 @@ masters, but it is up to us to have whether teeth or lips to taunt them
 with.
 
 {{< btt >}}
+### Entry # 247
+Date: Tue, 08 Sep 2015
+
+yes, i belonged to a dell with greens elaborating the stretch of current.
+yes, i had once imagined from beyond longitudinal landscapes etiolated lots where a violet pyre deprived the hearth of air.
+in many frames, the motion maketh living achey-breaky.
+and yet, still subsists the spray of dews, even here amid urban cobwebs, in the dingy of hearts.
+for wherein lies sincerity, the push remains significant.
+
+people are not naturally septemberists nor floral by any account.
+times will be good, even if highways turn to parking spaces, even if it takes a million
+comics to parody life as, according to some beliefs, it rolls around the
+last few days.
+
+{{< btt >}}
+### Entry # 248
+Date: Thu, 10 Sep 2015
+
+most stoppages could be traced back to me, and here i am, whilst
+ollie-ing with me swivel, attempting to pinpoint within what and where
+exactly the glitch is. a slight pondering on break gives me a clue: i am
+lethargic, i am brainiac downswing, or i am both.
+
+{{< btt >}}
+### Entry # 249
+Date: Mon, 14 Sep 2015
+
+**what i said**: you launched me beyond the depths of space\
+**what i meant**: i spun with supraswift madskillz as body -- all gel,
+limbs and shards -- erupted from the edge of halfpipe into still air. i
+had to maintain my hang time, so i could spin fast enough, to borrow
+more moments from the world.
+
+{{< btt >}}
+### Entry # 250
+Date: Tue, 15 Sep 2015
+
+**book title:** practicality over preferred quality?, or languid
+exertions contra blanch instances tainting freedom of espresso
+
+**synopsis, for editor's approval:** is extravagance the messy part of
+this cultural discord, or is it, simply, how the persona presents a lame
+excuse for sluggish behavior as contrast to hardbound golden
+lamentations ? if soc is to convert an upbringing into a pyramid one
+must scale, then what purpose soc ultimately embeds? be it harsh not
+polishing the opt-out bit as most logical response? also, why are we
+having another debate about acquisition of coffee *over* coffee, ffs?\
+
+{{< btt >}}
+### Entry # 251: *portraits of belt-bag beings and their iterations*
+Date: Wed, 16 Sep 2015
+
+1. coming across people who dislike looking into details---their criteria
+amuse me. when a metronome ticks before them, no more measurement is
+made. sleep shatters upon heads like candy bottles.
+1. modern times reminds them that not once did svelt carbon fiber quiver
+beneath them. it is the weakness: apparatuses inundating joints with
+last influx of work before altogether creaking to halt.
+1. when a rooster cocks a pellet into a toy pistol, his pagan god will soon
+peer from the velvetine outlines of clouds. it will be another day of
+hustling, of pointing out squares out of people's eyes. he will say,
+"your eyes look different" without even looking at them. he is, after
+all, a pathological liar. the rooster pecks for worms or insects, and
+could only long for better junk, but that is as far as longing goes.
+1. joking bones: each booms of infantile caresses. cooing for attention,
+sometimes, even shopping for physicians. it is understandable that not
+many can tolerate pain, as pain comes in various forms in varying
+degrees. most probably, amongst documents filed away, a check-up receipt
+stating the ignoramus faults sits between page 5 and page 38 of a
+journal.
+1. no considerations for personal space whatsoever. these people are
+supposed to be adults?
+1. ah, used to be a front man. his failings have grown their own mustache,
+more greige than heartbreak convention located downtown. oh, my heart,
+he says. oh, my fellows, i am sad, terribly sad, he says. he gets no
+reply from mentioned fellows.
+1. u mean a thundering audacity, a non-meditative response to any
+inquiries? u mean the puffballs they call clenched fists? u mean the
+frisks that are actual forms of abuse and not just accidents and/or
+innuendos?
+1. restless, red-eyed lizards.
+1. (shoutout to all real lizards of the world: i am not speaking ill of
+you, nor am i comparing your actions to some wicked ways... if, somehow,
+my wording did imply that, i'm sorry.)
+1. the look that never outlasts its detractors. the half-truths that are
+sent forth as breeding grounds for new predicaments. the baritone, the
+technicolor teeth which do not fool anyone.
+1. lustful initiative. cris de coeur include heavily tainted hashtags.
+melding incomplete, because they could easily be spotted even when no
+one is looking.
+1. 'hunger' doth not mean the stomach speaketh naught. it is entirely
+something else.
+1. has an inexplicable disgust for any shade of red, but once admitted was
+a commie. this must be a prank.
+
+{{< btt >}}
+### Entry # 252
+Date: Thu, 17 Sep 2015
+
+if there along the wayward air paths with which you will trace the globe
+you stumble upon a prettier mess than this cluster you un/intentionally
+engineered, then by all means, feel free to never come back. we, the
+colleagues, just had the tastiest lunch so far, much thanks to the roomy
+width your vacation has left. be it for better or for worse, i couldn't
+care less anyway.
+
+{{< btt >}}
+### Entry # 253
+Date: Sun, 20 Sep 2015
+
+dubious-feeling converted to a splitting headache via reckless chugging
+down of brandy... i am nothing now but a dreamscape of falling teeth and
+curious babble, both of which could only be cured with reconsumption of
+week-old fuzak streams and the fact that tomorrow will be another
+bewildering lunes. hello, world, and goodbye.
+
+{{< btt >}}
+### Entry # 254
+Date: Wed, 23 Sep 2015
+
+TFW you have to dismantle altogether such an awful conjecture as getting
+by the night with nothing but pandesal and a mug of milk *all the while*
+being reminded by the very appurtenance (FKA well-tended stomach) you so
+depose of doof.
+RIP personal welfare.
+
+{{< btt >}}
+### Entry # 255
+Date: Sat, 26 Sep 2015
+
+the days before me will reset themselves, and the many suns that went up
+and down will liberate the whole thing from off my mind. this i know
+from the moment i took that singular hit, firing up the rest of the chain;
+that my memory will always be a test, an involuntary
+decomposition which is neither prevented by meditation or by the fact
+that the first line of the last e-mail i sent is always a prospective
+epitaph headline.
+
+{{< btt >}}
+### Entry # 256
+Date: Thu, 01 Oct 2015
+
+no one has identified yet what causes the blank when required to
+pilfer from feelz archive a fitting description for my current demeanor.
+i could draw a line graph of a week, in which i would indicate
+spikes---rather, stalagtites---of bleakness hither and thither. some of them i
+have conned myself into thinking they are parts of adulthood, of a
+necessary maturation; however, it's mostly about untruths regarding
+desktops and paperwork, if you know what i mean. so how about jeet kune
+do vs the spinning tactics of corporate greed, yay o nay?
+
+{{< btt >}}
+
 ### One-Liners
 Tweet-like witticisms back in the day.
 
@@ -5839,7 +5992,8 @@ soulful people behind each of them) for saving semi-okay films, thus
 making life spent watching less disappointing.
 1. *indistinct chatter at the tapsilugan*
 1. beam me up, scully
-
+1. he who leaves for where in which point in time.
+1. obscures everything carefully // ad hominem
 {{< btt >}}
 
 [^maze]: "technically speaking, labyrinths only have a single path, and

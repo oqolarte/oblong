@@ -339,11 +339,9 @@ To have a privacy-centered configuration, I followed [this documentation](https:
 
 {{< btt >}}
 ### Privacy
-As privacy advocate myself, I'd like to report that,
-as far as I'm aware,
+As far as I'm aware,
 this site:
 - has no ad trackers
-because advertising is not compatible with my philosophy;
 - has no third-party cookies;
 - has no tracking that evades cookie blockers;
 - has no session recording services;
@@ -399,7 +397,8 @@ with broken links hither and thither.
 
 More than a decade later, here I am, building one again.
 Only this time, I have more enthusiasm.
-At least I've retained the important bits on how HTML works,
+This time, I'm building this site because I enjoy doing it for myself.
+At least, I've retained the important bits on how HTML works,
 so I'm not starting from zero.
 
 I'd like to say that I dedicate this to my former self, who couldn't seem to grasp the importance of web design.

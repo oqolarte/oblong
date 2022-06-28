@@ -54,7 +54,7 @@ but all we got was cold shower.
 There's an electric kettle,
 but I'm sure they don't expect us to use that
 as our water heater, right?
-Right??
+Right?
 
 
 All roads are made of cobblestone.
@@ -81,7 +81,7 @@ Buffet food, not good.
 Most were bland:
 pieces of meat with uneventful releases
 of unsavory liquid when bitten.
-Some like, but I've had better from a local carinderia near our home.
+Some I did like, but overall, I've had better meals from a local carinderia near our home.
 
 It's like seasoning was never part of the menu.
 Only the speculative feeling of taste that the diner had to imagine,
@@ -118,8 +118,6 @@ because they timed it during the hottest part of the day.
 
 ## Verdict
 
-Only go there someone who's net worth
-is at least five times as much as yours sponsors your trip.
-Don't spend your own hard-earned money
-to spend even a day there.
+Only go there if someone whose net worth is at least five times as much as yours sponsors your trip.
+Don't spend your own hard-earned money to spend even a day there.
 There are better places to be in!

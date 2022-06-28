@@ -8,7 +8,6 @@ draft: false
 [Araw Seekers](https://seekers.araw.xyz)  
 
 [Cheapskate's Guide](https://cheapskatesguide.org/)  
-[Crystal Camarao](https://crystal.ph/)  
 [Dan Luu](https://danluu.com)  
 [Drew DeVault](https://drewdevault.com)  
 [Early Retirement Extreme](http://earlyretirementextreme.com)  
