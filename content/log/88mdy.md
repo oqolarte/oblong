@@ -5,19 +5,20 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
 - A fairly recent post over at the [Araw
-  Seekers](https://seekers.araw.xyz/outforsweets/) about our visit a nearby
-  zero-waste store.
+  Seekers](https://seekers.araw.xyz/outforsweets/) about our visit to a nearby zero-waste store.
 - New favicon for this site.
 - Edited some lines in the [Feb 2022 Photo Dump](/feb2022-photos).
 - Edited some sections on [Site](/site).
 - Updated [Blogroll](/blogroll).
 - Added 10 new entries and 2 new one-liners to [Imbentori](/imbentori).
 
-*In this part 2 of me subtly complaining about unbelievable it is that we're
+*In this part 2 of me subtly complaining about how unbelievable it is we're
 already halfway through the year 2022... (Read [Part 1](/half2022))*
 
 June 2022 is one of those slow months, I think.
 It could be because no one dares to believe that we're already six months in.
+The harder and longer one thinks about it, the more distorted one's perception
+of current time becomes.
 
 The ruckus of the recent national elections has legally placed another Marcos in
 the highest seat in the Philippine state.
