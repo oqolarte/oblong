@@ -18,7 +18,6 @@ draft: false
 [Low-tech Magazine](https://solar.lowtechmagazine.com)  
 [Mo Bitar](https://listed.to/@mo)  
 [Nadia Eghbal](https://nadiaeghbal.com/)  
-[Roy Tang](https://roytang.net/)  
 [Simplifier](https://simplifier.neocities.org)  
 [Solène Rapenne](https://dataswamp.org/~solene/)  
 [The Perry Bible Fellowship](https://pbfcomics.com/)  

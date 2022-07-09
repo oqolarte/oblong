@@ -4,8 +4,6 @@ date: 2021-02-26T10:08:28+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-You've likely come here from the [Support](/support/) page.
-
 I'm trying to get into the habit of doing projects so I stay sharp.
 In the process, I'll try to document each step,
 and publish whatever findings I might have here for public viewing.
@@ -13,21 +11,24 @@ and publish whatever findings I might have here for public viewing.
 We need to be sharing ideas freely,
 not covet them.
 
-Like any other person, my interests oscillate wildly,
+Like any other person, my interests oscillate wildly,[^smiths]
 so the ideas listed here can't be lumped into one big category.
 The list is likely to grow or shrink,
 depending on my current situation.
 "Life happens," they say.
 I tend to agree.
 
+[^smiths]: AKA an instrumental track from The Smiths.
+Listen [here](https://youtu.be/7iYUdS3DmFU) (YouTube)
+
 Anyway, here is the list, in no particular order:
 
-1. News aggregator/portal
+1. Digital [Zwicky box](https://nesslabs.com/zwicky-box) written in C
 1. Wifi router from household rejects
 1. Water filter
 1. Soap from used oil
 1. Hand tools
-1. Computer monitor from a broken laptop
+1. Computer monitor upcycled from an old laptop
 1. Laundry detergent
 1. Repair, refurbish, and/or repurposing of different consumer electronics
 1. Make a free and open-source software *and* hardware, but not necessarily found together in a single device, that a layperson would find useful

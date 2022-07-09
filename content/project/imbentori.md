@@ -18,17 +18,20 @@ A little while back, I even thought of parsing through the original text I have 
 I'm not throwing this idea permanently away.
 It's just that I have more interesting things to tackle, in my opinion.
 
-In the meantime, read the foreword I drafted some time ago for this would-be collection of personal essays.
+In the meantime, read the preface I drafted some time ago for this would-be collection of personal essays.
 
 {{< toc >}}
 
-## Foreword
+## Preface
 
 The tongue that swirls with its perceived languages can only cope so much from the demands of diction.
-*Imbentori*, then, is one own tongue's attempt to speak the library of tensions as they never unfold in one's mind.
+*Imbentori*, then, attempts to speak the library of tensions as they never unfold in the mind,
+to glue incoherent rants with in/formal grammar & syntax to make it sound
+ir/rational.
 It is a list of personal truths told with cryptic lingo
 (or with International Art English[^bs], one could argue)
 to add dimension to the mundane.
+
 
 I wanted to tell stories, fiction or otherwise, that had shaped me definitively.
 In some entries, though, there's no room for interpretation.
