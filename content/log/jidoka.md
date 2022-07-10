@@ -1,6 +1,6 @@
 ---
 title: "自働化 in Daydreaming"
-date: 2022-06-29T10:54:36+08:00
+date: 2022-07-09T10:54:36+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
