@@ -8682,7 +8682,7 @@ this site:&lt;/p&gt;
 &lt;h3 id=&#34;hosting&#34;&gt;Hosting&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.vultr.com&#34;&gt;Vultr&lt;/a&gt; currently hosts this site using their cheapest
 VPS.
-The VM runs on Debian 10 &amp;ldquo;Buster&amp;rdquo;.&lt;/p&gt;
+The VM runs on Debian 11 &amp;ldquo;Bullseye&amp;rdquo;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;nginx&#34;&gt;nginx&lt;/h3&gt;
