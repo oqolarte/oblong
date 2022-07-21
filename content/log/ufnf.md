@@ -65,14 +65,14 @@ so any suggestions on this would be appreciated.
 ## On doodling
 
 One of the benefits---among many *ofc!*---of work-from-home setup
-is I get to doodle during meetings that I don't run.
+is I get to doodle during meetings that I don't facilitate myself.
 I use the term *doodle*,
 because it's how I'd describe random squiggly lines
 that are neither fractal nor meaningful in nature.
 
-Doodling actually lets me focus the topics in boring meetings.
+Doodling actually lets me focus on the discussions in boring meetings.
 Most meetings are boring, by the way,
-including those that I facilitate.
+including those that I run.
 
 Imagine doodling in face-to-face meetings.
 
