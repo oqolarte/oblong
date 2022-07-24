@@ -21,12 +21,18 @@ but it can be hard, especially if big tech like Google and Microsoft
 is deeply embedded in our digital lives now,
 whether we like it or not.
 
+I try to be wary, though, of getting obsessed on picking the right tools.
+In my opinions, there's no perfect tool, but there just might be a few of them
+that can do a specific task decently.
+Remember, your tools will not save you;
+how you use them might.
+
 Listed here are the programs I use on a regular basis.
 
 {{< toc >}}
 ## Operating System 
 
-- [Debian 10 "Buster"](https://www.debian.org/releases/buster/) -- OS in the server that
+- [Debian 11 "Bullseye"](https://www.debian.org/releases/bullseye/) -- OS in the server that
   hosts this site
 - [Devuan 4
   "Chimaera"](https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14) -- is a Debian-fork OS without systemd in my main computer.
@@ -39,7 +45,7 @@ First time using a GNOME desktop environment which was nice.
 It's also here that I first used a tiling window manager, i3.
 - [OpenBSD](https://www.openbsd.org/) -- The one I used in [the Old Computer Challenge](/old-computer)
 - [Artix Linux](https://artixlinux.org/) -- the first Arch-based Linux
-  I used.
+  I used. Stopped because of constant need to update.
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
   -- the only non-FOSS in here that I use only for gaming;
   this is more preferred than using [Wine](https://www.winehq.org/) on Linux.
@@ -166,7 +172,8 @@ and Twitter---in this case, that one person is me.
 
 {{< btt >}}
 ## Productivity
-- [Libreoffice](https://www.libreoffice.org/) -- I only have Writer (word
+- [Libreoffice](https://www.libreoffice.org/) -- FOSS substitute for MS Office
+  Suite. I only have Writer (word
   processor) and Calc (spreadsheet) installed.
 - [neovim](https://neovim.io) -- my text editor of choice.
 

@@ -634,6 +634,11 @@ source code is a precondition for this.&lt;/li&gt;
 but it can be hard, especially if big tech like Google and Microsoft
 is deeply embedded in our digital lives now,
 whether we like it or not.&lt;/p&gt;
+&lt;p&gt;I try to be wary, though, of getting obsessed on picking the right tools.
+In my opinions, there&amp;rsquo;s no perfect tool, but there just might be a few of them
+that can do a specific task decently.
+Remember, your tools will not save you;
+how you use them might.&lt;/p&gt;
 &lt;p&gt;Listed here are the programs I use on a regular basis.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
@@ -674,7 +679,7 @@ whether we like it or not.&lt;/p&gt;
 
 &lt;h2 id=&#34;operating-system&#34;&gt;Operating System&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.debian.org/releases/buster/&#34;&gt;Debian 10 &amp;ldquo;Buster&amp;rdquo;&lt;/a&gt; &amp;ndash; OS in the server that
+&lt;li&gt;&lt;a href=&#34;https://www.debian.org/releases/bullseye/&#34;&gt;Debian 11 &amp;ldquo;Bullseye&amp;rdquo;&lt;/a&gt; &amp;ndash; OS in the server that
 hosts this site&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14&#34;&gt;Devuan 4
 &amp;ldquo;Chimaera&amp;rdquo;&lt;/a&gt; &amp;ndash; is a Debian-fork OS without systemd in my main computer.&lt;/li&gt;
@@ -689,7 +694,7 @@ First time using a GNOME desktop environment which was nice.
 It&amp;rsquo;s also here that I first used a tiling window manager, i3.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.openbsd.org/&#34;&gt;OpenBSD&lt;/a&gt; &amp;ndash; The one I used in &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;the Old Computer Challenge&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://artixlinux.org/&#34;&gt;Artix Linux&lt;/a&gt; &amp;ndash; the first Arch-based Linux
-I used.&lt;/li&gt;
+I used. Stopped because of constant need to update.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/software-download/windows10ISO&#34;&gt;Windows 10&lt;/a&gt;
 &amp;ndash; the only non-FOSS in here that I use only for gaming;
 this is more preferred than using &lt;a href=&#34;https://www.winehq.org/&#34;&gt;Wine&lt;/a&gt; on Linux.
@@ -820,7 +825,8 @@ and Twitter&amp;mdash;in this case, that one person is me.&lt;/p&gt;
 
 &lt;h2 id=&#34;productivity&#34;&gt;Productivity&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libreoffice&lt;/a&gt; &amp;ndash; I only have Writer (word
+&lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libreoffice&lt;/a&gt; &amp;ndash; FOSS substitute for MS Office
+Suite. I only have Writer (word
 processor) and Calc (spreadsheet) installed.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; &amp;ndash; my text editor of choice.&lt;/li&gt;
 &lt;/ul&gt;
@@ -1782,9 +1788,12 @@ because I usually have some notes that I need to refer to from time to time.&lt;
 In fact I use one, solely dedicated for work.&lt;/p&gt;
 &lt;p&gt;This work bujo incorporates ideas from &lt;a href=&#34;https://jeffhuang.com/productivity_text_file/&#34;&gt;Jeff Huang&amp;rsquo;s .txt file as productivity app&lt;/a&gt;,
 implemented using a plaintext editor.
-For this I use Notepad, since I use Windows for work.&lt;/p&gt;
+And even using Windows machine,
+I manage to install Vim on it,
+so that&amp;rsquo;s what I&amp;rsquo;m using when editing this one
+big text file.&lt;/p&gt;
 &lt;p&gt;Not only is it light on resources&amp;mdash;currently
-at ~100 KB storing seven months worth of logged info&amp;mdash;it&amp;rsquo;s
+at ~175 KB storing 11 months worth of logged info&amp;mdash;it&amp;rsquo;s
 easily portable, as many operating systems accept plaintext.&lt;/p&gt;
 &lt;p&gt;Mine is inventively named as &lt;code&gt;log.txt&lt;/code&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -2114,6 +2123,15 @@ It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion
         &lt;li&gt;&lt;a href=&#34;#entry--254&#34;&gt;Entry # 254&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--255&#34;&gt;Entry # 255&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--256&#34;&gt;Entry # 256&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--257&#34;&gt;Entry # 257&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--258&#34;&gt;Entry # 258&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--259&#34;&gt;Entry # 259&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--260&#34;&gt;Entry # 260&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--261&#34;&gt;Entry # 261&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--262&#34;&gt;Entry # 262&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--263&#34;&gt;Entry # 263&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--264&#34;&gt;Entry # 264&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry-265&#34;&gt;Entry 265&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#one-liners&#34;&gt;One-Liners&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
@@ -7173,6 +7191,126 @@ desktops and paperwork, if you know what i mean. so how about jeet kune
 do vs the spinning tactics of corporate greed, yay o nay?&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
+&lt;h3 id=&#34;entry--257&#34;&gt;Entry # 257&lt;/h3&gt;
+&lt;p&gt;Date: Sat, 03 Oct 2015&lt;/p&gt;
+&lt;p&gt;to survey an everyday clearing of living room with nothing but
+self-professed grit remains the ever-exclusive task for this Me that so
+deserves a blunt-force reawakening.&lt;/p&gt;
+&lt;p&gt;seriously.&lt;/p&gt;
+&lt;p&gt;how hard do you think it
+is for me to arrive from work,
+suppressed by jolts and pulls of an encumbering
+metropolitan (now
+labeled the worst city to experience traffic), and sense that something
+depressing has befallen my companion? something that i find difficult to
+bridge with affection alone? to grieve for some people who would not
+come to the welp of my companion, is making me phase into cycles that
+are just as bad.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--258&#34;&gt;Entry # 258&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 06 Oct 2015&lt;/p&gt;
+&lt;p&gt;where does one attribute any abhorrent physical manifestation of one&amp;rsquo;s
+musing over his most recent f-up? what distraction is needed? what type
+of linoleum on which to scribble one&amp;rsquo;s blackest fugues? what immolation
+to mitigate these serpentine striations condoning much of sodium that
+pollutes the eyes?
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;entry--259&#34;&gt;Entry # 259&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 12 Oct 2015&lt;/p&gt;
+&lt;p&gt;all overwhelming things descend upon ones who sleep past lunch,
+themselves immune to the beckons of bottomless pits. i, on one hand,
+slaps on the earbuds and let supersonic chops fine-tune my head away
+from &amp;lsquo;chillax&amp;rsquo; sounds of miley cyrus.
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;entry--260&#34;&gt;Entry # 260&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 15 Oct 2015&lt;/p&gt;
+&lt;p&gt;The inglorious method of us to let crippling tunes transfuse their
+inertia unto our devices when we know deep down we have not developed
+something real yet still human that could push us down the staircase. To
+choke on a large pair of opals that refuses to return our flashers. To
+mitigate the rush, crush, and the unpalatable stigma of having to resent
+any boyish systems, although 99% of which are righteous and do not need
+any finalization of re-recommendation. The coming-home of tired flesh
+from race. The spent musings and its many revisions, recycled but have
+no good use. When does one stop and where?
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;entry--261&#34;&gt;Entry # 261&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 21 Oct 2015&lt;/p&gt;
+&lt;p&gt;the power rarely is flipped on, but when speakers pronounce the aurora
+in much fluctuating dizziness its prime blasé, who else provides the
+steps of a false power groove? when the agents of a mooring distance
+officiate their causes through whatever means necessary, who else is
+caught amid the tango of papers?&lt;/p&gt;
+&lt;p&gt;inside this paragraph, i will provide
+no insight as to who causes what or where does it happen when it does.
+the only thing certain about my current predicament is that of all
+things, chairs included, on which i append my spine and buttocks, i
+found peace in this particular apparatus called toilet. if indeed it is
+absolute or only fleeting, i will have to check with the &amp;lsquo;outcome&amp;rsquo;.
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;entry--262&#34;&gt;Entry # 262&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 27 Oct 2015&lt;/p&gt;
+&lt;p&gt;what happened to a town was this:
+right before the disk voyaged down
+past the horizon, a discreet humming buzzed amongst those who were still
+capable of hearing. it was of a peculiar sort, something that could
+extinguish scents prior to their composition. or the silver ornamental
+that was julienne-thin that hypnotized no one, not even those who play
+well with verse. or a mongrel of thick coating, a crowd, a fruit
+peeling; really just random objects for random spurts of objection to
+the toxic homebound route.
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;entry--263&#34;&gt;Entry # 263&lt;/h3&gt;
+&lt;p&gt;Fri, 30 Oct 2015&lt;/p&gt;
+&lt;p&gt;Through high-pitched sirens hurting at the corner to be struck i nudged
+my frame, peeping past the blurring fluorescent beams that are never
+rare in such an &amp;lsquo;inviting&amp;rsquo; intersection of minds. As i did, i looked
+into my kissing kit for a breath analyzer, only to realize that the mood
+for exchanging saliva with a prospective lovapalooza participant never
+knocked on me, and thus, no such machine could ever be acquired from any
+of my baggage. If distance were personified or science had it in simpler
+definition, then it was both a bedmate and an opponent.&lt;/p&gt;
+&lt;p&gt;Wait: Mind? But&amp;mdash;Many possess intimidating ones with nice compartments
+to match the contents; and to listen to how they confabulate their
+intimate garble questions my ability to deepen the quality of my patents
+(or patience, depending on what they say). It&amp;rsquo;s seldom that I get to
+mingle with them. I suppose goofing my way around deconstruction&amp;rsquo;s pun
+side has its perks. I mean, how far can one fun?
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;entry--264&#34;&gt;Entry # 264&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 04 Nov 2015&lt;/p&gt;
+&lt;p&gt;The curve suggesting the rate of dissociation lies proximal to both
+axes. It is hard to keep and unkeep, to link both full and null at the
+same point without having to retreat to safety so as to assess the
+possibility of grime. To think again, to sink again. To feel that the
+ullage, however contemptible its volume, presses hard against the end of
+spine upwards. I might come up with a prayer of my own contra
+drag-downs. I might be the perpetual antagonist in my internal
+monologue, and not once could have I flinched even in knowing; that in
+spite of the many small sparks that have flown rogue into dryest cells
+of forest, I, the cavorted yet unyoked, might have never stopped burning
+at all.
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;entry-265&#34;&gt;Entry 265&lt;/h3&gt;
+&lt;p&gt;Date: Sat, 07 Nov 2015&lt;/p&gt;
+&lt;p&gt;You are pulled from your attachment to the vertical beam. The landscape
+of cotton enmeshed with fibrous skin fumbled from the pole, both icy and
+molten at the same time. You borrowed glances from closed eyes, from
+dreams whose spirits swimming gradually farther to depths; and between
+pulses you expounded on rests that could have been filled by escaping
+images. There you half-sunk back to light before a femur automated the
+entire structukre to that same old poise, scratching still the patches
+that had dried through evening whistles.
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h3&gt;
 &lt;p&gt;Tweet-like witticisms back in the day.&lt;/p&gt;
 &lt;ol&gt;
@@ -7292,10 +7430,13 @@ making life spent watching less disappointing.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;indistinct chatter at the tapsilugan&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;beam me up, scully&lt;/li&gt;
 &lt;li&gt;he who leaves for where in which point in time.&lt;/li&gt;
-&lt;li&gt;obscures everything carefully // ad hominem
-&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;obscures everything carefully // ad hominem&lt;/li&gt;
+&lt;li&gt;is my coughing thrash verses a reckless behavior?&lt;/li&gt;
+&lt;li&gt;maybe there is niceness in boarding unknown engines that take people
+elsewhere.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

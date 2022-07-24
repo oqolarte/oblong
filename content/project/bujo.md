@@ -179,10 +179,13 @@ In fact I use one, solely dedicated for work.
 
 This work bujo incorporates ideas from [Jeff Huang's .txt file as productivity app](https://jeffhuang.com/productivity_text_file/),
 implemented using a plaintext editor.
-For this I use Notepad, since I use Windows for work.
+And even using Windows machine,
+I manage to install Vim on it,
+so that's what I'm using when editing this one
+big text file.
 
 Not only is it light on resources---currently
-at ~100 KB storing seven months worth of logged info---it's
+at ~175 KB storing 11 months worth of logged info---it's
 easily portable, as many operating systems accept plaintext.
 
 Mine is inventively named as `log.txt`.

@@ -5876,6 +5876,131 @@ desktops and paperwork, if you know what i mean. so how about jeet kune
 do vs the spinning tactics of corporate greed, yay o nay?
 
 {{< btt >}}
+### Entry # 257
+Date: Sat, 03 Oct 2015
+
+to survey an everyday clearing of living room with nothing but
+self-professed grit remains the ever-exclusive task for this Me that so
+deserves a blunt-force reawakening.
+
+seriously.
+
+how hard do you think it
+is for me to arrive from work,
+suppressed by jolts and pulls of an encumbering
+metropolitan (now
+labeled the worst city to experience traffic), and sense that something
+depressing has befallen my companion? something that i find difficult to
+bridge with affection alone? to grieve for some people who would not
+come to the welp of my companion, is making me phase into cycles that
+are just as bad.
+
+{{< btt >}}
+### Entry # 258
+Date: Tue, 06 Oct 2015
+
+where does one attribute any abhorrent physical manifestation of one's
+musing over his most recent f-up? what distraction is needed? what type
+of linoleum on which to scribble one's blackest fugues? what immolation
+to mitigate these serpentine striations condoning much of sodium that
+pollutes the eyes?
+{{< btt >}}
+### Entry # 259
+Date: Mon, 12 Oct 2015
+
+all overwhelming things descend upon ones who sleep past lunch,
+themselves immune to the beckons of bottomless pits. i, on one hand,
+slaps on the earbuds and let supersonic chops fine-tune my head away
+from 'chillax' sounds of miley cyrus.
+{{< btt >}}
+### Entry # 260
+Date: Thu, 15 Oct 2015
+
+The inglorious method of us to let crippling tunes transfuse their
+inertia unto our devices when we know deep down we have not developed
+something real yet still human that could push us down the staircase. To
+choke on a large pair of opals that refuses to return our flashers. To
+mitigate the rush, crush, and the unpalatable stigma of having to resent
+any boyish systems, although 99% of which are righteous and do not need
+any finalization of re-recommendation. The coming-home of tired flesh
+from race. The spent musings and its many revisions, recycled but have
+no good use. When does one stop and where?
+{{< btt >}}
+### Entry # 261
+Date: Wed, 21 Oct 2015
+
+the power rarely is flipped on, but when speakers pronounce the aurora
+in much fluctuating dizziness its prime blasé, who else provides the
+steps of a false power groove? when the agents of a mooring distance
+officiate their causes through whatever means necessary, who else is
+caught amid the tango of papers?
+
+inside this paragraph, i will provide
+no insight as to who causes what or where does it happen when it does.
+the only thing certain about my current predicament is that of all
+things, chairs included, on which i append my spine and buttocks, i
+found peace in this particular apparatus called toilet. if indeed it is
+absolute or only fleeting, i will have to check with the 'outcome'.
+{{< btt >}}
+### Entry # 262
+Date: Tue, 27 Oct 2015
+
+what happened to a town was this:
+right before the disk voyaged down
+past the horizon, a discreet humming buzzed amongst those who were still
+capable of hearing. it was of a peculiar sort, something that could
+extinguish scents prior to their composition. or the silver ornamental
+that was julienne-thin that hypnotized no one, not even those who play
+well with verse. or a mongrel of thick coating, a crowd, a fruit
+peeling; really just random objects for random spurts of objection to
+the toxic homebound route.
+{{< btt >}}
+### Entry # 263
+Fri, 30 Oct 2015
+
+Through high-pitched sirens hurting at the corner to be struck i nudged
+my frame, peeping past the blurring fluorescent beams that are never
+rare in such an 'inviting' intersection of minds. As i did, i looked
+into my kissing kit for a breath analyzer, only to realize that the mood
+for exchanging saliva with a prospective lovapalooza participant never
+knocked on me, and thus, no such machine could ever be acquired from any
+of my baggage. If distance were personified or science had it in simpler
+definition, then it was both a bedmate and an opponent.
+
+Wait: Mind? But---Many possess intimidating ones with nice compartments
+to match the contents; and to listen to how they confabulate their
+intimate garble questions my ability to deepen the quality of my patents
+(or patience, depending on what they say). It's seldom that I get to
+mingle with them. I suppose goofing my way around deconstruction's pun
+side has its perks. I mean, how far can one fun?
+{{< btt >}}
+### Entry # 264
+Date: Wed, 04 Nov 2015
+
+The curve suggesting the rate of dissociation lies proximal to both
+axes. It is hard to keep and unkeep, to link both full and null at the
+same point without having to retreat to safety so as to assess the
+possibility of grime. To think again, to sink again. To feel that the
+ullage, however contemptible its volume, presses hard against the end of
+spine upwards. I might come up with a prayer of my own contra
+drag-downs. I might be the perpetual antagonist in my internal
+monologue, and not once could have I flinched even in knowing; that in
+spite of the many small sparks that have flown rogue into dryest cells
+of forest, I, the cavorted yet unyoked, might have never stopped burning
+at all.
+{{< btt >}}
+### Entry 265
+Date: Sat, 07 Nov 2015
+
+You are pulled from your attachment to the vertical beam. The landscape
+of cotton enmeshed with fibrous skin fumbled from the pole, both icy and
+molten at the same time. You borrowed glances from closed eyes, from
+dreams whose spirits swimming gradually farther to depths; and between
+pulses you expounded on rests that could have been filled by escaping
+images. There you half-sunk back to light before a femur automated the
+entire structukre to that same old poise, scratching still the patches
+that had dried through evening whistles.
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -5997,6 +6122,10 @@ making life spent watching less disappointing.
 1. beam me up, scully
 1. he who leaves for where in which point in time.
 1. obscures everything carefully // ad hominem
+1. is my coughing thrash verses a reckless behavior?
+1. maybe there is niceness in boarding unknown engines that take people
+elsewhere.
+
 {{< btt >}}
 
 [^maze]: "technically speaking, labyrinths only have a single path, and

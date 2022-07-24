@@ -8,7 +8,7 @@ In the age of perma-online presence,
 it's worth considering to think before you click.
 With attention being one of the main currencies of capital-I Internet,
 whoever has the quickest wit and/or the snarkiest comeback
-that ellicits something---any strong emotion really---reaches the top.
+that elicits something---any strong emotion really---reaches the top.
 Whatever that top is, I don't want to know.
 
 Honestly, there's nothing wrong with wanting to perform for an audience
