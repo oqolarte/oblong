@@ -671,6 +671,7 @@ how you use them might.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#instant-messaging&#34;&gt;Instant Messaging&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#productivity&#34;&gt;Productivity&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#rss-feed-readers&#34;&gt;RSS Feed Readers&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#media-player&#34;&gt;Media Player&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#youtube-alternatives&#34;&gt;YouTube Alternatives&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
@@ -835,6 +836,14 @@ processor) and Calc (spreadsheet) installed.&lt;/li&gt;
 &lt;h2 id=&#34;rss-feed-readers&#34;&gt;RSS Feed Readers&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://newsboat.org/&#34;&gt;newsboat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;media-player&#34;&gt;Media Player&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mpv.io&#34;&gt;mpv&lt;/a&gt; &amp;ndash; Main media player&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.videolan.org/&#34;&gt;VLC&lt;/a&gt; &amp;ndash; For that rare times when the main one
+doesn&amp;rsquo;t work&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 

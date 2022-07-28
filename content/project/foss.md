@@ -182,6 +182,12 @@ and Twitter---in this case, that one person is me.
 - [newsboat](https://newsboat.org/)
 
 {{< btt >}}
+## Media Player
+- [mpv](https://mpv.io) -- Main media player
+- [VLC](https://www.videolan.org/) -- For that rare times when the main one
+  doesn't work
+
+{{< btt >}}
 ## YouTube Alternatives
 - [NewPipe](https://newpipe.net/) -- For watching on an Android-run smarphone
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) -- Download videos,
