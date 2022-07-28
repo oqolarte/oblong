@@ -1,0 +1,34 @@
+---
+title: "Tyler Durden's Empty Seat"
+date: 2021-05-15T03:01:31+08:00
+keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
+draft: false
+---
+- Added a new project: [My Bullet Journal](/bujo)
+- Added five new entries to [Imbentori](/imbentori) project.
+
+To console myself amid the combined power of heat and boredom,
+I opened the book *Fight Club* and started reading the first few chapters.
+
+This reminded me of Tyler Durden in the movie adaptation.
+Many of those wanting to get ripped almost always consider Brad Pitt's
+physique during this time to be *the* ultimate goal.
+
+But I bring this up not because of fitness.
+
+In the film, when the narrator meets Tyler for the first time, it's on a plane.
+They're seat mates.
+
+After watching it, I went back to this scene.
+I thought, "That's not right.
+If they're one and the same person, then that must mean that the seat beside the narrator isn't actually occupied.
+And that's not allowed in airplanes, right? To have empty seats?"
+
+I got to this conclusion based on an incomplete information.
+Plus, at the time, I had never been *in* an plane to travel, domestically or internationally.
+
+Much, much later, my first job allowed me to fly to different locations within the country.
+I noticed that sometimes, a flight didn't get full.
+Once or twice, a flight didn't even reach 50% capacity!
+
+Knowing this now, I can say that it *is* possible to sit and talk beside an imagined version of the self in a commercial flight to nowhere!

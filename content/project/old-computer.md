@@ -306,17 +306,17 @@ I `git` my files for version control.
 I even blogged daily during the course of this Challenge,
 to feel what it's like to compose texts on this electric typewriter.
 Here were the logs:
-- [Day 1: Signs of Aging](/aging)
-- [Day 2: Haircut](/haircut)
-- [Day 3: Trese](/trese)
-- [Day 4: Life as News](/life-news)
-- [Day 5: Is It Flue Season Already?](/flu)
-- [Day 6: Uphills](/uphills)
-- [Day 7: Walking the Dog](/dogwalk)
-- [Day 8: FOLK](/afolk)
+- [Day 1: Signs of Aging](/43)
+- [Day 2: Haircut](/44)
+- [Day 3: Trese](/45)
+- [Day 4: Life as News](/46)
+- [Day 5: Is It Flue Season Already?](/47)
+- [Day 6: Uphills](/48)
+- [Day 7: Walking the Dog](/49)
+- [Day 8: FOLK](/50)
 
 {{< btt >}}
-### Accesing Github
+### Accessing Github
 
 During the course of this project,
 this site and its source code is hosted on Github.
