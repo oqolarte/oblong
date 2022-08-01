@@ -5989,7 +5989,7 @@ spite of the many small sparks that have flown rogue into dryest cells
 of forest, I, the cavorted yet unyoked, might have never stopped burning
 at all.
 {{< btt >}}
-### Entry 265
+### Entry # 265
 Date: Sat, 07 Nov 2015
 
 You are pulled from your attachment to the vertical beam. The landscape
@@ -6000,6 +6000,211 @@ pulses you expounded on rests that could have been filled by escaping
 images. There you half-sunk back to light before a femur automated the
 entire structukre to that same old poise, scratching still the patches
 that had dried through evening whistles.
+{{< btt >}}
+### Entry # 266
+Date: Mon, 09 Nov 2015
+
+any misadventures of life plutonian boiling beyond this intimate space
+could not have been perceived through the dormer. when i knocked, the
+self inside pried open the crying room's door with stubby digits and,
+then, welcomed the convection of scents: here the stench, and there the
+rosette.
+
+i looked at self, and there in its hollows i felt the cheeky,
+smothered ditty of hold. while it's not the catchiest, it sure was a
+wicked tune in itself, and in my free time i would love to clown around
+its structure and rhymes. however, no more measuring tactics, no more
+amour left for strangers' consumption, only wisps to be transferred
+through wordplay.
+
+then, in such opaque illumination, this self denounced
+its frustration: i was actually laughing there to things like maslow's
+*B*ig thinkpiece, because never in my time that i felt it was accurate
+for my stance, that i regarded his general idea of persistence as a
+belonging factor. i had to dis/agree.
+
+{{< btt >}}
+
+### Entry # 267
+Date: Mon, 16 Nov 2015
+
+almost exclusively breathe we this thick tainted atmos that contorts the
+twirls and vagabond smokes. an unseen palm graces the neckline with a
+chokehold of thousand cranes; this dead bosom sighing, "quiet may you
+run." i tried closing my eyes to the fakespeak of sibling, and while in
+time the sand would grain the lids, it took me some millions of
+half-lives in spasm, inflicting knuckles to an already impatient
+forehead. lost sleep over some smoker puffing, simply conducting bachs
+using his trachea to compose garbage. or: to decompose through the aid
+of his virtuoso colleagues.
+
+{{< btt >}}
+### Entry # 268
+Date: Sun, 22 Nov 2015
+
+the thin metal sheet, a reflective yet a liminal piece, attempts to
+uncover mysteries that are only open to the beholder. sometimes, objects
+do have malice enchantments in them, and the eyes unlock them out of
+habit. should this be the case? when viewing from another surface this
+same viewer, he glows with the foe, he prays with the perilous bunch
+that is his kin. he does not cuss unattractive pitches, but, as and if
+he exhales, he exhales a poison cloud that had long dwelled inside. he
+frees raven, and thus he is freed, if only temporary. it is a wonderful
+spectacle, if you ask me, to come to those moments when one feels alive
+with one's self. to feel the void retreating to its abyss in one stale
+breath.
+
+{{< btt >}}
+### Entry # 269
+Date: Wed, 25 Nov 2015
+
+i am once again haunted by a renewed beating-bad, breaking the shape of
+its old vessel, as if china when subjected to rapid thermal fluctuations---ice
+then ire then cold then coal---to form a different stasis to
+contain the essence.
+
+absence would be an ace state if it weren't for the choice to commit
+(to) a sabado mistake. on it victorian-era sleuth-style: i dive into a
+helpless case. humans reach for the stars, gamma with or without.
+
+unceremoniously here again with the annual plight of fighting what to
+others must not be fought but rather accepted. here, assimilating both
+smog and snot into a wound behind an ear, and dust backfilling the
+doggone crevices, as i contemplate on a chair the way the lights play
+for grace, if not for a theistic symbol of horseplay.
+
+a white on mic mimics mother tongue poorly so as to invite humor, but
+this is simply pale, and frankly, he wanks on scores of eyerolls from
+some of the audience who cannot ingest a sound he produces. the others
+seem to enjoy his gimmick though.
+
+scars line up to park here: this plane uncharted that brings to vision
+sightly dresses pacing the velveteen. of course, the velvet itself is as
+authentic as it can get, unseen only to the elite before but now just
+strides away. however, even when we do not connect on any level, even
+when the sour growl of long-live stomach progresses to deep
+reverberations of tectonic plates, absence does not taper the taste left
+by pussyfoot in mouth, nor the chills in its cavities. images clipped by
+the mental camera are prone to alterations, mind you, probably of and by
+the disenfranchised. when i repress the shutter, the whole thing becomes
+corrupted.
+
+{{< btt >}}
+### Entry # 270
+Date: Mon, 07 Dec 2015
+
+People who immediately notice curtain designs throw a bunch of garbage
+into a bag and go to an airport, purposefully wanting to migrate back to
+places they only see in dreams. The same people to report back days
+later with a newly-acquired talent: the vindication of coma-backs as
+each relive drunken encounters comprising largely of cascading crimson
+turrets from meters, meters there.
+
+{{< btt >}}
+### Entry # 271
+Date: Mon, 14 Dec 2015
+
+Inwards the frame come many forces that i do not have the capacity to
+deal with yet. I go with so few a tool for my calling yet I go anyway.
+Not that reason admonishes the lowest point of body to rectify the very
+existence of vile, but to do so must also mean defeating the original
+case. I know, says moi: nature tends to self-correct. In my case, I try
+to keep the paleolithic fields bereft of antimatter, as real as it does
+not sound, even if it takes purloining underrated garments inexplicably
+stained with unwarranted summons of daybreak before striding to
+eat-sleep-work facet of this current fever.
+{{< btt >}}
+### Entry # 272
+Date: Mon, 14 Dec 2015
+
+o'er there modern perils find me blithely dipping the litmus into some
+acid test to predict how certain metals behave. or dare their ore
+origin. the solution fizzles for a moment, and when the paper is lifted,
+{{< btt >}}
+### Entry # 273
+Date: Mon, 21 Dec 2015
+
+it was in a dream the other night: i downed four or five bottles and
+felt somewhat lonelier than before. i did just fine, though. it was when
+your ghost appeared from thin air, and your being decided to bury its
+face on my neck, that i trembled so coldly i had to shake myself awake.
+rebooting the senses, as usual, didn't seem logical at the moment. but i
+was glad i woke up; i fought nonsense with nonsense, which is a good
+methodology to incorporate in one's plowing into adult life, studies
+say.
+
+
+{{< btt >}}
+### Entry # 273
+Date: Tue, 22 Dec 2015
+
+the blatant pinch, as if an atom of epidermis when struck, dissolves all
+recurring thoughts that daftly persists. two vermilion bows of different
+polarities inch toward the graces of one another, not minding
+crookedness nor age-old filth materializing from the urn. when they do
+touch, some switch is triggered to trip just in time to deplete the
+subject of nerves, rightfully sparing him two revolutions of suffocating
+sophistication. as the subject normalizes, he gains what has momentarily
+left him.
+{{< btt >}}
+### Entry # 274
+Date: Sun, 03 Jan 2016
+
+I only have pictures of my dog, Hogan, as proof of documentation that I
+got past the dread of fireworks some days ago. He seems purposeful now,
+and, truthfully, so must I.
+
+
+{{< btt >}}
+### Entry # 275
+Date: Tue, 05 Jan 2016
+
+in the beginning, nothing fabulous soared over the horizons except for a
+looming Sluggishness, only at the time, it was sort of a gargantuan dry
+plasmid. if it were to be seen, it would have looked gooey, and it being
+shapeless was the only shape it was known for. however, none of the
+accounts i have read thus far confirmed this. all of which are
+"educated" suspicions based on in-depth studies of tragedies that befell
+those who dared view it with meager eyes. i shall not speak of such
+tragedies for this will not be another sad story to post on the internet
+for everyone to spit at---*no*.
+
+in the beginning, there came about tons of books of praise, all written
+by, *and* for, some being known as the Hydrogen God. the Hydrogen God,
+out of his lack of respect for balance, thought everything seemed too
+refined for palatability; thought everything needed a different stir to
+shake up and wake up the tired droning buzz. he wanted a brand new high,
+basically.
+
+so, the Hydrogen God tore Sluggishness from its place in space, and with
+the right kit at hand, rolled it into one galactic spliff. the Hydrogen
+God lit up one end and puffed into the other. he blew a stream of smoke
+into the nether, and from the cloud, HG created the first Lazy Man.
+
+i was not given a name. maybe the effects of Sluggishness had already
+gone to HG's bloodstream, and he was therefore too pinned down to do
+anything else, naming his creation included. besides, who needs a name?
+don't look at me. i am not one to be labeled by some vagabond deity who
+cannot even contain the effects of his undoing. i do not need a name.
+not in this place, anyway, nor in this lifetime...
+
+i sat there, too patiently, in that oblivion where my creator summoned
+me. nothing fabulous kept me afloat. i thought of impeding any
+fluctuation of the joule parameters within my vicinity that might
+jumpstart a significant chain of events which could lead to the eventual
+formation of an intelligent life form. and you know what, i did just
+that. been at it for a long time now. all for a sorry fun.
+
+it is not a matter of how or why, that much i can tell you.
+
+another hobby i recently got myself into: i pen short short stories, for
+personal consumption, of course. the Hydrogen God is still too zoned out
+to be bothered conjuring cosmic mythos, so i took it upon myself to
+imagine infinite number of worlds. you know, to pass infinite time. i
+see no problem in that -- generating that much fiction, i mean -- as
+long as i have myself and the vast dark playground before me. and this
+growing dissociation inside, what else!
+
 {{< btt >}}
 
 ### One-Liners

@@ -49,9 +49,9 @@ Please email me first if you plan to give me any of these.
 - New battery for MSI Wind U123
 - Raspberry Pi (any model), used and in good working condition[^used]
 - IBM Thinkpad T40, used and in good working condition.
-[More info in this log](/old-laptop#ibm-thinkpad-t40).
+[More info in this log](/38#ibm-thinkpad-t40).
 - Apple Magsafe 1 L-type power adapter.
-[More info in this log](/old-laptop#apple-power-adapter).
+[More info in this log](/38#apple-power-adapter).
 - LCD or LED computer monitor, used and in good working condition
 - e-ink reader, used and in good working condition
 - Mechanical keyboard, 75% or 80% (tenkeyless, TKL)

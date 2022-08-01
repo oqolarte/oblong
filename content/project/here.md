@@ -6,7 +6,7 @@ draft: false
 ---
 {{< ongoing >}}
 
-For the month of May 2022,
+~~For the month of May 2022,~~
 I'll attempt to get to know more where I currently am.[^home]
 
 Inspired by Kevin Kelly's [The Big Here Quiz](https://kk.org/thetechnium/the-big-here-quiz/),[^quiz]
@@ -58,7 +58,7 @@ The STP treats collected wastewater from households
 to remove contaminants before it is released into the environment.
 
 {{< btt >}}
-## How many feet (meters) above sea level are you?
+## Distance above sea level?
 
 According to [this website](https://whatismyelevation.com/),
 I'm around 50 meters above sea level.
@@ -71,7 +71,7 @@ Kalachuchi is one.
 
 {{< btt >}}
 
-## How far do you have to travel before you reach a different watershed? Can you draw the boundaries of yours?
+## Distance from the next nearest watershed?
 
 The next nearest watershed is Ipo Watershed,
 roughly ~40 kilometers out of the National Capital Region.
@@ -83,3 +83,10 @@ Tuff[^tuff] is what's beneath me.
 It's a product of on site weathering of pyroclastic materials with high silt content in sandy soils and contains a few silty clay soil.
 
 [^tuff]: Joenel G. Galupino, & Jonathan R. Dungca. (2019). QUEZON CITY SOIL PROFILE REFERENCE. *GEOMATE Journal*, 16(58), 48–54. Retrieved from https://geomatejournal.com/geomate/article/view/2710
+
+## Before your tribe lived here, what did the previous inhabitants eat and how did they sustain themselves?
+
+INSUFFICIENT DATA FOR MEANINGFUL ANSWER.
+
+But, if I had to guess, they were already getting their food from some form of
+agriculture.
