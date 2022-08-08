@@ -23,7 +23,6 @@ Listen [here](https://youtu.be/7iYUdS3DmFU) (YouTube)
 
 Anyway, here is the list, in no particular order:
 
-1. Digital [Zwicky box](https://nesslabs.com/zwicky-box) written in C
 1. Wifi router from household rejects
 1. Water filter
 1. Soap from used oil
