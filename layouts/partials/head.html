@@ -2,7 +2,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="author" content="OQ Olarte">
-    <meta name="description" content="Researcher's log">
+        <meta name="description" content="Researcher's log">
+        <meta name="keywords" content="{{ with .Params.keywords }}{{ delimit . ", "}}{{ end }}" />
         {{ hugo.Generator }}
         {{ $css := "css/style.css" | absURL }}
         <link rel="stylesheet" href="{{ $css }}">
@@ -11,6 +12,7 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
+        <link rel="canonical" href="{{ .Permalink }}" />
         {{ $title := site.Title }}
         {{ if not .IsHome }}
         {{ $title = printf "%s" .Title}}

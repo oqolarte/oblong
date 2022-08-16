@@ -11,6 +11,127 @@
     
     
     <item>
+      <title>Life Expectancy</title>
+      <link>https://ohio.araw.xyz/103/</link>
+      <pubDate>Tue, 16 Aug 2022 10:13:31 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/103/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Closing the &lt;a href=&#34;https://ohio.araw.xyz/here&#34;&gt;Knowing Here&lt;/a&gt; project, because honestly, I&amp;rsquo;ve lost
+interest in it.
+And that&amp;rsquo;s okay&amp;mdash;we should be allowed to shut down small personal projects
+without feeling bad.&lt;/li&gt;
+&lt;li&gt;&amp;hellip; and other minor code edits in the background of the frontend,
+if you know what I mean.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;thinking-about-the-end&#34;&gt;Thinking about the End&lt;/h2&gt;
+&lt;p&gt;Amid boredom, my mind wandered&amp;mdash;or at least I thought it did&amp;mdash;while
+waiting for things at work to pick up.&lt;/p&gt;
+&lt;p&gt;And so, like most normal people do,
+I thought about death.
+Or more specifically,
+the age I would die,
+which I can&amp;rsquo;t know for sure.&lt;/p&gt;
+&lt;p&gt;This would be a worthwhile mental exercise,
+I thought, and so I made an armchair research,
+and these are my findings.&lt;/p&gt;
+&lt;h3 id=&#34;average-life-expectancy-in-the-philippines&#34;&gt;Average Life Expectancy in the Philippines&lt;/h3&gt;
+&lt;p&gt;As of writing this,
+the current &lt;a href=&#34;https://www.macrotrends.net/countries/PHL/philippines/life-expectancy&#34;&gt;life expectancy for Philippines in
+2022&lt;/a&gt; is
+71.53 years,
+a 0.18% increase from the previous year.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;The annual rate of increase could be because of a multitude of things,
+like improvement of quality of life,
+or advancement in medical science.&lt;/p&gt;
+&lt;p&gt;This also is likely to vary from year to year,
+just like in the historical life expectancy data.
+This is what I&amp;rsquo;ll use in my amateur projection of when I might die.&lt;/p&gt;
+&lt;h3 id=&#34;quick-maths&#34;&gt;Quick Maths&lt;/h3&gt;
+&lt;p&gt;Disclaimer:
+This computation is just quick maths.
+I&amp;rsquo;m almost certain that it&amp;rsquo;s not accurate.
+This was done only as a low-effort mental exercise.
+But feedback, as always, is appreciated.&lt;/p&gt;
+&lt;p&gt;I opened a spreadsheet and plotted the data in a table,
+like this:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Year&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Growth Rate&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Life Expectancy&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2022&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.18%&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;71.53&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.79%&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;71.659&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2024&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.36%&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;72.225&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2025&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;1.08%&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;72.485&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;In the Growth Rate column, I used the function &lt;code&gt;RANDBETWEEN&lt;/code&gt;
+to get a random value between a range of integers,
+and in this case,
+0 to 123.&lt;/p&gt;
+&lt;p&gt;The formula I used for this:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;=RANDBETWEEN(0,123)/10000
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Or replace &lt;code&gt;(0,123)&lt;/code&gt; with the absolute cell references where
+you might place these values, e.g. &lt;code&gt;($E$2,$F$2)&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;RANDBETWEEN&lt;/code&gt; function only accepts integers.
+So I had to use the values 0 and 123 as the lower and upper limits
+respectively,
+which will then be divided to 10000 to get the rate in decimal form.
+Sure enough, according to the historical data,
+there&amp;rsquo;s at least one year when the growth was 1.230%,
+while some years there had been no growth at all.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a screenshot for visuals:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/life-exp.png&#34; alt=&#34;Spreadsheet showing Life Expectancy computation&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;so-when-do-i-expect-to-die&#34;&gt;So, when do I expect to die?&lt;/h3&gt;
+&lt;p&gt;Assuming I&amp;rsquo;d only last until 72,
+that should be around the year 2065.&lt;/p&gt;
+&lt;p&gt;But by then,
+do we expect advances in technology and medicine and whatnot?
+If so, I would still expect to live way into my 80s.&lt;/p&gt;
+&lt;h2 id=&#34;afterthought&#34;&gt;Afterthought&lt;/h2&gt;
+&lt;p&gt;This little exercise can&amp;rsquo;t encompass all the nuances
+within the research of life expectancy,
+I think that needs to be stated clearly.&lt;/p&gt;
+&lt;p&gt;This doesn&amp;rsquo;t account all the unforeseen tragedies and comedies of the future
+that will likely affect these numbers.
+But it&amp;rsquo;s fun running the numbers,
+at least for me,
+and writing something about it.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Philippines Life Expectancy
+1950-2022.
+&lt;a href=&#34;https://www.macrotrends.net/countries/PHL/philippines/life-expectancy&#34;&gt;https://www.macrotrends.net/countries/PHL/philippines/life-expectancy&lt;/a&gt;. Retrieved 2022-08-16.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Annual Flu</title>
       <link>https://ohio.araw.xyz/102/</link>
       <pubDate>Mon, 08 Aug 2022 07:22:29 +0800</pubDate>

@@ -4,10 +4,10 @@ date: 2022-05-01T18:46:15+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
-{{< ongoing >}}
+{{< closed >}}
 
-~~For the month of May 2022,~~
-I'll attempt to get to know more where I currently am.[^home]
+For a few days last May 2022,
+I had tried to get to know more where I currently am.[^home]
 
 Inspired by Kevin Kelly's [The Big Here Quiz](https://kk.org/thetechnium/the-big-here-quiz/),[^quiz]
 which in turn is inspired by Peter Warshall,
