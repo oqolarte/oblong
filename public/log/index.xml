@@ -58,29 +58,29 @@ like this:&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Year&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Year&lt;/th&gt;
 &lt;th style=&#34;text-align:right&#34;&gt;Growth Rate&lt;/th&gt;
 &lt;th style=&#34;text-align:right&#34;&gt;Life Expectancy&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;2022&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2022&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;0.18%&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;71.53&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;2023&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2023&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;0.79%&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;71.659&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;2024&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2024&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;0.36%&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;72.225&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;2025&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2025&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;1.08%&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;72.485&lt;/td&gt;
 &lt;/tr&gt;
@@ -102,7 +102,12 @@ Sure enough, according to the historical data,
 there&amp;rsquo;s at least one year when the growth was 1.230%,
 while some years there had been no growth at all.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a screenshot for visuals:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/life-exp.png&#34; alt=&#34;Spreadsheet showing Life Expectancy computation&#34;&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/life-exp.png&#34;
+         alt=&#34;spreadsheet showing life expectancy calculation&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;featuring LibreOffice Calc&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;h3 id=&#34;so-when-do-i-expect-to-die&#34;&gt;So, when do I expect to die?&lt;/h3&gt;
 &lt;p&gt;Assuming I&amp;rsquo;d only last until 72,
 that should be around the year 2065.&lt;/p&gt;
