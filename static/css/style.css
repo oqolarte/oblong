@@ -30,7 +30,7 @@ footer :target {font-weight:bold}
 .container { max-width: 700px }
 .small {font-size: 0.8em}
 .toc {font-size:0.8em; border: 1px solid; padding: 0.7em}
-.footnotes { font-size: 0.9em }
+.footnotes { font-size: 0.9rem }
 .footnotes :target {font-weight:bold}
 .footnote-ref:before { content:"["}
 .footnote-ref:after { content:"]"}
