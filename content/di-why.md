@@ -4,16 +4,13 @@ date: 2021-02-26T10:08:28+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-I'm trying to get into the habit of doing projects so I stay sharp.
+Doing side projects keep me sharp.
 In the process, I'll try to document each step,
-and publish whatever findings I might have here for public viewing.
+and publish whatever findings I might have here for public (re)viewing.
 
-We need to be sharing ideas freely,
-not covet them.
-
-Like any other person, my interests oscillate wildly,[^smiths]
+Like many, my interests oscillate wildly,[^smiths]
 so the ideas listed here can't be lumped into one big category.
-The list is likely to grow or shrink,
+The length of list changes from time to time,
 depending on my current situation.
 "Life happens," they say.
 I tend to agree.

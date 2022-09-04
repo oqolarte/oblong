@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ohio.araw.xyz/104/</loc>
-    <lastmod>2022-08-23T11:42:41+08:00</lastmod>
+    <loc>https://ohio.araw.xyz/105/</loc>
+    <lastmod>2022-09-04T23:17:33+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/</loc>
+    <lastmod>2022-09-04T23:17:33+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/104/</loc>
     <lastmod>2022-08-23T11:42:41+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/103/</loc>
@@ -121,9 +124,6 @@
   </url><url>
     <loc>https://ohio.araw.xyz/70/</loc>
     <lastmod>2022-07-28T22:54:42+08:00</lastmod>
-  </url><url>
-    <loc>https://ohio.araw.xyz/mr/</loc>
-    <lastmod>2022-03-13T13:08:21+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/nice/</loc>
     <lastmod>2022-07-28T22:54:42+08:00</lastmod>
@@ -369,6 +369,9 @@
     <lastmod>2022-07-28T22:54:42+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/cv/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://ohio.araw.xyz/search/</loc>
     <priority>0</priority>
   </url><url>
     <loc>https://ohio.araw.xyz/categories/</loc>

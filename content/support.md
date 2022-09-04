@@ -10,20 +10,18 @@ draft: false
 If you're reading this,
 thank you for considering to support what I do online.
 
-I'm always polishing my projects listed in this site,
+I'm always polishing this site's contents,
 so that they're updated, and more importantly,
 as accessible to as many as possible.
 
-I have also put up a [list of interesting project ideas]({{< ref "di-why.md" >}}) that,
-depending on circumstances, I may or may not pursue.
+I have also put up a [list of interesting project ideas](/di-why) that are
+currently in their incubation stage.
 
 ## Brain Support
 
-See any mistakes that I made?
-Perhaps you'd like to point out some factual deficiency in my reporting?
-Or typo error?
+See any errors?
 I accept constructive criticisms,
-because I believe they help me grow and learn.
+because they help me grow and learn.
 
 If you just want to share ideas,
 my inbox welcomes those as well.
@@ -31,7 +29,7 @@ my inbox welcomes those as well.
 Feel free to message me!
 
 ## Financial support
-- [Liberapay](https://liberapay.com/oqo_frxbj/donate) ![Libera goal stat](https://img.shields.io/liberapay/goal/oqo_frxbj.svg?logo=liberapay)
+- [Liberapay](https://liberapay.com/oqo_frxbj/donate)
 - [Paypal](https://paypal.me/oqolarte)
 - [BPI QR Code](/image/BPIQR_OQO.png) (Philippines only)
 
@@ -41,8 +39,9 @@ If you prefer other means of supporting me (e.g. bank transfer, GCash, etc.), pl
 
 ## Hardware support
 
-I'm getting in the habit of fixing, making, and repairing stuff.
-This wishlist constantly changes.
+Whenever I can, I make, fix, and/or repair stuff.
+
+The wishlist below hopefully reflects that.
 Please email me first if you plan to give me any of these.
 
 - New 6- or 9-cell battery for Thinkpad X220/X230

@@ -6206,6 +6206,288 @@ long as i have myself and the vast dark playground before me. and this
 growing dissociation inside, what else!
 
 {{< btt >}}
+### Entry # 276
+Date: Wed, 06 Jan 2016
+
+for each of the fresh reddish spots i scalpel'd with the blunt of a
+forefinger, i chimed a heart-crafted curse to dispel the unwarranted
+jovian visits that kept me rolling the sweat onto the sheet sea while
+fending off bugs that have tried poking me with their probosces and
+mandibles.
+
+Sandman, come in---you who mastermind putting powdered
+benadryl retina-deep in your woe-filled devotees ---and sort this mess
+out for me. in the morning, i live a radical life of not masking the
+previous night's hubris with strong persuasion sitting on my perfume
+shelf. i imbibe the provincial smell whence i hail. everywhere reeks of
+hyperspace, but not me: i have yet to find my grip on what things still
+feel loutish upon the muted function of third leg.
+
+
+{{< btt >}}
+
+### Entry # 277
+Date: Tue, 12 Jan 2016
+
+You want the mechanics of peptide, but I only have the schematics of
+polyester. The inner anarchist reaches for the doomsday switch, but the
+literate hive mind swats the extending arm; wishes instead for every
+peyote here to pop the magic. To enlighten. To tread the sliver with all
+limbs flapping less, the tides ripping fewer pores at soles, the wind
+poeming benign whispers against ears, all of which parts of balancing
+act. And the act is protein versus plastic.
+
+But really, I am more of
+anarchaic than political antihero awaiting backfire. Meaning, the soul
+reacts to familiar stimuli which so despises resolution that some
+passersby might mistake them for keyboard propaganda. This is never the
+case.
+
+Admittedly, I am no hacked engine in the game of fabrication.
+Everybody has spat sulfur pyre on the imp's face without assessing the
+probable comebacks of said critter. Because that hits right sometimes.
+We have an itch for that. And we have a special occasion for
+scratching that itch.
+
+Those who babble otherwise usually have megaphones
+locked in their hands, and who trusts people with megaphones?
+
+As for me,
+I beckon not good karma as bargaining device for my supposed Good Deed,
+but Whatever comes, I always hope that it is filtered.
+
+{{< btt >}}
+
+### Entry # 278
+Date: Sun, 17 Jan 2016
+
+within two hours of sleep, i dreamed of sneaking through the night
+peeping down the flight of stairs to see where the droning sound was
+coming from. i saw darth vader speaking to two huge hemispheres of
+brain. i realized that the talking brainiacs were manifestations of the
+sith douchebag's current dilemma. they were in a debate whether to tell
+luke the Whole Story. before adjorning, however, one of them sensed that
+someone "from nearby is listening." i dashed back to my bed, dived
+beneath sheets, and pretended to sleep, just in time before a spotlight
+beamed at me. the deep mechanical sound of heavy breathing wrapped
+around my neck; anakin was choking me.
+
+apparently, this was a nightmare.
+
+{{< btt >}}
+
+### Entry # 279
+Date: Sun, 17 Jul 2016
+
+all you matchmakers don't know anything about spurious chit-chat. if you
+truly seek sapiosexual, go and try to buy a car from a salesperson.
+that's your future plutonic kisser.
+
+{{< btt >}}
+
+### Entry # 280
+Date: Mon, 18 Jul 2016
+
+Here it is: constantly forwarding through spacetime slosh is, at any
+point, the first attempt at barbiturate-laced Slurpee.
+
+The need for validation spams my inbox,
+and I'm not astute with these kinds of commotion to begin with.
+I think about my welfare and how it really
+isn't well nor fair. Tossing around thoughts. Trying to laugh at inside
+jokes. Only drawings of ghosts I have seen; their existence has yet to
+materialize. Something must be out of place. Is it because I'm too far
+out there or in too deep? Chasing the wrong sedan?
+
+I don't like it when
+people tell me that I shouldn't stop being me, for I am my own
+speculation, a reality bent on forgoing its very details to make room
+for other semi-substantial objects. I am unique like a damned snowflake
+in a winterless country. Trying to laugh at inside jokes. They never
+tire me. *Pero puta ang init talaga,* don't tell me otherwise.
+
+
+{{< btt >}}
+
+### Entry # 281
+Date: Thu, 21 Jul 2016
+
+what i was saying: scoring brownie points with the hit peeps must be
+parallel to a textbook drama they stir.
+
+what i was implying: their kind
+of amusement has something to do with the mildness of their nature.
+
+{{< btt >}}
+
+### Entry # 282: *postmortem suggestions*
+Date: Fri, 22 Jul 2016
+
+(1) bury your guilt with honey-soaked wrappings
+in silica; (2) let your secrets sink to the hydrostatic lagoon floor,
+murky amongst other secrets; (3) your raconteur voice is on reverb; (4)
+your duties stop haunting you at bedrock; (5) chill
+
+{{< btt >}}
+
+### Entry # 283
+Date: Sat, 23 Jul 2016
+
+So many upbeat tunes crossed with deadening lyrics for taking a walk.
+The surge comes from somewhere Elise, comes from two hemispheres that do
+not know where to place the excess. The brain signals the body to get up
+and actually go do something. The body can respond in so many ways. One
+of which is buying a liter of merlot fresh from a fly-infested wallet.
+Another is something Elise.
+
+{{< btt >}}
+
+### Entry # 284
+Date: Sun, 24 Jul 2016
+
+the theses we overcome, the cases we study, the population in which we
+thrive, the days when we catch gamma with skin, the people we whisk
+away, the vitriol from one speaker to another
+
+-- in order to forward the plot, we improvise with what we have. we pick
+but are only chosen sometimes. we give off colors to the untrained eye.
+we infer correctness based on others' errata and yet the current state
+of our spirits are perpendicular conrete structures, devoid of epoxy.
+with digital love we evoke phlegm from underused larynx and promptly
+spit it on sepulchre. we buy into the collective retardation, and the
+romantic fervor of flesh is the currency. i don't want to believe that
+this is it. i have been at it for quite some time now, and i want out.
+
+i have no actual depth when i talk about these things. at the very
+least, my attempts inaccurately convey comprehensive thought process
+that could forward the plot. and yet what do we have here is a musing.
+
+{{< btt >}}
+
+### Entry # 285
+Date: Wed, 27 Jul 2016
+
+might be a rotten wallflower whose vitriol seeps through conversations.
+i think this part of me is intense. proof: sometimes when i sally past a
+lamp post, the light goes out for a while. there has to be an
+explanation to all this.
+
+{{< btt >}}
+
+### Entry # 286
+Date: Sun, 31 Jul 2016
+
+a child of the Ocean comprises 95% of unexplored secrets, the darkest of
+which obliterates. an evolved creature addressing the surface as skin,
+already reached maturation billions of summers ago, but acts childish
+nonetheless. the waves roll in quick and recede back. they stretch out
+and feel the eyes following their curves. a small change on skin
+prepares the person for the ubiquitous lure of littoral babes, but since
+people riding the same surf dislike follow-through shuffles, the person
+simply allows tender shit to overwhelm until fatigue. at night, the
+person exclaims, "none of my people are hitting on me."
+
+{{< btt >}}
+
+### Entry # 287: *BREAKFAST WITH LITANIES*
+Date: Thu, 04 Aug 2016
+
+1. Dismay that stretches for lightyears affects the chances of Amity,
+but since i have the basic knowledge of the universal forces at work, we
+can stop at the nearest orbit.
+2. I nurse my delusion here, the core of which is a common denominator
+amongst my genus. To quench dry throats with muddied corpse. To still
+the famished guts with potential firm oodle. A one-way street to the
+hills with no intention of going down. Oh, wait, that is the intention!
+To lay bare my light schemes. To strike the opening of the dam.
+3. Strange dialogues lead to a certain blend of fun:
+kind-slash-sardonic, and involves a lot of knives. Murderous *pero medyo bastos*, if that's a thing.
+4. Volatile gas transforms a meadow into possibly a burning field of
+poaceae in a sundress. Butane bites make sharp shells go boon.
+
+{{< btt >}}
+
+### Entry # 288
+Date: Wed, 10 Aug 2016
+
+The dynamics at work here simplify actions into ___.
+For example, I pull you towards me and you sigh.
+I push your patience to edge and you frown.
+I have my incurable malaise, and you have your resilience.
+I detest projections, but we tend to talk about them anyway.
+
+{{< btt >}}
+
+### Entry # 289
+Date: Wed, 17 Aug 2016
+
+Sleepless junkies (only two of them) meet up in the metro's heart, and
+out of taste for magic, things escalate within a filip's sound. But the
+first person, a male, is not actually sleepless. In fact, he cannot
+function without a proper rest, like most cats his age. He is not a cat
+person, though. He sleeps better when with the canine friend around than
+the dog who accompanies him whilst asleep.
+
+So, let me repeat:
+
+A sleepless junkie and a dog person meet up in the metro's heart, and
+because the two can only spar with each other using pixie dust during
+play time, matters get out of hand quickly. That's a good thing, in
+retrospect. In this life where strange people collide, patience is a
+platinum commodity. The second, the junkie, is a personified vat of
+pheromones. It is understandable then to have sentient beings vying for
+her attention as she whisk each one away with a bird-flip. She goes home
+with the dog person one night to be able to witness the sunrise together
+the following morning.
+
+Both of them spends a good deal of locomotive exercise all this time.
+
+
+{{< btt >}}
+
+### Entry # 290
+Date: Thu, 18 Aug 2016
+
+dissociative disorder---i think a large fraction of my existence
+comprises this, sans the professional papers to officiate the prognosis.
+
+the delay of senses, the obscure metathesis that comes from looking
+beyond perception, the recommendations of experts on the matter on how
+to behave like a statistically adequate individual: they all seem to go
+hand in hand with each other, but seeing that, upon careful study, each
+is immiscible with the other two, i am left confused, internally
+scratching the internal of my head. i want to believe that this isn't
+the case, but most of the time, as i may have told multiple people many
+a time already, i easily feel out of place. it's as if i were really out
+of my body, in a nearby space afloat, watching this self go about his
+routine, mindless and/or mechanical.
+
+on my best days, i'd like to
+believe i am a functional solpsist, if that's a thing.
+
+from time to time, there needs to be some sort of reminder from this self to let the
+whole of me know that everything---literally the whole universe, as per
+scientific suggestions---leads to heat death. it's not exactly
+aphrodisiac that in telling this whole notion of maximum entropy, one
+would make one's partner undress quicker than a collapsing star.
+
+however, with the right person at the right time using a mouth and words
+and spit that are maced with peppermint-ish bliss, it could put things
+into perspective.
+
+maybe i can do this quarterly, this twisted reminder,
+a periodic self-love full of methods to vanquish the selected segments
+of reality i particularly dislike at the time, until i recover from
+whatever blurred wound it is that i'm recovering from. i don't even know
+if science can back me up on this. i'm not even sure if i want science
+to back me up on this, because it might entail a whole lot of
+paperworks.
+and my life right now is just date after date of corporate
+diligence which i'd like to screw up because they are becoming toxic. i
+just want the damn thing to beam me up, and let me leave already, for
+realz.
+
+{{< btt >}}
 
 ### One-Liners
 Tweet-like witticisms back in the day.
@@ -6330,6 +6612,8 @@ making life spent watching less disappointing.
 1. is my coughing thrash verses a reckless behavior?
 1. maybe there is niceness in boarding unknown engines that take people
 elsewhere.
+1. the dream is to write at least 200 pages of walkthrough for an obscure rpg in purple prose
+
 
 {{< btt >}}
 

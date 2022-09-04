@@ -1,24 +1,23 @@
-@media (prefers-color-scheme: light){
-        body {color:#000;background:#f5f5dc}
-        a:link {color:#7aa3cc}
-        a:hover, a:visited:hover {color:#009}
-        a:visited {color:#551a8b}
-}
-body {  margin:1em auto;max-width:70ch;padding: 1.5rem;
+body {
+        margin:1em auto;max-width:70ch;padding: 1.5rem;
         font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir, "Segoe UI", "Helvetica Neue", Helvetica, Ubuntu, Cantarell, "Open Sans", "Fira Sans", "Droid Sans", roboto, noto, arial, sans-serif;
-        color:#edf2ea;background:#0a0012}
+        color:#edf2ea;background:#0a0012
+}
 a:link {color:#7aa3cc}
 a:hover, a:visited:hover {color:#36ca5c}
 a:visited {color:#cc7aa3}
 a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
-a[href^="https://"]:not([href*="ohio.araw.xyz"]):after{
+a[href^="https://"]:not([href*="ohio.araw.xyz"]):after {
         content: "\2197";
         color: #36ca5c;
-        display: inline-block }
-h1,h2,h3,h4,h5,h6 { font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
-        line-height:1.2 }
+        display: inline-block
+}
+h1,h2,h3,h4,h5,h6 {
+        font-family: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+        line-height:1.2
+}
 time {padding-right: 0.7rem}
-img { max-width:100%; height:auto }
+img {max-width:100%; height:auto}
 table {border-collapse:collapse}
 td,th {padding: 0.5em; border-bottom: 2px solid}
 figure,figcaption { text-align:center;font-size: 0.8em;color: #808080;margin-right: auto;margin-left: auto }
