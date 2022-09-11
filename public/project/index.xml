@@ -99,23 +99,23 @@ It&amp;rsquo;s a product of on site weathering of pyroclastic materials with hig
 &lt;p&gt;INSUFFICIENT DATA FOR MEANINGFUL ANSWER.&lt;/p&gt;
 &lt;p&gt;But, if I had to guess, they were already getting their food from some form of
 agriculture.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;This doesn&amp;rsquo;t necessarily mean I&amp;rsquo;ll be mentioning the exact address of
 where I currently am.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;I won&amp;rsquo;t be taking this as a quiz,
 but will conduct a research for each item.
 So, this will definitely be an internet-assisted effort.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;Joenel G. Galupino, &amp;amp; Jonathan R. Dungca. (2019). QUEZON CITY SOIL PROFILE REFERENCE. &lt;em&gt;GEOMATE Journal&lt;/em&gt;, 16(58), 48–54. Retrieved from &lt;a href=&#34;https://geomatejournal.com/geomate/article/view/2710&#34;&gt;https://geomatejournal.com/geomate/article/view/2710&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -251,15 +251,15 @@ possibly by combining Beautiful Soup and Flask.&lt;/li&gt;
 &lt;li&gt;Implement by using your favorite programming language
 (C and Go comes to mind).&lt;/li&gt;
 &lt;/ol&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;While one could make connections,
 this is entirely different from the art movement of similarly spelled name.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -603,14 +603,14 @@ This way, photography, in my opinion, has served its purpose:
 to capture a feeling in a visual medium to be our anchor to the past.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Not even mine. &lt;em&gt;Daghang salamat, &amp;lsquo;Nay Merci!&lt;/em&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -840,7 +840,7 @@ processor) and Calc (spreadsheet) installed.&lt;/li&gt;
 
 &lt;h2 id=&#34;rss-feed-readers&#34;&gt;RSS Feed Readers&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://newsboat.org/&#34;&gt;newsboat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://newsboat.org/&#34;&gt;newsboat&lt;/a&gt; &amp;ndash; reader for the text console.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -1294,10 +1294,10 @@ We need to simplify our workflows.
 Only use what is needed, both in hardware and software.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Gopher protocol is an old internet protocol.
 Unless you install a specific plugin,
 modern web browsers, like Chrome or Firefox,
@@ -1305,27 +1305,27 @@ can&amp;rsquo;t access the contents in gopher.
 &lt;code&gt;w3m&lt;/code&gt; is one of the command-line browsers that are still available today that can access gopher.
 This is mentioned later in the article.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Shah, A. (2008, May 11). &lt;em&gt;Microsoft to limit capabilities of cheap laptops.&lt;/em&gt; Computerworld. &lt;a href=&#34;https://www.computerworld.com/article/2786595/microsoft-to-limit-capabilities-of-cheap-laptops.html&#34;&gt;https://www.computerworld.com/article/2786595/microsoft-to-limit-capabilities-of-cheap-laptops.html&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;Clarke, G. (2009, November 12). Windows XP on netbooks to lose life support? The Register. &lt;a href=&#34;https://www.theregister.com/2009/11/12/microsoft_windows_7_netbooks/&#34;&gt;https://www.theregister.com/2009/11/12/microsoft_windows_7_netbooks/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
 &lt;p&gt;&lt;code&gt;vi&lt;/code&gt; in OpenBSD is actually an implementation of &lt;a href=&#34;https://www.bostic.com/vi/&#34;&gt;nvi&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
 &lt;p&gt;Of course, this is purely a subjective assessment of my system.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
 &lt;p&gt;According to &lt;code&gt;pkg_add&lt;/code&gt;, &lt;code&gt;w3m-img&lt;/code&gt; is in direct conflict with &lt;code&gt;w3m&lt;/code&gt; (in base install).
 I installed the former after removing the latter.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:7&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:7&#34;&gt;
 &lt;p&gt;I also use Github for other non-blogging projects, so doing this is vital.&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1347,7 +1347,7 @@ Bujo remains my anchor to the analog world,
 where things are slower and require more deliberation.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re curious what this is, Ryder Carroll, the creator, explains it &lt;a href=&#34;https://bulletjournal.com/pages/learn&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here I discuss my bidirectional setup,
-riffed from a combination of Carroll&amp;rsquo;s and others&#39; minimal designs.&lt;/p&gt;
+riffed from a combination of Carroll&amp;rsquo;s and others&amp;rsquo; minimal designs.&lt;/p&gt;
 &lt;p&gt;Marked as &lt;strong&gt;on-going&lt;/strong&gt; because I&amp;rsquo;m always revising my bujo ways.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
@@ -1383,11 +1383,13 @@ riffed from a combination of Carroll&amp;rsquo;s and others&#39; minimal designs
 &lt;/div&gt;
 
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
-&lt;p&gt;A notebook and a pen(cil).
+&lt;p&gt;&lt;strong&gt;A notebook and a pen(cil).&lt;/strong&gt;
 Literally any kind will do.
 Some people even do it with tablet and stylus
 (usually iPad and Apple Pencil),
 but that&amp;rsquo;s unnecessary and too high-tech for my taste.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d argue that analog is the better choice,
+but it boils down to personal preference.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;preferred-but-not-required&#34;&gt;Preferred, but not required&lt;/h3&gt;
@@ -1472,15 +1474,15 @@ This is the main feature.&lt;/p&gt;
 &lt;p&gt;My Daily Log is many things: a to-do list, a reminder, an analog private Twitter, notepad, tracker, etc.&lt;/p&gt;
 &lt;p&gt;Below is the format I currently use:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;01 JAN, MON □
-        AF: tosilog, coffee
-        PF: sinigang na bangus, pakbet, brown rice
+    AF: tosilog, coffee
+    PF: sinigang na bangus, pakbet, brown rice
 
-        ○   New Year&#39;s Day! (event bullet)
-        -   The dog ate the sausage! (note bullet)
-        ·   Take out the trash (task bullet)
-      □ -   A flying cat was chasing me. Weird!
-        x   Prepare anti-hungover drink (task completed bullet)
-      * ·   Buy eggs
+  ○ New Year&amp;#39;s Day! (event bullet)
+  - The dog ate the sausage! (note bullet)
+  · Take out the trash (task bullet)
+□ - A flying cat was chasing me. Weird!
+  x Prepare anti-hungover drink (task completed bullet)
+* · Buy eggs
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Let&amp;rsquo;s break this down by section:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;The first line already contains several info.
@@ -1494,9 +1496,9 @@ previous night&amp;rsquo;s sleep.&lt;/li&gt;
 I list my meals during daytime (&lt;code&gt;AF&lt;/code&gt; or AM Food) and nighttime (&lt;code&gt;PF&lt;/code&gt; or PM Food).&lt;/li&gt;
 &lt;li&gt;The rest are bullets.
 I maintained Carroll&amp;rsquo;s bullet and signifier usage, with a bit of addition.&lt;/li&gt;
-&lt;li&gt;Bonus: I use other symbols for the rest of my trackers (e.g., a square means &amp;lsquo;I dreamt last
-night&amp;rsquo;), which I also use as signifiers for a note if I ever want to expound
-on them (see example above).&lt;/li&gt;
+&lt;li&gt;Bonus: I use other symbols for the rest of my trackers
+(e.g., a square means &amp;lsquo;I dreamed last night&amp;rsquo;),
+which I also use as signifiers for a note if I ever want to expound on them (see example above).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -1524,8 +1526,8 @@ I manage to install Vim on it,
 so that&amp;rsquo;s what I&amp;rsquo;m using when editing this one
 big text file.&lt;/p&gt;
 &lt;p&gt;Not only is it light on resources&amp;mdash;currently
-at ~175 KB storing 11 months worth of logged info&amp;mdash;it&amp;rsquo;s
-easily portable, as many operating systems accept plaintext.&lt;/p&gt;
+at ~175 KB storing a year&amp;rsquo;s worth of logged info&amp;mdash;it&amp;rsquo;s
+portable; all operating systems accept plaintext.&lt;/p&gt;
 &lt;p&gt;Mine is inventively named as &lt;code&gt;log.txt&lt;/code&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -1547,21 +1549,21 @@ It&amp;rsquo;s because they tend to focus on utility and productivity, not on ae
 &lt;p&gt;And, of course, thanks to Ryder Carroll for sharing this method to the world &lt;em&gt;for free&lt;/em&gt;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;In fact, the main tenet of bujo is rapid logging:
 to write down a thought quickly before the mind forgets it.
 As a consequence, the notebook becomes a list of list of items in bullet points,
 hence the name Bullet Journal.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;You see, it&amp;rsquo;s amazing how there are paid &amp;ldquo;courses&amp;rdquo; to &amp;ldquo;guide you in setting up&amp;rdquo; your own bujo.
 Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorite search engine, and see what comes up.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -1889,9 +1891,19 @@ It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion
         &lt;li&gt;&lt;a href=&#34;#entry--288&#34;&gt;Entry # 288&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--289&#34;&gt;Entry # 289&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--290&#34;&gt;Entry # 290&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#one-liners&#34;&gt;One-Liners&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--291&#34;&gt;Entry # 291&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--292&#34;&gt;Entry # 292&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--293&#34;&gt;Entry # 293&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--294&#34;&gt;Entry # 294&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--295&#34;&gt;Entry # 295&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--296&#34;&gt;Entry # 296&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--297&#34;&gt;Entry # 297&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--298&#34;&gt;Entry # 298&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--299&#34;&gt;Entry # 299&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--300&#34;&gt;Entry # 300&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#one-liners&#34;&gt;One-Liners&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -2752,7 +2764,7 @@ done a lot of bad things,
 and a little curse from them would only serve
 as a reminder that I should be doing worse.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t mind being missed by some chubby lass who happens to be one of
-the peers&#39; leading darlings, even if she&amp;rsquo;s just joking. I don&amp;rsquo;t mind
+the peers&amp;rsquo; leading darlings, even if she&amp;rsquo;s just joking. I don&amp;rsquo;t mind
 because I don&amp;rsquo;t believe her. She&amp;rsquo;s just being nice. Sometimes, I would
 like to think of myself as immune to such charms, but some charms
 develop new kind of strains that pass through my defense system.&lt;/p&gt;
@@ -3359,7 +3371,7 @@ thoughts to share.&lt;/p&gt;
 done a lot of bad things, and a little curse from them would only serve
 as a reminder that I should do worse.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t mind being missed by some chubby lass who happens to be one of
-the peers&#39; leading darlings, even if she&amp;rsquo;s just joking. I don&amp;rsquo;t mind
+the peers&amp;rsquo; leading darlings, even if she&amp;rsquo;s just joking. I don&amp;rsquo;t mind
 because I don&amp;rsquo;t believe her. She&amp;rsquo;s just being nice. Sometimes, I would
 like to think of myself as immune to such charms, but some charms
 develop new kind of strains that pass through my defense system.&lt;/p&gt;
@@ -3398,7 +3410,7 @@ agitated, for doing so might mess it up.&lt;/p&gt;
 &lt;p&gt;the things i would say to my kindergarten-self are definitive on their
 own. it&amp;rsquo;s just that, this boy was past his time that he couldn&amp;rsquo;t even look
 after his own or smell his morning breath. he would brush his teeth. he
-would smell of his parents&#39; cologne, because to his senses,
+would smell of his parents&amp;rsquo; cologne, because to his senses,
 they reminded him of people who loved his every cell. he could
 tie his own shoelaces, and now look at him, tall enough to see what&amp;rsquo;s
 over the fence.&lt;/p&gt;
@@ -3622,7 +3634,7 @@ vaguer as usual.&lt;/p&gt;
 &lt;h3 id=&#34;entry--96&#34;&gt;Entry # 96&lt;/h3&gt;
 &lt;p&gt;Date: Tue, 25 Mar 2014&lt;/p&gt;
 &lt;p&gt;how does one avoid not to tear up a bit upon hearing &lt;em&gt;Liebesträume No.
-3&lt;/em&gt;? (and by &amp;lsquo;tear up a bit&amp;rsquo; i mean not of tear/s spilling profusely out
+3&lt;/em&gt;? (and by &amp;rsquo;tear up a bit&amp;rsquo; i mean not of tear/s spilling profusely out
 but a hidden vibration convulsing somewhere inside, like a muffled
 thunder of joy or something of the equivalent)&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -3649,7 +3661,7 @@ for, read this whole thing again.)&lt;/p&gt;
 &lt;h3 id=&#34;entry--98&#34;&gt;Entry # 98&lt;/h3&gt;
 &lt;p&gt;Date: Sun, 30 Mar 2014&lt;/p&gt;
 &lt;p&gt;a circle has an infinite corner, not cornerless. a sphere numerous
-fringes, never an &amp;lsquo;edgeless cube&amp;rsquo;. slenderman, therefore, instead of
+fringes, never an &amp;rsquo;edgeless cube&amp;rsquo;. slenderman, therefore, instead of
 having no face, dons limitless visages where only one should be.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -4034,7 +4046,7 @@ in the way you are probably thinking right now.&lt;/p&gt;
 &lt;h3 id=&#34;entry--125&#34;&gt;Entry # 125&lt;/h3&gt;
 &lt;p&gt;Date: Tue, 01 Jul 2014&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;it is&lt;/strong&gt; [hh:mm, between midnight and dawn] &lt;strong&gt;AM here and my&lt;/strong&gt;
-[medical term for &amp;lsquo;eyes&amp;rsquo;] &lt;strong&gt;are&lt;/strong&gt; [a synonym for &amp;lsquo;suffer&amp;rsquo;, in
+[medical term for &amp;rsquo;eyes&amp;rsquo;] &lt;strong&gt;are&lt;/strong&gt; [a synonym for &amp;lsquo;suffer&amp;rsquo;, in
 present progressive tense] &lt;strong&gt;from&lt;/strong&gt; [an eye defect, in layman&amp;rsquo;s
 terms]. [an irrelevant Latin clause/phrase]. &lt;strong&gt;you are&lt;/strong&gt; [phrase/s
 with deep philosophy references] &lt;strong&gt;while i am&lt;/strong&gt; [string/s of coffee
@@ -4070,7 +4082,7 @@ happy hour. Tough battle.&lt;/p&gt;
 place and is felt by the millions of strangers prancing on afternoon
 streets, go directly to the nearest wifi hotspot, ideally a coffee shop,
 and hop online. but don&amp;rsquo;t you just post a mindless &amp;ldquo;did you just feel
-that earthquake?&amp;rdquo; status to direct the local netizens&#39; attention to the
+that earthquake?&amp;rdquo; status to direct the local netizens&amp;rsquo; attention to the
 obvious. do not cheat nor settle for this mediocre chore. you, as a
 trickster of various complex trades, are better than that.&lt;/p&gt;
 &lt;p&gt;instead, say:
@@ -4270,7 +4282,7 @@ temper the blemished cheeks. yours, though, as i remember it, is beyond
 despair. the way people snap their necks to your way just to claim your
 cheekiness for their own, even for a while. or the way they applaud at
 you every time you share a laugh. they are selfish. they only want to
-have &lt;em&gt;your&lt;/em&gt; fun for &lt;em&gt;them&lt;/em&gt;selves. and by &amp;lsquo;they&amp;rsquo;, i mean &amp;lsquo;we&amp;rsquo;. by &amp;lsquo;we&amp;rsquo;,
+have &lt;em&gt;your&lt;/em&gt; fun for &lt;em&gt;them&lt;/em&gt;selves. and by &amp;rsquo;they&amp;rsquo;, i mean &amp;lsquo;we&amp;rsquo;. by &amp;lsquo;we&amp;rsquo;,
 &amp;lsquo;i&amp;rsquo;.&lt;/p&gt;
 &lt;p&gt;and if i may, i want to tell you some things. don&amp;rsquo;t worry, though. the
 sun is high and the wax melts on my back. i am dizzy from keeping my
@@ -4638,7 +4650,7 @@ no circumstance is it intentional. my part here is atlantic.&lt;/p&gt;
 &lt;p&gt;abundance of a source, as long as it is free and safe, is never the
 subject nor the issue. you know how the
 imps whisper into the ears of winos but not nibble at the rim of the ale
-bottle? there are no &amp;lsquo;dirty&amp;rsquo; things. there are only &#39;dirty&#39; people.&lt;/p&gt;
+bottle? there are no &amp;lsquo;dirty&amp;rsquo; things. there are only &#39;dirty&amp;rsquo; people.&lt;/p&gt;
 &lt;p&gt;someone once told me that a shot is enough to displace one&amp;rsquo;s beliefs,
 depending on the quality and content. i held on to this, although i&amp;rsquo;ve
 never dreamed of evolving into an active bar brawler. i am a lever not a
@@ -5813,7 +5825,7 @@ douche. i&amp;rsquo;m just a teenage dirtbag baby like you.&lt;/p&gt;
 
 &lt;h3 id=&#34;entry--198-character-development&#34;&gt;Entry # 198: &lt;em&gt;character development?&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;Date: Sat, 14 Mar 2015&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;why is it not funny for a mathematician to do drugs?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;why is it not funny for a mathematician to do drugs?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;the last time he was this anxious was the first day after the pupil died
 of sadness under his watch. it has been about a month now, and the
 geometry teacher is reeling back from his comforts. he feels especially
@@ -5831,7 +5843,7 @@ waits for him to prep his line on it. he fishes his kit from a drawer
 and starts to assemble his little event. &lt;/p&gt;
 &lt;p&gt;something snaps in him and he descends from his anxiety to the forlorn
 depths of psyche.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;rdquo;&amp;hellip;a line is a set of points arranged in a straight manner and is
+&lt;p&gt;&lt;em&gt;&amp;quot;&amp;hellip;a line is a set of points arranged in a straight manner and is
 extending in opposite directions without end&amp;hellip;&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -6232,7 +6244,7 @@ by the principle of mediocrity, from cortex to callous, i am the
 outdated modification of man living off on silicons and diodes.&lt;/p&gt;
 &lt;p&gt;what does this mean? it means that although i am informed, dressed decently
 for my everyday bumming, i pother the shenanigans of electronic
-equipment for my &amp;lsquo;latest fix&amp;rsquo;. is this then the beginning of a cynical
+equipment for my &amp;rsquo;latest fix&amp;rsquo;. is this then the beginning of a cynical
 life? a young man cruised along the devils of modern soc because he
 could not give way for what they were imposing on him.&lt;/p&gt;
 &lt;p&gt;a psychologist could not openly speak out his mind regarding my
@@ -6293,7 +6305,7 @@ and you will come to this conclusion when you decide in the
 future to come back here and see the molds that have become of your
 thoughts.&lt;/p&gt;
 &lt;p&gt;your notes reflect upon a deeper sentience living off on
-others&#39; jokes, and are often the disambiguation of diverse personal
+others&amp;rsquo; jokes, and are often the disambiguation of diverse personal
 schema: when gloom tinkers you from the inside; when, alas, the strong
 and the weak make peace with one another; when you start re-calibrating
 your actions to reduce any space for certainty.&lt;/p&gt;
@@ -7079,7 +7091,7 @@ rosette.&lt;/p&gt;
 smothered ditty of hold. while it&amp;rsquo;s not the catchiest, it sure was a
 wicked tune in itself, and in my free time i would love to clown around
 its structure and rhymes. however, no more measuring tactics, no more
-amour left for strangers&#39; consumption, only wisps to be transferred
+amour left for strangers&amp;rsquo; consumption, only wisps to be transferred
 through wordplay.&lt;/p&gt;
 &lt;p&gt;then, in such opaque illumination, this self denounced
 its frustration: i was actually laughing there to things like maslow&amp;rsquo;s
@@ -7366,7 +7378,7 @@ thrive, the days when we catch gamma with skin, the people we whisk
 away, the vitriol from one speaker to another&lt;/p&gt;
 &lt;p&gt;&amp;ndash; in order to forward the plot, we improvise with what we have. we pick
 but are only chosen sometimes. we give off colors to the untrained eye.
-we infer correctness based on others&#39; errata and yet the current state
+we infer correctness based on others&amp;rsquo; errata and yet the current state
 of our spirits are perpendicular conrete structures, devoid of epoxy.
 with digital love we evoke phlegm from underused larynx and promptly
 spit it on sepulchre. we buy into the collective retardation, and the
@@ -7483,7 +7495,211 @@ just want the damn thing to beam me up, and let me leave already, for
 realz.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h3 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h3&gt;
+&lt;h3 id=&#34;entry--291&#34;&gt;Entry # 291&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 25 Aug 2016&lt;/p&gt;
+&lt;p&gt;excitement is a palatable convulsion, really, but i don&amp;rsquo;t mean the
+wholesome ladybug-on-a-tea-leaf thingy.
+what i do mean and intend to do:
+i&amp;rsquo;d plant a thousand wild shrubs on a naked mountain
+side for your breath of easterlies,
+and wait each different day for them
+to reach you. i&amp;rsquo;d kiss a brick i picked for you for you, and plaster
+that same brick with a tonne of other bricks (note-worthy: each one
+underwent similar drool-smothering via chapped lips), and build an
+odd-looking enclosure&amp;hellip;&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--292&#34;&gt;Entry # 292&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 25 Jan 2016&lt;/p&gt;
+&lt;p&gt;the jar of rain&amp;mdash;or the imagery of it, because minds of today
+no longer construct weathered abstracts from the gallows of grey matter&amp;mdash;throbs upon the stillness of drought, letting loose droplets through
+its lid&amp;rsquo;s perforation.&lt;/p&gt;
+&lt;p&gt;although on sight of site, there are really good
+bits scattered about:
+an old guy collecting his wits, an arachnid having
+its 6-legged lunch, among other things. when liquid touches loam, when
+all the gush grates ground, the weed-infested trachea of this landscape
+no more scratches its tunnels dry; no longer does it chant for the empty
+space beyond to outgrow its current volume.&lt;/p&gt;
+&lt;p&gt;the rain, however, does not
+pave way to the bloom of greens, nor a better mutation for our genetic
+make-up. it does not lubricate the gears of a nearby river;
+the birds do not buy into the weight of its low octaves. it does not inspire anyone.&lt;/p&gt;
+&lt;p&gt;thick grows the senses, dull and somewhat immune to certain modern
+meteorological shifts.
+we are too busy grinding life&amp;mdash;or, at least, our copy of it&amp;mdash;to
+fit the folders and, ultimately, the
+shredder; too immersed in what we do to notice that the precipitation,
+when it comes in contact with dust,
+brings to the drain the particles it
+has collected earthbound.&lt;/p&gt;
+&lt;p&gt;but one only has to scan closely in tight
+spots in order to fully grasp the scope of why things sort themselves
+with the passage of time. this i have observed. perhaps, it&amp;rsquo;s the magic
+of thermodynamics fusing with pseudo-intellectualism. sometimes i
+sleepwalk through it without even meaning to. and the amazing thing
+about this simple invocation of wisdom, albeit somnambulistic, is that,
+the toxic at hand usually (dis)solves its existence in the maelstrom of
+universal forces. to the fast-paced, this won&amp;rsquo;t be the case. however,
+for all of those as austere as i, the lethargy this rain has caused cuts
+off obligations tethered therein.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--293&#34;&gt;Entry # 293&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 03 Feb 2016&lt;/p&gt;
+&lt;p&gt;the current person of interest showed up last night, which was odd.
+i mean, all innuendo-filled dreams i have had are odd.&lt;/p&gt;
+&lt;p&gt;anyway, i sat on a toilet,
+musing outwards the glass panes.
+what kind of architect would
+approve of such dada design?&lt;/p&gt;
+&lt;p&gt;no one but me, sure; that is, had i been one.&lt;/p&gt;
+&lt;p&gt;a figure of a woman then emerged from the far end blur, approaching.
+R seemed to have flushed the dread from her brows,
+all reminiscent of causalgia.
+she surprised me when she went for the door and opened it.
+R had this naughty grin which by gazing my clotheless
+person alone could have caused.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;do you want to take a shower with me?&amp;rdquo; she asked.&lt;/p&gt;
+&lt;p&gt;intentions unfolded yet might have been misinterpreted as
+they traveled the conduit.&lt;/p&gt;
+&lt;p&gt;now, what noble cause. of course, what is
+there to exclaim except expletives?
+her teeth breached further into the organs.
+without another word, though, she casually moved forward,
+the open door now at the bottom of to-burn listicles.&lt;/p&gt;
+&lt;p&gt;and so, much after fantastic whims had peeled my eyes real,
+there beyond the tall walls,
+i wandered off thinking of it the whole morning, how frozen i was.
+i replayed the whole thing as flawless as i could as i again zone the fuck
+out, filling in between the quiet speeches better l&#39;esprit de
+l&#39;escalier iterations.&lt;/p&gt;
+&lt;p&gt;i gave myself something between back-pat and
+gut-kick for coming up with such an imaginative stumbled-upon scenario.
+i mean, to whom do i owe this flair of a peeve? at least, it kept me
+&lt;em&gt;productive&lt;/em&gt; the entire daytime.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--294&#34;&gt;Entry # 294&lt;/h3&gt;
+&lt;p&gt;Date: Sun, 07 Feb 2016&lt;/p&gt;
+&lt;p&gt;present self confuses future self. same is true for the other way
+around. same is also true for no way around. same is untrue for all year
+round. similarity is false. time does not stand alone. we also have
+space.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--295&#34;&gt;Entry # 295&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 09 Feb 2016&lt;/p&gt;
+&lt;p&gt;the audience promises to provide statements to put to record through
+dimensions, but we all know their physique (or lack of it) pitches
+little candor and is thus inconsequential, so long as their contribution
+can be read.&lt;/p&gt;
+&lt;p&gt;and what is there to observe and write of?&lt;/p&gt;
+&lt;p&gt;two people meeting for the first time, only that these two are one
+person coming from two different times. person b meets their younger
+self, person a, with no context to hold nor external affirmation to nod
+their way. they don&amp;rsquo;t have the slightest inkling that an audience
+scrutinizes their every move from the comforts of beyond-the-planes.
+both of them are too surprised to notice anything except themselves,
+both seemingly looking into a portal that gives no beginning nor end to
+this dream. is this an experiment? does it matter?&lt;/p&gt;
+&lt;p&gt;the room is damn lit, blaring. in the middle of the room, a table
+invites them with two cups of coffee. the chairs,
+too made of wood, look swelling.&lt;/p&gt;
+&lt;p&gt;TWO PEOPLE&amp;mdash;one older than the other, yet the sameness fades. the
+audience waits. person a reaches for the face, but the other
+instincively swats the approaching appendage. nine years of ignominy do
+not sequester a better pounding for the head. we already have the
+heartache of nostalgia to thank for that. however, when one slumps back
+to the chair, one cannot help but think how dreadful 2005 was.&lt;/p&gt;
+&lt;p&gt;the two do have concerns for each other, but they are rather menacing
+for the third party, the audience, to listen to. as the two stand up and
+part, the room goes damn dark. person a is returned to their timeline:
+walking back to classroom. person b, amid the flurry of uniforms,
+plunges to their office to scour for lost papers. both of them have no
+recollection of meeting the other, nor does the meeting make any
+noticeable flinchings.&lt;/p&gt;
+&lt;p&gt;the audience, however, has some essay to do.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--296&#34;&gt;Entry # 296&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 11 Feb 2016&lt;/p&gt;
+&lt;p&gt;BULACAN&amp;mdash;but are you truly the soft premises that a weary traveler
+such as i can dive into? the wombs of many march forth before thee
+bearing flowers to offer thy wretched palms. i myself have been driven
+by the scents of lips to busy myself along the rustic pipes, although
+clearly, mine was purely business. your skies were golden, even after
+the blues. more so were your chicharon, and i only have my heart to
+clog.&lt;/p&gt;
+&lt;p&gt;i have met a local merchant, and he offered me your women? why was
+i not surprised? even there, i clawed the scabs that i thought were
+already dampened. out of fairness, though, i must say that the merchant
+can be kind in many ways his creaking joints cannot be to him. this is
+regardless, in my opinion, whether you rub him at the footing or bite
+him with wrong teeth. his advice largely comprised differentiating
+rafflesia from rose. olfactory nerves augment the missing pieces of
+preconceived half-truths, i could say, but Bulacan, knowing it was
+around us, would quell any unknowns for all we care.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--297&#34;&gt;Entry # 297&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 15 Feb 2016&lt;/p&gt;
+&lt;p&gt;the last hot dregs of molten vitrine can only define a tradition that
+sprouted from the catacombs only as good as it is remembered. love
+intensifies its blandness as a function of time!&lt;/p&gt;
+&lt;p&gt;ho! ho! ho!&lt;/p&gt;
+&lt;p&gt;and now you owe me a huge chunk for imparting a clever wordplay that is sure to go
+mainstream in two and a half sun lives. by then, &lt;em&gt;hmm&lt;/em&gt;,
+epochs will have
+stretched a plethora of asymmetric organs into a new breeding ground for
+celestial bodies, borrowing heat from long burning mementos, their bed a
+queen size of an expansive unlit motel cubicle.&lt;/p&gt;
+&lt;p&gt;there will be the
+terrors, o, sprawling inside to question the possible birth of kopong.
+gametes will be hydrogen, then metallic, then synthetic.
+moderate&amp;mdash;only moderate jabs of discomfort to trudge up the steep hillside before an
+imp appears immediately to spear the spines. then, the rolling away from
+such pinnacle of pain, jack&amp;rsquo;s crown abreast.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--298&#34;&gt;Entry # 298&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 18 Feb 2016&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The Boy&lt;/em&gt; did not make himself present that day due to conflicting hours
+of daytime, in which my assignment overlapped with his processions. He
+sent his team instead. We all walked around the warehouses looking for
+spots of error and fortunately found none. They did a good job, in my
+opinion. I can&amp;rsquo;t wait to show Rose what this gig has become: nice. As I
+glanced back at what Ruel and I surveyed just moments ago, I thought
+that Jessy would have been proud. While the presence of a nearby
+graveyard encompasses mildly a mind-altering disservice to someone&amp;rsquo;s
+deathly absence, here we looked among ourselves and rolled up our
+sleeves with only the grease of glutton scraping our tunnels.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--299&#34;&gt;Entry # 299&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 23 Feb 2016&lt;/p&gt;
+&lt;p&gt;while i must not rationalize the different callings of pining for
+people, in this detachment i reluctantly weave a storm from the strings
+i know i will jeopardize soon, eligible enough to stir the discouraging
+facts into purposes known to hyperbolic space that can only be
+repurposed by one as classic as my overdue books.&lt;/p&gt;
+&lt;p&gt;but if it means anything, i am easily appeased. on down days, i resign
+to the bedrock of superposition and think of another &amp;lsquo;myself&amp;rsquo; dedicating
+its existence in assuming the ivory life, there, i hope, in some major
+universe that does not house sentient life force already on its
+homestretch to self-destruction.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--300&#34;&gt;Entry # 300&lt;/h3&gt;
+&lt;p&gt;Date: Fri, 26 Feb 2016&lt;/p&gt;
+&lt;p&gt;the unmentioned little fights contra forgetfulness rush to mind.
+i don&amp;rsquo;t know if i should be ashamed or what,
+but if any of what i am babbling
+about is consistently for banana peels, it&amp;rsquo;s only because i have an
+affinity with mental masturbation in all its forms. and here we part.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h2&gt;
 &lt;p&gt;Tweet-like witticisms back in the day.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Spontaneous conflagration is the result of the heat of the moment.&lt;/li&gt;
@@ -7557,7 +7773,7 @@ liked or, like, likely disliked.&lt;/li&gt;
 arguments alone, left hemisphere versus the right, or the entirety of
 dear brain against itself.&lt;/li&gt;
 &lt;li&gt;may the palms never get tired of holding the head uninterested at
-&amp;lsquo;living the moment&amp;rsquo;.&lt;/li&gt;
+&amp;rsquo;living the moment&amp;rsquo;.&lt;/li&gt;
 &lt;li&gt;an exposition of gazes elucidating the phenomena that could have
 happened, but since i am the slightly differential, i owe you another
 explanation.&lt;/li&gt;
@@ -7587,7 +7803,7 @@ is no option for me to go to except down.&lt;/li&gt;
 &lt;li&gt;the ability to snag attention even from a great distance, solitude, truly rare and unique: the perks of being a pall flower&lt;/li&gt;
 &lt;li&gt;python as a scarf&lt;/li&gt;
 &lt;li&gt;i withdrew money from the ATM; a big heap&amp;mdash;80M&lt;/li&gt;
-&lt;li&gt;&amp;lsquo;tis time for the terrible accumulation of noise of handheld horns and &amp;ldquo;i slept for a year&amp;rdquo; quips.&lt;/li&gt;
+&lt;li&gt;&amp;rsquo;tis time for the terrible accumulation of noise of handheld horns and &amp;ldquo;i slept for a year&amp;rdquo; quips.&lt;/li&gt;
 &lt;li&gt;one of the quirks of lycanthropy is the ability to become a weirdwolf.&lt;/li&gt;
 &lt;li&gt;there is penitence in consuming callow versions of oriental dumplings obtained from a dilapidated corner of nowhere.&lt;/li&gt;
 &lt;li&gt;there settles at the pinnacle of existential hardship very little glory.&lt;/li&gt;
@@ -7607,32 +7823,34 @@ making life spent watching less disappointing.&lt;/li&gt;
 &lt;li&gt;maybe there is niceness in boarding unknown engines that take people
 elsewhere.&lt;/li&gt;
 &lt;li&gt;the dream is to write at least 200 pages of walkthrough for an obscure rpg in purple prose&lt;/li&gt;
+&lt;li&gt;who here wants to be speculating alone with their electronics and,
+immediately after that, their thoughts?&lt;/li&gt;
 &lt;/ol&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Reminds me of a paper called &lt;a href=&#34;http://journal.sjdm.org/19/190712/jdm190712.html&#34;&gt;&lt;em&gt;&amp;ldquo;Bullshit Makes The Art Grow Profounder&amp;rdquo;&lt;/em&gt;&lt;/a&gt; (Turpin et. al., 2019).
 Some 20(20) years ago when I last visited an art museum (or was it just gallery?),
-I couldn&amp;rsquo;t help but roll my eyes on a lot of pieces&#39; description cards that seemingly always include how the artist &amp;ldquo;explores&amp;rdquo; this or that.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+I couldn&amp;rsquo;t help but roll my eyes on a lot of pieces&amp;rsquo; description cards that seemingly always include how the artist &amp;ldquo;explores&amp;rdquo; this or that.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Run free and wild, Buddy and Hogan, wherever you are.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;&lt;em&gt;n&lt;/em&gt;-gon is a polygon with n sides. E.g., hexagon is also 6-gon.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
 &lt;p&gt;Defense of the Ancients. I only ever played the one in Warcraft III:
 Frozen Throne. &lt;a href=&#34;https://en.wikipedia.org/wiki/Defense_of_the_Ancients&#34;&gt;More at
 Wikipedia&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
 &lt;p&gt;A male neighbor of utmost detachment to human species; cool neighbor&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
 &lt;p&gt;&amp;ldquo;technically speaking, labyrinths only have a single path, and
 (minotaurs aside) are fairly easy to navigate (as opposed to mazes
 that have dead ends and multiple, branching paths etc). this is your
@@ -7640,7 +7858,7 @@ completely useless fact of the day.&amp;rdquo;
 Thanks, &lt;a href=&#34;https://tkmk.tumblr.com&#34;&gt;Tom&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -7899,20 +8117,20 @@ They syncing process is outside the scope of this post, but it shouldn&amp;rsquo
 Look it up online.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;iPod Classic, 6th Generation (&amp;ldquo;7th gen&amp;rdquo; in some sites), 2nd revision, 160 GB capacity, Model No. A1238.
 For more info on iPods, &lt;a href=&#34;https://en.wikipedia.org/wiki/IPod_Classic&#34;&gt;check the wikipedia about it&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;One would notice the absence of screws with which to open the device.
 Instead, there are metal clips on the inside all around the edge.
 Without prior knowledge, one would think that the iPod was not designed to be maintained, and one would be right in thinking so.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -8040,18 +8258,18 @@ the OCR might not recognize your cursive penmanship!&lt;/p&gt;
 Type your thoughts in a distraction-free machine&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, scan, and edit and/or finalize the digital copy.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;To easily come up with a password, this would be the best time to start using a &lt;a href=&#34;https://privacytools.io/software/passwords/#pw&#34;&gt;password manager&lt;/a&gt;.
 Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;See the &lt;a href=&#34;https://typewriterrevolution.com/manifesto&#34;&gt;Typewriter Manifesto&lt;/a&gt; if you&amp;rsquo;re into that.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -8396,21 +8614,21 @@ Their &lt;a href=&#34;https://man.openbsd.org&#34;&gt;manual pages&lt;/a&gt; con
 &lt;p&gt;There are mirrors&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; from which to download the installer.
 They are found &lt;a href=&#34;https://www.openbsd.org/ftp.html&#34;&gt;here&lt;/a&gt;.
 I chose the nearest location to reduce download time.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.9/i386/install69.img
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.9/i386/install69.img
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;2-create-install-media-in-flash-drive&#34;&gt;2. Create Install Media in Flash Drive&lt;/h3&gt;
 &lt;p&gt;Plug in the USB stick.
 The following command assumes that the disk is recognized as &lt;code&gt;sdc1&lt;/code&gt;.
 Check with &lt;code&gt;dmesg&lt;/code&gt;, &lt;code&gt;df -h&lt;/code&gt;, or &lt;code&gt;lsblk&lt;/code&gt; commands, as root if need be.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo dd &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;install*.img of&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/dev/sdc1 bs&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;1M
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;dd&lt;/code&gt; utility copies the standard input &lt;code&gt;if&lt;/code&gt; (or input file) to the standard output &lt;code&gt;of&lt;/code&gt; (or output file, which, in this case, is the USB drive).
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo dd &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;install*.img of&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;/dev/sdc1 bs&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;1M
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;dd&lt;/code&gt; utility copies the standard input &lt;code&gt;if&lt;/code&gt; (or input file) to the standard output &lt;code&gt;of&lt;/code&gt; (or output file, which, in this case, is the USB drive).
 &lt;code&gt;bs&lt;/code&gt; stands for block size, and we set it to 1 megabyte.&lt;/p&gt;
 &lt;p&gt;In my case, the successful output is:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;450+0 records in
-450+0 records out
-&lt;span style=&#34;color:#ae81ff&#34;&gt;471859200&lt;/span&gt; bytes &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;472&lt;/span&gt; MB, &lt;span style=&#34;color:#ae81ff&#34;&gt;450&lt;/span&gt; MiB&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; copied, 31.9492 s, 14.8 MB/s
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;450+0 records in
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;450+0 records out
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;471859200&lt;/span&gt; bytes &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;472&lt;/span&gt; MB, &lt;span style=&#34;color:#ae81ff&#34;&gt;450&lt;/span&gt; MiB&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; copied, 31.9492 s, 14.8 MB/s
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;3-proceed-with-the-installation&#34;&gt;3. Proceed with the Installation.&lt;/h3&gt;
 &lt;p&gt;Insert the USB drive into the machine.
@@ -8429,17 +8647,17 @@ Directory does not contain SHA256.sig. Continue without verification? &lt;strong
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h4 id=&#34;enable-apmd8&#34;&gt;Enable &lt;code&gt;apmd(8)&lt;/code&gt;&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;rcctl enable apmd
-rcctl set apmd flags -a -z &lt;span style=&#34;color:#ae81ff&#34;&gt;7&lt;/span&gt;
-rcctl start apmd
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://man.openbsd.org/apmd&#34;&gt;&lt;code&gt;apmd&lt;/code&gt;&lt;/a&gt; is Advanced Power Management Daemon.&lt;br&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rcctl enable apmd
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rcctl set apmd flags -a -z &lt;span style=&#34;color:#ae81ff&#34;&gt;7&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rcctl start apmd
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://man.openbsd.org/apmd&#34;&gt;&lt;code&gt;apmd&lt;/code&gt;&lt;/a&gt; is Advanced Power Management Daemon.&lt;br&gt;
 &lt;code&gt;-a&lt;/code&gt; option means BIOS-initiated suspend or standby requests are ignored if the system is connected to line current (plugged) and not running from batteries.&lt;br&gt;
 &lt;code&gt;-z&lt;/code&gt; option means to automatically &lt;em&gt;suspend&lt;/em&gt; the system if no AC is connected and the estimated battery life is equal or below &lt;code&gt;7&lt;/code&gt; percent.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h4 id=&#34;add-username-to-etcdoasconf&#34;&gt;Add username to &lt;code&gt;/etc/doas.conf&lt;/code&gt;&lt;/h4&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;permit yourUserName&amp;#39;&lt;/span&gt; &amp;gt; /etc/doas.conf
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Reboot to make the changes.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;permit yourUserName&amp;#39;&lt;/span&gt; &amp;gt; /etc/doas.conf
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Reboot to make the changes.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;set-up-wi-fi-and-ethernet-networks&#34;&gt;Set up wi-fi and ethernet networks&lt;/h3&gt;
@@ -8454,17 +8672,17 @@ It&amp;rsquo;s reliable and secure.&lt;/p&gt;
 &lt;p&gt;Network interfaces are named by taking the shorthand version of the network card.&lt;/p&gt;
 &lt;p&gt;This laptop has &lt;code&gt;re(4)&lt;/code&gt;, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/Gigabit Ethernet device.&lt;/p&gt;
 &lt;p&gt;To set it up, I created a file &lt;code&gt;/etc/hostname.re0&lt;/code&gt; using vi&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;, and put these two lines in:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;dhcp
-up
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make the file &lt;code&gt;/etc/hostname.re0&lt;/code&gt; belong to the &lt;code&gt;root&lt;/code&gt; (the super user) and &lt;code&gt;wheel&lt;/code&gt;, and to set the necessary permissions, I entered these commands as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chown root:wheel /etc/hostname.re0
-chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;0640&lt;/span&gt; /etc/hostname.re0
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Activate the ethernet connection by entering this as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sh /etc/netstart
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If successful, it&amp;rsquo;s possible now to update the firmwares.
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;dhcp
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;up
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To make the file &lt;code&gt;/etc/hostname.re0&lt;/code&gt; belong to the &lt;code&gt;root&lt;/code&gt; (the super user) and &lt;code&gt;wheel&lt;/code&gt;, and to set the necessary permissions, I entered these commands as root:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chown root:wheel /etc/hostname.re0
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;0640&lt;/span&gt; /etc/hostname.re0
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Activate the ethernet connection by entering this as root:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sh /etc/netstart
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If successful, it&amp;rsquo;s possible now to update the firmwares.
 Enter as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;fw_update
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fw_update
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h4 id=&#34;wi-fi&#34;&gt;Wi-fi&lt;/h4&gt;
 &lt;p&gt;This laptop has wi-fi capabilities, but isn&amp;rsquo;t immediately compatible due to firmware issues.
@@ -8472,15 +8690,15 @@ As mentioned, firmware can be updated by &lt;code&gt;fw_update&lt;/code&gt; if e
 Otherwise, skip to the next section to get the firmware updates.&lt;/p&gt;
 &lt;p&gt;This laptop has &lt;code&gt;ath(4)&lt;/code&gt;, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.&lt;/p&gt;
 &lt;p&gt;To set up the wifi, I created a file &lt;code&gt;/etc/hostname.athn0&lt;/code&gt; as root and input these following lines:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;nwid myHomeWiFi wpakey p@s&amp;amp;w0rD
-dhcp
-up
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Like with the ethernet, specify that the file belongs to &lt;code&gt;root&lt;/code&gt; and &lt;code&gt;wheel&lt;/code&gt;, set the permissions, and activate the connection by entering the following lines, as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chown root:wheel /etc/hostname.athn0
-chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;0640&lt;/span&gt; /etc/hostname.athn0
-
-sh /etc/netstart
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;nwid myHomeWiFi wpakey p@s&amp;amp;w0rD
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;dhcp
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;up
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Like with the ethernet, specify that the file belongs to &lt;code&gt;root&lt;/code&gt; and &lt;code&gt;wheel&lt;/code&gt;, set the permissions, and activate the connection by entering the following lines, as root:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chown root:wheel /etc/hostname.athn0
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;chmod &lt;span style=&#34;color:#ae81ff&#34;&gt;0640&lt;/span&gt; /etc/hostname.athn0
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sh /etc/netstart
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h4 id=&#34;installing-the-needed-firmware-from-another-device&#34;&gt;Installing the needed firmware (from another device)&lt;/h4&gt;
 &lt;p&gt;Not everything might work as expected.
@@ -8503,40 +8721,40 @@ However, the USB drive to which I would save these must be &lt;strong&gt;formatt
 &lt;ol&gt;
 &lt;li&gt;There are different ways to format a USB drive to FAT32, depending on the platform you&amp;rsquo;re doing the formatting on.
 In my Debian-like system, I installed &lt;code&gt;dosfstools&lt;/code&gt;.
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo apt install dosfstools
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt install dosfstools
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;I plugged in and located the USB drive by running this in terminal:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;lsblk
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;In my case, it&amp;rsquo;s &lt;code&gt;/dev/sdc&lt;/code&gt; .&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;lsblk
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;In my case, it&amp;rsquo;s &lt;code&gt;/dev/sdc&lt;/code&gt; .&lt;/li&gt;
 &lt;li&gt;Unmount the USB drive, because it can&amp;rsquo;t be formatted when mounted:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo umount /dev/sdc
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo umount /dev/sdc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;I created a new partition table, which will be &lt;code&gt;msdos&lt;/code&gt;.
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script -- mklabel msdos
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo parted /dev/sdc --script -- mklabel msdos
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;I specified that the whole drive must be of FAT32 file system, primary partition type:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script -- mkpart primary fat32 1MiB 100%
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo parted /dev/sdc --script -- mkpart primary fat32 1MiB 100%
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Format the drive to FAT32:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo mkfs.fat -F &lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt; -I /dev/sdc
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo mkfs.fat -F &lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt; -I /dev/sdc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;(Optional) To check if the device has been partitioned correctly:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;sudo parted /dev/sdc --script print
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo parted /dev/sdc --script print
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;Insert the USB drive that has now the firmware files to the OpenBSD machine.
 As root, enter &lt;code&gt;diskutil list&lt;/code&gt;.
 The USB drive will appear to have several partitions, e.g. sd1c.&lt;/li&gt;
 &lt;li&gt;Create a mount point under /mnt (as root):
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;mkdir /mnt/usb
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mkdir /mnt/usb
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Mount the USB (as root):
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;mount /dev/sd1i /mnt/usb
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mount /dev/sd1i /mnt/usb
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Once mounted, install the firmware manually (as root):
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;fw_update -p /mnt/usb
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;fw_update -p /mnt/usb
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Reboot.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -8544,8 +8762,8 @@ The USB drive will appear to have several partitions, e.g. sd1c.&lt;/li&gt;
 &lt;h3 id=&#34;optional-things&#34;&gt;Optional things&lt;/h3&gt;
 &lt;p&gt;In this laptop, I&amp;rsquo;m going install several binaries from the ports, namely &lt;strong&gt;git&lt;/strong&gt; (version control system), and &lt;strong&gt;neovim&lt;/strong&gt; (text editor).
 To install in one go, enter as root:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;pkg_add git neovim 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;pkg_add git neovim 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;ssh-server-and-client&#34;&gt;SSH Server and Client&lt;/h2&gt;
 &lt;p&gt;In order for the client to connect to the server,
@@ -8567,22 +8785,22 @@ Filenames include:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;To generate a new key&lt;/strong&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Enter this in the terminal:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssh-keygen -t ed25519 -a &lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;code&gt;-t ed25519&lt;/code&gt; option specifies the type of key;&lt;br&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ssh-keygen -t ed25519 -a &lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;code&gt;-t ed25519&lt;/code&gt; option specifies the type of key;&lt;br&gt;
 &lt;code&gt;-a 100&lt;/code&gt;  option specifies the number of key derivation function rounds used.&lt;/li&gt;
 &lt;li&gt;Follow the prompts.
 I left the defaults as they are, but feel free to configure for your use case.&lt;/li&gt;
 &lt;li&gt;In order to add key, start the ssh-agent in the background.
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;eval &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;ssh-agent -s&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;eval &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;$(&lt;/span&gt;ssh-agent -s&lt;span style=&#34;color:#66d9ef&#34;&gt;)&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Add the SSH private key to the ssh-agent.
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssh-add ~/.ssh/id_ed25519
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ssh-add ~/.ssh/id_ed25519
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;When going to the remote server using SSH, you&amp;rsquo;ll be prompted for a password everytime.
 Instead of that, we can use the SSH key.
 Copy that into the remote server:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssh-copy-id username@example.com
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;This will prompt you one last time for the password of the server.
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ssh-copy-id username@example.com
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;This will prompt you one last time for the password of the server.
 If successful, the server will no longer prompt you for password everytime you SSH into it.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -8591,19 +8809,19 @@ If successful, the server will no longer prompt you for password everytime you S
 &lt;p&gt;A few tweaks are needed to make SSH a pleasant experience.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Login&amp;mdash;or SSH &lt;em&gt;into&lt;/em&gt;&amp;mdash;the server:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssh username@example.com
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ssh username@example.com
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Edit &lt;code&gt;/etc/ssh/sshd_config&lt;/code&gt;:
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# find PasswordAuthentication, comment it out, &lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# and turn &amp;#39;yes&amp;#39; to &amp;#39;no&amp;#39;&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# so bad actors can&amp;#39;t login even if they know the passwd&lt;/span&gt;
-PasswordAuthentication no
-
-&lt;span style=&#34;color:#75715e&#34;&gt;# find PermitRootLogin, comment it out, &lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# and turn &amp;#39;no&amp;#39; to &amp;#39;yes&amp;#39;&lt;/span&gt;
-&lt;span style=&#34;color:#75715e&#34;&gt;# so rsync can access the root when syncing files&lt;/span&gt;
-PermitRootLogin yes
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# find PasswordAuthentication, comment it out, &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# and turn &amp;#39;yes&amp;#39; to &amp;#39;no&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# so bad actors can&amp;#39;t login even if they know the passwd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;PasswordAuthentication no
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# find PermitRootLogin, comment it out, &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# and turn &amp;#39;no&amp;#39; to &amp;#39;yes&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# so rsync can access the root when syncing files&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;PermitRootLogin yes
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -8636,38 +8854,38 @@ Be patient to go through them.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;It&amp;rsquo;s just a server that provides the exact copy of data from another server.
 Usually to provide a means of redundancy.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Since this is going to be a server, I don&amp;rsquo;t need graphical user interface.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;The USB drive.
 This might be different for every other machine.
 At any point during the installation, type &lt;code&gt;?&lt;/code&gt; to list the possible choices.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:4&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
 &lt;p&gt;Note that you might encounter a problematic situation
 in which you need to install the firmware, e.g. for your wifi card,
 but you need a working network connection to do that.
 A workaround is discussed in the following sections.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:5&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
 &lt;p&gt;vi is a text editor already present in the base install of OpenBSD.
 I&amp;rsquo;m familiar with it, but ultimately I&amp;rsquo;ll use (neo)vim.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:6&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
 &lt;p&gt;The SSH (secure shell) protocol uses encryption to secure the connection between a client and a server.
 All user authentication, commands, ouput, and file transfers are encrypted to protect against attacks in the network.
 For more info: &lt;a href=&#34;https://www.ssh.com&#34;&gt;https://www.ssh.com&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -8801,37 +9019,37 @@ i.e., serve readable content.&lt;/p&gt;
 need to look elsewhere to render the fonts.&lt;/p&gt;
 &lt;p&gt;I use serif for headings. This is the font stack that I use (as found in my
 CSS):&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h4&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h5&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h6&lt;/span&gt; {
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;font-family&lt;/span&gt;:    Iowan Old Style,
-                        Apple Garamond,
-                        Baskerville,
-                        Times New Roman,
-                        Droid Serif,
-                        Times,
-                        Source Serif Pro,
-                        &lt;span style=&#34;color:#66d9ef&#34;&gt;serif&lt;/span&gt;,
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;line-height&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;    &lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And I use sans serif for body and the rest of the page.
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h4&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h5&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h6&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;font-family&lt;/span&gt;:    Iowan Old Style,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Apple Garamond,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Baskerville,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Times New Roman,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Droid Serif,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Times,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Source Serif Pro,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        &lt;span style=&#34;color:#66d9ef&#34;&gt;serif&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;line-height&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;    &lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And I use sans serif for body and the rest of the page.
 This is what I have in my CSS:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt; {
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;margin&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt;;
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;max-width&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;40&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;0.7&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;font&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;apple-system,
-                        BlinkMacSystemFont,
-                        avenir next,
-                        avenir,
-                        segoe ui,
-                        helvetica neue,
-                        helvetica,
-                        Ubuntu,
-                        roboto,
-                        noto,
-                        arial,
-                        &lt;span style=&#34;color:#66d9ef&#34;&gt;sans-serif&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Using serif for headings and sans serif for body gives a clear delineation
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;margin&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;max-width&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;40&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;0.7&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;font&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;apple-system,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        BlinkMacSystemFont,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        avenir next,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        avenir,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        segoe ui,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        helvetica neue,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        helvetica,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Ubuntu,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        roboto,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        noto,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        arial,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        &lt;span style=&#34;color:#66d9ef&#34;&gt;sans-serif&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Using serif for headings and sans serif for body gives a clear delineation
 which piece of info is which.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -8851,13 +9069,13 @@ it can be difficult to gauge.&lt;/p&gt;
 i.e., links that take the visitor out of this website.&lt;/p&gt;
 &lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;ohio.araw.xyz&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Here is a sample CSS code block implementing that:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;{
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;; 
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;green&lt;/span&gt;;
-        &lt;span style=&#34;color:#66d9ef&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inline-block&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;ohio.araw.xyz&lt;/code&gt;, then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;{
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;green&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inline-block&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;ohio.araw.xyz&lt;/code&gt;, then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
 &lt;p&gt;Currently, these arrows only indicate external links to let visitors know that they will be directed away.
 Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab or window.
 You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;/code&gt; (or &lt;code&gt;...window&lt;/code&gt;) (or click with Mouse3/MouseWheel).&lt;/p&gt;
@@ -8892,8 +9110,8 @@ There are several tools you can use to do this.
 &lt;/ul&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
 &lt;p&gt;From the command line, I do something like:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;imgp -x 1366x0 --quality&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt; -ew --optimize ~/image.jpg
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;imgp -x 1366x0 --quality&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt; -ew --optimize ~/image.jpg
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;&lt;code&gt;-x&lt;/code&gt; is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--quality&lt;/code&gt; is the quality factor.
@@ -8977,20 +9195,20 @@ The VM runs on Debian 11 &amp;ldquo;Bullseye&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://nginx.org/en/&#34;&gt;nginx&lt;/a&gt; (&amp;ldquo;engine X&amp;rdquo;), is an HTTP and reverse proxy server.
 To meet defensive security standards,
 I have the snippet in my server configuration:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;server &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
-        server_name ohio.araw.xyz ;
-        root /var/www/ohio.araw.xyz ;
-        index index.html index.htm index.nginx-debian.html ;
-        add_header Content-Security-Policy &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;default-src &amp;#39;self&amp;#39;;&amp;#34;&lt;/span&gt; always;
-        add_header Strict-Transport-Security &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;max-age=31536000; includeSubDomains&amp;#34;&lt;/span&gt; always;
-        add_header X-Frame-Options &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;SAMEORIGIN&amp;#34;&lt;/span&gt;;
-        add_header X-XSS-Protection 1;
-        add_header X-Content-Type-Options nosniff;
-        location / &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
-                try_files $uri $uri/ &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;404&lt;/span&gt; ;
-        &lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;With this,
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;server &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        server_name ohio.araw.xyz ;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        root /var/www/ohio.araw.xyz ;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        index index.html index.htm index.nginx-debian.html ;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header Content-Security-Policy &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;default-src &amp;#39;self&amp;#39;;&amp;#34;&lt;/span&gt; always;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header Strict-Transport-Security &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;max-age=31536000; includeSubDomains&amp;#34;&lt;/span&gt; always;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header X-Frame-Options &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;SAMEORIGIN&amp;#34;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header X-XSS-Protection 1;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header X-Content-Type-Options nosniff;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        location / &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                try_files $uri $uri/ &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;404&lt;/span&gt; ;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;With this,
 my site scores &lt;code&gt;A+&lt;/code&gt; in &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;Mozilla Observatory&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -9018,22 +9236,22 @@ web designers and developers &lt;em&gt;must see to it&lt;/em&gt; that everyone c
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
 As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Or, if you have &lt;a href=&#34;https://pandoc.org/&#34;&gt;Pandoc&lt;/a&gt; in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
 It takes some fiddling around the documentation, but it can be done.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
 &lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs!&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     

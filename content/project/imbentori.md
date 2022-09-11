@@ -6488,8 +6488,253 @@ just want the damn thing to beam me up, and let me leave already, for
 realz.
 
 {{< btt >}}
+### Entry # 291
+Date: Thu, 25 Aug 2016
 
-### One-Liners
+excitement is a palatable convulsion, really, but i don't mean the
+wholesome ladybug-on-a-tea-leaf thingy.
+what i do mean and intend to do:
+i'd plant a thousand wild shrubs on a naked mountain
+side for your breath of easterlies,
+and wait each different day for them
+to reach you. i'd kiss a brick i picked for you for you, and plaster
+that same brick with a tonne of other bricks (note-worthy: each one
+underwent similar drool-smothering via chapped lips), and build an
+odd-looking enclosure...
+
+{{< btt >}}
+
+### Entry # 292
+Date: Mon, 25 Jan 2016
+
+the jar of rain---or the imagery of it, because minds of today
+no longer construct weathered abstracts from the gallows of grey matter---throbs upon the stillness of drought, letting loose droplets through
+its lid's perforation.
+
+although on sight of site, there are really good
+bits scattered about:
+an old guy collecting his wits, an arachnid having
+its 6-legged lunch, among other things. when liquid touches loam, when
+all the gush grates ground, the weed-infested trachea of this landscape
+no more scratches its tunnels dry; no longer does it chant for the empty
+space beyond to outgrow its current volume.
+
+the rain, however, does not
+pave way to the bloom of greens, nor a better mutation for our genetic
+make-up. it does not lubricate the gears of a nearby river;
+the birds do not buy into the weight of its low octaves. it does not inspire anyone.
+
+thick grows the senses, dull and somewhat immune to certain modern
+meteorological shifts.
+we are too busy grinding life---or, at least, our copy of it---to
+fit the folders and, ultimately, the
+shredder; too immersed in what we do to notice that the precipitation,
+when it comes in contact with dust,
+brings to the drain the particles it
+has collected earthbound.
+
+but one only has to scan closely in tight
+spots in order to fully grasp the scope of why things sort themselves
+with the passage of time. this i have observed. perhaps, it's the magic
+of thermodynamics fusing with pseudo-intellectualism. sometimes i
+sleepwalk through it without even meaning to. and the amazing thing
+about this simple invocation of wisdom, albeit somnambulistic, is that,
+the toxic at hand usually (dis)solves its existence in the maelstrom of
+universal forces. to the fast-paced, this won't be the case. however,
+for all of those as austere as i, the lethargy this rain has caused cuts
+off obligations tethered therein.
+
+
+{{< btt >}}
+### Entry # 293
+Date: Wed, 03 Feb 2016
+
+the current person of interest showed up last night, which was odd.
+i mean, all innuendo-filled dreams i have had are odd.
+
+anyway, i sat on a toilet,
+musing outwards the glass panes.
+what kind of architect would
+approve of such dada design?
+
+no one but me, sure; that is, had i been one.
+
+a figure of a woman then emerged from the far end blur, approaching.
+R seemed to have flushed the dread from her brows,
+all reminiscent of causalgia.
+she surprised me when she went for the door and opened it.
+R had this naughty grin which by gazing my clotheless
+person alone could have caused.
+
+"do you want to take a shower with me?" she asked.
+
+intentions unfolded yet might have been misinterpreted as
+they traveled the conduit.
+
+now, what noble cause. of course, what is
+there to exclaim except expletives?
+her teeth breached further into the organs.
+without another word, though, she casually moved forward,
+the open door now at the bottom of to-burn listicles.
+
+and so, much after fantastic whims had peeled my eyes real,
+there beyond the tall walls,
+i wandered off thinking of it the whole morning, how frozen i was.
+i replayed the whole thing as flawless as i could as i again zone the fuck
+out, filling in between the quiet speeches better l\'esprit de
+l\'escalier iterations.
+
+i gave myself something between back-pat and
+gut-kick for coming up with such an imaginative stumbled-upon scenario.
+i mean, to whom do i owe this flair of a peeve? at least, it kept me
+*productive* the entire daytime.
+
+
+{{< btt >}}
+### Entry # 294
+Date: Sun, 07 Feb 2016
+
+present self confuses future self. same is true for the other way
+around. same is also true for no way around. same is untrue for all year
+round. similarity is false. time does not stand alone. we also have
+space.
+
+{{< btt >}}
+
+### Entry # 295
+Date: Tue, 09 Feb 2016
+
+the audience promises to provide statements to put to record through
+dimensions, but we all know their physique (or lack of it) pitches
+little candor and is thus inconsequential, so long as their contribution
+can be read.
+
+and what is there to observe and write of?
+
+two people meeting for the first time, only that these two are one
+person coming from two different times. person b meets their younger
+self, person a, with no context to hold nor external affirmation to nod
+their way. they don't have the slightest inkling that an audience
+scrutinizes their every move from the comforts of beyond-the-planes.
+both of them are too surprised to notice anything except themselves,
+both seemingly looking into a portal that gives no beginning nor end to
+this dream. is this an experiment? does it matter?
+
+the room is damn lit, blaring. in the middle of the room, a table
+invites them with two cups of coffee. the chairs,
+too made of wood, look swelling.
+
+TWO PEOPLE---one older than the other, yet the sameness fades. the
+audience waits. person a reaches for the face, but the other
+instincively swats the approaching appendage. nine years of ignominy do
+not sequester a better pounding for the head. we already have the
+heartache of nostalgia to thank for that. however, when one slumps back
+to the chair, one cannot help but think how dreadful 2005 was.
+
+the two do have concerns for each other, but they are rather menacing
+for the third party, the audience, to listen to. as the two stand up and
+part, the room goes damn dark. person a is returned to their timeline:
+walking back to classroom. person b, amid the flurry of uniforms,
+plunges to their office to scour for lost papers. both of them have no
+recollection of meeting the other, nor does the meeting make any
+noticeable flinchings.
+
+the audience, however, has some essay to do.
+
+{{< btt >}}
+### Entry # 296
+Date: Thu, 11 Feb 2016
+
+BULACAN---but are you truly the soft premises that a weary traveler
+such as i can dive into? the wombs of many march forth before thee
+bearing flowers to offer thy wretched palms. i myself have been driven
+by the scents of lips to busy myself along the rustic pipes, although
+clearly, mine was purely business. your skies were golden, even after
+the blues. more so were your chicharon, and i only have my heart to
+clog.
+
+i have met a local merchant, and he offered me your women? why was
+i not surprised? even there, i clawed the scabs that i thought were
+already dampened. out of fairness, though, i must say that the merchant
+can be kind in many ways his creaking joints cannot be to him. this is
+regardless, in my opinion, whether you rub him at the footing or bite
+him with wrong teeth. his advice largely comprised differentiating
+rafflesia from rose. olfactory nerves augment the missing pieces of
+preconceived half-truths, i could say, but Bulacan, knowing it was
+around us, would quell any unknowns for all we care.
+
+{{< btt >}}
+### Entry # 297
+Date: Mon, 15 Feb 2016
+
+the last hot dregs of molten vitrine can only define a tradition that
+sprouted from the catacombs only as good as it is remembered. love
+intensifies its blandness as a function of time!
+
+ho! ho! ho!
+
+and now you owe me a huge chunk for imparting a clever wordplay that is sure to go
+mainstream in two and a half sun lives. by then, *hmm*,
+epochs will have
+stretched a plethora of asymmetric organs into a new breeding ground for
+celestial bodies, borrowing heat from long burning mementos, their bed a
+queen size of an expansive unlit motel cubicle.
+
+there will be the
+terrors, o, sprawling inside to question the possible birth of kopong.
+gametes will be hydrogen, then metallic, then synthetic.
+moderate---only moderate jabs of discomfort to trudge up the steep hillside before an
+imp appears immediately to spear the spines. then, the rolling away from
+such pinnacle of pain, jack's crown abreast.
+
+
+{{< btt >}}
+### Entry # 298
+Date: Thu, 18 Feb 2016
+
+*The Boy* did not make himself present that day due to conflicting hours
+of daytime, in which my assignment overlapped with his processions. He
+sent his team instead. We all walked around the warehouses looking for
+spots of error and fortunately found none. They did a good job, in my
+opinion. I can't wait to show Rose what this gig has become: nice. As I
+glanced back at what Ruel and I surveyed just moments ago, I thought
+that Jessy would have been proud. While the presence of a nearby
+graveyard encompasses mildly a mind-altering disservice to someone's
+deathly absence, here we looked among ourselves and rolled up our
+sleeves with only the grease of glutton scraping our tunnels.
+
+
+{{< btt >}}
+### Entry # 299
+Date: Tue, 23 Feb 2016
+
+while i must not rationalize the different callings of pining for
+people, in this detachment i reluctantly weave a storm from the strings
+i know i will jeopardize soon, eligible enough to stir the discouraging
+facts into purposes known to hyperbolic space that can only be
+repurposed by one as classic as my overdue books.
+
+but if it means anything, i am easily appeased. on down days, i resign
+to the bedrock of superposition and think of another 'myself' dedicating
+its existence in assuming the ivory life, there, i hope, in some major
+universe that does not house sentient life force already on its
+homestretch to self-destruction.
+
+
+
+{{< btt >}}
+### Entry # 300
+Date: Fri, 26 Feb 2016
+
+the unmentioned little fights contra forgetfulness rush to mind.
+i don't know if i should be ashamed or what,
+but if any of what i am babbling
+about is consistently for banana peels, it's only because i have an
+affinity with mental masturbation in all its forms. and here we part.
+
+{{< btt >}}
+
+## One-Liners
 Tweet-like witticisms back in the day.
 
 1. Spontaneous conflagration is the result of the heat of the moment.
@@ -6613,7 +6858,8 @@ making life spent watching less disappointing.
 1. maybe there is niceness in boarding unknown engines that take people
 elsewhere.
 1. the dream is to write at least 200 pages of walkthrough for an obscure rpg in purple prose
-
+1. who here wants to be speculating alone with their electronics and,
+immediately after that, their thoughts?
 
 {{< btt >}}
 

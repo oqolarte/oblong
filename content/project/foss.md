@@ -179,7 +179,7 @@ and Twitter---in this case, that one person is me.
 
 {{< btt >}}
 ## RSS Feed Readers
-- [newsboat](https://newsboat.org/)
+- [newsboat](https://newsboat.org/) -- reader for the text console.
 
 {{< btt >}}
 ## Media Player

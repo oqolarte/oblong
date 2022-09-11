@@ -23,11 +23,14 @@ Marked as **on-going** because I'm always revising my bujo ways.
 {{< toc >}}
 ## Materials
 
-A notebook and a pen(cil).
+**A notebook and a pen(cil).**
 Literally any kind will do.
 Some people even do it with tablet and stylus
 (usually iPad and Apple Pencil),
 but that's unnecessary and too high-tech for my taste.
+
+I'd argue that analog is the better choice,
+but it boils down to personal preference.
 
 {{< btt >}}
 ### Preferred, but not required
@@ -127,15 +130,15 @@ My Daily Log is many things: a to-do list, a reminder, an analog private Twitter
 Below is the format I currently use:
 ```
 01 JAN, MON □
-        AF: tosilog, coffee
-        PF: sinigang na bangus, pakbet, brown rice
+    AF: tosilog, coffee
+    PF: sinigang na bangus, pakbet, brown rice
 
-        ○   New Year's Day! (event bullet)
-        -   The dog ate the sausage! (note bullet)
-        ·   Take out the trash (task bullet)
-      □ -   A flying cat was chasing me. Weird!
-        x   Prepare anti-hungover drink (task completed bullet)
-      * ·   Buy eggs
+  ○ New Year's Day! (event bullet)
+  - The dog ate the sausage! (note bullet)
+  · Take out the trash (task bullet)
+□ - A flying cat was chasing me. Weird!
+  x Prepare anti-hungover drink (task completed bullet)
+* · Buy eggs
 ```
 
 Let's break this down by section:
@@ -148,9 +151,9 @@ Let's break this down by section:
 I list my meals during daytime (`AF` or AM Food) and nighttime (`PF` or PM Food).
 1. The rest are bullets.
 I maintained Carroll's bullet and signifier usage, with a bit of addition.
-1. Bonus: I use other symbols for the rest of my trackers (e.g., a square means 'I dreamt last
-   night'), which I also use as signifiers for a note if I ever want to expound
-   on them (see example above).
+1. Bonus: I use other symbols for the rest of my trackers
+(e.g., a square means 'I dreamed last night'),
+which I also use as signifiers for a note if I ever want to expound on them (see example above).
 
 [^tracker]: In my opinion, one should not have millions of trackers.
 I found four to be manageable.
@@ -185,8 +188,8 @@ so that's what I'm using when editing this one
 big text file.
 
 Not only is it light on resources---currently
-at ~175 KB storing 11 months worth of logged info---it's
-easily portable, as many operating systems accept plaintext.
+at ~175 KB storing a year's worth of logged info---it's
+portable; all operating systems accept plaintext.
 
 Mine is inventively named as `log.txt`.
 
