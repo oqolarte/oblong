@@ -127,6 +127,6 @@ Type your thoughts in a distraction-free machine[^typewriter], scan, and edit an
 
 {{< btt >}}
 
-[^pw]: To easily come up with a password, this would be the best time to start using a [password manager](https://privacytools.io/software/passwords/#pw).
+[^pw]: To easily come up with a password, this would be the best time to start using a [password manager](https://www.privacytools.io/secure-password-manager/).
 Most of the password managers have randomizers, which prints out random strings of alphanumeric characters, that you can simply copy and paste.
 [^typewriter]: See the [Typewriter Manifesto](https://typewriterrevolution.com/manifesto) if you're into that.

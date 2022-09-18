@@ -1,5 +1,5 @@
 ---
-title: "Imbentori: A Tumblr Blog"
+title: "Imbentori: Personal Truths & Dreams"
 date: 2021-03-08T11:59:15+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "imbentori", "tumblog", "tumblr blog"]
 draft: false
@@ -31,7 +31,6 @@ ir/rational.
 It is a list of personal truths told with cryptic lingo
 (or with International Art English[^bs], one could argue)
 to add dimension to the mundane.
-
 
 I wanted to tell stories, fiction or otherwise, that had shaped me definitively.
 In some entries, though, there's no room for interpretation.
@@ -6731,6 +6730,328 @@ i don't know if i should be ashamed or what,
 but if any of what i am babbling
 about is consistently for banana peels, it's only because i have an
 affinity with mental masturbation in all its forms. and here we part.
+
+{{< btt >}}
+### Entry # 301
+Date: Mon, 14 Mar 2016
+
+in the future i am abducted by a blue beam. it will be my first space
+walk, i know, but not the first time i will be so out there.
+
+
+{{< btt >}}
+### Entry # 302
+Date: Fri, 26 Feb 2016
+
+i feel that the atmosphere they sustain (in the figurative sense) might
+be bad for business, but i am all for isolated good-muzak diners with
+hardly any travelers passing by. *shrugs* maybe the reason why such
+aesthetic (?) still holds up is because business is actually good and
+rakes in decent revenue. and that i should worry less of their welfare
+and more of my own, *especially* since i recently participated in the
+grand idea of tripping back to south from Aparri (*!*) by land,
+approximately 600 kilometers.
+
+
+{{< btt >}}
+### Entry # 303
+Date: Sat, 27 Feb 2016
+
+people we the, barred from the portent of cake, scrounge about the box
+as promised. sometimes, to diversify, the mix of saline and saliva will
+have to do. we give no qualms in its description.
+
+as per every problem, part of the process is what has been given. in order to feel again,
+we rest on concrete. it is the mildew speckled along the breadth almost
+mirroring the viscosity of cosmopolitan goo, that we want to recognize,
+even with malaise of motion removing the shape of pelvis, as we step
+back out into the light, groggy, wishing, fishing the keys of car or pad
+in a stitch.
+
+they have managed to recycle old reptile bones into lux
+that indubitably decompresses the vigor of intestines, now seeping
+toward other cavities. somewhere in the process, a group of people
+hammers down speculations of the illegitimate future on a slate.
+somewhere, also, we point out the inconsistencies in the computation.
+this act, while convincing to some not within perimeter, only furthers
+the agenda.
+
+there is heat bearing upon us that needs to be traced for
+dictating a hopeful presage, ideally lasting three (3) generations of
+dog-heaven-on-earth. unless we are down to do a thousand or more
+breast strokes in a day when god finally condenses into a surge.
+
+
+{{< btt >}}
+### Entry # 304
+Date: Tue, 01 Mar 2016
+
+them kids they were a-swerving.
+blinking lights oranged the lanes.
+the city had fallen in and out of desperation.
+
+it was the year of mixtape,
+when trends outlawed the magnetic coils. even then, people looked busy,
+smelled busy, but felt busted. everywhere you could throw your arms
+around, and always the receiving end, in a display of fission, would
+break apart into tiny molecules, the ashes a hint of mint. one could
+look into their reflection in a hesitant blitz and still come up with a
+solipsistic overview of being "lively, impeccably immortal atop
+celestial tombstones."
+
+as old calendars go and new ones replace them,
+the limited chances of one to throw a fit of beauteous choke for a
+fellow of deserving feat have been reduced. largely it is because people
+think they are fooled or felt that their ribs have atrophied over the
+years, when really
+
+
+{{< btt >}}
+### Entry # 305
+Date: Thu, 10 Mar 2016
+
+what i did see, instead of the muddy version of you in silhouette that i
+am now forgetting, was the result of a stellar undoing: two parallel
+forms being themselves in such haze. there in the coven a spirit brooded
+over his reflection. the flesh he chased was not the flesh he coveted,
+for it belonged to a different person. he ran to escape back into a
+vessel, which he could not have reached in that soundless lump of a
+place. he knew of debt that must be attended to. of which life time,
+however, he would only know when all save one breath expires.
+
+
+{{< btt >}}
+### Entry # 306
+Date: Fri, 01 Apr 2016
+
+i just browsed the Engine for free pdf copies of *Two-Minute Mysteries*
+featuring a certain Dr. Haledjian the sleuth, but the results it yielded
+lead me not to e-books but to (some of, not all, i think) the fictitious
+cases themselves. the softbounds i once had i borrowed (read: stole)
+from a family friend who
+has been spending his dawn perplexed by some mystery or thriller. and
+those same books someone borrowed (again, note the term) from me.
+
+each book (i had two) is a compilation of cases as experienced through
+Haledjian's wit. and each case is suffixed with a question that slides
+seamlessly in. don't worry though: the answer immediately follows, but
+only that the text appears inverted and in a tiny font, much like the
+ones seen in magazine pop quizzes. so from a passerby's perspective,
+they w-wait. the earth just shook indifferently and i know now that
+somewhere, perhaps miles below us, it has always been the case: the
+constant motion, the mysterious engagement of all best and worst cases.
+
+the query hangs, yet the the magic happens posthumously.
+
+
+{{< btt >}}
+### Entry # 307: *if it actually helps*
+Date: Wed, 13 Apr 2016
+
+I always try to pick up unsaid things where I left them;
+fight with coherence and against decadence, but a lifetime of my being suspended
+amid dismays and my inability to handle each of them well, has led me
+to seek refuge in the abstract. I read somewhere that in such a
+time that many things contradict common knowledge, making no sense makes
+sense. So I distort. I rummage through the bins of Absurd movements, and
+scavenge what I can to come up with something I can stand on.
+
+When I was a kid, I thought that everything was a haze. I even consulted my father
+for that. I don't remember his exact response but I do remember
+disliking it. I knew right then what would become of my internal
+compass. My struggle is not because I have daydreaming tendencies. If
+anything, solipsism (or whatever term better fits, bc rly hu gives
+ddamn) dampens the magnitude of struggle, in that the sooner I distance
+myself from the disorder, the safer my reality will be for me. And that,
+my people, is one for the gloom books.
+
+
+{{< btt >}}
+### Entry # 308
+Date: Thu, 21 Apr 2016
+
+NOTHING has to be consistent after losing hours of rest to some
+contemporary cyst which thrives in low-fi summons. After all,
+restlessness is a millenial hype, if I'm not mistaken. Or maybe I am
+mistaken, and that the prime un-mover might actually be loneliness. Or a
+mind subdued to hold in higher standard the bare minimum. Among the
+ticks that decontextualize the moment I begin to sense the immediate
+world reaching to me, those lightning-paved minutes have been the
+quietest of dimensions. This world spins quicker now than a regular
+night at bistro incognito years ago, when vigor was still consistent.
+However, all remains harmless unless I move. NOTHING ventured, NOTHING
+lost.
+
+
+{{< btt >}}
+### Entry # 309
+Date: Tue, 03 May 2016
+
+the occasional misses hit me. headaches can cause delusion, and one
+quickly goes around it by hydration. but certain types of delusion are
+not of heat, although my kind always refer to entropy as a possible
+romantic idea, however broken it is. big, fuzzy words that mean little
+when boiled to bones: i need them like i need my elementary mathematics,
+in this case.
+
+
+{{< btt >}}
+### Entry # 310
+Date: Wed, 04 May 2016
+
+i am thinking of including the 'Would you kindly' phrase in my e-mails
+starting tomorrow whenever i would be asking for something from someone.
+so if you, fellow gamer, think it would be funny, holler at me would you
+kindly? this will be our inside joke. and you know how i love inside
+jokes.
+
+
+{{< btt >}}
+### Entry # 311
+Date: Tue, 17 May 2016
+
+the three-inch mattress, on whose fabric sweat have had me bleached (and
+only me), could not restore a haze from any night's summoning. i swear
+that the bus had been blazing on a highway when a huge aircraft ripped
+the afternoon sky apart. fire everywhere. lucky the wheels. windows
+broke before the titan's peal. when i said huge, i really meant
+mountainous, like everest uprooted itself from gaia and gained flight,
+but realized it could not escape the pull. imagine an aircraft so
+enormous the distance could only blur so much of its details---heat,
+revelations, &c. i looked at the driver---an office mate, i then
+realized---undisturbed. we began swerving away from fallout. buildings
+crumbled out in the back. fissures spoke only in double-cleansing voodoo
+tongue. soon the rest of this dream world would implode. if pessoa heard
+of this, his ecstasy, of course, would be as little as possible. i had
+his notes in my drafts but i always forget to check up on him so as to
+parallel my patterns with such an observant perspective.
+
+
+{{< btt >}}
+### Entry # 312
+Date: Sun, 29 May 2016
+
+the longest moments evolve to the longest hours without accounting for
+the extensive humdrum narrative. one glosses over the numerals expressed
+on father's face. this is the initial reaction. then, one memorizes the
+anatomy of wristwatch, already voidful after excessive consumption of
+cocktails. in it, the burden of dilation encumbers the faculties. one
+nods back, tilts the head, and inspires the method that which busts
+twice the volume just nigh the premises on another's orifice. the
+technique is not perfect, nor the fluid ambrosia; but we can all agree
+that something of this degree is simply a sorrow so secretive it
+sweetens the aftertaste of one bad, bad afternoon.
+
+
+{{< btt >}}
+### Entry # 313
+Date: Mon, 30 May 2016
+
+just a few jiffies past the 20-kopong-kopong marker (or *the many, many lunar phases after a supposed global decongestion*),
+my feet sprang up and the rest of my spine followed. the faint smell of provincial-rain
+past caught up to cancel the party you weren't even invited in. you
+wonder where on the blueprint i last stepped, but true to this
+photosensitivity, none of it is riveting nor concrete for a textile
+approach, that is one-inch punching pavements. around then, i had limped
+where vehicles were naught, the pondering too diverse for me to just be
+complacent. any overpass had dragged against linear motion. any lane a
+come-hither hand for a swan dive to asphalt. any movement netted
+negative displacement. any colegiala demure was a getaway jetski
+disappearing into the wounds of horizon. if it felt right then, i did
+nothing at all to postpone the eventual transcription of person's common
+disenchantment, wherein i'd rather not confuse shock with an overdue
+decay.
+
+
+{{< btt >}}
+### Entry # 314: *PROBLEMS*
+Date: Thu, 09 Jun 2016
+
+1.  the carnival put off anxiety. everyone marched in with charmed
+    items. your sister, i think, bought one. it was an embroidered
+    article that covered her whole head. she did not want her face to be
+    seen. people, in fact, did not mind other people for carrying or
+    wearing outrageous items, so long as each one did not harm anybody.
+    in fact, nothing from the carnival were rigged with harmful side
+    effects. it was those cheap knockoffs found in the sleazy-looking
+    stalls just outside the venue. word got around quick to never get
+    anything from anyone that was not within the official premises of
+    happy. anyway, as for this [REDACTED] affair---[REDACTED],
+    because of its brevity and shock---we ordered our magic food and
+    sat down at one of the public benches. there you, your sister, and i
+    ate motionless, the air stung of desolation. but to me, regardless
+    of the status, it was fine dining. any food with you is fine dining.
+    any happening with you calls for celebration. the pause pawned more
+    idle talks, and by the last bite, we were dead. when you spoke, you
+    asked whether i could give you and your sister a lift from off that
+    place to somewhere greener. this reminded me of my actual vehicle that
+    i parked in the shady part of the compound. the second i moved i
+    realized that always out of synch the calling of your shapely face
+    that puts my person to question, but even in the flicker of years,
+    your absence only clarifies the image. this brings to mind the
+    process of developing a photograph in a darkroom. from a seemingly
+    blank slate, the memory ceases to be just of temporal dimension as
+    it surfaces into clarity...
+2.  when the course of action has been implemented, and the following
+    heaviness has precipitated over the spot where a doggone companion
+    once was, one meddles not with the comfort of orderliness it is
+    supposed to bring but with the deluge it has caused. in every drop,
+    there is only a faint smell of the yesterdays spent in chains, palms
+    wide open, chasing, just behind the nape, as if to still the free
+    spirit. in every crook, there is only a semblance of pain that
+    awaits the restart. one is dragged to smell the plants, yet one
+    pulls back at the thought of every verdant and vermillion brushing
+    on the side. the heaviness here mentioned is a numbing experience,
+    altogether different from the chills one might have when one
+    imagines a transaction with said doggone companion. this is no mere
+    mechanical verb. this is life as it commutes from points a to b. no
+    similar breed, no moving meat could compare nor could ever replace
+    an ache so bleak one forces against the laws of universe but tumbles
+    hard to landing...
+
+
+{{< btt >}}
+### Entry # 315
+Date: Tue, 21 Jun 2016
+
+our limits have been refined through endless walks.
+the smart watch on your wrist is keen on your making the next minutest jaunts;
+says you have made ten thousand steps today.
+you keep the pace steady even after your quota.
+behind you, i have already dropped to the pavement to cross
+my legs for a while and let a normal force deaden some nerves. then, i
+unweave upon same normal force, same deathly numbness adjusting my lower
+half.
+
+one taketh form after another. i have an anatomy configured to
+mismatch yours. fitness is a dubious paradigm to me what patience is a
+virtue to you. it can only affect me to a point, knowing how little of
+the air i breathe is really transparent.
+
+you look over your shoulder and see me trying to catch up.
+phone in hand, i show you a map of the
+quickest route to panic room so you wouldn't mind the dredging of thick,
+voluminous slime that once belonged to a thousand animated mammals.
+
+first, on paper. and, if it is theoretically sound, then on a wise
+choice. i show you the final draft, just in case. in fact, let the
+elusive wisdom be the basis of all future makings.
+
+on the last milestone, i'd kiss you a tonne or not,
+whichever produces the highest note...
+you are a \[REDACTED\] vision, a prognosis borne out of ancient
+wound mutating to a dense flesh. it was a horrible plot twist,
+i thought, but it doesn't make the reality any less favorable.
+
+we go back to the beginning, long before the crown has been broken.
+the consequence of acting out our thoughts could have been suppressed to trivial
+quandaries if only it omitted the bloodline stumbling on this little
+show, its intent excluding basic etiquette like knock, knocking. we rose
+and dusted the crusted fluid off of our hair, and swallowed the liquid
+iron gushing from our gums. this was where we hoped to release tension
+but only got the beta version. all detritus of sanguineum compacted,
+here abolished.
+
 
 {{< btt >}}
 

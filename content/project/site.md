@@ -35,7 +35,7 @@ It helps me reorganize my thoughts by weeding out what's unnecessary.
 This site will also have my research material, if any at all.
 Research, in this context, will be different from that in academia.
 This bypasses the usual way to earn a post-graduate degree.
-After reading [Nadia Eghbal](https://nadiaeghbal.com)'s post, "[Reimagining the PhD](https://nadiaeghbal.com/phd)," I'm now more inclined to do this.
+After reading Nadia Asparouhova's post, "[Reimagining the PhD](https://nadia.xyz/phd)," I'm now more inclined to do this.
 As a result, I won't get a certification nor a degree; it won't be official.
 But what are certifications anyway if not,
 for better or worse,

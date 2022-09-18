@@ -188,7 +188,7 @@ so that's what I'm using when editing this one
 big text file.
 
 Not only is it light on resources---currently
-at ~175 KB storing a year's worth of logged info---it's
+at ~200 KB storing a year's worth of logged info---it's
 portable; all operating systems accept plaintext.
 
 Mine is inventively named as `log.txt`.

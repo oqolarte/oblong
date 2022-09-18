@@ -1,3 +1,0 @@
-Search this site
-
-{{< search >}}
