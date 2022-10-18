@@ -44,4 +44,5 @@ deploy:
 	@git add . \
 	&& git commit -m "Deploying via makefile" \
 	&& git push -u origin main
+	@rsync -rtvzP /home/oqo/oblong/public/ root@202.182.120.99:/var/www/ohio.araw.xyz
 	@echo "Site is deployed!"
