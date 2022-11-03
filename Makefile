@@ -44,4 +44,4 @@ deploy:
 	@git add . \
 	&& git commit -m "Deploying via makefile" \
 	&& git push -u origin main
-	@echo "Site is deployed!"
+	@echo "Site is now updated in git repo. Okay to push!"
