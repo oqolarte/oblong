@@ -7054,6 +7054,174 @@ here abolished.
 
 
 {{< btt >}}
+### Entry # 316
+Date: Tue, 21 Jun 2016
+
+half of the afternoon lapsed into a crisp panel from the wee hours of
+morrow: i, on my dawn desk, saving all the reference i need to publish a
+speculative fiction. in it, i engage the storm, and a book is finished.
+now, however, that i am actually gearing up for this calling, i can't
+seem to follow through? this is so classic of me.
+
+
+{{< btt >}}
+### Entry # 317
+Date: Mon, 27 Jun 2016
+
+if one is knowledgeable with the mechanics of driving, or of hot-headed
+minds behind the steering wheels, one is fated to err at some point
+despite attention.
+
+what i talk about when i talk about this is: in the
+beginning, when i was starting out, i got up and left, and somewhere in
+the process, i miscalculated. by the time people had dispersed and went
+on, i shelled out a huge chunk of bread and tossed it across the street.
+this transit barely made a bump in the head, almost forgettable, but if
+only you had given me a drink!---i could have betrayed contentment and
+confused thee with much quaffing. but drinking comprises labor, hasn't
+anyone told you?
+
+
+{{< btt >}}
+### Entry # 318
+Date: Thu, 07 Jul 2016
+
+Hazy. Hazy. Objects ~~appear~~ become twice as many, but at the lowest
+trench, thrice. Imagine how the physical earth would react to all these
+gained old things pushing anew downward. The surface is not structured
+to accommodate the influx of the same inanities coming out of... haze?
+Continents would break apart and sink. People would become twice, once, gone.
+
+Alternatively, upon amassing said sad hypothesis, the increased
+gravity would begin to pull the moon. The satellite would then cease to
+move farther from us and begin to accept that here is its last stop,
+from womb to birth and back. Now, the end state depends on one's
+preference, as neither scenario could not encapsulate how one honestly
+feels or thinks. To implode or to be struck: how one chooses is relative
+to how one perceives, but is perception to be trusted at this trying
+times?
+
+{{< btt >}}
+### Entry # 319
+Date: Fri, 08 Jul 2016
+
+Stars juggle around them elementary particles, and that is as pragmatic
+as it gets. Reality is bent according to one's will. It experiences
+frustrations and alterations, but no matter the intricacy of changes
+that have been made, a universal truth prevails.
+
+
+{{< btt >}}
+### Entry # 320
+Date: Mon, 11 Jul 2016
+
+palpitation over tragedy: a sine wave of heartbeats to reflect actual
+emotions. up means up, down means i have released what is due for
+release, and must wait in obscurity lest these times die out.
+
+
+{{< btt >}}
+### Entry # 321
+Date: Tue, 12 Jul 2016
+
+how do you stifle what spikes? do you simply nod and dive at the
+itinerary to down south without considering the toll it would grate on
+your body?
+
+your bus ride passes over a dreadful water each day. you
+contemplate of getting down there some other time via the banks, and
+just take a glimpse of your reflection. you would see that you are very
+much alive, yet of unknown function. you would see the egocentric image
+studying you, its cackling blurred by methane emanating from the water;
+and somehow this would interpret the mystery gnawing behind all the
+unfinished videos you have watched on cold buses that you never know how
+they began.
+
+today you have endured the riots of your muscle and stomach.
+tomorrow will be the same, yet there you will observe, again by the
+edge, because that's only the logical step forward.
+
+
+{{< btt >}}
+### Entry # 322
+Date: Thu, 14 Jul 2016
+
+You are assisting your boss with formulating a new chemical algorithm
+that could effectively remove dirt and grime from human skin.
+Your boss: smart and beautiful. Your boss is gracefully moving about the
+apparatuses, and you can't help but notice. One day, you decide to ask
+your boss out on a fancy date. Your boss declines. You wallow in the
+comfort room. Being down doesn't suit you, you realize. You decide to
+take a shower instead BUT you are soaplessly in lab.
+
+
+{{< btt >}}
+### Entry # 323
+Date: Mon, 02 Jan 2017
+
+The commotion I deal with from nine to six fails me on several
+vertebrae, each already squeezing the gel out, yet I keep on thinking
+that saying no to halt is some messed up attitude I must counter lest I
+begin to consume flies instead of the very vittles they are buzzing on.
+
+Different hustles do converge at some point; the intersection, like the
+urban counterpart, a Wes Craven promotional poster drifting in
+post-holiday air. But this is still the holidays, and we have winos
+pilfering liquors from their parents' cabinets. Said winos are actually
+fathers who like to ruin the festive feeling by bringing out from their
+decrepit innards unwarranted, ancient hate. That was then. This is now,
+the night. Tomorrow is, what, a polished pair of kicks wanting to march
+on roads anew?
+
+
+{{< btt >}}
+### Entry # 324
+Date: Fri, 06 Jan 2017
+
+Surprise me with some cubic centimeter of space that speaks in soft,
+secret language, and wait for sighs. Too I shall sit (or stand) this out
+as the flow unfolds, one stroke at a time.
+
+Perhaps, in a previous life,
+I was a seagull in search of horizon, while you were the horizon itself,
+ever enigmatic in its circumscribing land and sea. In this life, though,
+the roles have reversed. Patience merely suggests that such endeavor be
+prolonged for the benefit of parties involved. At least, that's my take
+on it. The eagerness must wait. It has to wait, stretched to a racy jog
+so that the beginning would already feel antiquated; or else this thingy
+will deplete its resources too soon unto thy patient space, which, from
+what I've heard, is a letdown.
+
+But surprise me, nonetheless, in
+troublesome lots when we have nothing in mind save for usurping the
+chance of others' eyes not upon us, here, now. Jump on me whilst my butt
+rots on a bistro seat, not because it is a part of the mutual agreement,
+but because you, among the creepsters that have known me well, decide to
+partake on a different taste for that particular moment. In fact, jump
+on me with a computed force, as dizzying as cerveza noir, that it
+ruptures: your scapula speeding into my solar plexus. Some sense of
+irony, and a guttural belch so distinct it turns off light bulbs, would
+then escape from the deepest, most disturbed pump of blood, as is its
+wont.
+
+
+{{< btt >}}
+### Entry # 325
+Date: Tue, 10 Jan 2017
+
+My plan to escape what I think is an opportunistic bureaucracy, while it
+hasn't been foiled yet, has not even met its theoretical values on
+paper. Of course, everything must be polished first before transitioning
+to verdant meadows, but the air in this vicinity is pressuring me to
+stay put. This pressing issue opposes action. Not only that, everything,
+everyone seems to be enamored by the processes that pile on top of each
+other. This is the career life they see for themselves, and they want me
+in. I'm positive that this situation irks them the same way it does me,
+but they sure do handle it better. That, or it's just me boiling in
+frustration, frozen in bog, thus incapable of making even low-grade
+satisfaction out of it all.
+
+{{< btt >}}
 
 ## One-Liners
 Tweet-like witticisms back in the day.
@@ -7181,7 +7349,11 @@ elsewhere.
 1. the dream is to write at least 200 pages of walkthrough for an obscure rpg in purple prose
 1. who here wants to be speculating alone with their electronics and,
 immediately after that, their thoughts?
-
+1. the dream was to write sci-fi thriller for a 50's radio show but all i
+got was this post-modern romcom fictitious capacity
+1. i give back to the Hammock that has ossified the running metal inside,
+but in turn, i take from me the ruination of haze and improve what's
+left
 {{< btt >}}
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
