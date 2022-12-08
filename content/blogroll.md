@@ -14,6 +14,7 @@ draft: false
 [Engineering For Change](https://www.engineeringforchange.org)  
 [Ethical Net](https://ethical.net)  
 [False Knees](https://falseknees.tumblr.com/)  
+[Gemma Copeland](https://gemmacope.land/)  
 [Hund](https://hund.tty1.se/)  
 [Hundred Rabbits](https://100r.co)  
 [Laura Kalbag](https://laurakalbag.com/)  

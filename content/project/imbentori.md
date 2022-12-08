@@ -7222,6 +7222,266 @@ frustration, frozen in bog, thus incapable of making even low-grade
 satisfaction out of it all.
 
 {{< btt >}}
+### Entry # 326
+Date: Mon, 16 Jan 2017
+
+Although snoots in many a blurred office occupy the space unintended for
+them, we here at this level will have to do with a hypothetical church
+where one can just summon joy, and ignore what plaguy phosphorescence
+sets us alight. Everyone in this imagined place is obligated to be happy
+for the duration of their stay. They fake fun until, in a moment of
+clarity, it actually is. It has been, the entire time, a wholesome fun
+of people sharing stories, singing songs, thinking of snow blanketing
+the pyramids of Giza as though it were common.
+
+{{< btt >}}
+### Entry # 327
+Date: Tue, 07 Feb 2017
+
+it only seemed natural for me, as the current central point of
+roundhouses-to-groin as of late, to revert to a tested method of calming
+the f down. for the time being, i bid them last stretches of pollutive
+commutations home to a temporal folder, to be filed away until walking
+has burned the fats. until then will unceremoniously i misplace each
+step closer to the doorstep, the path behind me a worn-out underbelly of
+a worm in which fellow strangers associate their quirks with the night.
+while the urban setting obscures the up-sides of brisk walking, this
+endeavor is way healthier than propping my ass still for half an hour
+more. besides, this could be the last few days of temperate mornings and
+evenings, and that i must make something out of each for my benefit,
+before the heat waves hi and takes out all the fun.
+
+{{< btt >}}
+### Entry # 328
+Date: Wed, 15 Feb 2017
+
+You, who have been rooted to the earth all your life, become weightless
+the moment the Airbus you are in dives after losing all of its engines.
+Someone spots you amid the afterglow of a cervine body painted on the
+highway, er, air way. Everyone gasps in the silence of their slumber,
+but you, who have decoded every audible discomfort there is, slump
+shapeless, almost exhausted.
+
+Oxygen masks drop from their compartments.
+Is it really the right time to get high?
+What do you do with all of this?
+What you can do describes your ability to simulate the
+happenstance of all engines failing altogether in your head without
+needing to actually conduct physical experiments.
+
+You think:
+the folds of flesh roll into a lump of internal screams as the entire plane spirals out of control.
+The imagery of clouds intrigues those eyes that
+dare look "up" for a sign, although at this moment, any knowledge of
+direction provides little to no satisfaction to the brave observer.
+
+Everyone is wearing the masks, and you study the one in front of you.
+Has it been used before, like in a serious situation such as this?
+If so, you would like to know the story.
+
+You think:
+rogue pilot hijacks plane, sends everyone to seas for "the daily bath time".
+And it would have been a comedy to see it headline the clickbait sites.
+However, before you digress, fate beckons immediate response from the gravity of the situation.
+What do you do?
+
+{{< btt >}}
+
+### Entry # 329
+Date: Sun, 19 Feb 2017
+
+Visible light of various wavelengths hither escapes, clashing before
+meeting, briefly acknowledging the migration of objects from doldrum to
+the nearby city of human cells. Every stray particle which photons
+percuss resembles a by-passer.
+And just like that, the room becomes a national park.
+Everyone glides at their own pace on their own planes of
+their own plights. One examines oneself because of a bright idea, but
+upon observing, the idea then collapses on its own weight. It vanishes.
+Lots of them are like that, popping in and out of existence as each is
+at risk of complex affairs.
+
+Another one washes one's mind in the cacao fields of Bali, there in
+suspended belief all the while here, munching a breadfruit from
+Honolulu.
+
+The human eye looks at this community of dust, and sees further into
+their trifles as the room throbs in the vapor it rendered. The human
+capability manages its own intake, be it the puff being a little jarring
+or the swig deliberate. At some point, the human belly will grumble
+before ultimately detaching its enterprise from the rest of the body,
+gutted then since you haven't been here in our secret hideout.
+
+{{< btt >}}
+### Entry # 330
+Date: Sun, 12 Mar 2017
+
+in many parts, pixels begin to tessellate the field of vision, although
+the reduction in distance between the observer and the observed object
+amounts to some level of importance when the beholder reports
+otherworldly events. this, of course, is a practical use of technology:
+there becomes here in a click.
+
+unfortunately, it is with which we overestimate the nature of things,
+even of people, that are within arm's reach. when a friend fumes over
+the internet about how your current president "is not really a fascist,
+and that his critics should at least try to be in his shoes at least
+once," in the depths of your being, a part of you, you now know, has
+died. perhaps, this is the friend's part in your life.
+
+i don't know. the pressing matters are now closer to us than ever, and
+there is very little to excuse to be ignorant of them, and yet our minds
+continue to nitpick on bright neons lights rather than the grim that is
+our politics.
+
+{{< btt >}}
+### Entry # 331
+Date: Sat, 25 Mar 2017
+
+Exhaustion expires as it escapes the mouth agape. And the cylinder,
+through which anger exhumes the lively matters of forgotten recency, is
+lined with raspberries, sticky now as they have been chemically altered.
+"By what?" I hear you ask.
+
+One Tuesday dusk, you found yourself on a speeding sedan. The driver,
+noticing you coming to your senses, began talking.
+
+"Did I wake you? I was having a jamming session with that Vios over
+there."
+
+He pointed a dark gray sedan that had just swerved out view,
+and for a moment, you clutched the trappings of doom knowing that the
+ the car you both were in blurred at around 110 kph.
+ The vanity mirrored you flipped
+open told of great bed time stories, but hark, it would be a long day.
+
+A few hours ago, you opened the idea of buying a house. "Great!" he
+shot. "Say, let's drop by our house this afternoon. I'll tour you
+around."
+
+It was unnecessary, of course, and you made sure the driver heard it.
+Yet he is the type who does not spring up to his feet because of
+a loud crack. No, he, in every modern sense of it, is your textbook jerk.
+
+"Why not?" he asked. "We'll grab two bottles while we're at it."\
+
+The fire of March has seared every edifice in its place, and the people
+dwelling in each have the right to complain. We were not exceptions. Our
+entry to summer comprised field work, which was "nice", if nice meant heat
+stroke. We rewarded ourselves with cold beer and a buffet of leftovers
+to partake of.
+
+Looking back at it, his home *is* nice, if nice meant husband and wife
+dueling in front of you as your eyes got foggy, fatigue chopping thy
+limbs. Familial drama snagged you back to the moment, the spice in the
+food manifesting in the atmosphere. *Tama na ang drama.* There
+is an escape button, isn't there?
+
+The time had come for you to retire. The side mirror glared at you. The
+train folks, unforgiving. You slumped, finally, and prepared for repose.
+The lids shifted from drought to drawn, dreams conjured within lenses.
+Alas, you seldom remember any of them, so the point is...?
+
+{{< btt >}}
+### Entry # 332
+Date: Fri, 31 Mar 2017
+
+*b a c k* then, I enjoyed tinkering with the abstracts behind operations,
+because I have a strong constitution for and
+against things that rapidly escalate. However, the school could only
+teach me so much. Once out and about trying my hand at the colorful
+bustles of green I previously had impeached, looking for ways to apply
+myself to methods of masks and machines alike, it dawned on me that one
+cannot be loyal to a singular linear path. If the fading into sepia of
+my maths knowledge taught me anything I could use now that,
+it is to open myself to the
+opportunities as they burst out of existence as soon as I try to reach
+for one.
+
+{{< btt >}}
+### Entry # 333
+Date: Thu, 13 Apr 2017
+
+You lose yourself in the green lush that fights against bones of a
+former edifice, withstanding the normal vectors of tiles retained. You
+wonder what happened to the multifunctional sports center that was once
+here. The remaining columns and rebars jutting from the ground can only
+give you so much as to what really happened during its demolition. You
+can't help but think what was it that set the machines in motion, yet
+you guise your groan with a grin, pleased, in fact, of your ignorance
+about this matter, because in knowing lies the obligation to feel
+disappointed of your childhood memories that have been summoned
+inaccurately.
+
+At the speed of thought, you go back to acknowledge your presence in a
+warehouse-like structure, the hopes of maintaining a system of
+procedures gradually dwindling with each tap of finger. In this open
+space, you notice a change among your peers. A glint has stained their
+eyes, and what of yours, really? Perhaps, another pupil could have
+dilated but chose not to. Perhaps, in lit place that seemingly
+mesmerizes, the self that once knew now doubts.
+
+The rumors of transparency complete a lap. The circuit, once again, is
+alive. You want to apply more of yourself to insurgency that might help
+in your improvement, but you know that much of the rumors are hoax.
+
+I guess there is vanity in imagining yourself as one essential part of
+the whole machine that, if removed, would disrupt the flow. To know that
+there is more to this going-on other than repeatedly regurgitating pulp
+after pulp helps you sleep at night, but not after hours of dreary
+consciousness that you so meticulously tame. To wake, therefore, must be
+a clearing of path, as so many others conclude. And wake you must as
+gesture that you desire to be detached from these cool, confusing ways
+of "belabored contradiction".
+
+{{< btt >}}
+
+### Entry # 334
+Date: Thu, 08 Jun 2017
+
+Seldom do we associate misgivings with a day of fulfilment, but perhaps,
+in wanting to see a point of light where darkness seeps, we welcome the
+persistence of our own doubts. Doubt forces us to grip [SOME VAGUE
+ACTION SEQUENCE RE: HOLDING HANDS WITH TROUBLE] what causes small
+events to bloat to uncomfortable situations; and maybe, in the process
+of doing so, we delve in shoes that takes us ever so far from such
+space-time points. Introversion, if anything, gives a slight advantage
+over people who are all about spontaneity, although that is just a
+biased inference.
+
+{{< btt >}}
+### Entry # 335
+Date: Thu, 08 Jun 2017
+
+This is most of us, the dry husk gnawing at the burning bush: an
+inexplicable happenstance of universal dust coming together to live with
+good fiction in mind. Sometimes, the stories we tell ourselves elude the
+perception of what is and is not abstract, and it affects the momentum
+we are trying to build up. In reality, what inkling that berths on the
+forever-there malleable vox somehow reconciles with previously
+indomitable adjudications of self to self, even when it is not spoken
+to. And the disorder with which we experience everything compels this
+little self into committing a lifetime of insurgency against the very
+being it serves.
+
+{{< btt >}}
+### Entry # 336
+Date: Thu, 27 Jul 2017
+
+a veritable experience of frustration hands me down to another me on a
+lower tier when, up until now, i continue to function as a middleman who
+just happens to know how to tweak wires and be technical when technique
+is demanded of me. admittedly, things are... less difficult when one
+identifies as a middleman. being one means being a conduit through which
+a surge of complacency eddies, which would also mean not minding
+whatever seepage, rant or rave, pools in the vicinity of one's presence.
+sometimes, i apply what i don't know in areas that are yet to be
+transformed, and in that incongruence does the inanity of my actual
+purpose get magnified and be understood. yet in spite of all this, i
+feel a bit happy, suffering only fleeting episodes of disintegration
+when some days unattractively jumpstart.
+
+{{< btt >}}
 
 ## One-Liners
 Tweet-like witticisms back in the day.
@@ -7354,6 +7614,12 @@ got was this post-modern romcom fictitious capacity
 1. i give back to the Hammock that has ossified the running metal inside,
 but in turn, i take from me the ruination of haze and improve what's
 left
+1. Food > Fear > Work
+1. listing would-be brainchildren proves to be therapeutic, and i would like to blame buzzfeed's conjecture about lists
+1.  look out and prot e c t yours el f
+1. no person is inherently boring, so said my figure to its frivolous attempt to connect among the peers floating beyond jets.
+1. For all grievances that all Me's precluded and nay made it to surface, be still for the time being as we all figure out when the next window is going to open.
+
 {{< btt >}}
 
 [^maze]: "technically speaking, labyrinths only have a single path, and
