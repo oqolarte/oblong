@@ -11,6 +11,179 @@
     
     
     <item>
+      <title>Video Log - November 2022 </title>
+      <link>https://ohio.araw.xyz/nov2022-vlog/</link>
+      <pubDate>Tue, 27 Dec 2022 11:50:58 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/nov2022-vlog/</guid>
+      <description>&lt;p class=&#34;statusDone&#34;&gt;
+Status:
+&lt;strong&gt;DONE&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This small project is my attempt to shoot videos using only my smartphone,
+and edit the clips using only &lt;code&gt;ffmpeg&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The result, honestly, is&amp;hellip; &lt;em&gt;not&lt;/em&gt; for public viewing,
+but it&amp;rsquo;s up on YouTube if you want see the 18-minute-long hot mess.&lt;/p&gt;
+&lt;p&gt;YouTube link: &lt;a href=&#34;https://www.youtube.com/watch?v=vvaxJaNAtY8&#34;&gt;https://www.youtube.com/watch?v=vvaxJaNAtY8&lt;/a&gt;&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#shooting&#34;&gt;Shooting&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#what-worked&#34;&gt;What worked&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#what-didnt-work&#34;&gt;What didn&amp;rsquo;t work&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#editing&#34;&gt;Editing&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#trimming-videos&#34;&gt;Trimming Videos&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#re-encoding&#34;&gt;Re-encoding&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#concatenation&#34;&gt;Concatenation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#what-worked-1&#34;&gt;What worked&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#what-didnt-work-1&#34;&gt;What didn&amp;rsquo;t work&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;shooting&#34;&gt;Shooting&lt;/h2&gt;
+&lt;p&gt;The idea:
+to shoot at least a minute&amp;rsquo;s worth of clip/s per day.
+At the end of the month,
+I should have at least half an hour&amp;rsquo;s worth of raw footage to work with.&lt;/p&gt;
+&lt;p&gt;The subject: the most interesting parts of my daily life.&lt;/p&gt;
+&lt;p&gt;In the spirit of accessibility and low-budget vlogging,
+I use the camera &lt;em&gt;and&lt;/em&gt; built-in microphone of my OnePlus 5T,
+which is also the smartphone I daily-drive.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;what-worked&#34;&gt;What worked&lt;/h3&gt;
+&lt;p&gt;Vlogging is accessible,
+because all the gear I need is in a single device that can fit in my pocket.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;what-didnt-work&#34;&gt;What didn&amp;rsquo;t work&lt;/h3&gt;
+&lt;p&gt;A lot!&lt;/p&gt;
+&lt;p&gt;I thought 720p would suffice,
+but the final cut would be glitchy and grainy,
+especially on big screens.
+I should have opted for the max resolution (4K) so I have more wiggle room come
+editing time.&lt;/p&gt;
+&lt;p&gt;Monopod and/or tripod would have helped a lot in physically stabilizing many of the clips.&lt;/p&gt;
+&lt;p&gt;Of course,
+a crash course on videography,
+cinematography,
+and/or smartphone filming could have helped!&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;editing&#34;&gt;Editing&lt;/h2&gt;
+&lt;p&gt;As said, I used &lt;code&gt;ffmpeg&lt;/code&gt;, a command-line utility to edit the videos.
+I&amp;rsquo;m stretching the definition of the word &amp;ldquo;edit&amp;rdquo; here,
+but I only trimmed, re-encoded, and concatenated the videos.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;trimming-videos&#34;&gt;Trimming Videos&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -i &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;INPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; -t &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt; -c copy &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;OUTPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;where:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;-t 8&lt;/code&gt; &amp;ndash; Only write out the first 8 seconds.&lt;br&gt;
+&lt;code&gt;-c copy&lt;/code&gt; &amp;ndash; instead of re-encoding the entire file,
+this command just copies it, making rendering the output faster.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -ss 00:16:00 -to 00:16:30 -i &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;INPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; -c copy &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;OUTPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;where:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;-ss 00:16:00&lt;/code&gt; &amp;ndash; is the time stamp where the program would start writing data
+to output file.&lt;br&gt;
+&lt;code&gt;to 00:00:30&lt;/code&gt; &amp;ndash; is the end time stamp of the clip you want to capture.
+&lt;code&gt;-i [INPUT FILE]&lt;/code&gt; &amp;ndash; is placed after the time stamp, so ffmpeg wouldn&amp;rsquo;t have to
+read the file from the beginning first.
+This way, the program will start reading (and immediately writing)
+at the specified time stamp,
+i.e., &lt;code&gt;00:16:00&lt;/code&gt; in this case.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;re-encoding&#34;&gt;Re-encoding&lt;/h3&gt;
+&lt;p&gt;Some of the clips get flipped upside down
+(i.e., rotated 180 degrees)
+in one of the draft cuts.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://video.stackexchange.com/questions/35873/why-does-ffmpeg-flip-upside-down-the-video-when-concatenating-with-f-concat&#34;&gt;This is likely because&lt;/a&gt;
+some of them have a rotation angle,
+that gets carried over the succeeding clips.&lt;/p&gt;
+&lt;p&gt;To be sure, I re-encoded all of the clips with &lt;code&gt;noautorotate&lt;/code&gt; flag.&lt;/p&gt;
+&lt;p&gt;I made an automation
+&lt;a href=&#34;https://stackoverflow.com/questions/21634088/execute-ffmpeg-command-in-a-loop&#34;&gt;bash script&lt;/a&gt;
+that loops through all of the clips,
+and re-encodes them one by one:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#!/bin/bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;find . -name &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;*.mp4&amp;#39;&lt;/span&gt; | &lt;span style=&#34;color:#66d9ef&#34;&gt;while&lt;/span&gt; read f; &lt;span style=&#34;color:#66d9ef&#34;&gt;do&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        ffmpeg -nostdin -i &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;$f&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt; -c:a copy &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;f%.*&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;x.mp4&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;done&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;concatenation&#34;&gt;Concatenation&lt;/h3&gt;
+&lt;p&gt;In this context,
+concatenation means linking all the clips to make a final cut.
+&lt;a href=&#34;https://trac.ffmpeg.org/wiki/Concatenate&#34;&gt;More info here&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -f concat -safe &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; -i mylist.txt -c copy output.mp4
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;where:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;-f concat&lt;/code&gt; &amp;ndash; is the concatenation flag.&lt;br&gt;
+&lt;code&gt;-safe 0&lt;/code&gt; &amp;ndash; is safe mode for concat demuxer, set to 0.&lt;br&gt;
+&lt;code&gt;mylist.txt&lt;/code&gt; &amp;ndash; is the list of video clips to be concatenated,
+which follows the format:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# contents of mylist.txt
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# this is a comment
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;file &amp;#39;/path/to/file1.mp4&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;file &amp;#39;/path/to/file2.mp4&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;file &amp;#39;/path/to/file3.mp4&amp;#39;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To automatically generate &lt;code&gt;mylist.txt&lt;/code&gt;,
+either of the following bash command will do:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# with a bash for loop&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; f in *.mp4; &lt;span style=&#34;color:#66d9ef&#34;&gt;do&lt;/span&gt; echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;file &amp;#39;&lt;/span&gt;$f&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#34;&lt;/span&gt; &amp;gt;&amp;gt; mylist.txt; &lt;span style=&#34;color:#66d9ef&#34;&gt;done&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# or with printf&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;printf &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;file &amp;#39;%s&amp;#39;\n&amp;#34;&lt;/span&gt; *.mp4 &amp;gt; mylist.txt
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;what-worked-1&#34;&gt;What worked&lt;/h3&gt;
+&lt;p&gt;Using only the command line to edit videos is
+in itself an interesting endeavor to take.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg&lt;/code&gt;, to my knowledge, uses far less system resources
+compared to GUI equivalents.&lt;/p&gt;
+&lt;p&gt;For relatively simple edits,
+like the one I did for this project,
+&lt;code&gt;ffmpeg&lt;/code&gt; works well.&lt;/p&gt;
+&lt;h3 id=&#34;what-didnt-work-1&#34;&gt;What didn&amp;rsquo;t work&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;ffmpeg&lt;/code&gt;, as a video editing &amp;ldquo;suite&amp;rdquo;,
+will not work in 99% of the film projects.&lt;/p&gt;
+&lt;p&gt;To my knowledge,
+dedicated GUI video editors like &lt;a href=&#34;https://kdenlive.org/en/&#34;&gt;Kdenlive&lt;/a&gt;
+offer more features and
+objectively has the potential to produce better edits.&lt;/p&gt;
+&lt;p&gt;Some of my clips would have been better if each of them
+were digitally stabilized.
+That way, the final cut would have been more tolerable to watch.&lt;/p&gt;
+&lt;p&gt;A GitHub project, &lt;a href=&#34;https://github.com/georgmartius/vid.stab&#34;&gt;VidStab&lt;/a&gt;,
+is worth checking.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Using simpler ways to produce a quality video
+with gear I already have can be tricky,
+but it&amp;rsquo;s a challenge I didn&amp;rsquo;t do just for the sake of it,
+but for seeking unorthodox methods of tapping my creativity.
+While this is possible, it has a steeper learning curb.&lt;/p&gt;
+&lt;p&gt;Videography is a complex discipline,
+one that I can&amp;rsquo;t learn in the course of one month.
+I suspect, though, that I can give a decent output if I do this thing more.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Knowing Here</title>
       <link>https://ohio.araw.xyz/here/</link>
       <pubDate>Sun, 01 May 2022 18:46:15 +0800</pubDate>
@@ -1937,6 +2110,20 @@ It&amp;rsquo;s just that I have more interesting things to tackle, in my opinion
         &lt;li&gt;&lt;a href=&#34;#entry--334&#34;&gt;Entry # 334&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--335&#34;&gt;Entry # 335&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#entry--336&#34;&gt;Entry # 336&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--337&#34;&gt;Entry # 337&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--338&#34;&gt;Entry # 338&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--339&#34;&gt;Entry # 339&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--340&#34;&gt;Entry # 340&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--341&#34;&gt;Entry # 341&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--342&#34;&gt;Entry # 342&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--343&#34;&gt;Entry # 343&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--344&#34;&gt;Entry # 344&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--345&#34;&gt;Entry # 345&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--346&#34;&gt;Entry # 346&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--347&#34;&gt;Entry # 347&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--348&#34;&gt;Entry # 348&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--349&#34;&gt;Entry # 349&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#entry--350&#34;&gt;Entry # 350&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#one-liners&#34;&gt;One-Liners&lt;/a&gt;&lt;/li&gt;
@@ -8386,6 +8573,210 @@ feel a bit happy, suffering only fleeting episodes of disintegration
 when some days unattractively jumpstart.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
+&lt;h3 id=&#34;entry--337&#34;&gt;Entry # 337&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 28 Sep 2017&lt;/p&gt;
+&lt;p&gt;A part of me withers, see, in exchange for bread and provisions of
+relative comfort. Would rather sleep, really, on a break than go through
+the whole ordeal of and with eyes open, not focused at describing this
+level in which we the rest operate.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--338&#34;&gt;Entry # 338&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 03 Oct 2017&lt;/p&gt;
+&lt;p&gt;Some part of us cannot stand the thought of the inability to sense what
+we cannot fully grasp&amp;hellip; so that in the absence of the people that
+matter (perhaps those capable of enlightening us), the dregs that are
+retained within the scope of spectacle sit or stand in place, whichever
+mode is less encumbering, being churned to multiple versions
+in big vats, each a different brew to taste and smell and fear. Or,
+perhaps, to be blocked by our autoimmune capacities so that upon
+Thinking, our senses deny us tangible results.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--339&#34;&gt;Entry # 339&lt;/h3&gt;
+&lt;p&gt;Date: Sun, 15 Oct 2017&lt;/p&gt;
+&lt;p&gt;What do you see? A bunch of people that, when pressed against a birthday
+wall, become convivial in their merrymaking, as though their previous
+posture did not contribute to anything they felt afterwards.&lt;/p&gt;
+&lt;p&gt;This structure is their final form, a flesh that has shed its shell of gloom,
+formally escaping into a mansion whose architect is a bleak forecast
+from the orient. Each individual reckons the quantity of reasons to
+celebrate on a particular date without giving off too much of their mush
+to nearby colleagues who are eavesdropping. I hope they like what they see.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s another bit: the hot steaming cloud, which is not afraid to
+leave from the head&amp;rsquo;s pores, invokes dreams of conventionally magnetic
+bodies in planetary motion, pulling what must be pulled asunder, and the
+gasoline within converts dearth to dance. I remain fire-watching.
+My visions, then, require me to engage to certain processes, if you know
+what I mean.&lt;/p&gt;
+&lt;p&gt;What do you hear? Distant coughing of sick people, taking
+turns, making a communication system out of a symptom. What rebels, I
+say! It has always been like this. Distance, despite the open space,
+serves only as an illusion of isolation. In fact, we are all connected
+through the air we breathe, the flakes (of skin) and fluids we consume
+and expunge, in a specific disarray. We enter the building, gurgling
+phlegm and sanguine, and say hello to colleagues like it&amp;rsquo;s the first day
+in 5D4N Hell Week. It is.&lt;/p&gt;
+&lt;p&gt;What do you smell? Trick question. &lt;em&gt;Breathe in&lt;/em&gt;&amp;mdash;The entire floor
+is quarantined to be devoid of meaningful, sensible
+stimuli. I feel tricked. I know I am tricked, and yet here I am. The
+pangs of hunger, after all, outweighs the beckon of principle&amp;mdash;&lt;em&gt;breathe out&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;What do you taste? As I pull my tongue back into my mouth, it
+reports the staleness of the air, and among its waves, the white
+fluorescence droning as they trace the heads bobbing. If there were
+something to taste, it should be food. Otherwise, any attempt at a
+philosophical retort to such a complex question will come off as
+pretentious&amp;hellip; I wouldn&amp;rsquo;t know really if the suspense could be of an
+injurious nature, but whatevs the consequence of this mystery,
+please find solace in knowing that in not knowing, we, as the amalgam of
+the contrasting pair of backbone and fear, thrive.&lt;/p&gt;
+&lt;p&gt;What do you wear if not an endless string of gibberish?
+Ah, but I cannot stress enough my
+efforts going the other way, the way to being better dressed.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--340&#34;&gt;Entry # 340&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 18 Oct 2017&lt;/p&gt;
+&lt;p&gt;as the leniency for maturation proposes a more structured look than the
+one i am seeing with, the more i realize that i mustn&amp;rsquo;t be the
+protagonist in the universe of things. I&amp;rsquo;d rather be the NPC who
+implores the main guy to do Something Important for me in order to
+progress the plot.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--341&#34;&gt;Entry # 341&lt;/h3&gt;
+&lt;p&gt;Date: Tue, 12 Dec 2017&lt;/p&gt;
+&lt;p&gt;the thicket proliferates in the twin valleys, pebbles protruding from
+the earth to be avoided by the sensitive underside of foot. trekking
+avec mindful inferences of the world brings to surface a personalized
+aesthetic effect, although let&amp;rsquo;s be honest here: when was the last time
+that such endeavor sounded authentic? i wonder around an imagery that
+surrounds my emotional ignorance, and unto it i cuss with minimum number
+of stops, because the act makes the most sense to me; it liberates meat.
+the underdeveloped, unnurtured EQ of me rests obliquely against my skin,
+cursing my person with rustic adages appended as addenda.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--342&#34;&gt;Entry # 342&lt;/h3&gt;
+&lt;p&gt;Date: Thu, 14 Dec 2017&lt;/p&gt;
+&lt;p&gt;business districts, you know, comprise towers on wrong addresses. people
+walking through and about have to wait in lines, or dive in a mud puddle
+just to get to point b. in short, business districts are aboveground
+cesspools whose existence our economy seems to demand.&lt;/p&gt;
+&lt;p&gt;okay, that&amp;rsquo;s it for this post. for more trash content, get yourself
+to the nearest shopping center.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--343&#34;&gt;Entry # 343&lt;/h3&gt;
+&lt;p&gt;Date: Sun, 17 Dec 2017&lt;/p&gt;
+&lt;p&gt;i don&amp;rsquo;t know why there must be a listlessness on my part when thumping a
+forefinger to the rhythm of want, but i can&amp;rsquo;t just pretend to limp
+around, then do a forward somersault to come up to a proper standing
+posture. i wish i were able to be as eccentric as humanly possible,
+though; that those lingering looks dispel, for they have written off my
+chosen behavior as a form of expression. although for that to happen,
+you must first come with me and you&amp;rsquo;ll be in a world of pure
+invagination&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--344&#34;&gt;Entry # 344&lt;/h3&gt;
+&lt;p&gt;Date: Sun, 24 Dec 2017&lt;/p&gt;
+&lt;p&gt;for the time being, there isn&amp;rsquo;t in me the power &lt;em&gt;yet&lt;/em&gt; to recommend
+a proper way of reintroducing myself in the reduction process, since i
+believe there is no need for that. some form of liveliness still
+resides, and i am more than inclined to fan its flames. while the major
+factor of going from zero to okay lies in the status of the
+constitution, i&amp;rsquo;d like to think that i am not dull in my muscle
+department. or maybe i am, and that this whole notion of excusing myself
+to get a good run is a personal gripe that i attempt to shadow with
+many, many things. namely,&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--345&#34;&gt;Entry # 345&lt;/h3&gt;
+&lt;p&gt;Date: Mon, 25 Dec 2017&lt;/p&gt;
+&lt;p&gt;i, with the numerous individuals who quip halfheartedly at their own
+reflections, admire the simple structure of lists of any kind. it is
+a burden to be putting oneself on scratching an item as completed, but
+as the whole thing becomes a wonderful scribble of crossings,
+i hear the framework of sounds suspended in the curvature of space:
+piercing, like glass scratches glass just for the lulz.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--346&#34;&gt;Entry # 346&lt;/h3&gt;
+&lt;p&gt;Date: Fri, 29 Dec 2017&lt;/p&gt;
+&lt;p&gt;a blood bug is up and about in search of its snack to add to its
+diminishing dimension. between flower and flesh, the macabre mulls its
+would-be lunch and ultimately chooses the more colorful identity of
+lavender of the mint family. it is the harder choice, but one that is
+worth choosing, if it were my palette we&amp;rsquo;re talking of.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--347&#34;&gt;Entry # 347&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 03 Jan 2018&lt;/p&gt;
+&lt;p&gt;the part in which we throbbed in early morning made its gradual creep
+from &lt;em&gt;sans&lt;/em&gt; to &lt;em&gt;avec&lt;/em&gt;, the sun compromising its deal with nocturnal bugs
+a little too early. i have not slept this good in weeks, so much so
+that i gave my slumber a perfect 5 stars out 5 (quite literally, in my
+smartphone app). the part that happened the night before, i won&amp;rsquo;t
+elaborate, but this good rest i think i owed to that.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--348&#34;&gt;Entry # 348&lt;/h3&gt;
+&lt;p&gt;Date: Wed, 03 Jan 2018&lt;/p&gt;
+&lt;p&gt;It was a post-breakfast routine that demanded little performance from my
+end, that I be present at the agreed time and place with the agreed
+supervisor and a willing driver who would take us promptly to the
+technohub. There, my senior did all the talking while I listed key notes
+he would mention again later. Jun thought that maybe the meeting got
+intense and needed more time, and so he waited two more hours at the
+parking lot. At the office, someone phoned my senior. He choked,
+seemingly collapsing into his chair, and spoke, &amp;ldquo;We went back with the
+contractor. We&amp;rsquo;re at the office now.&amp;rdquo; It was our driver, Jun. We left
+him in vain and none of us bothered to check in with him.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--349&#34;&gt;Entry # 349&lt;/h3&gt;
+&lt;p&gt;Date: Sat, 06 Jan 2018&lt;/p&gt;
+&lt;p&gt;bites of consistent force from external, universal puns affect me in
+some way that my own fluids lubricate my tongue, brain, the rest of my
+moving parts, horribly so that i power up the notepad and begin begging
+my eyes not turn obsidian orbs. while i don&amp;rsquo;t endorse fully the
+transformation of kinetic energy to potential energy&amp;mdash;like a pendulum
+coming up from its lowest point to the peak&amp;mdash;it is natural to take a
+bird&amp;rsquo;s eye view of many things that one&amp;rsquo;s is about to fall back into
+once the body plunges down from suspension.&lt;/p&gt;
+&lt;p&gt;instead, i propose to look
+inward for heat, to induce perspiration, which supposedly is 99% of the
+total work, although many of entrepreneurs will disagree. before the
+process of doing actual things makes us bloat, bites of macro fuego
+constantly erupt from the seams, and will continue to release embers
+until a wave of planned obsolescence reduces the amount of fuel. and
+only then we can have a general feeling of peace again in this space, as
+is apparent in the statistics.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;entry--350&#34;&gt;Entry # 350&lt;/h3&gt;
+&lt;p&gt;Date: Sun, 07 Jan 2018&lt;/p&gt;
+&lt;p&gt;this is a dream sequence, the first one of the year 2018 that i still
+know of even after waking up:&lt;/p&gt;
+&lt;p&gt;everywhere was soil, loamy, like the one in depressed rural areas. we
+had no real enclosures. we just dug holes in the ground to store
+whatever it was that needed storing. a sibling somehow managed to wash
+a bowl of rice in one of the holes. after the second rinse, he put
+enough water and let it sit for a while. per family tradition, we
+first let our rice soak in water, hoping to reduce the cooking
+time, because in theory, doing so would have softened the rice. after a
+blur, i took a massive dump in one of the holes. later, my brother
+confronted me with the bowl of rice, which he found was full of&amp;hellip; not
+just rice.&lt;/p&gt;
+&lt;p&gt;i said, &amp;ldquo;i assure you, i did not shit on that. i
+double-checked. maybe, it was someone else!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;brother just washed again
+the bowl, more thoroughly this time.&lt;/p&gt;
+&lt;p&gt;&amp;hellip; more thoroughly this time. in retrospect, i cannot believe my brain
+conjured up that scenario. how creative.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;one-liners&#34;&gt;One-Liners&lt;/h2&gt;
 &lt;p&gt;Tweet-like witticisms back in the day.&lt;/p&gt;
 &lt;ol&gt;
@@ -8522,6 +8913,8 @@ left&lt;/li&gt;
 &lt;li&gt;look out and prot e c t yours el f&lt;/li&gt;
 &lt;li&gt;no person is inherently boring, so said my figure to its frivolous attempt to connect among the peers floating beyond jets.&lt;/li&gt;
 &lt;li&gt;For all grievances that all Me&amp;rsquo;s precluded and nay made it to surface, be still for the time being as we all figure out when the next window is going to open.&lt;/li&gt;
+&lt;li&gt;millennial vulcan salute: live, lol, and prosper&lt;/li&gt;
+&lt;li&gt;i vagueblog my memories into vapid memos until they only sell future-me scraps of the larger oblivion.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 

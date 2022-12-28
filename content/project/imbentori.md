@@ -7483,6 +7483,250 @@ when some days unattractively jumpstart.
 
 {{< btt >}}
 
+### Entry # 337
+Date: Thu, 28 Sep 2017
+
+A part of me withers, see, in exchange for bread and provisions of
+relative comfort. Would rather sleep, really, on a break than go through
+the whole ordeal of and with eyes open, not focused at describing this
+level in which we the rest operate.
+
+{{< btt >}}
+
+### Entry # 338
+Date: Tue, 03 Oct 2017
+
+Some part of us cannot stand the thought of the inability to sense what
+we cannot fully grasp... so that in the absence of the people that
+matter (perhaps those capable of enlightening us), the dregs that are
+retained within the scope of spectacle sit or stand in place, whichever
+mode is less encumbering, being churned to multiple versions
+in big vats, each a different brew to taste and smell and fear. Or,
+perhaps, to be blocked by our autoimmune capacities so that upon
+Thinking, our senses deny us tangible results.
+
+{{< btt >}}
+
+### Entry # 339
+Date: Sun, 15 Oct 2017
+
+What do you see? A bunch of people that, when pressed against a birthday
+wall, become convivial in their merrymaking, as though their previous
+posture did not contribute to anything they felt afterwards.
+
+This structure is their final form, a flesh that has shed its shell of gloom,
+formally escaping into a mansion whose architect is a bleak forecast
+from the orient. Each individual reckons the quantity of reasons to
+celebrate on a particular date without giving off too much of their mush
+to nearby colleagues who are eavesdropping. I hope they like what they see.
+
+Here's another bit: the hot steaming cloud, which is not afraid to
+leave from the head's pores, invokes dreams of conventionally magnetic
+bodies in planetary motion, pulling what must be pulled asunder, and the
+gasoline within converts dearth to dance. I remain fire-watching.
+My visions, then, require me to engage to certain processes, if you know
+what I mean.
+
+What do you hear? Distant coughing of sick people, taking
+turns, making a communication system out of a symptom. What rebels, I
+say! It has always been like this. Distance, despite the open space,
+serves only as an illusion of isolation. In fact, we are all connected
+through the air we breathe, the flakes (of skin) and fluids we consume
+and expunge, in a specific disarray. We enter the building, gurgling
+phlegm and sanguine, and say hello to colleagues like it's the first day
+in 5D4N Hell Week. It is.
+
+What do you smell? Trick question. *Breathe in*---The entire floor
+is quarantined to be devoid of meaningful, sensible
+stimuli. I feel tricked. I know I am tricked, and yet here I am. The
+pangs of hunger, after all, outweighs the beckon of principle---*breathe out*.
+
+What do you taste? As I pull my tongue back into my mouth, it
+reports the staleness of the air, and among its waves, the white
+fluorescence droning as they trace the heads bobbing. If there were
+something to taste, it should be food. Otherwise, any attempt at a
+philosophical retort to such a complex question will come off as
+pretentious... I wouldn't know really if the suspense could be of an
+injurious nature, but whatevs the consequence of this mystery,
+please find solace in knowing that in not knowing, we, as the amalgam of
+the contrasting pair of backbone and fear, thrive.
+
+What do you wear if not an endless string of gibberish?
+Ah, but I cannot stress enough my
+efforts going the other way, the way to being better dressed.
+
+{{< btt >}}
+
+### Entry # 340
+Date: Wed, 18 Oct 2017
+
+as the leniency for maturation proposes a more structured look than the
+one i am seeing with, the more i realize that i mustn't be the
+protagonist in the universe of things. I'd rather be the NPC who
+implores the main guy to do Something Important for me in order to
+progress the plot.
+
+{{< btt >}}
+
+### Entry # 341
+Date: Tue, 12 Dec 2017
+
+the thicket proliferates in the twin valleys, pebbles protruding from
+the earth to be avoided by the sensitive underside of foot. trekking
+avec mindful inferences of the world brings to surface a personalized
+aesthetic effect, although let's be honest here: when was the last time
+that such endeavor sounded authentic? i wonder around an imagery that
+surrounds my emotional ignorance, and unto it i cuss with minimum number
+of stops, because the act makes the most sense to me; it liberates meat.
+the underdeveloped, unnurtured EQ of me rests obliquely against my skin,
+cursing my person with rustic adages appended as addenda.
+
+{{< btt >}}
+
+### Entry # 342
+Date: Thu, 14 Dec 2017
+
+business districts, you know, comprise towers on wrong addresses. people
+walking through and about have to wait in lines, or dive in a mud puddle
+just to get to point b. in short, business districts are aboveground
+cesspools whose existence our economy seems to demand.
+
+okay, that's it for this post. for more trash content, get yourself
+to the nearest shopping center.
+
+{{< btt >}}
+
+### Entry # 343
+Date: Sun, 17 Dec 2017
+
+i don't know why there must be a listlessness on my part when thumping a
+forefinger to the rhythm of want, but i can't just pretend to limp
+around, then do a forward somersault to come up to a proper standing
+posture. i wish i were able to be as eccentric as humanly possible,
+though; that those lingering looks dispel, for they have written off my
+chosen behavior as a form of expression. although for that to happen,
+you must first come with me and you'll be in a world of pure
+invagination
+
+{{< btt >}}
+
+### Entry # 344
+Date: Sun, 24 Dec 2017
+
+for the time being, there isn't in me the power *yet* to recommend
+a proper way of reintroducing myself in the reduction process, since i
+believe there is no need for that. some form of liveliness still
+resides, and i am more than inclined to fan its flames. while the major
+factor of going from zero to okay lies in the status of the
+constitution, i'd like to think that i am not dull in my muscle
+department. or maybe i am, and that this whole notion of excusing myself
+to get a good run is a personal gripe that i attempt to shadow with
+many, many things. namely,
+
+{{< btt >}}
+
+### Entry # 345
+Date: Mon, 25 Dec 2017
+
+i, with the numerous individuals who quip halfheartedly at their own
+reflections, admire the simple structure of lists of any kind. it is
+a burden to be putting oneself on scratching an item as completed, but
+as the whole thing becomes a wonderful scribble of crossings,
+i hear the framework of sounds suspended in the curvature of space:
+piercing, like glass scratches glass just for the lulz.
+
+{{< btt >}}
+
+### Entry # 346
+Date: Fri, 29 Dec 2017
+
+a blood bug is up and about in search of its snack to add to its
+diminishing dimension. between flower and flesh, the macabre mulls its
+would-be lunch and ultimately chooses the more colorful identity of
+lavender of the mint family. it is the harder choice, but one that is
+worth choosing, if it were my palette we're talking of.
+
+{{< btt >}}
+
+### Entry # 347
+Date: Wed, 03 Jan 2018
+
+the part in which we throbbed in early morning made its gradual creep
+from *sans* to *avec*, the sun compromising its deal with nocturnal bugs
+a little too early. i have not slept this good in weeks, so much so
+that i gave my slumber a perfect 5 stars out 5 (quite literally, in my
+smartphone app). the part that happened the night before, i won't
+elaborate, but this good rest i think i owed to that.
+
+{{< btt >}}
+
+### Entry # 348
+Date: Wed, 03 Jan 2018
+
+It was a post-breakfast routine that demanded little performance from my
+end, that I be present at the agreed time and place with the agreed
+supervisor and a willing driver who would take us promptly to the
+technohub. There, my senior did all the talking while I listed key notes
+he would mention again later. Jun thought that maybe the meeting got
+intense and needed more time, and so he waited two more hours at the
+parking lot. At the office, someone phoned my senior. He choked,
+seemingly collapsing into his chair, and spoke, "We went back with the
+contractor. We're at the office now." It was our driver, Jun. We left
+him in vain and none of us bothered to check in with him.
+
+{{< btt >}}
+
+### Entry # 349
+Date: Sat, 06 Jan 2018
+
+bites of consistent force from external, universal puns affect me in
+some way that my own fluids lubricate my tongue, brain, the rest of my
+moving parts, horribly so that i power up the notepad and begin begging
+my eyes not turn obsidian orbs. while i don't endorse fully the
+transformation of kinetic energy to potential energy---like a pendulum
+coming up from its lowest point to the peak---it is natural to take a
+bird's eye view of many things that one's is about to fall back into
+once the body plunges down from suspension.
+
+instead, i propose to look
+inward for heat, to induce perspiration, which supposedly is 99% of the
+total work, although many of entrepreneurs will disagree. before the
+process of doing actual things makes us bloat, bites of macro fuego
+constantly erupt from the seams, and will continue to release embers
+until a wave of planned obsolescence reduces the amount of fuel. and
+only then we can have a general feeling of peace again in this space, as
+is apparent in the statistics.
+
+{{< btt >}}
+
+### Entry # 350
+Date: Sun, 07 Jan 2018
+
+this is a dream sequence, the first one of the year 2018 that i still
+know of even after waking up:
+
+everywhere was soil, loamy, like the one in depressed rural areas. we
+had no real enclosures. we just dug holes in the ground to store
+whatever it was that needed storing. a sibling somehow managed to wash
+a bowl of rice in one of the holes. after the second rinse, he put
+enough water and let it sit for a while. per family tradition, we
+first let our rice soak in water, hoping to reduce the cooking
+time, because in theory, doing so would have softened the rice. after a
+blur, i took a massive dump in one of the holes. later, my brother
+confronted me with the bowl of rice, which he found was full of... not
+just rice.
+
+i said, "i assure you, i did not shit on that. i
+double-checked. maybe, it was someone else!"
+
+brother just washed again
+the bowl, more thoroughly this time.
+
+... more thoroughly this time. in retrospect, i cannot believe my brain
+conjured up that scenario. how creative.
+
+{{< btt >}}
+
 ## One-Liners
 Tweet-like witticisms back in the day.
 
@@ -7619,6 +7863,8 @@ left
 1.  look out and prot e c t yours el f
 1. no person is inherently boring, so said my figure to its frivolous attempt to connect among the peers floating beyond jets.
 1. For all grievances that all Me's precluded and nay made it to surface, be still for the time being as we all figure out when the next window is going to open.
+1. millennial vulcan salute: live, lol, and prosper
+1. i vagueblog my memories into vapid memos until they only sell future-me scraps of the larger oblivion.
 
 {{< btt >}}
 

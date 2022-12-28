@@ -56,9 +56,9 @@ Please email me first if you plan to give me any of these.
 - Mechanical keyboard, 75% or 80% (tenkeyless, TKL)
 - Crowbar or wrecking bar
 - Chain mail[^chain]
-- Casio F-91W, preferably black
 - Canon Powershot S120
 - Typewriter in working condition, preferably the portable kind
+- Multitool: Victorinox Swiss Champ or Leatherman Surge
 
 [^1]: *Limós* is the root of this Tagalog word, meaning "alms".
 From [Tagalog Lang](https://www.tagaloglang.com/palimos/): In the Philippines, it is common for street children to approach strangers and say, “Palimos po.”
