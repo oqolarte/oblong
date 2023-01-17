@@ -2050,8 +2050,8 @@ corner as soon as it ceases to pursue living.
 Date: Sat, 05 Apr 2014
 
 the dream was: i was in a theater and the lights were already out. few minutes into the
-film, shadow figures came out; one in each entry halls and one in each
-fire exits (a total of four). the next moment, everything was
+film, shadow figures came out; one in each entry hall and one in each
+fire exit---a total of four. the next moment, everything was
 illuminated with gunfire, and everyone fell down. i did not know how
 many were dead, but i was alive. when the spraying of bullets was over,
 i got up to look for the silhouettes, but it was as if they were never
@@ -7727,6 +7727,328 @@ conjured up that scenario. how creative.
 
 {{< btt >}}
 
+### Entry # 351
+
+Date: Mon, 08 Jan 2018
+
+i am present in the ever-changing landscape where two bodies orbit each
+other, and i don't go about purring differently the way you do when i
+finally give the aperture a better opening. i am delighted by the way we
+present ourselves to one another, in murky honesty, defying anarchy, and
+the only subject worth mentioning is: how the fuck do we get there
+together, at the same time, simultaneously?
+
+
+{{< btt >}}
+### Entry # 352
+
+Date: Tue, 09 Jan 2018
+
+from where did i pull that pen is mighty is the same conjunction in
+which thoughts becoming words becoming actions are so stupid yet
+bliss-inducing that they start to make slapping sounds and this time
+around at this time of the unholy i make a doggone wish that those
+weren't just sounds coming from within but the blessed bells conjoining
+to make symphony, however brief.
+
+{{< btt >}}
+### Entry # 353
+
+Date: Tue, 09 Jan 2018
+
+for a person who doesn't know how to swim, i sure do love submerging
+in water, whether said body of water flows or not. of course,
+knowing how to swim is a very practical knowledge that someone from an
+archipelago, i believe, must know.
+
+unfortunately, potential swimming
+coaches from past and present have always excused themselves from
+teaching me, which is understandable. also, i don't think swimming is
+something i can learn from self-help books and/or blog posts? maybe it's
+possible, but i just don't have the grit yet.
+
+a good friend told me that
+once i get past the fear of drowning, then i can begin to learn how to
+swim. perhaps i will keep on making excuses, as i have always.
+sometimes, i hope that life-saving skills would accidentally upload
+themselves into my consciousness, kind of crossing the discovery of
+penicillin with *The Matrix*. (internet articles regarding
+procrastination always mention the discovery of penicillin.)
+
+void, oh whirring one, i am only sharing this because the heat has just picked
+itself up from slumber, and the impending firestorm approaches cities as
+the summer clock counts to green. if there was ever a need for me to
+pretend swimming in cool waters, i'd simply close my eyes and lose my
+mind, hoping that my mammalian dive reflex kicks me (literally?) off of
+my dreams.
+
+{{< btt >}}
+### Entry # 354
+
+Date: Wed, 10 Jan 2018
+
+Serverroom, the three-headed robot hound of Hades, borks at those who
+want to access the Underworld's data center without proper
+authorization. The data are well-preserved, safe from foreigners and
+hackers, thanks to the security measures of Serverroom.
+
+
+{{< btt >}}
+### Entry # 355: possible tweets
+
+Date: Thu, 11 Jan 2018
+
+- tearing the plastic package apart releases a sweet scent, perhaps as
+sweet as the candy it contains. this, according to polyethylene's
+temptation, convinces a person to habit formation involving displacing
+great volumes of sheets which are practically immutable to the sways of
+its own half-life.
+- sweltering in underhanded plans for a good mix of fortune and
+flamboyant execution of self-expression, i may be, but not all the time.
+i have better things to do than put to words my would-be actions.
+- may the canon of my elusive life contain a contingency effort to
+convert the ordeal to a catalog of no-pain-no-disdain speeches from
+nameless thinkers, ready to be accessed, so long as i know the password.
+what's that? *fidelio*? and there's no second password? noted.
+- peseta slips to our pockets as centavos. the depth of detail of the
+head, the tail, the small ecosystem of bacteria that thrive in each
+coin's ridge; they all go in with the package.
+- son of a hag remains level-headed; his brother, however, is nowhere
+to be found, probably lifeless, afloat in peace. their mother is only
+one-half of her former shape but is no less of a sufferer.
+- when you are a pagan, your eyes do not do well in the absence of light.
+the darkness is, yes, frightening, especially when one finds oneself
+floating in a vast ocean facing down with no light coming from the
+depths to confirm your fears. only a distant droning. only a silhouette
+of an appendage passing through, and then gone.
+since it's only surreal).
+- no good moaner would ever want to not hear a positive feedback. it
+reinforces the well-being of the parties involved, who just want to
+'join the conversation'.
+
+{{< btt >}}
+### Entry # 356
+
+Date: Sat, 13 Jan 2018
+
+whatever it is that we feel we are working on together must then be a
+means of the big blah coming to fruition. pieces themselves align
+neatly. within arm's reach, the thing that supposedly excites the legs
+into ambulatory trajectory.
+
+something closer, though, is an immeasurable
+space that provides a thin film of barrier that repels
+everything else
+(never the other way around)
+that is not found in the self's array of
+molecules.
+
+but please, don't think of it as the sad part; truly, it
+isn't. as i have mentioned, this layer shields you from potential
+bonding, which may have its own good purpose. that no matter how
+integral to our growth this togetherness brings, we can never fully meet
+skin to skin, scientifically speaking. however, in this plane of
+existence, what purpose is there except to create one for oneself?
+i am
+going to remember this decision to snarl, people.
+
+
+
+{{< btt >}}
+### Entry # 357
+
+Date: Tue, 16 Jan 2018
+
+i have laid my spine down the dusty dunes of heavens since the beginning of first pluck.
+too many noise to focus to:
+the reeds in blow horns
+don't produce something that qualifies for a sound;
+the bells are china,
+so nobody really wants to touch them.
+the steeple shakes to the beat of
+the commotion i create;
+and yet the desert is an unwavering sundry of
+emptiness, a contrast of yellow light and barrenness where poverty is
+something everybody faces on a daily basis.
+
+i visit the tower in the
+morning, a routine from my teenage years that i can't just brush off. i
+know that for the duration of a song, i must rest, but not long enough
+to miss the window of opportunity to picture you in person as a person.
+all music creates an inflection point in the history of subjects,
+convincing concave to convex, and vice versa. i know that even in
+separation, we still think of each other in whatever outrageous forms
+our bodies could achieve. or is it just me thinking of you that way? we
+will have the quiet space-time that we need right after the gulf that
+pushes us apart depletes itself through the drain.
+
+a song, however, is a part of a concept album, in that it only sheds
+some light in undiscovered parts. we examine the thoughtfulness that was
+poured into this piece of work. you discuss something from your past
+that i am only hearing now, but the point of which gets lost in my
+trying to put a code to my body language. i hope that you don't notice
+it pressing against the upper part of thy lower thorax. but whatever, we
+continue. you pull the disk, slap it on, and play again. although we are
+reminded of our position in the global scheme, we are not distracted
+from the proper motor skills that we must execute should the need for
+execution arises. the album art consists of surreal images.
+we notice once more.
+
+a pierrot quips the seraphs into subscribing to a larger, more ominous
+being who does nothing in his free time except send subpoenas to those
+who just got up from their death beds. it must be fun for the larger,
+more ominous being to be doing things this way, and perhaps in his plane
+of nonexistence, even practical. of course, some thousand lost ones
+spring up to their feet and begin walking towards the address written in
+the summons. the seraphs flex their wings. they always do this in
+response to the opposition, although if we really look into it, the idea
+of acute angels cannot be proven unless it's pure mathematical. it's the
+joke that bleeds into our fibers that makes the transition not that
+difficult. with this we understand the primer, the setup, the punchline.
+
+you flayed everything in your mind. the scenes are raw, meticulously
+placed. a frame follows its function, and then another frame, each one
+rightfully adjacent in a linear table of exposition, until a motion
+picture of some sort exerts its story (by you) upon us, in which the
+plot boils down to a quick decent from the spire i may have mentioned
+earlier.
+
+{{< btt >}}
+### Entry # 358
+
+Date: Tue, 16 Jan 2018
+
+the reeling feeling of examining the afterhours of hysterics once the
+bottom line has been delivered becomes a standalone story worth sharing.
+we are not always there to kid ourselves. in fact, between the two of
+us, i am the sprite that manipulates the mood from static to kinetic. i
+am there when both our minds transmit the motive to motion. we sat down,
+partook in a common set of morning food, and cleaned ourselves. it was a
+cool night.
+
+no, i did not get up. my hand, my chin, i placed them on the dark,
+warmth of the hearth, and although it was hard to move, it could not be
+helped but respond to the weal of corporeal vibrations.
+
+i must reiterate that no, there was no getting up involved. no one rose
+from the rashes (something i am fond of). sleep is a wonderful thing,
+but coming to life means cheating my way from its pull. we speculate
+that our complexities go under the scrutiny of Freud's studies, through
+the looks, through the schism of days that set us apart. the greater the
+field, the greater the tension, all the more enthusiastic we became.
+
+but in the process, i fumbled for the switch, but not you. you are the
+master of your being. i am not to proceed any further should your mouth
+chant naught. i am glad, though, that i have been accepted. and you, i
+have accepted too, via whirl of mouth with hopes that you don't drive me
+weird.
+
+i always talk about the tendencies of people getting technical on waves
+not hitting the essential parts. its ambient light is prominent. you
+carry on with the penalties; i adhere to the same absolution that the
+lack of blue light gets to us.
+
+we made our trip, then; made exceptional passes on nice views in these
+little excursions. at this time, we no longer cared about whether there
+were people spying on us. if they were, at least they experienced the
+clashes our realest suits, detached from world rules as we had escaped
+them, albeit temporarily.
+
+where we were in the moorland, the morning had followed us, which in
+itself makes for a pleasing time to don again the inhibitions as we prep
+for the re-entry to society.
+
+without the breeze, the heat catches on, even in our sleep, and by the
+time we lose it---the longest lead hath caught up in the golden emblem
+of mountainous flames---our euphemisms for this fine struggle will
+have run out. consequently, the convulsion of units will be apparent in
+this version of reality.
+
+the deadbeats that state their much disassociation after attaining for
+the nth time the summit would have to regroup at the bottom. at this
+point, silence is the only current correct enough in us to recede to as
+the local waves ebb.
+
+silence, of course, becomes the red herring with which the matador of
+the belle brandishes, and the whole point of this setup is to wrap its
+own convolution with a used, fluid-like gel.
+
+{{< btt >}}
+### Entry # 359
+
+Date: Wed, 17 Jan 2018
+
+**narrator (unreliable? perhaps)**: i don't think people in these parts
+give names for mystery that has jogged where only a hum survives. as a
+functional person, it is my task to give things twice the look to
+immerse myself in its view, to better comprehend what constructs its
+core, what gives its oddity an oddity.
+
+i whip my phone out and look at
+the map. in it, the crossroads haunt devils when they play the most
+painful tune, and play they do so often with passing blues men. i notice
+one of them decomposing a song to sound like it was from a different
+time; and indeed it is---many parts of it are sampled from retired
+one-hit wonders of the jazz era.
+
+when i look up from the screen, though,
+it is a different scene. i see a picturesque field fit for movie
+tumbleweeds. driving or drinking: the choice between the two, while not
+hard, poses no real reward when one considers each possible outcome.
+discomfort becomes part of the consideration. disorientation is
+acknowledged.
+
+when one so chooses, one is able to go wherever their mind
+pleases as there is no other port in the world for long-distance
+instantaneous acid trips. it would birth a new tradition among those who
+want to participate, until someone possessing a proper nervous system
+invents a proper teleportation device.
+
+every year, you will look at your
+image and say only uplifting things; and i will make amends with the
+former cells and try to at least be one with every bit. i hope then that
+nothing will examine the economic value of pain and suffering that is
+particular to our circumstance, because we are in this entropy for the
+long haul; the lack of private space, the absence of elevator music in a
+tall, tall tower of tricksters, et cetera.
+
+we need to make a
+calculation, obviously, if this existing space is a dozen flat-faced
+enclosure that houses only a world of rhododendron, which is fine.
+i just want to make sure that this is the case that you
+in your thinly veiled biopsy pointed to its temple. you need no unboxing
+clocking at infinite speeds of unwrapping. no, that would make you a
+fireball for forests to fear. no, what i need you to be is
+something that i cannot foresee or know ever but still believe in.
+
+you are faith collated on ground zero, and i feel fine frolicking atop its
+foundation. for too long we acrobat on dimensions as they continue to
+change around us. unnatural objects have no sense of permanency
+stipulated in their reasons for being, because the entire cosmos do not
+oblige them to be stuck. who are we to contest this mandate? and yet,
+despite my accusations, i have another ... meeting in 15 minutes.
+welcome to My Life.
+
+(view pans out to reveal the landscape as it is manifested in the
+narrator's ailing synapses)
+
+**one of the audience who is currently developing an aversion for all things experimental**: what the fuck?
+
+{{< btt >}}
+### Entry # 360
+
+Date: Sun, 21 Jan 2018
+
+before dissolution of mini happenstances that popped out of existence
+today, i'd like to consider a specific one that trekked in their rubber
+shoes into the work scene. the point of all the wait, the cumbersome
+hunger that ejects plumes of smelly, if not toxic, gastrointestinal
+fumes, they were all for this white person who looks down (or up from
+her point of view) on people. would i say it was worth my while? no, and
+everyone else in this part of the world might agree.
+
+{{< btt >}}
+
 ## One-Liners
 Tweet-like witticisms back in the day.
 
@@ -7865,6 +8187,8 @@ left
 1. For all grievances that all Me's precluded and nay made it to surface, be still for the time being as we all figure out when the next window is going to open.
 1. millennial vulcan salute: live, lol, and prosper
 1. i vagueblog my memories into vapid memos until they only sell future-me scraps of the larger oblivion.
+1. cut the make-believe tendon and writhe in discomfort (not in pain,
+1. practicing how to jump onto AND move along a ledge with their deck must be a grind for skateboarders.
 
 {{< btt >}}
 
