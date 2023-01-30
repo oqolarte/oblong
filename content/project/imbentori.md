@@ -8049,6 +8049,317 @@ everyone else in this part of the world might agree.
 
 {{< btt >}}
 
+### Entry # 361
+
+Date: Mon, 22 Jan 2018
+
+*or* the old commons of the old world summon their only sentinel to set
+out a plan, put some nice colors to it like a decent artist would, and
+immediately set it into motion with a wink. and we, in our only pants,
+would get out of bed in the morning, put some fresh new pair, go gout
+and not jog -- stumble in inexcruciating pain which is as dismal as the
+look of the floor. the mouth would utter something, but only the morning
+breath comes out. then, blankness. then, waveforms giving off huge
+dancing displays, one color per wavelength. then, awake.
+
+
+{{< btt >}}
+
+### Entry # 362
+
+Date: Thu, 01 Sep 2016
+
+What perpetuates in such a stressful workplace is a system that needs
+super-attention, by which I mean aurochs of high ranks giving us a swig
+of their bountiful vile with hopes of providing solutions, because
+people who have come and gone have been refining the Kafkaesque
+machination for over a year now with little positive effect. Personally,
+I haven't noticed a good bump in the process flow. If anything, 'people'
+may have 'nudged it with such violence' that it caused the darned thing
+to tilt (thanks, wiki for the input). Do I sense a head tumor that must
+be removed immediately?
+
+
+{{< btt >}}
+
+### Entry # 363
+
+Date: Sat, 24 Sep 2016
+
+Warm the alure of sticky night goes. I checked my skin, and I no longer
+had itchy bumps, or so I thought. Over-the-counter histamine procured
+from an underground pharmacy late one night also equated to a needed
+walking for this weezy being sustaining many liters of mucus.
+
+I never had allergies my entire life. It was the first time the hives appeared
+and nearly drove me nuts. I cannot point to what food and/or
+circumstance triggered the self-diagnosed hives, because what I was
+doing or eating hours before that manifested, i have already been doing
+many, many times in the past. How wonderful life can be that you're
+gifted with allergic reaction by simply existing the only way you know
+how. Thanks, autoimmune system.
+
+
+{{< btt >}}
+
+### Entry # 364
+
+Date: Tue, 04 Oct 2016
+
+A, hmm, unique official stood by her ground as the blur of white
+trepidation insisted that her appearance be acknowledged not by a raging
+forest fire, but by something more obvious, like a nearby sentinel. I
+talk again for the past repose, but dreams are supposed
+to be incomprehensible.
+
+Where was I?
+
+O, this, uhm, unique official and her latest lover then strolled abreast
+seaward and sat on the seawall, I immediately behind them. I took my
+place beside my subject, and, with fervor to end all shame, felt the
+right arm of my seat mate with my own left arm. It was supposed to feel
+awkward in real life, but love of blood leads to love of flesh. There,
+near the lovebirds, my hand could not have rubbed me any more better.
+This foul act understably enrages the, uhm, unique official, and she
+demanded that I provide infinite distance between us lest the prowess of
+her hidden defense tool snip, snip, snip that part of me which pushes
+the start button of chivalry's demise.
+
+
+{{< btt >}}
+
+### Entry # 365
+
+Date: Wed, 05 Oct 2016
+
+You know that thing going on, being passed like an internet cold mess,
+in which a long strip of events has had you dealing with Emotion Gamma,
+sometimes alpha, sometimes beta. However, no matter the elegance
+indicated on the paper, no matter the persistence of any body trekking
+on this plane, underneath it all is emotion omega. The pursuit of
+knowledge can only lead us so far. Even experts reason that not a collab
+amongst neanderthals (here i refer to us, collectively known as humans)
+can grow as fast as the universe's rate of expansion. And we know that a
+plight attendant is much needed to address our concerns regarding these
+qualms despite attempts at cordial affairs. The bread would follow with
+harrowing the-tails. And, while anecdotal, the-tails almost always are
+diabolical, but most often necessary.
+
+
+{{< btt >}}
+
+### Entry # 366
+
+Date: Fri, 07 Oct 2016
+
+i don't put light on my recent vehemence, because frankly the best
+version of me, when speaking of lean-and-mean physique, is remotely
+displaced under the auspices of spacetime fabric. somehow, this is
+actually good for me. had i been slightly heavier and more packed than i
+am now, i could be punching faces of the pulp-minded icons puppeteering
+my work. a slight swing, and soon, i'd be behind bars. *swearyoso*. i am
+that furious most of the time. dealing with the usual suspects evokes
+seemingly evolutionary responses: to launch a mighty spear towards the
+direction of their bobbing heads; or to wallow inside the man-cave and
+investigate no longer the fruitless endeavor.
+
+
+{{< btt >}}
+
+### Entry # 367
+
+Date: Sat, 15 Oct 2016
+
+all you've really been pushing for is the Krav Maga thingy that you hope
+would retrofit your entire being. wait, is it Krav Maga? no, i think
+it's the arts bruce lee formulated...
+
+ok Google: Bruce Lee Martial Arts
+
+[water break, 5 mins.]
+
+all you're really about is something that probably weighs like big boom
+truck hoisting the manifestation of all pressing issues you have
+currently. but you have to be fluid, man. you have to be like water.
+
+yes, aim for that level of thinking, that
+level of high-tensile strength yet of boneless motion. Jeet Kune Do is
+something that might work for you, if only you had the slightest inkling
+what would motivate you to get up early in the morning and cook your own
+breakfast. getting past that would tear the heavens. so go easy about
+your patience. i'm sure god will let his heaven be torn apart to make
+way for your self-defense training...
+
+ok Google: How To Wake Up Early
+
+[coffee break, 5 mins.]
+
+in order to fully utilize the parking space alotted to you for your
+convenience, you need to be sure that there really is a parking space
+alotted to you for your convenience.
+
+talk to your supervisor.
+they better have something saved up for you and your car.
+
+also, get yourself a car.
+hijack a poem in that writing community you fondly deny, and find
+a nice set of wheels. something's got to be there.
+
+all you just need to
+peel your eyes. once you've done all that---the hijacking, the parking
+space, the chat with boss---then you can look forward to forcing
+yourself to wake up early. traffic jams start at 7am. you have to be up
+before that...
+
+ok Google: How To Have A Better Eye Sight
+
+[water break, 5 mins.]
+
+you deserve a plethora of quality views from the miniature balcony of
+your brutalist abode. when a mixture of smog and unexplained disposition
+obscures your view of the squalor that is the cityscape, plus the fact
+that the brutalist balcony is really just some weird fascination to
+cover the reality that you're living in a hard-to-pay makati flat, you
+become aware of the structures that impede your experience. confide with
+your architect girlfriend regarding this. she is kind and patient. in
+the wake of paperworks, you might discover that this lifetime is too
+unsanitary for your taste, and that is perfectly fine. no one among your
+esteemed peeps have the right to tell you otherwise. it's in the
+persepective, as far as the maxim goes...
+
+ok Google: Better Perspective
+
+[bathroom break, 15 mins.]
+
+you were informed through facebook status that someone you know from
+high school was rushed to ER. she overdosed herself. the last you heard,
+she was discharged from the hospital and is now getting better. you feel
+helpless because you don't know what to offer to aid her in her
+recovery. we nullify that very blackness that attempts to rekindle with
+our sensitive side, but have we been successful? this part is important,
+i tell you. as rampant as the blades of grass shooting up, as
+innumerable as your wonts, you drive down south opposite of the way you
+intend to go to. any ill feelings fill the lungs with the perverted
+sensation of falling from height from time to time.
+
+
+{{< btt >}}
+
+### Entry # 368
+
+Date: Mon, 24 Oct 2016
+
+in order for one to call oneself a person of technicality, one's psyche
+must have undergone lavation of electric gloom, and realized that its
+own existing impunity can only provide a minute breadth of advantage if
+it so chooses to live.
+
+---or at least, from this point of view, it is
+only fitting to be that way.
+
+nature implores its codes
+upon us in spite of human's stubborn tendencies. we are no mere
+pushcarts, we mumble, for the omnipresent goddess's fickle constitution.
+for many millennia, humans have managed to rise from previous accidents
+and create a better mistake. basically, within the throbbing flesh,
+encapsulated in neurons and lust, we are data scientists.
+
+now, get this: the mind has its own impish predilections that, depending
+on the intensity of each, may or may not be bent. sometimes, the choice
+is to continue forward, which is generally positive. sometimes, the
+metaphorical dusk is more enticing than any part of the day. if the
+latter assumes into position, any familiar looks from the ripped leaves
+of calendar are canned, but not immediately so. in that very thought, a
+nag reminds us of our size versus the universe's and that we have to be
+responsible for the actions that lead us coiling back. along the
+process, the majority of senselessness lets itself be known through
+anterograde amnesia, just like in the movie/s, only in this version,
+with more plot holes enough to scare off trypophobic individuals; and
+the emerging hollows feel like everything has etched a really bad
+insignia onto chest, fermented spit as its spray paint. life feels more
+important when a growing to-do list excludes the revised drafts of
+punchlines and deluge of velvet curtain cascading from the ceiling.
+
+life---for purposes of collecting data---is tedious, even during its peak.
+when days include plentiful of sunlight, one is prone to be oblivious of
+any untoward event, which is ironic, given the level of lux one is
+experiencing.
+
+details come and go, but the bigger picture remains intact.
+the important ones ironically are the first to be forgotten, and we only
+remember the emotions. we are data scientists that only records emotions.
+
+in time, it becomes acceptable, no matter the absence of truth, subjective
+or otherwise, because opting not to do so would discourage making of new
+ones. details in which the skyline's nemesis thrive, although, there is
+a way to get rid of this: demons need to be vibrated in accordance to
+societal suggestions so we can go back to our table and cast an
+investigative eye in this dissertation, details to follow. the malice
+that urges a person to deviate from the agency of natural talent,
+probably comes from the demand, in whatever form, of the last generation
+that has utterly failed this one; and it progresses into despair
+involving more offspring that would suffer from similar dread. remember
+that as kids, little facts were the way to reinvigorate the necessity to
+explore; but ten, twelve years later, they become trivial.
+
+
+{{< btt >}}
+
+### Entry # 369
+
+Date: Thu, 17 Nov 2016
+
+**you**: equivocal, because the last touch of a better specimen has left a
+small ember that you don't want to put out. that such heat glows in the
+rural plane of your---[CRICKET SOUND\]---mind that only magnifies the
+absent energy expanding. you obfuscate unnecessary rheums that inspire
+exhaustion. it may seem like something has malfunctioned, say a
+figurative paper jam, but at least the actual paper jam causes ruckus
+which is then attended by the guy sent by the gal. this is far from it.
+this is the hyperbole of tardiness memorandum, a hither-be-slain
+sentinel handing you your judgment like fun. why there are days when
+your neck houses a swarm of hornets i don't know. a sock nurses a hole,
+sends it to college, all grown. food pricks the buds with unsavoury. the
+city quenches its rooftop with methane rain... your mantra remains a
+visual aid and, in fact, a complement to a bunch of things the mind
+passively creates when it is bored or lonely. if you must retreat to
+fake plastic song, we here at the past tense understand. weekend is nigh
+on the bright side, so there's always that.
+
+
+{{< btt >}}
+
+### Entry # 370
+
+Date: Thu, 01 Dec 2016
+
+Somehow, when god placed the flesh-making clay of my current employers
+way back when the world was still a speck on his moldy flat, he mixed in
+a key component---unknowable at the time, but has something to do with
+greed---that I would later on find out to be immiscible with my, uh,
+fluids. The objectives of my employers simply do not align with the
+reality we experience. Perhaps their philosophy is leaded and, thus,
+toxic. I'd like to think that the manifestation of my actions imply my
+inkling to adjust to their demands, but then again I owe nothing to this
+nutcrackers. They only owe me the vision of void. If that progresses
+into Anything, I'd be glad to return the favor. Our year-long exchange
+of professionalism creeps into me at the cellular level, and such
+vibrato of microcosm affects my sleeping patterns. Time and again the
+list of concerns has been disregarded for pragmatic solutions.
+
+Over the months, this biped of a pulp is broken to chapters, but the
+summation a repurposed outlook and a dire urge to consume trays of egg.
+"Hi, my name is _____; I'm greenfields tessellated by tarnished yolks
+of all eggaholics' tired formula for reform," that kind of stuff
+stiffening dreams are made of. You know, the ones that keep thee from
+keeping me free. At least, that's my take on it. I'm the unreliable narrator,
+remember; the antagonist whose role is to forget the script, drunk in
+cognitive dissonance. Stutter is my speech from which I derive this
+rant.
+
+
+{{< btt >}}
+
 ## One-Liners
 Tweet-like witticisms back in the day.
 
@@ -8189,6 +8500,10 @@ left
 1. i vagueblog my memories into vapid memos until they only sell future-me scraps of the larger oblivion.
 1. cut the make-believe tendon and writhe in discomfort (not in pain,
 1. practicing how to jump onto AND move along a ledge with their deck must be a grind for skateboarders.
+1. *The Big-Bellied Cops Cannot Outrun Me!*, and other successful theft stories
+1. idk (i decay).
+1. All blights deserved.
+1. imagining scorned-versations instead of actually having them at the office
 
 {{< btt >}}
 
