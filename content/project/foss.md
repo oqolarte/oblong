@@ -16,6 +16,9 @@ Free and Open Source Software (FOSS) aims to improve the quality of our digital 
    allows the community a chance to benefit from your changes. Access to the
    source code is a precondition for this.
 
+
+{{< figure src="/image/foss-venn.png" alt="Venn Diagram showing the intersection of 3 characteristics of a software: good, fair, legal. All three is what FOSS represents. Good and legal is usually privacy-invasive. Good and fair is piracy. Fair and legal software: 'Why are you using it?'" caption="Venn Diagram generator by classtools.net" >}}
+
 I'm still trying to migrate all of my software needs to FOSS,
 but it can be hard, especially if big tech like Google and Microsoft
 is deeply embedded in our digital lives now,

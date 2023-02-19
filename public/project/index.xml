@@ -808,6 +808,12 @@ Access to the source code is a precondition for this;&lt;/li&gt;
 allows the community a chance to benefit from your changes. Access to the
 source code is a precondition for this.&lt;/li&gt;
 &lt;/ol&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/foss-venn.png&#34;
+         alt=&#34;Venn Diagram showing the intersection of 3 characteristics of a software: good, fair, legal. All three is what FOSS represents. Good and legal is usually privacy-invasive. Good and fair is piracy. Fair and legal software: &amp;#39;Why are you using it?&amp;#39;&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;Venn Diagram generator by classtools.net&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;I&amp;rsquo;m still trying to migrate all of my software needs to FOSS,
 but it can be hard, especially if big tech like Google and Microsoft
 is deeply embedded in our digital lives now,
