@@ -99,7 +99,7 @@ other annoying parts of YouTube Videos.
 ### Suckless Surf patches
 Surf, being a much simpler web browser, requires
 [patches](https://surf.suckless.org/patches/).
-I use the following to make using Surf more pleasant to use.
+I use the following to make Surf more pleasant to use.
 
 homepage
 : allows you to set a homepage to be loaded when you have not set a
