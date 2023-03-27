@@ -8359,6 +8359,486 @@ rant.
 
 
 {{< btt >}}
+### Entry # 371
+
+Date: Tue, 06 Dec 2016
+
+*Memento* directed by Christopher Nolan, but the main character, Lenny,
+uses a smartphone.
+
+Pros: smartphone; can capture photos and record videos of himself;
+digital, not (just) paper, notes
+
+Cons: misplaced charger; phone must have no password; forgetting the
+purpose of a quick google search; misplaced smartphone
+
+{{< btt >}}
+### Entry # 372
+
+Date: Sun, 11 Dec 2016
+
+I hold myself against the faint ember of stove for warmth. But if I
+needed heat, I must simply *do* things and *be*, because motion requires energy, and
+the ending is a loss in efficiency due to conversion of calories to
+heat. I am thinking now that a chunk of effort of all the tasks I have
+ever done, menial or of importance, the body, this incongruent frame,
+donates to the universe, to be pushed aside by everything else, as
+particles wait for oblivion to ultimately level the field.
+
+{{< btt >}}
+### Entry # 373
+
+Date: Sun, 11 Dec 2016
+
+I don't know why all of a sudden this came up, but don't you think the premise of
+RE1 was kind of ahead of its time?
+
+Or maybe it wasn't, I really don't know.
+
+I could do a quick look-up into the sci-fi side of zombocalypse in
+gaming history, but the trickles of seconds go onward to sleep hour, and
+I don't want to wake up groggy just because I stayed up late scouring
+for undead tidbits on the netherwebz. I do remember that when I was
+watching my brother play that on the console...
+
+Maybe I do know why this came up:
+I was about to head out to the dark hallways of the apartment
+complex I am living in, away from the familiar cocoon as I needed to
+breath the outside. The evening looked nice from the window, and I
+thought I'd walk around for a bit. So I headed out. And as the door shut
+close behind me, the scene set itself, the thudding sound being my
+transporter to the scene; and a part of me kind of already knew I was
+always in the mansion, living the horror in the middle of the nowhere.
+
+{{< btt >}}
+### Entry # 374
+
+Date: Tue, 20 Dec 2016
+
+The thing about tomorrow is that, at best, I will be late for my morning
+appointment in a place 100+ kilometers from where I am now as of
+posting. The area called San Roque, about three-fourths of the way
+there, is where crashing visions from previous week would haunt me with
+tremors rivaling the mad instance of recklessness. I suppose that when
+distance collapse between two moving objects, something will go
+somewhere brittle and shocking.
+
+{{< btt >}}
+### Entry # 375
+
+Date: Mon, 05 Feb 2018
+
+The scarlet dot does not predict a general sense of awareness one is
+required to adhere to when going on familiar paths, yet this case at the
+moment would like its declaration be inverted in the retinas' workings,
+because I have my music blasting in my ears. I understand that the
+implications of having little concern with the sounds of the
+environment, that subtracting two functional ears from the repertoire of
+senses is not the most brilliant habit some of us have, but it is there.
+
+Auto-pilot flips the sentry, aye, yet it forgets the vibrant dimension it
+moves in, as introspection settles. Two, three pulses in, and I am
+immersed: there is no stepping back from the haze of mutation that
+involves the body in glazed chops and riffs decades old and new. It
+gives space to music, and music, as you know, plays a vital role in our lives.
+
+Something must be sacrificed to pave way for sanity, do you agree?
+This is it, then: the decree I polish sans my own safety.
+
+A force is listed in the levies I must soon address.
+The asphalt is endless.
+Apply some pressure to the metal.
+Steer, and make sure to decelerate
+just like in practice. The large stop sign has come to greet me---or I
+to it---along the highway. Normally I would not stop for any strange
+emergence of strange distractions in any spaces that I go into, but this
+is a *very* large stop sign, and I have seen it from several hundred
+meters away. Something I couldn't begin to fathom might happen to
+me if I chose to ignore it. But it stands so insidious that
+it seems there is no other choice but to succumb to how it enunciates
+its aura. I have to pull over.
+
+I have to, but mind you, there is not one
+speck of spook shackling me in my seat, nor do I find its design bereft
+of malice. I position myself on yellow alert. If anything happens, I'd
+like to think I'm emotionally and physically equipped to handle it.
+
+But what is it that I must handle? A large stop sign? Or will it
+handle me? A red octagon that intimidates curious lookers with the
+asymmetric placement of its four letters? I dare not go near such
+oddity. This is the highway, amid a desolated piece of hectare, and one
+cannot just pressure me into investigating a post with a metal sheet
+on it, painted blood, dripping, wet... with paint? I hope so. But it
+doesn't smell like any of the quick-dry enamel I have worked with. I can
+smell it from my rolled-down window, as pungent as rust, as though it
+just came off of limb it had cleaved.
+
+And yet, no one irks me to go and examine the thing, no one.
+I am the only sane person here. I had been
+force majeure in the past life up until my encounter with this shape.
+Unstoppable, with limitless scope, and of varying amplitude of
+mediocrity---and yet I fucking stopped because a sign told me to. I
+divide now My Labor of Being to accommodate a whole new real estate of
+semicolons established upon the orderliness bequeathed by strange
+fabrications of this world, which is fine, *totally*, because there is no
+permanent thing anywhere else at any given time. I am a changed man, I
+reckon, following basic traffic rules and whatnot.
+
+{{< btt >}}
+### Entry # 376
+
+Date: Tue, 13 Feb 2018
+
+In reality: Slumped, with no bed frames to support my weight. I could
+shift as much as I could without having to worry of elbowing a face
+because I don't share mattress with anyone right now.
+
+In dream: Midnight blue set the scene. Somehow, I dreamed (dream within
+a dream) about a 15th century oil painting of mosque adjacent to spire.
+The starry night gave it some semblance to a Van Gogh work, although the
+guy lived much later, on a post-impressionistic mid-19th century. The
+artist of the painting I was looking at, according to the quote, "came
+from a wealthy Arab family. He aspires to be a mathemagician one day."
+
+Interstice: Speaking in dreams requires tremendous effort since one is
+literally imagining oneself to spend energy on making sounds with their
+mouth.
+
+I was brought up by loud talking of two people, one man and one teen
+girl. I did not catch what was it that they were talking about as I was
+still rebooting from ruckus of their yelling, but piece by piece, the
+topic materialized. The man was all about praising Duterte, and the teen
+girl seemed too attentive to his rants and rave.
+
+Interstice: Are you having a good time?
+
+In local speak, the man is a Dutertard, "a derogatory term used to
+describe the unthinking, die-hard 'retards' unable to make coherent
+arguments online" (Curato, 2017). He composed himself and called another
+man from upstairs, most probably an ally.
+
+A much older man, who looked like a movie extra from the 90s,
+over-glorified for his usual appearances in films as an abuser, now
+popping to this level of obscurity, came down from the flight to meet
+his summoner. The two men got giddy as they delved deeper to Duterte's
+persona. The older man was actually the "presidential driver", and that
+Duterte himself personally picked him out from the crowd of society's
+decrepits.
+
+Interstice: While asleep, when motor skills are down for the most part,
+it is akin to swimming in a pool of tar when you don't even know how to
+swim to begin with. The array of senses works against you, and yet you
+come to them when real things are about to get Real. You cannot talk
+because you do not allow yourself to. You cannot move freely because you
+are strapped in for further analysis. While asleep, everything else is
+as normal as normal could be and, luckily, that includes you.
+
+The three of them huddled and went on with their agenda, disclosing
+inputs in much less reverberation now, since they had noticed me
+propping up on my bed, giving them looks. Six feet away, their gurgles
+were unintelligible, maybe it was because they were doing just that --
+gurgling.
+
+Their itinerary for the day is to drive around the president. Who cares?
+
+Interstice: The aftermath from the afterglow of the aftershock of
+trembling spaces between thoughts flourish briefly before decaying just
+as quick. Its contents crumble with the progression of seconds, hours,
+days. Its distance to reality is haunting yet inaccurate, failing to
+specify the half-life of congruencies in the arguments it weaves.
+
+The younger man and teen girl were first to go out of the room. As they
+head out, I slumped back to bed and closed my eyes. I did not want to
+talk to older man.
+
+I felt the old man's gaze upon me. He switched on the stand fan and
+adjusted the metal head so that a cold stream of air was blowing at me.
+
+He left the room.
+
+My eyes remain closed.
+
+In reality, in conjunction with the sequence enclosed therein, the rest
+of the dream fell apart. Two planes finally gliding onto one another,
+two sleeping me's in two dimensions become one.
+
+{{< btt >}}
+### Entry # 377
+
+Date: Tue, 20 Feb 2018
+
+all irregular shapes of smoke that spiral in and out of the building
+ride atop the iron waves; and i make no particular grand observation on
+their effects on my pers---wait, *something is up*.
+
+the details, as i'm sure are not from the normal spaces of
+communication, don't naturally come to me, or poke my consciousness at
+random intervals, and yet here, in this odd point, i make no particular
+claims against the byzantine plans being placed at random intervals in
+this odd point, as i have mentioned. plans quickly evaporate from off
+their vats because the vats themselves cannot sustain the caustic nature
+of fickle-mindedness of such person.
+
+if i'd like to fit perfectly in playful mode, i would then only speak in
+the causality or casualty of memes, depending on which is more
+comfortable at the time, and we have the internet as the majestic
+library to hold our obscure surrealism up and somehow keep steady them
+wet dreams. but i am nowhere near that mood right now. i don't seek the
+proper count nor the natural order of things that somehow keep me
+functioning? no, i'd like to think i am more than that.
+
+i am seeking, currently, a different kind of thrill: something that
+bridges a gap (like what?), a system that i can throw my whole weight
+into and not worry of it, that i would float ceaselessly
+yet towards the right direction, wherever that may be. what i'm saying
+is, define liveliness as a corporate slang, as a core competency, your
+soft goddamn skill to embrace with the bud of your shell as though it
+were the essence of living. define 'to live' as a soviet of benign tumor
+with which to anesthetize the momentary bliss, piggy banks of wearable
+things, accessories, fleeting accomplices from a lasting spool of
+thought.
+
+every thought, then, can be reprised to fit a complex suck number, to
+vacuum the dank out of a mold, because who in their right minds would
+not want that? its detachment from something tangible is, in itself,
+appealing for my taste. those are the type of things i consume these
+days. like, i really, *really* cannot get into much quality consistency
+when it comes to setting up a decent string of sensibilities, one that
+can be delegated to a brat and be brushed off just like *that*.
+
+perhaps, it's a reflection of who i am trying to be, or who i wish
+people to see me as: to be distributed as false prophet of certain
+propaganda for everyone to curate and keep away for later polishing, to
+be a product of no ill intentions.
+
+---and this béton brut, in spite of its post-28th-day finishes, i
+attempt to consume sparingly, so that chaos and order would at least
+meet halfway. that lye in its purest state cleanse the slate, renewing
+the latter to its basics. and do and redo the entire alphabet of
+processes, lists upon lists of red tape forming red mesh, a scarlet
+scarf, a canvass of blood that resembles all the intricacies of excess.
+then to a mesh, then to a safety net, ready to catch failing errata.
+
+{{< btt >}}
+### Entry # 378
+
+Date: Tue, 06 Mar 2018
+
+i have the change of getting more from some stupid endeavor (say, a
+career endeavor, although it could be anything just as stupid), but a
+personal lethargy drags me to the opposite direction.
+
+the luxes of flickering fixtures, those distractions won't stop buzzing
+and beeping and would only sometimes be overshadowed by the dimness that
+could only travel through space just as quick, if not more so, than
+light itself. this is a sure way to kill any chance of improving my
+career, but---[DISTRACTED]
+
+whatever happened to the recorded history
+of the order of Lepidoptera only proves that even those involved in
+jotting all those details have no excuse. their minds did wander off, to
+a bright Somewhere that cannot be defined by spatial means. and bit by
+bit, their being is released in every which way.
+
+the problem lies not in
+the excitation of their atoms, nor in the impending total
+disintegration. no, the problem is in the delta that occurs in the split
+second, and everything else is made aware of the transition. everything
+becomes visible everywhere; every light an intention to distract the
+purveyors from coming together again back to their original forms
+and---[BACK TO REALITY]
+
+i am in an avenue somewhere, of businesses
+macroscopic to the depths of vision; trainees and trainers roam the
+sketches of a nearby park, and when the noon glare becomes too much,
+pergolas offer a shade in which their molts would be blessed by rays no more.
+
+no one teaches anybody how to droop for the benefit of kindness,
+when sacrificial pawns is not simply embodied by messengers crawling
+under shades. no, kindness the shebang has been a minority shelved in
+some stranger's multi-purposed attic. that, or it is a music act voiced
+lazily by an uninterested western white person.
+
+the whole length of it
+is trifled with ubiquitous cars, each an attempt at pronouncing (more
+like bragging) decency to the adjacent motorists. the roads below me
+swell with the perennial traffic; the sight could have made it look like
+a nice urban setting, busy in affirming goals, if it not were for the
+faint haze that rest its elbows atop the cityscape. said haze is
+realized and amplified by the street lights, creating disco in which our
+collective smug coagulates, which is kind of nice.
+
+if you are a super
+being who somehow manages to come across this platinum of a shitpost,
+and with access to a technology that does a thorough cleansing of
+everything in this universe, please, *please* send me a message or
+something from the nether... but no, let's no go into that.
+
+i don't want
+a taxi driver fantasizing about rains washing the froth from off the
+gutters of this city. no neo-noir shit can salvage the remaining goods
+here, nor does the genre try to make proper observation of both squalor
+and grandeur that mesh at no definite boundary. everything is temporary:
+if something needs to be seen, it would be gone by the time an
+investigation is put to motion.
+
+{{< btt >}}
+### Entry # 379
+
+Date: Sat, 24 Mar 2018
+
+some type of guttural sound from the frothy caverns, some architectural
+flaw that has gone unseen by men, some of this, some of that, some tear
+drop that speaks in stressed emotions under the microscope, and the
+microscope is in a shelf in a faraway lab, the key misplaced, maybe
+destroyed, some malevolence twisting data, data corrupted yet executed
+still to prove that all things have a finite boundary, some pocket money
+to last the day, a soul-for-soul arrangement where involved parties
+argue with one another but strictly in thinkpieces, some of slime from
+some other time when somber memes appalled me, and yet when i look at
+me, i see an odd shape of a face, no safe valley within, no healthy
+fold, all skin littered with litany and spliff-less meanderings like
+this
+
+{{< btt >}}
+### Entry # 380
+
+Date: Thu, 29 Mar 2018
+
+my depth in perceiving other human's privation must be the consequence
+of many events, the critical and the mundane intersecting at this point
+in time. to be honest, two-something decades in, i still have a lot to
+learn when it comes to feeling things out. the downside of having a
+lifelong experience grounded on pensive outlook is that, the entirety of
+it must be constantly tested by external parameters set not by the
+limited understanding, but by the limitlessness of the universe in which
+it is recognized. the good news is, i am compiling efforts to forego my
+inclination to humdrum, and start praising worldly travails for
+magnifying the colors it tries to blind me with.
+
+{{< btt >}}
+### Entry # 381
+
+Date: Thu, 10 May 2018
+
+I am seeing only two of the same brownian pattern in a silhouette that
+I'd like to admire in an unlit summertime. I just rematched the faded
+glimpses from two years ago, to a current feeling. The ebbing and
+flowing of tides, as though giving its rumination, is reckless as ever.
+If you are ever overwhelmed with the same unmanned guilt, then it would
+be nice to know where the source is, you know, to address the concern.
+
+I only speak from personal experience, so take from it what garbage you
+will. I know I said I will never stop growing fond of you but
+*the truth could never have been farther*. I did not actually say that. I only
+thought of it, and the idea goes more like this: all pluviophiles endear
+what they fail to comprehend, myself included. and it goes like
+spelunking in a space where proxemics would recommend not to.
+
+The quirks i contribute do no good amount to something positive, and
+you don't want getting involved in a non-zero sum game, well, at least
+from what i've seen. My observations cannot be an absolute determinant
+in whatever outcome of whatever this gooey-slash-gamma This has become,
+although anyone's interpretation of them I will welcome. I am this prick
+of minuscule significance in your history, partaking only in the little
+volume of breath you share with me, and yet i have the audacity to make
+crippling statements of my selfish projections? How dare i, right?
+
+And it has always manifested in my actions, in the way i literally look
+(mirror with or without), in the motion of frivolity in the space i am
+at. The photograph taken by a toilet freak is lost somewhere. Bless,
+though, her wretched soul for pushing me into the opportunity when it
+finally presented itself. Also, can Someone send me that picture?
+Someone give it to me. My restlessness relies on the existence of that
+single picture, of two inebriated souls in an unlit dinner time, one of
+whom meteored onto reptilian epoch -- and then, gone. Whittled. Some
+inane happenstance that swallowed him back to the quagmire, nursing a
+hangover with another bottle, which in itself was a very stupid thing to
+do. (People who come out the other side looking and feeling dragged are
+almost always susceptible to doing they will regret soon.) I realize
+that the momentary satisfaction will birth a plethora of cyst.
+
+When i began this rant, i was feeling melancholic and is still hoping to
+end with a tinge of pain. But that's too icky, even for me, to want to
+end it like that. Too overrated. Too overwhelming for an unlit goner
+mind.
+
+{{< btt >}}
+### Entry # 382
+
+Date: Sat, 19 May 2018
+
+Hot seats become passenger seats become replicas of interrogation rooms,
+with afternoon sunlight replacing pendant lamps that are swung to the
+face of the tormented. The truth does come out, but the forceful way
+that it is summoned gives it an irregular shape, its sound haunting for
+hours to come. When I explain to my driver---my boss actually---that I
+am not particularly in the mood of rootbeer talk 24/7, his stillness
+stabs, so sonorous is its silence that I must hint at hissing something,
+although my seclusion surpasses the sly intentions.
+
+{{< btt >}}
+### Entry # 383
+
+Date: Sun, 20 May 2018
+
+I once thought that an "age multiplier seems to be the solution to my
+love problems." But who was I back then if not a [REDACTED] trying to
+peel off the film to get rid of translucency?
+
+I'll update that to the standards of Year 2018 (*hail!*): Age multiplier
+seems to be the pollution to my heart problems.
+
+{{< btt >}}
+### Entry # 384
+
+Date: Sat, 26 May 2018
+
+Here in this point of transition, some bearded male directed you to some
+opposite way of want. He looked like the apostle in need of quick silver
+in his mouth. There was something in his array of teeth that blotted the
+joy in one's day. You maintained your posture and listened to him.
+
+"Pull up a stick," he began. "Light it up and smoke normally."
+
+Can easily be done, you thought, since your existing vices were no
+secret.
+
+"But later, if you feel the urge to smoke, don't," the director said. "I
+want to capture the feeling of wanting something so bad but somehow
+can't have it at the moment. You know what I mean?"
+
+"Sure," you agreed. And that was the end of it.
+
+You slept well that night. You walked it off. You died and were reborn
+again as a creature of habitual mistakes and conflagration. Such
+existential demise tells an exciting story, but one that can't be
+recorded with any man-made device.
+
+{{< btt >}}
+### Entry # 385
+
+Date: Wed, 13 Jun 2018
+
+no value in losing sleep over a hot and humid night, but no point in
+hiding from it. and yet i still could not believe the traction of its
+vapor on the calloused skin. a finger or two could not be ignored with
+psoriasis slightly burning away through the night. i remember the
+silhouette of a lover, suffering from sleeplessness, aside from
+exhaustion. i remember the way we discarded sheets, because we did not
+need its warmth. a faint smell of burning city, hovering, and in the
+middle spot, our sweat glands jitter in chorus.
+
+and all that sham thoughts was just a little over a week ago. some
+do-gooder behind the scenes flipped a switch: rainy season has
+officially begun.
+
+these days, bermudagrass in fake rooftop savannas can despise the godly
+monsoon for all deluge it has delivered, and we people on the ground can
+swim, instead of, you know, peril by foot, and we'd still know that this
+is just the sound check. the real gig has yet to come.
+
+{{< btt >}}
 
 ## One-Liners
 Tweet-like witticisms back in the day.
