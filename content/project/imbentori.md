@@ -8840,6 +8840,372 @@ is just the sound check. the real gig has yet to come.
 
 {{< btt >}}
 
+### Entry # 386
+
+Date: Tue, 26 Jun 2018
+
+Three hundred shite words, to establish a sense of urgency to make
+amends with internal conundrum, cannot describe the exact latitudes of
+each endpoint of one full swing. The resting phases are the peak of my
+potential, while the lowest point forces me to maximize whatever
+resources I have at my disposal. There is no need to acknowledge the
+difference between two states, for its known gravitas remains slender
+irrespective of how my humor approaches my own sentiments.
+
+The table thwarted my physical position in this premeditated grind, the
+length and breadth of which is attainable only when eyes level with the
+opposing orbs and, of course, its warlock. I expected their groaning
+kaput---although my natural response to boredom is rendering most
+things impractical for my consumption---, but when the advocate of this
+afternoon junction spoke, I made sure to draw mental frames per second,
+to pay attention for as long as I could, for research, of course.
+
+When there is nothing to see in the whole avenue of dead air, it is a
+time to reflect on the sedatives that one would let oneself (or their
+partner at the moment) to absorb or swallow in behalf of a greater
+purpose.
+
+Three hundred something words not worth your time, and yet here you are,
+half-expecting to be pleased by a rumination that would no longer be
+mine if I forget where I put the cheat sheet for it. But the characters
+are not really arranged to bring a sense of purpose to a person.
+Besides, there is no purpose, and yet we accept our place in this life
+in spite of that knowledge. Our innate tenderness, both flesh and feel,
+imagines the rough edges with pastel gradient to make do with the
+nonsense of being, and yet here we are, unfettered in the middle of
+Nowhere, asking no one in particular for direction.
+
+{{< btt >}}
+
+### Entry # 387
+
+Date: Sun, 01 Jul 2018
+
+The current overture of noises from different opinions makes me consider
+my position in resolving my eventual state in this piece. A ringing of
+sorts is in the inner ear, although it is a consequence of both
+stress and usual play on algorithms.
+
+But, of course, when asked to provide input regarding the more pressing
+issues that I am involved in, my say really amounts to nil since my
+"millenial sensibilities" are, to them, questionable at best. I am fine
+with critics. But I am not fine with insecure people projecting their
+mishaps onto the next generation.
+
+My songs, then, must not be summoned to let me sink deeper. And so, for
+the meantime, I choose the dead weight of lesser decibels to point that
+my presence will never materialize in wherever they invite me. That's
+just how it is.
+
+{{< btt >}}
+
+### Entry # 388: ¿shlt?
+
+Date: Fri, 06 Jul 2018
+
+The idea, as coached by "life gurus," is to
+separate work life from everything else, to engage it on an impersonal
+level. But the balancing act can never be sustained for a long time. The
+life we live in our jobs affect us in one aspect or another. The grind
+that keeps us at Work, and vice versa, creeps into our beings like bad
+metaphors of a high school essayist living in a 25-year-old "poet." Even
+in weekend getaways we think of looking at our emails. By we (and *our*
+and *us*), I mean the impractical intersection of multiple Me's in the
+busy staircase within, escalating the concern from one Me to the next
+higher Me, hoping for wits to be somewhere along the steps.
+
+But what are life coaches? I called them gurus in the last
+paragraph because i used the word "coached" in the same sentence. Do
+they really think they are bringing value to people with all the
+insidious ways of cash-grabbing motivational speech? Well, most of them
+aren't Class S hellhounds but jerks nonetheless.
+
+To add something by taking away the value---that fairly represents my
+net contribution to humanity, AKA human waste, AKA
+
+{{< btt >}}
+
+### Entry # 389
+
+Date: Fri, 13 Jul 2018
+
+Is it the sunrise curated in non-sepia bias that burns deeper into the
+eyes? The filters expire at an alarming rate. Our projection to our
+fiction counterparts could not hold us accountable, and yet we maintain
+that, at some point in this non-linear narrative, we had been hopeless,
+we had been terrific. There is a fraction in us that wants to emulate
+the characters in fiction, yet we don't want to lament their inexistence
+just because some douchebag with better imagination sleighted our
+capacity for common sense. Simply put, we had been. And yet Time itself
+in our inner eyes gets old, withered and reduced to an amber picture,
+which is then kept, but never digitalized.
+
+{{< btt >}}
+
+### Entry # 390
+
+Date: Sat, 14 Jul 2018
+
+i came up with a cocktail last night that i'd like to call 'Mokujin',
+part Mountain Dew, part Korean soju, part gin. I'll leave the
+proportions to you. ETA: i woke up okay. the drink gave a soothing hit,
+but i guess it depends on the proportions.
+
+{{< btt >}}
+
+### Entry # 391
+
+Date: Mon, 16 Jul 2018
+
+life (the vibratos, the fermatas, and the notes populating the
+in-betweens) keeps on happening; that part i understand. along the way,
+i have realized that what i am may not now be who i would want to be in
+the future. a testament to this desire for progress is my recent (only
+significant) milestone: i quit smoking a year ago on 1st of june. and
+yet keeping a(n un)healthy distance from the future self isn't exactly a
+great plot to watch unfurl from afar, and so i have to constantly remind
+myself that, while i have friends and family to lean on, it will always
+be i in the midst of twist, and that more than anyone else, i should be
+prepared for my own future. basic arithmetic, honestly.
+
+some small steps that i'm currently engaged in doing are learning Python
+and investing in stock market.
+
+i know that less than a dozen of people will read this, even less would
+care, but i just need this out for the system to monitor, to give myself
+a sense of responsibility, especially when i think no one is looking.
+
+i do hope this isn't something that will pass shortly.
+
+{{< btt >}}
+
+### Entry # 392
+
+Date: Fri, 27 Jul 2018
+
+The act of picking the perfect person is the act of fleshing out the
+doomed transcript made of carbon monoxide is a delivery of the most
+awaited package a day too late. And the waiting could have been more
+exciting, the air more sweet, the acting more fine tuned, but we can
+only know so much of what there is to know about one another that all
+those aforementioned deeds become tasteless, odorless regurgitation of
+the same plastic that came with Knowing (or Unknowing, depending on the
+folds of flesh that recede unto itself) over some length of time. Except
+when it is pulled up from the pits of stomach and passed on to the next
+willing mouth, all vacant stares in the process surprise the pupils with
+the burst of colors, no matter its being artificial, because it is
+experiencing a passing joy.
+
+{{< btt >}}
+
+### Entry # 393
+
+Date: Mon, 30 Jul 2018
+
+We could give meanings to a butterfly's gate-crashing in the
+octogenarian's celebration, but really, the syllogisms we, the living,
+append to such event is more of an extracurricular practice of reliving
+each of our memory with the departed than a sad, unnecessary affair. And
+so we continue to look at butterflies everywhere---garden and/or
+stomach---and whisper, "These Little Ones are gathered here to mean
+something to me, although I don't know of it yet."
+
+{{< btt >}}
+
+### Entry # 394
+
+Date: Tue, 31 Jul 2018
+
+distant wails of "stuff" beckons me to come and pick them through the
+machinations of my small wallet. the only important decision that i can
+make right now is not to grieve over things beyond my scope as they
+begin to grow skinny over time. i believe some refer to it as delayed
+gratification, but that's my current [REDACTED] that I don't intend to
+discuss
+
+{{< btt >}}
+
+### Entry # 395
+
+Date: Mon, 13 Aug 2018
+
+my teleprompter reading the news. my going beyond the list, to call each
+item, whisper or utter them, as would one for a bead. my dissertation
+deceased seconds after the bazaar closed. my waving at, and breathing
+of, the counter-proposal from the flaming pits. my making of guttural
+eargasms to dissociate. i am not having a good time and yet there are no
+room for pauses and yet on my plastic chair i sit for a whole day facing
+outward.
+
+{{< btt >}}
+
+### Entry # 396
+
+Date: Mon, 13 Aug 2018
+
+One can only hear so much from the chorale of leaves as they write off
+the fevers of the past. The winds whistle between the spaces of greens
+until the very tree itself bore fruits from the gallstones of its
+natural consumers. Tracing back, we learn that the genesis of the
+bittersweet contents came from the monologues of fictitious travellers---personal diaries,
+really, woven into novelettes before letting the
+gales take away the pages.
+
+Save us, then, from the bogus lumps of secrets of the old, from the
+tension of their necessities as they shame what is present, its
+condescending armature in perpetual shaking for us to not comment on.
+They shall only strike, and righteously at that.
+
+The mundane juxtaposed with the typhoons abrasive breeze teems with
+boring stories, although one can argue that somewhere between stomata
+and stopovers, a tearjerker awaits. And all work that must follow in
+exhuming that will be kindly plucked from menacing packers of the
+netherwebz, then ground and applied on the real wound.
+
+{{< btt >}}
+
+### Entry # 397
+
+Date: Wed, 15 Aug 2018
+
+The prescription of a friend that details the steps to be taken to fail
+forward could not have been preserved in this tragic economy. Thus,
+there will be no basis for the existence of aging feelings from which a
+basket of love garments are tethered; and no levy of any lesion shall be
+penned dedicated to the notorious 'collarbone' of this so-called poet in
+the cold, lifeless shell of his design. In such vestry, his shibboleths
+will gradually change over the course of time. There can only be one
+form of himself, most likely within the limits of his vision as an
+'elaborate' daydreamer, which reminiscences both the familiar and aloof,
+for some reason to rebound.
+
+{{< btt >}}
+
+### Entry # 398
+
+Date: Mon, 03 Sep 2018
+
+How does one go about giving brief description to a feeling of defeat
+coming from a purple-haired stranger? Does one simply omit from their
+memory the leftover heat? The oscillations from a dead-end conversation?
+Is there a need for sugar coating?
+
+{{< btt >}}
+
+### Entry # 399
+
+Date: Tue, 25 Sep 2018
+
+In the age of conceit, i.e., as a function of social media site,
+the search for more meaningful connections continues to be an elusive
+endeavor, through all these tangled wires and lumps of flesh bidding to
+have something for themselves that at least gives semblance to an
+acquaintance, however unpromising the whole transaction could close. No
+single bidder is ever sure, not even if they are one of the locos that
+can only be stimulated by blinking lights.
+
+Looking for the dream person in their floral and mostly nonsensical
+posture in this point in spacetime would have been disposed by the
+statistically normal individuals, because the dream person approaches
+x-axis but does not touch it. We the lookers have the obligation to make
+sure that we keep our checklists worth keeping in our wallets lest we
+sit in discomfort due to a thick bulge pressing up against the right
+cheek of our collective butt. How do we do that without being a menace
+to our future selves for selecting a date/mate that doesn't give 0.02
+pesos in the way Life favors certain groups? I don't know, I don't, I --
+Insufficient Data for Meaningful Answer. To me, it's enough of a
+dissociation to arrest any disgust for chaos when the essence of its
+ruckus is actually a celebration of Something Greater, which could
+either be good or bad thing, depending on who I am at the time. I am, of
+course, the forebear of my own capacities, borne out of the need to be
+stimulated not by blinking lights, but by an honesty that I cannot
+define yet.
+
+Truly, some of us expecting our hours here are a dreadful bunch with la
+vie en joke, dismal with their assumptions. Half of the litanies in
+poetry forums came from startups built upon lies and personal agendas.
+And yet, they cannot help themselves when a fraction of their being
+becomes inundated with Jovian machinations when the stranger (their
+dream person for the moment) says something singular yet beyond the
+day-to-day comprehension. If I were to comment on it, I'd say, "You have
+made me experience the whole spectrum of human emotion," or something
+along the lines of "The imagery of Niceness did expose a certain
+percentage of skin area while the rest awaits emancipation via social
+media ducts." Because it is the exact permutation of data that---And
+while it may have been directed at me, I am lucky to have faced it from
+afar; its roaring fire gives birth to ennui beneath the extinguished bushes.
+
+While we can measure the joules behind what could make this (not) work,
+that is, as a nice function stemming from a weeklong conversation now,
+the art with which to frame everything will gradually leak onto the
+environment, and do we really want that?
+
+I may have an answer: We intend to look and be part of a meaningful
+connection that long-drives us to a hypothetical rural somewhere; and we
+may not have been jotting anything down, not taking pictures from the
+journey, but the fatigue is there to remind us that yes, it is happening
+still, and that whole act is rewarding.
+
+{{< btt >}}
+
+### Entry # 400
+
+Date: Mon, 15 Oct 2018
+
+Nothing common about personal essays starting in articles or pronouns or
+the imminent dissolution of one's relationship that is neither secret
+nor sacred. Somehow, a certain energy is pulling me to explain my side
+of things, since the other party gave me too much friction to go
+against. I cometh hither sans confession because I believe I am not the
+jester who orbits around confusion. Or: I did not intend to be disloyal
+to myself or to anyone starting the first week of September. My
+reminders were hypnotic, in that their sound resemble the haze of 70s
+and 80s. My embers remain in the end of the stick; and I wave it in my
+own dark depths to give me an idea what I am currently dealing with.
+
+And Idea I have none (obviously); depth I have none (apparently). Only
+silhouettes were formed that prance in their naked absolution, although
+my perception of them have been inaccurate at best. Only the vacuous
+shape and function of the male hypothalamus that fails to comprehend the
+needed steps to accommodate the colors of the opposite sector. In
+simpler terms: my brain is primitive, its cognition dissonant. And this
+will probably always ring true in all my future lives, in all possible
+platforms, timelines; that my acts lead down to a malfunction in the
+dashboard. I am still in the learning process of knowing myself (and I
+honestly think Everyone will for life be stuck in that phase
+themselves), and that is that. In the past, I took my time to formulate
+a long narrative that, while not entirely detach from the real thing,
+the is not sane Here.
+
+The common thing in this non-nude affair relies in the aftermath of
+eucalyptus status in proponents concerned, each of them---well, not
+'them' but 'us'---each of *us* keeping together a coherent story line,
+our own speech patterns stimulating one another until the proverbial
+needle touches the rotating record to produce a for-ignoramus-only tune.
+Loneliness does not yield new sins, according to this newfound music,
+but it never expounds on the summation of our thoughts. We are never
+challenged in a healthy way, only fed until our insides our stuffed with
+echoes of the same music, or non-music, since I never got to know
+their preference, and no, they did not want to explain why.
+
+Nothing unique in this brief moment, but the heavy feeling concocts its
+own taste, its own abrasive phenomenon in the space where acid analyzes
+abstract before breaking down, and with it, the entire nervous system.
+
+Don't treat apologies your personal penicillin, is what I would have
+said to myself in that time of confusion, and yet the very timing of
+this self-imposed wit edges me to get the size of my own undoing, in
+double shots of depresso (or a small bucket of golden epoxy, if I'm to
+feel creative) at an event I choose.
+
+Don't keep a list of anything cringe-worthy of the other party that
+chose to leave this setup, because there will always be a small nugget
+of wisdom they have imparted that is much better than the total of all
+the errors in their system, which can always have its own place in this
+Structure that I may be willing to maintain for a certain period.
+
+{{< btt >}}
+
 ## One-Liners
 Tweet-like witticisms back in the day.
 
@@ -8982,8 +9348,8 @@ left
 1. practicing how to jump onto AND move along a ledge with their deck must be a grind for skateboarders.
 1. *The Big-Bellied Cops Cannot Outrun Me!*, and other successful theft stories
 1. idk (i decay).
-1. All blights deserved.
 1. imagining scorned-versations instead of actually having them at the office
+1. All blights deserved.
 
 {{< btt >}}
 

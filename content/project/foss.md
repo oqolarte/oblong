@@ -25,7 +25,7 @@ is deeply embedded in our digital lives now,
 whether we like it or not.
 
 I try to be wary, though, of getting obsessed on picking the right tools.
-In my opinions, there's no perfect tool, but there just might be a few of them
+In my opinion, there's no perfect tool, but there just might be a few of them
 that can do a specific task decently.
 Remember, your tools will not save you;
 how you use them might.
@@ -68,17 +68,17 @@ usually includes researching and reading texts and looking at web images.
 
 ### Special Mention
 
-- [Tor Browser](https://www.torproject.org) -- for circumventing not
-  surveillance more than censorship.
-I don't regularly use this,
-but I have this in my computer just in case.
+- [Tor Browser](https://www.torproject.org) -- for circumventing
+  surveillance and censorship.
+I don't use this much,
+but I have it just in case.
 
 {{< btt >}}
 ### LibreWolf Add-ons
-LibreWolf has nice defaults
-that are centered on privacy, security, and user freedom after all.
-
-I have these add-ons, all of which are available in [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/), to make my web surfing more bearable.
+LibreWolf's defaults
+centered on privacy, security, and user freedom after all.
+Still, I have these add-ons, all of which are in [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/),
+to make web surfing more bearable.
 
 uBlock Origin
 : is a wide-spectrum blocker
@@ -89,7 +89,14 @@ Already included in LibreWolf as a default add-on.
 Redirector
 : automatically redirects content based on user-defined rules.
 Currently redirecting Medium sites to [Scribe](https://scribe.rip),
-and Twitter to a [Nitter](https://nitter.kavin.rocks) instance.
+Twitter to a [Nitter](https://nitter.kavin.rocks) instance,
+Urban Dictionary to a [Rural
+Dictionary](https://codeberg.org/zortazert/rural-dictionary#headline-2)
+instance,
+Imgur to
+[rimgo](https://codeberg.org/video-prize-ranch/rimgo#user-content-instances)
+instance,
+and Quora to [Quetre](https://github.com/zyachel/quetre#instances).
 
 SponsorBlock
 : is a crowdsourced extension that skips sponsorships, subscription-begging, intros, outros, and
@@ -197,5 +204,11 @@ and Twitter---in this case, that one person is me.
 and watch it with [mpv](https://mpv.io)
 - [PeerTube](https://joinpeertube.org/) -- Not really YouTube per se.
 A decentralized alternative to video sharing platforms.
+
+{{< btt >}}
+
+## Research Assistant
+
+- [Zotero](https://zotero.org) is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
 
 {{< btt >}}

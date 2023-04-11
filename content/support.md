@@ -33,8 +33,6 @@ Feel free to message me!
 - [Paypal](https://paypal.me/oqolarte)
 - [BPI QR Code](/image/BPIQR_OQO.png) (Philippines only)
 
-I don't like cryptocurrencies for various reasons, so I don't have wallets for those.
-
 If you prefer other means of supporting me (e.g. bank transfer, GCash, etc.), please email me.
 
 ## Hardware support
@@ -58,7 +56,7 @@ Please email me first if you plan to give me any of these.
 - Chain mail[^chain]
 - Canon Powershot S120
 - Typewriter in working condition, preferably the portable kind
-- Multitool: Victorinox Swiss Champ or Leatherman Surge
+- Multitool: Victorinox Swiss Compact or SOG PowerPint
 
 [^1]: *Limós* is the root of this Tagalog word, meaning "alms".
 From [Tagalog Lang](https://www.tagaloglang.com/palimos/): In the Philippines, it is common for street children to approach strangers and say, “Palimos po.”

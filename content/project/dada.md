@@ -91,3 +91,8 @@ before pushing to live server.
 possibly by combining Beautiful Soup and Flask.
 1. Implement by using your favorite programming language
 (C and Go comes to mind).
+
+## Similar Project/s
+
+[Neuters.de](https://neuters.de) is an alternative frontend to Reuters,
+implemented using Rust programming language.

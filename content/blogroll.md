@@ -6,7 +6,6 @@ draft: false
 ---
 
 [Araw Seekers](https://seekers.araw.xyz)  
-[Cheapskate's Guide](https://cheapskatesguide.org/)  
 [Dan Luu](https://danluu.com)  
 [Derek Sivers](https://sive.rs/)  
 [Drew DeVault](https://drewdevault.com)  
@@ -20,7 +19,6 @@ draft: false
 [Laura Kalbag](https://laurakalbag.com/)  
 [Low-tech Magazine](https://solar.lowtechmagazine.com)  
 [Mental Nodes](https://www.mentalnodes.com)  
-[Mo Bitar](https://listed.to/@mo)  
 [Nadia Eghbal](https://nadia.xyz/)  
 [Solène Rapenne](https://dataswamp.org/~solene/)  
 [The Perry Bible Fellowship](https://pbfcomics.com/)  
