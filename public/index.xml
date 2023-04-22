@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2023 07:05:57 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Apr 2023 08:12:24 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -187,61 +187,87 @@ Not that I expect nor encourage people to give me newly bought hardware.&amp;#16
     </item>
     
     <item>
-      <title></title>
+      <title>Log</title>
+      <link>https://ohio.araw.xyz/log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohio.araw.xyz/log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ohio Olarte</title>
       <link>https://ohio.araw.xyz/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ohio.araw.xyz/cv/</guid>
-      <description>&lt;h1 id=&#34;ohio-olarte&#34;&gt;&lt;strong&gt;Ohio Olarte&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Email: &lt;a href=&#34;mailto:ohio@araw.xyz&#34;&gt;ohio@araw.xyz&lt;/a&gt;&lt;br&gt;
+      <description>&lt;p&gt;Email: &lt;a href=&#34;mailto:ohio@araw.xyz&#34;&gt;ohio@araw.xyz&lt;/a&gt;&lt;br&gt;
 Website: &lt;a href=&#34;https://ohio.araw.xyz&#34;&gt;https://ohio.araw.xyz&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;career-objective&#34;&gt;Career Objective&lt;/h2&gt;
-&lt;p&gt;I am aspiring to forward more sustainable solutions and technologies
+&lt;p&gt;I am initiating to forward more sustainable solutions and technologies
 for a more inclusive future.
 Demonstrated strengths include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Project Management (end-to-end)&lt;/li&gt;
 &lt;li&gt;Quality Engineering (QS, QA)&lt;/li&gt;
 &lt;li&gt;Customer Relationship Management&lt;/li&gt;
-&lt;li&gt;Communication Skills&lt;/li&gt;
+&lt;li&gt;People Management&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Kantar Philippines Inc. &amp;mdash; Associate Project Manager&lt;/strong&gt; (Current)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Ensures delivery of a complete project to Operating Companies from inception
-to completion&lt;/li&gt;
-&lt;li&gt;Proactively lists all the relevant internal and external information required
-for the project&lt;/li&gt;
-&lt;li&gt;Executes project plans to ensure timely and accurate delivery of outcomes as
-per Scope of Work&lt;/li&gt;
+&lt;li&gt;Troubleshoots and performs root causes analyses to resolve any data and analytics issues&lt;/li&gt;
+&lt;li&gt;Executes project plans with Production teams to ensure timely and accurate delivery of outcomes as per Scope of Work&lt;/li&gt;
+&lt;li&gt;Works with project directors to oversee the fieldwork initiative&lt;/li&gt;
+&lt;li&gt;Mentors team members on project delivery using different statistics tools and
+techniques.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Jones Lang LaSalle (Philippines), Inc. &amp;mdash; Assistant Project Manager&lt;/strong&gt; (3 years)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Responsible for coordinating with all stakeholders (Designers, Consultants, Contractors, and other Vendors) in implementing the activities of each project to ensure that cost, schedule, document control, and quality standards of evolving real estate industry are met&lt;/li&gt;
-&lt;li&gt;Guaranteed all works to be up to date with the latest standards and codes of the industry, and confidently addressed any concern on site&lt;/li&gt;
+&lt;li&gt;Led multiple project teams, some consisting of 10+ stakeholders including Designers, Consultants, Contractors, and other Vendors
+to implement the activities of each project to ensure
+cost, schedule, document control, and quality standards of evolving real estate industry are met&lt;/li&gt;
+&lt;li&gt;Handled multiple projects simultaneously&amp;mdash;up to three at any given time,
+each amounting to at least PHP 5 million (~USD 90,000)&amp;mdash;at various stages and
+locations, usually within business districts in Metro Manila.&lt;/li&gt;
+&lt;li&gt;Guaranteed all works to be up to date with the latest standards and codes of the industry,
+and confidently addressed any concern on site&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Archen Technologies, Inc. &amp;mdash; Project Engineer&lt;/strong&gt; (2 years)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;In charge of planning and coordinating technical engineering initiatives for
-Petron as they were expanding their Oil &amp;amp; Gas operations nationwide.&lt;/li&gt;
-&lt;li&gt;Managed projects from their conceptualization to completion, amounting to Php 300 million on my first year alone.&lt;/li&gt;
-&lt;li&gt;Documented and reported project progress to stakeholders&lt;/li&gt;
+&lt;li&gt;Oversaw compliance with standards and specifications during planning and coordinating technical engineering initiatives for
+Petron as they expand their Oil &amp;amp; Gas operations nationwide.&lt;/li&gt;
+&lt;li&gt;Managed projects from their conceptualization to completion, amounting to
+PHP 300 million (~USD 5.37 million) on my first year alone.&lt;/li&gt;
+&lt;li&gt;Documented budgetary, scheduling, and project databases, which had been used
+to generate reports on progress as well as risk management that could affect
+cost or schedule.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;education-and-training&#34;&gt;Education and Training&lt;/h2&gt;
-&lt;p&gt;Registered Electrical Engineer &amp;mdash; Philippine Regulatory Commission&lt;br&gt;
-BSc. Electrical Eng&amp;rsquo;g &amp;mdash; Technological University of the Philippines&lt;br&gt;
-Academic Scholar &amp;mdash; Department of Science and Technology SEI&lt;br&gt;
+&lt;p&gt;Creative Problem Solving for Technologists &amp;mdash; LinkedIn Learning&lt;br&gt;
 Python 3+ &amp;mdash; Automate the Boring Stuff&lt;br&gt;
-Project Management &amp;mdash; JLL MyDevelopment&lt;br&gt;
-People Management &amp;mdash; JLL MyDevelopment&lt;br&gt;
-Construction Safety and Health Course &amp;mdash; JLL MyDevelopment&lt;/p&gt;
+Registered Electrical Engineer &amp;mdash; Philippine Regulatory Commission&lt;br&gt;
+BSc. Electrical Eng&amp;rsquo;g &amp;mdash; Technological University of the Philippines&lt;br&gt;
+Academic Scholar &amp;mdash; Department of Science and Technology SEI&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;community-involvement&#34;&gt;Community Involvement&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Siliman University &amp;mdash; Research Assistant&lt;/strong&gt; (1 month)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Research Assistant &amp;ndash; Siliman University (1 month)&lt;/li&gt;
-&lt;li&gt;Contributor &amp;ndash; Greenpeace (4 years)&lt;/li&gt;
+&lt;li&gt;The research was about how we can help sari-sari store owners
+and their buyers from local neighborhood
+transition to zero waste stores.&lt;/li&gt;
+&lt;li&gt;Assisted in refining the questionnaire for respondents,
+in preparation of field work.&lt;/li&gt;
+&lt;li&gt;Gathered data from store owners and their buyers,
+that method of which leans more on qualitative approach.&lt;/li&gt;
+&lt;li&gt;Collated and encoded data in usable and readable format
+before submitting to researchers for analysis.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Greenpeace &amp;mdash; Contributor&lt;/strong&gt; (4 years)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Monetary contributor the organization that &amp;ldquo;has contributed to the safeguarding of the Filipino’s constitutional rights to a balanced and healthful ecology.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
@@ -252,17 +278,9 @@ Construction Safety and Health Course &amp;mdash; JLL MyDevelopment&lt;/p&gt;
 &lt;dd&gt;Unix Shell Scripting (basic), C (basic), Python 3+ (basic), HTML + CSS (basic)&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
-&lt;p&gt;Reading, Creative Endeavors, Computer Programming, Cycling, Repair and Upcycling, Watching Films, Web Development&lt;/p&gt;
+&lt;p&gt;Reading, Creative Endeavors, Programming, Cycling, Repair and Upcycling,
+Watching Films, Brutalist Web Development&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Log</title>
-      <link>https://ohio.araw.xyz/log/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ohio.araw.xyz/log/</guid>
-      <description></description>
     </item>
     
     <item>
