@@ -44,6 +44,7 @@ pre {
 }
 sub,sup {font-size: 69%}
 footer :target {font-weight:bold}
+.foot-hr {border:0;border-bottom:1px dashed #ccc;}
 .container { max-width: 700px }
 .small {font-size: 0.8em}
 .toc {font-size:0.8em; border: 1px solid; padding: 0.7em}

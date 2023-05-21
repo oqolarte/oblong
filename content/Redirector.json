@@ -1,0 +1,113 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2023-05-12T07:46:53.195Z",
+    "redirects": [
+        {
+            "description": "Example redirect, try going to http://example.com/anywordhere",
+            "exampleUrl": "http://example.com/some-word-that-matches-wildcard",
+            "exampleResult": "https://google.com/search?q=some-word-that-matches-wildcard",
+            "error": null,
+            "includePattern": "http://example.com/*",
+            "excludePattern": "",
+            "patternDesc": "Any word after example.com leads to google search for that word.",
+            "redirectUrl": "https://google.com/search?q=$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Medium -> Scribe",
+            "exampleUrl": "https://medium.com/@user/post-123456abcdef",
+            "exampleResult": "https://scribe.rip/@user/post-123456abcdef",
+            "error": null,
+            "includePattern": "^https?://(?:.*\\.)*(?<!(link\\.|cdn\\-images\\-\\d+\\.))medium\\.com(/.*)?$",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://scribe.rip$2",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        },
+        {
+            "description": "twitter to nitter",
+            "exampleUrl": "https://twitter.com/dril",
+            "exampleResult": "https://nitter.kavin.rocks/dril",
+            "error": null,
+            "includePattern": "https://twitter.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://nitter.kavin.rocks/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "urban to rural dictionary",
+            "exampleUrl": "https://urbandictionary.com/define.php?term=eevee",
+            "exampleResult": "https://rd.vern.cc/define.php?term=eevee",
+            "error": null,
+            "includePattern": "https://urbandictionary.com/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://rd.vern.cc/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "Imgur -> rimgo",
+            "exampleUrl": "https://imgur.com/a/H8M4rcp",
+            "exampleResult": "https://rimgo.kling.gg/a/H8M4rcp",
+            "error": null,
+            "includePattern": "^https?://i?.?imgur.com(/.*)?$",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://rimgo.kling.gg$1",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        },
+        {
+            "description": "Quora to Quetre",
+            "exampleUrl": "https://www.quora.com/What-is-Linux-4?share=1",
+            "exampleResult": "https://quetre.iket.me/redirect/https://www.quora.com/What-is-Linux-4?share=1",
+            "error": null,
+            "includePattern": "(https:\\/\\/.{2,}\\.quora\\.com\\/.*)",
+            "excludePattern": "",
+            "patternDesc": "redirects all Quora urls to Quetre",
+            "redirectUrl": "https://quetre.iket.me/redirect/$1",
+            "patternType": "R",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        }
+    ]
+}

@@ -822,12 +822,11 @@ source code is a precondition for this.&lt;/li&gt;
 but it can be hard, especially if big tech like Google and Microsoft
 is deeply embedded in our digital lives now,
 whether we like it or not.&lt;/p&gt;
-&lt;p&gt;I try to be wary, though, of getting obsessed on picking the right tools.
-In my opinion, there&amp;rsquo;s no perfect tool, but there just might be a few of them
-that can do a specific task decently.
-Remember, your tools will not save you;
+&lt;p&gt;I try not to get obsessed, though, on picking the right tools.
+There&amp;rsquo;s no perfect tool, and even the great ones will not save you;
 how you use them might.&lt;/p&gt;
-&lt;p&gt;Listed here are the programs I use on a regular basis.&lt;/p&gt;
+&lt;p&gt;Listed here are the programs I use on a regular basis
+that&amp;rsquo;s not work-related.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
   &lt;details&gt;
@@ -885,11 +884,6 @@ It&amp;rsquo;s also here that I first used a tiling window manager, i3.&lt;/li&g
 &lt;li&gt;&lt;a href=&#34;https://www.openbsd.org/&#34;&gt;OpenBSD&lt;/a&gt; &amp;ndash; The one I used in &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;the Old Computer Challenge&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://artixlinux.org/&#34;&gt;Artix Linux&lt;/a&gt; &amp;ndash; the first Arch-based Linux
 I used. Stopped because of constant need to update.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/software-download/windows10ISO&#34;&gt;Windows 10&lt;/a&gt;
-&amp;ndash; the only non-FOSS in here that I use only for gaming;
-this is more preferred than using &lt;a href=&#34;https://www.winehq.org/&#34;&gt;Wine&lt;/a&gt; on Linux.
-We also have a dedicated PC for this, the one that my sibling decommissioned
-because they&amp;rsquo;re upgrading to a new one.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -905,15 +899,15 @@ usually includes researching and reading texts and looking at web images.&lt;/li
 &lt;/ul&gt;
 &lt;h3 id=&#34;special-mention&#34;&gt;Special Mention&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.torproject.org&#34;&gt;Tor Browser&lt;/a&gt; &amp;ndash; for circumventing
-surveillance and censorship.
+&lt;li&gt;&lt;a href=&#34;https://www.torproject.org&#34;&gt;Tor Browser&lt;/a&gt; &amp;ndash; for when I need to be
+anonymous on the internet.
 I don&amp;rsquo;t use this much,
 but I have it just in case.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;librewolf-add-ons&#34;&gt;LibreWolf Add-ons&lt;/h3&gt;
-&lt;p&gt;LibreWolf&amp;rsquo;s defaults
+&lt;p&gt;LibreWolf&amp;rsquo;s defaults are
 centered on privacy, security, and user freedom after all.
 Still, I have these add-ons, all of which are in &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/&#34;&gt;Firefox Add-ons&lt;/a&gt;,
 to make web surfing more bearable.&lt;/p&gt;
@@ -933,7 +927,8 @@ instance,
 Imgur to
 &lt;a href=&#34;https://codeberg.org/video-prize-ranch/rimgo#user-content-instances&#34;&gt;rimgo&lt;/a&gt;
 instance,
-and Quora to &lt;a href=&#34;https://github.com/zyachel/quetre#instances&#34;&gt;Quetre&lt;/a&gt;.&lt;/dd&gt;
+and Quora to &lt;a href=&#34;https://github.com/zyachel/quetre#instances&#34;&gt;Quetre&lt;/a&gt;.
+You can import the &lt;a href=&#34;https://ohio.araw.xyz/Redirector.json&#34;&gt;JSON file&lt;/a&gt; containing these.&lt;/dd&gt;
 &lt;dt&gt;SponsorBlock&lt;/dt&gt;
 &lt;dd&gt;is a crowdsourced extension that skips sponsorships, subscription-begging, intros, outros, and
 other annoying parts of YouTube Videos.&lt;/dd&gt;
@@ -966,7 +961,8 @@ in my work computer&lt;/li&gt;
 
 &lt;h2 id=&#34;email-client&#34;&gt;Email Client&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt; - GUI client that just
+works but can be bloated at times&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -986,9 +982,9 @@ in my work computer&lt;/li&gt;
 
 &lt;h2 id=&#34;email-providers&#34;&gt;Email Providers&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.migadu.com/&#34;&gt;Migadu&lt;/a&gt; - paid service with a very affordable price.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.migadu.com/&#34;&gt;Migadu&lt;/a&gt; - an affordable paid service.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://tutanota.com/&#34;&gt;Tutanota&lt;/a&gt; - freemium service with end-to-end
-encryption turned on by default.&lt;/li&gt;
+encryption as default.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -1010,15 +1006,9 @@ password manager).&lt;/p&gt;
 
 &lt;h2 id=&#34;instant-messaging&#34;&gt;Instant Messaging&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt; &amp;ndash; a privacy- and security-oriented
+messaging app.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The hardest part of Signal is not even in the UI/UX of the app itself;
-in fact, dare I say, it&amp;rsquo;s as intuitive as all the other messaging apps out
-there.
-It&amp;rsquo;s in convincing other people to install another
-messaging app for that one person who isn&amp;rsquo;t FB Messenger, Viber, Telegram,
-Instagram, WhatsApp,
-and Twitter&amp;mdash;in this case, that one person is me.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;productivity&#34;&gt;Productivity&lt;/h2&gt;

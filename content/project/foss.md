@@ -24,13 +24,12 @@ but it can be hard, especially if big tech like Google and Microsoft
 is deeply embedded in our digital lives now,
 whether we like it or not.
 
-I try to be wary, though, of getting obsessed on picking the right tools.
-In my opinion, there's no perfect tool, but there just might be a few of them
-that can do a specific task decently.
-Remember, your tools will not save you;
+I try not to get obsessed, though, on picking the right tools.
+There's no perfect tool, and even the great ones will not save you;
 how you use them might.
 
-Listed here are the programs I use on a regular basis.
+Listed here are the programs I use on a regular basis
+that's not work-related.
 
 {{< toc >}}
 ## Operating System 
@@ -49,11 +48,6 @@ It's also here that I first used a tiling window manager, i3.
 - [OpenBSD](https://www.openbsd.org/) -- The one I used in [the Old Computer Challenge](/old-computer)
 - [Artix Linux](https://artixlinux.org/) -- the first Arch-based Linux
   I used. Stopped because of constant need to update.
-- [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
-  -- the only non-FOSS in here that I use only for gaming;
-  this is more preferred than using [Wine](https://www.winehq.org/) on Linux.
-We also have a dedicated PC for this, the one that my sibling decommissioned
-because they're upgrading to a new one.
 
 {{< btt >}}
 ## Web Browser
@@ -68,14 +62,14 @@ usually includes researching and reading texts and looking at web images.
 
 ### Special Mention
 
-- [Tor Browser](https://www.torproject.org) -- for circumventing
-  surveillance and censorship.
+- [Tor Browser](https://www.torproject.org) -- for when I need to be
+  anonymous on the internet.
 I don't use this much,
 but I have it just in case.
 
 {{< btt >}}
 ### LibreWolf Add-ons
-LibreWolf's defaults
+LibreWolf's defaults are
 centered on privacy, security, and user freedom after all.
 Still, I have these add-ons, all of which are in [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/),
 to make web surfing more bearable.
@@ -97,6 +91,7 @@ Imgur to
 [rimgo](https://codeberg.org/video-prize-ranch/rimgo#user-content-instances)
 instance,
 and Quora to [Quetre](https://github.com/zyachel/quetre#instances).
+You can import the [JSON file](/Redirector.json) containing these.
 
 SponsorBlock
 : is a crowdsourced extension that skips sponsorships, subscription-begging, intros, outros, and
@@ -128,7 +123,8 @@ although this can still be modified.
 {{< btt >}}
 ## Email Client
 
-- [Thunderbird](https://www.thunderbird.net/)
+- [Thunderbird](https://www.thunderbird.net/) - GUI client that just
+  works but can be bloated at times
 
 {{< btt >}}
 ### Set up plaintext in Thunderbird
@@ -148,9 +144,9 @@ In the future, I plan to move to TUI email clients like
 {{< btt >}}
 ## Email Providers
 
-- [Migadu](https://www.migadu.com/) - paid service with a very affordable price.
+- [Migadu](https://www.migadu.com/) - an affordable paid service.
 - [Tutanota](https://tutanota.com/) - freemium service with end-to-end
-  encryption turned on by default.
+  encryption as default.
 
 {{< btt >}}
 ## Torrent Client
@@ -168,17 +164,11 @@ password manager).
 - [Bitwarden](https://bitwarden.com/)
 
 {{< btt >}}
+
 ## Instant Messaging
 
-- [Signal](https://signal.org/)
-
-The hardest part of Signal is not even in the UI/UX of the app itself;
-in fact, dare I say, it's as intuitive as all the other messaging apps out
-there.
-It's in convincing other people to install another
-messaging app for that one person who isn't FB Messenger, Viber, Telegram,
-Instagram, WhatsApp,
-and Twitter---in this case, that one person is me.
+- [Signal](https://signal.org/) -- a privacy- and security-oriented
+  messaging app.
 
 {{< btt >}}
 ## Productivity
