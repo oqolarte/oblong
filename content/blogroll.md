@@ -20,7 +20,7 @@ draft: false
 [Low-tech Magazine](https://solar.lowtechmagazine.com)  
 [Manu Moreale](https://manuelmoreale.com/)  
 [Mental Nodes](https://www.mentalnodes.com)  
-[Nadia Eghbal](https://nadia.xyz/)  
+[Nadia Asparouhova](https://nadia.xyz/)  
 [Solène Rapenne](https://dataswamp.org/~solene/)  
 [The Perry Bible Fellowship](https://pbfcomics.com/)  
 [Victoria Drake](https://victoria.dev)  
