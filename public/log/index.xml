@@ -11,6 +11,56 @@
     
     
     <item>
+      <title>Creep into my Soul</title>
+      <link>https://ohio.araw.xyz/134/</link>
+      <pubDate>Tue, 15 Aug 2023 08:54:11 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/134/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/robots.txt&#34;&gt;robots.txt&lt;/a&gt; file to limit crawlers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;on-crawlers-crawling&#34;&gt;On crawlers crawling&lt;/h2&gt;
+&lt;p&gt;I have recently learned from &lt;a href=&#34;https://brainbaking.com/post/2023/04/is-your-website-training-ai/&#34;&gt;Wouter&amp;rsquo;s post&lt;/a&gt;
+that there&amp;rsquo;s a non-trivial possibility that personal sites like this
+one
+are training AI,
+unbeknown to their owners.&lt;/p&gt;
+&lt;p&gt;To counter this, I have added a &lt;code&gt;robots.txt&lt;/code&gt; which you can see in the
+linked file above.
+This (dis)allows certain site crawlers from getting data in this site.
+If you have your own personal site,
+consider adding this file to yours.&lt;/p&gt;
+&lt;p&gt;As of writing this, this site &lt;code&gt;ohio.araw.xyz&lt;/code&gt; is &lt;a href=&#34;https://c4-search.apps.allenai.org/?q=ohio.araw.xyz&#34;&gt;&lt;em&gt;not&lt;/em&gt;&lt;/a&gt; in Google&amp;rsquo;s C4
+dataset.&lt;/p&gt;
+&lt;h2 id=&#34;on-hypocrisy-and-spirituality&#34;&gt;On hypocrisy and spirituality&lt;/h2&gt;
+&lt;p&gt;Do you agree that we are all hypocrites?&lt;/p&gt;
+&lt;p&gt;I think so.&lt;/p&gt;
+&lt;p&gt;I think it&amp;rsquo;s part flaw, part gift as a complex person
+in this ever-changing society.
+Some are just more so than others.&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;m especially wary of hyper-religious people,
+because 99.99% of the time,
+they are the worst kinds of hypocrites.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not easy to catch yourself,
+but self-awareness can be learned through practice and experience.
+Extremely religious people might find it harder, though,
+because they tend to be blinded by their faith.
+I would say, &amp;ldquo;It&amp;rsquo;s fine to not know everything,&amp;rdquo;
+but they would get back at me with some weird line like
+&amp;ldquo;But my deity can and will help me.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I get it, really:
+we need to &lt;em&gt;believe&lt;/em&gt; in something.
+I just think there&amp;rsquo;s more nuance to that.&lt;/p&gt;
+&lt;p&gt;Misery keeps us down only because we&amp;rsquo;re helpless to break out
+of the concepts that we allow to run in our lives.
+Is this why many of us look for comfort somewhere else,
+somewhen that isn&amp;rsquo;t necessarily tangible, but the literature of which
+soothes the spirit somehow?
+I get that, really.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Blood is Thicker One Year Later</title>
       <link>https://ohio.araw.xyz/133/</link>
       <pubDate>Sat, 05 Aug 2023 05:48:53 +0800</pubDate>

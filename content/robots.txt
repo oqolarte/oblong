@@ -1,0 +1,26 @@
+# No to Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# Yes to Wayback Machine
+User-agent: ia_archiver
+Disallow:
+
+# Yes to Marginalia
+User-Agent: search.marginalia.nu
+Disallow:
+
+# No to OpenAI
+User-agent: GPTBot
+Disallow: /
+
+# Search engines will find a home page
+# and RSS feed here, but not any further.
+User-Agent: *
+Allow: /index.html
+Allow: /feed.xml
+Allow: /headlines.xml
+Allow: /sitemap.xml
+Allow: /$
+Disallow: /
+Sitemap: https://ohio.araw.xyz/sitemap.xml
