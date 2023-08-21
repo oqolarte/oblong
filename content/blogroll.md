@@ -7,6 +7,7 @@ draft: false
 
 [Araw Seekers](https://seekers.araw.xyz)  
 [Dan Luu](https://danluu.com)  
+[Emma](https://www.conscienceround.com/)  
 [Derek Sivers](https://sive.rs/)  
 [Drew DeVault](https://drewdevault.com)  
 [Early Retirement Extreme](http://earlyretirementextreme.com)  
@@ -18,6 +19,7 @@ draft: false
 [Hundred Rabbits](https://100r.co)  
 [Laura Kalbag](https://laurakalbag.com/)  
 [Low-tech Magazine](https://solar.lowtechmagazine.com)  
+[Mandy Brown](https://everythingchanges.us/)  
 [Manu Moreale](https://manuelmoreale.com/)  
 [Mental Nodes](https://www.mentalnodes.com)  
 [Nadia Asparouhova](https://nadia.xyz/)  
