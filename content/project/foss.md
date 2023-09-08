@@ -36,8 +36,9 @@ that's not work-related.
 
 - [Debian 11 "Bullseye"](https://www.debian.org/releases/bullseye/) -- OS in the server that
   hosts this site
-- [Devuan 4
-  "Chimaera"](https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14) -- is a Debian-fork OS without systemd in my main computer.
+- [Devuan 5 "Daedalus"](https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14) -- is a Debian-fork OS without systemd in my main computer.
+
+{{< figure src="/image/neofetch.png" alt="Operating System Details" caption="My computer's details, brought to you by neofetch" >}}
 
 {{< btt >}}
 ### Special Mentions

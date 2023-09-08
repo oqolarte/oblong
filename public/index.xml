@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 10:20:25 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2023 03:54:00 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,13 @@
       <pubDate>Thu, 31 Aug 2023 08:22:22 +0800</pubDate>
       
       <guid>https://ohio.araw.xyz/about/</guid>
-      <description>&lt;p&gt;In and out of work, I&amp;rsquo;m a researcher,
+      <description>&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/ocd.jpg&#34;
+         alt=&#34;A picture of a man, wearing orange shirt. On his lap, two cats: one black, one grey. Approaching the man is a mid-size dog.&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;Homeboys&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In and out of work, I&amp;rsquo;m a researcher,
 but more importantly,
 I&amp;rsquo;m a generalist who has always longed to learn and make something.
 These days, that thing skews abstract,
@@ -35,7 +41,8 @@ References are available on request.&lt;/p&gt;
       <pubDate>Wed, 14 Apr 2021 22:24:19 +0800</pubDate>
       
       <guid>https://ohio.araw.xyz/blogroll/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://seekers.araw.xyz&#34;&gt;Araw Seekers&lt;/a&gt;&lt;br&gt;
+      <description>&lt;p&gt;Links to other blogs that I find interesting.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://seekers.araw.xyz&#34;&gt;Araw Seekers&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://www.conscienceround.com/&#34;&gt;Emma&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://sive.rs/&#34;&gt;Derek Sivers&lt;/a&gt;&lt;br&gt;
