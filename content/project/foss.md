@@ -190,7 +190,7 @@ password manager).
 
 {{< btt >}}
 ## YouTube Alternatives
-- [NewPipe](https://newpipe.net/) -- For watching on an Android-run smarphone
+- [NewPipe](https://newpipe.net/) -- For watching on an Android-run smartphone
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) -- Download videos,
 and watch it with [mpv](https://mpv.io)
 - [PeerTube](https://joinpeertube.org/) -- Not really YouTube per se.

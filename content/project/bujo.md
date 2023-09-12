@@ -25,8 +25,7 @@ Marked as **on-going** because I'm always revising my bujo ways.
 
 **A notebook and a pen(cil).**
 Literally any kind will do.
-Some people even do it with tablet and stylus
-(usually iPad and Apple Pencil),
+Some people even do it with tablet and stylus,
 but that's unnecessary and too high-tech for my taste.
 
 I'd argue that analog is the better choice,
@@ -34,7 +33,7 @@ but it boils down to personal preference.
 
 {{< btt >}}
 ### Preferred, but not required
-- notebook: dotted, at least 35 rows, A5 max size
+- notebook: dotted grid
 - pen: 0.5mm needle point, black ink, doesn't smudge
 
 {{< btt >}}

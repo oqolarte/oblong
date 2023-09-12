@@ -5,7 +5,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
 
-**"Prosperity always lives in many open-handed souls"** is my go-to maxim these days.[^1]
+"**Prosperity always lives in many open-handed souls**" is my go-to maxim these days.[^1]
 
 If you're reading this,
 thank you for considering to support what I do online.
@@ -45,12 +45,7 @@ Please email me first if you plan to give me any of these.
 - New 6- or 9-cell battery for Thinkpad X220/X230
 - New battery for MSI Wind U123
 - Raspberry Pi (any model), used and in good working condition[^used]
-- IBM Thinkpad T40, used and in good working condition.
-[More info in this log](/38#ibm-thinkpad-t40).
-- Apple Magsafe 1 L-type power adapter.
-[More info in this log](/38#apple-power-adapter).
-- LCD or LED computer monitor, used and in good working condition
-- e-ink reader, used and in good working condition
+- E-book reader, used and in good working condition
 - Mechanical keyboard, 75% or 80% (tenkeyless, TKL)
 - Crowbar or wrecking bar
 - Chain mail[^chain]

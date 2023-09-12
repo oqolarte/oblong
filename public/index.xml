@@ -6,13 +6,166 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 03:54:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 Sep 2023 00:54:31 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
+      <title>Books</title>
+      <link>https://ohio.araw.xyz/books/</link>
+      <pubDate>Tue, 12 Sep 2023 20:50:12 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/books/</guid>
+      <description>&lt;p&gt;More accurately, these are the books I&amp;rsquo;ve read since I started
+recording them on November 2019.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Book Title&lt;/th&gt;
+&lt;th&gt;Author/s&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;The Power of Now&lt;/td&gt;
+&lt;td&gt;Eckhart Tolle&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Off the Map&lt;/td&gt;
+&lt;td&gt;Hib &amp;amp; Kika&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Siddhartha&lt;/td&gt;
+&lt;td&gt;Herman Hesse&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Revolution According to Raymundo Mata&lt;/td&gt;
+&lt;td&gt;Gina Apostol&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tao Te Ching (道德經)&lt;/td&gt;
+&lt;td&gt;Lao Tzu (老子)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Conquest of Bread&lt;/td&gt;
+&lt;td&gt;Pyotr Kropotkin&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Little Prince&lt;/td&gt;
+&lt;td&gt;Antoine de Saint-Exupéry&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1Q84&lt;/td&gt;
+&lt;td&gt;Haruki Murakami (村上春樹)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Stand up, Speak up, Talk Back!&lt;/td&gt;
+&lt;td&gt;Robert E. Alberti, Michael L. Emmons&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dumot&lt;/td&gt;
+&lt;td&gt;Alan Navarra&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Watchmen&lt;/td&gt;
+&lt;td&gt;Alan Moore, Dave Gibbons&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The Dispossesed&lt;/td&gt;
+&lt;td&gt;Ursula K. Le Guin&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Confessions of a Volcano&lt;/td&gt;
+&lt;td&gt;Eric Gamalinda&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Eleven Minutes&lt;/td&gt;
+&lt;td&gt;Paulo Coelho&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Never Let Me Go&lt;/td&gt;
+&lt;td&gt;Kazuo Ishiguro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Beatrice and Virgil&lt;/td&gt;
+&lt;td&gt;Yann Martel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Antifragile&lt;/td&gt;
+&lt;td&gt;Nicholas Nassim Taleb&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fight Club&lt;/td&gt;
+&lt;td&gt;Chuck Palahniuk&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Little Book of Speeches&lt;/td&gt;
+&lt;td&gt;Lourd de Veyra&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;V for Vendetta&lt;/td&gt;
+&lt;td&gt;Alan Moore, David Lloyd&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Subversive Lives&lt;/td&gt;
+&lt;td&gt;Susan &amp;amp; Nathan Quimpo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cat&amp;rsquo;s Diary&lt;/td&gt;
+&lt;td&gt;Junji Ito (伊藤 潤二)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;To Suffer Thy Comrades&lt;/td&gt;
+&lt;td&gt;Robert Francis Garcia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Deser&lt;/td&gt;
+&lt;td&gt;Anonymous&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Perfume&lt;/td&gt;
+&lt;td&gt;Patrick Süskind&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;A Mathematician&amp;rsquo;s Lament&lt;/td&gt;
+&lt;td&gt;Paul Lockhart&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;All I Really Need to Know I Learned in Kindergarten&lt;/td&gt;
+&lt;td&gt;Robert Fulghum&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;The 500 People You Meet in Hell&lt;/td&gt;
+&lt;td&gt;Jessica Zafra&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hope in the Dark&lt;/td&gt;
+&lt;td&gt;Rebecca Solnit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dogs &amp;amp; Water&lt;/td&gt;
+&lt;td&gt;Anders Nilsen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Yes! No! A First Conversation about Consent&lt;/td&gt;
+&lt;td&gt;Megan Madison, Jessica Ralli, Isabel Roxas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;I AM! Affirmations for Resilience&lt;/td&gt;
+&lt;td&gt;Bela Barbosa, Edel Rodriguez&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Klara and the Sun&lt;/td&gt;
+&lt;td&gt;Kazuo Ishiguro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More info about me</title>
       <link>https://ohio.araw.xyz/about/</link>
       <pubDate>Thu, 31 Aug 2023 08:22:22 +0800</pubDate>
       
@@ -28,7 +181,8 @@ but more importantly,
 I&amp;rsquo;m a generalist who has always longed to learn and make something.
 These days, that thing skews abstract,
 but if life improves,
-I hope to create more tangible things that would sometimes be useful.&lt;/p&gt;
+I hope to create more tangible things that would sometimes be useful.
+When I have time, I also read all kinds of &lt;a href=&#34;https://ohio.araw.xyz/books&#34;&gt;books&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;For my professional background
 check my &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt; or download the &lt;a href=&#34;https://ohio.araw.xyz/cv.pdf&#34;&gt;pdf&lt;/a&gt; version.
 References are available on request.&lt;/p&gt;
@@ -151,7 +305,7 @@ Listen &lt;a href=&#34;https://youtu.be/7iYUdS3DmFU&#34;&gt;here&lt;/a&gt; (YouT
       <pubDate>Sat, 20 Feb 2021 17:36:42 +0800</pubDate>
       
       <guid>https://ohio.araw.xyz/support/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;Prosperity always lives in many open-handed souls&amp;rdquo;&lt;/strong&gt; is my go-to maxim these days.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&amp;ldquo;&lt;strong&gt;Prosperity always lives in many open-handed souls&lt;/strong&gt;&amp;rdquo; is my go-to maxim these days.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re reading this,
 thank you for considering to support what I do online.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m always polishing this site&amp;rsquo;s contents,
@@ -181,12 +335,7 @@ Please email me first if you plan to give me any of these.&lt;/p&gt;
 &lt;li&gt;New 6- or 9-cell battery for Thinkpad X220/X230&lt;/li&gt;
 &lt;li&gt;New battery for MSI Wind U123&lt;/li&gt;
 &lt;li&gt;Raspberry Pi (any model), used and in good working condition&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;li&gt;IBM Thinkpad T40, used and in good working condition.
-&lt;a href=&#34;https://ohio.araw.xyz/38#ibm-thinkpad-t40&#34;&gt;More info in this log&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Apple Magsafe 1 L-type power adapter.
-&lt;a href=&#34;https://ohio.araw.xyz/38#apple-power-adapter&#34;&gt;More info in this log&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;LCD or LED computer monitor, used and in good working condition&lt;/li&gt;
-&lt;li&gt;e-ink reader, used and in good working condition&lt;/li&gt;
+&lt;li&gt;E-book reader, used and in good working condition&lt;/li&gt;
 &lt;li&gt;Mechanical keyboard, 75% or 80% (tenkeyless, TKL)&lt;/li&gt;
 &lt;li&gt;Crowbar or wrecking bar&lt;/li&gt;
 &lt;li&gt;Chain mail&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
