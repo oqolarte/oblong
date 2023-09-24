@@ -32,47 +32,46 @@ Listed here are the programs I use on a regular basis
 that's not work-related.
 
 {{< toc >}}
-## Operating System 
+## Operating System
 
 - [Debian 11 "Bullseye"](https://www.debian.org/releases/bullseye/) -- OS in the server that
   hosts this site
-- [Devuan 5 "Daedalus"](https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14) -- is a Debian-fork OS without systemd in my main computer.
+- [Alpine Linux 3.18](https://alpinelinux.org) -- a "small, simple, secure" Linux derivative that's now my daily driver.
 
-{{< figure src="/image/neofetch.png" alt="Operating System Details" caption="My computer's details, brought to you by neofetch" >}}
+{{< figure src="/image/neofetch.png" alt="Operating System Details" caption="Left half: `neofetch`, showing system details; top right half: `htop`; bottom right half: `nnn`" >}}
 
 {{< btt >}}
 ### Special Mentions
 - [Fedora Workstation](https://getfedora.org/en/workstation/) --
 The first Linux distro I used.
-First time using a GNOME desktop environment which was nice.
-It's also here that I first used a tiling window manager, i3.
+First time using GNOME desktop environment which was nice.
+It's also here that I first used a tiling window manager, i3
+and immediately it made sense utilizing the real estate of my screen.
 - [OpenBSD](https://www.openbsd.org/) -- The one I used in [the Old Computer Challenge](/old-computer)
 - [Artix Linux](https://artixlinux.org/) -- the first Arch-based Linux
   I used. Stopped because of constant need to update.
+- [Devuan 5 "Daedalus"](https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14) -- is a Debian-fork OS without systemd in my main computer.
+
 
 {{< btt >}}
 ## Web Browser
 
-- [LibreWolf](https://librewolf.net) -- for more intensive web-surfing,
-which usually includes video-streaming
-and JavaScript-heavy sites like banking.
-Firefox was formerly in this spot,
-but decided I wanted a simpler life.
-- [Suckless Surf](https://surf.suckless.org) -- for lightweight usage,
-usually includes researching and reading texts and looking at web images.
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) -- One of the
+  few browsers that aren't Chromium-based.
 
 ### Special Mention
 
-- [Tor Browser](https://www.torproject.org) -- for when I need to be
+- [LibreWolf](https://librewolf.net) -- For a while, I had used this
+  Firefox fork, but it was giving mild inconveniences in my new Alpine
+  setup. So, I switched back to Firefox.
+- [Tor Browser](https://www.torproject.org) -- For when I need to be
   anonymous on the internet.
 I don't use this much,
 but I have it just in case.
 
 {{< btt >}}
-### LibreWolf Add-ons
-LibreWolf's defaults are
-centered on privacy, security, and user freedom after all.
-Still, I have these add-ons, all of which are in [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/),
+### Firefox Add-ons
+I have these add-ons, all of which are in [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/),
 to make web surfing more bearable.
 
 uBlock Origin
@@ -85,8 +84,7 @@ Redirector
 : automatically redirects content based on user-defined rules.
 Currently redirecting Medium sites to [Scribe](https://scribe.rip),
 Twitter to a [Nitter](https://nitter.kavin.rocks) instance,
-Urban Dictionary to a [Rural
-Dictionary](https://codeberg.org/zortazert/rural-dictionary#headline-2)
+Urban Dictionary to a [Rural Dictionary](https://codeberg.org/zortazert/rural-dictionary#headline-2)
 instance,
 Imgur to
 [rimgo](https://codeberg.org/video-prize-ranch/rimgo#user-content-instances)
@@ -99,23 +97,7 @@ SponsorBlock
 other annoying parts of YouTube Videos.
 
 {{< btt >}}
-### Suckless Surf patches
-Surf, being a much simpler web browser, requires
-[patches](https://surf.suckless.org/patches/).
-I use the following to make Surf more pleasant to use.
 
-homepage
-: allows you to set a homepage to be loaded when you have not set a
-  URI (uniform resource identifier).
-
-clipboard instead of primary
-: adds a config option (ClipboardNotPrimary) that allows to use the CLIPBOARD selection.
-
-websearch
-: adds a search feature using DuckDuckGo as the search engine,
-although this can still be modified.
-
-{{< btt >}}
 ## Search Engines
 - [Searx](https://searx.be/) -- the meta-search engine I use daily.
 - [Startpage](https://www.startpage.com/) -- the default search engine I set up
@@ -124,25 +106,18 @@ although this can still be modified.
 {{< btt >}}
 ## Email Client
 
-- [Thunderbird](https://www.thunderbird.net/) - GUI client that just
-  works but can be bloated at times
+- [aerc](https://aerc-mail.org) - My main TUI client now.
+Works really fast.
 
 {{< btt >}}
-### Set up plaintext in Thunderbird
 
-1. In the accounts tab, right click on your account
-1. Select "Settings"
-1. Select the "Composition & Addressing" settings
-1. Disable "Compose messages in HTML format"
-1. Select "Start my reply below the quote"
-1. Repeat this for any other email accounts
+### Special Mention
 
-### TUI Clients
-
-In the future, I plan to move to TUI email clients like
-[neomutt](https://neomutt.org) or [aerc](https://aerc-mail.org).
+- [Thunderbird](https://www.thunderbird.net/) - GUI client that I had
+  used and is just reliable, can be bloated at times.
 
 {{< btt >}}
+
 ## Email Providers
 
 - [Migadu](https://www.migadu.com/) - an affordable paid service.

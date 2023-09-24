@@ -66,13 +66,16 @@ to prevent you from getting bored, something I won't afford to do in a formal se
 Of course, I'll include citations properly.
 
 There's RSS (RDF [Resource Description Framework] Site Summary,
-or Really Simple Syndication), which is a web feed,
-to which readers can subscribe to get updated.
-To do that, one needs RSS reader.
-Alternatively, many email clients like Thunderbird, Microsoft Outlook, and Apple
+or Really Simple Syndication), a web feed,
+which readers can subscribe to get updated.
+For that, one needs RSS reader.
+Alternatively, some email clients like Thunderbird, Microsoft Outlook, and Apple
 Mail, have their own built-in RSS reader.
 You can use any of those too.
 A web service is available along these lines: check out [RSS by email](https://rssby.email).
+Or if you're a more technical person,
+check out [rss2email](https://pypi.org/project/rss2email/),
+a software that can forward your RSS feeds to your email.
 
 {{< btt >}}
 ## Front-end
@@ -107,45 +110,34 @@ There are many ways to do that without compromising the overall experience of re
 I use *your* system's default font stack so your computer wouldn't
 need to look elsewhere to render the fonts.
 
-I use serif for headings. This is the font stack that I use (as found in my
-CSS):
+I use serif for headings. This is the font stack that I use:
 
-```css
-h1,h2,h3,h4,h5,h6 {
-        font-family:    Iowan Old Style,
-                        Apple Garamond,
-                        Baskerville,
-                        Times New Roman,
-                        Droid Serif,
-                        Times,
-                        Source Serif Pro,
-                        serif,
-        line-height:    1.2
-}
-```
+- Iowan Old Style
+- Apple Garamond
+- Baskerville
+- Times New Roman
+- Droid Serif
+- Times
+- Source Serif Pro
+- Apple Color Emoji
+- Segoe UI Emoji
+- Segoe UI Symbol
 
 And I use sans serif for body and the rest of the page.
 This is what I have in my CSS:
 
-```css
-body {
-        margin: 1em auto;
-        max-width: 40em;
-        padding: 0.7em;
-        font: 1.2em/1.5 -apple-system,
-                        BlinkMacSystemFont,
-                        avenir next,
-                        avenir,
-                        segoe ui,
-                        helvetica neue,
-                        helvetica,
-                        Ubuntu,
-                        roboto,
-                        noto,
-                        arial,
-                        sans-serif;
-}
-```
+- -apple-system
+- BlinkMacSystemFont
+- Avenir Next
+- Avenir
+- Segoe UI
+- Helvetica Neue
+- Helvetica
+- Cantarell
+- Ubuntu
+- Roboto
+- Noto
+- Arial
 
 Using serif for headings and sans serif for body gives a clear delineation
 which piece of info is which.
@@ -202,15 +194,15 @@ There's also less code to maintain, so that's a bonus, too!
 ### No Ads
 
 Only advertisers like ads.
-I don't intend on monetizing this, with ads (or with whatever else).
+I don't intend on monetizing this, with ads.
 
 Also, did you know that a lot of online advertising you see depends on JS?
 
 {{< btt >}}
 ### Images
 
-Humans can be visual.
-In the internet, however, we must play it differently.
+Humans naturally tend to be visual.
+How does this translate well in a clean web design?
 
 Big image size takes time to load, and will need more resources to serve it to the visitor.
 More resources mean more energy consumed means larger carbon footprint.
@@ -222,6 +214,8 @@ not distract the viewers from the main content.
 - it's compressed as much as possible, to reduce its size, minimizing the time it takes to load.
 There are several tools you can use to do this.
 [Tiny JPG](https://tinyjpg.com) is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.
+
+Even with these points, adding an image is still a subjective decision.
 
 I use [imgp](https://github.com/jarun/imgp), a "high-performance cli batch image resizer and rotator," that I can use offline. 
 

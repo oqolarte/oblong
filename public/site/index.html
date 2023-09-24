@@ -7,7 +7,7 @@
         <meta name="description" content="Researcher's log">
         <meta name="keywords" content="web development, web design, sustainable web design, simple web design, full stack web development, full stack web design, sustainable full stack web development">
         <meta name="robots" content="index, follow, noai, noimageai">
-        <meta name="generator" content="Hugo 0.118.2">
+        <meta name="generator" content="Hugo 0.111.3">
         
         <link rel="stylesheet" href="https://ohio.araw.xyz/css/style.css">
         <link rel="icon" href="data:">
@@ -122,13 +122,16 @@ The write-ups will be a healthy blend of creative and technical writing,
 to prevent you from getting bored, something I won&rsquo;t afford to do in a formal setting.
 Of course, I&rsquo;ll include citations properly.</p>
 <p>There&rsquo;s RSS (RDF [Resource Description Framework] Site Summary,
-or Really Simple Syndication), which is a web feed,
-to which readers can subscribe to get updated.
-To do that, one needs RSS reader.
-Alternatively, many email clients like Thunderbird, Microsoft Outlook, and Apple
+or Really Simple Syndication), a web feed,
+which readers can subscribe to get updated.
+For that, one needs RSS reader.
+Alternatively, some email clients like Thunderbird, Microsoft Outlook, and Apple
 Mail, have their own built-in RSS reader.
 You can use any of those too.
-A web service is available along these lines: check out <a href="https://rssby.email">RSS by email</a>.</p>
+A web service is available along these lines: check out <a href="https://rssby.email">RSS by email</a>.
+Or if you&rsquo;re a more technical person,
+check out <a href="https://pypi.org/project/rss2email/">rss2email</a>,
+a software that can forward your RSS feeds to your email.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
 <h2 id="front-end">Front-end</h2>
@@ -157,39 +160,36 @@ i.e., serve readable content.</p>
 <p>There are many ways to do that without compromising the overall experience of readers.</p>
 <p>I use <em>your</em> system&rsquo;s default font stack so your computer wouldn&rsquo;t
 need to look elsewhere to render the fonts.</p>
-<p>I use serif for headings. This is the font stack that I use (as found in my
-CSS):</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">h1</span><span style="color:#f92672">,</span><span style="color:#f92672">h2</span><span style="color:#f92672">,</span><span style="color:#f92672">h3</span><span style="color:#f92672">,</span><span style="color:#f92672">h4</span><span style="color:#f92672">,</span><span style="color:#f92672">h5</span><span style="color:#f92672">,</span><span style="color:#f92672">h6</span> {
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">font-family</span>:    Iowan Old Style,
-</span></span><span style="display:flex;"><span>                        Apple Garamond,
-</span></span><span style="display:flex;"><span>                        Baskerville,
-</span></span><span style="display:flex;"><span>                        Times New Roman,
-</span></span><span style="display:flex;"><span>                        Droid Serif,
-</span></span><span style="display:flex;"><span>                        Times,
-</span></span><span style="display:flex;"><span>                        Source Serif Pro,
-</span></span><span style="display:flex;"><span>                        <span style="color:#66d9ef">serif</span>,
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">line-height</span><span style="color:#f92672">:</span>    <span style="color:#ae81ff">1.2</span>
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><p>And I use sans serif for body and the rest of the page.
+<p>I use serif for headings. This is the font stack that I use:</p>
+<ul>
+<li>Iowan Old Style</li>
+<li>Apple Garamond</li>
+<li>Baskerville</li>
+<li>Times New Roman</li>
+<li>Droid Serif</li>
+<li>Times</li>
+<li>Source Serif Pro</li>
+<li>Apple Color Emoji</li>
+<li>Segoe UI Emoji</li>
+<li>Segoe UI Symbol</li>
+</ul>
+<p>And I use sans serif for body and the rest of the page.
 This is what I have in my CSS:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">body</span> {
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">margin</span>: <span style="color:#ae81ff">1</span><span style="color:#66d9ef">em</span> <span style="color:#66d9ef">auto</span>;
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">max-width</span>: <span style="color:#ae81ff">40</span><span style="color:#66d9ef">em</span>;
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">padding</span>: <span style="color:#ae81ff">0.7</span><span style="color:#66d9ef">em</span>;
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">font</span>: <span style="color:#ae81ff">1.2</span><span style="color:#66d9ef">em</span><span style="color:#f92672">/</span><span style="color:#ae81ff">1.5</span> <span style="color:#f92672">-</span>apple-system,
-</span></span><span style="display:flex;"><span>                        BlinkMacSystemFont,
-</span></span><span style="display:flex;"><span>                        avenir next,
-</span></span><span style="display:flex;"><span>                        avenir,
-</span></span><span style="display:flex;"><span>                        segoe ui,
-</span></span><span style="display:flex;"><span>                        helvetica neue,
-</span></span><span style="display:flex;"><span>                        helvetica,
-</span></span><span style="display:flex;"><span>                        Ubuntu,
-</span></span><span style="display:flex;"><span>                        roboto,
-</span></span><span style="display:flex;"><span>                        noto,
-</span></span><span style="display:flex;"><span>                        arial,
-</span></span><span style="display:flex;"><span>                        <span style="color:#66d9ef">sans-serif</span>;
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><p>Using serif for headings and sans serif for body gives a clear delineation
+<ul>
+<li>-apple-system</li>
+<li>BlinkMacSystemFont</li>
+<li>Avenir Next</li>
+<li>Avenir</li>
+<li>Segoe UI</li>
+<li>Helvetica Neue</li>
+<li>Helvetica</li>
+<li>Cantarell</li>
+<li>Ubuntu</li>
+<li>Roboto</li>
+<li>Noto</li>
+<li>Arial</li>
+</ul>
+<p>Using serif for headings and sans serif for body gives a clear delineation
 which piece of info is which.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
@@ -230,13 +230,13 @@ These can be achieved without JS.</p>
 
 <h3 id="no-ads">No Ads</h3>
 <p>Only advertisers like ads.
-I don&rsquo;t intend on monetizing this, with ads (or with whatever else).</p>
+I don&rsquo;t intend on monetizing this, with ads.</p>
 <p>Also, did you know that a lot of online advertising you see depends on JS?</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
 <h3 id="images">Images</h3>
-<p>Humans can be visual.
-In the internet, however, we must play it differently.</p>
+<p>Humans naturally tend to be visual.
+How does this translate well in a clean web design?</p>
 <p>Big image size takes time to load, and will need more resources to serve it to the visitor.
 More resources mean more energy consumed means larger carbon footprint.</p>
 <p>When adding an image to a post, I make sure that:</p>
@@ -248,6 +248,7 @@ not distract the viewers from the main content.</li>
 There are several tools you can use to do this.
 <a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.</li>
 </ul>
+<p>Even with these points, adding an image is still a subjective decision.</p>
 <p>I use <a href="https://github.com/jarun/imgp">imgp</a>, a &ldquo;high-performance cli batch image resizer and rotator,&rdquo; that I can use offline.</p>
 <p>From the command line, I do something like:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>imgp -x 1366x0 --quality<span style="color:#f92672">=</span><span style="color:#ae81ff">85</span> -ew --optimize ~/image.jpg

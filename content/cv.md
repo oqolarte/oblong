@@ -8,17 +8,16 @@ Website: https://ohio.araw.xyz
 ## Career Objective
 
 I am initiating to forward more sustainable solutions and technologies
-for a more inclusive future.
-Demonstrated strengths include:
+for a more inclusive future. Demonstrated strengths include:
 
 - Project Management
 - Quality Control
 - Budgeting and Financial Reporting
-- People Management
+- People and Teams Management
 
 ## Work Experience
 
-**Kantar Philippines Inc. --- Associate Project Manager** (Aug 2021 to present)
+**Kantar Philippines Inc. --- Associate Project Manager** (2 years)
 
 - Troubleshoots and performs root causes analyses to resolve any data
   and analytics issues, resolving at least 20 tickets, and prevented
@@ -39,7 +38,7 @@ cost, schedule, document control, and quality standards of evolving real estate 
   each amounting to at least PHP 5 million (~USD 90,000)---at various stages and
   locations, usually within business districts in Metro Manila.
 - Guaranteed all works to be up to date with the latest standards and codes of the industry,
-and confidently addressed any concern on site
+and confidently addressed any concern on site.
 
 **Archen Technologies, Inc. --- Project Engineer** (2 years)
 
@@ -74,7 +73,7 @@ community-based, Zero Waste neighborhood stores serving low- to middle-income fa
 Project Description and Rationale: For more than 500 years, traditional
 stores in the Philippines served their communities through a system of
 bartering and the use of reusable containers and dispensing-refilling
-systems to provide goods locally sourced.  This practice was disrupted
+systems to provide goods locally sourced. This practice was disrupted
 during the US colonial period with the entry of industrial agriculture
 and multinational corporations. Consumer goods by large multinationals
 were introduced in small, single-use plastic sachets as part of a
@@ -120,6 +119,6 @@ Computer
 
 ## Interests
 
-Reading, Creative Endeavors, Programming, Cycling, Repair and Upcycling,
+Reading and Writing, Programming, Cycling, Repair and Upcycling,
 Watching Films, Brutalist Web Development (a minimalist approach to web
 design that focuses on functionality over form)

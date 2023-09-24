@@ -841,15 +841,13 @@ that&amp;rsquo;s not work-related.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#web-browser&#34;&gt;Web Browser&lt;/a&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#special-mention&#34;&gt;Special Mention&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#librewolf-add-ons&#34;&gt;LibreWolf Add-ons&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#suckless-surf-patches&#34;&gt;Suckless Surf patches&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#firefox-add-ons&#34;&gt;Firefox Add-ons&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#search-engines&#34;&gt;Search Engines&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#email-client&#34;&gt;Email Client&lt;/a&gt;
       &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#set-up-plaintext-in-thunderbird&#34;&gt;Set up plaintext in Thunderbird&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#tui-clients&#34;&gt;TUI Clients&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#special-mention-1&#34;&gt;Special Mention&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#email-providers&#34;&gt;Email Providers&lt;/a&gt;&lt;/li&gt;
@@ -870,11 +868,11 @@ that&amp;rsquo;s not work-related.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.debian.org/releases/bullseye/&#34;&gt;Debian 11 &amp;ldquo;Bullseye&amp;rdquo;&lt;/a&gt; &amp;ndash; OS in the server that
 hosts this site&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14&#34;&gt;Devuan 5 &amp;ldquo;Daedalus&amp;rdquo;&lt;/a&gt; &amp;ndash; is a Debian-fork OS without systemd in my main computer.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux 3.18&lt;/a&gt; &amp;ndash; a &amp;ldquo;small, simple, secure&amp;rdquo; Linux derivative that&amp;rsquo;s now my daily driver.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/neofetch.png&#34;
          alt=&#34;Operating System Details&#34;/&gt;&lt;figcaption&gt;
-            &lt;p&gt;My computer&amp;rsquo;s details, brought to you by neofetch&lt;/p&gt;
+            &lt;p&gt;Left half: &lt;code&gt;neofetch&lt;/code&gt;, showing system details; top right half: &lt;code&gt;htop&lt;/code&gt;; bottom right half: &lt;code&gt;nnn&lt;/code&gt;&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -884,37 +882,35 @@ hosts this site&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://getfedora.org/en/workstation/&#34;&gt;Fedora Workstation&lt;/a&gt; &amp;ndash;
 The first Linux distro I used.
-First time using a GNOME desktop environment which was nice.
-It&amp;rsquo;s also here that I first used a tiling window manager, i3.&lt;/li&gt;
+First time using GNOME desktop environment which was nice.
+It&amp;rsquo;s also here that I first used a tiling window manager, i3
+and immediately it made sense utilizing the real estate of my screen.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.openbsd.org/&#34;&gt;OpenBSD&lt;/a&gt; &amp;ndash; The one I used in &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;the Old Computer Challenge&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://artixlinux.org/&#34;&gt;Artix Linux&lt;/a&gt; &amp;ndash; the first Arch-based Linux
 I used. Stopped because of constant need to update.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14&#34;&gt;Devuan 5 &amp;ldquo;Daedalus&amp;rdquo;&lt;/a&gt; &amp;ndash; is a Debian-fork OS without systemd in my main computer.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;web-browser&#34;&gt;Web Browser&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://librewolf.net&#34;&gt;LibreWolf&lt;/a&gt; &amp;ndash; for more intensive web-surfing,
-which usually includes video-streaming
-and JavaScript-heavy sites like banking.
-Firefox was formerly in this spot,
-but decided I wanted a simpler life.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://surf.suckless.org&#34;&gt;Suckless Surf&lt;/a&gt; &amp;ndash; for lightweight usage,
-usually includes researching and reading texts and looking at web images.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; &amp;ndash; One of the
+few browsers that aren&amp;rsquo;t Chromium-based.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;special-mention&#34;&gt;Special Mention&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.torproject.org&#34;&gt;Tor Browser&lt;/a&gt; &amp;ndash; for when I need to be
+&lt;li&gt;&lt;a href=&#34;https://librewolf.net&#34;&gt;LibreWolf&lt;/a&gt; &amp;ndash; For a while, I had used this
+Firefox fork, but it was giving mild inconveniences in my new Alpine
+setup. So, I switched back to Firefox.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.torproject.org&#34;&gt;Tor Browser&lt;/a&gt; &amp;ndash; For when I need to be
 anonymous on the internet.
 I don&amp;rsquo;t use this much,
 but I have it just in case.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h3 id=&#34;librewolf-add-ons&#34;&gt;LibreWolf Add-ons&lt;/h3&gt;
-&lt;p&gt;LibreWolf&amp;rsquo;s defaults are
-centered on privacy, security, and user freedom after all.
-Still, I have these add-ons, all of which are in &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/&#34;&gt;Firefox Add-ons&lt;/a&gt;,
+&lt;h3 id=&#34;firefox-add-ons&#34;&gt;Firefox Add-ons&lt;/h3&gt;
+&lt;p&gt;I have these add-ons, all of which are in &lt;a href=&#34;https://addons.mozilla.org/en-US/firefox/&#34;&gt;Firefox Add-ons&lt;/a&gt;,
 to make web surfing more bearable.&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;uBlock Origin&lt;/dt&gt;
@@ -926,8 +922,7 @@ Already included in LibreWolf as a default add-on.&lt;/dd&gt;
 &lt;dd&gt;automatically redirects content based on user-defined rules.
 Currently redirecting Medium sites to &lt;a href=&#34;https://scribe.rip&#34;&gt;Scribe&lt;/a&gt;,
 Twitter to a &lt;a href=&#34;https://nitter.kavin.rocks&#34;&gt;Nitter&lt;/a&gt; instance,
-Urban Dictionary to a &lt;a href=&#34;https://codeberg.org/zortazert/rural-dictionary#headline-2&#34;&gt;Rural
-Dictionary&lt;/a&gt;
+Urban Dictionary to a &lt;a href=&#34;https://codeberg.org/zortazert/rural-dictionary#headline-2&#34;&gt;Rural Dictionary&lt;/a&gt;
 instance,
 Imgur to
 &lt;a href=&#34;https://codeberg.org/video-prize-ranch/rimgo#user-content-instances&#34;&gt;rimgo&lt;/a&gt;
@@ -937,22 +932,6 @@ You can import the &lt;a href=&#34;https://ohio.araw.xyz/Redirector.json&#34;&gt
 &lt;dt&gt;SponsorBlock&lt;/dt&gt;
 &lt;dd&gt;is a crowdsourced extension that skips sponsorships, subscription-begging, intros, outros, and
 other annoying parts of YouTube Videos.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
-
-&lt;h3 id=&#34;suckless-surf-patches&#34;&gt;Suckless Surf patches&lt;/h3&gt;
-&lt;p&gt;Surf, being a much simpler web browser, requires
-&lt;a href=&#34;https://surf.suckless.org/patches/&#34;&gt;patches&lt;/a&gt;.
-I use the following to make Surf more pleasant to use.&lt;/p&gt;
-&lt;dl&gt;
-&lt;dt&gt;homepage&lt;/dt&gt;
-&lt;dd&gt;allows you to set a homepage to be loaded when you have not set a
-URI (uniform resource identifier).&lt;/dd&gt;
-&lt;dt&gt;clipboard instead of primary&lt;/dt&gt;
-&lt;dd&gt;adds a config option (ClipboardNotPrimary) that allows to use the CLIPBOARD selection.&lt;/dd&gt;
-&lt;dt&gt;websearch&lt;/dt&gt;
-&lt;dd&gt;adds a search feature using DuckDuckGo as the search engine,
-although this can still be modified.&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -966,23 +945,16 @@ in my work computer&lt;/li&gt;
 
 &lt;h2 id=&#34;email-client&#34;&gt;Email Client&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt; - GUI client that just
-works but can be bloated at times&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aerc-mail.org&#34;&gt;aerc&lt;/a&gt; - My main TUI client now.
+Works really fast.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h3 id=&#34;set-up-plaintext-in-thunderbird&#34;&gt;Set up plaintext in Thunderbird&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;In the accounts tab, right click on your account&lt;/li&gt;
-&lt;li&gt;Select &amp;ldquo;Settings&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Select the &amp;ldquo;Composition &amp;amp; Addressing&amp;rdquo; settings&lt;/li&gt;
-&lt;li&gt;Disable &amp;ldquo;Compose messages in HTML format&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Select &amp;ldquo;Start my reply below the quote&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Repeat this for any other email accounts&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;tui-clients&#34;&gt;TUI Clients&lt;/h3&gt;
-&lt;p&gt;In the future, I plan to move to TUI email clients like
-&lt;a href=&#34;https://neomutt.org&#34;&gt;neomutt&lt;/a&gt; or &lt;a href=&#34;https://aerc-mail.org&#34;&gt;aerc&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;special-mention-1&#34;&gt;Special Mention&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt; - GUI client that I had
+used and is just reliable, can be bloated at times.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;email-providers&#34;&gt;Email Providers&lt;/h2&gt;
@@ -11363,13 +11335,16 @@ The write-ups will be a healthy blend of creative and technical writing,
 to prevent you from getting bored, something I won&amp;rsquo;t afford to do in a formal setting.
 Of course, I&amp;rsquo;ll include citations properly.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s RSS (RDF [Resource Description Framework] Site Summary,
-or Really Simple Syndication), which is a web feed,
-to which readers can subscribe to get updated.
-To do that, one needs RSS reader.
-Alternatively, many email clients like Thunderbird, Microsoft Outlook, and Apple
+or Really Simple Syndication), a web feed,
+which readers can subscribe to get updated.
+For that, one needs RSS reader.
+Alternatively, some email clients like Thunderbird, Microsoft Outlook, and Apple
 Mail, have their own built-in RSS reader.
 You can use any of those too.
-A web service is available along these lines: check out &lt;a href=&#34;https://rssby.email&#34;&gt;RSS by email&lt;/a&gt;.&lt;/p&gt;
+A web service is available along these lines: check out &lt;a href=&#34;https://rssby.email&#34;&gt;RSS by email&lt;/a&gt;.
+Or if you&amp;rsquo;re a more technical person,
+check out &lt;a href=&#34;https://pypi.org/project/rss2email/&#34;&gt;rss2email&lt;/a&gt;,
+a software that can forward your RSS feeds to your email.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
@@ -11398,39 +11373,36 @@ i.e., serve readable content.&lt;/p&gt;
 &lt;p&gt;There are many ways to do that without compromising the overall experience of readers.&lt;/p&gt;
 &lt;p&gt;I use &lt;em&gt;your&lt;/em&gt; system&amp;rsquo;s default font stack so your computer wouldn&amp;rsquo;t
 need to look elsewhere to render the fonts.&lt;/p&gt;
-&lt;p&gt;I use serif for headings. This is the font stack that I use (as found in my
-CSS):&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h4&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h5&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;h6&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;font-family&lt;/span&gt;:    Iowan Old Style,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Apple Garamond,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Baskerville,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Times New Roman,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Droid Serif,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Times,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Source Serif Pro,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        &lt;span style=&#34;color:#66d9ef&#34;&gt;serif&lt;/span&gt;,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;line-height&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;    &lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And I use sans serif for body and the rest of the page.
+&lt;p&gt;I use serif for headings. This is the font stack that I use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Iowan Old Style&lt;/li&gt;
+&lt;li&gt;Apple Garamond&lt;/li&gt;
+&lt;li&gt;Baskerville&lt;/li&gt;
+&lt;li&gt;Times New Roman&lt;/li&gt;
+&lt;li&gt;Droid Serif&lt;/li&gt;
+&lt;li&gt;Times&lt;/li&gt;
+&lt;li&gt;Source Serif Pro&lt;/li&gt;
+&lt;li&gt;Apple Color Emoji&lt;/li&gt;
+&lt;li&gt;Segoe UI Emoji&lt;/li&gt;
+&lt;li&gt;Segoe UI Symbol&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And I use sans serif for body and the rest of the page.
 This is what I have in my CSS:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt; {
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;margin&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;max-width&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;40&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;0.7&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;font&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1.2&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;em&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.5&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;apple-system,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        BlinkMacSystemFont,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        avenir next,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        avenir,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        segoe ui,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        helvetica neue,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        helvetica,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        Ubuntu,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        roboto,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        noto,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        arial,
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        &lt;span style=&#34;color:#66d9ef&#34;&gt;sans-serif&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Using serif for headings and sans serif for body gives a clear delineation
+&lt;ul&gt;
+&lt;li&gt;-apple-system&lt;/li&gt;
+&lt;li&gt;BlinkMacSystemFont&lt;/li&gt;
+&lt;li&gt;Avenir Next&lt;/li&gt;
+&lt;li&gt;Avenir&lt;/li&gt;
+&lt;li&gt;Segoe UI&lt;/li&gt;
+&lt;li&gt;Helvetica Neue&lt;/li&gt;
+&lt;li&gt;Helvetica&lt;/li&gt;
+&lt;li&gt;Cantarell&lt;/li&gt;
+&lt;li&gt;Ubuntu&lt;/li&gt;
+&lt;li&gt;Roboto&lt;/li&gt;
+&lt;li&gt;Noto&lt;/li&gt;
+&lt;li&gt;Arial&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Using serif for headings and sans serif for body gives a clear delineation
 which piece of info is which.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -11471,13 +11443,13 @@ These can be achieved without JS.&lt;/p&gt;
 
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
 &lt;p&gt;Only advertisers like ads.
-I don&amp;rsquo;t intend on monetizing this, with ads (or with whatever else).&lt;/p&gt;
+I don&amp;rsquo;t intend on monetizing this, with ads.&lt;/p&gt;
 &lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;images&#34;&gt;Images&lt;/h3&gt;
-&lt;p&gt;Humans can be visual.
-In the internet, however, we must play it differently.&lt;/p&gt;
+&lt;p&gt;Humans naturally tend to be visual.
+How does this translate well in a clean web design?&lt;/p&gt;
 &lt;p&gt;Big image size takes time to load, and will need more resources to serve it to the visitor.
 More resources mean more energy consumed means larger carbon footprint.&lt;/p&gt;
 &lt;p&gt;When adding an image to a post, I make sure that:&lt;/p&gt;
@@ -11489,6 +11461,7 @@ not distract the viewers from the main content.&lt;/li&gt;
 There are several tools you can use to do this.
 &lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Even with these points, adding an image is still a subjective decision.&lt;/p&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
 &lt;p&gt;From the command line, I do something like:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;imgp -x 1366x0 --quality&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt; -ew --optimize ~/image.jpg
