@@ -34,7 +34,7 @@ that's not work-related.
 {{< toc >}}
 ## Operating System
 
-- [Debian 11 "Bullseye"](https://www.debian.org/releases/bullseye/) -- OS in the server that
+- [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) -- OS in the server that
   hosts this site
 - [Alpine Linux 3.18](https://alpinelinux.org) -- a "small, simple, secure" Linux derivative that's now my daily driver.
 
