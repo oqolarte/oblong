@@ -993,7 +993,7 @@ messaging app.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libreoffice&lt;/a&gt; &amp;ndash; FOSS substitute for MS Office
 Suite. I only have Writer (word
 processor) and Calc (spreadsheet) installed.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; &amp;ndash; my text editor of choice.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; &amp;ndash; my text &lt;code&gt;$EDITOR&lt;/code&gt; of choice.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 

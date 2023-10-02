@@ -151,7 +151,7 @@ password manager).
 - [Libreoffice](https://www.libreoffice.org/) -- FOSS substitute for MS Office
   Suite. I only have Writer (word
   processor) and Calc (spreadsheet) installed.
-- [neovim](https://neovim.io) -- my text editor of choice.
+- [neovim](https://neovim.io) -- my text `$EDITOR` of choice.
 
 {{< btt >}}
 ## RSS Feed Readers
