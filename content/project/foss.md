@@ -50,8 +50,10 @@ and immediately it made sense utilizing the real estate of my screen.
 - [OpenBSD](https://www.openbsd.org/) -- The one I used in [the Old Computer Challenge](/old-computer)
 - [Artix Linux](https://artixlinux.org/) -- the first Arch-based Linux
   I used. Stopped because of constant need to update.
-- [Devuan 5 "Daedalus"](https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14) -- is a Debian-fork OS without systemd in my main computer.
+- [Devuan 5 "Daedalus"](https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14) -- is a Debian-fork OS without systemd that used to be in my main computer before distro-hopping[^distro-hopping] to Alpine.
 
+[^distro-hopping]: The act of frequently changing the OS of one's
+computer to a different distribution of [Linux](https://en.wikipedia.org/wiki/Linux), *usually* as a hobby.
 
 {{< btt >}}
 ## Web Browser
@@ -70,7 +72,7 @@ I don't use this much,
 but I have it just in case.
 
 {{< btt >}}
-### Firefox Add-ons
+### Browser Add-ons
 I have these add-ons, all of which are in [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/),
 to make web surfing more bearable.
 
