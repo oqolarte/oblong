@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "to oblique lair"
 enableGitInfo = true
 
+[author]
+    email = 'ohio@araw.xyz'
+    name = 'Ohio Olarte'
+
 [permalinks]
 	log = "/:filename:"
 	project = "/:filename:"

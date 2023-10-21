@@ -6,7 +6,9 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2023 01:57:05 +0800</lastBuildDate>
+    <managingEditor>ohio@araw.xyz (Ohio Olarte)</managingEditor>
+    <webMaster>ohio@araw.xyz (Ohio Olarte)</webMaster>
+    <lastBuildDate>Sat, 21 Oct 2023 10:42:59 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +17,7 @@
       <title>Books</title>
       <link>https://ohio.araw.xyz/books/</link>
       <pubDate>Tue, 12 Sep 2023 20:50:12 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/books/</guid>
       <description>&lt;p&gt;More accurately, these are the books I&amp;rsquo;ve read since I started
 recording them on November 2019.&lt;/p&gt;
@@ -167,8 +169,8 @@ recording them on November 2019.&lt;/p&gt;
     <item>
       <title>About Me</title>
       <link>https://ohio.araw.xyz/about/</link>
-      <pubDate>Thu, 31 Aug 2023 08:22:22 +0800</pubDate>
-      
+      <pubDate>Thu, 31 Aug 2023 01:22:22 +0800</pubDate>
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/about/</guid>
       <description>&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/ocd.jpg&#34;
          alt=&#34;A picture of a man, wearing orange shirt. On his lap, two cats: one black, one grey. Approaching the man is a mid-size dog.&#34;/&gt;&lt;figcaption&gt;
@@ -176,10 +178,8 @@ recording them on November 2019.&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;At work, I&amp;rsquo;m a researcher.
-More importantly, when not at work,
-I&amp;rsquo;m a generalist who has always longed to learn and make something.
-These days, that thing skews abstract,
+&lt;p&gt;I&amp;rsquo;m a generalist who have always longed to learn and make something.
+These days, that &lt;em&gt;thing&lt;/em&gt; skews abstract,
 but I hope to create more tangible things that would sometimes be useful.
 When I have time, I also read all kinds of &lt;a href=&#34;https://ohio.araw.xyz/books&#34;&gt;books&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;For my professional background
@@ -192,7 +192,7 @@ References are available on request.&lt;/p&gt;
       <title>Blogroll</title>
       <link>https://ohio.araw.xyz/blogroll/</link>
       <pubDate>Wed, 14 Apr 2021 22:24:19 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/blogroll/</guid>
       <description>&lt;p&gt;Links to other blogs that I find interesting.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://seekers.araw.xyz&#34;&gt;Araw Seekers&lt;/a&gt;&lt;br&gt;
@@ -224,7 +224,7 @@ References are available on request.&lt;/p&gt;
       <title>Disclaimer</title>
       <link>https://ohio.araw.xyz/disclaimer/</link>
       <pubDate>Sat, 10 Apr 2021 15:05:20 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/disclaimer/</guid>
       <description>&lt;p&gt;Ideas, opinions, and/or views&amp;mdash;original
 or rehashed&amp;mdash;expressed here are mine alone,
@@ -262,7 +262,7 @@ Everything does.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-back
       <title>Ideas of Possible Projects</title>
       <link>https://ohio.araw.xyz/di-why/</link>
       <pubDate>Fri, 26 Feb 2021 10:08:28 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/di-why/</guid>
       <description>&lt;p&gt;Doing side projects keep me sharp.
 In the process, I&amp;rsquo;ll try to document each step,
@@ -304,7 +304,7 @@ Listen &lt;a href=&#34;https://youtu.be/7iYUdS3DmFU&#34;&gt;here&lt;/a&gt; (YouT
       <title>PALIMOS</title>
       <link>https://ohio.araw.xyz/support/</link>
       <pubDate>Sat, 20 Feb 2021 17:36:42 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/support/</guid>
       <description>&lt;p&gt;&amp;ldquo;&lt;strong&gt;Prosperity always lives in many open-handed souls&lt;/strong&gt;&amp;rdquo; is my go-to maxim these days.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re reading this,
@@ -368,7 +368,7 @@ Not that I expect nor encourage people to give me newly bought hardware.&amp;#16
       <title></title>
       <link>https://ohio.araw.xyz/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/cv/</guid>
       <description>&lt;h1 id=&#34;ohio-olarte&#34;&gt;&lt;strong&gt;Ohio Olarte&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Email: &lt;a href=&#34;mailto:ohio@araw.xyz&#34;&gt;ohio@araw.xyz&lt;/a&gt;&lt;br&gt;
@@ -473,7 +473,7 @@ design that focuses on functionality over form)&lt;/p&gt;
       <title>Log</title>
       <link>https://ohio.araw.xyz/log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/log/</guid>
       <description></description>
     </item>
@@ -482,7 +482,7 @@ design that focuses on functionality over form)&lt;/p&gt;
       <title>Projects</title>
       <link>https://ohio.araw.xyz/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/project/</guid>
       <description></description>
     </item>

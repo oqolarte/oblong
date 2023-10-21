@@ -6,6 +6,8 @@
     <description>Recent content in Projects on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>ohio@araw.xyz (Ohio Olarte)</managingEditor>
+    <webMaster>ohio@araw.xyz (Ohio Olarte)</webMaster>
     
         <atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +16,7 @@
       <title>Video Log - November 2022 </title>
       <link>https://ohio.araw.xyz/nov2022-vlog/</link>
       <pubDate>Tue, 27 Dec 2022 11:50:58 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/nov2022-vlog/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -187,7 +189,7 @@ I suspect, though, that I can give a decent output if I do this thing more.&lt;/
       <title>Knowing Here</title>
       <link>https://ohio.araw.xyz/here/</link>
       <pubDate>Sun, 01 May 2022 18:46:15 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/here/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
@@ -296,7 +298,7 @@ So, this will definitely be an internet-assisted effort.&amp;#160;&lt;a href=&#3
       <title>Dada: Text-only Local News</title>
       <link>https://ohio.araw.xyz/dada/</link>
       <pubDate>Sun, 10 Apr 2022 01:35:49 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/dada/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
@@ -444,7 +446,7 @@ this is entirely different from the art movement of similarly spelled name.&amp;
       <title>Daily Photos - Feb 2022</title>
       <link>https://ohio.araw.xyz/feb2022-photos/</link>
       <pubDate>Tue, 01 Feb 2022 23:24:14 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/feb2022-photos/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -795,7 +797,7 @@ to capture a feeling in a visual medium to be our anchor to the past.&lt;/p&gt;
       <title>Moving to FOSS</title>
       <link>https://ohio.araw.xyz/foss/</link>
       <pubDate>Sun, 16 Jan 2022 11:14:38 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/foss/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
@@ -1043,7 +1045,7 @@ computer to a different distribution of &lt;a href=&#34;https://en.wikipedia.org
       <title>The Old Computer Challenge</title>
       <link>https://ohio.araw.xyz/old-computer/</link>
       <pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/old-computer/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -1507,7 +1509,7 @@ I installed the former after removing the latter.&amp;#160;&lt;a href=&#34;#fnre
       <title>My Bullet Journal Method</title>
       <link>https://ohio.araw.xyz/bujo/</link>
       <pubDate>Thu, 13 May 2021 17:04:58 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/bujo/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
@@ -1744,7 +1746,7 @@ Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorit
       <title>Imbentori: Personal Truths &amp; Dreams</title>
       <link>https://ohio.araw.xyz/imbentori/</link>
       <pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/imbentori/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
@@ -10228,7 +10230,7 @@ Thanks, &lt;a href=&#34;https://tkmk.tumblr.com&#34;&gt;Tom&lt;/a&gt;&amp;#160;&
       <title>iPod Classic Hard Drive Upgrade</title>
       <link>https://ohio.araw.xyz/mercipod/</link>
       <pubDate>Tue, 02 Feb 2021 17:45:52 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/mercipod/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -10500,7 +10502,7 @@ Without prior knowledge, one would think that the iPod was not designed to be ma
       <title>Encoding: From Hardcopy to Softcopy</title>
       <link>https://ohio.araw.xyz/encode/</link>
       <pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/encode/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -10639,7 +10641,7 @@ Most of the password managers have randomizers, which prints out random strings 
       <title>Always Carry Website</title>
       <link>https://ohio.araw.xyz/alwayscarry/</link>
       <pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/alwayscarry/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
@@ -10831,7 +10833,7 @@ Right now, as mentioned, we focus the content management in IG due to its reach.
       <title>Homebrew Server</title>
       <link>https://ohio.araw.xyz/server/</link>
       <pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/server/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
@@ -11255,7 +11257,7 @@ For more info: &lt;a href=&#34;https://www.ssh.com&#34;&gt;https://www.ssh.com&l
       <title>About This Site</title>
       <link>https://ohio.araw.xyz/site/</link>
       <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
-      
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/site/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
