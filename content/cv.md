@@ -1,111 +1,68 @@
-# **Ohio Olarte**
-
-Email: ohio@araw.xyz  
-Website: https://ohio.araw.xyz  
+---
+Title: "Ohio Olarte"
+---
 
 ## Career Objective
 
-I am initiating to forward more sustainable solutions and technologies
-for a more inclusive future.
-Demonstrated strengths include:
-
-- Project Management
-- Quality Control
-- Budgeting and Financial Reporting
+Dedicated to driving sustainable solutions and inclusive technologies.
+Proven leadership in **Project Management, Quality Control and Financial Reporting.**
 
 ## Work Experience
 
-**Ipsos Inc. --- Associate Project Manager** (current)
+**Ipsos Inc. --- Senior Project Management Executive** (current)
 
-- Collaborates closely with cross-functional teams to define project
-  objectives, scope, and deliverables, fostering effective communication
-  and alignment.
-- Develops and executes comprehensive data management strategies,
-  guaranteeing the accuracy, security, and availability of market data.
+- Leads cross-functional teams defining project scope and ensuring effective communication.
+- Develops data management strategies for accuracy and integrity of market data.
 
 **Kantar Philippines Inc. --- Associate Project Manager** (2 years)
 
-- Troubleshoots and performs root causes analyses to resolve any data
-  and analytics issues, resolving at least 20 tickets, and prevented
-  more, saving upwards of 23% in project resources in terms of
-  work-hours.
-- Has executed at least 15 Level-3 (complex) projects with production
-  teams to ensure timely and accurate delivery of outcomes as per Scope
-  of Work, which received glowing reviews from stakeholders.
-- Mentors team members on project delivery using data analytics tools
-  and best analytics management practices.
+- Performed root cause analyses to solve analytics issues, fixing at least 20 tickets, saving more than 23% in project resources.
+- Successfully managed Level-3 projects with glowing stakeholder reviews.
+- Mentorship for project delivery and data analytics tools.
 
 **Jones Lang LaSalle (Philippines), Inc. --- Assistant Project Manager** (3 years)
 
-- Led multiple project teams, some consisting of 10+ stakeholders including Designers, Consultants, Contractors, and other Vendors
-to implement the activities of each project to ensure
-cost, schedule, document control, and quality standards of evolving real estate industry are met
-- Handled multiple projects simultaneously---up to three at any given time,
-  each amounting to at least PHP 5 million (~USD 90,000)---at various stages and
-  locations, usually within business districts in Metro Manila.
-- Guaranteed all works to be up to date with the latest standards and codes of the industry,
-and confidently addressed any concern on site
+- Led multiple 10+-member engineering teams ensuring resource and industry standards.
+- Managed concurrent projects up to PHP 5 million (~USD 90,000) each.
 
 **Archen Technologies, Inc. --- Project Engineer** (2 years)
 
-- Oversaw compliance with standards and specifications during planning and coordinating technical engineering initiatives for
-  Petron as they expand their Oil & Gas operations nationwide.
-- Managed projects from their conceptualization to completion, amounting to
-PHP 300 million (~USD 5.37 million) on my first year alone.
-- Documented budgetary, scheduling, and project databases, which had been used
-  to generate reports on progress as well as risk management that could affect
-  cost or schedule.
+- Oversaw compliance with standards for technical engineering initiatives for Petron Corp.
+- Managed projects worth PHP 300 million (~USD 5.37 million) on average annually.
 
 ## Education and Training
 
 Creative Problem Solving for Technologists --- LinkedIn Learning (2023)  
 Python 3+ --- "Automate the Boring Stuff" Practical Programming (2020)  
-Registered Electrical Engineer --- licensed engineer under the
-Philippine Regulatory Commission (2014 to present)  
+Registered Electrical Engineer --- licensed under Philippine Regulatory Commission  
 BSc. Electrical Engineering --- Technological University of the Philippines, Manila, Philippines  
-Academic Scholar --- Philippine Department of Science and Technology, Science
-Education Institute (2009 -- 2014)  
+Academic Scholar --- Philippine Department of Science and Technology (2009 -- 2014)  
 
 ## Community Involvement
 
-**Silliman University --- Research** (6 months)
+**Silliman University (with University of London SOAS) --- Researcher** (6 months)
 
-Zero Waste neighborhood stores project
-(a Silliman University --
-University of London SOAS collaborative project)
-to develop a national network in support of small,
-community-based, Zero Waste neighborhood stores serving low- to middle-income families.
-
-Activities as a Researcher: engagement with small community stores, conducting
-surveys of store owners and customers, gathering of store inventory and other
-data, collation of results, and providing feedback on barriers to the expansion
-of Zero Waste stores in the country and possible solutions.
+Involved in engaging with small community stores, conducting
+surveys, collecting data, and identifying barriers to the expansion
+of Zero Waste stores, whose goal is
+to develop a national network supporting small,
+community-based, serving low- to middle-income families.
 
 **Greenpeace --- Volunteer and Contributor** (4 years)
 
-Volunteered in the Brand Audit 2019, a participatory science initiative
-conducted along Manila Bay, Manila, that involved counting and
-documenting the brands found on plastic waste to help identify the
-companies responsible for plastic pollution.
+Volunteered in the Brand Audit 2019, along Manila Bay,
+documenting the brands found on plastic waste to pinpoint polluting
+companies.
 
-Provided monetary contributions and supported campaigns that safeguard
-“the Filipino’s constitutional rights to a balanced and healthful
-ecology” including campaigns on climate justice, opposing plastic
-pollution, banning the dumping of foreign waste, protecting the oceans,
-supporting clean and safe energy, and the campaign against
-climate-harmful industrial agriculture and in support of resilient food
-and farm systems grounded on ecological farming principles.
+Also supports campaigns for
+Filipino ecological rights, including climate justice,
+plastic pollution, clean energy, and sustainable farming.
 
 ## Languages
 
-Human
-: Filipino (native), English (fluent in speaking and writing)  
-
-Computer
-: Unix Shell Scripting (basic), C (basic), Python 3+ (basic), HTML + CSS (basic)
+Filipino (native), English (fluent)
 
 ## Interests
 
 Reading, Creative Endeavors, Programming, Cycling, Repair and Upcycling,
-Watching Films, Brutalist Web Development (a minimalist approach to web
-design that focuses on functionality over form)
+Watching Films, Brutalist Web Development

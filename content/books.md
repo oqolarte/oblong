@@ -44,3 +44,5 @@ recording them on November 2019.
 | Yes! No! A First Conversation about Consent         | Megan Madison, Jessica Ralli, Isabel Roxas |
 | I AM! Affirmations for Resilience                   | Bela Barbosa, Edel Rodriguez               |
 | Klara and the Sun                                   | Kazuo Ishiguro                             |
+| Crying in H Mart                                    | Michelle Zauner                            |
+| Fahrenheit 451                                      | Ray Bradbury                               |

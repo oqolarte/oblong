@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (Ohio Olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (Ohio Olarte)</webMaster>
-    <lastBuildDate>Sat, 21 Oct 2023 10:42:59 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Oct 2023 14:21:36 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -160,6 +160,14 @@ recording them on November 2019.&lt;/p&gt;
 &lt;tr&gt;
 &lt;td&gt;Klara and the Sun&lt;/td&gt;
 &lt;td&gt;Kazuo Ishiguro&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Crying in H Mart&lt;/td&gt;
+&lt;td&gt;Michelle Zauner&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fahrenheit 451&lt;/td&gt;
+&lt;td&gt;Ray Bradbury&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -365,117 +373,71 @@ Not that I expect nor encourage people to give me newly bought hardware.&amp;#16
     </item>
     
     <item>
-      <title></title>
-      <link>https://ohio.araw.xyz/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
-      <guid>https://ohio.araw.xyz/cv/</guid>
-      <description>&lt;h1 id=&#34;ohio-olarte&#34;&gt;&lt;strong&gt;Ohio Olarte&lt;/strong&gt;&lt;/h1&gt;
-&lt;p&gt;Email: &lt;a href=&#34;mailto:ohio@araw.xyz&#34;&gt;ohio@araw.xyz&lt;/a&gt;&lt;br&gt;
-Website: &lt;a href=&#34;https://ohio.araw.xyz&#34;&gt;https://ohio.araw.xyz&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;career-objective&#34;&gt;Career Objective&lt;/h2&gt;
-&lt;p&gt;I am initiating to forward more sustainable solutions and technologies
-for a more inclusive future.
-Demonstrated strengths include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Project Management&lt;/li&gt;
-&lt;li&gt;Quality Control&lt;/li&gt;
-&lt;li&gt;Budgeting and Financial Reporting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Ipsos Inc. &amp;mdash; Associate Project Manager&lt;/strong&gt; (current)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Collaborates closely with cross-functional teams to define project
-objectives, scope, and deliverables, fostering effective communication
-and alignment.&lt;/li&gt;
-&lt;li&gt;Develops and executes comprehensive data management strategies,
-guaranteeing the accuracy, security, and availability of market data.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Kantar Philippines Inc. &amp;mdash; Associate Project Manager&lt;/strong&gt; (2 years)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Troubleshoots and performs root causes analyses to resolve any data
-and analytics issues, resolving at least 20 tickets, and prevented
-more, saving upwards of 23% in project resources in terms of
-work-hours.&lt;/li&gt;
-&lt;li&gt;Has executed at least 15 Level-3 (complex) projects with production
-teams to ensure timely and accurate delivery of outcomes as per Scope
-of Work, which received glowing reviews from stakeholders.&lt;/li&gt;
-&lt;li&gt;Mentors team members on project delivery using data analytics tools
-and best analytics management practices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Jones Lang LaSalle (Philippines), Inc. &amp;mdash; Assistant Project Manager&lt;/strong&gt; (3 years)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Led multiple project teams, some consisting of 10+ stakeholders including Designers, Consultants, Contractors, and other Vendors
-to implement the activities of each project to ensure
-cost, schedule, document control, and quality standards of evolving real estate industry are met&lt;/li&gt;
-&lt;li&gt;Handled multiple projects simultaneously&amp;mdash;up to three at any given time,
-each amounting to at least PHP 5 million (~USD 90,000)&amp;mdash;at various stages and
-locations, usually within business districts in Metro Manila.&lt;/li&gt;
-&lt;li&gt;Guaranteed all works to be up to date with the latest standards and codes of the industry,
-and confidently addressed any concern on site&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Archen Technologies, Inc. &amp;mdash; Project Engineer&lt;/strong&gt; (2 years)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Oversaw compliance with standards and specifications during planning and coordinating technical engineering initiatives for
-Petron as they expand their Oil &amp;amp; Gas operations nationwide.&lt;/li&gt;
-&lt;li&gt;Managed projects from their conceptualization to completion, amounting to
-PHP 300 million (~USD 5.37 million) on my first year alone.&lt;/li&gt;
-&lt;li&gt;Documented budgetary, scheduling, and project databases, which had been used
-to generate reports on progress as well as risk management that could affect
-cost or schedule.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;education-and-training&#34;&gt;Education and Training&lt;/h2&gt;
-&lt;p&gt;Creative Problem Solving for Technologists &amp;mdash; LinkedIn Learning (2023)&lt;br&gt;
-Python 3+ &amp;mdash; &amp;ldquo;Automate the Boring Stuff&amp;rdquo; Practical Programming (2020)&lt;br&gt;
-Registered Electrical Engineer &amp;mdash; licensed engineer under the
-Philippine Regulatory Commission (2014 to present)&lt;br&gt;
-BSc. Electrical Engineering &amp;mdash; Technological University of the Philippines, Manila, Philippines&lt;br&gt;
-Academic Scholar &amp;mdash; Philippine Department of Science and Technology, Science
-Education Institute (2009 &amp;ndash; 2014)&lt;/p&gt;
-&lt;h2 id=&#34;community-involvement&#34;&gt;Community Involvement&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Silliman University &amp;mdash; Research&lt;/strong&gt; (6 months)&lt;/p&gt;
-&lt;p&gt;Zero Waste neighborhood stores project
-(a Silliman University &amp;ndash;
-University of London SOAS collaborative project)
-to develop a national network in support of small,
-community-based, Zero Waste neighborhood stores serving low- to middle-income families.&lt;/p&gt;
-&lt;p&gt;Activities as a Researcher: engagement with small community stores, conducting
-surveys of store owners and customers, gathering of store inventory and other
-data, collation of results, and providing feedback on barriers to the expansion
-of Zero Waste stores in the country and possible solutions.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Greenpeace &amp;mdash; Volunteer and Contributor&lt;/strong&gt; (4 years)&lt;/p&gt;
-&lt;p&gt;Volunteered in the Brand Audit 2019, a participatory science initiative
-conducted along Manila Bay, Manila, that involved counting and
-documenting the brands found on plastic waste to help identify the
-companies responsible for plastic pollution.&lt;/p&gt;
-&lt;p&gt;Provided monetary contributions and supported campaigns that safeguard
-“the Filipino’s constitutional rights to a balanced and healthful
-ecology” including campaigns on climate justice, opposing plastic
-pollution, banning the dumping of foreign waste, protecting the oceans,
-supporting clean and safe energy, and the campaign against
-climate-harmful industrial agriculture and in support of resilient food
-and farm systems grounded on ecological farming principles.&lt;/p&gt;
-&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
-&lt;dl&gt;
-&lt;dt&gt;Human&lt;/dt&gt;
-&lt;dd&gt;Filipino (native), English (fluent in speaking and writing)&lt;/dd&gt;
-&lt;dt&gt;Computer&lt;/dt&gt;
-&lt;dd&gt;Unix Shell Scripting (basic), C (basic), Python 3+ (basic), HTML + CSS (basic)&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
-&lt;p&gt;Reading, Creative Endeavors, Programming, Cycling, Repair and Upcycling,
-Watching Films, Brutalist Web Development (a minimalist approach to web
-design that focuses on functionality over form)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Log</title>
       <link>https://ohio.araw.xyz/log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/log/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Ohio Olarte</title>
+      <link>https://ohio.araw.xyz/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <guid>https://ohio.araw.xyz/cv/</guid>
+      <description>&lt;h2 id=&#34;career-objective&#34;&gt;Career Objective&lt;/h2&gt;
+&lt;p&gt;Dedicated to driving sustainable solutions and inclusive technologies.
+Proven leadership in &lt;strong&gt;Project Management, Quality Control and Financial Reporting.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Ipsos Inc. &amp;mdash; Senior Project Management Executive&lt;/strong&gt; (current)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Leads cross-functional teams defining project scope and ensuring effective communication.&lt;/li&gt;
+&lt;li&gt;Develops data management strategies for accuracy and integrity of market data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Kantar Philippines Inc. &amp;mdash; Associate Project Manager&lt;/strong&gt; (2 years)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Performed root cause analyses to solve analytics issues, fixing at least 20 tickets, saving more than 23% in project resources.&lt;/li&gt;
+&lt;li&gt;Successfully managed Level-3 projects with glowing stakeholder reviews.&lt;/li&gt;
+&lt;li&gt;Mentorship for project delivery and data analytics tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Jones Lang LaSalle (Philippines), Inc. &amp;mdash; Assistant Project Manager&lt;/strong&gt; (3 years)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led multiple 10+-member engineering teams ensuring resource and industry standards.&lt;/li&gt;
+&lt;li&gt;Managed concurrent projects up to PHP 5 million (~USD 90,000) each.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Archen Technologies, Inc. &amp;mdash; Project Engineer&lt;/strong&gt; (2 years)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Oversaw compliance with standards for technical engineering initiatives for Petron Corp.&lt;/li&gt;
+&lt;li&gt;Managed projects worth PHP 300 million (~USD 5.37 million) on average annually.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education-and-training&#34;&gt;Education and Training&lt;/h2&gt;
+&lt;p&gt;Creative Problem Solving for Technologists &amp;mdash; LinkedIn Learning (2023)&lt;br&gt;
+Python 3+ &amp;mdash; &amp;ldquo;Automate the Boring Stuff&amp;rdquo; Practical Programming (2020)&lt;br&gt;
+Registered Electrical Engineer &amp;mdash; licensed under Philippine Regulatory Commission&lt;br&gt;
+BSc. Electrical Engineering &amp;mdash; Technological University of the Philippines, Manila, Philippines&lt;br&gt;
+Academic Scholar &amp;mdash; Philippine Department of Science and Technology (2009 &amp;ndash; 2014)&lt;/p&gt;
+&lt;h2 id=&#34;community-involvement&#34;&gt;Community Involvement&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Silliman University (with University of London SOAS) &amp;mdash; Researcher&lt;/strong&gt; (6 months)&lt;/p&gt;
+&lt;p&gt;Involved in engaging with small community stores, conducting
+surveys, collecting data, and identifying barriers to the expansion
+of Zero Waste stores, whose goal is
+to develop a national network supporting small,
+community-based, serving low- to middle-income families.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Greenpeace &amp;mdash; Volunteer and Contributor&lt;/strong&gt; (4 years)&lt;/p&gt;
+&lt;p&gt;Volunteered in the Brand Audit 2019, along Manila Bay,
+documenting the brands found on plastic waste to pinpoint polluting
+companies.&lt;/p&gt;
+&lt;p&gt;Also supports campaigns for
+Filipino ecological rights, including climate justice,
+plastic pollution, clean energy, and sustainable farming.&lt;/p&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;p&gt;Filipino (native), English (fluent)&lt;/p&gt;
+&lt;h2 id=&#34;interests&#34;&gt;Interests&lt;/h2&gt;
+&lt;p&gt;Reading, Creative Endeavors, Programming, Cycling, Repair and Upcycling,
+Watching Films, Brutalist Web Development&lt;/p&gt;
+</description>
     </item>
     
     <item>
