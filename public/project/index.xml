@@ -11429,7 +11429,7 @@ it can be difficult to gauge.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
-&lt;p&gt;Links that have a northeast arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are &lt;em&gt;external links&lt;/em&gt;,
+&lt;p&gt;Links that have an arrow (&amp;ldquo;↗&amp;rdquo; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are &lt;em&gt;external links&lt;/em&gt;,
 i.e., links that take the visitor out of this website.&lt;/p&gt;
 &lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;ohio.araw.xyz&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Here is a sample CSS code block implementing that:&lt;/p&gt;
@@ -11453,8 +11453,8 @@ These can be achieved without JS.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
-&lt;p&gt;Only advertisers like ads.
-I don&amp;rsquo;t intend on monetizing this, with ads.&lt;/p&gt;
+&lt;p&gt;Only marketers like ads.
+I don&amp;rsquo;t intend on monetizing this with ads.&lt;/p&gt;
 &lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
