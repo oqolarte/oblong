@@ -157,9 +157,10 @@ In practice,
 it can be difficult to gauge.
 
 {{< btt >}}
+
 ### Link Management
 
-Links that have a northeast arrow ("↗" or "`\2197`" in CSS) right after them are *external links*,
+Links that have an arrow ("↗" or "`\2197`" in CSS) right after them are *external links*,
 i.e., links that take the visitor out of this website.
 
 In CSS, I implented this using a selector that finds all links other than my own, which is `ohio.araw.xyz`.
@@ -193,8 +194,8 @@ There's also less code to maintain, so that's a bonus, too!
 {{< btt >}}
 ### No Ads
 
-Only advertisers like ads.
-I don't intend on monetizing this, with ads.
+Only marketers like ads.
+I don't intend on monetizing this with ads.
 
 Also, did you know that a lot of online advertising you see depends on JS?
 

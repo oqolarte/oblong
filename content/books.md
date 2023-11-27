@@ -8,6 +8,7 @@ draft: false
 
 More accurately, these are the books I've read since I started
 recording them on November 2019.
+I read slowly, you might notice.
 
 | Book Title                                          | Author/s                                   |
 |-----------------------------------------------------|--------------------------------------------|
@@ -46,3 +47,4 @@ recording them on November 2019.
 | Klara and the Sun                                   | Kazuo Ishiguro                             |
 | Crying in H Mart                                    | Michelle Zauner                            |
 | Fahrenheit 451                                      | Ray Bradbury                               |
+| The Witches                                         | Roald Dahl                                 |
