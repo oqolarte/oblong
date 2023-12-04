@@ -6,12 +6,14 @@ draft: false
 ---
 {{< ongoing >}}
 
-Free and Open Source Software (FOSS) aims to improve the quality of our digital lives, whether we know it or not, by maintaining these freedoms (aka Four Essential Freedoms of Free Software):
+Free and Open Source Software (FOSS) aims to improve the quality of our
+digital lives, whether we know it or not, by maintaining these freedoms
+(aka Four Essential Freedoms of Free Software):
 
 1. to run the program as you wish, for any purpose;
 1. to study how it works, and change it so it does your computing as you wish.
    Access to the source code is a precondition for this;
-1. to redistribute copies so you can help your neighbor
+1. to redistribute copies so you can help your neighbor;
 1. to distribute copies of your modified versions to others, and in so doing
    allows the community a chance to benefit from your changes. Access to the
    source code is a precondition for this.
@@ -19,9 +21,9 @@ Free and Open Source Software (FOSS) aims to improve the quality of our digital 
 
 {{< figure src="/image/foss-venn.png" alt="Venn Diagram showing the intersection of 3 characteristics of a software: good, fair, legal. All three is what FOSS represents. Good and legal is usually privacy-invasive. Good and fair is piracy. Fair and legal software: 'Why are you using it?'" caption="Venn Diagram generator by classtools.net" >}}
 
-I'm still trying to migrate all of my software needs to FOSS,
-but it can be hard, especially if big tech like Google and Microsoft
-is deeply embedded in our digital lives now,
+I'm still in the long process of moving all my software needs to FOSS,
+but it can be hard, especially if Big Tech companies
+are embedded in our digital lives now (e.g., at work),
 whether we like it or not.
 
 I try not to get obsessed, though, on picking the right tools.
@@ -36,7 +38,7 @@ that's not work-related.
 
 - [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) -- OS in the server that
   hosts this site
-- [Alpine Linux 3.18](https://alpinelinux.org) -- a "small, simple, secure" Linux derivative that's now my daily driver.
+- [Alpine Linux 3.19 (edge)](https://alpinelinux.org) -- a "small, simple, secure" Linux derivative that's now my daily driver.
 
 {{< figure src="/image/neofetch.png" alt="Operating System Details" caption="Left half: `neofetch`, showing system details; top right half: `htop`; bottom right half: `nnn`" >}}
 
@@ -115,8 +117,8 @@ Works really fast.
 
 ### Special Mention
 
-- [Thunderbird](https://www.thunderbird.net/) - GUI client that I had
-  used and is just reliable, can be bloated at times.
+- [Thunderbird](https://www.thunderbird.net/) - GUI client I had
+  used and is just reliable, though can be bloated at times.
 
 {{< btt >}}
 
@@ -129,7 +131,8 @@ Works really fast.
 {{< btt >}}
 ## Torrent Client
 
-- [Transmission](https://transmissionbt.com/)
+- [Transmission](https://transmissionbt.com/) - for legally obtaining
+  files from the netherwebz.
 
 {{< btt >}}
 ## Password Manager
@@ -151,8 +154,7 @@ password manager).
 {{< btt >}}
 ## Productivity
 - [Libreoffice](https://www.libreoffice.org/) -- FOSS substitute for MS Office
-  Suite. I only have Writer (word
-  processor) and Calc (spreadsheet) installed.
+  Suite.
 - [neovim](https://neovim.io) -- my text `$EDITOR` of choice.
 
 {{< btt >}}
@@ -169,7 +171,7 @@ password manager).
 ## YouTube Alternatives
 - [NewPipe](https://newpipe.net/) -- For watching on an Android-run smartphone
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) -- Download videos,
-and watch it with [mpv](https://mpv.io)
+and watch it with mpv or VLC
 - [PeerTube](https://joinpeertube.org/) -- Not really YouTube per se.
 A decentralized alternative to video sharing platforms.
 

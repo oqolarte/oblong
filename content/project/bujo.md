@@ -9,9 +9,9 @@ draft: false
 I have been bullet-journaling (bujo) since I first chanced on it on 2015.
 It made sense to me at the time, and it still does.
 
-Our technology rapidly moves towards the digital.
-Bujo remains my anchor to the analog world,
-where things are slower and require more deliberation.
+Our technology rushed to the digital.
+Bujo remains one of my anchors to the analog world,
+where things are slower and require more thought.
 
 If you're curious what this is, Ryder Carroll, the creator, explains it [here](https://bulletjournal.com/pages/learn).
 
@@ -35,6 +35,7 @@ but it boils down to personal preference.
 ### Preferred, but not required
 - notebook: dotted grid
 - pen: 0.5mm needle point, black ink, doesn't smudge
+- size: A6
 
 {{< btt >}}
 ### Optional
@@ -177,22 +178,14 @@ because I usually have some notes that I need to refer to from time to time.
 ## What about digital bullet journal?
 
 It's entirely possible to use bujo in the digital space.
-In fact I use one, solely dedicated for work.
+In fact, I use one, solely for work.
 
-This work bujo incorporates ideas from [Jeff Huang's .txt file as productivity app](https://jeffhuang.com/productivity_text_file/),
-implemented using a plaintext editor.
-And even using Windows machine,
-I manage to install Vim on it,
-so that's what I'm using when editing this one
-big text file.
-
-Not only is it light on resources---currently
-at ~200 KB storing a year's worth of logged info---it's
-portable; all operating systems accept plaintext.
-
-Mine is inventively named as `log.txt`.
+This work bujo is made possible by [VimWiki](https://vimwiki.github.io/)
+on top of [neovim](https://neovim.io) in a for-work-only
+Windows machine.
 
 {{< btt >}}
+
 ### Separating Work and Personal
 
 In the ever increasing complexities of modern life,
@@ -208,10 +201,11 @@ and my work bujo won't distract me with personal stuff.
 Do what works for you.
 
 {{< btt >}}
+
 ## Inspiration
 
 I only go the these subreddits: [r/BasicBulletJournals](https://old.reddit.com/r/BasicBulletJournals) and [r/bujo](https://old.reddit.com/r/bujo).
-It's because they tend to focus on utility and productivity, not on aesthetics.
+They tend to focus on utility and productivity.
 
 And, of course, thanks to Ryder Carroll for sharing this method to the world *for free*.[^bujo]
 

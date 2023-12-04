@@ -804,12 +804,14 @@ Status:
 &lt;strong&gt;ON-GOING&lt;/strong&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Free and Open Source Software (FOSS) aims to improve the quality of our digital lives, whether we know it or not, by maintaining these freedoms (aka Four Essential Freedoms of Free Software):&lt;/p&gt;
+&lt;p&gt;Free and Open Source Software (FOSS) aims to improve the quality of our
+digital lives, whether we know it or not, by maintaining these freedoms
+(aka Four Essential Freedoms of Free Software):&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;to run the program as you wish, for any purpose;&lt;/li&gt;
 &lt;li&gt;to study how it works, and change it so it does your computing as you wish.
 Access to the source code is a precondition for this;&lt;/li&gt;
-&lt;li&gt;to redistribute copies so you can help your neighbor&lt;/li&gt;
+&lt;li&gt;to redistribute copies so you can help your neighbor;&lt;/li&gt;
 &lt;li&gt;to distribute copies of your modified versions to others, and in so doing
 allows the community a chance to benefit from your changes. Access to the
 source code is a precondition for this.&lt;/li&gt;
@@ -820,9 +822,9 @@ source code is a precondition for this.&lt;/li&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;I&amp;rsquo;m still trying to migrate all of my software needs to FOSS,
-but it can be hard, especially if big tech like Google and Microsoft
-is deeply embedded in our digital lives now,
+&lt;p&gt;I&amp;rsquo;m still in the long process of moving all my software needs to FOSS,
+but it can be hard, especially if Big Tech companies
+are embedded in our digital lives now (e.g., at work),
 whether we like it or not.&lt;/p&gt;
 &lt;p&gt;I try not to get obsessed, though, on picking the right tools.
 There&amp;rsquo;s no perfect tool, and even the great ones will not save you;
@@ -870,7 +872,7 @@ that&amp;rsquo;s not work-related.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.debian.org/News/2023/20230610&#34;&gt;Debian 12 &amp;ldquo;&lt;em&gt;bookworm&lt;/em&gt;&amp;rdquo;&lt;/a&gt; &amp;ndash; OS in the server that
 hosts this site&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux 3.18&lt;/a&gt; &amp;ndash; a &amp;ldquo;small, simple, secure&amp;rdquo; Linux derivative that&amp;rsquo;s now my daily driver.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux 3.19 (edge)&lt;/a&gt; &amp;ndash; a &amp;ldquo;small, simple, secure&amp;rdquo; Linux derivative that&amp;rsquo;s now my daily driver.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/neofetch.png&#34;
          alt=&#34;Operating System Details&#34;/&gt;&lt;figcaption&gt;
@@ -954,8 +956,8 @@ Works really fast.&lt;/li&gt;
 
 &lt;h3 id=&#34;special-mention-1&#34;&gt;Special Mention&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt; - GUI client that I had
-used and is just reliable, can be bloated at times.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt; - GUI client I had
+used and is just reliable, though can be bloated at times.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -969,7 +971,8 @@ encryption as default.&lt;/li&gt;
 
 &lt;h2 id=&#34;torrent-client&#34;&gt;Torrent Client&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://transmissionbt.com/&#34;&gt;Transmission&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://transmissionbt.com/&#34;&gt;Transmission&lt;/a&gt; - for legally obtaining
+files from the netherwebz.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -993,8 +996,7 @@ messaging app.&lt;/li&gt;
 &lt;h2 id=&#34;productivity&#34;&gt;Productivity&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libreoffice&lt;/a&gt; &amp;ndash; FOSS substitute for MS Office
-Suite. I only have Writer (word
-processor) and Calc (spreadsheet) installed.&lt;/li&gt;
+Suite.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; &amp;ndash; my text &lt;code&gt;$EDITOR&lt;/code&gt; of choice.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -1017,7 +1019,7 @@ doesn&amp;rsquo;t work&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://newpipe.net/&#34;&gt;NewPipe&lt;/a&gt; &amp;ndash; For watching on an Android-run smartphone&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/yt-dlp/yt-dlp&#34;&gt;yt-dlp&lt;/a&gt; &amp;ndash; Download videos,
-and watch it with &lt;a href=&#34;https://mpv.io&#34;&gt;mpv&lt;/a&gt;&lt;/li&gt;
+and watch it with mpv or VLC&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://joinpeertube.org/&#34;&gt;PeerTube&lt;/a&gt; &amp;ndash; Not really YouTube per se.
 A decentralized alternative to video sharing platforms.&lt;/li&gt;
 &lt;/ul&gt;
@@ -1518,9 +1520,9 @@ Status:
 
 &lt;p&gt;I have been bullet-journaling (bujo) since I first chanced on it on 2015.
 It made sense to me at the time, and it still does.&lt;/p&gt;
-&lt;p&gt;Our technology rapidly moves towards the digital.
-Bujo remains my anchor to the analog world,
-where things are slower and require more deliberation.&lt;/p&gt;
+&lt;p&gt;Our technology rushed to the digital.
+Bujo remains one of my anchors to the analog world,
+where things are slower and require more thought.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re curious what this is, Ryder Carroll, the creator, explains it &lt;a href=&#34;https://bulletjournal.com/pages/learn&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here I discuss my bidirectional setup,
 riffed from a combination of Carroll&amp;rsquo;s and others&amp;rsquo; minimal designs.&lt;/p&gt;
@@ -1571,6 +1573,7 @@ but it boils down to personal preference.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;notebook: dotted grid&lt;/li&gt;
 &lt;li&gt;pen: 0.5mm needle point, black ink, doesn&amp;rsquo;t smudge&lt;/li&gt;
+&lt;li&gt;size: A6&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -1693,17 +1696,10 @@ because I usually have some notes that I need to refer to from time to time.&lt;
 
 &lt;h2 id=&#34;what-about-digital-bullet-journal&#34;&gt;What about digital bullet journal?&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s entirely possible to use bujo in the digital space.
-In fact I use one, solely dedicated for work.&lt;/p&gt;
-&lt;p&gt;This work bujo incorporates ideas from &lt;a href=&#34;https://jeffhuang.com/productivity_text_file/&#34;&gt;Jeff Huang&amp;rsquo;s .txt file as productivity app&lt;/a&gt;,
-implemented using a plaintext editor.
-And even using Windows machine,
-I manage to install Vim on it,
-so that&amp;rsquo;s what I&amp;rsquo;m using when editing this one
-big text file.&lt;/p&gt;
-&lt;p&gt;Not only is it light on resources&amp;mdash;currently
-at ~200 KB storing a year&amp;rsquo;s worth of logged info&amp;mdash;it&amp;rsquo;s
-portable; all operating systems accept plaintext.&lt;/p&gt;
-&lt;p&gt;Mine is inventively named as &lt;code&gt;log.txt&lt;/code&gt;.&lt;/p&gt;
+In fact, I use one, solely for work.&lt;/p&gt;
+&lt;p&gt;This work bujo is made possible by &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;VimWiki&lt;/a&gt;
+on top of &lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; in a for-work-only
+Windows machine.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;separating-work-and-personal&#34;&gt;Separating Work and Personal&lt;/h3&gt;
@@ -1720,7 +1716,7 @@ and my work bujo won&amp;rsquo;t distract me with personal stuff.&lt;/p&gt;
 
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;I only go the these subreddits: &lt;a href=&#34;https://old.reddit.com/r/BasicBulletJournals&#34;&gt;r/BasicBulletJournals&lt;/a&gt; and &lt;a href=&#34;https://old.reddit.com/r/bujo&#34;&gt;r/bujo&lt;/a&gt;.
-It&amp;rsquo;s because they tend to focus on utility and productivity, not on aesthetics.&lt;/p&gt;
+They tend to focus on utility and productivity.&lt;/p&gt;
 &lt;p&gt;And, of course, thanks to Ryder Carroll for sharing this method to the world &lt;em&gt;for free&lt;/em&gt;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
