@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (Ohio Olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (Ohio Olarte)</webMaster>
-    <lastBuildDate>Mon, 11 Dec 2023 08:08:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2023 03:24:04 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -220,28 +220,59 @@ References are available on request.&lt;/p&gt;
       <author>ohio@araw.xyz (Ohio Olarte)</author>
       <guid>https://ohio.araw.xyz/blogroll/</guid>
       <description>&lt;p&gt;Links to other blogs that I find interesting.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://seekers.araw.xyz&#34;&gt;Araw Seekers&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.conscienceround.com/&#34;&gt;Emma&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://sive.rs/&#34;&gt;Derek Sivers&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://drewdevault.com&#34;&gt;Drew DeVault&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://earlyretirementextreme.com&#34;&gt;Early Retirement Extreme&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.engineeringforchange.org&#34;&gt;Engineering For Change&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ethical.net&#34;&gt;Ethical Net&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://falseknees.tumblr.com/&#34;&gt;False Knees&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://gemmacope.land/&#34;&gt;Gemma Copeland&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://hunden.linuxkompis.se/&#34;&gt;Hund&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://100r.co&#34;&gt;Hundred Rabbits&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://laurakalbag.com/&#34;&gt;Laura Kalbag&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;Low-tech Magazine&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://everythingchanges.us/&#34;&gt;Mandy Brown&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://manuelmoreale.com/&#34;&gt;Manu Moreale&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.mentalnodes.com&#34;&gt;Mental Nodes&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://nadia.xyz/&#34;&gt;Nadia Asparouhova&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://dataswamp.org/~solene/&#34;&gt;Solène Rapenne&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://pbfcomics.com/&#34;&gt;The Perry Bible Fellowship&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://victoria.dev&#34;&gt;Victoria Drake&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://winnielim.org/&#34;&gt;Winnie Lim&lt;/a&gt;&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is a developer who deep-dives into various topics,
+including computer latencies, cocktail party ideas, and
+everything in between, housed in a barely-formatted website.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://www.conscienceround.com/&#34;&gt;Em&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;likes writing, and people, and maybe writing about people, that maybe
+gut-punches the reader, but not in a horrible way.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://drewdevault.com&#34;&gt;Drew DeVault&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is a developer, probably most known for coming up with Sway window manager, who also has important political takes concerning &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;FOSS&lt;/a&gt;.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://www.engineeringforchange.org&#34;&gt;Engineering For Change&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;&amp;ldquo;bridges engineering and sustainable development&amp;rdquo; in their site.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://ethical.net&#34;&gt;Ethical Network&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;looks for ways to make the &amp;ldquo;ethical the new normal,&amp;rdquo; either by
+recommending
+more sustainable laptops or by de-googling one&amp;rsquo;s lifestyle.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://falseknees.tumblr.com/&#34;&gt;False Knees&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is an Art Tumblr, containing mostly webcomics about birds.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://gemmacope.land/&#34;&gt;Gemma Copeland&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is interested in and works on many things, including &amp;ldquo;imagin[ing] post-growth
+futures,&amp;rdquo; something I also find myself thinking about on a regular
+basis.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://hunden.linuxkompis.se/&#34;&gt;Hund&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is a &amp;ldquo;slow-tech philosopher&amp;rdquo; who is into computer stuff. We
+align on many things computer-related, but I always find
+something to learn from them.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://100r.co&#34;&gt;Hundred Rabbits&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is a two-person artist collective who, most of the time, operates on their
+sailboat Pino, making art using some of their homebrewed FOSS.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;Low-tech Magazine&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;explores &amp;ldquo;past and often
+forgotten technologies and how they can inform sustainable energy
+practices&amp;rdquo; from their solar-powered server in Barcelona.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://everythingchanges.us/&#34;&gt;Mandy Brown&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;talks about the more progressive practices that we could/should have
+in our workplaces.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://manuelmoreale.com/&#34;&gt;Manu Moreale&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;loves (maybe) the Venn diagram of minimalism and web development,
+and often talks about the overlap of the two.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://nadia.xyz/&#34;&gt;Nadia Asparouhova&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is a researcher that looks into the &amp;ldquo;tech industry&amp;rsquo;s growing social
+and political influence.&amp;rdquo;&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://dataswamp.org/~solene/&#34;&gt;Solène Rapenne&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;likes to share her findings on niche operating systems like NixOS
+and BSDs.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://pbfcomics.com/&#34;&gt;The Perry Bible Fellowship&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is a webcomics drawn by Nicholas Gurewitch with good art laced with a
+tinge of dark humor.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://winnielim.org/&#34;&gt;Winnie Lim&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;tries to lead a purposeless life and writes publicly about it such
+that I question myself when am I going to be deliberate about my
+aimlessness.&lt;/dd&gt;
+&lt;/dl&gt;
 </description>
     </item>
     
