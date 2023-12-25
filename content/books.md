@@ -50,4 +50,5 @@ I read slowly, you might notice.
 | Fahrenheit 451                                                                                          | Ray Bradbury                               |
 | The Witches                                                                                             | Roald Dahl                                 |
 | [The Man Without Talent](/148/#brief-review-of-the-man-without-talent) (無能の人)                       | Yoshiharu Tsuge 柘植義春                   |
-| [The Philippines Is Not A Small Country](/149/#brief-review-on-the-philippines-is-not-a-small-country) | Gideon Lasco                               |
+| [The Philippines Is Not A Small Country](/149/#brief-review-of-the-philippines-is-not-a-small-country)  | Gideon Lasco                               |
+| [Some People Need Killing](/151/#brief-review-of-some-people-need-killing)                              | Patricia Evangelista                       |

@@ -16,7 +16,7 @@ everything in between, housed in a barely-formatted website.
 gut-punches the reader, but not in a horrible way.
 
 [Drew DeVault](https://drewdevault.com)
-: is a developer, probably most known for coming up with Sway window manager, who also has important political takes concerning [FOSS](/foss).
+: is a developer, probably most known for coming up with Sway window manager, who also has important (controversial?) political takes related to [FOSS](/foss).
 
 [Engineering For Change](https://www.engineeringforchange.org)
 : "bridges engineering and sustainable development" in their site.
