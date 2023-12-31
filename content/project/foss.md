@@ -104,7 +104,7 @@ other annoying parts of YouTube Videos.
 
 ## Search Engines
 - [Searx](https://searx.be/) -- the meta-search engine I use daily.
-- [Startpage](https://www.startpage.com/) -- the default search engine I set up
+- [Ecosia](https://www.ecosia.org/) -- the default search engine I set up
   in my work computer
 
 {{< btt >}}
@@ -174,11 +174,5 @@ password manager).
 and watch it with mpv or VLC
 - [PeerTube](https://joinpeertube.org/) -- Not really YouTube per se.
 A decentralized alternative to video sharing platforms.
-
-{{< btt >}}
-
-## Research Assistant
-
-- [Zotero](https://zotero.org) is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research.
 
 {{< btt >}}
