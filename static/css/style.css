@@ -43,29 +43,16 @@ footer :target {font-weight:bold}
 .statusDone { color: #371a33; background-color: #32cd32; padding:0.1em }
 .statusClosed { color: #333; background-color: #c7c7c7; padding:0.1em }
 a.btt {font-size: 0.8em; text-align: right; text-decoration: none}
-.webring .articles {
-  display: flex;
-  flex-wrap: wrap;
-  margin: -0.5rem;
-}
-.webring .title {
-  margin: 0;
-}
+
+.webring .articles {display: flex;flex-direction: column;}
+.webring .title {margin: 0;}
 .webring .article {
-  flex: 1 1 0;
+  flex: 1;
   display: flex;
   flex-direction: column;
   margin: 0.5rem;
   padding: 0.5rem;
   background: #011627;
-  min-width: 10rem;
 }
-.webring .summary {
-  font-size: 0.8rem;
-  flex: 1 1 0;
-}
-.webring .attribution {
-  text-align: right;
-  font-size: 0.8rem;
-  color: #edf2ea;
-}
+.webring .summary {font-size: 0.8rem;flex: 1;}
+.webring .attribution {float: right;font-size: 0.8rem;color: #edf2ea;}
