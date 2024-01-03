@@ -9,7 +9,7 @@ Associate Project Manager @ Kantar Philippines Inc. (2 years)
 Assistant Project Manager @ Jones Lang LaSalle (Philippines), Inc. (3 years)  
 Project Engineer @ Archen Technologies, Inc. (2 years)
 
-Speaks Filipino (native) and English (fluent).
+Speaks Filipino (native) and English (fluent)
 
 Interested in: creativity, technology, and the intersection of two
 

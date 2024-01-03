@@ -97,6 +97,8 @@ This means that:
 
 I consider these points important as they all relate to my current situation.
 In fact, websites should be guided by these principles.
+And because of this, this site scores
+[100/100 according to Yellow Lab Tools](https://yellowlab.tools/result/gs32wi1508).
 
 {{< btt >}}
 ### Typography

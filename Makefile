@@ -30,6 +30,7 @@ get:
 .PHONY: build
 build:
 	@echo "Generating site"
+	/home/user/oblong/feeds
 	hugo --cleanDestinationDir --gc -d $(DESTDIR)
 
 .PHONY: deploy
