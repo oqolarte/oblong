@@ -52,11 +52,11 @@ practices" from their solar-powered server in Barcelona.
 : talks about the more progressive practices that we could/should have
 in our workplaces.
 
-[Manu Moreale](https://manuelmoreale.com/)  
+[Manu Moreale](https://manuelmoreale.com/)
 : loves (maybe) the Venn diagram of minimalism and web development,
 and often talks about the overlap of the two.
 
-[Nadia Asparouhova](https://nadia.xyz/)  
+[Nadia Asparouhova](https://nadia.xyz/)
 : is a researcher that looks into the "tech industry's growing social
 and political influence."
 

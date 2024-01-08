@@ -42,7 +42,7 @@ footer :target {font-weight:bold}
 .statusOpen { color: #85fcfc; background-color: #8a0303; padding:0.1em }
 .statusDone { color: #371a33; background-color: #32cd32; padding:0.1em }
 .statusClosed { color: #333; background-color: #c7c7c7; padding:0.1em }
-a.btt {font-size: 0.8em; text-align: right; text-decoration: none}
+a.btt {font-size: 0.8em; float: right; text-decoration: none}
 
 .webring .articles {display: flex;flex-direction: column;}
 .webring .title {margin: 0;}

@@ -26,7 +26,7 @@ because they help me grow and learn.
 If you just want to share ideas,
 my inbox welcomes those as well.
 
-Feel free to message me!
+Feel free to message me, email in footer!
 
 ## Financial support
 - [Liberapay](https://liberapay.com/oqo_frxbj/donate)
@@ -43,13 +43,11 @@ The wishlist below hopefully reflects that.
 Please email me first if you plan to give me any of these.
 
 - New 6- or 9-cell battery for Thinkpad X220/X230
-- New battery for MSI Wind U123
-- Raspberry Pi (any model), used and in good working condition[^used]
+- Single-board computer (any model), used and in good working condition[^used]
 - E-book reader, used and in good working condition
 - Mechanical keyboard, 75% or 80% (tenkeyless, TKL)
-- Crowbar or wrecking bar
 - Chain mail[^chain]
-- Canon Powershot S120
+- Canon Powershot G7x Mark II
 - Typewriter in working condition, preferably the portable kind
 - Multitool: Victorinox Swiss Compact or SOG PowerPint
 

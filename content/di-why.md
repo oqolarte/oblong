@@ -8,20 +8,16 @@ Doing side projects keep me sharp.
 In the process, I'll try to document each step,
 and publish whatever findings I might have here for public (re)viewing.
 
-Like many, my interests oscillate wildly,[^smiths]
+Like many, my interests change over time,
 so the ideas listed here can't be lumped into one big category.
 The length of list changes from time to time,
 depending on my current situation.
 "Life happens," they say.
 I tend to agree.
 
-[^smiths]: AKA an instrumental track from The Smiths.
-Listen [here](https://youtu.be/7iYUdS3DmFU) (YouTube)
-
 Anyway, here is the list, in no particular order:
 
 1. Wifi antenna
-1. Water filter
 1. Soap from used oil
 1. Hand tools
 1. Computer monitor upcycled from an old laptop
