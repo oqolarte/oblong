@@ -8,8 +8,8 @@
 <section class="articles">
     {{range .Articles}}
     <div class="article">
-        <a href="{{.Link}}" style="font-weight: bold" target="_blank" rel="noopener">{{.Title}}</a> <span style="font-size:0.7em"> via <a href="{{.SourceLink}}">{{.SourceTitle}}</a> </span>
-      <p>{{.Summary}}</p>
+        <a href="{{.Link}}" class="title" target="_blank" rel="noopener">{{.Title}}</a> <span class="blogsite"> via <a href="{{.SourceLink}}">{{.SourceTitle}}</a> </span>
+      <p class="summary">{{.Summary}}</p>
     </div>
     {{end}}
   </p>
