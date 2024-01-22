@@ -1268,6 +1268,12 @@ Status:
 &lt;strong&gt;ON-GOING&lt;/strong&gt;
 &lt;/p&gt;
 
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/bujos.jpg&#34;
+         alt=&#34;picture of personal journals lined up on a shelf, on each of their spine are dates during which they were used&#34;/&gt;&lt;figcaption&gt;
+            &lt;p&gt;Current line up&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;I have been bullet-journaling (bujo) since I first chanced on it on 2015.
 It made sense to me at the time, and it still does.&lt;/p&gt;
 &lt;p&gt;Our technology rushed to the digital.
@@ -11033,11 +11039,12 @@ in which I often choose simple solutions.&lt;/p&gt;
         &lt;li&gt;&lt;a href=&#34;#no-javascript&#34;&gt;No JavaScript?&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#no-ads&#34;&gt;No Ads&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#images&#34;&gt;Images&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#comment-section&#34;&gt;Comment section&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#back-end&#34;&gt;Back-end&lt;/a&gt;
       &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#in-the-name-of-static-site-generator-ssg&#34;&gt;In the name of Static Site Generator (SSG)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#on-static-site-generators-ssg&#34;&gt;On Static Site Generators (SSG)&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#using-hugo&#34;&gt;Using Hugo&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#disabling-internal-templates&#34;&gt;Disabling Internal Templates&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#privacy&#34;&gt;Privacy&lt;/a&gt;&lt;/li&gt;
@@ -11105,12 +11112,12 @@ a software that can forward your RSS feeds to your email.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
-&lt;p&gt;This site&amp;rsquo;s design borders on brutalism.
-Admittedly, it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS,
-and virtually none of JavaScript.
-It turns out that this is a feature, not a bug, for static websites anyway.&lt;/p&gt;
+&lt;p&gt;I borrow design principles from brutalism for this site. Admittedly,
+it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and
+virtually none of JavaScript. It turns out that this is a feature, not a
+bug, for static websites anyway.&lt;/p&gt;
 &lt;p&gt;By foregoing intricate UI/UX design, I can focus on what matters most: &lt;em&gt;content&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;By simplifying the design, I&amp;rsquo;m making this site less bloated.
+&lt;p&gt;Through simplicity, I&amp;rsquo;m making this site less bloated.
 This means that:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;&lt;/li&gt;
@@ -11120,8 +11127,8 @@ This means that:&lt;/p&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I consider these points important as they all relate to my current situation.
-In fact, websites should be guided by these principles.
-And because of this, this site scores
+In fact, websites should be guided by these principles.&lt;/p&gt;
+&lt;p&gt;And because of these, this site scores
 &lt;a href=&#34;https://yellowlab.tools/result/gs32wi1508&#34;&gt;100/100 according to Yellow Lab Tools&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -11202,7 +11209,7 @@ These can be achieved without JS.&lt;/p&gt;
 
 &lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
 &lt;p&gt;Only marketers like ads.
-I don&amp;rsquo;t intend on monetizing this with ads.&lt;/p&gt;
+I don&amp;rsquo;t intend on monetizing this site with ads.&lt;/p&gt;
 &lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -11228,28 +11235,55 @@ There are several tools you can use to do this.
 &lt;li&gt;&lt;code&gt;-x&lt;/code&gt; is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--quality&lt;/code&gt; is the quality factor.
-Here, I set it to 85.&lt;/li&gt;
+Here, I set it to 85%.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--optimize&lt;/code&gt; does exactly that to the image.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;-ew&lt;/code&gt; combines two options: optimize, erase EXIF metadata&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, and overwrite source images respectively.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;-ew&lt;/code&gt; combines two options: &lt;em&gt;erase&lt;/em&gt; exchangeable image file format
+(EXIF) metadata, and &lt;em&gt;overwrite&lt;/em&gt; source images respectively. Deleting
+EXIF metadata, which might include date, time, and/or location of
+creation, helps reduce the image size.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;comment-section&#34;&gt;Comment section&lt;/h3&gt;
+&lt;p&gt;There is no comment section in this site. It&amp;rsquo;s both social and technical
+burden on me to implement and moderate. But honestly, the tools out
+there just don&amp;rsquo;t meet my criteria.&lt;/p&gt;
+&lt;p&gt;One can still send their thoughts via this protocol called email, and
+mine is always at the footer! Sending comments via email is
+old school, but I feel like it promotes more thoughtful discussion
+rather than needless debate. The &amp;ldquo;friction&amp;rdquo; of having to open one&amp;rsquo;s
+email client certainly makes one be deliberate about the message they&amp;rsquo;re
+planning to send.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator to build this site.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h3 id=&#34;in-the-name-of-static-site-generator-ssg&#34;&gt;In the name of Static Site Generator (SSG)&lt;/h3&gt;
-&lt;p&gt;Using SSG like Hugo arguably increases security by simplifying a lot of things&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.
-There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.&lt;/p&gt;
-&lt;p&gt;In many SSGs, content is written in Markdown, a simple markup &amp;ldquo;language&amp;rdquo; for creating formatted text using a plaintext editor.
-Markdown files (&lt;code&gt;.md&lt;/code&gt;) are lightweight, portable, easy to backup, and transfer between computers.&lt;/p&gt;
-&lt;p&gt;Generation time depends on the size and volume of files that need to be compiled.
-Some SSGs could take up to a minute to build one whole site;
+&lt;h3 id=&#34;on-static-site-generators-ssg&#34;&gt;On Static Site Generators (SSG)&lt;/h3&gt;
+&lt;p&gt;Using SSG like Hugo arguably increases security by simplifying a lot of
+things. There is no server-side software to install, no database to keep
+up to date, and no PHP plugins to upgrade. It&amp;rsquo;s also an elegant solution
+for read-only blogs like this one.&lt;/p&gt;
+&lt;p&gt;In many SSGs, content is written in Markdown, a simple markup &amp;ldquo;language&amp;rdquo;
+for creating formatted text using a plaintext editor. Markdown files
+(&lt;code&gt;.md&lt;/code&gt;) are lightweight, portable, easy to backup, and transfer between
+computers.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pandoc.org/&#34;&gt;Pandoc&lt;/a&gt; can also be used to generate HTML pages
+for a website. It&amp;rsquo;s easy to install. You can convert Markdown to HTML,
+and use those in your site. (Note: Pandoc is
+a &amp;ldquo;universal document converter,&amp;rdquo; it offers many uses outside of HTML
+generation, such as converting &lt;code&gt;.docx&lt;/code&gt; to &lt;code&gt;.pdf&lt;/code&gt;.)&lt;/p&gt;
+&lt;p&gt;Generation time depends on the size and volume of files that need to be
+compiled. Some SSGs could take up to a minute to build one whole site;
 some only &lt;em&gt;milliseconds&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;It &lt;em&gt;is&lt;/em&gt; tedious to go through all that.
-Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog,
-with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.&lt;/p&gt;
-&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; anytime!&lt;/p&gt;
+&lt;p&gt;For many, it &lt;em&gt;can&lt;/em&gt; be tedious to go through all that. Unlike in
+what-you-see-is-what-you-get (WYSIWYG) content management systems (CMS)
+like Wordpress in which you can easily post a new blog, with SSGs, you
+will have to, at least, type your post offline, compile, and then push
+to your web host.&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs anytime!
+See Jamstack for their list of &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Site Generators&lt;/a&gt; if you want to know more.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
@@ -11280,8 +11314,8 @@ and I don&amp;rsquo;t have any use for them. They are:&lt;/p&gt;
 &lt;li&gt;Vimeo&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;To have a privacy-centered configuration,
-I followed &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;this documentation&lt;/a&gt;
-and &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/#disable-all-services&#34;&gt;disabled all services&lt;/a&gt;.&lt;/p&gt;
+learn more about &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Hugo and the General Data Protection Regulation&lt;/a&gt;
+to &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/#disable-all-services&#34;&gt;disable all services&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;privacy&#34;&gt;Privacy&lt;/h3&gt;
@@ -11326,8 +11360,8 @@ my site scores &lt;code&gt;A+&lt;/code&gt; in &lt;a href=&#34;https://observator
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;In high school, computer lab was not my favorite, and I&amp;rsquo;m okay with that.&lt;/p&gt;
-&lt;p&gt;One of our lab works was to create our own (offline) website.
+&lt;p&gt;Computer laboratory was not my favorite back in high school.
+One of our lab works was to create our own (offline) website.
 It had to be interesting, catchy.
 That&amp;rsquo;s why many of my classmates had &lt;code&gt;&amp;lt;marquee&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags in their works.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t remember how mine looked, but I&amp;rsquo;m sure it&amp;rsquo;s basic,
@@ -11342,29 +11376,13 @@ web designers and developers &lt;em&gt;must see to it&lt;/em&gt; that everyone c
 &lt;p&gt;Here are some other sites from which I also got inspiration:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;LOW←TECH MAGAZINE, the &lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;solar-powered one&lt;/a&gt;. Their article on &lt;a href=&#34;https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html&#34;&gt;how to build a low-tech website&lt;/a&gt; is eye-opening.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;, and even &lt;a href=&#34;https://10kbclub.com&#34;&gt;10KB Club&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;The &amp;ldquo;&lt;a href=&#34;https://bestmotherfucking.website&#34;&gt;Best Motherfucking Website&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&amp;rsquo;s website&lt;/a&gt;, although it begs a few design tweaks to improve readability.&lt;/li&gt;
 &lt;li&gt;And other small, obscure personal blogs in the &amp;ldquo;smol net&amp;rdquo; and &amp;ldquo;dork web&amp;rdquo; that we have yet to discover.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
-As an added bonus, it&amp;rsquo;s scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;Or, if you have &lt;a href=&#34;https://pandoc.org/&#34;&gt;Pandoc&lt;/a&gt; in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
-It takes some fiddling around the documentation, but it can be done.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;
-&lt;p&gt;Check out &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Jamstack&lt;/a&gt; for a list of hundreds of possible SSGs!&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
 </description>
     </item>
     

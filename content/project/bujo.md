@@ -6,6 +6,8 @@ draft: false
 ---
 {{< ongoing >}}
 
+{{< figure src="/image/bujos.jpg" alt="picture of personal journals lined up on a shelf, on each of their spine are dates during which they were used" caption="Current line up" >}}
+
 I have been bullet-journaling (bujo) since I first chanced on it on 2015.
 It made sense to me at the time, and it still does.
 

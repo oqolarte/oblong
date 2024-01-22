@@ -8,10 +8,66 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (Ohio Olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (Ohio Olarte)</webMaster>
-    <lastBuildDate>Sun, 14 Jan 2024 01:48:19 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 02:12:02 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What People Have Been Saying</title>
+      <link>https://ohio.araw.xyz/testi/</link>
+      <pubDate>Wed, 17 Jan 2024 22:21:56 +0800</pubDate>
+      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <guid>https://ohio.araw.xyz/testi/</guid>
+      <description>&lt;p&gt;During the peak of
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Friendster&#34;&gt;Friendster&lt;/a&gt; in our country,
+people displayed their testimonials. Many took acquiring them seriously.
+In the spirit of &lt;em&gt;testi&lt;/em&gt;, and being the nostal-junkie that I am,
+the following are written affirmations from different people I have
+interacted with in some capacity. Many, if not all, are edited for
+clarity and/or anonymized for privacy.&lt;/p&gt;
+&lt;h2 id=&#34;testis&#34;&gt;&lt;em&gt;Testi&lt;/em&gt;s&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Well-rounded as [project manager]. Can handle a team effectively.
+Very supportive to his teammates.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;[&amp;hellip;] You do so well to keep across all stakeholders [&amp;hellip;] and help
+everything to run as smoothly as possible. I&amp;rsquo;m very appreciative of
+your hard work and effort on our accounts and think you do a brilliant
+job of keeping on top of all the moving parts [&amp;hellip;]&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Ohio is patient and works well under pressure. [He also] seems to be
+well organized and have a good understanding of the projects he works
+on. He is also very nice and always willing to help (when he has time
+to do so).&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Ohio is always very friendly and reasonable to deal with, his
+responses are both timely and clear. He feels like a valuable part of
+any team.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;I appreciate Ohio has a really challenging and demanding role working
+across multiple accounts on multiple projects. [T]aking that into
+consideration, I think Ohio does an amazing job at communicating
+clearly and efficiently. He always replies promptly, is always able to
+answer questions or know who will have the answers. I&amp;rsquo;ve really
+appreciated Ohio&amp;rsquo;s willingness to go above and beyond to deliver work
+on tight timelines when we have client deadlines.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Easy to communicate with, provide strong sense of collaboration and
+executing the project smoothly.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Very good in managing tasks. Always ready to offer help to
+colleagues. Always clear when communicating with others.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;More soon&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tools I Regularly Use</title>
@@ -235,6 +291,7 @@ I read slowly, you might notice.&lt;/p&gt;
 days, that &lt;em&gt;thing&lt;/em&gt; skews abstract, but I hope to create more tangible
 things using different tools (&lt;a href=&#34;https://ohio.araw.xyz/tools&#34;&gt;hardware&lt;/a&gt; and &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;software&lt;/a&gt; alike) that might be
 useful. When I have time, I also read all kinds of &lt;a href=&#34;https://ohio.araw.xyz/books&#34;&gt;books&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sometimes, people say &lt;a href=&#34;https://ohio.araw.xyz/testi&#34;&gt;good things&lt;/a&gt; about me.&lt;/p&gt;
 &lt;p&gt;For my professional background
 check my &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt; or download the &lt;a href=&#34;https://ohio.araw.xyz/cv.pdf&#34;&gt;pdf&lt;/a&gt; version.
 References are available on request.&lt;/p&gt;
@@ -398,19 +455,20 @@ aimlessness.&lt;/dd&gt;
       <description>&lt;p&gt;Ideas, opinions, and/or views&amp;mdash;original
 or rehashed&amp;mdash;expressed here are mine alone,
 NOT of my past, present, nor future colleagues, employer/s, families and friends.
-They may change at any point in time&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+They may change at any point in time.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Any content is provided &amp;ldquo;as is&amp;rdquo; and I disclaim all warranties.
-Although I try my best to ensure correctness,
+Although I try my best to vet the ideas and ensure correctness,
 content might still include errors
 because of my biases and/or general ignorance,
 and I don&amp;rsquo;t take responsibility for any damages to anything as result.
-If you see any error, please let me know through email&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;This site contains links to external websites and/or services.
-I include these links as a convenience and for informational purposes only;
-neither do I endorse nor approve of any of the products, services, or opinions of the corporation or organization or individual.
-I bear no responsibility for the accuracy,
-legality, or content of the external site or for that of subsequent links.
-Contact the external site for answers to questions regarding its content.&lt;/p&gt;
+If you see any error, please let me know through email.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;This site contains links to external websites and/or services. I include
+these links as a convenience and for learning and having fun only.
+Neither do I endorse nor approve of any of the products, services, or
+opinions of the corporation or organization or individual. I bear no
+responsibility for the accuracy, legality, or content of the external
+site or for that of subsequent links. Contact the external site for
+answers to questions regarding its content.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

@@ -80,14 +80,14 @@ a software that can forward your RSS feeds to your email.
 {{< btt >}}
 ## Front-end
 
-This site's design borders on brutalism.
-Admittedly, it's the result of having only a working knowledge of HTML and CSS,
-and virtually none of JavaScript.
-It turns out that this is a feature, not a bug, for static websites anyway.
+I borrow design principles from brutalism for this site. Admittedly,
+it's the result of having only a working knowledge of HTML and CSS, and
+virtually none of JavaScript. It turns out that this is a feature, not a
+bug, for static websites anyway.
 
 By foregoing intricate UI/UX design, I can focus on what matters most: *content*.
 
-By simplifying the design, I'm making this site less bloated.
+Through simplicity, I'm making this site less bloated.
 This means that:
 - low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;
 - locations with poor internet connectivity can still browse the content;
@@ -97,7 +97,8 @@ This means that:
 
 I consider these points important as they all relate to my current situation.
 In fact, websites should be guided by these principles.
-And because of this, this site scores
+
+And because of these, this site scores
 [100/100 according to Yellow Lab Tools](https://yellowlab.tools/result/gs32wi1508).
 
 {{< btt >}}
@@ -197,7 +198,7 @@ There's also less code to maintain, so that's a bonus, too!
 ### No Ads
 
 Only marketers like ads.
-I don't intend on monetizing this with ads.
+I don't intend on monetizing this site with ads.
 
 Also, did you know that a lot of online advertising you see depends on JS?
 
@@ -231,9 +232,27 @@ imgp -x 1366x0 --quality=85 -ew --optimize ~/image.jpg
 - `-x` is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.
 - `--quality` is the quality factor.
-Here, I set it to 85.
+Here, I set it to 85%.
 - `--optimize` does exactly that to the image.
-- `-ew` combines two options: optimize, erase EXIF metadata[^metadata], and overwrite source images respectively.
+- `-ew` combines two options: *erase* exchangeable image file format
+  (EXIF) metadata, and *overwrite* source images respectively. Deleting
+  EXIF metadata, which might include date, time, and/or location of
+  creation, helps reduce the image size.
+
+{{< btt >}}
+
+### Comment section
+
+There is no comment section in this site. It's both social and technical
+burden on me to implement and moderate. But honestly, the tools out
+there just don't meet my criteria.
+
+One can still send their thoughts via this protocol called email, and
+mine is always at the footer! Sending comments via email is
+old school, but I feel like it promotes more thoughtful discussion
+rather than needless debate. The "friction" of having to open one's
+email client certainly makes one be deliberate about the message they're
+planning to send.
 
 {{< btt >}}
 ## Back-end
@@ -241,26 +260,36 @@ Here, I set it to 85.
 I use [Hugo](https://gohugo.io) static site generator to build this site.
 
 {{< btt >}}
-### In the name of Static Site Generator (SSG)
+### On Static Site Generators (SSG)
 
-Using SSG like Hugo arguably increases security by simplifying a lot of things[^pandoc].
-There is no server-side software to install, no database to keep up to date, and no PHP plugins to upgrade.
+Using SSG like Hugo arguably increases security by simplifying a lot of
+things. There is no server-side software to install, no database to keep
+up to date, and no PHP plugins to upgrade. It's also an elegant solution
+for read-only blogs like this one.
 
-[^pandoc]: Or, if you have [Pandoc](https://pandoc.org/) in your computer (installation is easy), you can convert Markdown to HTML, and use those in your site.
-It takes some fiddling around the documentation, but it can be done.
+In many SSGs, content is written in Markdown, a simple markup "language"
+for creating formatted text using a plaintext editor. Markdown files
+(`.md`) are lightweight, portable, easy to backup, and transfer between
+computers.
 
-In many SSGs, content is written in Markdown, a simple markup "language" for creating formatted text using a plaintext editor.
-Markdown files (`.md`) are lightweight, portable, easy to backup, and transfer between computers.
+[Pandoc](https://pandoc.org/) can also be used to generate HTML pages
+for a website. It's easy to install. You can convert Markdown to HTML,
+and use those in your site. (Note: Pandoc is
+a "universal document converter," it offers many uses outside of HTML
+generation, such as converting `.docx` to `.pdf`.)
 
-Generation time depends on the size and volume of files that need to be compiled.
-Some SSGs could take up to a minute to build one whole site;
+Generation time depends on the size and volume of files that need to be
+compiled. Some SSGs could take up to a minute to build one whole site;
 some only *milliseconds*.
 
-It *is* tedious to go through all that.
-Unlike what-you-see-is-what-you-get (WYSIWYG) CMS like Wordpress in which you can easily post a new blog,
-with SSGs, you will have to, at least, type your post offline, compile, and then push to your web host.
+For many, it *can* be tedious to go through all that. Unlike in
+what-you-see-is-what-you-get (WYSIWYG) content management systems (CMS)
+like Wordpress in which you can easily post a new blog, with SSGs, you
+will have to, at least, type your post offline, compile, and then push
+to your web host.
 
-But I'll take the massive freedom gains provided by SSGs[^SSG] anytime!
+But I'll take the massive freedom gains provided by SSGs anytime!
+See Jamstack for their list of [Site Generators](https://jamstack.org/generators/) if you want to know more.
 
 {{< btt >}}
 ### Using Hugo
@@ -296,11 +325,12 @@ and I don't have any use for them. They are:
 - Vimeo
 
 To have a privacy-centered configuration,
-I followed [this documentation](https://gohugo.io/about/hugo-and-gdpr/)
-and [disabled all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
+learn more about [Hugo and the General Data Protection Regulation](https://gohugo.io/about/hugo-and-gdpr/)
+to [disable all services](https://gohugo.io/about/hugo-and-gdpr/#disable-all-services).
 
 {{< btt >}}
 ### Privacy
+
 As far as I'm aware,
 this site:
 - has no ad trackers
@@ -348,8 +378,7 @@ my site scores `A+` in [Mozilla Observatory](https://observatory.mozilla.org/).
 {{< btt >}}
 ## Inspiration
 
-In high school, computer lab was not my favorite, and I'm okay with that.
-
+Computer laboratory was not my favorite back in high school.
 One of our lab works was to create our own (offline) website.
 It had to be interesting, catchy.
 That's why many of my classmates had `<marquee>` and `<blink>` tags in their works.
@@ -369,13 +398,11 @@ web designers and developers *must see to it* that everyone can access informati
 Here are some other sites from which I also got inspiration:
 
 - LOW←TECH MAGAZINE, the [solar-powered one](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
-- [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club), and even [10KB Club](https://10kbclub.com)
+- [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club).
 - The "[Best Motherfucking Website](https://bestmotherfucking.website)"
 - [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
 - And other small, obscure personal blogs in the "smol net" and "dork web" that we have yet to discover.
 
 {{< btt >}}
 
-[^metadata]: Exchangeable image file format (EXIF) metadata is removed to help  reduce the image size.
-As an added bonus, it's scrubs the image of details that might divulge unnecessary information to internet strangers when they inspect it, such as data, time, and location the image is created.
-[^SSG]: Check out [Jamstack](https://jamstack.org/generators/) for a list of hundreds of possible SSGs!
+[^metadata]: 

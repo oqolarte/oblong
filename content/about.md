@@ -12,6 +12,8 @@ days, that *thing* skews abstract, but I hope to create more tangible
 things using different tools ([hardware](/tools) and [software](/foss) alike) that might be
 useful. When I have time, I also read all kinds of [books](/books).
 
+Sometimes, people say [good things](/testi) about me.
+
 For my professional background
 check my [CV](/cv) or download the [pdf](/cv.pdf) version.
 References are available on request.
