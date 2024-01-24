@@ -241,7 +241,7 @@ Here, I set it to 85%.
 
 {{< btt >}}
 
-### Comment section
+### Comments section
 
 There is no comment section in this site. It's both social and technical
 burden on me to implement and moderate. But honestly, the tools out
@@ -253,6 +253,10 @@ old school, but I feel like it promotes more thoughtful discussion
 rather than needless debate. The "friction" of having to open one's
 email client certainly makes one be deliberate about the message they're
 planning to send.
+
+Also, if we know each other personally, feel free to message your
+comments to me directly via Signal, assuming we already have each
+other's contact details.
 
 {{< btt >}}
 ## Back-end

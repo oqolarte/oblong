@@ -11039,7 +11039,7 @@ in which I often choose simple solutions.&lt;/p&gt;
         &lt;li&gt;&lt;a href=&#34;#no-javascript&#34;&gt;No JavaScript?&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#no-ads&#34;&gt;No Ads&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#images&#34;&gt;Images&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#comment-section&#34;&gt;Comment section&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#comments-section&#34;&gt;Comments section&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#back-end&#34;&gt;Back-end&lt;/a&gt;
@@ -11244,7 +11244,7 @@ creation, helps reduce the image size.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h3 id=&#34;comment-section&#34;&gt;Comment section&lt;/h3&gt;
+&lt;h3 id=&#34;comments-section&#34;&gt;Comments section&lt;/h3&gt;
 &lt;p&gt;There is no comment section in this site. It&amp;rsquo;s both social and technical
 burden on me to implement and moderate. But honestly, the tools out
 there just don&amp;rsquo;t meet my criteria.&lt;/p&gt;
@@ -11254,6 +11254,9 @@ old school, but I feel like it promotes more thoughtful discussion
 rather than needless debate. The &amp;ldquo;friction&amp;rdquo; of having to open one&amp;rsquo;s
 email client certainly makes one be deliberate about the message they&amp;rsquo;re
 planning to send.&lt;/p&gt;
+&lt;p&gt;Also, if we know each other personally, feel free to message your
+comments to me directly via Signal, assuming we already have each
+other&amp;rsquo;s contact details.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
