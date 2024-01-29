@@ -5,7 +5,7 @@ enableGitInfo = true
 
 [author]
     email = 'ohio@araw.xyz'
-    name = 'Ohio Olarte'
+    name = 'ohio olarte'
 
 [permalinks]
 	log = "/:filename:"
@@ -15,8 +15,18 @@ enableGitInfo = true
 	date = ["date", "publishDate"]
 	lastmod = [":git", "lastmod", ":fileModTime", ":default"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
 [params]
-	dateFormat = "2 Jan 2006"
+  dateFormat = "2 Jan 2006"
+  math = false
 
 [privacy]
 	[privacy.disqus]
@@ -31,3 +41,5 @@ enableGitInfo = true
 		disable = true
 	[privacy.youtube]
 		disable = true
+
+

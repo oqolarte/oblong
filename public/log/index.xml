@@ -6,17 +6,86 @@
     <description>Recent content in Log on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>ohio@araw.xyz (Ohio Olarte)</managingEditor>
-    <webMaster>ohio@araw.xyz (Ohio Olarte)</webMaster>
+    <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
+    <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
     
         <atom:link href="https://ohio.araw.xyz/log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Rambling on Parking like how we did here</title>
+      <link>https://ohio.araw.xyz/161/</link>
+      <pubDate>Sun, 28 Jan 2024 18:15:48 +0800</pubDate>
+      <author>ohio@araw.xyz (ohio olarte)</author>
+      <guid>https://ohio.araw.xyz/161/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Edited PDF in &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Edited some lines in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;. More specifically, this site now
+contains&amp;mdash;&lt;em&gt;drumroll&lt;/em&gt;&amp;mdash;JavaScript to render some maths. For example, this is the standard form of quadratic equation: \( ax^2 + bx + c = 0 \)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;math-typesetting&#34;&gt;Math Typesetting&lt;/h2&gt;
+&lt;p&gt;Just this week, I was looking for ways to incorporate math typesetting
+in this blog, and the result of that search are the following links,
+shared here for those who are interested:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mathscribe.com/author/jqmath.html&#34;&gt;jqmath&lt;/a&gt; is a JavaScript
+module that &amp;ldquo;makes it easy to put formatted mathematical expressions
+in web pages.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://katex.org/&#34;&gt;katex&lt;/a&gt; is a fast math typesetting library, poised
+to be an alternative to &lt;a href=&#34;https://www.mathjax.org/&#34;&gt;MathJax&lt;/a&gt;, another popular math typesetting JS.
+&lt;ul&gt;
+&lt;li&gt;Here is a &lt;a href=&#34;https://www.sixthform.info/katex/guide.html&#34;&gt;simple guide to using katex&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://asciimath.org/&#34;&gt;AsciiMath&lt;/a&gt; is another &amp;ldquo;easy-to-write&amp;rdquo; markup
+language for mathematics. But if I&amp;rsquo;m understanding the current
+documentation correctly, it works only in Firefox and Safari as of
+writing this.&lt;/li&gt;
+&lt;li&gt;Thomas Lochmatter maintains this &lt;a href=&#34;https://viereck.ch/latex-to-svg/index.html&#34;&gt;LaTeX to SVG&lt;/a&gt; web app for converting math LaTeX equation to a SVG&amp;mdash;useful for sharing image-based math formulas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I may not need these at all due to &lt;a href=&#34;https://github.com/gohugoio/hugo/releases/tag/v0.122.0&#34;&gt;recent updates on Hugo v0.122.0&lt;/a&gt;,
+which highlights LaTeX typesetting directly from Markdown.&lt;/p&gt;
+&lt;p&gt;A possible alternative I might explore in the future is to implement Joe
+Mooring&amp;rsquo;s way of converting math expressions to SVG as discussed in his
+article &lt;a href=&#34;https://www.veriphor.com/articles/mathematical-expressions/&#34;&gt;Mathematical expressions&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;done-with-applied-cryptography-specialization&#34;&gt;Done with &lt;em&gt;Applied Cryptography Specialization&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Over a month ago, I publicly announced that I was
+&lt;a href=&#34;https://ohio.araw.xyz/148/#dipping-toes-in-crypto&#34;&gt;dipping toes in cryptography&lt;/a&gt; as a form
+of accountability.&lt;/p&gt;
+&lt;p&gt;After weeks of on-and-off self-studying, I&amp;rsquo;m glad to share that I have
+now completed the program, and with it, a new certification:
+&lt;strong&gt;Introduction to Applied Cryptography Specialization from University of
+Colorado System&lt;/strong&gt;! Click here to view &lt;a href=&#34;https://www.coursera.org/account/accomplishments/specialization/VDBCUULAG5FR&#34;&gt;my credential via Coursera&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks to the instructors of the program, William Bahn, Richard White,
+and Sang-Yoon Chang for making this Massive Open Online Course (MOOC) available.&lt;/p&gt;
+&lt;h2 id=&#34;parking-issue-in-our-neighborhood&#34;&gt;Parking issue in our neighborhood&lt;/h2&gt;
+&lt;p&gt;We recently attended a meeting with the homeowners&amp;rsquo; association, and the
+agenda was about parking slots. In a middle-class neighborhood where
+residents have disposable income to avail their own car but not their
+own garage, the common street that we all share quickly clogs up with
+death machines. The heat escalates when people think they own the
+parking slot in front of their house, but other car owners use it
+because, they would argue, &amp;ldquo;it&amp;rsquo;s public property.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The meeting attempted to address this issue. Without an experienced
+facilitator, though, the [non?]discussion took longer than expected. Others
+walked out; many, including us, stayed, hoping to have a resolution.&lt;/p&gt;
+&lt;p&gt;After hours of meandering talk, the resolution is a &lt;em&gt;nuanced&lt;/em&gt; status
+quo, but status quo nonetheless. Yes, you read that right. I won&amp;rsquo;t
+bother you with more boring details, though.&lt;/p&gt;
+&lt;p&gt;In all the animated discussion, the topic of pedestrian welfare and how
+they&amp;mdash;we&amp;mdash;are affected by this parking issue was not brought up. The
+streets are not &amp;ldquo;meant for cars alone&amp;rdquo; contrary to what many people
+believe. It is a public space shared by all, and pedestrians shouldn&amp;rsquo;t have
+to jaywalk in and around vehicles, stationary or otherwise, in stupidly
+dangerous 30-kph residential streets, to get to their destinations safely.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Miracle of Night Walk</title>
       <link>https://ohio.araw.xyz/160/</link>
       <pubDate>Wed, 24 Jan 2024 12:46:39 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/160/</guid>
       <description>&lt;p&gt;Night walk with &lt;a href=&#34;https://ohio.araw.xyz/feb2022-photos/#day-17&#34;&gt;the dog&lt;/a&gt;, after spending the
 whole daytime glued to the work computer, heals all organs battered by
@@ -44,7 +113,7 @@ When it&amp;rsquo;s like this, don&amp;rsquo;t make me hate it.&lt;/p&gt;
       <title>Copypasta on FB and its significance</title>
       <link>https://ohio.araw.xyz/159/</link>
       <pubDate>Sun, 21 Jan 2024 02:12:02 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/159/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new page about &lt;a href=&#34;https://ohio.araw.xyz/testi&#34;&gt;what people have been saying about me&lt;/a&gt;.&lt;/li&gt;
@@ -142,7 +211,7 @@ But when does it become so?&lt;/p&gt;
       <title>Waking up in an urban space in January</title>
       <link>https://ohio.araw.xyz/158/</link>
       <pubDate>Sun, 14 Jan 2024 01:48:19 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/158/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Tweaked some minor CSS details.&lt;/li&gt;
@@ -173,7 +242,7 @@ lots which prevents heat from being released into the cold night sky.&lt;/p&gt;
       <title>Thinking about convenience</title>
       <link>https://ohio.araw.xyz/157/</link>
       <pubDate>Mon, 08 Jan 2024 00:23:51 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/157/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new page: &lt;a href=&#34;https://ohio.araw.xyz/tools&#34;&gt;Tools I Regularly Use&lt;/a&gt;&lt;/li&gt;
@@ -228,7 +297,7 @@ we&amp;rsquo;re releasing out there as convenience fee.&lt;/p&gt;
       <title>GOMBURZA (2023)</title>
       <link>https://ohio.araw.xyz/156/</link>
       <pubDate>Wed, 03 Jan 2024 07:32:03 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/156/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added &lt;a href=&#34;https://git.sr.ht/~sircmpwn/openring&#34;&gt;openring&lt;/a&gt; to &lt;a href=&#34;https://ohio.araw.xyz/log&#34;&gt;Log&lt;/a&gt;.&lt;/li&gt;
@@ -281,7 +350,7 @@ including Ambeth Ocampo and Xiao Chua.&lt;/li&gt;
       <title>MUZAK 2023</title>
       <link>https://ohio.araw.xyz/155/</link>
       <pubDate>Sun, 31 Dec 2023 00:46:12 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/155/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;FOSS&lt;/a&gt; page.&lt;/li&gt;
@@ -312,7 +381,7 @@ music-listening habits again.&lt;/p&gt;
       <title>Destroy Every Identifier</title>
       <link>https://ohio.araw.xyz/154/</link>
       <pubDate>Sat, 30 Dec 2023 10:53:05 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/154/</guid>
       <description>&lt;p&gt;My feelings toward December are usually &lt;em&gt;meh&lt;/em&gt;, and this year, it&amp;rsquo;s still
 true. Thoughts when I was much younger are surfacing, and the world
@@ -377,7 +446,7 @@ both of which appeal to me.&lt;/p&gt;
       <title>Mallari (2023)</title>
       <link>https://ohio.araw.xyz/153/</link>
       <pubDate>Wed, 27 Dec 2023 01:51:34 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/153/</guid>
       <description>&lt;p&gt;Metro Manila Film Festival is, once again, releasing good films.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Mallari&lt;/em&gt; (2023) is a horror-thriller headlined by Piolo Pascual.
@@ -406,7 +475,7 @@ it? We can&amp;rsquo;t know for sure until it&amp;rsquo;s too late.&lt;/p&gt;
       <title>Past Lives (2023)</title>
       <link>https://ohio.araw.xyz/152/</link>
       <pubDate>Tue, 26 Dec 2023 01:04:07 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/152/</guid>
       <description>&lt;p&gt;I recently watched &lt;em&gt;Past Lives&lt;/em&gt; (2023), written and directed by Celine
 Song. It got me thinking:&lt;/p&gt;
@@ -430,7 +499,7 @@ all there was to it.&lt;/p&gt;
       <title>Holidaze Dispatch 2023</title>
       <link>https://ohio.araw.xyz/151/</link>
       <pubDate>Mon, 25 Dec 2023 05:25:12 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/151/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Updated &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt;.&lt;/li&gt;
@@ -507,7 +576,7 @@ on the hard cover itself?&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;foot
       <title>Dread-filling</title>
       <link>https://ohio.araw.xyz/150/</link>
       <pubDate>Mon, 18 Dec 2023 03:24:04 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/150/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Updated the &lt;a href=&#34;https://ohio.araw.xyz/blogroll&#34;&gt;blogroll&lt;/a&gt; with more description.&lt;/li&gt;
@@ -562,7 +631,7 @@ I&amp;rsquo;m done with that. At least, for now.&lt;/p&gt;
       <title>On Reading Self, Texts, and People</title>
       <link>https://ohio.araw.xyz/149/</link>
       <pubDate>Mon, 11 Dec 2023 08:08:49 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/149/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/books&#34;&gt;a book&lt;/a&gt; I recently finished on the list. Brief review
@@ -640,7 +709,7 @@ to wake me up.&lt;/p&gt;
       <title>What the secret to work is</title>
       <link>https://ohio.araw.xyz/148/</link>
       <pubDate>Mon, 04 Dec 2023 03:16:08 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/148/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added links to &lt;a href=&#34;https://ohio.araw.xyz/books&#34;&gt;books&lt;/a&gt; I have reviewed.&lt;/li&gt;
@@ -745,7 +814,7 @@ several times better than new, exciting shifts.&lt;/p&gt;
       <title>Looking down on Mobility</title>
       <link>https://ohio.araw.xyz/147/</link>
       <pubDate>Mon, 27 Nov 2023 02:12:43 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/147/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added one book to the &lt;a href=&#34;https://ohio.araw.xyz/books&#34;&gt;Book list&lt;/a&gt;&lt;/li&gt;
@@ -794,7 +863,7 @@ of time that forces us Forward.&lt;/p&gt;
       <title>Musicals are cool; I&#39;m not...alone</title>
       <link>https://ohio.araw.xyz/146/</link>
       <pubDate>Fri, 17 Nov 2023 01:09:44 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/146/</guid>
       <description>&lt;p&gt;The concept of time and entropy is still too complex for me to fully
 understand. Yes, I have a general idea of what each of them mean, and
@@ -865,7 +934,7 @@ Tracking time means I know that soon I won&amp;rsquo;t be alone.&lt;/p&gt;
       <title>Long career for randomness</title>
       <link>https://ohio.araw.xyz/145/</link>
       <pubDate>Sun, 05 Nov 2023 04:21:36 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/145/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new webring to footer. Finally got added to the &lt;a href=&#34;https://webring.antaresph.dev/&#34;&gt;Pinoy Websites  Webring&lt;/a&gt;!&lt;/li&gt;
@@ -992,7 +1061,7 @@ playfulness of the duo.&lt;/p&gt;
       <title>Sliding in &amp; out of sleep</title>
       <link>https://ohio.araw.xyz/144/</link>
       <pubDate>Sat, 21 Oct 2023 10:42:59 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/144/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Minor edit in &lt;a href=&#34;https://ohio.araw.xyz/about&#34;&gt;About&lt;/a&gt; page.&lt;/li&gt;
@@ -1039,7 +1108,7 @@ But that can be ammended by technology through the use of GPS, right?&lt;/p&gt;
       <title>Randomness in Muzak and Rides to Work</title>
       <link>https://ohio.araw.xyz/143/</link>
       <pubDate>Tue, 10 Oct 2023 01:57:05 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/143/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited some details &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;FOSS&lt;/a&gt;.&lt;/li&gt;
@@ -1113,7 +1182,7 @@ to move around cities in two wheels.&lt;/p&gt;
       <title>Burn Through</title>
       <link>https://ohio.araw.xyz/142/</link>
       <pubDate>Mon, 02 Oct 2023 06:03:50 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/142/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt;&lt;/li&gt;
@@ -1152,7 +1221,7 @@ and I mean that in a good way.&lt;/p&gt;
       <title>Minor New Things</title>
       <link>https://ohio.araw.xyz/141/</link>
       <pubDate>Thu, 28 Sep 2023 05:40:42 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/141/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Upgraded server from Debian 11 to Debian 12.&lt;/li&gt;
@@ -1176,7 +1245,7 @@ the benefits of having a bike in rage-filled urban city centers.&lt;/p&gt;
       <title>Waiting for things, people, luck</title>
       <link>https://ohio.araw.xyz/140/</link>
       <pubDate>Sun, 24 Sep 2023 01:11:29 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/140/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed to &lt;a href=&#34;https://ohio.araw.xyz/foss/#operating-system&#34;&gt;new OS&lt;/a&gt;! My main computer is now running Alpine Linux.
@@ -1238,7 +1307,7 @@ can be an excuse to back out on plans.&lt;/p&gt;
       <title>Limbo, Myanmar, Now</title>
       <link>https://ohio.araw.xyz/139/</link>
       <pubDate>Tue, 19 Sep 2023 07:38:50 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/139/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added &lt;code&gt;&amp;lt;label&amp;gt;&lt;/code&gt; to the search bar in Index for &lt;a href=&#34;https://www.smashingmagazine.com/2018/06/placeholder-attribute/&#34;&gt;better accessibility&lt;/a&gt;.&lt;/li&gt;
@@ -1295,7 +1364,7 @@ uninteresting for me?&lt;/p&gt;
       <title>Good Vibes of the Day</title>
       <link>https://ohio.araw.xyz/138/</link>
       <pubDate>Tue, 12 Sep 2023 00:54:31 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/138/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new page, &lt;a href=&#34;https://ohio.araw.xyz/books&#34;&gt;Books&lt;/a&gt;.&lt;/li&gt;
@@ -1339,7 +1408,7 @@ O&lt;/p&gt;
       <title>New tests this -ber season, 2023</title>
       <link>https://ohio.araw.xyz/137/</link>
       <pubDate>Fri, 08 Sep 2023 03:54:00 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/137/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited &lt;a href=&#34;https://ohio.araw.xyz/about&#34;&gt;About&lt;/a&gt; page.&lt;/li&gt;
@@ -1387,7 +1456,7 @@ ordered from most to least relevant to me now:&lt;/p&gt;
       <title>Vague Hints</title>
       <link>https://ohio.araw.xyz/136/</link>
       <pubDate>Thu, 31 Aug 2023 10:20:25 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/136/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/about&#34;&gt;About&lt;/a&gt; page in Index.&lt;/li&gt;
@@ -1491,7 +1560,7 @@ I didn&amp;rsquo;t make the cut.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#
       <title>Week 33 of 2023</title>
       <link>https://ohio.araw.xyz/135/</link>
       <pubDate>Mon, 21 Aug 2023 02:10:09 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/135/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added &lt;a href=&#34;https://seekers.araw.xyz/strays/&#34;&gt;new post&lt;/a&gt; over at Araw Seekers blog.&lt;/li&gt;
@@ -1541,7 +1610,7 @@ could&amp;rsquo;ve-been perfect reply to the confession quip:
       <title>Creep into my Soul</title>
       <link>https://ohio.araw.xyz/134/</link>
       <pubDate>Tue, 15 Aug 2023 08:54:11 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/134/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/robots.txt&#34;&gt;robots.txt&lt;/a&gt; file to limit crawlers.&lt;/li&gt;
@@ -1591,7 +1660,7 @@ I get that, really.&lt;/p&gt;
       <title>Blood is Thicker One Year Later</title>
       <link>https://ohio.araw.xyz/133/</link>
       <pubDate>Sat, 05 Aug 2023 05:48:53 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/133/</guid>
       <description>&lt;h2 id=&#34;blood-donation&#34;&gt;Blood Donation&lt;/h2&gt;
 &lt;p&gt;Somehow, I misunderstood that wisdom-tooth extraction &lt;em&gt;is&lt;/em&gt; a major
@@ -1647,7 +1716,7 @@ so instead of that, I got my hit in these albums last July 2023.&lt;/p&gt;
       <title>In Need of Breakthroughs</title>
       <link>https://ohio.araw.xyz/132/</link>
       <pubDate>Sat, 29 Jul 2023 01:54:33 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/132/</guid>
       <description>&lt;p&gt;Sometimes, I find time to update this blog.
 And when I do, it&amp;rsquo;s mostly &lt;em&gt;an attempt&lt;/em&gt; at being coherent.&lt;/p&gt;
@@ -1699,7 +1768,7 @@ place was deserted. Did Pied Piper got them?&lt;/li&gt;
       <title>Heavy Familial Things</title>
       <link>https://ohio.araw.xyz/131/</link>
       <pubDate>Wed, 12 Jul 2023 20:59:07 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/131/</guid>
       <description>&lt;p&gt;Tell me how it works again:
 are someone&amp;rsquo;s morals inversely proportional to their wealth?
@@ -1733,7 +1802,7 @@ feeling it&amp;rsquo;s already Friday.&lt;/p&gt;
       <title>Weird Retelling of My Name</title>
       <link>https://ohio.araw.xyz/130/</link>
       <pubDate>Sun, 02 Jul 2023 06:00:11 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/130/</guid>
       <description>&lt;p&gt;Six months of 2023&amp;mdash;gone.
 I wonder if my prime years are flying over me,
@@ -1819,7 +1888,7 @@ one should embrace it.&lt;/p&gt;
       <title>Writing, Reviewing</title>
       <link>https://ohio.araw.xyz/129/</link>
       <pubDate>Fri, 23 Jun 2023 22:31:20 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/129/</guid>
       <description>&lt;p&gt;My friends and I talked about our creative endeavors, and how work-life
 balance, or lack thereof, impacts our individual pursuits.
@@ -1879,7 +1948,7 @@ feel the same&amp;mdash;barely safe &amp;ldquo;but at least it&amp;rsquo;s there
       <title>Honesty [&amp;] of Self</title>
       <link>https://ohio.araw.xyz/128/</link>
       <pubDate>Tue, 13 Jun 2023 21:44:08 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/128/</guid>
       <description>&lt;p&gt;My go-to answer when asked in a corporate setting what I like to do
 is, &amp;ldquo;I like learning.&amp;rdquo;
@@ -1915,7 +1984,7 @@ reminded them of me. Spoiler: Tragic ending.&lt;/p&gt;
       <title>Missing out on Cool Things?</title>
       <link>https://ohio.araw.xyz/127/</link>
       <pubDate>Wed, 31 May 2023 15:10:42 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/127/</guid>
       <description>&lt;h2 id=&#34;on-not-being-in-mainstream-socmeds&#34;&gt;On not being in mainstream socmeds&lt;/h2&gt;
 &lt;p&gt;It&amp;rsquo;s a weird feeling how I&amp;rsquo;m missing out on interesting things
@@ -2021,7 +2090,7 @@ each time a more soulful iteration of the previous one.&lt;/p&gt;
       <title>WHO upsets WfH</title>
       <link>https://ohio.araw.xyz/126/</link>
       <pubDate>Sun, 21 May 2023 05:51:05 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/126/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited some lines in &lt;a href=&#34;https://ohio.araw.xyz/blogroll&#34;&gt;Blogroll&lt;/a&gt;.&lt;/li&gt;
@@ -2062,7 +2131,7 @@ and merely is a rant.&lt;/p&gt;
       <title>Same soup, reheated</title>
       <link>https://ohio.araw.xyz/125/</link>
       <pubDate>Wed, 03 May 2023 02:11:12 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/125/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Updated &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt;&lt;/li&gt;
@@ -2134,7 +2203,7 @@ their playlists.&lt;/p&gt;
       <title>Shower &amp; Jempoy</title>
       <link>https://ohio.araw.xyz/124/</link>
       <pubDate>Sat, 22 Apr 2023 08:12:24 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/124/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Updated &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt;&lt;/li&gt;
@@ -2212,7 +2281,7 @@ for cyclists.&lt;/p&gt;
       <title>Nuance matters</title>
       <link>https://ohio.araw.xyz/123/</link>
       <pubDate>Tue, 11 Apr 2023 07:05:57 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/123/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added a &lt;a href=&#34;https://seekers.araw.xyz/eulogy/&#34;&gt;new post over at the Araw Seekers&lt;/a&gt;.&lt;/li&gt;
@@ -2250,7 +2319,7 @@ staycation is bit better.&lt;/p&gt;
       <title>M is for the Muzak in March</title>
       <link>https://ohio.araw.xyz/122/</link>
       <pubDate>Sat, 01 Apr 2023 00:54:42 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/122/</guid>
       <description>&lt;p&gt;March 2023 was an okay month for me.
 The first half I spent alone and in the coziness of bold, cold bedroom.
@@ -2414,7 +2483,7 @@ and all that good (and bad)shite.&lt;/p&gt;
       <title>Going, Glowing, Growing, Gluing REAL</title>
       <link>https://ohio.araw.xyz/121/</link>
       <pubDate>Mon, 27 Mar 2023 05:36:36 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/121/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 15 new entries in &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -2473,7 +2542,7 @@ and more, when &amp;ldquo;buying&amp;rdquo; (yes, it can now be bought) a checkm
       <title>Disco Elysium</title>
       <link>https://ohio.araw.xyz/120/</link>
       <pubDate>Sun, 19 Mar 2023 01:56:58 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/120/</guid>
       <description>&lt;p&gt;Today, I finished my first run of the game &lt;em&gt;Disco Elysium&lt;/em&gt;,
 a detective RPG designed and written by an Estonian novelist,
@@ -2611,7 +2680,7 @@ the future.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#
       <title>One Cold March Night</title>
       <link>https://ohio.araw.xyz/119/</link>
       <pubDate>Mon, 06 Mar 2023 01:38:38 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/119/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t recall the last time March was this relatively cold.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s during one of these cold nights that I had
@@ -2645,7 +2714,7 @@ Was I supposed to be yelling?&lt;/p&gt;
       <title>Back to Albums</title>
       <link>https://ohio.araw.xyz/118/</link>
       <pubDate>Tue, 28 Feb 2023 01:42:56 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/118/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited footer.&lt;/li&gt;
@@ -2791,7 +2860,7 @@ doesn&amp;rsquo;t necessarily contain albums that I haven&amp;rsquo;t heard yet.
       <title>Loan as Love Language?</title>
       <link>https://ohio.araw.xyz/117/</link>
       <pubDate>Sun, 19 Feb 2023 01:35:25 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/117/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Clean up of HTML and CSS&lt;/li&gt;
@@ -2843,7 +2912,7 @@ caffeine allowed me to crumble on borrowed time.&lt;/p&gt;
       <title>What&#39;s in a name?</title>
       <link>https://ohio.araw.xyz/116/</link>
       <pubDate>Mon, 30 Jan 2023 08:18:47 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/116/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 10 new entries and 4 new one-liners to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -2875,7 +2944,7 @@ and I have mixed feelings about it ever since.&lt;/p&gt;
       <title>Capricorn</title>
       <link>https://ohio.araw.xyz/115/</link>
       <pubDate>Tue, 17 Jan 2023 03:58:51 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/115/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 10 new entries and two new one-liners to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -2935,7 +3004,7 @@ by rerunning &lt;em&gt;Fallout: New Vegas&lt;/em&gt;.&lt;/p&gt;
       <title>My Own Timeline</title>
       <link>https://ohio.araw.xyz/114/</link>
       <pubDate>Sun, 08 Jan 2023 13:22:44 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/114/</guid>
       <description>&lt;p&gt;As the world transitions from one calendar year to the next last week,
 it&amp;rsquo;s always nice to remember the small wins that permeate
@@ -3051,7 +3120,7 @@ but less neodadaistic.&lt;/p&gt;
       <title>What if</title>
       <link>https://ohio.araw.xyz/113/</link>
       <pubDate>Wed, 28 Dec 2022 05:40:57 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/113/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new [done] project: &lt;a href=&#34;https://ohio.araw.xyz/nov2022-vlog&#34;&gt;Video Log - Nov 2022&lt;/a&gt;&lt;/li&gt;
@@ -3128,7 +3197,7 @@ play out, and never again.&amp;rdquo;&lt;/p&gt;
       <title>Thinking, about Depths, and my Story</title>
       <link>https://ohio.araw.xyz/112/</link>
       <pubDate>Thu, 08 Dec 2022 07:03:01 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/112/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 11 new entries and 5 new one-liners to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -3179,7 +3248,7 @@ because I&amp;rsquo;m not always the reliable, capable narrator of my own life.&
       <title>Mountains in the Background</title>
       <link>https://ohio.araw.xyz/111/</link>
       <pubDate>Fri, 18 Nov 2022 15:43:41 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/111/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 10 new entries and 2 new one-liners to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -3213,7 +3282,7 @@ atmoshphere refracting it to a hint bluish haze.&lt;/p&gt;
       <title>Working for (not as) Art</title>
       <link>https://ohio.araw.xyz/110/</link>
       <pubDate>Thu, 03 Nov 2022 06:39:14 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/110/</guid>
       <description>&lt;p&gt;Been staying in Negros Oriental for days now,
 here to visit my partner&amp;rsquo;s side of family and friends.&lt;/p&gt;
@@ -3294,7 +3363,7 @@ all in an effort to work on something that I want to flourish [in].&lt;/p&gt;
       <title>Yoga After A Year</title>
       <link>https://ohio.araw.xyz/109/</link>
       <pubDate>Tue, 18 Oct 2022 01:59:49 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/109/</guid>
       <description>&lt;p&gt;It has been a little over a year now since I started taking yoga seriously.
 By which I mean doing it regularly when time and willpower permits.
@@ -3323,7 +3392,7 @@ it will take a lot more than just a year of regular practice.&lt;/p&gt;
       <title>All Over The Place</title>
       <link>https://ohio.araw.xyz/108/</link>
       <pubDate>Sun, 02 Oct 2022 04:53:10 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/108/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited a link in &lt;a href=&#34;https://ohio.araw.xyz/blogroll&#34;&gt;Blogroll&lt;/a&gt;.&lt;/li&gt;
@@ -3357,7 +3426,7 @@ it&amp;rsquo;s certain that I don&amp;rsquo;t have them in my person!&lt;/p&gt;
       <title>Bidet</title>
       <link>https://ohio.araw.xyz/107/</link>
       <pubDate>Sat, 17 Sep 2022 03:23:34 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/107/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added a link in the Index, explaining what RSS feeds are.&lt;/li&gt;
@@ -3406,7 +3475,7 @@ Might as well be generous and provide some bidets, &lt;em&gt;no&lt;/em&gt;?&lt;/
       <title>Keeping Safe</title>
       <link>https://ohio.araw.xyz/106/</link>
       <pubDate>Sat, 10 Sep 2022 00:08:10 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/106/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 10 new entries and 1 new one-liner to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -3461,7 +3530,7 @@ with these kinds of situations was able to intervene and deescalate.&lt;/p&gt;
       <title>Pruning</title>
       <link>https://ohio.araw.xyz/105/</link>
       <pubDate>Sun, 04 Sep 2022 11:23:40 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/105/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added a &lt;a href=&#34;https://ohio.araw.xyz/search&#34;&gt;Search&lt;/a&gt; page for this site.&lt;/li&gt;
@@ -3506,7 +3575,7 @@ whichever fits.&lt;/p&gt;
       <title>Guimba, Nueva Ecija</title>
       <link>https://ohio.araw.xyz/104/</link>
       <pubDate>Mon, 22 Aug 2022 08:48:27 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/104/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed a project idea in &lt;a href=&#34;https://ohio.araw.xyz/di-why&#34;&gt;list of ideas in incubation&lt;/a&gt;.&lt;/li&gt;
@@ -3544,7 +3613,7 @@ despite the challenges of the commute.&lt;/p&gt;
       <title>Life Expectancy</title>
       <link>https://ohio.araw.xyz/103/</link>
       <pubDate>Tue, 16 Aug 2022 10:13:31 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/103/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Closing the &lt;a href=&#34;https://ohio.araw.xyz/here&#34;&gt;Knowing Here&lt;/a&gt; project, because honestly, I&amp;rsquo;ve lost
@@ -3670,7 +3739,7 @@ and writing something about it.&lt;/p&gt;
       <title>Annual Flu</title>
       <link>https://ohio.araw.xyz/102/</link>
       <pubDate>Mon, 08 Aug 2022 07:22:29 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/102/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited &lt;a href=&#34;https://ohio.araw.xyz/di-why&#34;&gt;the project incubation list&lt;/a&gt;.&lt;/li&gt;
@@ -3693,7 +3762,7 @@ causing floods all over the cities.&lt;/p&gt;
       <title>Lola Mila&#39;s 87th</title>
       <link>https://ohio.araw.xyz/101/</link>
       <pubDate>Mon, 01 Aug 2022 12:58:51 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/101/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Renamed all the log filenames to increasing positive integers,
@@ -3746,7 +3815,7 @@ a good exercise riding fixed.&lt;/p&gt;
       <title>Hearing Own Voice</title>
       <link>https://ohio.araw.xyz/100/</link>
       <pubDate>Sun, 24 Jul 2022 13:37:38 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/100/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited some lines in &lt;a href=&#34;https://ohio.araw.xyz/bujo&#34;&gt;Bujo&lt;/a&gt;.&lt;/li&gt;
@@ -3767,7 +3836,7 @@ that makes one&amp;rsquo;s own voice sound different to an external body.&lt;/p&
       <title>The Age of Quick Clicks and Wits</title>
       <link>https://ohio.araw.xyz/99/</link>
       <pubDate>Thu, 21 Jul 2022 12:01:14 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/99/</guid>
       <description>&lt;p&gt;In the age of perma-online presence,
 it&amp;rsquo;s worth considering to think before you click.
@@ -3813,7 +3882,7 @@ I write it here so I can keep myself accountable.&lt;/p&gt;
       <title>Week 28 of 2022</title>
       <link>https://ohio.araw.xyz/98/</link>
       <pubDate>Sun, 17 Jul 2022 15:48:52 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/98/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Actually added this site&amp;rsquo;s onion address at the footer.&lt;/li&gt;
@@ -3866,7 +3935,7 @@ and eyes teeth forever gnawing in autocannibalism.&lt;/p&gt;
       <title>自働化 in Daydreaming</title>
       <link>https://ohio.araw.xyz/97/</link>
       <pubDate>Sat, 09 Jul 2022 10:54:36 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/97/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This site is now available as an onion site.
@@ -3905,7 +3974,7 @@ and I to them.&lt;/p&gt;
       <title>Slow Month</title>
       <link>https://ohio.araw.xyz/96/</link>
       <pubDate>Tue, 28 Jun 2022 12:00:24 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/96/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;A fairly recent post over at the &lt;a href=&#34;https://seekers.araw.xyz/outforsweets/&#34;&gt;Araw
@@ -3943,7 +4012,7 @@ We now observe Life, live in it, here and now&amp;hellip;&lt;/p&gt;
       <title>Las Casas Filipinas de Acuzar</title>
       <link>https://ohio.araw.xyz/95/</link>
       <pubDate>Mon, 13 Jun 2022 19:23:14 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/95/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed one minor detail where our north is, in &lt;a href=&#34;https://ohio.araw.xyz/here&#34;&gt;Here&lt;/a&gt;.&lt;/li&gt;
@@ -4053,7 +4122,7 @@ There are better places to be in!&lt;/p&gt;
       <title>&#39;It&#39;s already half of the year!&#39;</title>
       <link>https://ohio.araw.xyz/94/</link>
       <pubDate>Sat, 04 Jun 2022 13:27:06 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/94/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Refreshed the &lt;a href=&#34;https://seekers.araw.xyz&#34;&gt;Araw Seekers&lt;/a&gt; look,
@@ -4090,7 +4159,7 @@ something about their employee ranting vaguely on the internet.&lt;/p&gt;
       <title>Loud Thuds In The Night</title>
       <link>https://ohio.araw.xyz/93/</link>
       <pubDate>Sun, 08 May 2022 09:48:21 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/93/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 5 new sections to &lt;a href=&#34;https://ohio.araw.xyz/here&#34;&gt;Knowing Here&lt;/a&gt;.&lt;/li&gt;
@@ -4117,7 +4186,7 @@ if it weren&amp;rsquo;t for the misplaced step that revealed their presence.&lt;
       <title>Pop Music!</title>
       <link>https://ohio.araw.xyz/92/</link>
       <pubDate>Mon, 02 May 2022 10:52:30 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/92/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added one section for &lt;a href=&#34;https://ohio.araw.xyz/here&#34;&gt;Knowing Here&lt;/a&gt;.&lt;/li&gt;
@@ -4152,7 +4221,7 @@ every other legit writer out there.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class
       <title>Help Strangers</title>
       <link>https://ohio.araw.xyz/91/</link>
       <pubDate>Sun, 01 May 2022 06:38:14 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/91/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited a few lines in &lt;a href=&#34;https://ohio.araw.xyz/support&#34;&gt;Support&lt;/a&gt; page.&lt;/li&gt;
@@ -4192,7 +4261,7 @@ allowing the handle to fold onto the platform.&lt;/p&gt;
       <title>Missing e</title>
       <link>https://ohio.araw.xyz/90/</link>
       <pubDate>Fri, 22 Apr 2022 06:43:35 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/90/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Table of Contents in &lt;a href=&#34;https://ohio.araw.xyz/project&#34;&gt;Projects&lt;/a&gt; is now compressed in &lt;code&gt;&amp;lt;detail&amp;gt;&lt;/code&gt; tag,
@@ -4287,7 +4356,7 @@ instead expressing nonsense, irrationality, and anti-bourgeois protest.&amp;rdqu
       <title>Grand Boulevard Hotel</title>
       <link>https://ohio.araw.xyz/89/</link>
       <pubDate>Sun, 10 Apr 2022 16:58:06 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/89/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Surfaced from the Drafts what I consider now a dead project before it even
@@ -4321,7 +4390,7 @@ What a time.&lt;/p&gt;
       <title>Artiste</title>
       <link>https://ohio.araw.xyz/88/</link>
       <pubDate>Tue, 05 Apr 2022 12:55:13 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/88/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s only recently that I&amp;rsquo;ve realized this:&lt;/p&gt;
 &lt;p&gt;There &lt;em&gt;is&lt;/em&gt; an artist in me.&lt;/p&gt;
@@ -4359,7 +4428,7 @@ but we all know that there&amp;rsquo;s more subtance to it.&lt;/p&gt;
       <title>Moved [Back] to Old House</title>
       <link>https://ohio.araw.xyz/87/</link>
       <pubDate>Sat, 02 Apr 2022 20:53:58 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/87/</guid>
       <description>&lt;p&gt;It would take some time to un-feel my annoyance towards the color teal,
 however objectively cool it looks.
@@ -4379,7 +4448,7 @@ apart from the campaign jingles of numerous candidates running for office.&lt;/p
       <title>Liminal</title>
       <link>https://ohio.araw.xyz/86/</link>
       <pubDate>Sun, 20 Mar 2022 15:36:04 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/86/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 9 new entries and 4 new one-liners in &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -4428,7 +4497,7 @@ but always worth the (t/w)ry.&lt;/p&gt;
       <title>Updates from Near Future</title>
       <link>https://ohio.araw.xyz/85/</link>
       <pubDate>Sun, 13 Mar 2022 10:54:18 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/85/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/project&#34;&gt;Projects&lt;/a&gt; come with two new design updates:
@@ -4502,7 +4571,7 @@ so I&amp;rsquo;ll be able to test this one out in front of my colleagues.&lt;/p&
       <title>Dogs Barking So Much</title>
       <link>https://ohio.araw.xyz/84/</link>
       <pubDate>Fri, 04 Mar 2022 14:21:05 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/84/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;This whole site is now in Dark mode by default.
@@ -4555,7 +4624,7 @@ Doing so also saves your neighbors the headache.&lt;/p&gt;
       <title>Emotions, pt. 2</title>
       <link>https://ohio.araw.xyz/83/</link>
       <pubDate>Mon, 28 Feb 2022 22:54:15 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/83/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Wrapped up the &lt;a href=&#34;https://ohio.araw.xyz/feb2022-photos&#34;&gt;Daily Photos - Feb 2022&lt;/a&gt; by adding one last
@@ -4574,7 +4643,7 @@ And that&amp;rsquo;s a different thing altogether.&lt;/p&gt;
       <title>Hip Understanding</title>
       <link>https://ohio.araw.xyz/82/</link>
       <pubDate>Sun, 27 Feb 2022 05:47:11 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/82/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Minor change in colors for dark mode, for a slightly better contrast between
@@ -4618,7 +4687,7 @@ what life would become for me if I continue to neglect my body.&lt;/p&gt;
       <title>Best Dreams</title>
       <link>https://ohio.araw.xyz/81/</link>
       <pubDate>Sun, 20 Feb 2022 21:54:42 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/81/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 8 new photos to &lt;a href=&#34;https://ohio.araw.xyz/feb2022-photos&#34;&gt;Daily Photos - Feb 2022&lt;/a&gt;&lt;/li&gt;
@@ -4632,7 +4701,7 @@ to be experienced again.&lt;/p&gt;
       <title>Hike</title>
       <link>https://ohio.araw.xyz/80/</link>
       <pubDate>Sat, 19 Feb 2022 10:28:29 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/80/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Moved my only contact detail to the perennial footer.
@@ -4659,7 +4728,7 @@ Are there mountains in India?&amp;rdquo;&lt;/p&gt;
       <title>Metalhead</title>
       <link>https://ohio.araw.xyz/79/</link>
       <pubDate>Sun, 13 Feb 2022 02:02:05 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/79/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Minor visual design change in which the lists of pages, &lt;a href=&#34;https://ohio.araw.xyz/log&#34;&gt;Log&lt;/a&gt; and
@@ -4718,7 +4787,7 @@ it&amp;rsquo;s one of the things I look forward to.&lt;/p&gt;
       <title>Emotions</title>
       <link>https://ohio.araw.xyz/78/</link>
       <pubDate>Sat, 05 Feb 2022 20:25:21 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/78/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Minor edit to some lines in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;.&lt;/li&gt;
@@ -4740,7 +4809,7 @@ recent emotions messed up joint/s in my right wrist again.&lt;/p&gt;
       <title>Open Burning</title>
       <link>https://ohio.araw.xyz/77/</link>
       <pubDate>Wed, 02 Feb 2022 08:53:41 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/77/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edit some lines in the &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Colophon&lt;/a&gt;.&lt;/li&gt;
@@ -4786,7 +4855,7 @@ August). Primer on the Clean Air Act. Diliman: DENR-Public Affairs Office.
       <title>Mr. Robot</title>
       <link>https://ohio.araw.xyz/76/</link>
       <pubDate>Tue, 01 Feb 2022 18:13:52 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/76/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added BPI QR code as a means to &lt;a href=&#34;https://ohio.araw.xyz/support&#34;&gt;Support&lt;/a&gt; me if you&amp;rsquo;re from
@@ -4815,7 +4884,7 @@ techno-thriller should!&lt;/p&gt;
       <title>No more cold January mornings, pt. 2</title>
       <link>https://ohio.araw.xyz/75/</link>
       <pubDate>Wed, 26 Jan 2022 18:16:55 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/75/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Fixed typo in the last log.&lt;/li&gt;
@@ -4840,7 +4909,7 @@ I try to tell myself: I&amp;rsquo;m exactly where I need to be.&lt;/p&gt;
       <title>No more cold January mornings</title>
       <link>https://ohio.araw.xyz/74/</link>
       <pubDate>Tue, 25 Jan 2022 01:46:29 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/74/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;If you haven&amp;rsquo;t seen it yet, there&amp;rsquo;s a &lt;em&gt;very&lt;/em&gt; minimal landing page for the TLD
@@ -4865,7 +4934,7 @@ year&amp;mdash;sticky, humid, blinding.
       <title>Default Settings</title>
       <link>https://ohio.araw.xyz/73/</link>
       <pubDate>Sun, 16 Jan 2022 11:51:38 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/73/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Code license for anything that appears on this site is now under
@@ -4921,7 +4990,7 @@ I&amp;rsquo;m far from being a perfect-looking person, but overall, I&amp;rsquo;
       <title>Plaintext Struggle?</title>
       <link>https://ohio.araw.xyz/72/</link>
       <pubDate>Sat, 08 Jan 2022 17:27:02 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/72/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added ten new entries and six new one-liners in &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -4964,7 +5033,7 @@ So should you, Reader.&lt;/p&gt;
       <title>A New World Hangs</title>
       <link>https://ohio.araw.xyz/71/</link>
       <pubDate>Sat, 01 Jan 2022 00:21:06 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/71/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Linked this site to &lt;a href=&#34;https://themarkup.org/blacklight&#34;&gt;The Markup&amp;rsquo;s Blacklight&lt;/a&gt; (see footer) as proof that I have zero tracking here.&lt;/li&gt;
@@ -4992,7 +5061,7 @@ away, it seems.&lt;/p&gt;
       <title>December Fog</title>
       <link>https://ohio.araw.xyz/70/</link>
       <pubDate>Fri, 31 Dec 2021 00:40:36 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/70/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added some notes on the &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;.&lt;/li&gt;
@@ -5037,7 +5106,7 @@ The surface is always within reach and syncs with the body clock.&lt;/p&gt;
       <title>Calatagan</title>
       <link>https://ohio.araw.xyz/nice/</link>
       <pubDate>Sat, 25 Dec 2021 10:42:20 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/nice/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added 11 new entries and four new one-liners to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -5081,7 +5150,7 @@ I got to swim on it, too, with new friends from work.
       <title>無為</title>
       <link>https://ohio.araw.xyz/68/</link>
       <pubDate>Sat, 11 Dec 2021 09:11:49 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/68/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added section to &lt;a href=&#34;https://ohio.araw.xyz/disclaimer&#34;&gt;Disclaimer&lt;/a&gt;.&lt;/li&gt;
@@ -5122,7 +5191,7 @@ It&amp;rsquo;s just that I don&amp;rsquo;t know them all.&lt;/p&gt;
       <title>Core Memories</title>
       <link>https://ohio.araw.xyz/67/</link>
       <pubDate>Sun, 05 Dec 2021 10:30:04 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/67/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; link on Index for visibility.&lt;/li&gt;
@@ -5167,7 +5236,7 @@ it&amp;rsquo;s up to us&amp;mdash;&lt;em&gt;really&lt;/em&gt;&amp;mdash;what to 
       <title>Vague Update</title>
       <link>https://ohio.araw.xyz/66/</link>
       <pubDate>Sun, 21 Nov 2021 06:52:37 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/66/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Improved the &lt;code&gt;font-family&lt;/code&gt; of this site, thanks to &lt;a href=&#34;https://systemfontstack.com/&#34;&gt;System Font
@@ -5227,7 +5296,7 @@ Solipsism resurfaces.&lt;/li&gt;
       <title>Home Alone</title>
       <link>https://ohio.araw.xyz/65/</link>
       <pubDate>Sun, 31 Oct 2021 17:30:00 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/65/</guid>
       <description>&lt;p&gt;With that title I&amp;rsquo;ve already mislead you.
 I&amp;rsquo;m not &lt;em&gt;really&lt;/em&gt; alone, and no, I don&amp;rsquo;t mean that in the Halloween spooky sense.
@@ -5296,7 +5365,7 @@ I don&amp;rsquo;t miss the addiction, the financial costs to sustain it, the dam
       <title>Frankenpad X225</title>
       <link>https://ohio.araw.xyz/64/</link>
       <pubDate>Sat, 30 Oct 2021 03:51:58 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/64/</guid>
       <description>&lt;p&gt;Ador, my Thinkpad X220, got its motherboard (mobo) fried a little over two
 months ago.&lt;/p&gt;
@@ -5354,7 +5423,7 @@ keyboard&lt;/a&gt;.&lt;/li&gt;
       <title>Sunday Pares</title>
       <link>https://ohio.araw.xyz/63/</link>
       <pubDate>Sun, 24 Oct 2021 20:50:55 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/63/</guid>
       <description>&lt;p&gt;Going on a short trip on a not-my-bike is better than not riding out on a Sunday afternoon.
 The weather isn&amp;rsquo;t so bad either, hijo.&lt;/p&gt;
@@ -5389,7 +5458,7 @@ we might have to look elsewhere.&lt;/p&gt;
       <title>Second Shot of AZ in Full Effect</title>
       <link>https://ohio.araw.xyz/62/</link>
       <pubDate>Sat, 23 Oct 2021 09:05:25 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/62/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added seven new entries and three new one-liners in &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;&lt;/li&gt;
@@ -5409,7 +5478,7 @@ health, right?&lt;/p&gt;
       <title>Fixing Some Broken Images</title>
       <link>https://ohio.araw.xyz/61/</link>
       <pubDate>Fri, 22 Oct 2021 10:48:16 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/61/</guid>
       <description>&lt;p&gt;I noticed recently that some of the images in this site were broken,
 that is, they didn&amp;rsquo;t show up.
@@ -5476,7 +5545,7 @@ generator.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#3
       <title>Hunger</title>
       <link>https://ohio.araw.xyz/60/</link>
       <pubDate>Tue, 19 Oct 2021 19:37:06 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/60/</guid>
       <description>&lt;p&gt;Hunger, the physical, guttural one,
 is a penitence most of us won&amp;rsquo;t choose,
@@ -5500,7 +5569,7 @@ un-budging.&lt;/p&gt;
       <title>Semantics</title>
       <link>https://ohio.araw.xyz/59/</link>
       <pubDate>Fri, 15 Oct 2021 04:11:36 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/59/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added sections in &lt;a href=&#34;https://ohio.araw.xyz/bujo&#34;&gt;Bujo&lt;/a&gt;&lt;/li&gt;
@@ -5532,7 +5601,7 @@ we can tell from afar that such narrative lacks authenticity.&lt;/p&gt;
       <title>mSATA to USB Adapter: A Quick Mid-October Update</title>
       <link>https://ohio.araw.xyz/58/</link>
       <pubDate>Thu, 14 Oct 2021 08:32:25 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/58/</guid>
       <description>&lt;p&gt;Late this afternoon, I just received the aforementioned adapter
 that I ordered from Shopee.
@@ -5549,7 +5618,7 @@ I booted into the OS installed in it via Isya&amp;rsquo;s Thinkpad T440, codenam
       <title>Wake me up when September rends</title>
       <link>https://ohio.araw.xyz/57/</link>
       <pubDate>Thu, 30 Sep 2021 12:10:36 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/57/</guid>
       <description>&lt;p&gt;My main laptop (&amp;ldquo;Ador&amp;rdquo;) broke on me about a month ago now (as of writing this).
 Twice I ordered a replacement motherboard in Lazada, and twice the seller cancelled on me.
@@ -5576,7 +5645,7 @@ I&amp;rsquo;m losing my Vim- and Unix-game here, people, help me.&lt;/p&gt;
       <title>Creative Writing in a Second Language</title>
       <link>https://ohio.araw.xyz/56/</link>
       <pubDate>Sun, 29 Aug 2021 08:25:50 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/56/</guid>
       <description>&lt;p&gt;Hello!
 Here are the recent changes:&lt;/p&gt;
@@ -5623,7 +5692,7 @@ I&amp;rsquo;ll see you next time!&lt;/p&gt;
       <title>On Abstractions</title>
       <link>https://ohio.araw.xyz/55/</link>
       <pubDate>Thu, 19 Aug 2021 03:04:42 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/55/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Removed unnecessary emojis in most, if not all, of the pages.
@@ -5673,7 +5742,7 @@ if it weren&amp;rsquo;t for the fact that I don&amp;rsquo;t want to bother peopl
       <title>Thoughts on LinkedIn</title>
       <link>https://ohio.araw.xyz/54/</link>
       <pubDate>Thu, 12 Aug 2021 00:01:30 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/54/</guid>
       <description>&lt;p&gt;LinkedIn &lt;em&gt;is&lt;/em&gt; a social networking site (SNS).
 Don&amp;rsquo;t let anyone make you believe otherwise.
@@ -5728,7 +5797,7 @@ But I long for the day that I won&amp;rsquo;t be needing it anymore.&lt;/p&gt;
       <title>First Shot of AZ</title>
       <link>https://ohio.araw.xyz/53/</link>
       <pubDate>Tue, 10 Aug 2021 10:24:33 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/53/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited several sections of the &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;.&lt;/li&gt;
@@ -5763,7 +5832,7 @@ legally happen!&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backr
       <title>Doing Errands on a Bike</title>
       <link>https://ohio.araw.xyz/52/</link>
       <pubDate>Sat, 31 Jul 2021 10:50:26 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/52/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added eight new entries and a new one-liner to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -5830,7 +5899,7 @@ unless it&amp;rsquo;s way more than I can carry in a backpack.&amp;#160;&lt;a hr
       <title>Break Into Chunks</title>
       <link>https://ohio.araw.xyz/51/</link>
       <pubDate>Thu, 22 Jul 2021 01:07:15 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/51/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Updated the &lt;a href=&#34;https://ohio.araw.xyz/support&#34;&gt;Support&lt;/a&gt; page.&lt;/li&gt;
@@ -5867,7 +5936,7 @@ My experience so far tells me that CS50x lets me form good coding habits.&lt;/p&
       <title>FOLK</title>
       <link>https://ohio.araw.xyz/50/</link>
       <pubDate>Sat, 17 Jul 2021 08:58:54 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/50/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added some sections in the &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;Old Computer Challenge&lt;/a&gt;.
@@ -5946,7 +6015,7 @@ commonly found in oil &amp;amp; gas, energy, construction, and automotive indust
       <title>Walking the Dog</title>
       <link>https://ohio.araw.xyz/49/</link>
       <pubDate>Fri, 16 Jul 2021 01:46:24 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/49/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Ticked off some of the items in the to-do lists for my &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;Site&lt;/a&gt;.
@@ -5974,7 +6043,7 @@ It can be hard to remain upright when a ~20-kg canine yanks you because of somet
       <title>Uphills</title>
       <link>https://ohio.araw.xyz/48/</link>
       <pubDate>Thu, 15 Jul 2021 02:29:23 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/48/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added some lines in the &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;Old Computer Challenge&lt;/a&gt;.&lt;/li&gt;
@@ -5996,7 +6065,7 @@ The reward for getting to the peak is more road to travel.&lt;/p&gt;
       <title>Is It Flu Season Already?</title>
       <link>https://ohio.araw.xyz/47/</link>
       <pubDate>Wed, 14 Jul 2021 03:12:53 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/47/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Rearraged the sections in the &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;Old Computer Challenge&lt;/a&gt; for better flow of thought.&lt;/li&gt;
@@ -6037,7 +6106,7 @@ then you know I have nothing to offer but my observations.&lt;/p&gt;
       <title>Life as News</title>
       <link>https://ohio.araw.xyz/46/</link>
       <pubDate>Tue, 13 Jul 2021 01:25:59 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/46/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added sections and edited some lines in the &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;Old Computer Challenge&lt;/a&gt;&lt;/li&gt;
@@ -6068,7 +6137,7 @@ More on that later.&lt;/p&gt;
       <title>Trese</title>
       <link>https://ohio.araw.xyz/45/</link>
       <pubDate>Mon, 12 Jul 2021 00:30:01 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/45/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added sections to the &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;Old Computer Challenge&lt;/a&gt;.&lt;/li&gt;
@@ -6153,7 +6222,7 @@ which is equally stimulating.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;
       <title>Haircut</title>
       <link>https://ohio.araw.xyz/44/</link>
       <pubDate>Sun, 11 Jul 2021 07:37:46 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/44/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added sections and edited some lines in &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;Old Computer Challenge&lt;/a&gt;.&lt;/li&gt;
@@ -6178,7 +6247,7 @@ and I like the one now.&lt;/p&gt;
       <title>Signs of Aging</title>
       <link>https://ohio.araw.xyz/43/</link>
       <pubDate>Sat, 10 Jul 2021 03:52:29 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/43/</guid>
       <description>&lt;p&gt;Hello there,&lt;/p&gt;
 &lt;p&gt;Today&amp;rsquo;s update is, well,
@@ -6216,7 +6285,7 @@ so long as resources would still allow it.&lt;/p&gt;
       <title>Simplex Patch Cord</title>
       <link>https://ohio.araw.xyz/42/</link>
       <pubDate>Fri, 02 Jul 2021 02:37:39 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/42/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Actually updated the &lt;a href=&#34;https://ohio.araw.xyz/cv.pdf&#34;&gt;pdf of my CV&lt;/a&gt;!&lt;/li&gt;
@@ -6288,7 +6357,7 @@ Our interaction did not last two minutes.&lt;/p&gt;
       <title>CS50x</title>
       <link>https://ohio.araw.xyz/41/</link>
       <pubDate>Fri, 25 Jun 2021 15:35:12 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/41/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Due to life happening, I&amp;rsquo;m closing the &lt;a href=&#34;https://ohio.araw.xyz/server&#34;&gt;Server&lt;/a&gt; project.
@@ -6349,7 +6418,7 @@ Might change in the future.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;fo
       <title>Dread</title>
       <link>https://ohio.araw.xyz/40/</link>
       <pubDate>Thu, 24 Jun 2021 05:46:33 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/40/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added six new entries to &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt; while removing a few lines here and there.&lt;/li&gt;
@@ -6378,7 +6447,7 @@ We should&amp;rsquo;ve accepted that.&lt;/p&gt;
       <title>40-Kilometer Bike Route</title>
       <link>https://ohio.araw.xyz/39/</link>
       <pubDate>Mon, 31 May 2021 14:26:55 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/39/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added four new entries and two new one-liners in &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -6413,7 +6482,7 @@ But I&amp;rsquo;ll be in much better shape for next time.&lt;/p&gt;
       <title>Refurbishing Some Old Laptops</title>
       <link>https://ohio.araw.xyz/38/</link>
       <pubDate>Tue, 25 May 2021 09:18:01 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/38/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new ways to &lt;a href=&#34;https://ohio.araw.xyz/support&#34;&gt;Support&lt;/a&gt; me.
@@ -6453,7 +6522,7 @@ I&amp;rsquo;m willing to discuss a method of transaction.&lt;/p&gt;
       <title>Fixing Automatic Top-load Washing Machine</title>
       <link>https://ohio.araw.xyz/37/</link>
       <pubDate>Sun, 16 May 2021 05:02:30 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/37/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;In our home, we dedicate at least one day of the weekend for washing our clothes;
@@ -6576,7 +6645,7 @@ It&amp;rsquo;s unlikely that someone is available.&amp;#160;&lt;a href=&#34;#fnr
       <title>Tyler Durden&#39;s Empty Seat</title>
       <link>https://ohio.araw.xyz/36/</link>
       <pubDate>Sat, 15 May 2021 03:01:31 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/36/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added a new project: &lt;a href=&#34;https://ohio.araw.xyz/bujo&#34;&gt;My Bullet Journal&lt;/a&gt;&lt;/li&gt;
@@ -6607,7 +6676,7 @@ Once or twice, a flight didn&amp;rsquo;t even reach 50% capacity!&lt;/p&gt;
       <title>Kilo</title>
       <link>https://ohio.araw.xyz/35/</link>
       <pubDate>Mon, 10 May 2021 16:19:47 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/35/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added four new entries in &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -6626,7 +6695,7 @@ and try to understand the design philosophy for each of them.&lt;/p&gt;
       <title>How to UnRAR files in Linux Command Line</title>
       <link>https://ohio.araw.xyz/34/</link>
       <pubDate>Wed, 05 May 2021 01:50:44 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/34/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new sections in &lt;a href=&#34;https://ohio.araw.xyz/server&#34;&gt;Server&lt;/a&gt; project.
@@ -6688,7 +6757,7 @@ This is my notes.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-bac
       <title>Heat</title>
       <link>https://ohio.araw.xyz/33/</link>
       <pubDate>Sun, 02 May 2021 10:55:38 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/33/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed the status of &lt;a href=&#34;https://ohio.araw.xyz/imbentori&#34;&gt;Imbentori&lt;/a&gt; project to &amp;ldquo;on-going.&amp;rdquo;
@@ -6713,7 +6782,7 @@ It might even get worse each year.&lt;/p&gt;
       <title>Unlearning Inefficiency</title>
       <link>https://ohio.araw.xyz/32/</link>
       <pubDate>Sat, 24 Apr 2021 09:16:02 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/32/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Updated the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry&#34;&gt;Always Carry&lt;/a&gt; project.
@@ -6753,7 +6822,7 @@ It returns to regular font weight when you return.&amp;#160;&lt;a href=&#34;#fnr
       <title>Clean Act</title>
       <link>https://ohio.araw.xyz/31/</link>
       <pubDate>Fri, 16 Apr 2021 00:11:22 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/31/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited the CSS code block example in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt; project.
@@ -6789,7 +6858,7 @@ I hope to have a clean act, because neatness advertises ability, they say.&lt;/p
       <title>Astral Gate</title>
       <link>https://ohio.araw.xyz/30/</link>
       <pubDate>Fri, 09 Apr 2021 10:19:48 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/30/</guid>
       <description>&lt;p&gt;What are you looking forward to this year 2021?&lt;/p&gt;
 &lt;p&gt;It differs from person to person, &lt;em&gt;no&lt;/em&gt;?&lt;/p&gt;
@@ -6817,7 +6886,7 @@ Looking forward to this as well, although I expect that there will be delays in 
       <title>Two-kilometer Bike Errand</title>
       <link>https://ohio.araw.xyz/29/</link>
       <pubDate>Mon, 05 Apr 2021 22:12:36 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/29/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new sections in &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt;.
@@ -6853,7 +6922,7 @@ And while it wasn&amp;rsquo;t the scorching midday sun that we have had the disp
       <title>XXVIII</title>
       <link>https://ohio.araw.xyz/28/</link>
       <pubDate>Mon, 29 Mar 2021 14:44:46 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/28/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Footnotes will now be highlighted in yellow&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; when you click on them.
@@ -6893,7 +6962,7 @@ The highlight will disappear once you click on the backlink, the one at the end 
       <title>Week 11 of 2021</title>
       <link>https://ohio.araw.xyz/27/</link>
       <pubDate>Mon, 22 Mar 2021 00:48:28 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/27/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Because there&amp;rsquo;s no creative way to title this post.&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -6944,7 +7013,7 @@ More info: &lt;a href=&#34;https://winehq.org&#34;&gt;https://winehq.org&lt;/a&g
       <title>What D&amp;D Character Am I?</title>
       <link>https://ohio.araw.xyz/26/</link>
       <pubDate>Wed, 17 Mar 2021 14:52:37 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/26/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;New URL! This site is now &lt;code&gt;https://ohio.araw.xyz&lt;/code&gt;.
@@ -6966,7 +7035,7 @@ However, chaotic good can be a dangerous alignment when it disrupts the order of
       <title>Scent in Memory</title>
       <link>https://ohio.araw.xyz/25/</link>
       <pubDate>Mon, 15 Mar 2021 12:18:40 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/25/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added my email adress at the end of each project to welcome any recommendations to improve each of them.
@@ -6998,7 +7067,7 @@ Every time, I&amp;rsquo;m transported to the past by nostalgia.&lt;/p&gt;
       <title>Qualitative Research</title>
       <link>https://ohio.araw.xyz/24/</link>
       <pubDate>Sat, 13 Mar 2021 15:16:14 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/24/</guid>
       <description>&lt;p&gt;How else do you spend an afternoon other than answering &lt;a href=&#34;https://flyeronthewall.wordpress.com/about/about-yourself/&#34;&gt;questions from the internet&lt;/a&gt;?
 Not all questions from that questionnaire made here.
@@ -7048,7 +7117,7 @@ I also watched the movie, which is a good adaptation, in my opinion, of the nove
       <title>Vague Titles</title>
       <link>https://ohio.araw.xyz/23/</link>
       <pubDate>Fri, 12 Mar 2021 00:41:40 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/23/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited some sections in the &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;Site&lt;/a&gt;.
@@ -7072,7 +7141,7 @@ Who can blame them when doing so gives the illusion of having more opportunities
       <title>Productivity Conflicts</title>
       <link>https://ohio.araw.xyz/22/</link>
       <pubDate>Wed, 10 Mar 2021 10:46:08 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/22/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Lightly adjusted the color scheme for dark-themed devices.
@@ -7112,7 +7181,7 @@ If my calculations remain correct for the foreseeable future, I have between 8-1
       <title>Skill or Virtue?</title>
       <link>https://ohio.araw.xyz/21/</link>
       <pubDate>Mon, 08 Mar 2021 13:42:44 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/21/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added a long-ago completed project, &lt;a href=&#34;https://ohio.araw.xyz/imbentori/&#34;&gt;Imbentori&lt;/a&gt;.&lt;/li&gt;
@@ -7133,7 +7202,7 @@ Isn&amp;rsquo;t it a Virtue?&lt;/p&gt;
       <title>Decadent Lethargy</title>
       <link>https://ohio.araw.xyz/20/</link>
       <pubDate>Fri, 05 Mar 2021 07:24:29 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/20/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Edited one or two lines in the &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; page.&lt;/li&gt;
@@ -7173,7 +7242,7 @@ I&amp;rsquo;m thinking of completing the game 100%.&lt;/p&gt;
       <title>Redistribution</title>
       <link>https://ohio.araw.xyz/19/</link>
       <pubDate>Wed, 24 Feb 2021 11:59:16 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/19/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new sections to the &lt;a href=&#34;https://ohio.araw.xyz/server/&#34;&gt;Server&lt;/a&gt; project.
@@ -7197,7 +7266,7 @@ But this isn&amp;rsquo;t that society.&lt;/p&gt;
       <title>We Want a Maggot-Free Cake</title>
       <link>https://ohio.araw.xyz/18/</link>
       <pubDate>Mon, 22 Feb 2021 08:05:17 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/18/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added a way for readers (are there any?) to support me, found in this page: &lt;a href=&#34;https://ohio.araw.xyz/support/&#34;&gt;Support&lt;/a&gt; (via Liberapay).
@@ -7227,7 +7296,7 @@ Give it one last purpose, at least.&lt;/p&gt;
       <title>積ん読</title>
       <link>https://ohio.araw.xyz/17/</link>
       <pubDate>Fri, 19 Feb 2021 15:05:04 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/17/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Updated the CV. Reduced it to one page.&lt;/li&gt;
@@ -7247,7 +7316,7 @@ It&amp;rsquo;s because the many books that we acquire that we have not touched a
       <title>Pressing Issues on a Valentine&#39;s Day</title>
       <link>https://ohio.araw.xyz/16/</link>
       <pubDate>Sun, 14 Feb 2021 07:24:37 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/16/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added a site logo.
@@ -7286,7 +7355,7 @@ Some might suspect its edginess, but as long as hate isn&amp;rsquo;t promoted, i
       <title>Bad Habit: Impatience</title>
       <link>https://ohio.araw.xyz/15/</link>
       <pubDate>Tue, 09 Feb 2021 07:31:45 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/15/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Reworked the color of blockquotes on a dark-themed system.&lt;/li&gt;
@@ -7309,7 +7378,7 @@ they don&amp;rsquo;t know me at all, so there&amp;rsquo;s really no big reason t
       <title>Author to be laid off</title>
       <link>https://ohio.araw.xyz/14/</link>
       <pubDate>Thu, 04 Feb 2021 01:14:22 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/14/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new project &lt;a href=&#34;https://ohio.araw.xyz/mercipod/&#34;&gt;iPod Classic Hard Drive Upgrade&lt;/a&gt;&lt;/li&gt;
@@ -7333,7 +7402,7 @@ Don&amp;rsquo;t give in to the hustle culture, which is inherently toxic by natu
       <title>Visiting Pagkakaisa</title>
       <link>https://ohio.araw.xyz/13/</link>
       <pubDate>Mon, 01 Feb 2021 11:55:26 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/13/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Removed a few sentences in &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;This Site&lt;/a&gt;, particularly those about my implied distaste towards JS.&lt;/li&gt;
@@ -7357,7 +7426,7 @@ We have more catching up to do.&lt;/p&gt;
       <title>Esmeris Farm</title>
       <link>https://ohio.araw.xyz/12/</link>
       <pubDate>Fri, 29 Jan 2021 15:16:41 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/12/</guid>
       <description>&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/esmeris.jpeg&#34;
          alt=&#34;foliage, forest&#34;/&gt;&lt;figcaption&gt;
@@ -7386,7 +7455,7 @@ The music on our drive homebound.&lt;/p&gt;
       <title>No New Interesting</title>
       <link>https://ohio.araw.xyz/11/</link>
       <pubDate>Tue, 26 Jan 2021 10:13:12 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/11/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed this site&amp;rsquo;s title, from &lt;em&gt;&lt;strong&gt;of somersaulting&lt;/strong&gt;&lt;/em&gt; to &lt;em&gt;&lt;strong&gt;to oblique lair&lt;/strong&gt;&lt;/em&gt;.
@@ -7415,7 +7484,7 @@ Maybe I can share some photo/s in the next post.&lt;/p&gt;
       <title>Some Life Hacks</title>
       <link>https://ohio.araw.xyz/10/</link>
       <pubDate>Mon, 18 Jan 2021 01:44:23 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/10/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new project: &lt;a href=&#34;https://ohio.araw.xyz/encode/&#34;&gt;Encoding&lt;/a&gt;&lt;/li&gt;
@@ -7444,7 +7513,7 @@ Maybe I can share some photo/s in the next post.&lt;/p&gt;
       <title>Causing Headaches</title>
       <link>https://ohio.araw.xyz/9/</link>
       <pubDate>Thu, 07 Jan 2021 19:24:40 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/9/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added new sections to the &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book Website&lt;/a&gt; project.&lt;/li&gt;
@@ -7465,7 +7534,7 @@ At least I can give &lt;em&gt;them&lt;/em&gt; a headache by not merely doing wha
       <title>Growing Old</title>
       <link>https://ohio.araw.xyz/8/</link>
       <pubDate>Sun, 03 Jan 2021 20:55:25 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/8/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Listed new project: &lt;a href=&#34;https://ohio.araw.xyz/alwayscarry/&#34;&gt;Always Carry A Book website&lt;/a&gt;.
@@ -7490,7 +7559,7 @@ Does it mean forfeiting everyday human function in order to live longer?&lt;/p&g
       <title>Crises and New Fear</title>
       <link>https://ohio.araw.xyz/7/</link>
       <pubDate>Thu, 31 Dec 2020 13:48:48 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/7/</guid>
       <description>&lt;p&gt;No major updates for this site.
 I haven&amp;rsquo;t been doing anything lately for research.
@@ -7518,7 +7587,7 @@ with all of its supposed leaders continuously disappointing the rest of us dispo
       <title>December Fugue</title>
       <link>https://ohio.araw.xyz/6/</link>
       <pubDate>Tue, 22 Dec 2020 22:46:44 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/6/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Added some lines and footnotes to &lt;a href=&#34;https://ohio.araw.xyz/site/&#34;&gt;The Site&lt;/a&gt; project&lt;/li&gt;
@@ -7542,7 +7611,7 @@ it&amp;rsquo;s just that they&amp;rsquo;ve chosen to deal with it haphazardly.&l
       <title>Twilight World</title>
       <link>https://ohio.araw.xyz/5/</link>
       <pubDate>Sat, 12 Dec 2020 19:56:25 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/5/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed (again) the Creative Commons licensing, from &lt;a href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt; to &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;CC BY-SA 4.0&lt;/a&gt;.
@@ -7579,7 +7648,7 @@ As you may know, Nolan&amp;rsquo;s films require more than just one viewing.&lt;
       <title>Impostor Syndrome</title>
       <link>https://ohio.araw.xyz/4/</link>
       <pubDate>Sat, 05 Dec 2020 17:51:47 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/4/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Changed the date format in Log&lt;/li&gt;
@@ -7600,7 +7669,7 @@ Who knows, that could be an interesting research and development?&lt;/p&gt;
       <title>No Rush</title>
       <link>https://ohio.araw.xyz/3/</link>
       <pubDate>Wed, 02 Dec 2020 22:05:17 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/3/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Replaced the Creative Commons Licensing from &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;CC BY-NC-SA&lt;/a&gt; to &lt;a href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;.
@@ -7626,7 +7695,7 @@ Besides, it&amp;rsquo;s hard for me to remain patient when I&amp;rsquo;m constan
       <title>And now, for something completely different</title>
       <link>https://ohio.araw.xyz/2/</link>
       <pubDate>Mon, 30 Nov 2020 19:56:15 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/2/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/&#34;&gt;This site&lt;/a&gt; is now live, hosted for the meantime in &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/li&gt;
@@ -7649,7 +7718,7 @@ Not only that, it&amp;rsquo;s my Tita Bonnie&amp;rsquo;s 61st birthday.
       <title>Hello World!</title>
       <link>https://ohio.araw.xyz/1/</link>
       <pubDate>Fri, 27 Nov 2020 14:25:09 +0800</pubDate>
-      <author>ohio@araw.xyz (Ohio Olarte)</author>
+      <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/1/</guid>
       <description>&lt;p&gt;This is the first post!&lt;/p&gt;
 &lt;p&gt;What happens from this point will depend on my Willpower, and how I manage it.&lt;/p&gt;

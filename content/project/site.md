@@ -27,8 +27,6 @@ Expect that things will be corrected, deleted, edited, fed, *grown*.
 Like a real garden, tending this one relaxes me.
 It helps me reorganize my thoughts by weeding out what's unnecessary.
 
-
-
 {{< btt >}}
 ### Public Repository of Independent Research
 
@@ -186,13 +184,18 @@ Clicking one does **_not_** open it in a new tab or window.
 You have to manually right-click it and select `Open in a new tab` (or `...window`) (or click with Mouse3/MouseWheel).
 
 {{< btt >}}
-### No JavaScript?
+### JavaScript?
 
 Given the simple layout, the interactions with the visitor are limited to
 reading content and clicking links.
 These can be achieved without JS.
 
-There's also less code to maintain, so that's a bonus, too!
+But a few pages with some math do contain JS, specifically
+[MathJax](https://www.mathjax.org), to render the formulae beautifully.
+
+If you're neither a math nor JS enthusiast, it's a non-issue to have your
+browser's JS disabled, but you'll likely see weird syntax where a math
+formula should be.
 
 {{< btt >}}
 ### No Ads

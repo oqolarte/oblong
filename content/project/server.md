@@ -121,7 +121,7 @@ I chose the nearest location to reduce download time.
 [^mirror]: It's just a server that provides the exact copy of data from another server.
 Usually to provide a means of redundancy.
 
-```shell
+```
 curl -OJ http://mirror.rise.ph/pub/OpenBSD/6.9/i386/install69.img
 ```
 
@@ -132,14 +132,14 @@ Plug in the USB stick.
 The following command assumes that the disk is recognized as `sdc1`.
 Check with `dmesg`, `df -h`, or `lsblk` commands, as root if need be.
 
-```shell
+```
 sudo dd if=install*.img of=/dev/sdc1 bs=1M
 ```
 The `dd` utility copies the standard input `if` (or input file) to the standard output `of` (or output file, which, in this case, is the USB drive).
 `bs` stands for block size, and we set it to 1 megabyte.
 
 In my case, the successful output is:
-```shell
+```
 450+0 records in
 450+0 records out
 471859200 bytes (472 MB, 450 MiB) copied, 31.9492 s, 14.8 MB/s
@@ -171,7 +171,7 @@ Then login as root.
 {{< btt >}}
 #### Enable `apmd(8)`
 
-```shell
+```
 rcctl enable apmd
 rcctl set apmd flags -a -z 7
 rcctl start apmd
@@ -184,7 +184,7 @@ rcctl start apmd
 {{< btt >}}
 #### Add username to `/etc/doas.conf`
 
-```shell
+```
 echo 'permit yourUserName' > /etc/doas.conf
 ```
 
@@ -219,7 +219,7 @@ This laptop has `re(4)`, i.e. Realtek 8139C+/8169/816xS/811xS/8168/810xE 10/100/
 
 To set it up, I created a file `/etc/hostname.re0` using vi[^vi], and put these two lines in:
 
-```shell
+```
 dhcp
 up
 ```
@@ -229,19 +229,19 @@ I'm familiar with it, but ultimately I'll use (neo)vim.
 
 To make the file `/etc/hostname.re0` belong to the `root` (the super user) and `wheel`, and to set the necessary permissions, I entered these commands as root:
 
-```shell
+```
 chown root:wheel /etc/hostname.re0
 chmod 0640 /etc/hostname.re0
 ```
 
 Activate the ethernet connection by entering this as root:
-```shell
+```
 sh /etc/netstart
 ```
 
 If successful, it's possible now to update the firmwares.
 Enter as root:
-```shell
+```
 fw_update
 ```
 
@@ -254,14 +254,14 @@ Otherwise, skip to the next section to get the firmware updates.
 This laptop has `ath(4)`, i.e. Atheros IEEE 802.11a/b/g wireless network device with GPIO.
 
 To set up the wifi, I created a file `/etc/hostname.athn0` as root and input these following lines:
-```shell
+```
 nwid myHomeWiFi wpakey p@s&w0rD
 dhcp
 up
 ```
 
 Like with the ethernet, specify that the file belongs to `root` and `wheel`, set the permissions, and activate the connection by entering the following lines, as root:
-```shell
+```
 chown root:wheel /etc/hostname.athn0
 chmod 0640 /etc/hostname.athn0
 
@@ -288,47 +288,47 @@ However, the USB drive to which I would save these must be **formatted as FAT32*
 (OpenBSD can't natively read ext4 or NTFS partitions.)
     1. There are different ways to format a USB drive to FAT32, depending on the platform you're doing the formatting on. 
         In my Debian-like system, I installed `dosfstools`.
-        ```shell
+        ```
         sudo apt install dosfstools
         ```
     1. I plugged in and located the USB drive by running this in terminal:
-        ```shell
+        ```
         lsblk
         ```
         In my case, it's `/dev/sdc` .
     1. Unmount the USB drive, because it can't be formatted when mounted:
-        ```shell
+        ```
         sudo umount /dev/sdc
         ```
     1. I created a new partition table, which will be `msdos`.
-        ```shell
+        ```
         sudo parted /dev/sdc --script -- mklabel msdos
         ```
     1. I specified that the whole drive must be of FAT32 file system, primary partition type:
-        ```shell
+        ```
         sudo parted /dev/sdc --script -- mkpart primary fat32 1MiB 100%
         ```
     1. Format the drive to FAT32:
-        ```shell
+        ```
         sudo mkfs.fat -F 32 -I /dev/sdc
         ```
     1. (Optional) To check if the device has been partitioned correctly:
-        ```shell
+        ```
         sudo parted /dev/sdc --script print
         ```
 1. Insert the USB drive that has now the firmware files to the OpenBSD machine.
 As root, enter `diskutil list`.
 The USB drive will appear to have several partitions, e.g. sd1c.
 1. Create a mount point under /mnt (as root):
-   ```shell
+   ```
    mkdir /mnt/usb
    ```
 1. Mount the USB (as root):
-   ```shell
+   ```
    mount /dev/sd1i /mnt/usb
    ```
 1. Once mounted, install the firmware manually (as root):
-   ```shell
+   ```
    fw_update -p /mnt/usb
    ```
 1. Reboot.
@@ -338,7 +338,7 @@ The USB drive will appear to have several partitions, e.g. sd1c.
 
 In this laptop, I'm going install several binaries from the ports, namely **git** (version control system), and **neovim** (text editor).
 To install in one go, enter as root:
-```shell
+```
 pkg_add git neovim 
 ```
 {{< btt >}}
@@ -369,7 +369,7 @@ Filenames include:
 **To generate a new key**:
 
 1. Enter this in the terminal:
-   ```shell
+   ```
    ssh-keygen -t ed25519 -a 100
    ```
    `-t ed25519` option specifies the type of key;  
@@ -377,17 +377,17 @@ Filenames include:
 1. Follow the prompts.
 I left the defaults as they are, but feel free to configure for your use case.
 1. In order to add key, start the ssh-agent in the background.
-   ```shell
+   ```
    eval "$(ssh-agent -s)"
    ```
 1. Add the SSH private key to the ssh-agent.
-   ```shell
+   ```
    ssh-add ~/.ssh/id_ed25519
    ```
 1. When going to the remote server using SSH, you'll be prompted for a password everytime.
 Instead of that, we can use the SSH key.
 Copy that into the remote server:
-   ```shell
+   ```
    ssh-copy-id username@example.com
    ```
    This will prompt you one last time for the password of the server.
@@ -399,11 +399,11 @@ Copy that into the remote server:
 A few tweaks are needed to make SSH a pleasant experience.
 
 1. Login---or SSH *into*---the server:
-   ```shell
+   ```
    ssh username@example.com
    ```
 1. Edit `/etc/ssh/sshd_config`:
-   ```shell
+   ```
    # find PasswordAuthentication, comment it out, 
    # and turn 'yes' to 'no'
    # so bad actors can't login even if they know the passwd
