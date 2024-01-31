@@ -30,6 +30,14 @@ get:
 .PHONY: build
 build:
 	@echo "Generating site"
+	@echo "Copying wiki to oblong"
+	cp -rv /home/user/Documents/wikidbrane/*.md /home/user/oblong/content/wiki/
+	rm -v /home/user/oblong/content/wiki/la-novella.md
+	cp -rv /home/user/Documents/wikidbrane/*.png static/image/
+	cp -rv /home/user/Documents/wikidbrane/*.jpg static/image/
+	cp -rv /home/user/Documents/wikidbrane/*.svg static/image/
+	rm -rv content/wiki/index.md
+	@echo "Generating openring"
 	/home/user/oblong/feeds
 	hugo --cleanDestinationDir --gc -d $(DESTDIR)
 
@@ -40,9 +48,9 @@ deploy:
 	&& git config user.name "oqo" \
 	&& git add . \
 	&& git status \
-	&& git commit -m "Deploying via makefile"
+	&& git commit -m "Deployed via makefile"
 	@hugo --cleanDestinationDir --gc -d $(DESTDIR)
 	@git add . \
-	&& git commit -m "Deploying via makefile" \
+	&& git commit -m "Deployed via makefile" \
 	&& git push -u origin main
 	@echo "Site is now updated in git repo. Okay to push!"

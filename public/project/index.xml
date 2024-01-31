@@ -13,6 +13,73 @@
     
     
     <item>
+      <title>Wiki by Hugo and Vimwiki</title>
+      <link>https://ohio.araw.xyz/wiki-meta/</link>
+      <pubDate>Tue, 30 Jan 2024 06:37:13 +0800</pubDate>
+      <author>ohio@araw.xyz (ohio olarte)</author>
+      <guid>https://ohio.araw.xyz/wiki-meta/</guid>
+      <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
+Status:
+&lt;strong&gt;ON-GOING&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;If you meant to check my digital garden, click here: &lt;a href=&#34;https://ohio.araw.xyz/wiki&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This page talks about the current implementation of said digital garden.&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#personal-knowledge-management-system&#34;&gt;Personal Knowledge Management System&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#integration-with-hugo&#34;&gt;Integration with Hugo&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;personal-knowledge-management-system&#34;&gt;Personal Knowledge Management System&lt;/h2&gt;
+&lt;p&gt;Having a second brain is getting more popular.
+In it&amp;rsquo;s simplest form, it&amp;rsquo;s a bunch of personal notes on different
+topics. When these notes are linked to one another so that they
+encourage formation of novel ideas, then their sum becomes a knowledge
+base&amp;mdash;a low-tech brain if you will&amp;mdash;that one can use to augment that thing
+between one&amp;rsquo;s ears.&lt;/p&gt;
+&lt;p&gt;Personally, digital note-taking systems make good second brains.
+And there are a lot of them.&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;Vimwiki&lt;/a&gt; on top of
+&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; text editor.&lt;/p&gt;
+&lt;p&gt;The out-of-the-box &lt;code&gt;.wiki&lt;/code&gt; syntax of Vimwiki is a derivative of Markdown.
+It can be confusing, though, if you&amp;rsquo;re already using Markdown for other
+text-based files (like blogging in Hugo).&lt;/p&gt;
+&lt;p&gt;To use actual Markdown syntax, I configured my &lt;code&gt;vimrc&lt;/code&gt; to have the
+following snippet:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;let g:vimwiki_list = [{&amp;#39;path&amp;#39;: &amp;#39;~/path/to/vimwiki/&amp;#39;,
+                      \ &amp;#39;syntax&amp;#39;: &amp;#39;markdown&amp;#39;, &amp;#39;ext&amp;#39;: &amp;#39;.md&amp;#39;}]
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I can now write my notes using &lt;code&gt;.md&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;integration-with-hugo&#34;&gt;Integration with Hugo&lt;/h2&gt;
+&lt;p&gt;I use the static-site generator, &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; to generate
+the HTML files of this blog.&lt;/p&gt;
+&lt;p&gt;To migrate my offline wiki to this blog, I made a separate section in this
+site&amp;rsquo;s folder structure, under &lt;code&gt;content&lt;/code&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mkdir content/wiki/
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I&amp;rsquo;m not building my wiki within the site directory and am keeping it in
+a separate folder, to have compartmentalization. This friction is
+non-issue for now.&lt;/p&gt;
+&lt;p&gt;To migrate, I run a few commands:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cp -rv /path/to/offline-wiki/*.md /home/user/site-directory/content/wiki/
+rm /home/user/site-directory/content/wiki/index.md
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The &lt;code&gt;cp&lt;/code&gt; line just copies all &lt;code&gt;.md&lt;/code&gt; files to the wiki section of this
+site. The &lt;code&gt;rm&lt;/code&gt; line deletes the index file of the offline wiki; I made a
+separate &amp;ldquo;index&amp;rdquo; file for the wiki section. This solves the weird issues
+of having two index files, one from Vimwiki, and one from Hugo build.&lt;/p&gt;
+&lt;p&gt;To make this easier, I include these lines in my Makefile which includes
+other automation as well. When I run &lt;code&gt;make build&lt;/code&gt; in my terminal, my
+blog update now includes the latest changes from my wiki.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Video Log - November 2022 </title>
       <link>https://ohio.araw.xyz/nov2022-vlog/</link>
       <pubDate>Tue, 27 Dec 2022 11:50:58 +0800</pubDate>
@@ -11069,7 +11136,7 @@ and hope to grow them.
 It becomes both the medium and the message of the self.
 For some it&amp;rsquo;s a blog;
 for others it&amp;rsquo;s their own personal wiki.&lt;/p&gt;
-&lt;p&gt;This site, then, is my digital garden.
+&lt;p&gt;This site, then, is my &lt;a href=&#34;https://ohio.araw.xyz/wiki&#34;&gt;digital garden&lt;/a&gt;.
 Expect that things will be corrected, deleted, edited, fed, &lt;em&gt;grown&lt;/em&gt;.
 Like a real garden, tending this one relaxes me.
 It helps me reorganize my thoughts by weeding out what&amp;rsquo;s unnecessary.&lt;/p&gt;
@@ -11208,8 +11275,10 @@ You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;
 &lt;p&gt;Given the simple layout, the interactions with the visitor are limited to
 reading content and clicking links.
 These can be achieved without JS.&lt;/p&gt;
-&lt;p&gt;But a few pages with some math do contain JS, specifically
-&lt;a href=&#34;https://www.mathjax.org&#34;&gt;MathJax&lt;/a&gt;, to render the formulae beautifully.&lt;/p&gt;
+&lt;p&gt;A few pages with some math do contain JS, specifically
+&lt;a href=&#34;https://www.mathjax.org&#34;&gt;MathJax&lt;/a&gt;, to render the formulae beautifully.
+But on mobile, it doesn&amp;rsquo;t load properly. As of writing this, I&amp;rsquo;m still
+looking for a workaround on that.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re neither a math nor JS enthusiast, it&amp;rsquo;s a non-issue to have your
 browser&amp;rsquo;s JS disabled, but you&amp;rsquo;ll likely see weird syntax where a math
 formula should be.&lt;/p&gt;

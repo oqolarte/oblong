@@ -22,7 +22,7 @@ It becomes both the medium and the message of the self.
 For some it's a blog;
 for others it's their own personal wiki.
 
-This site, then, is my digital garden.
+This site, then, is my [digital garden](/wiki).
 Expect that things will be corrected, deleted, edited, fed, *grown*.
 Like a real garden, tending this one relaxes me.
 It helps me reorganize my thoughts by weeding out what's unnecessary.
@@ -190,8 +190,10 @@ Given the simple layout, the interactions with the visitor are limited to
 reading content and clicking links.
 These can be achieved without JS.
 
-But a few pages with some math do contain JS, specifically
+A few pages with some math do contain JS, specifically
 [MathJax](https://www.mathjax.org), to render the formulae beautifully.
+But on mobile, it doesn't load properly. As of writing this, I'm still
+looking for a workaround on that.
 
 If you're neither a math nor JS enthusiast, it's a non-issue to have your
 browser's JS disabled, but you'll likely see weird syntax where a math

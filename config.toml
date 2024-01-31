@@ -8,8 +8,9 @@ enableGitInfo = true
     name = 'ohio olarte'
 
 [permalinks]
-	log = "/:filename:"
-	project = "/:filename:"
+    log = "/:filename:"
+    project = "/:filename:"
+    wiki = "/:filename:"
 
 [frontmatter]
 	date = ["date", "publishDate"]
