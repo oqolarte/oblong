@@ -31,14 +31,20 @@ Status:
   &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#personal-knowledge-management-system&#34;&gt;Personal Knowledge Management System&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#personal-knowledge-management-pkm-system&#34;&gt;Personal Knowledge Management (PKM) System&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#integration-with-hugo&#34;&gt;Integration with Hugo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#preparing-each-note-to-be-hugo-ready&#34;&gt;Preparing each note to be Hugo-ready&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#front-matter&#34;&gt;Front matter&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#config-the-initvim-to-call-the-script&#34;&gt;Config the &lt;code&gt;init.vim&lt;/code&gt; to call the script&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;personal-knowledge-management-system&#34;&gt;Personal Knowledge Management System&lt;/h2&gt;
+&lt;h2 id=&#34;personal-knowledge-management-pkm-system&#34;&gt;Personal Knowledge Management (PKM) System&lt;/h2&gt;
 &lt;p&gt;Having a second brain is getting more popular.
 In it&amp;rsquo;s simplest form, it&amp;rsquo;s a bunch of personal notes on different
 topics. When these notes are linked to one another so that they
@@ -48,11 +54,15 @@ between one&amp;rsquo;s ears.&lt;/p&gt;
 &lt;p&gt;Personally, digital note-taking systems make good second brains.
 And there are a lot of them.&lt;/p&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;Vimwiki&lt;/a&gt; on top of
-&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; text editor.&lt;/p&gt;
-&lt;p&gt;The out-of-the-box &lt;code&gt;.wiki&lt;/code&gt; syntax of Vimwiki is a derivative of Markdown.
-It can be confusing, though, if you&amp;rsquo;re already using Markdown for other
-text-based files (like blogging in Hugo).&lt;/p&gt;
-&lt;p&gt;To use actual Markdown syntax, I configured my &lt;code&gt;vimrc&lt;/code&gt; to have the
+&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; text editor.
+That means if you aren&amp;rsquo;t already using Vim or neovim as your default
+text editor, Vimwiki might not be for you.
+Otherwise, read on.&lt;/p&gt;
+&lt;p&gt;The out-of-the-box &lt;code&gt;.wiki&lt;/code&gt; syntax of Vimwiki is a derivative of
+Markdown. It can be confusing at first, though. So, for a cohesive
+text-editing experience, we&amp;rsquo;ll tweak it so that we can use actual
+Markdown syntax (important for blogging in Hugo).&lt;/p&gt;
+&lt;p&gt;To do so, I configured my &lt;code&gt;init.vim&lt;/code&gt; to have the
 following snippet:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;let g:vimwiki_list = [{&amp;#39;path&amp;#39;: &amp;#39;~/path/to/vimwiki/&amp;#39;,
                       \ &amp;#39;syntax&amp;#39;: &amp;#39;markdown&amp;#39;, &amp;#39;ext&amp;#39;: &amp;#39;.md&amp;#39;}]
@@ -76,6 +86,38 @@ of having two index files, one from Vimwiki, and one from Hugo build.&lt;/p&gt;
 &lt;p&gt;To make this easier, I include these lines in my Makefile which includes
 other automation as well. When I run &lt;code&gt;make build&lt;/code&gt; in my terminal, my
 blog update now includes the latest changes from my wiki.&lt;/p&gt;
+&lt;h2 id=&#34;preparing-each-note-to-be-hugo-ready&#34;&gt;Preparing each note to be Hugo-ready&lt;/h2&gt;
+&lt;p&gt;For this to work, each note must be Hugo-ready. Writing the notes in
+Markdown is already half the work. Next will be adding front matter to
+each note.&lt;/p&gt;
+&lt;h3 id=&#34;front-matter&#34;&gt;Front matter&lt;/h3&gt;
+&lt;p&gt;According to Hugo&amp;rsquo;s docs, &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;&gt;front matter&lt;/a&gt; is the
+metadata of the file, containing, for example, title, tags, description,
+etc.&lt;/p&gt;
+&lt;p&gt;To automatically add front matter each time you create a note, create a
+script that the Vimwiki can call. I&amp;rsquo;ll call this &lt;code&gt;gen-wiki-template&lt;/code&gt; and
+place it on Vim config directory, say &lt;code&gt;~/.vim/bin/gen-wiki-template&lt;/code&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#!/bin/sh
+
+isod=$(date +%F)
+
+echo &amp;#34;---
+title:
+date: $isod
+draft: false
+math: false
+---&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;As you can see, it&amp;rsquo;s a rather simple script. Feel free to edit to meet
+your front matter needs.&lt;/p&gt;
+&lt;h3 id=&#34;config-the-initvim-to-call-the-script&#34;&gt;Config the &lt;code&gt;init.vim&lt;/code&gt; to call the script&lt;/h3&gt;
+&lt;p&gt;To automatically call the script, that is, to add the
+front matter, add this line below to your vim &lt;code&gt;init.vim&lt;/code&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;au BufNewFile ~/path/to/wiki/*.md :silent 0r !~/.vim/bin/gen-wiki-template &amp;#39;%&amp;#39;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This means that every time a new file (note) is created within the wiki
+folder, &lt;code&gt;gen-wiki-template&lt;/code&gt; script is run. The script just echoes the
+front matter on the blank file.&lt;/p&gt;
+&lt;p&gt;Having front matter in the wiki is helpful because I can set &lt;code&gt;draft: true&lt;/code&gt; and not
+make a note publicly available yet still accessible to me.&lt;/p&gt;
 </description>
     </item>
     

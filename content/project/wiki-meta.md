@@ -13,7 +13,7 @@ This page talks about the current implementation of said digital garden.
 
 {{< toc >}}
 
-## Personal Knowledge Management System
+## Personal Knowledge Management (PKM) System
 
 Having a second brain is getting more popular.
 In it's simplest form, it's a bunch of personal notes on different
@@ -27,12 +27,16 @@ And there are a lot of them.
 
 I use [Vimwiki](https://vimwiki.github.io/) on top of
 [neovim](https://neovim.io) text editor.
+That means if you aren't already using Vim or neovim as your default
+text editor, Vimwiki might not be for you.
+Otherwise, read on.
 
-The out-of-the-box `.wiki` syntax of Vimwiki is a derivative of Markdown.
-It can be confusing, though, if you're already using Markdown for other
-text-based files (like blogging in Hugo).
+The out-of-the-box `.wiki` syntax of Vimwiki is a derivative of
+Markdown. It can be confusing at first, though. So, for a cohesive
+text-editing experience, we'll tweak it so that we can use actual
+Markdown syntax (important for blogging in Hugo).
 
-To use actual Markdown syntax, I configured my `vimrc` to have the
+To do so, I configured my `init.vim` to have the
 following snippet:
 
 ```
@@ -73,3 +77,51 @@ of having two index files, one from Vimwiki, and one from Hugo build.
 To make this easier, I include these lines in my Makefile which includes
 other automation as well. When I run `make build` in my terminal, my
 blog update now includes the latest changes from my wiki.
+
+## Preparing each note to be Hugo-ready
+
+For this to work, each note must be Hugo-ready. Writing the notes in
+Markdown is already half the work. Next will be adding front matter to
+each note.
+
+### Front matter
+
+According to Hugo's docs, [front matter](https://gohugo.io/content-management/front-matter/) is the
+metadata of the file, containing, for example, title, tags, description,
+etc.
+
+To automatically add front matter each time you create a note, create a
+script that the Vimwiki can call. I'll call this `gen-wiki-template` and
+place it on Vim config directory, say `~/.vim/bin/gen-wiki-template`:
+
+```
+#!/bin/sh
+
+isod=$(date +%F)
+
+echo "---
+title:
+date: $isod
+draft: false
+math: false
+---"
+```
+
+As you can see, it's a rather simple script. Feel free to edit to meet
+your front matter needs.
+
+### Config the `init.vim` to call the script
+
+To automatically call the script, that is, to add the
+front matter, add this line below to your vim `init.vim`.
+
+```
+au BufNewFile ~/path/to/wiki/*.md :silent 0r !~/.vim/bin/gen-wiki-template '%'
+```
+
+This means that every time a new file (note) is created within the wiki
+folder, `gen-wiki-template` script is run. The script just echoes the
+front matter on the blank file.
+
+Having front matter in the wiki is helpful because I can set `draft: true` and not
+make a note publicly available yet still accessible to me.
