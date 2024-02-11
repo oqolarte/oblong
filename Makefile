@@ -13,7 +13,7 @@ get_repository:
 .PHONY: clean
 clean:
 	@echo "Cleaning old build"
-	cd $(DESTDIR) && rm -rf *
+	cd $(DESTDIR) && rm -rvf *
 
 .PHONY: get
 get:
@@ -30,9 +30,10 @@ get:
 .PHONY: build
 build:
 	@echo "Generating site"
+	@echo "Cleaning oblong's wiki copy"
+	rm -v /home/user/oblong/content/wiki/*
 	@echo "Copying wiki to oblong"
 	cp -rv /home/user/Documents/wikidbrane/*.md /home/user/oblong/content/wiki/
-	rm -v /home/user/oblong/content/wiki/la-novella.md
 	cp -rv /home/user/Documents/wikidbrane/*.png static/image/
 	cp -rv /home/user/Documents/wikidbrane/*.jpg static/image/
 	cp -rv /home/user/Documents/wikidbrane/*.svg static/image/

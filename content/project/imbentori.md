@@ -6,31 +6,26 @@ draft: false
 ---
 {{< ongoing >}}
 
-It may or may not have been obvious,
-but people my age like to express themselves on the internet.
+If it isn't obvious yet,
+people like me like to express themselves on the internet.
 
-I was active on Tumblr, that you can still visit:
+I was active on Tumblr once, and did some creative writing there.
 
-**[Imbentori](https://iooare.tumblr.com)**
-
-A little while back, I even thought of parsing through the original text I have there, and publish them in some sort of a book...
-
-I'm not throwing this idea permanently away.
-It's just that I have more interesting things to tackle, in my opinion.
-
-In the meantime, read the preface I drafted some time ago for this would-be collection of personal essays.
+The body of work below are selected entries from that blog. It may or
+may not be published into a book in the future. Until then, here's the
+free online copy.
 
 {{< toc >}}
 
 ## Preface
 
-The tongue that swirls with its perceived languages can only cope so much from the demands of diction.
-*Imbentori*, then, attempts to speak the library of tensions as they never unfold in the mind,
-to glue incoherent rants with in/formal grammar & syntax to make it sound
-ir/rational.
-It is a list of personal truths told with cryptic lingo
-(or with International Art English[^bs], one could argue)
-to add dimension to the mundane.
+The tongue that swirls with its perceived languages can only cope so
+much from the demands of diction. *Imbentori*, then, attempts to speak
+the library of tensions as they never unfold in the mind, to glue
+incoherent rants with in/formal grammar & syntax to make it sound
+ir/rational. It is a list of personal truths told with cryptic lingo (or
+with International Art English[^bs], one could argue) to add dimension
+to the mundane.
 
 I wanted to tell stories, fiction or otherwise, that had shaped me definitively.
 In some entries, though, there's no room for interpretation.
@@ -59,10 +54,6 @@ If everything sounds strange,
 it's because I had been in this odd phase.
 
 {{< btt >}}
-### There's a free copy online
-
-Most of them are lumped into what I call [Unscholarly Notes](https://iooare.tumblr.com/tagged/unscholarly%20notes),
-after a chapter in one of my favorite books by F. Sionil Jose.
 
 [^bs]: Reminds me of a paper called [_"Bullshit Makes The Art Grow Profounder"_](http://journal.sjdm.org/19/190712/jdm190712.html) (Turpin et. al., 2019). 
 Some 20(20) years ago when I last visited an art museum (or was it just gallery?), 

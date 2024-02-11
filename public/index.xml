@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 08:48:50 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wikis</title>
+      <link>https://ohio.araw.xyz/wiki/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <author>ohio@araw.xyz (ohio olarte)</author>
+      <guid>https://ohio.araw.xyz/wiki/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What People Have Been Saying</title>
@@ -456,16 +465,15 @@ aimlessness.&lt;/dd&gt;
       <pubDate>Sat, 10 Apr 2021 15:05:20 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/disclaimer/</guid>
-      <description>&lt;p&gt;Ideas, opinions, and/or views&amp;mdash;original
-or rehashed&amp;mdash;expressed here are mine alone,
-NOT of my past, present, nor future colleagues, employer/s, families and friends.
-They may change at any point in time.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Any content is provided &amp;ldquo;as is&amp;rdquo; and I disclaim all warranties.
-Although I try my best to vet the ideas and ensure correctness,
-content might still include errors
-because of my biases and/or general ignorance,
-and I don&amp;rsquo;t take responsibility for any damages to anything as result.
-If you see any error, please let me know through email.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Ideas, opinions, and/or views&amp;mdash;original or rehashed&amp;mdash;expressed here
+are mine alone, NOT of my past, present, nor future colleagues,
+employer/s, families and friends. They may change at any point in
+time.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Any content is provided &amp;ldquo;as is&amp;rdquo; and I disclaim all warranties. Although
+I try my best to vet the ideas and ensure correctness, content might
+still include errors because of my biases and/or general ignorance, and
+I don&amp;rsquo;t take responsibility for any damages to anything as result. If
+you see any error, please let me know through email.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;This site contains links to external websites and/or services. I include
 these links as a convenience and for learning and having fun only.
 Neither do I endorse nor approve of any of the products, services, or
@@ -477,9 +485,8 @@ answers to questions regarding its content.&lt;/p&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;In fact, it&amp;rsquo;s likely to change given enough time.
-People change, given enough time.
-Everything does.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In fact, it&amp;rsquo;s likely to change given enough time. People
+change, given enough time. Everything does.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;See footer for email address.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
@@ -616,63 +623,6 @@ Project Engineer @ Archen Technologies, Inc. (2 years)&lt;/p&gt;
       <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Super Second Brain</title>
-      <link>https://ohio.araw.xyz/wiki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/wiki/</guid>
-      <description>&lt;h2 id=&#34;or-the-wikidbrane&#34;&gt;Or, the Wikidbrane&lt;/h2&gt;
-&lt;p&gt;Because learning creates bonds,
-both mental and emotional.
-It opens new realities to be merged with existing ones.&lt;/p&gt;
-&lt;h2 id=&#34;proposals&#34;&gt;Proposals&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://ohio.araw.xyz/dream-house&#34;&gt;dream house&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/novel-writing&#34;&gt;novel writing&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/art-tech&#34;&gt;WRITE: Art as Function of Tech&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://ohio.araw.xyz/communication&#34;&gt;communication&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/cryptography&#34;&gt;cryptography&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/data-management&#34;&gt;data management&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/design&#34;&gt;design&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/fashion&#34;&gt;fashion&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/filmmaking&#34;&gt;filmmaking&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/health&#34;&gt;health&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/math&#34;&gt;mathematics&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/personal-finance&#34;&gt;personal finance&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/personal-principles&#34;&gt;personal principles&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/politics&#34;&gt;politics&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/repair&#34;&gt;repair&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/simple-living&#34;&gt;simple living&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/technology&#34;&gt;technology&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://ohio.araw.xyz/alcohol&#34;&gt;alcohol&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/autonomation&#34;&gt;autonomation&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/dadaism&#34;&gt;dadaism&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/dd&#34;&gt;dd&lt;/a&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/ffmpeg&#34;&gt;ffmpeg&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/insects&#34;&gt;insects&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/mr&#34;&gt;market research&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/makefile&#34;&gt;makefile&lt;/a&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/projm&#34;&gt;project management&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/prodm&#34;&gt;product management&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ameyama.com/blog/public-domain-resources&#34;&gt;public domain resources&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/statistics&#34;&gt;statistics&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/stylometry&#34;&gt;stylometry&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/surrealism&#34;&gt;surrealism&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I am my own muse.
-I am the subject I know best.
-The subject I want to better.&lt;/p&gt;
-&lt;p&gt;&amp;ndash; Frida Kahlo&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;disclaimer&#34;&gt;DISCLAIMER&lt;/h2&gt;
-&lt;p&gt;Always work-in-progress.
-Always vet.
-Just for learning and having fun.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
