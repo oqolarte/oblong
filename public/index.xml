@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Sun, 11 Feb 2024 08:48:50 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Wikis</title>
       <link>https://ohio.araw.xyz/wiki/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/wiki/</guid>
       <description></description>
@@ -413,8 +413,6 @@ everything in between, housed in a barely-formatted website.&lt;/dd&gt;
 gut-punches the reader, but not in a horrible way.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://drewdevault.com&#34;&gt;Drew DeVault&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;is a developer, probably most known for coming up with Sway window manager, who also has important (controversial?) political takes related to &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;FOSS&lt;/a&gt;.&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;https://www.engineeringforchange.org&#34;&gt;Engineering For Change&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;&amp;ldquo;bridges engineering and sustainable development&amp;rdquo; in their site.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://ethical.net&#34;&gt;Ethical Network&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;looks for ways to make the &amp;ldquo;ethical the new normal,&amp;rdquo; either by
 recommending

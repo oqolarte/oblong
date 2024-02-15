@@ -3,11 +3,7 @@
 <html lang="{{ .Site.LanguageCode }}">
 	{{ partial "head.html" . }}
   <body>
-    <div class="container">
-      <main id="main">
-       {{ block "main" . }}{{ end }}
-      </main>
-    </div>
-  </body>
+    {{ block "main" . }}{{ end }}
+     </body>
   {{ partial "footer.html" . }}
 </html>

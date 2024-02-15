@@ -18,9 +18,6 @@ gut-punches the reader, but not in a horrible way.
 [Drew DeVault](https://drewdevault.com)
 : is a developer, probably most known for coming up with Sway window manager, who also has important (controversial?) political takes related to [FOSS](/foss).
 
-[Engineering For Change](https://www.engineeringforchange.org)
-: "bridges engineering and sustainable development" in their site.
-
 [Ethical Network](https://ethical.net)
 : looks for ways to make the "ethical the new normal," either by
 recommending
