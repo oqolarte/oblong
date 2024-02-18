@@ -13,7 +13,7 @@ draft: false
 - Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mull](https://gitlab.com/divested-mobile/mull-fenix) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
-      Nitter, Rural Dictionary, rimgo, Quetre)
+      Rural Dictionary, rimgo, Quetre)
 - Search engine: [Searx](https://searx.be/)
 - Password manager: [Bitwarden](https://bitwarden.com/)
 - Email client: [aerc](https://aerc-mail.org)

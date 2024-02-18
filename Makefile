@@ -38,6 +38,7 @@ build:
 	cp -rv /home/user/Documents/wikidbrane/*.jpg static/image/
 	cp -rv /home/user/Documents/wikidbrane/*.svg static/image/
 	rm -rv content/wiki/index.md
+	cp -v /home/user/oblong/_index.md content/wiki/_index.md
 	@echo "Generating openring"
 	/home/user/oblong/feeds
 	hugo --cleanDestinationDir --gc -d $(DESTDIR)

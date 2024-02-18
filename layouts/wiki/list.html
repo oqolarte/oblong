@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+<p>
+Because learning creates bonds,
+both mental and emotional.
+It opens new realities to be merged with existing ones.
+</p>
+
+{{ range .Pages.ByLastmod }}
+<span class="green">&#9752;</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+{{ end }}
+
+<p>
+Notes are always work-in-progress, so always vet.
+This is all just for learning and having fun.
+</p>
+<br>
+<p>Back to <a href="/">Index</a> :: <a href="/log">Log</a> :: <a href="/project">Projects</a> </p>
+
+<hr class="foot-hr">
+{{ end }}

@@ -41,23 +41,6 @@
             ]
         },
         {
-            "description": "twitter to nitter",
-            "exampleUrl": "https://twitter.com/dril",
-            "exampleResult": "https://nitter.kavin.rocks/dril",
-            "error": null,
-            "includePattern": "https://twitter.com/*",
-            "excludePattern": "",
-            "patternDesc": "",
-            "redirectUrl": "https://nitter.kavin.rocks/$1",
-            "patternType": "W",
-            "processMatches": "noProcessing",
-            "disabled": false,
-            "grouped": false,
-            "appliesTo": [
-                "main_frame"
-            ]
-        },
-        {
             "description": "urban to rural dictionary",
             "exampleUrl": "https://urbandictionary.com/define.php?term=eevee",
             "exampleResult": "https://rd.vern.cc/define.php?term=eevee",
