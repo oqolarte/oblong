@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Sun, 18 Feb 2024 09:24:56 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:24:54 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -316,7 +316,7 @@ References are available on request.&lt;/p&gt;
 
 &lt;h2 id=&#34;default-apps&#34;&gt;Default apps&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Operating System: &lt;a href=&#34;https://www.debian.org/News/2023/20230610&#34;&gt;Debian 12 &amp;ldquo;&lt;em&gt;bookworm&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux 3.19 (edge)&lt;/a&gt; (laptop, daily driver); Android (smartphone)&lt;/li&gt;
+&lt;li&gt;Operating System: &lt;a href=&#34;https://www.debian.org/News/2023/20230610&#34;&gt;Debian 12 &amp;ldquo;&lt;em&gt;bookworm&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux edge&lt;/a&gt; (laptop, daily driver); Android (smartphone)&lt;/li&gt;
 &lt;li&gt;Web Browsers: &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (laptop), &lt;a href=&#34;https://gitlab.com/divested-mobile/mull-fenix&#34;&gt;Mull&lt;/a&gt; (Android)
 &lt;ul&gt;
 &lt;li&gt;Browser add-ons: uBlock Origin, Redirector, SponsorBlock&lt;/li&gt;

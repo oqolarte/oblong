@@ -9,7 +9,7 @@ draft: false
 
 ## Default apps
 
-- Operating System: [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); [Alpine Linux 3.19 (edge)](https://alpinelinux.org) (laptop, daily driver); Android (smartphone)
+- Operating System: [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); [Alpine Linux edge](https://alpinelinux.org) (laptop, daily driver); Android (smartphone)
 - Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mull](https://gitlab.com/divested-mobile/mull-fenix) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,

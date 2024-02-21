@@ -5,10 +5,28 @@ draft: false
 ---
 
 [Transformative justice](https://transformharm.org/tj_resource/transformative-justice-a-brief-description/)
-(TJ) is a political framework and approach
-for responding to violence, harm, and abuse
-that's very different from the current carceral systems in place.
-TJ aims to not reproduce the [violence](/violence).
+(TJ) is a political framework and approach for responding to violence,
+harm, and abuse that changes our communities so that most harm
+("crimes") would drastically decrease, an approach that's different from
+the current carceral systems in place.
+
+We can ask: can crimes of passion be obsolete when we no longer see people
+as things to lose or possess?
+
+Consider: Things like theft or property destruction can’t exist if many
+of our spaces are communal, and people have enough that they don't feel
+like they need more.
+
+[If a community wants to help each other](/mutual-aid), then each
+crime is unique and personal. The aggrieved and aggressor are likely
+neighbors. A damaged connection might be still be there
+and can be healed. If the aggressor is remorseful and
+penitent, then the aggrieved may forgive them, and the community might
+hold them to certain reparations.
+
+TJ aims to not reproduce the [violence](/violence) of state prisons.
+[Isolation and torture are not effective means of reforming](/abolition) those who
+hurt others, only deepens wounds.
 
 ## Apologies, Reparations
 
