@@ -4,6 +4,7 @@ date: 2024-01-23
 draft: false
 ---
 
+Humans are naturally emotioinal, nothing wrong with that.
 Bad actors use social engineering to get what they want, usually a piece
 of information like a password, by manipulating your emotions through
 [communication](/communication). This can be done in a number of ways,

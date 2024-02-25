@@ -5,6 +5,9 @@ draft: false
 ---
 
 Our security is only as good as the humans that "maintain" it.
+Whether we like it or not, it becomes increasingly complex.
+Adding a functionality---be it to software or hardware---can introduce
+unexpected vulnerabilties.
 
 Security Mindset encourages a different way of looking at the world
 around us: to get into the thinking of a would-be bad actor and how can
