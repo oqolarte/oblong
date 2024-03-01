@@ -18,6 +18,10 @@ Anti-work, in this context, then means a practice that
 obsoletes the need to work
 (i.e., that which results to someone's profit),
 like how anti-matter destroys matter.
+Because we are not meant to live like this:
+Grinding away our lives for the Hustle.
+We are mean to live in [loving communities](/friendship)
+in which we can [help each other meet our daily needs](/mutual-aid).
 
 ## Ideally, there's no need for Work
 

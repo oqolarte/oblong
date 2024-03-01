@@ -15,7 +15,7 @@ Friendship takes time and energy.
 Intimate relationships that we build and maintain with friends matters a
 lot in determining the [politics](/politics), personal and social, of
 [this world we want to prefigure](/revolution); and will take up energy
-and space one might otherwise have for a[nother] romantic relationship.
+and space ([including digital](/online-bonds)!) one might otherwise have for a[nother] romantic relationship.
 Thus, we should treat our close friends with the same tenderness and
 care we would a partner.
 

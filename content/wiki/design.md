@@ -30,47 +30,10 @@ and
 10. Environmentally-friendly
 11. Simple and without the non-essentials
 
-## Web Development
+## Other adjacent topics
 
-In which, I try to be as minimal and as brutalist with my design choices
-whenever possible.
-Because simple websites don't get in the way of delivering
-information, knowledge, and/or wisdom to the visitors.
-
-Websites shouldn't have [deceptive patterns](https://www.deceptive.design/).
-
-[HTML boilerplate](/html-boilerplate)  
-[minimal css](/minimal-css)  
-[UI](/ui)  
-[web3](/web3)  
-
-## UI/UX
-
-User Interface (UI) is how it looks
-(visual, pertains to colors, typography, iconography, layout).
-User Experience (UX) is how it feels
-(pertains to navigation, story, how the product interacts with the
-person).
-
-Bad UX is bad [security](/security).
-
-Choosing a color palette:
-https://refactoringui.com/previews/building-your-color-palette
-
-### Prototypes vs Wireframes
-
-Wireframes is like the skeleton of the product (e.g., website),
-while the prototype is the appearance.
-
-Like most products,
-the design must produce a structure of what the end result would be
-(wireframes).
-From that we can start adding the visual elements for the prototype.
-
-
-## Visual
-
-People, for better or worse, appreciate a visible effort.
-
+- [Web Development](/web-dev)
+- [UI/UX](/ui-ux)
+- Color palette: https://refactoringui.com/previews/building-your-color-palette
 - [Typography](/typography)
 - [Japanese Design Principles](/japanese-design-principles)

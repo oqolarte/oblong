@@ -44,9 +44,9 @@ physical activities would mostly likely be grounded
 outside of the digital space where knowledge workers
 mostly do their work.
 
-Right now, it's hard to say what kinds of work would be obsolete in the future,
-as it depends on the values and priorities of any society,
-as well as the technological and economic realities of that time.
+Right now, it's hard to say what kinds of work would be obsolete in the
+future, as it depends on the values and priorities of any society, as
+well as the technological and economic realities of that time.
 
 The simple table below is a prediction on
 what kinds of work would and wouldn't be present
@@ -56,9 +56,9 @@ in this imagined future:
 | ---------------                              | ----------------                    |
 | Using renewable resource                     | Extracting non-renewable resources  |
 | Preserving and enhancing natural environment | Constructing new infrastructure     |
-| Permaculture                                 | Monoculture                         |
+| [Permaculture](/permaculture)                | Monoculture                         |
 | Manufacturing life-long products             | Manufacturing single-use products   |
-| Repairing / Upcycling stuff                  | Designing products for obsolescence |
+| [Repairing](/repair) / Upcycling stuff       | Designing products for obsolescence |
 
 
 ## Solarpunk in the Philippine archipelago
@@ -98,4 +98,8 @@ will lead to a more equitable environment for future generations.
   landscape [...] By eliminating portions of the existing concrete and
   exposing the soil beneath, potential is released, and new
   opportunities for the garden arise."
-- [Ground Fridge](https://groundfridge.com/) "keeps fresh produce deliciously fresh without any electricity."
+- [Ground Fridge](https://groundfridge.com/) "keeps fresh produce
+  deliciously fresh without any electricity."
+- [Solar-powered Website](https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/)
+  is an interesting proof-of-concept on how we might share information
+  via internet that's solar-powered.

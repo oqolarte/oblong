@@ -11,8 +11,10 @@ practiced as an alternative to the traditional monoculture agriculture,
 which is known to drain the nutrients from the topsoil, as well as both
 destructive and expensive to maintain.
 
-## [Whitewashed Hope](https://docs.google.com/document/d/1er9ixhlZWmwNgywzKPNPuGVfrM5KjeRBdVMiIsjtLUM/edit)
-This article is a message from indigenous leaders and organizations,
+## When Permaculture is co-opted
+
+The write-up, "[Whitewashed Hope](https://docs.google.com/document/d/1er9ixhlZWmwNgywzKPNPuGVfrM5KjeRBdVMiIsjtLUM/edit)"
+is a message from indigenous leaders and organizations,
 mainly critiquing regenerative agriculture and permaculture as
 narrow solutions to the climate crisis.
 
