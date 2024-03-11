@@ -54,6 +54,11 @@ human resources." She poses a challenge:
 
 ## Analog vs Digital
 
+Spending time in one makes me appreciate the benefits of using the
+other. Being in both analog and digital world is a constant balancing
+act in a society that forces us to adopt the latest technologies with
+little to no regard to the marginalized.
+
 > If a physical system does something effortlessly,
 > why bother simulating it?
 > 
@@ -65,14 +70,14 @@ Assuming analog and digital measuring devices are well calibrated by a
 trusted third party, analog devices must withstand faulty human
 observation for it to be the better choice.
 
-## Analog Technologies
+### [Interesting] Analog Technologies
 
 - [Bicycle](/bike)
 - Paper
 - Pen
 - [water clock](/water-clock)
 
-## Digital Technologies
+### [Interesting] Digital Technologies
 
 - [Information Security](/infosec)
 - [Software programming](/programming)

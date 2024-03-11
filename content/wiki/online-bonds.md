@@ -16,7 +16,8 @@ It's amazing how many digital relationships rely on specific
 fluctuations of electrons and photons over webs of cables and boards of
 chips and panes of glass. Equally amazing is how, as humans, have
 learned so much over the past decades that we can now make virtual
-realities by manipulating these particles somehow, and jumpstarting a
+realities by manipulating these particles through essentially what is
+just an elaborate implementation of boolean algebra, and jumpstarting a
 futuristic dystopia in the process. Maybe.
 
 When we chat someone on our favorite messaging app, or when we

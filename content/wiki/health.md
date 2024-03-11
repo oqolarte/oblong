@@ -24,6 +24,13 @@ My cardio is embedded in daily life in the form of long walks, cycling
 to and from work on a single-speed [bike](/bike), taking stairs when
 possible, etc.
 
+### On "Gym Bros"
+
+Gym bros, with their obsession on growing their muscles and calculating
+the amount of fat, need to check themselves whether they are experiencing body
+dysmorphia and/or eating disorder, which are usually underdiagnosed in
+men.
+
 ## Self-care
 
 To be of help, I must help myself first.

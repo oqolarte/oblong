@@ -43,8 +43,18 @@ reaches a point that it's taking years for him to heal.
 - A rich aswang (politico? businessman? both?) has domestics helpers who
   are overworked and underpaid. They plan to escape their master.
 
+## Locations
+
+- A small city/town has been turned into a commune, taking inspiration
+  from Diliman Commune, but learning from its mistakes. All its entry
+  and exit points have concrete bollards that only allow human-powered
+  modes of transpo, like [bikes](/bike), push-carts, wheelchairs.
+
 ## Other Ideas
 
 - Plot idea: One of the character's soliloquy:
         - "I feel like I'm in a chapter that's about to end.
         If you're responsible for this, please put down the book
+- RESENTMENT FACILITY: A place where parties settle their differences,
+  mediated by a trusted third-party facilitator from within the
+  community.

@@ -25,6 +25,8 @@ It's something that computer scientists and [engineers](/engineering)
 are developing to supposedly automate boring tasks so we can focus on
 making art, but doing quite the opposite.
 
+## Cons of AI
+
 [Make no mistake---AI is owned by Big Tech](https://www.technologyreview.com/2023/12/05/1084393/make-no-mistake-ai-is-owned-by-big-tech/).
 A lot of AI-related startups and research labs depend on the
 infrastructure that Microsoft, Amazon, and Google provides.
@@ -43,3 +45,16 @@ Institute:
 
 AI worsens misinformation and low-quality content because it lacks the
 ethical nuance with which to include in the contents it produces.
+
+In [an interview by *The Guardian*](https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent), Kate Crawford said on what people should know about how AI products are made (emphasis mine):
+
+> We aren’t used to thinking about these systems in terms of the
+> environmental costs. But saying, “Hey, Alexa, order me some toilet
+> rolls,” invokes into being this chain of extraction, which goes all
+> around the planet… We’ve got a long way to go before this is green
+> technology. Also, systems might seem automated but when we pull away
+> the curtain we see large amounts of low paid labour, everything from
+> crowd work categorising data to the [never-ending toil](/anti-work) of
+> shuffling Amazon boxes. **AI is neither artificial nor intelligent. It
+> is made from natural resources and it is people who are performing the
+> tasks to make the systems appear autonomous.**

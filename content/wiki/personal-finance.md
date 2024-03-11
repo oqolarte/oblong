@@ -6,22 +6,27 @@ draft: false
 
 Money doesn't make one happy;
 but it's something we use to function
-in a society where it's highly valued.
+in a society where it is, unfortunately, highly valued.
 
 I don't aim to be rich, which is tricky: how rich is rich?
+As far as I know, there's no strict metric, so for me:
+being rich is when I can live comfortably and [extend that comfort](/mutual-aid)
+to others. I want to have enough to not worry about basic necessities,
+but not so much that I become a billionaire.
+
 Wealth does shape interactions within society:
 those that have too much of it reshape the systems to let them have more of it.
 
-For me, I want to have enough to not worry about basic necessities,
-but not so much that I become a billionaire.
-
 If at all possible,
-I want to [retire early](/simple-living).
+I want to [retire early](/simple-living) and
+[not have to work](/anti-work) until I'm old.
 
 ## Strategies to use
 
 - Avoid credit card debt.
-Maybe avoid credit card altogether.
+In fact, [avoid credit card altogether](https://www.youtube.com/watch?v=wqhGyLP9Q0o)
+([2](https://www.youtube.com/watch?v=bua07BbeJC0),
+[3](https://www.youtube.com/watch?v=v6zgmhsCLnc)).
 If you can't afford it in a single payment using cash (or debit),
 you can't afford it.
 Hard mode: If you can't afford it double it's amount in a single payment using
