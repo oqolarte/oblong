@@ -5,6 +5,10 @@ draft: false
 ---
 
 Religion, itself, is not bad.
+If you're a Christian, it's worth considering having a personal
+relationship with Christ, a direct interaction with God with priest or
+pope to act as intermediary, perhaps disregading the church as an
+institution altogether.
 
 ## Leaders and Organizations
 
