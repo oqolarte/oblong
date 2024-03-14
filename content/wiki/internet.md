@@ -16,3 +16,9 @@ to keep up with the learning demand.
 
 Internet access should be universal, equitable, and non-discriminatory,
 not a commodity to be bought and sold for profit.
+
+## Cloud
+
+The "Cloud" is just the internet served using other people's---really,
+companies', like Google, Amazon, Microsoft, and Meta---computers and
+proprietary infrastructure.
