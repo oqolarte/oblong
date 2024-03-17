@@ -32,3 +32,7 @@ holding that this sort of mentality prevents us from taking action now.
 
 [^tal-blessed]: Read the whole text here:
 https://theanarchistlibrary.org/library/serafinski-blessed-is-the-flame
+
+Looking for answer to poor questions like, "When will I die?" prevents
+us from fully experiencing what's worth feeling in our remaining days.
+To unlearn that there is a purpose liberates us from any expectations.

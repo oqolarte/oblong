@@ -12,6 +12,9 @@ and ensuring these institutions won't be needed again ever.
 
 Prisons as they exist now are crimes against humanity,
 and they need to be abolished regardless of the fallout.
+Whatever shape or form the prison industrial complex takes, we can be
+sure that it will strip its prisoners of of their humanity.
+Throwing people in them can never be in the name of justice.
 
 Many crimes today are because of systemic issues.
 With tighter community, such crimes would be less likely to happen
