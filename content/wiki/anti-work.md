@@ -25,7 +25,7 @@ in which we can [help each other meet our daily needs](/mutual-aid).
 
 ## Ideally, there's no need for Work
 
-Depending on what an ideal world would be, its society no longer
+If you ask me what an ideal world would be, its society no longer
 believes in the value of money. Such is not our society, though, and
 because of that, I am still saving what I can from my monthly salary,
 going to work as often as I can, even job-hopping. It's a feedback loop
@@ -33,7 +33,9 @@ worth considering, especially if it takes up 40 hours in my week.
 
 But since the market grows ever more competitive, it makes it harder for
 us those seeking greener pastures to demand higher salary, when we don't
-want to offer our services at cheaper labor cost.
+want to offer our services at cheaper labor cost. Sex work is largely a
+taboo where I live, but when you think about it, it's also work, and
+don't we, the workers, also sell our bodies, our souls even, in one form?
 
 Is this the ideal world? If so, then I am an outsider looking in. Yet, I
 have the mind to think that this isn't the ideal conditions for 99% of
@@ -44,8 +46,10 @@ competition. The reward for our hard work is more hard work.
 There's no excitement in working
 or in looking for work---only in permanently leaving them.
 
-[Slowing down the grind](/slow-productivity) might be a decent compromise for some,
-but we must not settle on such lukewarm reforms.
+[Slowing down the grind](/slow-productivity) might be a decent
+compromise for some, but we must not settle on such lukewarm reforms.
+And anyway, careerism, says Nassim Nicholas Taleb, is "the debasing of
+knowledge by turning it into a competitive sport."
 
 Most people go to work not because they like it
 but because they are coerced to it.
