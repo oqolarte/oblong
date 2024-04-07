@@ -26,3 +26,15 @@ Our society primes us for cult abuse through everyday institutions. Any
 institution that relies on us submitting to authority, dismissing our
 feelings and observations, isolating us, does this. It's no
 wonder there are cults across the political spectrum.
+
+## Good religion?
+
+If your faith is compatible with the end goals of [revolution](/revolution),
+that is, as long as you believe that dismantling hierarchies and working
+towards ending inequality is in line with your teachings,
+then there's no reason not to welcome this belief.
+If you are standing up to the barriers even within your faith, then even
+better.
+
+The people saying that *all* religion is just toxic dogma need to check
+themselves.

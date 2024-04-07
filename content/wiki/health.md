@@ -31,6 +31,13 @@ the amount of fat, need to check themselves whether they are experiencing body
 dysmorphia and/or eating disorder, which are usually underdiagnosed in
 men.
 
+## Sleep
+
+Sleep is very important. Many would argue that it's more important than
+diet, which itself is more important than exercise.
+If your sleep is bad, diet won't work, and you wont' have proper
+workout.
+
 ## Self-care
 
 To be of help, I must help myself first.
@@ -66,3 +73,4 @@ But, this is not to say that we can't allow ourselves to ask for help.
 Needing and wanting help from others can also free us from the
 capitalist baggage of ultra-self-optimization to the point of isolation,
 of being "lonely at the top," which I always find odd.
+
