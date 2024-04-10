@@ -1,5 +1,5 @@
 ---
-title: "Notes on Sabotage"
+title: "Notes on sabotage"
 date: 2023-02-20
 draft: false
 ---
