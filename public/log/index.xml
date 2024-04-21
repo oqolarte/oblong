@@ -13,6 +13,51 @@
     
     
     <item>
+      <title>Hello from Hell and Hiatus</title>
+      <link>https://ohio.araw.xyz/181/</link>
+      <pubDate>Sun, 21 Apr 2024 06:17:25 +0800</pubDate>
+      <author>ohio@araw.xyz (ohio olarte)</author>
+      <guid>https://ohio.araw.xyz/181/</guid>
+      <description>&lt;p&gt;Hello again, after an almost two-week hiatus.&lt;/p&gt;
+&lt;p&gt;I &lt;em&gt;try&lt;/em&gt; to have the simplest and most boring workflow, because, I think,
+it&amp;rsquo;s more sustainable for me. But no, life demands variability and
+volatility. This is achieved with Father Time increasing entropy across
+the board, and Mother Nature promising chaos to thrive in all levels of
+existence.&lt;/p&gt;
+&lt;h2 id=&#34;ador-status&#34;&gt;Ador Status&lt;/h2&gt;
+&lt;p&gt;My personal laptop, &lt;a href=&#34;https://ohio.araw.xyz/64&#34;&gt;Ador&lt;/a&gt;, on which I do personal things, like
+updating the files for this blog, has been wiped clean, because of my
+committing several noob errors:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Installing Alpine Linux edge as main production, which is
+discouraged; and&lt;/li&gt;
+&lt;li&gt;Not doing regular back-up of my data and files.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In the days that followed setting Ador back up, I went
+distro-[s]hopping, trying to find the right one. So, I went through the
+usual suspects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fedora (too bloated)&lt;/li&gt;
+&lt;li&gt;Arch (hard drive encryption not working somehow?)&lt;/li&gt;
+&lt;li&gt;OpenBSD (keyboard not working and/or stuck in boot)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I eventually cycled back to Alpine Linux, stable version, not edge,
+where software incompatibility can and will break the operating system.&lt;/p&gt;
+&lt;p&gt;I am still sulking at the loss of my semi-important files.&lt;/p&gt;
+&lt;h2 id=&#34;reading-many-books-at-once&#34;&gt;Reading many books at once&lt;/h2&gt;
+&lt;p&gt;In the meantime, while I was still setting up Ador, I took to reading.&lt;/p&gt;
+&lt;p&gt;Reading 3 or 4 different books simultaneously has given me the ability
+to connect ideas across them, possibly creating new innovative ideas, at
+least interesting thoughts to discuss with peers.&lt;/p&gt;
+&lt;p&gt;And annotation! Why haven&amp;rsquo;t I done that before?
+Taking notes about the text I am reading is like having a conversation
+with the ideas or interacting with the plots.
+And I feel like since I&amp;rsquo;m doing it the analog way, i.e. with physical
+books, pen and sticky notes, reading doesn&amp;rsquo;t get too boring too quickly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Thinking and Feeling</title>
       <link>https://ohio.araw.xyz/180/</link>
       <pubDate>Tue, 09 Apr 2024 08:55:30 +0800</pubDate>

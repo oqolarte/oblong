@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Tue, 09 Apr 2024 08:55:30 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 06:17:25 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -601,6 +601,17 @@ Project Engineer @ Archen Technologies, Inc. (2 years)&lt;/p&gt;
     </item>
     
     <item>
+      <title>Digital Garden</title>
+      <link>https://ohio.araw.xyz/wiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ohio@araw.xyz (ohio olarte)</author>
+      <guid>https://ohio.araw.xyz/wiki/</guid>
+      <description>&lt;p&gt;{{ range .Pages.ByTitle }}&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Log</title>
       <link>https://ohio.araw.xyz/log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -615,15 +626,6 @@ Project Engineer @ Archen Technologies, Inc. (2 years)&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Super Second Brain</title>
-      <link>https://ohio.araw.xyz/wiki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/wiki/</guid>
       <description></description>
     </item>
     

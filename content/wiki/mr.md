@@ -4,19 +4,21 @@ date: 2021-12-25T14:19:42+08:00
 draft: false
 ---
 
-The notes below are raw, unabridged.
-I will polish them when I find time.
 
 ## Definition
 
-**Market Research** (MR) is the process of understanding your business and the intended recepients of
-its products and/or services, by [gathering and analyzing data](/data-management), and making
-insights on them on a specific market.
-Through MR, companies can plan their resources to satisfy the needs of the
-market at the right time.
-We do MR to make better decisions.
-As with many things in life, good information reduces risk.
-Thus, MR is also about risk management.
+**Market Research** (MR) is the process of understanding your business
+and the intended recepients of its products and/or services, by
+[gathering and analyzing data](/data-management), and making insights on
+them on a specific market.
+
+MR uses known scientific methods to enable companies "satisfy the needs
+of the market at the right time," or in less corporate jargon, get more
+profit. It shocks no one that [capitalism](/capitalism) has coopted
+these methods and placed a profit motive on top of it.
+
+MR is the business of measurement. If it can be tracked, it most likely
+will be.
 
 ## 6 Cs of MR
 - Capable research skills

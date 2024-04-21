@@ -32,6 +32,10 @@ Possible reference:
 [250 things an architect should know](https://www.readingdesign.org/250-things)
 
 ### General space
+
+Main entrance gate has a trellis with [differently colored]
+bougainvillea climbing on it.
+
 Skylights with patterns that will project interesting geometric patterns.
 Might also have stained glass.
 

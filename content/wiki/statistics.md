@@ -5,8 +5,13 @@ draft: false
 ---
 
 ## Data and Charts
+
 Stories are illustrated by charts, graphs, tables.
 These tools present [data sets in a meaningful way](/data-management).
+
+However, statistics cannot provide all the answers!
+Too much quantification can be a problem. For example, do we really need
+data on coffee preference before making it, instead of just making it?
 
 ## The Middle
 A statistical story starts in the 'middle': mean, median, mode.

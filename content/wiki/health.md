@@ -24,6 +24,10 @@ My cardio is embedded in daily life in the form of long walks, cycling
 to and from work on a single-speed [bike](/bike), taking stairs when
 possible, etc.
 
+### Protein
+
+As a guideline, consume 140 grams of protein daily to gain muscle mass.
+
 ### On "Gym Bros"
 
 Gym bros, with their obsession on growing their muscles and calculating
