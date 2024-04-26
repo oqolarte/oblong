@@ -23,6 +23,23 @@ Grinding away our lives for the Hustle.
 We are meant to live in [loving communities](/friendship)
 in which we can [help each other meet our daily needs](/mutual-aid).
 
+## No one is lazy and unskilled
+
+But you may have learned helplessness, which is more common.
+
+You have experienced failures or been convinced you are a failure. This
+causes the depressive symptoms that look like laziness, and the feeling
+that you can't accomplish anything. This becomes a negative feedback
+loop: since you barely try, fearing failure, you are more likely to fail
+again. On the flip side, when you have successes, you are more likely
+to attribute them to luck or some other force, instead of to your self.
+
+This can be fixed. A good way is usually tackling
+it head on. This means looking objectively at what you can do, setting
+goals that you care about, giving yourself credit for successes, and
+viewing failures as information from which to learn and improve
+yourself---they may slow you down, but they don't have to stop you.
+
 ## Ideally, there's no need for Work
 
 If you ask me what an ideal world would be, its society no longer

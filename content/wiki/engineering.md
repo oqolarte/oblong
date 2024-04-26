@@ -4,7 +4,8 @@ date: 2022-09-28
 draft: false
 ---
 
-My background in engineering has helped me understand more of the world.
+My background in engineering ([electrical](/electrical), to be exact)
+has helped me understand more of the world.
 
 To begin understanding a system,
 one must look into its components,
