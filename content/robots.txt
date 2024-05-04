@@ -1,5 +1,107 @@
-# No to Common Crawl
+# Google AI 
+User-agent: Google-Extended
+Disallow: /
+
+# Google
+User-agent: Googlebot
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+# Bing
+User-agent: bingbot
+Disallow: /
+
+# Common Crawl
 User-agent: CCBot
+Disallow: /
+
+# OpenAI
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ChatGPT
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+# Omgili
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+# Facebook AI
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+# Other AI training known or suspected
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: The Knowledge AI
+Disallow: /
+
+User-agent: aiHitBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+# Siri and Alexa yuck
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+# Miscellaneous
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: SlySearch
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: netEstate NE Crawler
+Disallow: /
+
+User-agent: Pinterestbot
 Disallow: /
 
 # Yes to Wayback Machine
@@ -10,17 +112,4 @@ Disallow:
 User-Agent: search.marginalia.nu
 Disallow:
 
-# No to OpenAI
-User-agent: GPTBot
-Disallow: /
-
-# Search engines will find a home page
-# and RSS feed here, but not any further.
-User-Agent: *
-Allow: /index.html
-Allow: /feed.xml
-Allow: /headlines.xml
-Allow: /sitemap.xml
-Allow: /$
-Disallow: /
 Sitemap: https://ohio.araw.xyz/sitemap.xml
