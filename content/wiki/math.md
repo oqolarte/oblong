@@ -8,6 +8,8 @@ Math is beyond just studying numbers.
 It's applications are everywhere,
 including data science and [cryptography](/cryptography) and
 [machine learning](/ml).
+But it should be pointed out that it is not exempt from the power
+dynamics happening in the real world.
 
 People's aptitude for mathematics can be influenced by a combination of
 factors such as inherent cognitive abilities, early exposure and
