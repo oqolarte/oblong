@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a log on somersaulting</title>
-    <link>https://ohio.araw.xyz/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
     
-        <atom:link href="https://ohio.araw.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

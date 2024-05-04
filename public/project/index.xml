@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a log on somersaulting</title>
-    <link>https://ohio.araw.xyz/project/</link>
+    <link>http://localhost:1313/project/</link>
     <description>Recent content in Projects on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
     
-        <atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wiki by Hugo and Vimwiki</title>
-      <link>https://ohio.araw.xyz/wiki-meta/</link>
+      <link>http://localhost:1313/wiki-meta/</link>
       <pubDate>Tue, 30 Jan 2024 06:37:13 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/wiki-meta/</guid>
+      <guid>http://localhost:1313/wiki-meta/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
 &lt;strong&gt;ON-GOING&lt;/strong&gt;
 &lt;/p&gt;
 
-&lt;p&gt;If you meant to check my digital garden, click here: &lt;a href=&#34;https://ohio.araw.xyz/wiki&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you meant to check my digital garden, click here: &lt;a href=&#34;http://localhost:1313/wiki&#34;&gt;Wiki&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This page talks about the current implementation of said digital garden.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
@@ -123,10 +123,10 @@ make a note publicly available yet still accessible to me.&lt;/p&gt;
     
     <item>
       <title>Video Log - November 2022 </title>
-      <link>https://ohio.araw.xyz/nov2022-vlog/</link>
+      <link>http://localhost:1313/nov2022-vlog/</link>
       <pubDate>Tue, 27 Dec 2022 11:50:58 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/nov2022-vlog/</guid>
+      <guid>http://localhost:1313/nov2022-vlog/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
 &lt;strong&gt;DONE&lt;/strong&gt;
@@ -296,10 +296,10 @@ I suspect, though, that I can give a decent output if I do this thing more.&lt;/
     
     <item>
       <title>Knowing Here</title>
-      <link>https://ohio.araw.xyz/here/</link>
+      <link>http://localhost:1313/here/</link>
       <pubDate>Sun, 01 May 2022 18:46:15 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/here/</guid>
+      <guid>http://localhost:1313/here/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
 &lt;strong&gt;CLOSED&lt;/strong&gt;
@@ -363,7 +363,7 @@ to remove contaminants before it is released into the environment.&lt;/p&gt;
 I&amp;rsquo;m around 50 meters above sea level.&lt;/p&gt;
 &lt;h2 id=&#34;what-wildflower-consistently-blooms-here&#34;&gt;What wildflower consistently blooms here?&lt;/h2&gt;
 &lt;p&gt;Kalachuchi is one.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/kalach.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/kalach.jpg&#34;
     alt=&#34;close-up of kalachuchi&amp;#39;s flowers of a white variant&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;&lt;em&gt;Plumeria rubra&lt;/em&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -405,10 +405,10 @@ So, this will definitely be an internet-assisted effort.&amp;#160;&lt;a href=&#3
     
     <item>
       <title>Dada: Text-only Local News</title>
-      <link>https://ohio.araw.xyz/dada/</link>
+      <link>http://localhost:1313/dada/</link>
       <pubDate>Sun, 10 Apr 2022 01:35:49 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/dada/</guid>
+      <guid>http://localhost:1313/dada/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
 &lt;strong&gt;CLOSED&lt;/strong&gt;
@@ -553,10 +553,10 @@ this is entirely different from the art movement of similarly spelled name.&amp;
     
     <item>
       <title>Daily Photos - Feb 2022</title>
-      <link>https://ohio.araw.xyz/feb2022-photos/</link>
+      <link>http://localhost:1313/feb2022-photos/</link>
       <pubDate>Tue, 01 Feb 2022 23:24:14 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/feb2022-photos/</guid>
+      <guid>http://localhost:1313/feb2022-photos/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
 &lt;strong&gt;DONE&lt;/strong&gt;
@@ -613,7 +613,7 @@ share it here.&lt;/p&gt;
 &lt;a href=&#34;https://legacy.imagemagick.org/Usage/&#34;&gt;ImageMagick&lt;/a&gt;, &lt;a href=&#34;https://ditherit.com/&#34;&gt;dither
 it&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;day-1&#34;&gt;Day 1&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220201.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220201.jpg&#34;
     alt=&#34;dog looking down from top of staircase&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;&lt;em&gt;Taking your human time, human?&lt;/em&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -622,7 +622,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-2&#34;&gt;Day 2&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220202.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220202.jpg&#34;
     alt=&#34;room with various items like two yoga mats, a standing fan, a few books, a guitar in a case in the corner, an air conditioning unit&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Before or After Yoga&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -631,7 +631,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-3&#34;&gt;Day 3&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220203.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220203.jpg&#34;
     alt=&#34;grey cat&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Edgy Boy&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -640,7 +640,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-4&#34;&gt;Day 4&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220204.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220204.jpg&#34;
     alt=&#34;woman walking away with her back on the camera&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Another errand day outdoors&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -649,7 +649,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-5&#34;&gt;Day 5&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220205.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220205.jpg&#34;
     alt=&#34;waiting shed made of steel poles&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;You can&amp;rsquo;t sit for long on this non-ergonomic, hostile architecture!&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -658,7 +658,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-6&#34;&gt;Day 6&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220206.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220206.jpg&#34;
     alt=&#34;Buko Pie&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Buko Pie of the Week&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -667,7 +667,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-7&#34;&gt;Day 7&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220207.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220207.jpg&#34;
     alt=&#34;Coconut juice in a glass pitcher&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Buko Juice&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -676,7 +676,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-8&#34;&gt;Day 8&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220208.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220208.jpg&#34;
     alt=&#34;Self-portrait of author through a mirror&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;&lt;code&gt;https://iooare.tumblr.com/tagged/me&lt;/code&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -685,7 +685,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-9&#34;&gt;Day 9&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220209.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220209.jpg&#34;
     alt=&#34;black cat lounging on the ground&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Who&amp;rsquo;s this cat? Whose cat is this?&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -694,7 +694,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-10&#34;&gt;Day 10&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220210.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220210.jpg&#34;
     alt=&#34;Trees covering a cityscape behind&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Trees&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -703,7 +703,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-11&#34;&gt;Day 11&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220211.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220211.jpg&#34;
     alt=&#34;View of Highway from a Mall&amp;#39;s curbside&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Nighttime in Masinag&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -712,7 +712,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-12&#34;&gt;Day 12&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220212.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220212.jpg&#34;
     alt=&#34;two trees and a banana sprout&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Something there that wasn&amp;rsquo;t there before&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -721,7 +721,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-13&#34;&gt;Day 13&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220213.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220213.jpg&#34;
     alt=&#34;alley to street with two exit signs&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;No Exit&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -730,7 +730,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-14&#34;&gt;Day 14&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220214.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220214.jpg&#34;
     alt=&#34;Brown dog sniffing the ground&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Always happy to see Benjules during our walk&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -739,7 +739,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-15&#34;&gt;Day 15&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220215.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220215.jpg&#34;
     alt=&#34;pots and pans hanging&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Pots and Pans&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -748,7 +748,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-16&#34;&gt;Day 16&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220216.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220216.jpg&#34;
     alt=&#34;abandoned gasoline station with trees around it cut&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Do not enter; Bleak spot&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -757,7 +757,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-17&#34;&gt;Day 17&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220217.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220217.jpg&#34;
     alt=&#34;side view of a dog&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;&lt;code&gt;0lbaps-aduren.jpg&lt;/code&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -766,7 +766,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-18&#34;&gt;Day 18&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220218.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220218.jpg&#34;
     alt=&#34;freshly baked chocolate crinkles in the oven&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Freshly Baked&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -775,7 +775,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-19&#34;&gt;Day 19&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220219.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220219.jpg&#34;
     alt=&#34;front yard with foliage&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Back to the Old House&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -784,7 +784,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-20&#34;&gt;Day 20&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220220.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220220.jpg&#34;
     alt=&#34;bed enclosed in mosquito net&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Kulambo&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -793,7 +793,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-21&#34;&gt;Day 21&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220221.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220221.jpg&#34;
     alt=&#34;concrete structure of rail transit system&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Industrial Underbelly&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -802,7 +802,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-22&#34;&gt;Day 22&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220222.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220222.jpg&#34;
     alt=&#34;foliage&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Greeneries&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -811,7 +811,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-23&#34;&gt;Day 23&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220223.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220223.jpg&#34;
     alt=&#34;ferns&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;&lt;em&gt;What kind of fern is this?&lt;/em&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -820,7 +820,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-24&#34;&gt;Day 24&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220224.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220224.jpg&#34;
     alt=&#34;cityscape from afar&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;City Beyond the Bay&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -829,7 +829,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-25&#34;&gt;Day 25&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220225.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220225.jpg&#34;
     alt=&#34;Windmills&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Pililla Windmills&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -838,7 +838,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-26&#34;&gt;Day 26&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220226.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220226.jpg&#34;
     alt=&#34;Foliage by the hills&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;More greeneries&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -847,7 +847,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-27&#34;&gt;Day 27&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220227.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220227.jpg&#34;
     alt=&#34;Plants in the garden&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Not out Garden definitely&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -856,7 +856,7 @@ it&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;day-28&#34;&gt;Day 28&lt;/h2&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/20220228.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/20220228.jpg&#34;
     alt=&#34;Overhead shot of lense cover on wooden table&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Last photo&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -904,10 +904,10 @@ to capture a feeling in a visual medium to be our anchor to the past.&lt;/p&gt;
     
     <item>
       <title>The Old Computer Challenge</title>
-      <link>https://ohio.araw.xyz/old-computer/</link>
+      <link>http://localhost:1313/old-computer/</link>
       <pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/old-computer/</guid>
+      <guid>http://localhost:1313/old-computer/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
 &lt;strong&gt;DONE&lt;/strong&gt;
@@ -924,7 +924,7 @@ For details, check her post.&lt;/p&gt;
 For example, I didn&amp;rsquo;t limit my RAM to 512MB.
 Doing so, in my case, would result in a terrible experience.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m recommissioning the MSI Wind Netbook for this project,
-the same laptop that I originally planned to be my &lt;a href=&#34;https://ohio.araw.xyz/server&#34;&gt;homebrew server&lt;/a&gt;.&lt;/p&gt;
+the same laptop that I originally planned to be my &lt;a href=&#34;http://localhost:1313/server&#34;&gt;homebrew server&lt;/a&gt;.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
   &lt;details&gt;
@@ -1001,7 +1001,7 @@ whose physical parts comprise:&lt;/p&gt;
 &lt;p&gt;In real life, some people may just be lucky enough to have a working computer (maybe as a donation),
 but not so much to afford to upgrade its parts.
 Think far-flung rural areas.&lt;/p&gt;
-&lt;p&gt;For anyone who cares, here&amp;rsquo;s &lt;a href=&#34;https://ohio.araw.xyz/dmesg.txt&#34;&gt;dmesg&lt;/a&gt; for more details about my system.&lt;/p&gt;
+&lt;p&gt;For anyone who cares, here&amp;rsquo;s &lt;a href=&#34;http://localhost:1313/dmesg.txt&#34;&gt;dmesg&lt;/a&gt; for more details about my system.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;crippled-by-microsoft&#34;&gt;Crippled by Microsoft&lt;/h3&gt;
@@ -1051,7 +1051,7 @@ The following are what I have in my netbook:&lt;/p&gt;
 &lt;li&gt;IRC client: &lt;a href=&#34;https://irssi.org&#34;&gt;irssi&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Version Control: &lt;a href=&#34;https://git-scm.com&#34;&gt;git&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/oldpc.png&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/oldpc.png&#34;
     alt=&#34;screenshot of system running tmux with neovim, pfetch, htop&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;System captured with &lt;code&gt;scrot&lt;/code&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1069,12 +1069,12 @@ qutebrowser w3m-*-image webkitgtk4
 so named because their names usually begin with a dot,
 meaning that they&amp;rsquo;re hidden,
 unless specified otherwise.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ohio.araw.xyz/cwmrc&#34;&gt;&lt;code&gt;.cwmrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/exrc&#34;&gt;&lt;code&gt;.exrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/vimrc&#34;&gt;&lt;code&gt;.vimrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/kshrc&#34;&gt;&lt;code&gt;.kshrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/tmux&#34;&gt;&lt;code&gt;.tmux.conf&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://ohio.araw.xyz/xsession&#34;&gt;&lt;code&gt;.xsession&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/cwmrc&#34;&gt;&lt;code&gt;.cwmrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://localhost:1313/exrc&#34;&gt;&lt;code&gt;.exrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://localhost:1313/vimrc&#34;&gt;&lt;code&gt;.vimrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://localhost:1313/kshrc&#34;&gt;&lt;code&gt;.kshrc&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://localhost:1313/tmux&#34;&gt;&lt;code&gt;.tmux.conf&lt;/code&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;http://localhost:1313/xsession&#34;&gt;&lt;code&gt;.xsession&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;window-manager&#34;&gt;Window Manager&lt;/h2&gt;
@@ -1192,7 +1192,7 @@ but I didn&amp;rsquo;t do it in this machine.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;blogging&#34;&gt;Blogging&lt;/h2&gt;
-&lt;p&gt;How else can I report to the public about this project if not through this &lt;a href=&#34;https://ohio.araw.xyz/site&#34;&gt;site&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;How else can I report to the public about this project if not through this &lt;a href=&#34;http://localhost:1313/site&#34;&gt;site&lt;/a&gt;?&lt;/p&gt;
 &lt;p&gt;I build this site using &lt;code&gt;hugo&lt;/code&gt;.
 Ever since I got into making static websites,
 it&amp;rsquo;s all I use.
@@ -1201,14 +1201,14 @@ I &lt;code&gt;git&lt;/code&gt; my files for version control.&lt;/p&gt;
 to feel what it&amp;rsquo;s like to compose texts on this electric typewriter.
 Here were the logs:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/43&#34;&gt;Day 1: Signs of Aging&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/44&#34;&gt;Day 2: Haircut&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/45&#34;&gt;Day 3: Trese&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/46&#34;&gt;Day 4: Life as News&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/47&#34;&gt;Day 5: Is It Flue Season Already?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/48&#34;&gt;Day 6: Uphills&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/49&#34;&gt;Day 7: Walking the Dog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/50&#34;&gt;Day 8: FOLK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/43&#34;&gt;Day 1: Signs of Aging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/44&#34;&gt;Day 2: Haircut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/45&#34;&gt;Day 3: Trese&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/46&#34;&gt;Day 4: Life as News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/47&#34;&gt;Day 5: Is It Flue Season Already?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/48&#34;&gt;Day 6: Uphills&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/49&#34;&gt;Day 7: Walking the Dog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/50&#34;&gt;Day 8: FOLK&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -1225,7 +1225,7 @@ and &lt;code&gt;clang&lt;/code&gt; doesn&amp;rsquo;t compile &lt;code&gt;gh-cli&
 &lt;p&gt;Then follow the &lt;a href=&#34;https://github.com/cli/cli/blob/trunk/docs/source.md&#34;&gt;instructions when installing from source&lt;/a&gt;,
 except do use &lt;code&gt;gmake&lt;/code&gt; when building and installing, like so:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# gmake install
-&lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/gh-cli.png&#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/gh-cli.png&#34;
     alt=&#34;screenshot of tmux running gmake, htop, and scrot&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Compiling time compelled me to make lunch.&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1368,16 +1368,16 @@ I installed the former after removing the latter.&amp;#160;&lt;a href=&#34;#fnre
     
     <item>
       <title>My Bullet Journal Method</title>
-      <link>https://ohio.araw.xyz/bujo/</link>
+      <link>http://localhost:1313/bujo/</link>
       <pubDate>Thu, 13 May 2021 17:04:58 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/bujo/</guid>
+      <guid>http://localhost:1313/bujo/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
 &lt;strong&gt;ON-GOING&lt;/strong&gt;
 &lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/bujos.jpg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/bujos.jpg&#34;
     alt=&#34;picture of personal journals lined up on a shelf, on each of their spine are dates during which they were used&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Current line up&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -1605,10 +1605,10 @@ Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorit
     
     <item>
       <title>Imbentori: Personal Truths &amp; Dreams</title>
-      <link>https://ohio.araw.xyz/imbentori/</link>
+      <link>http://localhost:1313/imbentori/</link>
       <pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/imbentori/</guid>
+      <guid>http://localhost:1313/imbentori/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
 &lt;strong&gt;ON-GOING&lt;/strong&gt;
@@ -10084,10 +10084,10 @@ Thanks, &lt;a href=&#34;https://tkmk.tumblr.com&#34;&gt;Tom&lt;/a&gt;&amp;#160;&
     
     <item>
       <title>iPod Classic Hard Drive Upgrade</title>
-      <link>https://ohio.araw.xyz/mercipod/</link>
+      <link>http://localhost:1313/mercipod/</link>
       <pubDate>Tue, 02 Feb 2021 17:45:52 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/mercipod/</guid>
+      <guid>http://localhost:1313/mercipod/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
 &lt;strong&gt;DONE&lt;/strong&gt;
@@ -10135,7 +10135,7 @@ This is an attempt to document the process through a crappy camera and poor ligh
 
 &lt;h2 id=&#34;getting-what-i-need&#34;&gt;Getting what I need&lt;/h2&gt;
 &lt;p&gt;Here I list the things needed to replace the orignal mechanical hard drive with the new, much faster, solid state drive.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi1.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi1.jpeg&#34;
     alt=&#34;a spread of items needed to upgrade the ipod, including hard drive and prying tools&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;TOP HALF, LEFT TO RIGHT: iPod Classic, new microSD card, iFlash-Quad microSD adapter (and the included square foam below it), special flexible steel pry bar; BOTTOM HALF: an assortment of prying tools&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10217,7 +10217,7 @@ It&amp;rsquo;s better to make sure, than force something  and then breaking it n
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;1-open-the-ipod&#34;&gt;1. Open the iPod&lt;/h3&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi2.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi2.jpeg&#34;
     alt=&#34;an image of ipod and a small roll of washi tape below it&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Washi tape marks the locations of the metal clips&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10234,7 +10234,7 @@ Refer to the video tutorial first on how exactly this is done.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;2-disconnecting-the-battery-ribbon&#34;&gt;2. Disconnecting the battery ribbon&lt;/h3&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi3.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi3.jpeg&#34;
     alt=&#34;an opened ipod&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Disconnecting the battery ribbon&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10245,7 +10245,7 @@ Slowly carefully lift the back chassis.
 metal-clips shouldn&amp;rsquo;t open it wide yet, because there&amp;rsquo;s a battery ribbon still connected.&lt;/p&gt;
 &lt;p&gt;With a plastic prying tool, slide up the black plastic clip that holds the battery ribbon.
 The battery ribbon can now be lifted (carefully) up, still with the help of a prying tool.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi4.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi4.jpeg&#34;
     alt=&#34;an opened ipod&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Freshly opened iPod. LEFT: Back metal shell, battery (the yellow-orange rectangle); RIGHT: Front chassis, and what you&amp;rsquo;re seeing is the mechanical hard drive and some foam&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10261,7 +10261,7 @@ Keep it in tact.&lt;/p&gt;
 
 &lt;h3 id=&#34;3-disconnect-the-original-hard-drive&#34;&gt;3. Disconnect the original hard drive&lt;/h3&gt;
 &lt;p&gt;The original hard drive is attached to the motherboard via flexible flat cable (FFC) through called a Zero Insertion Force (ZIF) connector.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi5.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi5.jpeg&#34;
     alt=&#34;an opened ipod&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Disconnecting the HDD&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10270,7 +10270,7 @@ Keep it in tact.&lt;/p&gt;
 &lt;p&gt;On the side of the hard drive, there&amp;rsquo;s a sliver of black plastic flap that must first be flipped to disengage the FFC from the ZIF.
 Do that carefully with a plastic prying tool.&lt;/p&gt;
 &lt;p&gt;Once disengaged, the hard drive shall be easy to pull off.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi6.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi6.jpeg&#34;
     alt=&#34;an opened ipod and a mechanical hard disk&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;RIGHTMOST: Hard drive successfully removed&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10285,7 +10285,7 @@ Insert it in one of the slots in the iFlash-Quad adapter.&lt;/p&gt;
 This will act as a spacer between the adapter and the iPod&amp;rsquo;s circuit board.
 The adapter being thinner than the original hard drive, the foam provides a snug fit, so the iPod won&amp;rsquo;t be an overpriced maracas.
 Refer to the following image to know which side the foam must be placed.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi7.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi7.jpeg&#34;
     alt=&#34;image of iFlash solid state drive&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;iFlash-Quad, with foams&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10296,7 +10296,7 @@ It shouldn&amp;rsquo;t be hard to slide it in.
 If the FFC is somewhat resisting, be sure that it is evenly sliding in, not at an angle.
 Then, lock it in by putting the black plastic flap back down.&lt;/p&gt;
 &lt;p&gt;Check the following image to see the orientation of the adapter during connection.
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi8.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi8.jpeg&#34;
     alt=&#34;an opened ipod&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Installing the solid state drive&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10309,7 +10309,7 @@ Then, lock it in by putting the black plastic flap back down.&lt;/p&gt;
 &lt;p&gt;Using a tweezer (pictured in the following image), reconnect the battery ribbon in the same slot as before.
 Lock it in by pushing down the black plastic slider.
 Give it a light tug to ensure that it isn&amp;rsquo;t loosely connected.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/mi9.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/mi9.jpeg&#34;
     alt=&#34;an opened ipod&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Reconnecting the battery ribbon&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10356,10 +10356,10 @@ Without prior knowledge, one would think that the iPod was not designed to be ma
     
     <item>
       <title>Encoding: From Hardcopy to Softcopy</title>
-      <link>https://ohio.araw.xyz/encode/</link>
+      <link>http://localhost:1313/encode/</link>
       <pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/encode/</guid>
+      <guid>http://localhost:1313/encode/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
 &lt;strong&gt;DONE&lt;/strong&gt;
@@ -10495,10 +10495,10 @@ Most of the password managers have randomizers, which prints out random strings 
     
     <item>
       <title>Always Carry Website</title>
-      <link>https://ohio.araw.xyz/alwayscarry/</link>
+      <link>http://localhost:1313/alwayscarry/</link>
       <pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/alwayscarry/</guid>
+      <guid>http://localhost:1313/alwayscarry/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
 &lt;strong&gt;CLOSED&lt;/strong&gt;
@@ -10508,7 +10508,7 @@ Status:
 The website shall mirror the contents of the shop&amp;rsquo;s other social media presence.&lt;/p&gt;
 &lt;p&gt;Visit the site:
 &lt;strong&gt;&lt;a href=&#34;https://alwayscarry.netlify.app&#34;&gt;Always Carry!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/alwayscarry.png&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/alwayscarry.png&#34;
     alt=&#34;screenshot from Always Carry website &#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Screenshot from the website&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -10687,10 +10687,10 @@ Right now, as mentioned, we focus the content management in IG due to its reach.
     
     <item>
       <title>Homebrew Server</title>
-      <link>https://ohio.araw.xyz/server/</link>
+      <link>http://localhost:1313/server/</link>
       <pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/server/</guid>
+      <guid>http://localhost:1313/server/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
 &lt;strong&gt;CLOSED&lt;/strong&gt;
@@ -10784,7 +10784,7 @@ These days, though, it&amp;rsquo;s vulnerable to a lot of cyberattacks, more so 
 And yet, some institutions still use it.
 If their computers are connected to the Internet,
 they are exposed to black hat hackers.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/msi-wind.jpeg&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/msi-wind.jpeg&#34;
     alt=&#34;screenshot of the laptop&amp;#39;s system properties&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;And now, a crappy photo of the laptop&amp;rsquo;s system properties&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -11111,10 +11111,10 @@ For more info: &lt;a href=&#34;https://www.ssh.com&#34;&gt;https://www.ssh.com&l
     
     <item>
       <title>Site Construction</title>
-      <link>https://ohio.araw.xyz/site/</link>
+      <link>http://localhost:1313/site/</link>
       <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/site/</guid>
+      <guid>http://localhost:1313/site/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
 &lt;strong&gt;ON-GOING&lt;/strong&gt;
@@ -11169,7 +11169,7 @@ and hope to grow them.
 It becomes both the medium and the message of the self.
 For some it&amp;rsquo;s a blog;
 for others it&amp;rsquo;s their own personal wiki.&lt;/p&gt;
-&lt;p&gt;This site, then, is my &lt;a href=&#34;https://ohio.araw.xyz/wiki&#34;&gt;digital garden&lt;/a&gt;.
+&lt;p&gt;This site, then, is my &lt;a href=&#34;http://localhost:1313/wiki&#34;&gt;digital garden&lt;/a&gt;.
 Expect that things will be corrected, deleted, edited, fed, &lt;em&gt;grown&lt;/em&gt;.
 Like a real garden, tending this one relaxes me.
 It helps me reorganize my thoughts by weeding out what&amp;rsquo;s unnecessary.&lt;/p&gt;

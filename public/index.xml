@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>a log on somersaulting</title>
-    <link>https://ohio.araw.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Sat, 04 May 2024 01:45:14 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What People Have Been Saying</title>
-      <link>https://ohio.araw.xyz/testi/</link>
+      <link>http://localhost:1313/testi/</link>
       <pubDate>Wed, 17 Jan 2024 22:21:56 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/testi/</guid>
+      <guid>http://localhost:1313/testi/</guid>
       <description>&lt;p&gt;During the peak of
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Friendster&#34;&gt;Friendster&lt;/a&gt; in our country,
 people displayed their testimonials. Many took acquiring them seriously.
@@ -71,11 +71,11 @@ colleagues. Always clear when communicating with others.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Tools I Regularly Use</title>
-      <link>https://ohio.araw.xyz/tools/</link>
+      <link>http://localhost:1313/tools/</link>
       <pubDate>Fri, 05 Jan 2024 16:30:04 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/tools/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/tools.png&#34;
+      <guid>http://localhost:1313/tools/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/tools.png&#34;
     alt=&#34;A left hand holding out several items including a wrist watch, a wallet, a Swiss army knife, and a small flashlight. Underneath, in the background, is a laptop with stickers.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Holding out the daily carry&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -86,19 +86,19 @@ colleagues. Always clear when communicating with others.&amp;rdquo;&lt;/p&gt;
 &lt;li&gt;Wallet: a binder clip&lt;/li&gt;
 &lt;li&gt;Multitool: Victorinox Camper (or Waiter, not pictured)&lt;/li&gt;
 &lt;li&gt;Flashlight: Lumintop EDC01&lt;/li&gt;
-&lt;li&gt;Laptop: &amp;ldquo;Ador&amp;rdquo; the &lt;a href=&#34;https://ohio.araw.xyz/64&#34;&gt;Frankenpad X225&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Laptop: &amp;ldquo;Ador&amp;rdquo; the &lt;a href=&#34;http://localhost:1313/64&#34;&gt;Frankenpad X225&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Phone: OnePlus 5t (the one that took the picture)&lt;/li&gt;
-&lt;li&gt;Bike: &amp;ldquo;&lt;a href=&#34;https://ohio.araw.xyz/50&#34;&gt;FOLK&lt;/a&gt;&amp;rdquo; the single-speed city bike (not pictured)&lt;/li&gt;
+&lt;li&gt;Bike: &amp;ldquo;&lt;a href=&#34;http://localhost:1313/50&#34;&gt;FOLK&lt;/a&gt;&amp;rdquo; the single-speed city bike (not pictured)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>https://ohio.araw.xyz/books/</link>
+      <link>http://localhost:1313/books/</link>
       <pubDate>Tue, 12 Sep 2023 20:50:12 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/books/</guid>
+      <guid>http://localhost:1313/books/</guid>
       <description>&lt;p&gt;More accurately, these are the books I&amp;rsquo;ve read since I started
 recording them on November 2019.
 I read slowly, you might notice.&lt;/p&gt;
@@ -239,15 +239,15 @@ I read slowly, you might notice.&lt;/p&gt;
 &lt;td&gt;Bela Barbosa, Edel Rodriguez&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/135/#review-of-klara-and-the-sun&#34;&gt;Klara and the Sun&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://localhost:1313/135/#review-of-klara-and-the-sun&#34;&gt;Klara and the Sun&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Kazuo Ishiguro&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/139/#review-of-finding-orwell&#34;&gt;Finding George Orwell in Burma&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://localhost:1313/139/#review-of-finding-orwell&#34;&gt;Finding George Orwell in Burma&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Emma Larkin&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/144/#brief-review-of-crying-in-h-mart&#34;&gt;Crying in H Mart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://localhost:1313/144/#brief-review-of-crying-in-h-mart&#34;&gt;Crying in H Mart&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Michelle Zauner&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -259,15 +259,15 @@ I read slowly, you might notice.&lt;/p&gt;
 &lt;td&gt;Roald Dahl&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/148/#brief-review-of-the-man-without-talent&#34;&gt;The Man Without Talent&lt;/a&gt; (無能の人)&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://localhost:1313/148/#brief-review-of-the-man-without-talent&#34;&gt;The Man Without Talent&lt;/a&gt; (無能の人)&lt;/td&gt;
 &lt;td&gt;Yoshiharu Tsuge 柘植義春&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/149/#brief-review-of-the-philippines-is-not-a-small-country&#34;&gt;The Philippines Is Not A Small Country&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://localhost:1313/149/#brief-review-of-the-philippines-is-not-a-small-country&#34;&gt;The Philippines Is Not A Small Country&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Gideon Lasco&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/151/#brief-review-of-some-people-need-killing&#34;&gt;Some People Need Killing&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://localhost:1313/151/#brief-review-of-some-people-need-killing&#34;&gt;Some People Need Killing&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Patricia Evangelista&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -275,7 +275,7 @@ I read slowly, you might notice.&lt;/p&gt;
 &lt;td&gt;John Wackman &amp;amp; Elizabeth Knight&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/171&#34;&gt;The Left Hand of Darkness&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://localhost:1313/171&#34;&gt;The Left Hand of Darkness&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Ursula K. Le Guin&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -285,11 +285,11 @@ I read slowly, you might notice.&lt;/p&gt;
     
     <item>
       <title>About Me</title>
-      <link>https://ohio.araw.xyz/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 31 Aug 2023 01:22:22 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/about/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/ocd.jpg&#34;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/ocd.jpg&#34;
     alt=&#34;A picture of a man, wearing orange shirt. On his lap, two cats: one black, one grey. Approaching the man is a mid-size dog.&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Homeboys&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -297,22 +297,22 @@ I read slowly, you might notice.&lt;/p&gt;
 
 &lt;p&gt;As a generalist, I&amp;rsquo;ve always wanted to learn and make something. These
 days, that &lt;em&gt;thing&lt;/em&gt; skews abstract, but I hope to create more tangible
-things using different tools (&lt;a href=&#34;https://ohio.araw.xyz/tools&#34;&gt;hardware&lt;/a&gt; and &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;software&lt;/a&gt; alike) that might be
-useful. When I have time, I also read all kinds of &lt;a href=&#34;https://ohio.araw.xyz/books&#34;&gt;books&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Sometimes, people say &lt;a href=&#34;https://ohio.araw.xyz/testi&#34;&gt;good things&lt;/a&gt; about me.&lt;/p&gt;
+things using different tools (&lt;a href=&#34;http://localhost:1313/tools&#34;&gt;hardware&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/foss&#34;&gt;software&lt;/a&gt; alike) that might be
+useful. When I have time, I also read all kinds of &lt;a href=&#34;http://localhost:1313/books&#34;&gt;books&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sometimes, people say &lt;a href=&#34;http://localhost:1313/testi&#34;&gt;good things&lt;/a&gt; about me.&lt;/p&gt;
 &lt;p&gt;For my professional background
-check my &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt; or download the &lt;a href=&#34;https://ohio.araw.xyz/cv.pdf&#34;&gt;pdf&lt;/a&gt; version.
+check my &lt;a href=&#34;http://localhost:1313/cv&#34;&gt;CV&lt;/a&gt; or download the &lt;a href=&#34;http://localhost:1313/cv.pdf&#34;&gt;pdf&lt;/a&gt; version.
 References are available on request.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Default FOSS apps</title>
-      <link>https://ohio.araw.xyz/foss/</link>
+      <link>http://localhost:1313/foss/</link>
       <pubDate>Sun, 16 Jan 2022 11:14:38 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/foss/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/neofetch.png&#34;
+      <guid>http://localhost:1313/foss/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/neofetch.png&#34;
     alt=&#34;Screenshot of desktop, including Operating System Details&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;&lt;code&gt;sway&lt;/code&gt; tiling window manager. Clockwise from top-left: &lt;code&gt;neofetch&lt;/code&gt; in &lt;code&gt;foot&lt;/code&gt; running &lt;code&gt;tmux&lt;/code&gt;, firefox, mpv, zathura&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -324,7 +324,7 @@ References are available on request.&lt;/p&gt;
 &lt;li&gt;Web Browsers: &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (laptop), &lt;a href=&#34;https://gitlab.com/divested-mobile/mull-fenix&#34;&gt;Mull&lt;/a&gt; (Android)
 &lt;ul&gt;
 &lt;li&gt;Browser add-ons: uBlock Origin, Redirector, SponsorBlock&lt;/li&gt;
-&lt;li&gt;Redirector set-up: &lt;a href=&#34;https://ohio.araw.xyz/Redirector.json&#34;&gt;JSON file&lt;/a&gt; (includes Scribe,
+&lt;li&gt;Redirector set-up: &lt;a href=&#34;http://localhost:1313/Redirector.json&#34;&gt;JSON file&lt;/a&gt; (includes Scribe,
 Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -347,7 +347,7 @@ Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://getfedora.org/en/workstation/&#34;&gt;Fedora Workstation&lt;/a&gt; &amp;ndash; The
 first Linux distro I used. GNOME desktop environment was easy to
 learn. But i3 tiling window manager made more sense to use.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.openbsd.org/&#34;&gt;OpenBSD&lt;/a&gt; &amp;ndash; The one I used in &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;the Old
+&lt;li&gt;&lt;a href=&#34;https://www.openbsd.org/&#34;&gt;OpenBSD&lt;/a&gt; &amp;ndash; The one I used in &lt;a href=&#34;http://localhost:1313/old-computer&#34;&gt;the Old
 Computer Challenge&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14&#34;&gt;Devuan 5 &amp;ldquo;Daedalus&amp;rdquo;&lt;/a&gt;
 &amp;ndash; is a Debian-fork OS without systemd that used to be in my main
@@ -366,7 +366,7 @@ and is just reliable, though can be bloated at times.&lt;/li&gt;
 software) for all my software needs. I believe FOSS empowers me to
 accomplish digital tasks that don&amp;rsquo;t cage me in a paid walled garden
 and/or surveil my every move.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/foss-venn.png&#34;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/image/foss-venn.png&#34;
     alt=&#34;Venn Diagram showing the intersection of 3 characteristics of a software: good, fair, legal. All three is what FOSS represents. Good and legal is usually privacy-invasive. Good and fair is piracy. Fair and legal software: &amp;#39;Why are you using it?&amp;#39;&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Venn Diagram generator by classtools.net&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -393,10 +393,10 @@ computer to a different distribution of
     
     <item>
       <title>Blogroll</title>
-      <link>https://ohio.araw.xyz/blogroll/</link>
+      <link>http://localhost:1313/blogroll/</link>
       <pubDate>Wed, 14 Apr 2021 22:24:19 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/blogroll/</guid>
+      <guid>http://localhost:1313/blogroll/</guid>
       <description>&lt;p&gt;List of blogs that I find interesting.&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&lt;/a&gt;&lt;/dt&gt;
@@ -407,7 +407,7 @@ everything in between, housed in a barely-formatted website.&lt;/dd&gt;
 &lt;dd&gt;likes writing, and people, and maybe writing about people, that maybe
 gut-punches the reader, but not in a horrible way.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://drewdevault.com&#34;&gt;Drew DeVault&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;is a developer, probably most known for coming up with Sway window manager, who also has important (controversial?) political takes related to &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;FOSS&lt;/a&gt;.&lt;/dd&gt;
+&lt;dd&gt;is a developer, probably most known for coming up with Sway window manager, who also has important (controversial?) political takes related to &lt;a href=&#34;http://localhost:1313/foss&#34;&gt;FOSS&lt;/a&gt;.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://ethical.net&#34;&gt;Ethical Network&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;looks for ways to make the &amp;ldquo;ethical the new normal,&amp;rdquo; either by
 recommending
@@ -454,10 +454,10 @@ aimlessness.&lt;/dd&gt;
     
     <item>
       <title>Disclaimer</title>
-      <link>https://ohio.araw.xyz/disclaimer/</link>
+      <link>http://localhost:1313/disclaimer/</link>
       <pubDate>Sat, 10 Apr 2021 15:05:20 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/disclaimer/</guid>
+      <guid>http://localhost:1313/disclaimer/</guid>
       <description>&lt;p&gt;Ideas, opinions, and/or views&amp;mdash;original or rehashed&amp;mdash;expressed here
 are mine alone, NOT of my past, present, nor future colleagues,
 employer/s, families and friends. They may change at any point in
@@ -491,10 +491,10 @@ change, given enough time. Everything does.&amp;#160;&lt;a href=&#34;#fnref:1&#3
     
     <item>
       <title>Ideas of Possible Projects</title>
-      <link>https://ohio.araw.xyz/di-why/</link>
+      <link>http://localhost:1313/di-why/</link>
       <pubDate>Fri, 26 Feb 2021 10:08:28 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/di-why/</guid>
+      <guid>http://localhost:1313/di-why/</guid>
       <description>&lt;p&gt;Doing side projects keep me sharp.
 In the process, I&amp;rsquo;ll try to document each step,
 and publish whatever findings I might have here for public (re)viewing.&lt;/p&gt;
@@ -517,23 +517,23 @@ I tend to agree.&lt;/p&gt;
 &lt;li&gt;Leather jacket made of mushrooms (mycelia jacket)&lt;/li&gt;
 &lt;li&gt;Wearable dashcam, powered by body heat (using thermoelectric generator)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;As soon as I start working on an idea here, it will be migrated to the &lt;a href=&#34;https://ohio.araw.xyz/project/&#34;&gt;Projects&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;As soon as I start working on an idea here, it will be migrated to the &lt;a href=&#34;http://localhost:1313/project/&#34;&gt;Projects&lt;/a&gt; page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PALIMOS</title>
-      <link>https://ohio.araw.xyz/support/</link>
+      <link>http://localhost:1313/support/</link>
       <pubDate>Sat, 20 Feb 2021 17:36:42 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/support/</guid>
+      <guid>http://localhost:1313/support/</guid>
       <description>&lt;p&gt;&amp;ldquo;&lt;strong&gt;Prosperity always lives in many open-handed souls&lt;/strong&gt;&amp;rdquo; is my go-to maxim these days.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re reading this,
 thank you for considering to support what I do online.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m always polishing this site&amp;rsquo;s contents,
 so that they&amp;rsquo;re updated, and more importantly,
 as accessible to as many as possible.&lt;/p&gt;
-&lt;p&gt;I have also put up a &lt;a href=&#34;https://ohio.araw.xyz/di-why&#34;&gt;list of interesting project ideas&lt;/a&gt; that are
+&lt;p&gt;I have also put up a &lt;a href=&#34;http://localhost:1313/di-why&#34;&gt;list of interesting project ideas&lt;/a&gt; that are
 currently in their incubation stage.&lt;/p&gt;
 &lt;h2 id=&#34;brain-support&#34;&gt;Brain Support&lt;/h2&gt;
 &lt;p&gt;See any errors?
@@ -546,7 +546,7 @@ my inbox welcomes those as well.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://liberapay.com/oqo_frxbj/donate&#34;&gt;Liberapay&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://paypal.me/oqolarte&#34;&gt;Paypal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ohio.araw.xyz/image/BPIQR_OQO.png&#34;&gt;BPI QR Code&lt;/a&gt; (Philippines only)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/image/BPIQR_OQO.png&#34;&gt;BPI QR Code&lt;/a&gt; (Philippines only)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;If you prefer other means of supporting me (e.g. bank transfer, GCash, etc.), please email me.&lt;/p&gt;
 &lt;h2 id=&#34;hardware-support&#34;&gt;Hardware support&lt;/h2&gt;
@@ -585,10 +585,10 @@ Not that I expect nor encourage people to give me newly bought hardware.&amp;#16
     
     <item>
       <title>CV</title>
-      <link>https://ohio.araw.xyz/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>&lt;p&gt;Hi, I&amp;rsquo;m Ohio, and I&amp;rsquo;m into a more sustainable and inclusive future.&lt;/p&gt;
 &lt;p&gt;Senior Project Management Executive @ Ipsos Inc. (&lt;strong&gt;current&lt;/strong&gt;)&lt;br&gt;
 Associate Project Manager @ Kantar Philippines Inc. (2 years)&lt;br&gt;
@@ -596,34 +596,34 @@ Assistant Project Manager @ Jones Lang LaSalle (Philippines), Inc. (3 years)&lt;
 Project Engineer @ Archen Technologies, Inc. (2 years)&lt;/p&gt;
 &lt;p&gt;Speaks Filipino (native) and English (fluent)&lt;/p&gt;
 &lt;p&gt;Interested in: creativity, technology, and the intersection of two&lt;/p&gt;
-&lt;p&gt;More details: &lt;a href=&#34;https://ohio.araw.xyz/cv.pdf&#34;&gt;pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More details: &lt;a href=&#34;http://localhost:1313/cv.pdf&#34;&gt;pdf&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Digital Garden 🌱</title>
-      <link>https://ohio.araw.xyz/wiki/</link>
+      <link>http://localhost:1313/wiki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/wiki/</guid>
+      <guid>http://localhost:1313/wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Log</title>
-      <link>https://ohio.araw.xyz/log/</link>
+      <link>http://localhost:1313/log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/log/</guid>
+      <guid>http://localhost:1313/log/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://ohio.araw.xyz/project/</link>
+      <link>http://localhost:1313/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
-      <guid>https://ohio.araw.xyz/project/</guid>
+      <guid>http://localhost:1313/project/</guid>
       <description></description>
     </item>
     
