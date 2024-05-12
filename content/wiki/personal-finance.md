@@ -85,3 +85,6 @@ Why financial independence, then?
 Frugality in small ways does help, but we need to also look for
 opportunities that have bigger ROIs. An example: for the salaryperson,
 negotiating for a raise, and/or job-hopping.
+
+Investing in stock market for the long-term is also known to increase
+wealth using compound interests.

@@ -10,8 +10,8 @@ it's named cipher feedback mode.
 Encryption function does not take the data plaintext as input.
 The encryption function is rather used to generate random bits.
 
-The random bits,
-which is the output of the encryption function is then XOR with the plaintext.
+The [random](/randomness) bits,
+which is the output of the encryption function is then [XOR](/xor) with the plaintext.
 
 The chaining between the blocks come from using the ciphertext as a feedback
 to the following block encryption function.

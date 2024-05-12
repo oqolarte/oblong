@@ -1,8 +1,16 @@
 ---
-title: WORKING FICTION
+title: "WORKING FICTION"
 date: 2023-01-06
 draft: true
 ---
+
+## Dedication (?)
+
+ACROSS ALL TIMES AND ALL WORLDS:
+To past me who wouldn't believe it;
+to Isya here and now;
+and to the blooming flora and fauna that *will* rise from the ruins of
+Empire in the distant future
 
 ## One-sentence pitch
 

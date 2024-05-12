@@ -12,8 +12,8 @@ math: false
 - wax
 - fragrance oil or essential oil
 - wax melter; or alternatively:
-        - old and/or 2nd-hand rice cooker; or
-        - double boiler
+    - old and/or 2nd-hand rice cooker; or
+    - double boiler
 
 ## WAXES
 
@@ -21,7 +21,7 @@ math: false
   temperature is 32 - 43 degrees Celsius; better scent throw
 - beeswax: firmer; clean burn; [may or may not help in purifying air](https://skeptics.stackexchange.com/questions/50048/do-beeswax-candles-purify-the-air);
   ideal pouring temperature is 55 - 65 degrees Celsius; better aesthetic
-        - sometimes blended with coconut oil (don't use VCO; only
+    - sometimes blended with coconut oil (don't use VCO; only
           refined cooking oil)
 - paraffin: hardest; not the cleanest burn because it's a petroleum
   by-product, cheap; ideal for survival
@@ -54,10 +54,10 @@ Oils are added to melted wax blend at:
 - Cotton: 5 mm wick length
 - Anything combustible can be used as wick
 - For multiple wicks:
-        - 1 wick: 50 mm diameter of container or less
-        - 2 wicks: 50 - 65 mm diameter
-        - 3 wicks: 65 - 90 mm diameter
-        - 4 wicks: 90 - 115 mm diameter
+    - 1 wick: 50 mm diameter of container or less
+    - 2 wicks: 50 - 65 mm diameter
+    - 3 wicks: 65 - 90 mm diameter
+    - 4 wicks: 90 - 115 mm diameter
 
 ## CONTAINERS
 
