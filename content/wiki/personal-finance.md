@@ -45,7 +45,8 @@ So, don't waste time.
 [Take care and help yourself](/health),
 but when you have the capacity,
 extend your care to others as well.
-[We can keep each other safe and secure.](/mutual-aid)
+- Try to reduce your financial dependency on that one job by
+[keeping each member of your community safe and secure.](/mutual-aid).
 - Take calculated risks,
 but don't be afraid to lose something in the process.
 
@@ -76,7 +77,7 @@ Why financial independence, then?
 2. I want to do the things that I want with the time I still have. I need the time and space between these [passion projects](/di-why) so I
    don't feel like i'm pressured or rushed to do something.
 3. I want to spend my time with [people I love](/friendship).
-4. I'd like to explore as many places as i can with the people I love.
+4. I'd like to [explore as many places](/travel) as I can with the people I love.
    While solo travel is a promising act, doing it with someone
    multiplies the joy (or divides the despair).
 

@@ -32,3 +32,6 @@ reference from which to learn.
 - [religion](/religion)
 - [solarpunk](/solarpunk)
 - "[war on drugs](/drugwar)"
+
+## Reference
+- [Worst thing each Philippine President has ever done](/ph-presidents)
