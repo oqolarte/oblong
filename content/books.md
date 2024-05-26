@@ -54,3 +54,5 @@ I read slowly, you might notice.
 | [Some People Need Killing](/151/#brief-review-of-some-people-need-killing)                              | Patricia Evangelista                       |
 | Repair Revolution                                                                                       | John Wackman & Elizabeth Knight            |
 | [The Left Hand of Darkness](/171)                                                                       | Ursula K. Le Guin                          |
+| [Do Androids Dream of Electric Sheep?](/194)                                                            | Philip K. Dick                             |
+

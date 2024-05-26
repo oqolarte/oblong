@@ -21,6 +21,7 @@ Ecology wants to create anthropological continuity with nature,
 harmony with where we live.
 Social ecology, then, describes how individuals interact to the
 environment around them,
-including [how to express themselves](/solarpunk)
-or to better use [technology](/technology),
+including [how to express themselves](/solarpunk),
+[how to deal with carbon footprint](/carbon-footprint),
+or how to better use [technology](/technology), among other things,
 and how these interactions affect the community they belong to.
