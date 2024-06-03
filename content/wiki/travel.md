@@ -5,7 +5,9 @@ draft: false
 math: false
 ---
 
-We know there is much to see and experience with all our senses. The
+We know there is much to see and experience with all our senses. After
+all, life is an exploration of forces of the world, not conformity to
+a/the fixed ideal. The
 places with interesting things are usually not Here. Sometimes, they are
 not even in the Now.
 

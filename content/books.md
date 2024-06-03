@@ -55,4 +55,5 @@ I read slowly, you might notice.
 | Repair Revolution                                                                                       | John Wackman & Elizabeth Knight            |
 | [The Left Hand of Darkness](/171)                                                                       | Ursula K. Le Guin                          |
 | [Do Androids Dream of Electric Sheep?](/194)                                                            | Philip K. Dick                             |
+| [Joyful Militancy](/joyful-militancy): Building Thriving Resistance in Toxic Times                      | Nick Montgomery and carla bergman          |
 

@@ -20,6 +20,10 @@ carrot, weaponizing it against the vulnerable and using it to further
 their own personal agendas Used this way, religion becomes a barrier to
 [accountability](/transformative-justice).
 
+To remain pious, "priests" (or [rigid activists](/joyful-militancy/#rigid-radicalism))
+must introduce new moral high grounds to which they will set the current
+standards.
+
 ## Religion or cult?
 
 Our society primes us for cult abuse through everyday institutions. Any

@@ -29,8 +29,9 @@ Just don't give up on them.
 "[Because there isn't a perfect solution to a people problem.](https://seths.blog/2022/11/people-problems-are-complicated-problems/)"
 
 We can't lower all hurdles to accommodate everyone's ability and/or
-sensibilities. We must be able to use understandable conversational
-language, but never simpler.
+sensibilities. But also, destructive speech makes people feel like
+fools, and it turns them away from what you want to say.
+Speak clearly and with little fluff, but never simpler.
 
 ### Connecting via mainstream social media
 

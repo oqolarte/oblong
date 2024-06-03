@@ -27,7 +27,7 @@ Hopefull they help me:
 - Think before I do and/or speak.
 - Seek to understand others rather than passing shallow judgement.
 - [Teach](/pedagogy) through actions.
-- Minimise the suffering of living things.
+- [Minimise the suffering of living things](/veganism).
 - Treat others like I would want to be treated.
 - [Don't hurt the environment.](/social-ecology)
 - Base my decisions on the [best available evidence](/data-management).

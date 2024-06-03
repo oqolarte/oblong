@@ -5,7 +5,7 @@ draft: false
 ---
 
 My dream house aims to incorporate different [design](/design)
-principles including the ff:
+principles including the following:
 
 - Tropical design
 - [Permaculture](/permaculture)
@@ -36,7 +36,7 @@ Possible reference:
 Main entrance gate has a trellis with [differently colored]
 bougainvillea climbing on it.
 
-Skylights with patterns that will project interesting geometric patterns.
+Skylights with patterns that will project interesting geometric shadows.
 Might also have stained glass.
 
 Foyer, small receiving area like Japanese (Genkan),
@@ -46,12 +46,14 @@ loft with safety net as lounge
 
 Bedroom/s on mezzanine
 
-2 t&b: one for GF, one for mezzanine, vertical aligned
+2 t&b: one for GF, one for mezzanine, vertical aligned for
+cost-efficient plumbing
 
 Furniture: Beach recliner, but bench
 
 A plot where we can grow our own food via [permaculture](/permaculture).
 
+Roof with mechanical, spinning, wind catchers made of metal (?)
 
 ### Design ideas
 
@@ -70,6 +72,7 @@ or cantilever chairs
 - Murphy table
 
 ### Doors
+
 - with auto-closing mechanisms
 - with peep holes
 - Mortise locksets for all doors, made of brass or copper
@@ -79,6 +82,7 @@ or cantilever chairs
 - Doorways wide enough to accommodate a person on wheelchair.
 
 ### Windows
+
 - las ventanas de concha, or Capiz shell as lattice material
 - window heights = 1100mm for effective indoor air movement
 - Wind deflectors (?)
@@ -99,6 +103,7 @@ Solar thermal coil water heater, with insulated water tank
 Cistern/s where rain water is collected
 
 Pumps to draw groundwater from earth:
+
 1. hand pump
 1. Electric pump (solar-powered on/off grid hybrid)
 1. gas-powered pump
@@ -117,6 +122,24 @@ Another tank/cistern to collect gray water from kitchen and laundry.
 - Shower curtain made of Hemp
 - Grey water waste management system
 - Waterless urinal
+
+## Electrical
+
+- convenience outlets (CO) and their rigid steel conduits (RSC) installed atop the surface;
+- height at 750-900mm from finished floor level (FFL).
+- all COs are suitable for three-pronged plugs (properly grounded, of
+  course), eliminating the need for adapters.
+- each CO within 500mm of the sink, if any, should
+    - have flip-cover; and/or
+    - is a GFCI [ground-fault circuit interrupter] outlet
+- light switches to be placed 1100-1200mm from FFL
+- main power panel should be visible at all times.
+    - circuit branches are properly labelled.
+- each lighting fixture and CO are labeled (weatherproof label for
+  outdoor fixtures) to which homerun (circuit branch) they belong. for
+  future maintenance.
+- lights in main areas (living area, dining area) to have a combination
+  of daylight and soft white LEDs (white and yellow lights, respectively)
 
 ## POSSIBLE COST BREAKDOWN (2020-2021):
 

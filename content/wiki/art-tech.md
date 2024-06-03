@@ -32,37 +32,16 @@ discovered otherwise.
 
 ## Simpler Art with Simpler Tools
 
-One can create a wide range of art with simpler tools.
-Here are some ideas:
-
-1. Drawing and Sketching: With paper and pencil or pen one can
-   experiment with different shading techniques and styles in their
-   drawings.
-2. Painting: Watercolor paints, acrylics, or even finger painting with
-    tempera paints can produce vibrant artwork. You don't need fancy
-    brushes; you can use everyday items like sponges or even your
-    fingers.
-3. Collage: Collect magazines, newspapers, or colorful paper scraps,
-    and create collages by cutting and arranging them into interesting
-    compositions.
-4. Found Object Art: Gather objects you find outdoors or around your
-    home, like leaves, twigs, shells, or bottle caps. Arrange them into
-    sculptures or use them in your artwork.
-5. Street Art: If you have access to public spaces, you can create art
-    with chalk on sidewalks or walls (where allowed), adding color and
-    creativity to your community.
-6. Digital Art with Basic Tools: If you have access to a basic computer
-    or smartphone, you can use free drawing apps or software to create
-    digital art. A simple stylus or your finger can serve as a digital
-    pen.
-7. Shadow Art: Use your hands and a light source to create captivating
-    shadow puppets and scenes on a wall or screen.
-8. Nature Art: Make art using elements from nature like sand, rocks, or
-    even mud. Beaches and forests can be your canvas.
-9. Origami: Transform a simple sheet of paper into
-    intricate sculptures through the art of origami.
-10. Body Art: Use washable body paints or even markers to create
-    temporary body art or face painting designs.
+1. Drawing and Sketching
+2. Painting: Watercolor paints, acrylics, or even finger painting with tempera paints
+3. Collage: Collect magazines, newspapers, or colorful paper scraps
+4. Found Object Art
+5. Street Art
+6. Digital Art with Basic Tools
+7. Shadow Art
+8. Nature Art
+9. Origami
+10. Body Art
 
 ## Complex Art with Simpler Tools
 

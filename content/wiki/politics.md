@@ -12,6 +12,7 @@ reference from which to learn.
 ## Stratetgies
 - [abolition](/abolition)
 - [anti-work](/anti-work)
+- [community](/community)
 - [counter-insurgency](/counter-insurgency)
 - [feminism](/feminism)
 - [friendship](/friendship)

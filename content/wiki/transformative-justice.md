@@ -28,6 +28,12 @@ TJ aims to not reproduce the [violence](/violence) of state prisons.
 [Isolation and torture are not effective means of reforming](/abolition) those who
 hurt others, only deepens wounds.
 
+Restorative justice, on another hand, implies that there's a baseline to
+which justice can be restored. But since the beginning, states and
+[capitalists](/capitalism)'s [violence](/violence) has been consuming
+lives. TJ aims to transform this into something beyond what the current
+system can heal, if at all.
+
 ## Apologies, Reparations
 
 When you make an apology, it doesn't belong to you anymore. It's up to
@@ -51,3 +57,14 @@ apologize (see previous section).
 If you have ever hurt or harmed anyone, healing cannot begin by escaping
 accountability just because you don't like the uneasy feeling of facing
 the consequences of your action.
+
+## Calling out or calling in?
+
+Calling out someone publicly, especially in social media, could possibly
+by-pass the transformative way of learning and/or understanding where
+they could be coming from; and instead becomes a performance to display
+one's wit and/or [politics](/politics).
+
+Calling out isn't bad per se;
+it's often used by the powerless when following the "due process" hasn't
+given them the they are seeking.
