@@ -27,6 +27,8 @@ in which we can [help each other meet our daily needs](/mutual-aid).
 
 But you may have learned helplessness, which is more common.
 
+Work employs ennui.
+
 You have experienced failures or been convinced you are a failure. This
 causes the depressive symptoms that look like laziness, and the feeling
 that you can't accomplish anything. This becomes a negative feedback

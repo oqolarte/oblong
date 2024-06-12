@@ -5,7 +5,7 @@ draft: false
 ---
 
 We have a climate crisis.
-But people in power---capitalists, states, empires---seemingly
+But people in power---[capitalists](/capitalism), states, [empires](/empire)---seemingly
 have no interest in preserving a healthy environment for us all.
 
 We're fast approaching collapse.

@@ -71,7 +71,7 @@ consider [using plaintext](https://useplaintext.email).
 Plaintext is widely accepted in many devices and applications,
 and is low on bandwidth.
 
-Matt Might also has a brief explainer on
+Matt Might shares a brief explainer on
 [how to send and reply to email](http://matt.might.net/articles/how-to-email/).
 
 Before sending a question via email,
@@ -84,5 +84,3 @@ with an informative subject that's about 70 characters.
 Try to keep the body two to five sentences.
 
 Place action items on top.
-
-

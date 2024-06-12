@@ -13,8 +13,7 @@ depend on what I type on the keyboard, and what I click with the mouse.
 Laptops are portable computers, with clamshell-like form factor.
 
 The most reliable laptops on the market so far are:
-- HP Elitebook
-- Lenovo (or the legendary IBM) Thinkpad
+- Lenovo, or the legendary IBM, Thinkpad
 - Dell Latitude
 
 ## Smartphone
@@ -34,7 +33,8 @@ or what I'm asking would even be possible.
 
 - Physical keyboard like Blackberry phones
     - I personally use QWERTY layout,
-      but it would be nice if the layout could be changed.
+      but it would be nice if the keyboard layout could be remapped
+      programmatically.
 - Small OLED screen, maybe within 2.5" to 3.5" range
 - A camera for scanning QR and/or bar codes
 - Anywhere between 8 - 16GB of internal memory
@@ -54,8 +54,7 @@ or what I'm asking would even be possible.
 
 ## Frugal Computing
 
-Emissions from producing computing devices exceed that from operating
-them.
+Emissions from producing computing devices exceed that from operating them.
 While new devices could be made more efficient,
 producing them will make emissions problem worse.
 Thus, it's still better to extend the life of these devices.

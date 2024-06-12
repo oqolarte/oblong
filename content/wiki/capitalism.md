@@ -16,6 +16,8 @@ It has caused many deaths, and yet it is not [our deaths](/death) that
 the elite class fear but our lives. Alive, we can be learning and
 kicking to topple the oppression.
 
+![Overconsumption always destroys](/image/capitalism.jpg)
+
 ## Anti-capitalist affirmations
 
 And now, for something completely different.
