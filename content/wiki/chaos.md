@@ -1,0 +1,9 @@
+---
+title: "CHAOS"
+date: 2024-06-18
+draft: false
+math: false
+---
+
+> SWAY, NOT SUPPRESS, THE CHAOS WITHIN TO GRANT THE SELF CONTROL OVER
+> FATE. CHAOS IS NATURE; ALLOW IT, DON'T FIGHT IT.

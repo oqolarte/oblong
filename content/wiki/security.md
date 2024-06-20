@@ -36,3 +36,64 @@ it's [social engineering](/social-engineering).
 If more people had a security mindset,
 the world as we know it now would be safer and more secure,
 even as technologies evolve in ways we haven't begun to imagine yet.
+
+## Security Frameworks and Controls
+
+Security frameworks are guidelines used for building plans to help
+mitigate risks and threats to data and [privacy](/privacy). They have
+four core components:
+
+1. Identifying and Documenting security goals
+2. Setting guidelines to achieve security goals
+3. Implementing security processes
+4. Monitoring and communicating results
+
+Security controls are safeguards
+designed to reduce specific security risks.
+
+### CIA Triad
+
+The CIA (confidentiality, integrity, availability) triad is a
+foundational [cybersecurity](/cybersecurity) model that helps inform how organizations consider risk
+when setting up systems and security policies.
+
+## Ethics
+
+For every new security incident or risk, the right or
+wrong decision isn't always clear.
+
+Security ethics are guidelines for making appropriate decisions as a
+security professional. Being ethical requires that security
+professionals remain unbiased and maintain the security and
+confidentiality of private data.
+
+Some ethical principles:
+
+- Confidentiality: there needs to be a high level of respect for privacy
+  to safeguard private assets and data
+- [Privacy](/privacy) protections: To effectively safeguard PII
+  (personally identifiable information) and SPII (sensitive PII)
+  data, security professionals hold an ethical obligation to secure
+  private information, identify security vulnerabilities, manage
+  organizational risks
+- Laws
+
+### International standpoint on counterattacks
+
+The International Court of Justice (ICJ), which updates its guidance regularly, states that a person or group can counterattack if: 
+
+- The counterattack will only affect the party that attacked first.
+- The counterattack is a direct communication asking the initial
+  attacker to stop.
+- The counterattack does not escalate the situation.
+- The counterattack effects can be reversed.
+
+Organizations typically do not counterattack because the above scenarios
+and parameters are hard to measure. There is a lot of uncertainty
+dictating what is and is not lawful, and at times negative outcomes are
+very difficult to control. Counterattack actions generally lead to a
+worse outcome, especially when you are not an experienced professional
+in the field.
+
+To learn more about ethical concerns from an
+international perspective on [Tallinn Manual](https://ccdcoe.org/research/tallinn-manual/)

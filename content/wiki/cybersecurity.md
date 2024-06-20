@@ -5,7 +5,56 @@ draft: false
 ---
 
 Cybersecurity is the management of risk related to internet-connected
-businesses.
+businesses. It includes ensuring confidentiality (e.g., complex password
+requirement), integrity, and
+availability of information by protecting networks, devices, people, and
+data from unauthorized access.
+
+## Term/s
+
+Threat actor
+: Any person or group who presents [security](/security) risk
+
+Playbook
+: A list of how to go through a certain detection, and what the analyst
+needs to look at in order to investigate those incidents
+
+Internal threat
+: can be a current or former employee, an external vendor, or a trusted
+partner who poses a security risk. At times, an internal threat is
+accidental. E.g., an employee who accidentally clicks on a
+malicious email link would be considered an accidental threat. Other
+times, the internal threat actor *intentionally* engages in risky
+activities, such as unauthorized data access.
+
+Network security 
+: the practice of keeping an organization's network
+infrastructure secure from unauthorized access. Includes data,
+services, systems, and devices that are stored in an organization’s
+network.
+
+Cloud security
+: The process of ensuring that assets stored in the
+cloud (i.e., a network of servers that store resources and data in
+remote physical locations that can be accessed via internet) are
+properly configured, or set up correctly, and access to those assets is
+limited to authorized users.
+
+[Malware](/malware)
+: Software designed to harm devices or networks
+
+Network protocol analyzers
+: AKA packet sniffer, is a tool designed to capture and analyze data
+traffic in a network. This means that the tool keeps a record of all the
+data that a computer within an organization's network encounters.
+
+[Playbook](/playbook)
+: a manual that provides details about any operational action, such as
+how to respond to a security incident. It's meant to guide analysts through a
+series of steps to complete specific security-related tasks.
+
+More terms in the
+[National Institute of Standards and Technology glossary](https://csrc.nist.gov/glossary)
 
 ## Early Concepts
 
@@ -29,47 +78,10 @@ businesses.
     - B1-3 Mandatory Protections
     - A1 Verified Protection
 
-## NIST Cybersecurity Framework
+## Common Tools
 
- https://www.nist.gov/cyberframework
-
- Action-oriented approac to security, and has 3 elements:
- 
- 1. Framework Core
-    - Identify (ID)
-        - Asset Management, Business Environment, Governance, Risk
-          Assessment, Risk Management Strat
-    - Protect (PR)
-        - Access Control, Awareness & Training, Data Security,
-          Information Protection Processes & procedures, Maintenance,
-          Protective Technology
-    - Detect (DE)
-        - Anomalies & events, security continuous monitoring, detectin
-          processes
-    - Respond (RE)
-        - Response planning, communications, analysis, mitigation,
-          improvements
-    - Recover (RC)
-        - recovery planning, improvements, communications
- 2. Framework Profile
-    - This step aligns business outcomes with cybersecurity activities.
- 3. Framework Implementation Tiers
-    - Maturity levels: Partial, Risk informed, Repeatable, Adaptive
-    - Determine first the current risk profile. What, then, would be the
-      Target Risk Profile detailing the acceptable levels of risk?
-      Security plan is the set of processes required to transition from
-      Current to Target.
-
-### Key actions to implement a cybersecurity program
-
-1. Identify business outcomes
-2. Understand threats and vulnerabilities
-3. Create a current profile
-4. Conduct a Risk assesment
-5. Create the target profile
-6. Decide on the target profile
-7. Determine, analyze, and prioritize gaps
-8. Implement the plan
+Log
+: A record of events that occur within an organization's systems
 
 ## Understanding the basics of cyber risk
 
@@ -125,6 +137,64 @@ Risk context are the guides to classify a risk. May include
     - Impacts (reputational, financial, etc.)
     - Actions required
 
+## NIST Risk Management Framework
+
+https://csrc.nist.gov/projects/risk-management/about-rmf
+
+1. Prepare: Activities necessary to manage securiy and privacy risks
+   *before* a breach occurs
+2. Categorize: Develop risk management processes and tasks
+3. Select: choose, customize, and capture documentation of the controls
+   that protect an organization.
+4. Implement: security and privacy plans for the organization
+5. Assess: if established controls are implemented correctly
+6. Authorize: Being accountable for the security and privacy risks that
+   may exist in an organization.
+7. Monitor: be aware how systems are operating
+
+## NIST Cybersecurity Framework
+
+https://www.nist.gov/cyberframework
+
+Action-oriented approac to security, and has 3 elements:
+
+1. Framework Core
+   - Identify (ID)
+       - Asset Management, Business Environment, Governance, Risk
+         Assessment, Risk Management Strat
+   - Protect (PR)
+       - Access Control, Awareness & Training, Data Security,
+         Information Protection Processes & procedures, Maintenance,
+         Protective Technology
+   - Detect (DE)
+       - Anomalies & events, security continuous monitoring, detectin
+         processes
+   - Respond (RE)
+       - Response planning, communications, analysis, mitigation,
+         improvements
+   - Recover (RC)
+       - recovery planning, improvements, communications
+2. Framework Profile
+   - This step aligns business outcomes with cybersecurity activities.
+3. Framework Implementation Tiers
+   - Maturity levels: Partial, Risk informed, Repeatable, Adaptive
+   - Determine first the current risk profile. What, then, would be the
+     Target Risk Profile detailing the acceptable levels of risk?
+     Security plan is the set of processes required to transition from
+     Current to Target.
+
+### Key actions to implement a cybersecurity program
+
+1. Identify business outcomes
+2. Understand threats and vulnerabilities
+3. Create a current profile
+4. Conduct a Risk assesment
+5. Create the target profile
+6. Decide on the target profile
+7. Determine, analyze, and prioritize gaps
+8. Implement the plan
+
+
 ## Managing security with COBIT
 
 Control Objectives for Information Technologies (COBIT) is framework
@@ -162,7 +232,7 @@ DSS05 objectives include the ff:
    computer password protection, secure printing, and mobile device PINs
 7. Monitor the Infrastructure for security-related events by intrusion
    detection and prevention, logging and alerting, log management,
-   security information and event monitoring (SIEM), security incidents,
+   [security information and event monitoring](/SIEM) (SIEM), security incidents,
    forensics, and managing evidence
 
 ## Making sure security is effective
@@ -178,3 +248,22 @@ Basic assurance methods include:
   the control and predict the expected results; and
 - penetration tests, which use known exploits and exploit techniques to
   try to circumvent the control 
+
+## As a Career
+
+To thrive as a cybersecurity professional, one must have these skills:
+
+- [Communication](/communication), to collaborate with others
+- Problem-solving, to recognize attack patterns and determining the best
+  solution to minimize risk.
+- Time management, to help minimize damage and risk by having a
+- Understand the core concepts of [security domains](/security-domains).
+  heightened sense of urgency
+- Programming languages, to be used to automate tasks like searching
+  data to identify potential threats
+- Security information and event monitoring (SIEM) tools, to be used in
+  periodic security audits
+- Instrusion detection systems (IDSs), to monitor system activity and
+  alert for possible intrusions.
+- Threat landscape knowledge, to build stronger defenses against threat
+  actor tactics and techniques by knowing how they operate.

@@ -51,7 +51,7 @@ I don't know exactly, except maybe it's a human thing to express oneself
 in ways alleviate the daily struggles...?
 
 Maybe, my art does not necessarily reside in th visual aspect, but more
-on the acceptance of chaos and impermanence, both of which are inherent
+on the acceptance of [chaos](/chaos) and impermanence, both of which are inherent
 in this universe. I get my inspiration from each. I imagine some street
 artists do the same. They have accepted these factors play into their
 art. And yet, they will still go to great lengths to place their work

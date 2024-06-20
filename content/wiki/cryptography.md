@@ -33,8 +33,10 @@ Modern applications also include integrity of digital transactions.
 - Basic Terms: plaintext, ciphertext, encrypt, decrypt
 - Threat Model: Read, Change, Forge [the message/s between actors]
 - [Information Security](/infosec) Goals:
-    - Confidentiality -- can't read our messages
-    - Integrity -- can't change our messages
+    - Confidentiality -- can't read our messages; only authorized users
+      can access specific assets or data
+    - Integrity -- can't change our messages; data is correct and
+      reliable
     - Authenticity -- can't forge our messages
 - The algorithm is the key to encrypt and decrypt the ciphertext, to and
   from plaintext.

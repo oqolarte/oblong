@@ -42,6 +42,13 @@ which we can strengthen our [relationships](/friendship).
 Yes, you do. I do. **I** am already a crowd because my life already
 depends on others.
 
+Can individuals make a difference? Together we can, in a way that
+matters, in our communities---volunteer, [teach](/pedagogy), pick up
+trash if it isn't in a bin, etc. While we must [gradually] accept that
+these things might not be enough to stop or slow the broader
+[collapse](/collapse), random acts of kindness matter for the person
+(both humans and non-humans) and plants that you helped to overcome an
+obstacle.
 
 Neoliberal individualism "empowers" a person to be responsible for their
 own success, to keep themselves healthy mentally, physically, and

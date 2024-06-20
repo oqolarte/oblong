@@ -11,13 +11,20 @@ starting fights about it.
 The state will still do everything to remain in power. Capitalists will
 do everything to fund the state to do it's thing.
 
-So *vote*, if it's important to you. Some people argue that it can be a
+## So *vote*
+
+...if it's important to you. Some people argue that it can be a
 form of harm reduction, that is, we can vote people that are more
 aligned with our values and beliefs. If you are from this crowd, know
 that there are people you can't convince, and the time and energy you
 spend trying could be better spent bringing [real change](/revolution).
 
-Or don't vote, if you believe we have more important things to do than
+Personally, if I'd vote, it would be symbolic. It's likely that the
+ruling class will pick who they want anyways.
+
+## Or don't vote
+
+...if you believe we have more important things to do than
 filling out a ballot. Note to people in this side: it helps no one if
 you shame voting people, saying they "legitimize the system" and are
 "complicit in genocide." Unfortunately, the reality is, at least as of
@@ -25,6 +32,5 @@ now, someone is going to still be in charge. Voting (or not) is just one
 strategy.
 
 What matters more are the things that we do in our daily lives that can
-directly impact those around us.
-Arguing about it does nothing but drown out important conversations about
-organizing and fighting the system.
+directly impact those around us. Arguing about it does nothing but drown
+out important conversations about organizing and fighting the system.

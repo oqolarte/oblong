@@ -1,5 +1,5 @@
 ---
-title: "On Information Security"
+title: "Information Security"
 date: 2023-02-05
 draft: false
 ---
@@ -26,7 +26,7 @@ However, the law does not value the individual but the volume.
 We need to be ethically ahead of the law.
 And even more so for activities that go against it.
 
-Consent is key.
+[Consent](/consent) is key.
 Information about someone is power over someone.
 This is how trust grows as people learn more about each other.
 [To divulge your information](/communication) is to be vulnerable.
@@ -71,7 +71,10 @@ to map your information network.
 2. Flip the script/try on their shoes.
 Imagine swapping yourself with each person involved in what you are
 about to share (e.g. dropping a name, telling a story):
-    - would you have any misgivings about what you were thinking of sharing?
+    - would you have any misgivings about what you were thinking of
+      sharing?
     - did they give clear prior consent for sharing this information?
-    - if it was implicit, is that a safe and reasonable assumption to make?
-    - if there is any doubt, better to err on the side of caution and ask for explicit consent first
+    - if it was implicit, is that a safe and reasonable assumption to
+      make?
+    - if there is any doubt, better to err on the side of caution and
+      ask for explicit consent first
