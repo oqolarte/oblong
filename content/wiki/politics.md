@@ -30,6 +30,7 @@ reference from which to learn.
 - [collapse](/collapse)
 - [eco-anarchism](/eco-anarchism)
 - [fascism](/fascism)
+- [nihilism](/nihilism)
 - [religion](/religion)
 - [solarpunk](/solarpunk)
 - "[war on drugs](/drugwar)"

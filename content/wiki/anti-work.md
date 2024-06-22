@@ -29,6 +29,10 @@ But you may have learned helplessness, which is more common.
 
 Work employs ennui.
 
+And, [modern] slavery is not a reliable source of quality labor,
+especially when the workers have decided to organize a sustained
+[sabotage](/sabotage).
+
 You have experienced failures or been convinced you are a failure. This
 causes the depressive symptoms that look like laziness, and the feeling
 that you can't accomplish anything. This becomes a negative feedback

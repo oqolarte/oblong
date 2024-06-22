@@ -1,8 +1,9 @@
 ---
-title: "On Zemblanity"
+title: "Zemblanity"
 date: 2023-01-30
 draft: false
 ---
+
 Zemblanity describes an anticipated but unwanted outcome,
 such as the death of an old grandma,
 the tax which we must pay,

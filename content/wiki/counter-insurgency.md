@@ -30,7 +30,7 @@ draft: false
 > 
 > https://www.hsdl.org/?abstract&did=468442
 
-In an [article](https://web.archive.org/web/https://harpers.org/archive/2012/12/anarchist-calisthenics/),
+In his article [*Anarchist Calisthenics*](https://web.archive.org/web/https://harpers.org/archive/2012/12/anarchist-calisthenics/),
 James Scott briefly suggests that we should "break some trivial law" daily,
 because this prepares us for that one big *crime*
 that we will have to do in the future,
