@@ -8,7 +8,7 @@ draft: false
 for many, many millenia now.
 
 I hope I'm not too late to this,
-so I'm compiling the any fit inspos that I find.
+so I'm compiling any fit inspos that I find.
 
 ## Yemeni Fashion
 

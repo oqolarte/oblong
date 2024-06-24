@@ -1,13 +1,10 @@
 ---
 title: "Kakakompyuter mo yan! Entry"
 date: 2023-06-13
-draft: false
+draft: true
 ---
 
 [MORE INFO HERE](https://kakakompyutermoyan.com/)
-
-Submission of work on 1 Jul 2023 to
-mailto:submit@kakakompyutermoyan.com
 
 ## Working title: "Art as a function of Tech"
 
