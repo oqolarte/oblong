@@ -9,7 +9,8 @@ but do we have the necessary infra for it to be accessible to everyone,
 no matter the social status?
 
 Consider this: students without internet access are at
-[risk of educational lag](/pedagogy), especially when [educational institutions](/academy) embed more of
+[risk of educational lag](/pedagogy),
+especially when [educational institutions](/academy) embed more of
 learning resources online, usually behind paywall.
 It doesn't help that our physical public libraries are not well-funded
 to keep up with the learning demand.
@@ -17,8 +18,16 @@ to keep up with the learning demand.
 Internet access should be universal, equitable, and non-discriminatory,
 not a commodity to be bought and sold for profit.
 
-## Cloud
+Now, internet, at its core, means a [network of computers](/network) on a global
+scale, which uses the internet protocol suite (TCP/IP) to communicate
+between networks and devices.
+
+## Cloud [Computing]
 
 The "Cloud" is just the internet served using other people's---really,
 companies', like Google, Amazon, Microsoft, and Meta---computers and
 proprietary infrastructure.
+
+Cloud computing is the practice of using remote servers, applications,
+and network services that are hosted on the internet instead of on local
+physical devices.
