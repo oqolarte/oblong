@@ -16,3 +16,7 @@ whether each would indeed be helpful or not.
 A good question to ask: "And then what?"
 
 We should only intervene when the benefits outweigh the negatives.
+
+Iatrogenics can also be identified in other fields, like [AI](/ai).
+In Joan Westenberg's
+[post *"Creators don't need your rage. They need your support."*](https://www.joanwestenberg.com/creators-dont-need-your-rage-they-need-your-support), they argue that "[a]ttempting to battle AI content" in public spaces, especially in social media sites, only broadens it's reach.

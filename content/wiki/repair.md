@@ -8,6 +8,25 @@ Instead of throwing away stuff because it's broken,
 consider if it can be fixed. This is how we can start rethinking about
 our waste.
 
+The message is simple: we should have the right to repair the stuff we
+bought. The wastefulness of Global North negatively impacts the overall
+quality of life for those in Global South.
+
+It's in our best interest to keep things functional for as long as we
+can maintain it that way. Not only that, it's also in the best interest
+of our environment, to not just throw away broken things without even
+trying to repair them. The least we can do is to wear them down until
+they can longer be fixed, so we don't have to be digging up earth for
+precious metals or cutting down trees for wood, or pull crude oil for
+plastics, or what have you.
+
+Here in the Philippine archipelago, we repair our stuff when it breaks,
+or we ask someone who knows how to do so. Thanks to our many skilled
+technicians, mechanics, electricians, plumbers, masons, tailors,
+artisans, woodworkers, metalworkers, dressmakers, weavers, and every
+repairperson in between, because without them and their ingenuity,
+keeping our stuff working for as long as possible would be a hard life.
+
 ## 7Rs
 
 1. Reduce: Bring your own
@@ -91,3 +110,56 @@ of tinkering and repairing.
 To attain sustainability, we need to increase our collective "repair
 literacy" or our ability to maintain the usefulness of things as time
 wears them down.
+
+## Common Malpractices
+
+Big companies will try to maintain as much control over their products as possible by:
+
+- closed-source schematics;
+- monopoly of replacement parts, if there's any at all;
+- limiting the number of "certtified" service centers;
+- making it hard for third-party technicians to get accreditation;
+- labeling independent repair shops as "unauthorized";
+- using proprietary tools *and* limiting the public's access to them;
+- and other things that can only be "good for the[ir] business."
+
+As you can already tell, [maximizing profit](/capitalism) does not end with you buying
+their product.
+
+## What can be done
+
+We should all be considering what would eventually happen to stuff we
+end up giving/throwing away. This goes beyond consumer electronics,
+though. We should be repairing, or having them repaired by someone who
+knows how, any stuff ranging from furniture, agriculture and farming,
+automotive, clothing, medical device repair, etc.
+
+Here are a few more thoughts.
+
+### Manufacturers
+
+Manuals and schematics (two copies, ideally: one hard copy, one soft
+copy, and the latter should be readily available on the internet,
+preferably under permissive license[^license]) should be provided along
+with the product, including, among others, the necessary steps to
+maintain it, troubleshooting problems, and a working list of entities
+and/or individuals capable of more technical repair should we find the
+problem beyond our skills.
+
+[^license]: There are many permissive licenses to choose from.
+Start here: https://creativecommons.org/
+
+Replacement parts, and the needed tools, should be made available to everyone.
+
+Products should be [designed](/design) to be repaired, not thrown away.
+
+### End users
+
+Read the manual. This documentation will tell you the do's and dont's
+when using the product. The good ones even explain how to troubleshoot
+should there be a problem, or at least point you to a direction (e.g.
+website for more info).
+
+If it applies, do a preventive maintenance, which in its core is just
+regularly checking your devices, and/or fixing them before they break.
+If you're not sure how to do this, ask a trusted technician.
