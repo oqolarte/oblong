@@ -70,7 +70,8 @@ two things:
 9. Fascist governments have symbiotic relationships with corporations.
 10. Labor unions are either eliminated or severely suppressed.
 11. Fascist nations tend to promote and tolerate open hostility to
-    higher education, and academia.
+    higher education, and academia. To them, thinking is a form of
+    emasculation.
 12. Under fascist regimes, the police are given almost limitless power
     to enforce laws.
 13. Fascist regimes almost always are governed by groups of friends and
