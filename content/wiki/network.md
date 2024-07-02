@@ -21,7 +21,8 @@ addresses.
 {{< figure src="/image/network.png" alt="A diagram showing how multiple devices connected in a network" caption="A router connects to the internet through a modem, which is provided by your internet service provider (ISP). The firewall is a security device that monitors incoming and outgoing traffic on your network. The router then directs traffic to the devices on your home network, which can include computers, laptops, smartphones, tablets, printers, and other devices. You can imagine here that the server is a file server. All devices on this network can access the files in this server. This diagram also includes a switch which is an optional device that can be used to connect more devices to your network by providing additional ports and Ethernet connections. Additionally, there are 2 routers connected to the switch here for load balancing purposes which will improve the performance of the network." >}}
 
 Network security is also important because we want to make sure that our
-network systems are safe and resilient.
+network systems are safe and resilient. For example, many organizations
+utilize [VPNs](/vpn) in their systems to provide confidential company data.
 
 ### Types of networks
 
@@ -46,7 +47,7 @@ internet.
 
 ## Network tools
 
-Firewall
+[Firewall](/firewall)
 : a network security device that monitors traffic to or from your
 network. Firewalls can also restrict specific incoming and outgoing
 network traffic. Firewalls often reside between the secured and
@@ -112,11 +113,9 @@ along the path to their final destination.
 
 ![Diagram of Wireless Access Point](/image/wap.png)
 
-Network tools such as hubs, switches,
-routers, and modems are physical devices.
-However, many functions performed by
-these physical devices can be
-completed by virtualization tools.
+Network tools such as hubs, switches, routers, and modems are physical
+devices. However, many functions performed by these physical devices can
+be completed by virtualization tools.
 
 Virtualization tools
 : are pieces of software that perform network operations
@@ -151,8 +150,8 @@ TCP/IP stands for transmission control protocol and internet protocol. It
 is the standard model used in network communication.
 
 TCP
-: is an internet communication protocol that allows two devices to form
-a connection and stream data.
+: is an internet communication protocol that allows two (or more)
+devices to form a connection and stream data.
 
 IP
 : a set of standards used for routing and addressing data packets as
@@ -172,7 +171,14 @@ transmitted across the network. It has 4 layers:
 1. **Network access layer** deals with creation of data packets and
    their transmission across a network. This includes hardware devices
    connected to physical cables and switches that direct data to its
-   destination.
+   destination. Includes the following protcol/s:
+       - Address Resolution Protocol (ARP): is used to translate the IP
+         addresses that are found in data packets into the MAC address
+         of the hardware device. Each device on the network performs ARP
+         and keeps track of matching IP and MAC addresses in an ARP
+         cache. ARP does not have a specific port number since it is a
+         layer 2 protocol and port numbers are associated with the layer
+         7 application layer.
 2. **Internet layer** is where IP addresses are attached to data packets
    to indicate the location of the sender and receiver. The internet
    layer also focuses on how networks connect to each other. Some common
@@ -210,11 +216,65 @@ transmitted across the network. It has 4 layers:
    will interact with receiving devices. Functions that are organized at
    application layer include file transfers and email services. Some
    common protocols used in this layer are:
-       - Hypertext transfer protocol (HTTP)
-       - Simple mail transfer protocol (SMTP)
-       - Secure shell (SSH)
-       - File transfer protocol (FTP)
-       - Domain name system (DNS)
+       - Hypertext transfer protocol (HTTP): provides a method of
+         communication between clients and website servers. HTTP uses
+         port 80. HTTP is considered insecure, so it is being replaced
+         on most websites by a secure version, called HTTPS that uses
+         encryption from SSL/TLS for communication.
+       - Simple mail transfer protocol (SMTP): is used to transmit and
+         route email from the sender to the recipient’s address. SMTP
+         works with Message Transfer Agent (MTA) software, which
+         searches DNS servers to resolve email addresses to IP
+         addresses, to ensure emails reach their intended destination.
+         SMTP uses TCP/UDP port 25 for unencrypted emails and TCP/UDP
+         port 587 using TLS for encrypted emails. The TCP port 25 is
+         often used by high-volume spam.
+       - Post office protocol (POP): is used to manage and retrieve
+         email from a mail server. POP3 is the most commonly used
+         version of POP. When using POP, mail has to finish downloading
+         on a local device before it can be read. After downloading, the
+         mail may or may not be deleted from the mail server, so it does
+         not guarantee that a user can sync the same email across
+         multiple devices.
+       - Internet Message Access Protocol (IMAP): is used for incoming
+         email. It downloads the headers of emails and the message
+         content. The content also remains on the email server, which
+         allows users to access their email from multiple devices. IMAP
+         uses TCP port 143 for unencrypted email and TCP port 993 over
+         the TLS protocol. Using IMAP allows users to partially read
+         email before it is finished downloading.
+       - Secure shell (SSH): is used to create a secure connection with
+         a remote system. This provides an alternative for secure
+         authentication and encrypted communication. SSH operates over
+         the TCP port 22 and is a replacement for less secure protocols,
+         such as Telnet.
+       - Secure File transfer protocol (SFTP): is used to transfer files
+         from one device to another over a network. SFTP uses secure
+         shell (SSH), typically through TCP port 22. SSH uses Advanced
+         Encryption Standard (AES) and other types of encryption to
+         ensure that unintended recipients cannot intercept the
+         transmissions.
+       - Domain name system (DNS): translates internet domain names into
+         IP addresses. When a client computer wishes to access a website
+         domain using their internet browser, a query is sent to a
+         dedicated DNS server. The DNS server then looks up the IP
+         address that corresponds to the website domain. DNS normally
+         uses UDP on port 53. However, if the DNS reply to a request is
+         large, it will switch to using the TCP protocol.
+       - Simple Network Management Protocol (SNMP): is used for monitoring
+         and managing devices on a network. SNMP can reset a password on
+         a network device or change its baseline configuration. It can
+         also send requests to network devices for a report on how much
+         of the network’s bandwidth is being used up.
+       - Dynamic Host Configuration Protocol (DHCP): works with the
+         router to assign a unique IP address to each device and provide
+         the addresses of the appropriate DNS server and default gateway
+         for each device. DHCP servers operate on UDP port 67 while DHCP
+         clients operate on UDP port 68.
+       - Telnet: sends all information in clear text. It uses command
+         line prompts to control another device similar to secure shell
+         (SSH), but Telnet is not as secure as SSH. Telnet can be used
+         to connect to local or remote devices and uses TCP port 23.
 
 ### OSI Model
 
@@ -268,7 +328,7 @@ communicate and send data over the network.
 
 Network and security professionals use the OSI model to communicate with
 each other about potential sources of problems or security threats when
-they occur.  Network engineers and network security analysts use the
+they occur. Network engineers and network security analysts use the
 TCP/IP and OSI models to conceptualize network processes and communicate
 the location of disruptions or threats.
 
@@ -288,3 +348,61 @@ types:
       allow for more devices to be connected to the internet without
       running out of addresses as quickly as IPv4.
     - Example: 684D:1111:222:3333:4444:5555:6:77
+
+## Wireless Protocols
+
+IEEE802.11, commonly known as Wi-Fi, is a set of standards that define
+communications for wireless LANs. IEEE stands for the Institute of
+Electrical and Electronics Engineers, which is an organization that
+maintains Wi-Fi standards, and 802.11 is a suite of protocols used in
+wireless communications.
+
+### Wired Equivalent Privacy
+
+WEP is a wireless security protocol designed to provide users with the
+same level of privacy on wireless network connections as they have on
+wired network connections. WEP was developed in 1999 and is the oldest
+of the wireless security standards. While largely out of use today, a
+network router might have used WEP as the default security protocol and
+the network administrator never changed it. Or, devices on a network
+might be too old to support newer Wi-Fi security protocols.
+Nevertheless, a malicious actor could potentially break the WEP
+encryption, so it’s now considered a high-risk security protocol.
+
+### Wi-Fi Protected Access
+
+WPA is a wireless security protocol for devices to connect to the
+internet. was developed in 2003 to improve upon WEP, address the
+security issues that it presented, and replace it. WPA was always
+intended to be a transitional measure so backwards compatibility could
+be established with older hardware.
+
+Even with improvements, WPA has vulnerabilities to attacks like
+[key reinstallation attack](https://en.wikipedia.org/wiki/KRACK) (KRACK), in which attackers can insert themselves
+in the WPA authentication handshake process and insert a new encryption
+key. Because of this, an updated version called WPA2 was made.
+
+### WPA2 & WPA3
+
+WPA2 improves upon WPA by using [Advanced Encryption Standard](/aes)
+(AES). Because of the strength of WPA2, it is considered the security
+standard for all Wi-Fi transmissions today. WPA2, like its predecessor,
+is vulnerable to KRACK attacks. This led to the development of WPA3 in
+2018.
+
+WPA3 is a secure Wi-Fi protocol
+[launched in 2018 with enhancements to WPA2](https://www.darkreading.com/endpoint-security/wi-fi-alliance-launches-wpa2-enhancements-and-debuts-wpa3),
+which, among other things, aims to
+[make public Wi-Fi hotspots more secure](https://www.techspot.com/news/72656-wpa3-protocol-make-public-wi-fi-hotspots-lot.html).
+
+These are the key differences between WPA2 and WPA3:
+
+- WPA3 addresses the authentication handshake vulnerability to KRACK
+  attacks, which is present in WPA2.
+- WPA3 uses [Simultaneous Authentication of Equals](/sae) (SAE), a
+  password-authenticated, cipher-key-sharing agreement. This prevents
+  attackers from downloading data from wireless network connections to
+  their systems to attempt to decode it.
+- WPA3 has increased encryption to make passwords more secure by using
+  128-bit encryption, with WPA3-Enterprise mode offering optional
+  192-bit encryption.
