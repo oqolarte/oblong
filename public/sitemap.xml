@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ohio.araw.xyz/proxy-server/</loc>
+    <lastmod>2024-07-03T23:29:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/security-zone/</loc>
+    <lastmod>2024-07-03T23:29:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/subnetting/</loc>
+    <lastmod>2024-07-03T23:29:39+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/</loc>
+    <lastmod>2024-07-03T23:29:39+08:00</lastmod>
+  </url><url>
     <loc>https://ohio.araw.xyz/firewall/</loc>
     <lastmod>2024-07-02T22:53:05+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/sae/</loc>
-    <lastmod>2024-07-02T22:53:05+08:00</lastmod>
-  </url><url>
-    <loc>https://ohio.araw.xyz/</loc>
     <lastmod>2024-07-02T22:53:05+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/vpn/</loc>
@@ -1223,7 +1232,7 @@
     <lastmod>2024-01-03T18:36:54+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/wiki/</loc>
-    <lastmod>2024-07-02T22:50:58+08:00</lastmod>
+    <lastmod>2024-07-03T23:29:39+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/log/</loc>
     <lastmod>2020-11-30T11:49:32+08:00</lastmod>

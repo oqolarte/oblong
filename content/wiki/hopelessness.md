@@ -34,7 +34,7 @@ If you hope for [anarchy](/revolution),
 you're going to feel hopeless.
 Anarchy is nothing if not failure after failure on the large scale.
 Trying to fight and win on that sort of scale
-is just setting yourself up [for repeated misfortunes that come after](zemblanity).
+is just setting yourself up [for repeated misfortunes that come after](/zemblanity).
 
 
 [^tal-desert]: Read the whole text here:

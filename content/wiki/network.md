@@ -24,6 +24,10 @@ Network security is also important because we want to make sure that our
 network systems are safe and resilient. For example, many organizations
 utilize [VPNs](/vpn) in their systems to provide confidential company data.
 
+Moreover, there's a type of network security feature called a security
+zone. [Security zones](/security-zone) are a segment of a network that protects the
+internal network from the internet. 
+
 ### Types of networks
 
 Devices can communicate on two types of networks:
