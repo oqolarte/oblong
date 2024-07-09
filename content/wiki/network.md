@@ -20,13 +20,21 @@ addresses.
 
 {{< figure src="/image/network.png" alt="A diagram showing how multiple devices connected in a network" caption="A router connects to the internet through a modem, which is provided by your internet service provider (ISP). The firewall is a security device that monitors incoming and outgoing traffic on your network. The router then directs traffic to the devices on your home network, which can include computers, laptops, smartphones, tablets, printers, and other devices. You can imagine here that the server is a file server. All devices on this network can access the files in this server. This diagram also includes a switch which is an optional device that can be used to connect more devices to your network by providing additional ports and Ethernet connections. Additionally, there are 2 routers connected to the switch here for load balancing purposes which will improve the performance of the network." >}}
 
-Network security is also important because we want to make sure that our
+## Why do we need secure networks?
+
+[Network security](/network-security) is important because we want to make sure that our
 network systems are safe and resilient. For example, many organizations
 utilize [VPNs](/vpn) in their systems to provide confidential company data.
 
 Moreover, there's a type of network security feature called a security
-zone. [Security zones](/security-zone) are a segment of a network that protects the
-internal network from the internet. 
+zone. [Security zones](/security-zone) are a segment of a network that
+protects the internal network from the internet.
+
+Common network intrusion attacks include:
+- malware
+- spoofing
+- [packet sniffing](/network-protocol-analyzer)
+- [packet flooding](/dos-attack)
 
 ### Types of networks
 
@@ -63,7 +71,7 @@ Server
 : provide information and services for devices like computers, smart
 home devices, and smartphones on the network. The devices that connect
 to a server are called clients. The following graphic outlines this
-model, which is called the client-server model. 
+model, which is called the client-server model.
 
 {{< figure src="/image/server.png" alt="A diagram showing client-server model" caption="In this model, clients send requests to the server for information and services. The server performs the requests for the clients. Common examples include DNS servers that perform domain name lookups for internet sites, file servers that store and retrieve files from a database, and corporate mail servers that organize mail for a company." >}}
 
