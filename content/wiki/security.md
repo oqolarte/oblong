@@ -28,6 +28,9 @@ important as thinking about how they will work.
 
 Security, in any context, is not something one adds on ad hoc.
 It has to be included in all stages of development and implementation.
+Security analysts and the organizations they work with have to be
+proactive about protecting systems from attack.
+This is where [security hardening](/security-hardening) comes in.
 
 It's also important to remember that there's a range of abilities that
 we must keep in mind when designing and implementing security solutions?
@@ -149,3 +152,5 @@ policies, and procedures against a set of expectations.
     - Note how quickly those risks need to be addressed
     - Identify compliance regulations
     - Provide recommendations
+
+
