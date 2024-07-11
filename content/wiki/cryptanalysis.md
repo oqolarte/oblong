@@ -17,7 +17,7 @@ A perfectly secure cryptosystem that no one can or will use serves no purpose.
 
 ## Computational Security
 
-- The computational effort needed to carry out a brute force attack is
+- The computational effort needed to carry out a [brute force attack](/brute-force-attack) is
   on the order of the size of the key space. O(keyspace)
 - A cipher is computationally secure if the best attack is not much
   better than brute force.

@@ -19,10 +19,10 @@ security issues.
     - Authorization
     - Asset classification
 - **Technical controls**: consist of solutions including:
-    - Firewalls
+    - [Firewalls](/firewall)
     - MFA
     - Antivirus software
-    - Encryption
+    - [Encryption](/cryptography)
 - **Physical controls**: are used to limit physical access to physical
   assets by unauthorized personnel. These include:
     - Gates, fences, and locks

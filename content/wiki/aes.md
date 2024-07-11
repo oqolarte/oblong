@@ -5,7 +5,7 @@ draft: false
 ---
 To improve [DES](/des), we consider using
 the same DES functions multiple times with different keys.
-Such approach can make the brute force attack infeasible by increasing the key length.
+Such approach can make the [brute force attack](/brute-force-attack) infeasible by increasing the key length.
 While [triple DES](/triple-des) provides greater [security](/security) than DES,
 it requires three times as much as computation and thus slower.
 An alternative approach is to design a completely new algorithm.

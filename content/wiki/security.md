@@ -152,5 +152,3 @@ policies, and procedures against a set of expectations.
     - Note how quickly those risks need to be addressed
     - Identify compliance regulations
     - Provide recommendations
-
-
