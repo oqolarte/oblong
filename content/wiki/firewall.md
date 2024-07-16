@@ -13,6 +13,8 @@ port numbers to limit unwanted communication. For example, it could have
 a rule that only allows communications on port 443 for HTTPS or port 25
 for email and blocks everything else.
 
+![Firewall topology in a network](/image/firewall.png)
+
 ## Types
 
 A **hardware firewall** is considered the most basic way to defend
