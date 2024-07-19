@@ -19,7 +19,7 @@ some way, like [IP spoofing](/ip-spoofing).
 
 Malicious actors can use hardware or software tools to capture and
 inspect data in transit.
-This is referred to as [packet sniffing](network-protocol-analyzer). In
+This is referred to as [packet sniffing](/network-protocol-analyzer). In
 addition to seeing information that they are not entitled to, malicious
 actors can also intercept network traffic and alter it by inserting
 malicious code modifications or altering the message and interrupting
