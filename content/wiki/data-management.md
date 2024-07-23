@@ -4,6 +4,9 @@ date: 2023-05-20
 draft: false
 ---
 
+Our modern world is filled with data,
+some considering it to be [the new oil](https://thenewoil.org/en/).
+
 Good data is expensive,
 in that it requires lot of resources:
 man power,
@@ -31,6 +34,13 @@ as opposed to "data-driven decisions."
 The latter is susceptible [McNamara fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy),
 an exclusively quantitative decision making,
 and is doomed to fail.
+
+## Databases
+
+Database is an organized collection of data.
+Database languages are specific to a particular model.
+[SQL](/sql) (structured query language, pronounced as "sequel") is used to
+manage data, especially in a relational database.
 
 ## Data in Machine Learning
 
