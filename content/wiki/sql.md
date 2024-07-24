@@ -61,6 +61,16 @@ FROM employees
 WHERE title LIKE 'IT%';
 ```
 
+`BETWEEN`
+: filters for numbers or dates within a range. Used in conjuntion with
+`AND` to identify the range, like so:
+
+```sql
+SELECT firstname, lastname, hiredate
+FROM employees
+WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01';
+```
+
 ## Accessing SQL
 
 There are many interfaces for accessing SQL and many different versions
