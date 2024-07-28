@@ -58,3 +58,12 @@ In [an interview by *The Guardian*](https://www.theguardian.com/technology/2021/
 > shuffling Amazon boxes. **AI is neither artificial nor intelligent. It
 > is made from natural resources and it is people who are performing the
 > tasks to make the systems appear autonomous.**
+
+## What to think of LLM
+
+Large language models (LLMs) are not meant to be used as search engines.
+LLMs are, in simpler terms, based on [statistics](/statistics) in that
+they only predict a likely answer. To understand it better, when you
+type a question or prompt, you're actually asking the LLM to give back
+the most likely response of people to that sort of query/prompt. Don't
+expect it give a "right answer."

@@ -24,6 +24,7 @@ principles including the following:
   hip or gable
 - window, accordion screen, sliding
 - Garage: optional
+- Baked bricks with slats where the sun wall is
 - if bungalow: [Solar house with passive cooling](https://www.builditsolar.com/Projects/Cooling/passive_cooling.htm)
 
 ## Architectural
@@ -53,7 +54,7 @@ Furniture: Beach recliner, but bench
 
 A plot where we can grow our own food via [permaculture](/permaculture).
 
-Roof with mechanical, spinning, wind catchers made of metal (?)
+Roof with vent turbine for ventilation
 
 ### Design ideas
 
