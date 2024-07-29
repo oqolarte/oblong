@@ -71,6 +71,91 @@ FROM employees
 WHERE hiredate BETWEEN '2002-01-01' AND '2003-01-01';
 ```
 
+`INNER JOIN`
+: returns rows matching on a specified column that exists in more than
+one table. It only returns the rows where there is a match, but like
+other types of joins, it returns all specified columns from all joined
+tables.
+
+```sql
+SELECT *
+FROM employees
+INNER JOIN machines ON employees.device_id = machines.device_id;
+```
+
+Specify the two tables to join by including the first or left table
+after FROM and the second or right table after `INNER JOIN`.
+
+After the name of the right table, use the `ON` keyword and the `=`
+operator to indicate the column you are joining the tables on. It's
+important that you specify both the table and column names in this
+portion of the join by placing a period (.) between the table and the
+column.
+
+`LEFT JOIN`
+: returns all the records of the first table, but only returns rows of
+the second table that match on a specified column.
+
+```sql
+SELECT *
+FROM employees
+LEFT JOIN machines ON employees.device_id = machines.device_id;
+```
+
+As with all joins, specify the first (or left) table as the table that
+comes after `FROM` and the second (or right ) table as the table that
+comes after ` LEFT JOIN`. In the example query, because employees is the
+left table, all of its records are returned. Only records that match on
+the `device_id` column are returned from the right table, `machines`.
+
+`RIGHT JOIN`
+: returns all of the records of the second table, but only returns rows
+from the first table that match on a specified column.
+
+```sql
+SELECT *
+FROM employees
+RIGHT JOIN machines ON employees.device_id = machines.device_id;
+```
+
+`RIGHT JOIN` has the same syntax as `LEFT JOIN`, with the only
+difference being the keyword `RIGHT JOIN` instructs SQL to produce
+different output. The query returns all records from `machines`, which
+is the second table. Only matching records are returned from
+`employees`, which is the first table.
+
+`FULL OUTER JOIN`
+: returns all records from both tables. You can think of it as a way of
+completely merging two tables.
+
+```sql
+SELECT *
+FROM employees
+FULL OUTER JOIN machines ON employees.device_id = machines.device_id;
+```
+
+The results of a `FULL OUTER JOIN` query include all records from both
+tables. Similar to `INNER JOIN`, the order of tables does not change the
+results of the query.
+
+## Aggregate functions
+
+In SQL, aggregate functions are functions that perform a calculation
+over multiple data points and return the result of the calculation. The
+actual data is not returned.
+
+`COUNT`
+: returns a single number that represents the number of rows returned
+from your query.
+
+`AVG`
+: returns a single number that represents the average of the numerical
+data in a column.
+
+`SUM`
+: returns a single number that represents the sum of the numerical data
+in a column.
+
 ## Accessing SQL
 
 There are many interfaces for accessing SQL and many different versions
