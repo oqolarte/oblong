@@ -11,7 +11,19 @@ This act asks you to be patient and understanding, instead of blitzing
 through to achieve your own agenda with complete disregard to other people
 involved.
 
-Consent is not a one-time thing; it must be [cleary communicated](/communication) through all parties concerned whenever
+Is it really more efficient to make decisions without getting the inputs
+of all parties involved? For those of us who have been on the receiving
+end of top-down decisions, we know that such moves can be
+alienating, making us contest the entire process. This might lead to
+lack of support for the decision made for us, ultimately putting
+said "efficiency" to question.
+
+By using consensus, we make better decisions
+and [build stronger community](/community).
+
+Consent is not a one-time thing;
+it must be [cleary communicated](/communication)
+through all parties concerned whenever
 necessary, because things change: people's capacities, environments in
 which contexts come and go, culture, living situations, etc.
 
