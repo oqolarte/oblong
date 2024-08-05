@@ -5,11 +5,12 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
 
-{{< figure src="/image/neofetch.png" alt="Screenshot of desktop, including Operating System Details" caption="`sway` tiling window manager. Clockwise from top-left: `neofetch` in `foot` running `tmux`, firefox, mpv, zathura" >}}
+{{< figure src="/image/neofetch.png" alt="Screenshot of desktop, including Operating System Details" caption="`sway` tiling window manager. Clockwise from top-left: Firefox, `neofetch` in `foot` running `tmux`, `imv` viewing a webcomic from https://webcomicname.com, mpv" >}}
 
 ## Default apps
 
-- Operating System: [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); [Alpine Linux edge](https://alpinelinux.org) (laptop, daily driver); Android (smartphone)
+- Operating System: [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); [Alpine Linux v3.20 *stable*](https://alpinelinux.org) (laptop, daily driver); Android (smartphone)
+- Tiling window manager: [sway](https://swaywm.org/)
 - Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mull](https://gitlab.com/divested-mobile/mull-fenix) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
@@ -24,9 +25,11 @@ draft: false
 - RSS Feed reader: [newsraft](https://codeberg.org/newsraft/newsraft)
 - Media player: [mpv](https://mpv.io)
 - Notes: [vimwiki](https://vimwiki.github.io/) plugged into [neovim](https://neovim.io) (also my `$EDITOR` of choice)
-- Spreadsheets: [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)
-- YouTube client: [NewPipe](https://newpipe.net/) (Android)
+- Office suite: [LibreOffice](https://www.libreoffice.org)
 - PDF reader: [zathura](https://pwmt.org/projects/zathura/)
+- Physical exercise tracker: [FitoTrack](https://codeberg.org/jannis/FitoTrack) (Android)
+- YouTube client: [NewPipe](https://newpipe.net/) (Android)
+- Authenticator: [Aegis](https://getaegis.app/) (Android)
 
 ## Special Mentions
 

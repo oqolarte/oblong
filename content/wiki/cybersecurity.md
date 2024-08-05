@@ -17,8 +17,8 @@ their own security policies and processes.
 ## Early Concepts
 
 1. Reference Monitor - mediates access to system resources.  It also
-   enforces access control. Has 3 characteristics: a. Tamper proof b.
-   Mandatory validation mechanism c. Must be small enough to be analyzed
+   enforces access control. Has 3 characteristics: (a) Tamper proof (b)
+   Mandatory validation mechanism (c) Must be small enough to be analyzed
    and tested
     - Bell-LaPadula Security Model
         - Discretionary access control (DAC): Admin only grants access
@@ -191,8 +191,8 @@ Cloud security
 : The process of ensuring that assets stored in the
 cloud (i.e., a network of servers that store resources and data in
 remote physical locations that can be accessed via internet) are
-properly configured, or set up correctly, and access to those assets is
-limited to authorized users.
+properly configured, or set up correctly, and
+[access to those assets is limited to authorized users](/asset-security).
 
 [Malware](/malware)
 : Software designed to harm devices or networks

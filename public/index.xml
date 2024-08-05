@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 17:26:09 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -326,13 +326,14 @@ References are available on request.&lt;/p&gt;
       <guid>https://ohio.araw.xyz/foss/</guid>
       <description>&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/neofetch.png&#34;
     alt=&#34;Screenshot of desktop, including Operating System Details&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;&lt;code&gt;sway&lt;/code&gt; tiling window manager. Clockwise from top-left: &lt;code&gt;neofetch&lt;/code&gt; in &lt;code&gt;foot&lt;/code&gt; running &lt;code&gt;tmux&lt;/code&gt;, firefox, mpv, zathura&lt;/p&gt;
+      &lt;p&gt;&lt;code&gt;sway&lt;/code&gt; tiling window manager. Clockwise from top-left: Firefox, &lt;code&gt;neofetch&lt;/code&gt; in &lt;code&gt;foot&lt;/code&gt; running &lt;code&gt;tmux&lt;/code&gt;, &lt;code&gt;imv&lt;/code&gt; viewing a webcomic from &lt;a href=&#34;https://webcomicname.com&#34;&gt;https://webcomicname.com&lt;/a&gt;, mpv&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&#34;default-apps&#34;&gt;Default apps&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Operating System: &lt;a href=&#34;https://www.debian.org/News/2023/20230610&#34;&gt;Debian 12 &amp;ldquo;&lt;em&gt;bookworm&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux edge&lt;/a&gt; (laptop, daily driver); Android (smartphone)&lt;/li&gt;
+&lt;li&gt;Operating System: &lt;a href=&#34;https://www.debian.org/News/2023/20230610&#34;&gt;Debian 12 &amp;ldquo;&lt;em&gt;bookworm&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux v3.20 &lt;em&gt;stable&lt;/em&gt;&lt;/a&gt; (laptop, daily driver); Android (smartphone)&lt;/li&gt;
+&lt;li&gt;Tiling window manager: &lt;a href=&#34;https://swaywm.org/&#34;&gt;sway&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Web Browsers: &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (laptop), &lt;a href=&#34;https://gitlab.com/divested-mobile/mull-fenix&#34;&gt;Mull&lt;/a&gt; (Android)
 &lt;ul&gt;
 &lt;li&gt;Browser add-ons: uBlock Origin, Redirector, SponsorBlock&lt;/li&gt;
@@ -350,9 +351,11 @@ Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;li&gt;RSS Feed reader: &lt;a href=&#34;https://codeberg.org/newsraft/newsraft&#34;&gt;newsraft&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Media player: &lt;a href=&#34;https://mpv.io&#34;&gt;mpv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Notes: &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;vimwiki&lt;/a&gt; plugged into &lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; (also my &lt;code&gt;$EDITOR&lt;/code&gt; of choice)&lt;/li&gt;
-&lt;li&gt;Spreadsheets: &lt;a href=&#34;https://www.libreoffice.org/discover/calc/&#34;&gt;LibreOffice Calc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;YouTube client: &lt;a href=&#34;https://newpipe.net/&#34;&gt;NewPipe&lt;/a&gt; (Android)&lt;/li&gt;
+&lt;li&gt;Office suite: &lt;a href=&#34;https://www.libreoffice.org&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;PDF reader: &lt;a href=&#34;https://pwmt.org/projects/zathura/&#34;&gt;zathura&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Physical exercise tracker: &lt;a href=&#34;https://codeberg.org/jannis/FitoTrack&#34;&gt;FitoTrack&lt;/a&gt; (Android)&lt;/li&gt;
+&lt;li&gt;YouTube client: &lt;a href=&#34;https://newpipe.net/&#34;&gt;NewPipe&lt;/a&gt; (Android)&lt;/li&gt;
+&lt;li&gt;Authenticator: &lt;a href=&#34;https://getaegis.app/&#34;&gt;Aegis&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;special-mentions&#34;&gt;Special Mentions&lt;/h2&gt;
 &lt;ul&gt;
