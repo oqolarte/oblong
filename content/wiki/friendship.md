@@ -12,7 +12,6 @@ It's no coincidence that "friend" and "freedom" come from the same
 Indo-European root. Through friends we gain more mobility, we can access
 *from* and get access *for* our wants and needs.
 
-
 {{< figure src="/image/gentlefriends.jpg" alt="Two kids wearing only shorts and cloth masks, the arm of one goes over the shoulder of the other. They each hold a pistol. Overlaid on them is the caption in big bold capital letters: Be gentle with each other, so we can be dangerous together" caption="That's what friends are for" >}}
 
 Friendship takes time and energy.

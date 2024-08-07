@@ -4,6 +4,8 @@ date: 2022-12-15
 draft: false
 ---
 
+{{< figure src="/image/donald-duck-005.jpg" alt="Donald Duck surrounded by flames. He says, 'Ah! A beyootiful fire! I love fires! I love to build fires! I'm going to build fires everywhere!'" caption="What's up, duck?" >}}
+
 > This field manual/Marine Corps war-fighting publication
 > establishes doctrine (fundamental principles)
 > for military operations in a counterinsurgency (COIN) environment.
@@ -29,6 +31,8 @@ draft: false
 > to the specific circumstances facing them.
 > 
 > https://www.hsdl.org/?abstract&did=468442
+
+{{< figure src="/image/donald-duck-003.jpg" alt="Silhouette of Donald Duck while holding a bucket. His background is a neighborhood and on the distance a big fire. Two little ducks on the foreground saying 'There he comes now! From the fire! With a can of gasoline and a box of matches!'" caption="Ah" >}}
 
 In his article [*Anarchist Calisthenics*](https://web.archive.org/web/https://harpers.org/archive/2012/12/anarchist-calisthenics/),
 James Scott briefly suggests that we should "break some trivial law" daily,
