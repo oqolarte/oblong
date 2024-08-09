@@ -79,3 +79,56 @@ two things:
     governmental power and authority to protect their friends from
     accountability.
 14. Fascist nations are riddled with fraudulent elections.
+
+## Note on Nazis
+
+https://www.tumblr.com/whereserpentswalk/747399887511060481
+
+The Nazis that in movies are as much a historical fantasy as Vikings
+with horned helmets and samurai cutting people in half.
+
+The Nazis were not some vague evils that wanted to hurt people for the
+sake of hurting them. They had specific goals which furthered a
+far-right agenda, and they wanted to do harm to very specific groups,
+(largely Slavs, Jews, Romani, queer people, communists/leftists, and
+disabled people.)
+
+The Nazis didn't use soldiers in creepy gas masks as their main imagery
+that they sold to the German people; they used blond-haired blue-eyed
+families. Nor did they stand up on podiums saying they would wage an
+endless and brutal war; they gave speeches about protecting white
+Christian society from degenerates just like how conservatives do today.
+
+Nazis weren't atheists or pagans. They were deeply Christian and
+Christianity was part of their ideology just like it is for modern
+conservatives. They spoke at lengths about defending their Christian
+nation from godless leftism. The ones who hated the Catholic church
+hated it for protestant reasons. Nazi occultism was fringe within the
+party and never expected to become mainstream, and those occultists were
+still Christian, none of them ever claimed to be Satanists or Asatru.
+
+Nazis were also not queer or disabled. They killed those groups, before
+they had a chance to kill almost anyone else. Despite the amount of
+disabled Nazis or queer/queer coded Nazis you'll see in movies and on
+TV, they were very cishet and very able bodied. There was one high
+ranking Nazi early on who was gay and the other Nazis killed him for
+that. Saying the Nazis were gay or disabled makes about as much sense as
+saying they were Jewish.
+
+The Nazis weren't mentally ill. As previously mentioned, they hated
+disabled people, and this unquestionably included anyone neurodivergent.
+When the surviving nazi war criminals were given psychological tests
+after the war, they were shown to be some of the most neurotypical
+people out there.
+
+The Nazis were NOT socialists. They *hated* socialists. They got
+elected on hating socialists. They killed socialists. Hating all forms
+of leftism was a big part of their ideology, and especially a big part
+of how they sold themselves.
+
+The Nazis were not the supervillains you see on screen, not because they
+didn't do horrible things in real life, they most certainly did, but
+because they weren't that vague apolitical evil that exists for white
+American action heroes to fight. They did horrible things because they
+had a right-wing authoritarian political ideology, an ideology that is
+fundamentally the same as what most of the modern right wing believes.
