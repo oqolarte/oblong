@@ -1,5 +1,5 @@
 ---
-title: "Security Domains according to CISSP"
+title: "Security Domains, according to CISSP"
 date: 2024-06-18
 draft: false
 math: false

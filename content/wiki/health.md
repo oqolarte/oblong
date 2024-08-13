@@ -12,7 +12,8 @@ Be aware of [intervention that might lead to worse outcomes](/iatrogenics).
 
 ## Physical Fitness
 
-Fitness depends on many factors, like [BMI](/BMI), but these factors can
+Fitness depends on many factors (no, not like [BMI](/BMI)),
+but these factors can
 be simplified into three: exercise, nutrition, and recovery. In turn, it
 affects many aspects of social life, including
 [friendships](/friendship) and [sexual relationships](/sex).
@@ -23,6 +24,8 @@ form of physical exercise.
 My cardio is embedded in daily life in the form of long walks, cycling
 to and from work on a single-speed [bike](/bike), taking stairs when
 possible, etc.
+
+I have also been [smoke-free](/quit-smoking) since Jun 2017.
 
 ### Protein
 

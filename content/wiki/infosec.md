@@ -4,10 +4,11 @@ date: 2023-02-05
 draft: false
 ---
 
-As we continue to navigate the digital spaces,
-we must be aware of the bits of information,
-or crumbs if you will, that we leave behind.
-And how access to this information can be used in many different ways.
+As we continue to navigate the digital spaces, we must be aware of the
+bits of information, or crumbs if you will, that we leave behind. And
+how access to this information can be used in many different ways. Weak
+information security is a serious problem. It can lead to things like
+identity theft, financial loss, and reputational damage.
 
 ## Safety & Security Mindfulness
 

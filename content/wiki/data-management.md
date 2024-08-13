@@ -7,6 +7,9 @@ draft: false
 Our modern world is filled with data,
 some considering it to be [the new oil](https://thenewoil.org/en/).
 
+Data is the information that is translated, processed, or stored by a
+[computer](/computer).
+
 Good data is expensive,
 in that it requires lot of resources:
 man power,

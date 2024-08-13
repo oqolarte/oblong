@@ -100,7 +100,7 @@ Heavily influenced by https://www.bicycling.com/repair/a20012653/bike-repair-tip
     If you inadvertently interchange them, you will likely have to buy
     new crankarms. The good news is that your pedals will probably
     survive the mistake.
-21. To remove your ­pedals, set the driveside crankarm at 9 o’clock for
+21. To remove your pedals, set the driveside crankarm at 9 o’clock for
     better leverage. Then turn your wrench clockwise to loosen your
     non-driveside pedal and counterclockwise to loosen the one on the
     driveside.
@@ -110,5 +110,3 @@ Heavily influenced by https://www.bicycling.com/repair/a20012653/bike-repair-tip
     facing down, between 10 and 2 o’clock.
 24. Hang hooks in your garage to keep your bike ­vertical. Resting it on
     its side can knock your derailleurs out of whack.
-25. Regularly inspect your carbon-fiber frame for cracks, and touch up
-    scratches with a couple coats of clear nail polish.

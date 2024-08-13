@@ -12,6 +12,8 @@ of them, we must be open, and
 that despite our differences, we can live
 together.
 
+{{< figure src="/image/humans-kind.jpg" alt="Image contains two astronauts facing the planet earth from outer space. One of them has their back turned on the other. The other one behind is handing a bouquet to the one in front. The one in front says, 'Human beings are fundamentally good?' The one behind responds, 'Always have been.'" caption="(Hoffman, 1981)" >}}
+
 ## Living together with differences
 
 What are we capable of doing individually? Collectively? We won't know

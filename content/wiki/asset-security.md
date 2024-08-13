@@ -6,7 +6,9 @@ math: false
 ---
 
 Asset
-: is an item perceived as having value to an organization.
+: is an item perceived as having value to an organization. Usually, if
+an asset is in a digital format, it is also called as
+[data](/data-management).
 
 Threat
 : is any circumstance or event that can negatively impact assets.
@@ -23,6 +25,10 @@ vulnerability can be a forgetful employee who loses their access card in
 a parking lot.
 
 ## [Security](/security) starts with asset classification.
+
+Information is one of the most valuable assets that an organization can
+have, and it's important classify assets to know which
+[practice to keep data in all states away from unauthorized users](/infosec).
 
 Asset management
 : is the process of tracking assets and the risks that affect them.

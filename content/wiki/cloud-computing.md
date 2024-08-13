@@ -26,6 +26,8 @@ CSP’s application programming interface (API) or web console.
 
 **Software as a service (SaaS)** refers to software suites operated by
 the CSP that a company can use remotely without hosting the software.
+The software is mostly front-end applications that users access via a
+web browser.
 
 **Infrastructure as a service (IaaS)** refers to the use of virtual
 computer components offered by the CSP. These include virtual containers
@@ -38,8 +40,11 @@ to cloud provider services.
 
 **Platform as a service (PaaS)** refers to tools that application
 developers can use to design custom applications for their company.
-Custom applications are designed and accessed in the cloud and used for
-a company’s specific business needs.
+These are back-end application development tools that developers use to
+write code and build, manage, and deploy their own apps. Custom
+applications are designed and accessed in the cloud and used for a
+company’s specific business needs. Some examples of PaaS services
+include Google App Engine™ platform, Heroku®, and VMware Cloud Foundry.
 
 ## Benefits of cloud computing to businesses
 
@@ -59,6 +64,9 @@ a company’s specific business needs.
 
 Just like any other IT infrastructure, a cloud infrastructure
 [needs to be secured](/network-security).
+It's a growing subfield of [cybersecurity](/cybersecurity) that
+specifically focuses on the protection of data, applications, and
+infrastructure in the cloud.
 
 **Identity access management** (IAM) is a collection of processes and
 technologies that helps organizations manage digital identities in their
@@ -130,6 +138,28 @@ own premises. However, it is important to consider that each service
 adds complexity to the security profile of the organization, and they
 will need security personnel to monitor all of the cloud services.
 
+### Cloud security challenges
+
+Since data is stored in the cloud and accessed over the internet,
+several challenges arise:
+
+- Misconfiguration is one of the biggest concerns. Customers of
+  cloud-based services are responsible for configuring their own
+  security environment. Oftentimes, they use out-of-the-box
+  configurations that fail to address their specific security
+  objectives.
+- Cloud-native breaches are more likely to occur due to misconfigured
+  services.
+- Monitoring access might be difficult depending on the client and level
+  of service.
+- Meeting regulatory standards is also a concern, particularly in
+  industries that are required by law to follow specific requirements
+  such as HIPAA, PCI DSS, and GDPR.
+
+Many other challenges exist besides these. [Burning Glass](https://www.burningglassinstitute.org/), a
+leading labor market analytics firm, ranks cloud security among the most
+in-demand skills in cybersecurity.
+
 ### Cloud security hardening
 
 Hypervisor
@@ -174,6 +204,19 @@ This makes the data undecipherable and prevents anyone from decrypting
 the data. When crypto-shredding, all copies of the key need to be
 destroyed so no one has any opportunity to access the data in the
 future.
+
+### More resources on cloud security
+
+- [The U.K.’s National Cyber Security Centre](https://www.ncsc.gov.uk/collection/cloud/understanding-cloud-services/cloud-security-shared-responsibility-model)
+  has a detailed guide for choosing, using, and deploying cloud services
+  securely based on the shared responsibility model.
+- [The Cloud Security Alliance®](https://cloudsecurityalliance.org/) is
+  an organization dedicated to creating secure cloud environments. They
+  offer access to cloud security-specific research, certification, and
+  products to users with a paid membership.
+- [CompTIA Cloud+](https://www.comptia.org/blog/your-next-move-cloud-security-specialist)
+  is a certificate program designed to teach you the foundational skills
+  needed to become a cloud security specialist.
 
 ## Shared responsibility model
 
