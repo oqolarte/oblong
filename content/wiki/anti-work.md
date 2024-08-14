@@ -92,8 +92,8 @@ But it's not enough.
 I find it cruel that our only value as living beings is in our ability
 to create capital for people who don't.
 
-[Economics](/economics) promotes a set of pseudo-scientific beliefs that the distribution of
-money is fair and efficient, when it's most often the opposite.
-People in power, usually capitalists, use this to justify their privilege,
-how they exploit the working class,
-how they plunder the natural resources for their own benefit, etc.
+[Economics](/economics) promotes a set of pseudo-scientific beliefs that
+the distribution of money is fair and efficient, when it's most often
+the opposite. People in power, usually [capitalists](/capitalism), use
+this to justify their privilege, how they exploit the working class, how
+they plunder the natural resources for their own benefit, etc.

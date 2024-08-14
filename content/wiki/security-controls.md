@@ -9,7 +9,8 @@ Security controls are used alongside [frameworks](/security-frameworks)
 to reduce the possibility and impact of a [security](/security) threat,
 risk, or vulnerability. Controls can be physical, technical, and
 administrative and are typically used to prevent, detect, or correct
-security issues.
+security issues. One of the most common controls is the
+[principle of least privelege](/polp).
 
 ## Categories
 

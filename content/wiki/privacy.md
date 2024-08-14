@@ -17,4 +17,24 @@ When it comes to our data, we should be deliberate on how we handle it,
 where and how we hand it over to people and/or services, where it's
 stored, and that we understand where it's stored.
 
+## Why privacy matters in security
 
+[Security](/security) and privacy have a close relationship.
+
+When companies and organizations with profit motives start collecting
+and sharing your data to other businesses without your consent, like
+they have been doing since the late 1990s, we should be concerned; the
+more organizations collect data, the more vulnerable it is to being
+abused, misused, and stolen.
+
+## Quick tips
+
+1. Encrypt your data as much as you can when it is being stored at rest.
+2. When your data is transiting over the internet,
+   [make sure it's also encrypted using TLS/SSL](/network-security).
+3. Within your organization, you should think about who has access to
+   that data. It should be almost no one if it's very sensitive. And in
+   the rare cases where somebody does need to access that data, there
+   should be a record of that access, who accessed it, and a
+   justification as to why. And you should have a program to look at the
+   audit records for that data.

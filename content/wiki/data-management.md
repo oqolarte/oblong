@@ -8,9 +8,17 @@ Our modern world is filled with data,
 some considering it to be [the new oil](https://thenewoil.org/en/).
 
 Data is the information that is translated, processed, or stored by a
-[computer](/computer).
+[computer](/computer). Data can be vulnerable whether it is at rest, in
+use, or in transit. Regardless of the state it is in, information
+[should be kept private](/privacy) by limiting access and authorization.
 
-Good data is expensive,
+In [security](/security), data vulnerabilities are often mapped in a
+model known as the [data lifecycle](/data-lifecycle). Each stage of the
+data lifecycle plays an important role in the [security
+controls](/security-controls) that are put in place to maintain the CIA
+triad of information.
+
+All this, becuase good data is expensive,
 in that it requires lot of resources:
 man power,
 [computing power](/computer),
