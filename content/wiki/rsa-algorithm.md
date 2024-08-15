@@ -4,9 +4,18 @@ date: 2024-01-23
 draft: false
 math: true
 ---
-Publicly announced in 1976, RSA, an [asymmetric encryption algorithm](/public-key-cryptosystems),
-assumes it's computationally infeasible to solve [prime factorization](/prime- factorization)
-problem given a large integer *n*.
+
+Publicly announced in 1976, RSA, an
+[asymmetric encryption algorithm](/public-key-cryptosystems),
+assumes it's computationally
+infeasible to solve [prime factorization](/prime- factorization) problem
+given a large integer *n*.
+RSA is one of the first asymmetric encryption algorithms that produces a
+public and private key pair. Asymmetric algorithms like RSA produce even
+longer key lengths. In part, this is due to the fact that these
+functions are creating two keys. RSA key sizes are 1,024, 2,048, or
+4,096 bits. RSA is mainly used to protect
+[highly sensitive data](/privacy).
 
 In RSA, *p* and *q*, positive integers, are used to derive the public
 key *e* and private key *d*.
