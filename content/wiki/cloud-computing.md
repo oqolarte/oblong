@@ -68,7 +68,7 @@ It's a growing subfield of [cybersecurity](/cybersecurity) that
 specifically focuses on the protection of data, applications, and
 infrastructure in the cloud.
 
-**Identity access management** (IAM) is a collection of processes and
+**[Identity access management](/identity-access-management)** (IAM) is a collection of processes and
 technologies that helps organizations manage digital identities in their
 environment. This service also authorizes how users can use different
 cloud resources. A common problem that organizations face when using the

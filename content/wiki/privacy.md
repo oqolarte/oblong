@@ -33,9 +33,7 @@ Data is more than just a bunch of 1s and 0s being processed by a
 [computer](/computer). Data can represent someone's personal thoughts,
 actions, and choices. It can represent a purchase, a sensitive medical
 decision, and everything in between. For this reason, data owners should
-be the ones deciding whether or not to share their data. As a security
-professional, protecting a person's data privacy decisions must always
-be respected.
+be the ones deciding whether or not to share their data.
 
 Securing data can be challenging. In large part, that's because data
 owners generate more data than they can manage. As a result, data

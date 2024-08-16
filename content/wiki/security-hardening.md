@@ -36,7 +36,7 @@ cameras and security guards.
 ## Penetration testing
 
 A penetration test, also called a pen test, is a simulated attack that
-helps identify vulnerabilities in a system, network, website,
+helps identify vulnerabilities in a system, [network](/network), website,
 application, and process. Penetration testers document their findings in
 a report. Depending on where the test fails, security teams can
 determine the type of security vulnerabilities that require fixing.
