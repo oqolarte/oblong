@@ -17,7 +17,7 @@ sensitive information by targeting a misconfigured application. An
 *unintentional* threat might be an employee who holds the door open for
 an unknown person and grants them access to a restricted area.
 
-Vulnerability
+[Vulnerability](/vulnerability-management)
 : is a weakness that can be exploited by a threat.
 A *technical* vulnerability can be misconfigured software that might
 give an unauthorized person access to important data. A *human*

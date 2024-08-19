@@ -92,11 +92,11 @@ Risk context are the guides to classify a risk. May include
 
 ## OWASP Security Principles
 
-OWASP is Open Web Application Security Project.
+[OWASP](/owasp) is Open Web Application Security Project.
 
 1. Minimize attack surface area
-2. Principle of least privilege
-3. Defense in depth
+2. [Principle of least privilege](/polp)
+3. [Defense in depth](/defense-in-depth)
 4. Separation of duties
 5. Keep security simple
 6. Fix security issues correctly
@@ -129,7 +129,7 @@ DSS05 objectives include the ff:
    systems, network security protocols and communications encryption,
    network configuration, security mechanisms to ensure trusted
    transmission and receipt, and network security control testing and
-   penetration testing. 
+   penetration testing.
 3. Manage endpoint security (usually of devices like laptops, desktops,
    servers etc.) by: secure configuration, hardening of devices,
    management of remote access.
