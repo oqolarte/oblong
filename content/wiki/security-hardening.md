@@ -7,7 +7,7 @@ math: false
 
 Security hardening is the process of strengthening a system to reduce
 its vulnerability and attack surface. All the potential vulnerabilities
-that a threat actor could exploit are referred to as a system's attack
+that a [threat actor](/threat-actor) could exploit are referred to as a system's attack
 surface.
 
 Security hardening can be conducted on any device or system that can be
@@ -16,7 +16,7 @@ compromised like:
 - operating systems
 - applications
 - computer networks
-- databases.
+- databases
 
 Physical security is also a part of security
 hardening. This may include securing a physical space with security
@@ -35,8 +35,9 @@ cameras and security guards.
 
 ## Penetration testing
 
-A penetration test, also called a pen test, is a simulated attack that
-helps identify vulnerabilities in a system, [network](/network), website,
-application, and process. Penetration testers document their findings in
-a report. Depending on where the test fails, security teams can
-determine the type of security vulnerabilities that require fixing.
+A [penetration test](/pen-test), also called a pen test, is a simulated
+attack that helps identify vulnerabilities in a system,
+[network](/network), website, application, and process. Penetration
+testers document their findings in a report. Depending on where the test
+fails, security teams can determine the type of security vulnerabilities
+that require fixing.

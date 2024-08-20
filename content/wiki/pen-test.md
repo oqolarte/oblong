@@ -15,7 +15,7 @@ Unlike a [vulnerability assessment](/vulnerability-assessment)
 that finds weaknesses in a
 system's [security](/security), a pen test exploits those weaknesses to
 determine the potential consequences if the system breaks or gets broken
-into by a threat actor.
+into by a [threat actor](/threat-actor).
 
 **Note**: Organizations that are regulated by PCI DSS, HIPAA, or GDPR must routinely perform penetration testing to maintain compliance standards.
 

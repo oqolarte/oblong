@@ -156,6 +156,6 @@ process asks users to provide these proofs, such as:
 Requiring multiple forms of identification is an effective security
 measure, especially in [cloud environments](/cloud-computing). It can be
 difficult for businesses in the cloud to ensure that the users remotely
-accessing their systems are not threat actors. MFA can reduce the risk
+accessing their systems are not [threat actors](/threat-actor). MFA can reduce the risk
 of authenticating the wrong users by requiring forms of identification
 that are difficult to imitate or brute force.

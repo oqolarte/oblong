@@ -151,6 +151,7 @@ For this reason, salting has become increasingly common when storing
 passwords and other types of sensitive data. The length and uniqueness
 of a salt is important. Similar to hash values, the longer and more
 complex a salt is, the harder it is to crack.
+
 ## The Random Oracle
 
 The random oracle is the ideal secure hash function.
@@ -183,7 +184,7 @@ digests are uncorrelated, meaning that there is no pattern that would
 allow an attacker to take just a digest and define anything about the
 message that might have produced it. It also means that if they want to
 find a hash collision, the only thing they can possibly do is carry out
-a brute force attack and keep trying different messages until they find
+a [brute force attack](/brute-force-attack) and keep trying different messages until they find
 one that happens to result in the desired digest.
 
 ### Attacks against Random Oracle

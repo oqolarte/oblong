@@ -50,7 +50,7 @@ MD5, it’s more at risk of suffering a data breach.
 
 Injection occurs when malicious code is inserted into a vulnerable
 application. Although the app appears to work normally, it does things
-that it wasn’t intended to do. Injection attacks can give threat actors
+that it wasn’t intended to do. Injection attacks can give [threat actors](/threat-actor)
 a backdoor into an organization’s information system. A common target is
 a website’s login form. When these forms are vulnerable to injection,
 attackers can insert malicious code that gives them access to modify or

@@ -6,16 +6,17 @@ draft: false
 
 Advanced Encryption Standard (AES) is one of the most secure symmetric
 algorithms today. AES generates keys that are 128, 192, or 256 bits.
-Cryptographic keys of this size are considered to be safe from brute
-force attacks. It’s estimated that brute forcing an AES 128-bit key
+Cryptographic keys of this size are considered to be safe from
+brute force attacks. It’s estimated that brute forcing an AES 128-bit key
 could take a modern computer billions of years!
 
-To improve [DES](/des), we consider using
-the same DES functions multiple times with different keys.
-Such approach can make the [brute force attack](/brute-force-attack) infeasible by increasing the key length.
-While [triple DES](/triple-des) provides greater [security](/security) than DES,
-it requires three times as much as computation and thus slower.
-An alternative approach is to design a completely new algorithm.
+To improve [DES](/des), we consider using the same DES functions
+multiple times with different keys. Such approach can make the
+[brute force attack](/brute-force-attack) infeasible by increasing the key
+length. While [triple DES](/triple-des) provides greater
+[security](/security) than DES, it requires three times as much as
+computation and thus slower. An alternative approach is to design a
+completely new algorithm.
 
 In 1997, US NIST called for better ciphers to replace DES.
 

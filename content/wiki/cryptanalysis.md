@@ -4,8 +4,9 @@ date: 2023-11-22
 draft: false
 ---
 
-At its core, cryptanalysis studies the balance of security vs utility in [cryptography](/cryptography).
-A perfectly secure cryptosystem that no one can or will use serves no purpose.
+At its core, cryptanalysis studies the balance of security vs utility in
+[cryptography](/cryptography). A perfectly secure cryptosystem that no
+one can or will use serves no purpose.
 
 ## Machine Ciphers
 
@@ -43,7 +44,7 @@ be completely secure --- the [vernam cipher or one-time pad](/vernam-cipher).
 - Acoustic signature
 - Differential failure
 
-**Social Engineering** attacks (target the user):
+**[Social Engineering](/social-engineering)** attacks (target the user):
 - Rubber hose cryptanalysis
 - careless user behavior
 - weak/default passwords

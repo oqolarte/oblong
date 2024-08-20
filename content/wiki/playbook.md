@@ -27,7 +27,7 @@ Updates are often made if:
   and procedures, or in the playbook itself.
 - There is a change in industry standards, such as changes in laws or
   regulatory compliance.
-- The cybersecurity landscape changes due to evolving threat actor
+- The cybersecurity landscape changes due to evolving [threat actor](/threat-actor)
   tactics and techniques.
 
 One can use playbooks for:

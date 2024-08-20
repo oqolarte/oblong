@@ -166,7 +166,7 @@ To thrive as a cybersecurity professional, one must have these skills:
 
 ## Terms
 
-Threat actor
+[Threat actor](/threat-actor)
 : Any person or group who presents [security](/security) risk
 
 Playbook
