@@ -57,3 +57,4 @@ I read slowly, you might notice.
 | [Do Androids Dream of Electric Sheep?](/194)                                                            | Philip K. Dick                             |
 | [Joyful Militancy](/joyful-militancy): Building Thriving Resistance in Toxic Times                      | Nick Montgomery and carla bergman          |
 | [Blessed is the Flame](/nihilism/#jouissance)                                                           | Serafinski                                 |
+| [EXPECT RESISTANCE](/208/#brief-review-of-expect-resistance)                                            | [CrimethInc](https://crimethinc.com/)      |

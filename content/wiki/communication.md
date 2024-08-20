@@ -28,6 +28,10 @@ and more so in many of the social media platforms.
 Just don't give up on them.
 "[Because there isn't a perfect solution to a people problem.](https://seths.blog/2022/11/people-problems-are-complicated-problems/)"
 
+Still, there is no illegitimate perspective! Share your own and encourage
+others to do the same. If you are feeling something, someone else is
+feeling it, too.
+
 We can't lower all hurdles to accommodate everyone's ability and/or
 sensibilities. But also, destructive speech makes people feel like
 fools, and it turns them away from what you want to say.

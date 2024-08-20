@@ -14,7 +14,10 @@ subtlest inculcation of anxiety and isolation."
 Empire works hard to maintain itself by separating us from our
 capacities, preventing us from fully realizing them. When it creates
 shame and fear, it also makes the solutions, making us dependent on its
-systems.
+systems. Its machinations have sucked the life out of all things borne
+out of 10,000 passionate and brave things and walled them within the
+false promise of safety and security, in the name of Profit and the
+Power it provides to a few people.
 
 Empire reacts to modern rebellion by innovating new ways of *subjection*
 (Dean Spade's more complex term for "oppression"):

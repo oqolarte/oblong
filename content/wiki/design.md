@@ -14,7 +14,7 @@ A good design is the result of patience.
 
 ## Characteristics of a good design
 
-According to [Koray Er](https://korayer.de/posts/good-design.txt)
+Amalgamation of ideas of both [Koray Er](https://korayer.de/posts/good-design.txt)
 and
 [Dieter Rams](https://www.vitsoe.com/us/about/good-design)
 

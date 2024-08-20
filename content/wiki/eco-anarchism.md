@@ -15,7 +15,14 @@ If we humans accept that we need to work together in keeping the planet
 habitable for us all, we might just have a chance at preserving our species
 longer.
 
-At this point, we should start standing up and try to fix things.
+Of course, the planet will heal in time. But its current destruction
+will leave millions, if not billions, dying who *most likely* did not
+[consent](/consent) to it. We cannot have nice things because generally
+we are not nice to other people. Not everyone has to be friends---it's
+impossible---but can we at least default to being kind?
+
+At this point, more than ideals, we should start standing up and try to
+fix things.
 
 The fossil fuel, the meat, and the stuff industries are all bad.
 Individual choices do have an impact,

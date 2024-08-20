@@ -4,6 +4,8 @@ date: 2023-06-13
 draft: true
 ---
 
+TODO: Merge with [kkmyp](/kkmyp)
+
 Tools help us create.
 Early humans use rocks and sticks to shape their spaces,
 to gather food, to survive.

@@ -22,6 +22,10 @@ catalyst for [change](/revolution),
 but it's not a substitute for the practical steps
 needed to address complex problems.
 
+Being a snob, instead of actually making the effort to find ways to
+enjoy and benefit from art, removes the joy in those pieces, all in the
+name of a "refined" status. Be snob? BS!
+
 ### Art under Capitalism
 
 However, art could never flourish under capitalism.

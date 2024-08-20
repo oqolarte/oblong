@@ -8,12 +8,16 @@ The problem isn't the people who want to vote, and it's not the people
 who don't want to vote. It's the people who feel the need to keep
 starting fights about it.
 
-The state will still do everything to remain in power. Capitalists will
-do everything to fund the state to do it's thing.
+The state will still do everything to remain in power.
+
+Who controls the information under [capitalism](/capitalism) on whom to
+vote if not the wealthy executives? Who sets the options if not
+capitalists who have done everything to fund the state to do its thing.
 
 ## So *vote*
 
-...if it's important to you. Some people argue that it can be a
+...really, without snark and judgement, if it's important to you.
+Some people argue that it can be a
 form of harm reduction, that is, we can vote people that are more
 aligned with our values and beliefs. If you are from this crowd, know
 that there are people you can't convince, and the time and energy you

@@ -27,7 +27,9 @@ in which we can [help each other meet our daily needs](/mutual-aid).
 
 But you may have learned helplessness, which is more common.
 
-Work employs ennui.
+Work employs ennui. Think about whether your profession, no matter how
+noble you think it is, are actual paths to self-realization or mere
+barriers to it.
 
 And, [modern] slavery is not a reliable source of quality labor,
 especially when the workers have decided to organize a sustained

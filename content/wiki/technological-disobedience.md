@@ -21,3 +21,13 @@ We could be entering a new era of censorship,
 not by direct deletion of old or controversial content,
 but by obscurity and omission of argument tactics.
 It is not a random change.
+
+It is hard to keep up with the technological and cultural progress at
+the rate it is going. And with this, our minimum standard of living
+constantly increases. If, say, we do not resist/refuse a harmful
+technological solution (e.g., [road widening](https://old.reddit.com/r/fuckcars/comments/165gq3b/empirical_evidencestudies_showing_road_widening/jye23fm/)
+and/or
+[adding more roads](https://politics.stackexchange.com/questions/15907/do-more-roads-lead-to-fewer-traffic-jams)),
+we will be forced to buy
+more harmful solutions to address the novel problems
+that the previous one has created (e.g., acquiring more cars).

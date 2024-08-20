@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ohio.araw.xyz/</loc>
+    <lastmod>2024-08-21T01:17:14+08:00</lastmod>
+  </url><url>
     <loc>https://ohio.araw.xyz/cloud-security/</loc>
     <lastmod>2024-08-20T18:50:43+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/prefiguration/</loc>
+    <lastmod>2024-08-21T01:17:14+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/threat-actor/</loc>
     <lastmod>2024-08-20T18:50:43+08:00</lastmod>
   </url><url>
-    <loc>https://ohio.araw.xyz/</loc>
-    <lastmod>2024-08-20T18:50:43+08:00</lastmod>
+    <loc>https://ohio.araw.xyz/208/</loc>
+    <lastmod>2024-08-21T01:16:57+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/defense-in-depth/</loc>
     <lastmod>2024-08-19T19:28:50+08:00</lastmod>
@@ -710,8 +716,8 @@
     <loc>https://ohio.araw.xyz/being-critical/</loc>
     <lastmod>2024-02-18T20:31:20+08:00</lastmod>
   </url><url>
-    <loc>https://ohio.araw.xyz/technical-disobedience/</loc>
-    <lastmod>2024-02-18T20:31:20+08:00</lastmod>
+    <loc>https://ohio.araw.xyz/technological-disobedience/</loc>
+    <lastmod>2024-08-21T01:17:14+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/fashion/</loc>
     <lastmod>2024-06-25T00:09:34+08:00</lastmod>
@@ -1337,7 +1343,7 @@
     <lastmod>2024-01-03T18:36:54+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/wiki/</loc>
-    <lastmod>2024-08-20T18:49:35+08:00</lastmod>
+    <lastmod>2024-08-21T01:17:14+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/log/</loc>
     <lastmod>2020-11-30T11:49:32+08:00</lastmod>

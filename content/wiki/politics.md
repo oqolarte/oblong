@@ -19,8 +19,9 @@ reference from which to learn.
 - [friendship](/friendship)
 - [mutual aid](/mutual-aid)
 - [pedagogy](/pedagogy)
+- [prefiguration](/prefiguration)
 - [revolution](/revolution)
-- [technological disobedience](/technical-disobedience)
+- [technological disobedience](/technological-disobedience)
 - [violence](/violence)
 - [voting](/voting)
 
@@ -29,6 +30,7 @@ reference from which to learn.
 - [academy](/academy)
 - [activism](/activism)
 - [collapse](/collapse)
+- [democracy](/democracy)
 - [eco-anarchism](/eco-anarchism)
 - [fascism](/fascism)
 - [nihilism](/nihilism)

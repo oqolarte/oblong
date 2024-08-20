@@ -41,8 +41,10 @@ which we can strengthen our [relationships](/friendship).
 
 ### "But I don't need anyone!"
 
-Yes, you do. I do. **I** am already a crowd because my life already
+Yes, you do. I do.
+**I** am already a crowd because my life already
 depends on others.
+Autonomy, though, is not to be confused with independence.
 
 Can individuals make a difference? Together we can, in a way that
 matters, in our communities---volunteer, [teach](/pedagogy), pick up

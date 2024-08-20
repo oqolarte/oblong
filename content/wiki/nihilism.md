@@ -37,17 +37,20 @@ https://theanarchistlibrary.org/library/serafinski-blessed-is-the-flame
 Looking for answer to poor questions like, "When will I die?" prevents
 us from fully experiencing what's worth feeling in our remaining days.
 To unlearn that there is a purpose liberates us from any expectations.
+And consider: when an old self dies to make way for the new life, what
+kind of lives are we allowing to sprout? Whose deaths do we need to
+remember, to forgive, if at all?
 
 ## Jouissance
 
 (Or, more notes on *Blessed is the Flame*)
 
 We are heading towards our demise, and I don't mean the natural kind of
-expiring one day. I'm talking about that thing that we don't necessarily
-want to come to us. To many, though, not proactively marching towards
-our collective death is like chasing an oasis-mirage on the horizon.
-Sytemic oppression can, has, and will design spaces that make resistance
-impossible.
+expiring one day---or daily, for that matter!. I'm talking about that
+thing that we don't necessarily want to come to us. To many, though, not
+proactively marching towards our collective death is like chasing an
+oasis-mirage on the horizon. Sytemic oppression can, has, and will
+design spaces that make resistance impossible.
 
 One of the most dehumanizing tool of oppressors to crush resistance is
 starvation. If the body can't even function by not getting its basic
