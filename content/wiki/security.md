@@ -5,21 +5,23 @@ draft: false
 ---
 
 Our security is only as good as the humans that "maintain" or
-[control](/security-controls) it. Whether we like it or not, it becomes
+control it. Whether we like it or not, it becomes
 increasingly complex. Adding a functionality---be it to software or
 hardware---can introduce unexpected vulnerabilties. And decisions we
 make based on our own abilities to "enhance" security can be
 ineffective.
 
 Security Mindset encourages a different way of looking at the world
-around us: to get into the thinking of a would-be bad actor and how can
+around us: to get into the thinking of a [would-be bad actor](/threat-actor) and how can
 the current systems, [including digital systems](/cybersecurity), in
 place be exploited; to question the norms and assumptions. For example,
-how can we [better talk to each other in private](/cryptography)?
+how can we better talk to each other in private?
 
 By trying to identify a system's weaknesses, we get closer at making it
 more secure. Teaching designers how a system might fail is just as
-important as thinking about how they will work.
+important as thinking about how they will work. In all cases,
+anticipating attacks is the key to preparing for them. In security, we
+do that by [threat modeling](/threat-modeling).
 
 > Beware of bugs in above code;
 > I have only proved it correct, not tried it.
@@ -33,7 +35,7 @@ proactive about protecting systems from attack.
 This is where [security hardening](/security-hardening) comes in.
 
 It's also important to remember that there's a range of abilities that
-we must keep in mind when designing and implementing security solutions?
+we must keep in mind when designing and implementing security solutions.
 Just as security should be embedded in every stage of a project,
 *accessibility* should alse be embedded in every security plans.
 
@@ -53,12 +55,12 @@ poor design or implementation, poor organizational security hygiene, new
 exploits.
 
 Basic assurance methods include:
-- vulnerability scans which identify the services that can be accessed
+- [vulnerability scans](/vulnerability-scanning) which identify the services that can be accessed
   and check that they have all known patches applied;
-- Security control audits, which predefine a set of conditions based on
+- [Security control audits](/security-controls), which predefine a set of conditions based on
   the control and predict the expected results; and
-- penetration tests, which use known exploits and exploit techniques to
-  try to circumvent the control 
+- [penetration tests](/pen-test), which use known exploits and exploit techniques to
+  try to circumvent the control
 
 ## CIA Triad
 

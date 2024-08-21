@@ -11,6 +11,32 @@ especially in a relational database management system (RDBMS). It is
 particularly useful in handling structured data, i.e., data
 incorporating relations among entities and variables.
 
+## SQL queries
+
+Every bit of information that’s accessed online is stored in a database.
+A **database** is an organized collection of information or data in one
+place. A database can include data such as an organization's employee
+directory or customer payment methods. In SQL, database information is
+organized in tables. SQL is commonly used for retrieving, inserting,
+updating, or deleting information in tables using queries.
+
+A SQL query is a request for data from a database. For example, a SQL
+query can request data from an organization's employee directory such as
+employee IDs, names, and job titles. A human resources application can
+accept an input that queries a SQL table to filter the data and locate a
+specific person. SQL injections can occur anywhere within a vulnerable
+application that can accept a SQL query.
+
+Queries are usually initiated in places where users can input
+information into an application or a website via an input field. Input
+fields include features that accept text input such as login forms,
+search bars, or comment submission boxes.
+A [SQL injection](/web-based-exploits/#sql-injection)
+occurs when an attacker
+exploits input fields that aren't programmed to filter out unwanted
+text. SQL injections can be used to manipulate databases, steal
+sensitive data, or even take control of vulnerable applications.
+
 ## Basic SQL query
 
 `SELECT`

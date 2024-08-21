@@ -59,7 +59,7 @@ Penetration testers are in-demand in the fast growing field of [cybersecurity](/
 
 - [Network and application security](/network-security)
 - Experience with operating systems, like Linux
-- [Vulnerability analysis](/vulnerability-management) & threat modeling
+- [Vulnerability analysis](/vulnerability-management) & [threat modeling](/threat-modeling)
 - Detection and response tools
 - [Programming languages](/programming), like Python and BASH
 - [Communication skills](/communication)
