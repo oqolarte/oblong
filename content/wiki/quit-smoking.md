@@ -13,7 +13,7 @@ the infrastructure for tobacco industry. The sooner its consumers quit,
 the better the world would be.
 
 It still feels surreal that I'm able to quit smoking XX years into it.
-I'm one of the lucky ones who manage "to get out alive."
+I'm one of the lucky ones who have managed "to get out alive."
 
 And since I had only been at it for XX years, I can't speak for those
 who have been smoking for decades, some since they were in grade school.
@@ -24,7 +24,7 @@ But ending the streak couldn't have been doable if there weren't
 [friends](/friendship) and family who supported me in this effort.
 That's part of the secret:
 [surround thyself with loving and caring people](/community) who are
-willing to help.
+willing to help and [hold thee accountable](/transformative-justice).
 
 ## Don't be born to smoking parent/s
 
@@ -46,6 +46,10 @@ suffer when they smoke too much too soon on packages, and even before
 the advent of vaping, smoking cigarettes without a doubt had been one
 way to look cool. For all I know, it might still be among the younger
 crowd.
+
+When you're young, looking and feeling cool is paramount in making it
+among your peers, no matter how close you approach annihilation, because
+in those moments---admit it---it's more annealing, really.
 
 I have since removed myself from that crowd. I have realized that
 inhaling not-just-air and getting addicted to it is one of the least
