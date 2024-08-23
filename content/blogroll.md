@@ -4,7 +4,8 @@ date: 2021-04-14T22:24:19+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
-List of blogs that I find interesting.
+
+An incomplete list of blogs that I find interesting currently.
 
 [Dan Luu](https://danluu.com)
 : is a developer who deep-dives into various topics,
@@ -16,7 +17,9 @@ everything in between, housed in a barely-formatted website.
 gut-punches the reader, but not in a horrible way.
 
 [Drew DeVault](https://drewdevault.com)
-: is a developer, probably most known for coming up with Sway window manager, who also has important (controversial?) political takes related to [FOSS](/foss).
+: is a developer, probably most known for coming up with Sway window
+manager, who also has important (controversial?) political takes related
+to [FOSS](/foss).
 
 [Ethical Network](https://ethical.net)
 : looks for ways to make the "ethical the new normal," either by
@@ -40,6 +43,10 @@ something to learn from them.
 : is a two-person artist collective who, most of the time, operates on their
 sailboat Pino, making art using some of their homebrewed FOSS.
 
+[Jag Talon](https://jagtalon.net/)
+: is a friend involved in mutual aid, Palestinian, environmental,
+abolitionist, and open source movements.
+
 [Low-tech Magazine](https://solar.lowtechmagazine.com)
 : explores "past and often
 forgotten technologies and how they can inform sustainable energy
@@ -52,10 +59,6 @@ in our workplaces.
 [Manu Moreale](https://manuelmoreale.com/)
 : loves (maybe) the Venn diagram of minimalism and web development,
 and often talks about the overlap of the two.
-
-[Nadia Asparouhova](https://nadia.xyz/)
-: is a researcher that looks into the "tech industry's growing social
-and political influence."
 
 [Solène Rapenne](https://dataswamp.org/~solene/)
 : likes to share her findings on niche operating systems like NixOS

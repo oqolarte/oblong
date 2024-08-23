@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 14:05:35 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -416,7 +416,7 @@ computer to a different distribution of
       <pubDate>Wed, 14 Apr 2021 22:24:19 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/blogroll/</guid>
-      <description>&lt;p&gt;List of blogs that I find interesting.&lt;/p&gt;
+      <description>&lt;p&gt;An incomplete list of blogs that I find interesting currently.&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;is a developer who deep-dives into various topics,
@@ -426,7 +426,9 @@ everything in between, housed in a barely-formatted website.&lt;/dd&gt;
 &lt;dd&gt;likes writing, and people, and maybe writing about people, that maybe
 gut-punches the reader, but not in a horrible way.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://drewdevault.com&#34;&gt;Drew DeVault&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;is a developer, probably most known for coming up with Sway window manager, who also has important (controversial?) political takes related to &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;FOSS&lt;/a&gt;.&lt;/dd&gt;
+&lt;dd&gt;is a developer, probably most known for coming up with Sway window
+manager, who also has important (controversial?) political takes related
+to &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;FOSS&lt;/a&gt;.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://ethical.net&#34;&gt;Ethical Network&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;looks for ways to make the &amp;ldquo;ethical the new normal,&amp;rdquo; either by
 recommending
@@ -444,6 +446,9 @@ something to learn from them.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://100r.co&#34;&gt;Hundred Rabbits&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;is a two-person artist collective who, most of the time, operates on their
 sailboat Pino, making art using some of their homebrewed FOSS.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://jagtalon.net/&#34;&gt;Jag Talon&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;is a friend involved in mutual aid, Palestinian, environmental,
+abolitionist, and open source movements.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;Low-tech Magazine&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;explores &amp;ldquo;past and often
 forgotten technologies and how they can inform sustainable energy
@@ -454,9 +459,6 @@ in our workplaces.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://manuelmoreale.com/&#34;&gt;Manu Moreale&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;loves (maybe) the Venn diagram of minimalism and web development,
 and often talks about the overlap of the two.&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;https://nadia.xyz/&#34;&gt;Nadia Asparouhova&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;is a researcher that looks into the &amp;ldquo;tech industry&amp;rsquo;s growing social
-and political influence.&amp;rdquo;&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://dataswamp.org/~solene/&#34;&gt;Solène Rapenne&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;likes to share her findings on niche operating systems like NixOS
 and BSDs.&lt;/dd&gt;
