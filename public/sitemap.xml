@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ohio.araw.xyz/csirt/</loc>
-    <lastmod>2024-08-26T18:38:48+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/endpoint-detection-response/</loc>
-    <lastmod>2024-08-26T18:38:48+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/incident-response-lifecycle/</loc>
-    <lastmod>2024-08-26T18:38:48+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/documentation/</loc>
-    <lastmod>2024-08-26T18:38:48+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/</loc>
-    <lastmod>2024-08-26T18:38:48+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/210/</loc>
-    <lastmod>2024-08-26T18:38:38+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/209/</loc>
     <lastmod>2024-08-23T12:31:44+08:00</lastmod>
@@ -48,7 +48,7 @@
     <lastmod>2024-08-19T19:28:50+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/owasp/</loc>
-    <lastmod>2024-08-20T18:50:43+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/osint/</loc>
     <lastmod>2024-08-19T19:28:50+08:00</lastmod>
@@ -111,7 +111,7 @@
     <lastmod>2024-08-20T18:50:43+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/intrusion-detection-system/</loc>
-    <lastmod>2024-07-17T00:06:34+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/intrusion-prevention-system/</loc>
     <lastmod>2024-07-17T00:06:34+08:00</lastmod>
@@ -180,7 +180,7 @@
     <lastmod>2024-08-14T23:10:19+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/security-frameworks/</loc>
-    <lastmod>2024-06-25T00:09:34+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/197/</loc>
     <lastmod>2024-06-22T11:55:42+08:00</lastmod>
@@ -189,10 +189,10 @@
     <lastmod>2024-08-20T18:50:43+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/siem/</loc>
-    <lastmod>2024-06-25T00:09:34+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/privacy/</loc>
-    <lastmod>2024-08-16T23:34:57+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/chaos/</loc>
     <lastmod>2024-06-20T18:46:19+08:00</lastmod>
@@ -375,7 +375,7 @@
     <lastmod>2024-01-29T13:54:17+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/repair/</loc>
-    <lastmod>2024-06-29T23:24:44+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/diffie-hellman-key-exchange/</loc>
     <lastmod>2024-08-15T23:17:35+08:00</lastmod>
@@ -396,7 +396,7 @@
     <lastmod>2024-08-15T23:17:35+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/social-engineering/</loc>
-    <lastmod>2024-08-20T18:50:43+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/cipher-block-chaining/</loc>
     <lastmod>2024-02-18T20:31:20+08:00</lastmod>
@@ -411,7 +411,7 @@
     <lastmod>2024-02-18T20:31:20+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/internet/</loc>
-    <lastmod>2024-07-17T00:06:34+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/output-feedback/</loc>
     <lastmod>2024-02-18T20:31:20+08:00</lastmod>
@@ -642,7 +642,7 @@
     <lastmod>2024-02-18T20:31:20+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/cybersecurity/</loc>
-    <lastmod>2024-08-20T18:50:43+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/135/</loc>
     <lastmod>2023-08-21T21:15:20+08:00</lastmod>
@@ -840,7 +840,7 @@
     <lastmod>2024-02-18T20:31:20+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/dream-house/</loc>
-    <lastmod>2024-07-28T23:41:12+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/alcohol/</loc>
     <lastmod>2024-02-18T20:31:20+08:00</lastmod>
@@ -882,7 +882,7 @@
     <lastmod>2024-08-21T17:34:01+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/revolution/</loc>
-    <lastmod>2024-06-03T22:38:26+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/second-order-thinking/</loc>
     <lastmod>2024-02-18T20:31:20+08:00</lastmod>
@@ -957,7 +957,7 @@
     <lastmod>2024-06-03T22:38:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/communication/</loc>
-    <lastmod>2024-08-21T01:18:11+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/cryptography/</loc>
     <lastmod>2024-06-20T18:46:19+08:00</lastmod>
@@ -1107,7 +1107,7 @@
     <lastmod>2022-07-28T22:54:42+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/foss/</loc>
-    <lastmod>2024-08-05T22:50:43+08:00</lastmod>
+    <lastmod>2024-08-26T18:40:26+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/72/</loc>
     <lastmod>2022-07-28T22:54:42+08:00</lastmod>
