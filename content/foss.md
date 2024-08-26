@@ -63,9 +63,12 @@ and/or surveil my every move.
 
 {{< figure src="/image/foss-venn.png" alt="Venn Diagram showing the intersection of 3 characteristics of a software: good, fair, legal. All three is what FOSS represents. Good and legal is usually privacy-invasive. Good and fair is piracy. Fair and legal software: 'Why are you using it?'" caption="Venn Diagram generator by classtools.net" >}}
 
-It can be hard, though, especially if Big Tech companies
-are embedded in our digital lives now (e.g., at work),
-whether we like it or not.
+It can be hard, though, especially if Big Tech companies are embedded in
+our digital lives now (e.g., at work), whether we like it or not. Take
+this personal anecdote as an example: computer "lessons" from my high
+school days involved using proprietary software like Microsoft Office
+(Word, Excel, and  PowerPoint) and Adobe Photoshop. When these are baked
+into the curriculum early on, it won't be easy learning about FOSS alternatives.
 
 I try not to get obsessed, though, on picking the right tools.
 There's no perfect tool, and even the great ones will not save you;

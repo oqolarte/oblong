@@ -112,7 +112,7 @@ A famous example of a supply chain attack is the
 
 In security, it’s important to be able to log and trace back events.
 Having a record of events like user login attempts is critical to
-finding and fixing problems. Sufficient monitoring and incident response
+finding and fixing problems. Sufficient monitoring and [incident response](/incident-response-lifecycle)
 is equally important.
 
 ### Server-side request forgery

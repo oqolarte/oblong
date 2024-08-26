@@ -24,7 +24,7 @@ https://csrc.nist.gov/projects/risk-management/about-rmf
 1. Prepare: Activities necessary to manage securiy and privacy risks
    *before* a breach occurs
 2. Categorize: Develop risk management processes and tasks
-3. Select: choose, customize, and capture documentation of the controls
+3. Select: choose, customize, and capture [documentation](/documentation) of the controls
    that protect an organization.
 4. Implement: security and privacy plans for the organization
 5. Assess: if established controls are implemented correctly

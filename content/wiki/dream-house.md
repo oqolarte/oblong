@@ -21,7 +21,7 @@ principles including the following:
 - Chamfered corners and edges for walls
 - If two story or more high: High ceiling with mezzanine and/or loft
 - Roof: rainwater collection system, solar panels; roof deck (optional), plants;
-  hip or gable
+  hip or gable; vent turbine for ventilation
 - window, accordion screen, sliding
 - Garage: optional
 - Baked bricks with slats where the sun wall is
@@ -53,8 +53,6 @@ cost-efficient plumbing
 Furniture: Beach recliner, but bench
 
 A plot where we can grow our own food via [permaculture](/permaculture).
-
-Roof with vent turbine for ventilation
 
 ### Design ideas
 
@@ -145,6 +143,9 @@ Another tank/cistern to collect gray water from kitchen and laundry.
 ## POSSIBLE COST BREAKDOWN (2020-2021):
 
 ### Preliminaries: 7% (max 10%)
+- check city plans for future development; is the zone considered
+  residential for the next 5, 10, 20 years?
+- [Site analysis](https://en.wikipedia.org/wiki/Site_analysis)
 - mob/demob
 - site supervision (by us client, and designers)
 - security guard/s

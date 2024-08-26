@@ -17,6 +17,18 @@ handling common security-related incidents with the use of SIEM tools is
 expected to become a more streamlined process requiring less manual
 intervention.
 
+## SIEM process
+
+1. **Collect and aggregate data**: SIEM collects logs from various
+   sources like firewalls, servers, routers, etc, which are consolidated
+   in a centralized place. This removes the need to review log from each
+   source.
+1. **Normalize data**: SIEM then transforms the data into a standard,
+   structured format that is easily searchable.
+1. **Analyze data**: Collected data is then analyzed with some type of
+   detection logic, and if any of the log activity matches a rule,
+   alerts are sent to cybersecurity teams.
+
 ## Logs
 
 A **firewall log** is a record of attempted or established connections

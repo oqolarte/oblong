@@ -125,8 +125,8 @@ DSS05 objectives include the ff:
    information awareness, change management, security filtering of email
    and web traffic, and security training
 2. Manage network and connectivity security by: policy on network
-   connections, password entry, firewalls and intrusion detection
-   systems, network security protocols and communications encryption,
+   connections, password entry, firewalls and
+   [intrusion detection systems](/intrusion-detection-system), network security protocols and communications encryption,
    network configuration, security mechanisms to ensure trusted
    transmission and receipt, and network security control testing and
    penetration testing.

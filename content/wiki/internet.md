@@ -4,6 +4,12 @@ date: 2024-01-22
 draft: false
 ---
 
+> hey kids did you know that computers didn't used to automatically
+> connect to the internet. it used to make this screaming noise. we
+> should have listened.
+>   
+> -- Tumblr user [bakedbakermom](https://www.tumblr.com/bakedbakermom/758491196123447296/hey-kids-did-you-know-that-computers-didnt-used)
+
 Access to internet is important in this age of information,
 but do we have the necessary infra for it to be accessible to everyone,
 no matter the social status?

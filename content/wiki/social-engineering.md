@@ -65,8 +65,7 @@ and the list below is non-exhaustive:
 
 Phishing is one of the most common types of social engineering, which
 are manipulation techniques that exploit human error to gain private
-information, access, or valuables. It's so common that it gets its own
-section.
+information, access, or valuables.
 
 ### The origins of phishing
 

@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Thu, 22 Aug 2024 14:05:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -391,9 +391,12 @@ and/or surveil my every move.&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;It can be hard, though, especially if Big Tech companies
-are embedded in our digital lives now (e.g., at work),
-whether we like it or not.&lt;/p&gt;
+&lt;p&gt;It can be hard, though, especially if Big Tech companies are embedded in
+our digital lives now (e.g., at work), whether we like it or not. Take
+this personal anecdote as an example: computer &amp;ldquo;lessons&amp;rdquo; from my high
+school days involved using proprietary software like Microsoft Office
+(Word, Excel, and  PowerPoint) and Adobe Photoshop. When these are baked
+into the curriculum early on, it won&amp;rsquo;t be easy learning about FOSS alternatives.&lt;/p&gt;
 &lt;p&gt;I try not to get obsessed, though, on picking the right tools.
 There&amp;rsquo;s no perfect tool, and even the great ones will not save you;
 how you use them might.&lt;/p&gt;

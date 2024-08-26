@@ -80,7 +80,7 @@ Matt Might shares a brief explainer on
 
 Before sending a question via email,
 look it up online.
-Also check any available documentation on the matter,
+Also check any available [documentation](/documentation) on the matter,
 and see if you can find the answer there yourself.
 
 Keep emails short,

@@ -19,8 +19,9 @@ and the creation of immigration controls.[^home]
 From an anthropological perspective,
 we're living in a historically rare period
 where people are convinced that government exists for the good of people,
-when in fact humans have always found [joy](/joyful-militancy) in overthrowing authorities,
-like what they did to Marcos on EDSA revolution)](/edsa-revolution)
+when in fact humans have always found [joy](/joyful-militancy)
+in overthrowing authorities,
+like what they did to Marcos on [EDSA revolution](/edsa-revolution)
 or run away from states at every opportunity.[^power]
 
 [^power]: More info here: https://theanarchistlibrary.org/library/peter-gelderloos-worshipping-power
@@ -50,7 +51,8 @@ follows the same template as their relationships
 with family and friends,
 rippling out to immediate communities and the larger society.
 
-The goal is to [abolish](/abolition) all kinds of oppression. Anyone who wants to
+The goal is to [abolish](/abolition) all kinds of oppression.
+Anyone who wants to
 become the oppressor does not want a lasting liberation for all.
 
 As for me, I feel the need to stick these ideals, because learning more

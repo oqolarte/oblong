@@ -17,6 +17,25 @@ When it comes to our data, we should be deliberate on how we handle it,
 where and how we hand it over to people and/or services, where it's
 stored, and that we understand where it's stored.
 
+## Don't confuse privacy with secrecy
+
+We can all have have honest and open conversations with people we care
+about (even if "people" could sometimes be just ourselves) within
+private spaces. Here, privacy means having the choice with whom to
+interact and where.
+
+Perhaps one of the bane of social media platforms is that
+many of them exploit our need to socialize to encourage a behavior that
+overshares one's personal data to the public. This normalization of
+oversharing, then, transforms the need for privacy as counterproductive,
+because it's bad when one has "something to hide."
+
+Privacy is often confused with secrecy.
+
+Secrecy is usually about withholding information to
+control where the power flows. Thus, keeping secrets is not at the
+foundation of healthy relationships.
+
 ## Why privacy matters in security
 
 [Security](/security) and privacy have a close relationship.

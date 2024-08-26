@@ -70,7 +70,7 @@ de-skilling center as well.
 The ability to maintain, thus, is helpful in
 prolonging the useful life of an object, and should be taught---for
 example, by sharing good maintenance and troubleshooting
-documentations---to empower consumers to keep their items.
+[documentations](/documentation)---to empower consumers to keep their items.
 
 Yet, the issue remains: people consume more, and that many of
 them still prefer buying new things instead of repairing. This curse
