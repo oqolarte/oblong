@@ -1,5 +1,5 @@
 ---
-title: "Preserving Meat"
+title: "Preserving meat"
 date: 2024-02-09
 draft: false
 math: false

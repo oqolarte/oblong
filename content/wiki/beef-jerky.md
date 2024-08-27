@@ -1,5 +1,5 @@
 ---
-title: "Beef Jerky (recipe)"
+title: "Beef jerky (recipe)"
 date: 2024-02-09
 draft: false
 math: false

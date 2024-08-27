@@ -18,7 +18,8 @@ numbers being used in the [communications](/communication).
 
 ## Reading output
 
-`tcpdump` prints the output of the command as the sniffed packets in the command line, and optionally to a log file, after a command is executed.
+`tcpdump` prints the output of the command as the sniffed packets in the
+command line, and optionally to a log file, after a command is executed.
 
 ![Output of packet has info about network traffic](/image/tcpdump.png)
 

@@ -89,3 +89,12 @@ negotiating for a raise, and/or job-hopping.
 
 Investing in stock market for the long-term is also known to increase
 wealth using compound interests.
+
+## COUNTERPOINT to FI/RE
+
+From https://old.reddit.com/r/antiwork/comments/c7qkjw/rant_you_know_those_comments_here_that_recommend/
+
+> In order to be optimistic about the success of your investment, you
+> have to be pessimistic about the direction that the world is heading
+> to.
+

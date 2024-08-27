@@ -1,5 +1,5 @@
 ---
-title: "Social Engineering"
+title: "Social engineering"
 date: 2024-01-23
 draft: false
 ---

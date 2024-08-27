@@ -12,31 +12,32 @@ These are my notes *trying* to answer that question.
 
 ## Finances
 
-For a few years now, I'm taking care of [my finances](/personal-finance), trying to keep track of
-my spending habits. It is boring, but it helps me with budgeting.
-Sadly, our current systems are still governed by money. Looking after my
-bank is a small step towards not being a burden to my community.
+For a few years now, I'm taking care of
+[my finances](/personal-finance), trying to keep track of my spending
+habits. It is boring, but it helps me with budgeting. Sadly, our current
+systems are still governed by money. Looking after my bank is a small
+step towards not being a burden to my [community](/community).
 
 ## Sense of Purpose
 
 It may sound overrated, but many people do feel empty not knowing with
 certainty their sense of purpose.
-But nobody can
-ever determine the fate of other people for them. It is up to us to look for it, create it even if it
-doesn't become clear from day 1.
+But I think it is up to us to look for it and create it.
 
-This I believe: I have the choice to make my own fate. But such an act
-of creation involves a life-long process of choosing for oneself a path
-from among the divergence. The act of choosing, too, is not easy. And
-the paths---how does one even begin to consider them? And so on. I ask
-these questions to myself from an oblique angle, and thus, the answer
-could not come soon enough. That's it: an existential nag to both the
-self and the society it is bound within, to have a function among its
-ranks.
+I have the choice to make my own fate. But such an act of creation
+is a life-long process of choosing for oneself a path from among the
+divergence, acknowledging that the chosen path would likely split into
+more paths. The act of choosing, too, is not easy. And the paths---how
+does one even begin to consider them? And so on. I ask these questions
+to myself from an oblique angle, and thus, the answer could not come
+soon enough. That's it: an existential nag to both the self and the
+society it is bound within, to have a function among its ranks. Or
+maybe, [the joke of finding purpose is to not do it at all](/nihilism).
 
-I'm not sure what's purpose, to be honest, but expression through
+What my purpose is, to be honest, has not fully come to me yet if it
+will at all; but expression through
 [writing](/writing) seems to keep the tinder alive. It's one of those
-hobbies that i get to feel contented. My style isn't golden, but words
+hobbies that I get to feel contented. My style isn't golden, but words
 could strike future-me with polished wit from which I could iterate a
 new thought.
 
@@ -74,17 +75,19 @@ ASAP.
 
 ## Spirituality
 
-In a religious country, to question the existence of god/s will get people
-shaking their heads in disbelief, at the minimum.
+In a religious country, to question the existence of god/s will get
+people shaking their heads in disbelief, at the minimum.
 
 My spirituality, though, doesn't have to be
-anchored to any [religion](/religion). Committing to any religion isn't something I
+anchored to any [religion](/religion).
+Committing to any religion is not something I
 see myself doing for a long time. But I'm not going to tell people
-they're idiots because they believe in god/s.
+they are idiots because they believe in god/s. As long as they do not
+force people into submitting to the same beliefs as theirs, we are good.
 
 To me, spirituality, doesn't necessarily mean a presence of soul within
 the corporeal form, but a state of mind. To be spiritual is to freely
-express oneself In order for me to be at ease with one's and to engage
+express oneself. In order for me to be at ease with one's and to engage
 in healthy activities that not only enriches oneself, but also those of
 others.
 
@@ -123,9 +126,9 @@ There are people out there whose lives I envy
    richer in wealth than I am, I question their shady lifestyle choices
    that affects the rest of us.
 
-3. **Scientists**: Their studies, discoveries have continued to make impact
-   in our lives. At some point in my life, I wanted to become one,
-   huddled in my own lab or shuffling about out in the field.
+3. **Scientists**: Their studies, discoveries have continued to make
+   impact in our lives. At some point in my life, I wanted to become
+   one, huddled in my own lab or shuffling about out in the field.
    Scientists, however, in the Philippines encounter difficulties in
    funding. The actual research is only half of the problem that
    requires solution.

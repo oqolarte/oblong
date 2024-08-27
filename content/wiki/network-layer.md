@@ -8,19 +8,19 @@ math: false
 ## Operations at the network layer
 
 Functions at the network layer organize the addressing and delivery of
-data packets across the [network](/network) from the host device to the destination
-device. This includes directing the packets from one router to another
-router across the internet, until it reaches the internet protocol (IP)
-address of the destination network. The destination IP address is
-contained within the header of each data packet. This address will be
-stored for future routing purposes in  routing tables along the packet’s
-path to its destination.
+data packets across the [network](/network) from the host device to the
+destination device. This includes directing the packets from one router
+to another router across the internet, until it reaches the internet
+protocol (IP) address of the destination network. The destination IP
+address is contained within the header of each data packet. This address
+will be stored for future routing purposes in  routing tables along the
+packet’s path to its destination.
 
 All data packets include an IP address. A router uses the IP address to
 route packets from network to network based on information contained in
 the IP header of a data packet.
 
-## Format of an IPv4 packet
+## Format of IPv4 packet
 
 - An IPv4 header format is determined by the IPv4 protocol and includes
   the IP routing information that devices use to direct the packet. The
@@ -76,6 +76,29 @@ There are 13 fields within the header of an IPv4 packet:
 13. Options: The options field allows for security options to be applied
    to the packet if the HLEN value is greater than five. The field
    communicates these options to the routing devices.
+
+## Format of IPv6 packet
+
+IPv6 adoption has been increasing because of its large address space. There are eight fields in the header:
+
+1. Version: This field indicates the IP version. For an IPv6 header,
+   IPv6 is used.
+1. Traffic Class: This field is similar to the IPv4 Type of Service
+   field. The Traffic Class field provides information about the
+   packet's priority or class to help with packet delivery.
+1. Flow Label: This field identifies the packets of a flow. A flow is
+   the sequence of packets sent from a specific source.
+1. Payload Length: This field specifies the length of the data portion
+   of the packet.
+1. Next Header: This field indicates the type of header that follows the
+   IPv6 header such as TCP.
+1. Hop Limit: This field is similar to the IPv4 Time to Live field. The
+   Hop Limit limits how long a packet can travel in a network before
+   being discarded.
+1. Source Address: This field specifies the source address of the
+   sender.
+1. Destination Address: This field specifies the destination address of
+   the receiver.
 
 ## Difference between IPv4 and IPv6
 

@@ -7,10 +7,10 @@ math: false
 
 A network protocol analyzer, sometimes called a packet sniffer or a
 packet analyzer, is a tool designed to capture and analyze data traffic
-within a [network](/network). They are commonly used as investigative tools to
-monitor networks and identify suspicious activity. There are a wide
-variety of network protocol analyzers available, but some of the most
-common analyzers  include:
+within a [network](/network). They are commonly used as investigative
+tools to monitor networks and identify suspicious activity. There are a
+wide variety of network protocol analyzers available, but some of the
+most common analyzers  include:
 
 - SolarWinds NetFlow Traffic Analyzer
 - ManageEngine OpManager
@@ -31,17 +31,52 @@ personal information to their own advantage. Alternatively, they might
 use the IP and MAC addresses of authorized users of the private network
 to perform [IP spoofing](/ip-spoofing).
 
+## Packets
+
+A **data packet** is a basic unit of information that travels from one
+device to another within a network. Detecting network intrusions begins
+at the packet level. That's because packets form the basis of
+information exchange over a network.
+
+Packets contain three components:
+
+1. **Header**: Packets can have several headers depending on the
+   protocols used such as an Ethernet header, an IP header, a TCP
+   header, and more. Headers provide information that’s used to route
+   packets to their destination. This includes information about the
+   source and destination IP addresses, packet length, protocol, packet
+   identification numbers, and more.
+2. **Payload**: This component directly follows the header and contains
+   the actual data being delivered.
+3. **Footer**: Located at the end of packet. The Ethernet protocol uses
+   footers to provide error-checking information to determine if data
+   has been corrupted.
+
+## Capturing packets
+
+**Packet sniffing** is the practice of capturing and inspecting data packets across a network. A **packet capture (p-cap)** is a file containing data packets intercepted from an interface or network. Packet captures can be viewed and further analyzed using network protocol analyzers. Different p-cap file formats include:
+
+- **Libpcap** is a packet capture library designed to be used by
+  Unix-like systems. Tools like [`tcpdump`](/tcpdump) use
+  Libpcap as the default packet capture file format.
+- **WinPcap** is an open-source packet capture library designed for
+  devices running Windows operating systems. Considered an older
+  file format and isn’t predominantly used.
+- **Npcap** is a library designed by the port scanning tool Nmap that is
+  commonly used in Windows operating systems.
+- **PCAPng** is a modern file format that can simultaneously capture
+  packets and store data. Its ability to do both explains the “ng,”
+  which stands for “next generation.”
+
 ## Malicious packet sniffing
 
-Malicious actors may insert themselves in the middle of an authorized
-connection between two devices. Then they can use packet sniffing to spy
-on every data packet as it comes across their device. The goal is to
-find valuable information in the data packets that they can then use to
-their advantage. Attackers can use software applications or a hardware
-device to look into data packets. Malicious actors can access a network
-packet with a packet sniffer and make changes to the data. They may
-change the information in the body of the packet, like altering a
-recipient's bank account number.
+[Malicious actors](/threat-actor) may insert themselves in the middle of
+an authorized connection between two devices to spy on every data packet
+as it comes across their device. The goal is to find valuable
+information in the data packets that they can then use to their
+advantage. Attackers can use software applications or a hardware device
+to look into data packets. Malicious actors can access a network packet
+with a packet sniffer and make changes to the data.
 
 ### Passive packet sniffing
 

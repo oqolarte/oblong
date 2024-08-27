@@ -23,6 +23,9 @@ Grinding away our lives for the Hustle.
 We are meant to live in [loving communities](/friendship)
 in which we can [help each other meet our daily needs](/mutual-aid).
 
+In an ideal world, we would be okay with lower-case-w "work" as
+*any activity or purposeful intent towards some goal*.
+
 ## No one is lazy and unskilled
 
 But you may have learned helplessness, which is more common.
