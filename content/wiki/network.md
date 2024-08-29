@@ -168,8 +168,8 @@ network.
 
 ### TCP/IP model
 
-TCP/IP stands for transmission control protocol and internet protocol. It
-is the standard model used in network communication.
+TCP/IP stands for transmission control protocol and internet protocol.
+It is the standard model used in network communication.
 
 TCP
 : is an internet communication protocol that allows two (or more)

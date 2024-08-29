@@ -11,10 +11,14 @@ lightweight–meaning it uses little memory and has a low CPU usage–and
 uses the open-source libpcap library.
 
 `tcpdump` provides a brief packet analysis and converts key information
-about network traffic into formats easily read by humans. It prints
-information about each packet directly into your terminal. tcpdump also
-displays the source IP address, destination IP addresses, and the port
-numbers being used in the [communications](/communication).
+about [network traffic](/network) into formats easily read by humans. It
+prints information about each packet directly into your terminal.
+tcpdump also displays the source IP address, destination IP addresses,
+and the port numbers being used in the [communications](/communication).
+
+**Note**: It's common for network traffic to be encrypted, which means
+data is encoded and unreadable. Inspecting the network packets might
+require decrypting the data using the appropriate private keys.
 
 ## Reading output
 
@@ -165,7 +169,7 @@ to a new website.
 
 `tcpdump` and other network protocol analyzers are commonly used to
 capture and view network communications and to collect
-[statistics](/statistics) about the [network](/network), such as
+[statistics](/statistics) about the network, such as
 troubleshooting network performance issues. They can also be used to:
 
 - Establish a baseline for network traffic patterns and network

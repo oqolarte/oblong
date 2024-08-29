@@ -1,5 +1,5 @@
 ---
-title: "On Artificial Intelligence"
+title: "Artificial intelligence"
 date: 2023-01-23
 draft: false
 ---
@@ -24,6 +24,9 @@ notion of a computer that can think like people can.
 It's something that computer scientists and [engineers](/engineering)
 are developing to supposedly automate boring tasks so we can focus on
 making art, but doing quite the opposite.
+
+LLMs are *language* models (it even says so in the name) and have not
+been specifically been trained to solve mathematical problems.
 
 ## Cons of AI
 

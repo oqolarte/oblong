@@ -30,11 +30,10 @@ risks to an organization.
 
 OSINT plays a significant role in [information security](/infosec).
 
-For example, a company's InfoSec team is responsible for protecting
-their network from potential threats. They might utilize OSINT to
-monitor online forums and hacker communities for discussions about
+An organization's infosec team might utilize OSINT to
+go to online forums and hacker communities for discussions about
 emerging vulnerabilities. If they come across a forum post discussing a
-newly discovered weakness in a popular software that the company uses,
+newly discovered weakness in a popular software that the organization uses,
 the team can quickly assess the risk, prioritize patching efforts, and
 implement necessary safeguards to prevent an attack.
 
@@ -46,7 +45,8 @@ Here are some of the ways OSINT can be used to generate intelligence:
 - To identify unknown vulnerabilities
 
 Collecting intelligence is sometimes part of the
-[vulnerability management](/vulnerability-management) process. Security teams might use
+[vulnerability management](/vulnerability-management) process.
+Security teams might use
 OSINT to develop profiles of potential targets and make data driven
 decisions on improving their defenses.
 

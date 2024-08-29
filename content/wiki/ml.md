@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning"
+title: "Machine learning"
 date: 2024-01-29
 draft: false
 math: false

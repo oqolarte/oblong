@@ -1,5 +1,5 @@
 ---
-title: "Primitive Root of an Integer"
+title: "Primitive root of an integer"
 date: 2024-01-26
 draft: false
 ---

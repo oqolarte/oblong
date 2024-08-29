@@ -1,5 +1,5 @@
 ---
-title: "Prime Factorization"
+title: "Prime factorization"
 date: 2024-01-23
 draft: false
 math: true

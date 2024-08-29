@@ -1,5 +1,5 @@
 ---
-title: "On Absurdism"
+title: "On absurdism"
 date: 2022-12-17
 draft: false
 ---

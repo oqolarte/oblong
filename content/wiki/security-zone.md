@@ -36,4 +36,3 @@ or [subnets](/subnetting), to maintain privacy for each department in a organiza
     - Restricted zone -- found within internal network, this zone
       protects highly confidential information that is only accessible
       to employees with certain privileges.
-

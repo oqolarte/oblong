@@ -13,7 +13,7 @@ The counter T<sub>i</sub> is b bits long, equal to the bit length
 supported by the encryption function.
 
 Like in OFB, CTR also has random bit generations independent to the
-data. This helps with the key protection. 
+data. This helps with the key protection.
 
 Because there's no chaining, CTR mode supports parallel processing in
 encryption. Therefore, CTR mode can preprocess the values offline. For
@@ -29,7 +29,7 @@ value and then incremented by one for each subsequent block.
 
 All counter values, across all messages, must be unique. In fact, the
 standardization requires that the counter value changes for every
-plaintext that the counter mode uses. 
+plaintext that the counter mode uses.
 
 CTR mode is widely used thanks to its simplicity. For example, CTR mode
 is used with applications in asynchronous transfer mode (ATM), network

@@ -1,5 +1,5 @@
 ---
-title: "El Gamal Encryption"
+title: "El Gamal encryption"
 date: 2024-01-26
 draft: false
 ---
