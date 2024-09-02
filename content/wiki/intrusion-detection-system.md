@@ -38,4 +38,4 @@ noise in IDS alerts, also referred to as false positives.
 
 Beyond IDS, there's also [IPS](/intrusion-prevention-system), which can
 actually stop intrusion, and [EDR](/endpoint-detection-response), which
-can and perform behavioral analysis to possibly stop intrusion
+can and perform behavioral analysis to possibly stop intrusion.

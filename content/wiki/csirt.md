@@ -26,7 +26,7 @@ must have clear
    determine if an incident has occurred. If an incident has been
    detected, the analyst will continuously monitor an environment for
    any threats, by doing:
-       - analyzing and triaging alerts
+       - [analyzing and triaging alerts](/triage)
        - performing root-cause investigations
        - escalating or resolving alerts
 2. **Technical lead** (or Ops lead). If the incident is highly critical,
