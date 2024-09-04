@@ -52,6 +52,10 @@ human resources." She poses a challenge:
 > “hi[gh],” is to ask yourself of any manmade object, Do I know how to make
 > one?
 
+Technology isn't necessarily applied sciences. Humans invented wheels
+and build pyramids long before we have understood the physics behind
+them.
+
 ## Analog vs Digital
 
 Spending time in one makes me appreciate the benefits of using the

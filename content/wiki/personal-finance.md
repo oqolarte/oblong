@@ -50,7 +50,7 @@ extend your care to others as well.
 - Take calculated risks,
 but don't be afraid to lose something in the process.
 
-## Achieving Financial Independence?
+## Financial Independence
 
 Achieving financial independence, likely a fad into which I
 freefall, is difficult especially if it's in
