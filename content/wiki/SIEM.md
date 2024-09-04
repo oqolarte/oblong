@@ -5,8 +5,8 @@ draft: false
 math: false
 ---
 
-SIEM is an application that collects and analyzes log data to monitor in
-real time critical activities in an organization.
+SIEM is an application that collects and analyzes [log](/computer-log)
+data to monitor in real time critical activities in an organization.
 
 The implementation of automation will also help security teams respond
 faster to possible incidents, performing many actions without waiting
@@ -28,20 +28,6 @@ intervention.
 1. **Analyze data**: Collected data is then analyzed with some type of
    detection logic, and if any of the log activity matches a rule,
    alerts are sent to cybersecurity teams.
-
-## Logs
-
-A **firewall log** is a record of attempted or established connections
-for incoming traffic from the [internet](/internet). It also includes
-outbound requests to the internet from within the network.
-
-A **network log** is a record of all computers and devices that enter
-and leave the network. It also records connections between devices and
-services on the network.
-
-**Server log** is a record of events related to services such as
-websites, emails, or file shares. It includes actions such as login,
-password, and username requests.
 
 ## SIEM Dashboards
 
