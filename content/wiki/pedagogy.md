@@ -1,5 +1,5 @@
 ---
-title: "Notes on Pedagogy"
+title: "Notes on pedagogy"
 date: 2022-09-26
 draft: false
 ---
@@ -12,16 +12,17 @@ So, I try to [learn from the teachers on how they teach](/academy).
 ## Radical Education
 
 Any attempt to teach should start with the experiences of the learners.
-Find activities where they explore the socialization they've experienced in life.
-For example, how beliefs, ideas, norms, experiences, etc. shaped them.
-How their thinking, ideas, worldview developed over time.
-What makes them think something is considered knowledge/theory and how did they come to such understanding about knowledge/theory?
+Find activities where they explore the socialization they've experienced
+in life. For example, how beliefs, ideas, norms, experiences, etc.
+shaped them. How their thinking, ideas, worldview developed over time.
+What makes them think something is considered knowledge or theory and how
+did they come to such understanding about knowledge or theory?
 
-It's helpful to start discussion that could help reset
-preconceived notions of what learning in a school or university might be.
-Loosen some of the hierarchy, rigidity, name some common frustrations with schooling.
-From there, try to bring new spark in the space,
-in that each person in the room has a stake on how the class will go.
+It might be good to start discussion that could help reset preconceived
+notions of what learning in a school or university might be. Loosen some
+of the hierarchy, rigidity, name some common frustrations with
+schooling. From there, try to bring new spark in the space, in that each
+person in the room has a stake on how the class will go.
 
 > Efficiency and economy simply do not make good pedagogy.
 >
@@ -29,23 +30,16 @@ in that each person in the room has a stake on how the class will go.
 
 ### Reward-based?
 
-When working with young kids,
-it might not be a good idea to give points,
-rewards,
-stickers,
-stamps,
-or some other external reward.
+When working with young kids, it might not be a good idea to give
+points, rewards, stickers, stamps, or some other external reward.
 
-The environment of learning should be made so that
-the kids are intrinsicially, not extrinsically, motivated.
-Allow them to experience joy and pleasure,
-take pride,
-appreciate, etc.
+The environment of learning should be made so that the kids are
+intrinsically, not extrinsically, motivated. Allow them to experience
+joy and pleasure, take pride, appreciate, etc.
 
-The educator could affirm, appreciate, and validate
-the efforts they did during the process,
-how they solved a problem,
-how they were creative, etc.
+The educator could affirm, appreciate, and validate the efforts they did
+during the process, how they solved a problem, how they were creative,
+etc.
 
 ## Learning/Teaching *both* Natural and Social Sciences
 

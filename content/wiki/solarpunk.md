@@ -103,10 +103,7 @@ will lead to a more equitable environment for future generations.
 - [Solar-powered Website](https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/)
   is an interesting proof-of-concept on how we might share information
   via internet that's solar-powered.
-
-![Digging in desert](/image/digging01.jpg)
-
 - Digging crescent-shaped holes can catch rainwater and reverse
   desertification by making the land hospitable.
-
-![Crescent-shaped holes reverse desertification](/image/digging02.jpg)
+  ![Digging in desert](/image/digging01.jpg)  
+  ![Crescent-shaped holes reverse desertification](/image/digging02.jpg)

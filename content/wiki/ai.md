@@ -17,7 +17,7 @@ Key Domains of AI:
 - Generative AI: Systems that can create content.
 - *many more*
 
-More clarification: LLM is Large Language Model, the most well-known
+**More clarification**: LLM is Large Language Model (LLM), the most well-known
 gateway to which is ChatGPT; AGI is Artificial General Intelligence, the
 notion of a computer that can think like people can.
 

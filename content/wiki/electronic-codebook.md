@@ -1,5 +1,5 @@
 ---
-title: "Electronic Codebook (ECB)"
+title: "Electronic codebook (ECB)"
 date: 2024-01-22
 draft: false
 math: true

@@ -11,6 +11,8 @@ We have reached a point where some societies can already go full vegan,
 while others simply can't, whether it's because of their environment or
 something else.
 
+![Stop sign that has been "improved" by appending stickers that say "eating animals"](/image/stop.png)
+
 ## For the omnivores
 
 Just don't farm animals in boxes for the entirety or most of their
