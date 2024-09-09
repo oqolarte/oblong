@@ -7,7 +7,7 @@ math: false
 
 **Empire** is "the name for the organized catastrophe in which we live today."
 
-It's more than a collection of process, rather than a singular
+It's more of a collection of process, rather than a singular
 mass/entity, that includes "the most brutal forms of domination to the
 subtlest inculcation of anxiety and isolation."
 
@@ -52,14 +52,16 @@ cancelled; etc.
 Since rigid radicalism borrows ideals from the Empire and "requires"
 them for revolution, it demands self-sacrifice, not for profit (that's
 [capitalism](/capitalism)) but for the movement. I don't get the need
-for self-sacrifice, though if making compromises offer better learning
-experience. If there's no room for nuance and no space to wiggle, it's
-not my revolution.
+for self-sacrifice; it's a net negative for everyone. On the other hand,
+seeking compromises offer better learning experience. If there's no room
+for nuance and no space to wiggle, then I cannot dance in it---it's NOT
+my revolution.
 
 Not sticking to a monolithic ideology is liberating, mind you, but has
 the drawback of being less certain on what actions to do or not do.
-Which is fine---we are not wired to be cold and efficient. Our warm
-bodies allow us to fail forward to a future where we're all freer.
+Which is *fine*---we are not wired to be cold and efficient. Our warm
+bodies allow us to fail forward to a future where we all have more
+freedoms.
 
 Look no further: rigid ideology is what isolates CPP-NDF-NPA from the
 masses they seek to liberate. The truth is, they have very little

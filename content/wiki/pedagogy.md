@@ -41,6 +41,25 @@ The educator could affirm, appreciate, and validate the efforts they did
 during the process, how they solved a problem, how they were creative,
 etc.
 
+## Are there even pros and cons?
+
+By now, we have a clear understanding about what institutionalized
+pedagogy can and cannot enable. Still, I think getting education through
+this mainstream way (i.e., going to school) is a decent way to get
+one's "foot on the door." At the very least, one, as a young person,
+gets to mingle with other people of around the same age. This physical
+interaction in the meatspace is always a good way to develop social
+skills. And on *getting the foot on the door* I mean having enough
+exposure to the current Babylon's infernal machines and meeting enough
+of its silly metrics (e.g., having passing grades, getting a diploma,
+etc.) to understand and play the game, and maybe help bring Babylon
+down.
+
+Of course, there are countless of people who have not stepped into, let
+alone finish, formal education, and yet they are living decent lives. It
+could be harder for them, though, because Babylon is not kind to people
+who do not participate in its games.
+
 ## Learning/Teaching *both* Natural and Social Sciences
 
 Our most pressing issues require competent people

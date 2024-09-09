@@ -23,6 +23,10 @@ Grinding away our lives for the Hustle.
 We are meant to live in [loving communities](/friendship)
 in which we can [help each other meet our daily needs](/mutual-aid).
 
+Power Gets Things Done, but it can also oppress people.
+The state does this in the public sphere, and your average CEO does it in the
+workplace.
+
 In an ideal world, we would be okay with lower-case-w "work" as
 *any activity or purposeful intent towards some goal*.
 

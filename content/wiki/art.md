@@ -28,7 +28,7 @@ name of a "refined" status. Be snob? BS!
 
 ### Art under Capitalism
 
-However, art could never flourish under capitalism.
+However, art could never flourish under [capitalism](/capitalism).
 In [a system that doesn't compel you to labor for basic needs](/anti-work),
 everyone's artistic potential could be unlocked.
 
@@ -39,11 +39,12 @@ wouldn't be shocked if many believers of capitalism might argue that
 without the suffering it naturally causes, beautiful works might never
 have come to life. What a twisted idea.
 
-Greater art would come if most
-of us aren't so desparate to get by. To me, though, great art gets
-around money---it just can't be bought. It can only be copied,
-transformed, or transmuted to influence other creations, to start a
-movement maybe.
+In Hazel Weakly's blog post *[The Trap of Soulless Productivity](https://hazelweakly.me/blog/soulless-productivity/)*, she puts it succinctly, "Fear and abuse and spreadsheet hacking doesn't help people be creative and share ideas[.]"
+
+Greater art would come if most of us aren't so desparate to get by nor
+meeting some impossible metric. To me, though, great art gets around
+money---it just can't be bought. It can only be copied, transformed, or
+transmuted to influence other creations, to start a movement maybe.
 
 On that note, the greatest performance art, perhaps, is communities of
 *artists* [coming together to help each other](/mutual-aid) out of this
