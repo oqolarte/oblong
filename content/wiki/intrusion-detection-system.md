@@ -85,6 +85,36 @@ monitor an environment for events that match the patterns defined in
 this malware signature. If an event matches the signature, the event
 gets logged and an alert is generated.
 
+#### Rules
+
+Rules or signatures are used to identify specific patterns, behavior,
+and conditions of network traffic that might indicate malicious
+activity. Security analysts use signatures, or patterns associated with
+malicious activity, to detect and alert on specific malicious activity.
+Rules can also be used to provide additional context and visibility into
+systems and networks, helping to identify potential security threats or
+vulnerabilities.
+
+In signatures analysis, signatures consist of three components:
+
+- **Action**: The first component of a signature. It describes the
+  action to take if network or system activity matches the signature.
+  Examples include: alert, pass, drop, or reject.
+    - `alert` keyword instructs to alert on selected network traffic.
+      IDS will inspect the traffic packets and send out an alert in case
+      it matches.
+    - `drop` action also generates an alert, but it drops the traffic;
+      usually occurs when in IPS mode.
+    - `pass` action allows the traffic to pass through the network
+      interface. This rule can be used to override other rules. An
+      exception to a `drop` rule can be made with a `pass` rule.
+    - `reject` action does not allow the traffic to pass.
+- **Header**: The header includes network traffic information like
+  source and destination IP addresses, source and destination ports,
+  protocol, and traffic direction.
+- **Rule options**: The rule options provide you with different options
+  to customize signatures.
+
 #### Advantages
 
 - **Low rate of false positives**: Signature-based analysis is very
