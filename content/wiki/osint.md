@@ -63,3 +63,6 @@ decisions on improving their defenses.
   or platform.
 - [Have I been Pwned](https://haveibeenpwned.com/) is a tool that can be
   used to search for breached email accounts.
+- [Telegram](https://telegram.org/), apparently. According to Zak
+  Doffman's article for Forbes, "[Yes, Telegram is a very serious threat to your phone.](https://www.forbes.com/sites/zakdoffman/2024/02/02/apple-iphone-google-pixel-and-samsung-galaxy-telegram-app-warning/)" In it, the Doffman writes, "[Telegram] has almost become an easy access version of the dark web."
+- "[OSINT phone numbers like a pro. Best tools and methods revealed](https://www.osintteam.com/osint-phone-numbers-like-a-pro-best-tools-and-methods-revealed/)."
