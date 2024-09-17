@@ -11220,11 +11220,11 @@ a software that can forward your RSS feeds to your email.&lt;/p&gt;
 it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and
 virtually none of JavaScript. It turns out that this is a feature, not a
 bug, for static websites anyway.&lt;/p&gt;
-&lt;p&gt;By foregoing intricate UI/UX design, I can focus on what matters most: &lt;em&gt;content&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;By foregoing intricate &lt;a href=&#34;https://ohio.araw.xyz/ui-ux&#34;&gt;UI/UX design&lt;/a&gt;, I can focus on what matters most: &lt;em&gt;content&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Through simplicity, I&amp;rsquo;m making this site less bloated.
 This means that:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;&lt;/li&gt;
+&lt;li&gt;low-end and/or &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;old computers&lt;/a&gt; with slow and/or outdated software can visit with little to no hassle on their end;&lt;/li&gt;
 &lt;li&gt;locations with poor internet connectivity can still browse the content;&lt;/li&gt;
 &lt;li&gt;improving accessibility is easier;&lt;/li&gt;
 &lt;li&gt;the site loads fast because of no tracking, no custom fonts; and,&lt;/li&gt;
@@ -11285,6 +11285,7 @@ In theory, it&amp;rsquo;s because the screen emits less photons (light) for usin
 therefore using less energy.
 In practice,
 it can be difficult to gauge.&lt;/p&gt;
+&lt;p&gt;Here, admittedly, it&amp;rsquo;s more of an aesthetic choice.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;

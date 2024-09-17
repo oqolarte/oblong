@@ -3,6 +3,7 @@ body {
         font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir, "Segoe UI", Helvetica, Ubuntu, Cantarell, "Open Sans", "Fira Sans", "Droid Sans", roboto, noto, sans-serif;
         color:#edf2ea;background:#0a0012
 }
+body ::selection { background-color:#ffc30f ;color:#0029a3;text-decoration:none }
 a:link {color:#7aa3cc}
 a:hover, a:visited:hover {color:#36ca5c}
 a:visited {color:#cc7aa3}

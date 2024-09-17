@@ -83,11 +83,11 @@ it's the result of having only a working knowledge of HTML and CSS, and
 virtually none of JavaScript. It turns out that this is a feature, not a
 bug, for static websites anyway.
 
-By foregoing intricate UI/UX design, I can focus on what matters most: *content*.
+By foregoing intricate [UI/UX design](/ui-ux), I can focus on what matters most: *content*.
 
 Through simplicity, I'm making this site less bloated.
 This means that:
-- low-end and/or old computers with slow and/or outdated software can visit with little to no hassle on their end;
+- low-end and/or [old computers](/old-computer) with slow and/or outdated software can visit with little to no hassle on their end;
 - locations with poor internet connectivity can still browse the content;
 - improving accessibility is easier;
 - the site loads fast because of no tracking, no custom fonts; and,
@@ -156,6 +156,8 @@ In theory, it's because the screen emits less photons (light) for using darker c
 therefore using less energy.
 In practice,
 it can be difficult to gauge.
+
+Here, admittedly, it's more of an aesthetic choice.
 
 {{< btt >}}
 
