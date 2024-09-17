@@ -40,7 +40,12 @@ men.
 
 ## Sleep
 
-Sleep is very important. Many would argue that it's more important than
+Sleep is *very* important.
+
+It's the time when the body heals and regenerates and consolidates the
+information from the day past.
+
+Many would argue that it's more important than
 diet, which itself is more important than exercise.
 If your sleep is bad, diet won't work, and you wont' have proper
 workout.

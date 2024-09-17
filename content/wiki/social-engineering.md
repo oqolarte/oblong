@@ -137,6 +137,10 @@ attacks of the 1990s, they use fraudulent accounts that appear similar
 to those of actual businesses. They then trick the angry customers into
 sharing sensitive information with the promise of fixing their problem.
 
+### Further reading on phishing
+
+- [Top Phishing Techniquies](https://redteamrecipe.com/top-phishing-techniques)
+
 ## Stages of social engineering attacks
 
 1. **Prepare**. At this stage, attackers gather information about their

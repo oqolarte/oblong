@@ -4,7 +4,8 @@ date: 2023-09-21
 draft: false
 ---
 
-Remember, art is all about self-expression and creativity.
+Remember, something as hard to define as art
+is all about self-expression and creativity.
 You don't always need fancy tools;
 your [imagination](/surrealism) is your most valuable asset.
 
