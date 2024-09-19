@@ -5,6 +5,10 @@ draft: false
 math: true
 ---
 
+Statistics, before tech bros begin merging it and its different
+subtopics into "[AI](/ai)", is first and foremost the analysis of
+[data](/data-management).
+
 ## Data and Charts
 
 Stories are illustrated by charts, graphs, tables.
