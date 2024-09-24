@@ -33,6 +33,55 @@ In [cybersecurity](/cybersecurity), it's mainly used to automate tasks.
 - Names should describe the data and not be random words. Valid
   examples: `num_login_attempts`, `device_id`, `invalid_usernames`
 
+## Strings and string manipulation
+
+### Bracket notation
+
+```python
+device_id = "h32rb17"
+print("h32rb17"[0])
+print(device_id[0])
+```
+
+In both `print()` statements, the output is `h`, because it is the index
+0 value of both `"h32b17"` and `device_id` (which itself has stored the
+value string value `"h32b17"`)
+
+```python
+print("h32rb17"[0:3])
+```
+
+The slice starts at the `0`, but the second index specified after
+the colon is excluded. This means the slice ends one position before
+index `3`, which is at index `2`.
+
+### `.index()`
+
+```python
+print("h32rb17".index("r"))
+```
+
+The `.index()` method returns `3` because the first occurrence of the
+character `"r"` is at index `3`.
+
+### Finding substrings with `.index()`
+
+A substring is a continuous sequence of characters within a string. For
+example, "llo" is a substring of "hello".
+
+The `.index()` method can also be used to find the index of the first
+occurrence of a substring. It returns the index of the first character
+in that substring.
+
+```python
+tshah_index = "tsnow, tshah, bmoreno - updated".index("tshah")
+print(tshah_index)
+```
+
+The `.index()` method returns the index `7`, which is where the substring
+`"tshah" ` starts.
+
+
 ## Python Standard Library
 
 The Python Standard Library is an extensive collection of Python code

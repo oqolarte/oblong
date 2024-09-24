@@ -1,5 +1,5 @@
 ---
-title: "Notes on Feminism"
+title: "Notes on feminism"
 date: 2022-11-03
 draft: false
 ---
@@ -9,7 +9,7 @@ as well as the struggle against state and capitalism.
 > Womanhood is a dark meditation peppered with agony and ecstasy.  
 > -- Kimia Dargahi
 
-## Branches of Feminism
+## Problematic branches
 
 However, some strains of feminists are problematic.
 

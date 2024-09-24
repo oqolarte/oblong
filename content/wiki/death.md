@@ -32,6 +32,7 @@ only induces pain.
 ### Choosing Life
 
 As I both continue and struggle to choose life, despite emotional and
-mental difficulties by Empire, I hurry not to the Void. My
+mental difficulties caused by Empire, I hurry not to the Void, however
+tempting its come-hither blackness. My
 [friends](/friendship) and I will be in the future together,
 [joy-armed to the teeth](/revolution).

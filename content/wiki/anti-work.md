@@ -20,6 +20,10 @@ obsoletes the need to work
 like how anti-matter destroys matter.
 Because we are not meant to live like this:
 Grinding away our lives for the Hustle.
+You may have it worse if you're a gig worker: companies have exploited
+anyone who have worked in the gig industry by ignoring labor laws and
+sometimes paying less than minimum wage.
+
 We are meant to live in [loving communities](/friendship)
 in which we can [help each other meet our daily needs](/mutual-aid).
 

@@ -39,3 +39,14 @@ Mysteriously, significant signals have a way to reach you. On a larger
 time scale, like annually, signal to noise ratio seems to get even. But
 as one zooms to hourly, there is more noise. This is evident in news and
 current affairs cycles.
+
+In a society that demands efficiency, deciding to commit early is a
+determining factor for most, if not all, transactions. And we are
+filled with transactions if we really look at the state of things. Not
+that it's necessarily bad. If you have the resources, I say take your
+time and slow down; the great things in life rarely come to those who
+haste. But if you don't have the this luxury---and for many, waiting
+*is* a luxury---consider whatever the choice is that causes the least
+amount of harm.
+
+
