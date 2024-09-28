@@ -67,3 +67,4 @@ decisions on improving their defenses.
   Doffman's article for Forbes, "[Yes, Telegram is a very serious threat to your phone.](https://www.forbes.com/sites/zakdoffman/2024/02/02/apple-iphone-google-pixel-and-samsung-galaxy-telegram-app-warning/)" In it, the Doffman writes, "[Telegram] has almost become an easy access version of the dark web."
 - "[OSINT phone numbers like a pro. Best tools and methods revealed](https://www.osintteam.com/osint-phone-numbers-like-a-pro-best-tools-and-methods-revealed/)."
 - Bellingcat article: "[OSHIT: Seven Deadly Sins of Bad Open Source Research](https://www.bellingcat.com/resources/2024/04/25/oshit-seven-deadly-sins-of-bad-open-source-research/)"
+- [30 Advanced Google Dork Queries for Uncovering Hidden Data and OSINT Insights](https://medium.com/@as-squirrel/30-advanced-google-dork-queries-for-uncovering-hidden-data-and-osint-insights-f397cd97e252)

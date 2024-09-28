@@ -70,3 +70,10 @@ they only predict a likely answer. To understand it better, when you
 type a question or prompt, you're actually asking the LLM to give back
 the most likely response of people to that sort of query/prompt. Don't
 expect it give a "right answer."
+
+## Further reading
+
+- [Comprehensive Guide to Safe and Privacy-Respecting AI Usage](https://github.com/iAnonymous3000/ai-privacy-guide) -- "This
+  guide aims to help users of all backgrounds understand and use AI
+  technologies in a safe and [privacy-respecting manner](/privacy)."
+- [Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/pdf/2409.14160) (pdf) -- A paper on how "smaller AI models often perform better" and "obsession with bigness has severe collateral consequences" ([Whittaker](https://mastodon.world/@Mer__edith/113197090927589168), 2024)
