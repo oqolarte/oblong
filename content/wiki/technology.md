@@ -41,6 +41,14 @@ biodiversity loss,
 food insecurity,
 and poor energy access?
 
+### More questions to ask
+
+1. How does one use a piece of technology? Alternatively, how does one
+   go through a process of technology?
+2. How does one maintain it?
+3. Why must we use it?
+4. When can we use something else?
+
 ## Technology in modern culture
 
 Ursula K. Le Guin [rants](https://www.ursulakleguin.com/a-rant-about-technology) about how "technology" is "consistently misused

@@ -13,6 +13,63 @@
     
     
     <item>
+      <title>iPod Classic with Alpine Linux</title>
+      <link>https://ohio.araw.xyz/alpod/</link>
+      <pubDate>Thu, 03 Oct 2024 03:00:04 +0800</pubDate>
+      <author>ohio@araw.xyz (ohio olarte)</author>
+      <guid>https://ohio.araw.xyz/alpod/</guid>
+      <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
+Status:
+&lt;strong&gt;ON-GOING&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;As of writing, &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;I am using Alpine Linux Stable&lt;/a&gt; as my main daily driver.
+So far, it&amp;rsquo;s been great.&lt;/p&gt;
+&lt;p&gt;We have an old &lt;a href=&#34;https://seekers.araw.xyz/repair-ipod/&#34;&gt;iPod Classic from a previous project&lt;/a&gt; that is just sitting unused.&lt;/p&gt;
+&lt;p&gt;This project notes down the steps I have taken so far &lt;strong&gt;to get the music
+library from my Alpine Linux machine into the iPod&lt;/strong&gt;, if at all possible.&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#install-rhythmbox-for-gui-needs&#34;&gt;Install Rhythmbox for GUI needs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#install-plugins&#34;&gt;Install plugins&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#adjust-preferences-in-rhythmbox&#34;&gt;Adjust Preferences in Rhythmbox&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#todo&#34;&gt;TODO&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;install-rhythmbox-for-gui-needs&#34;&gt;Install Rhythmbox for GUI needs&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add rhythmbox
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Where &lt;code&gt;#&lt;/code&gt; signifies that the command be run as root, i.e., with &lt;code&gt;doas&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;Rhythmbox&lt;/a&gt; is a FOSS-copy of iTunes. It
+helps that it also supports iPod, that is, if the machine can detect the
+device, which will soon get into.&lt;/p&gt;
+&lt;h2 id=&#34;install-plugins&#34;&gt;Install plugins&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add gstreamer gst-plugins-good
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;These installs plugins that would actually allow Rhythmbox to scan your
+library and import music from it.&lt;/p&gt;
+&lt;h2 id=&#34;adjust-preferences-in-rhythmbox&#34;&gt;Adjust Preferences in Rhythmbox&lt;/h2&gt;
+&lt;p&gt;Be sure to adjust &lt;code&gt;Preferences&lt;/code&gt;, like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pointing to your music library and other audio files, including
+downloaded podcast episodes.&lt;/li&gt;
+&lt;li&gt;Under &lt;code&gt;Plugins&lt;/code&gt;, make sure that the &amp;ldquo;Portable Players &amp;ndash; iPod&amp;rdquo; box is
+checked. By default, it is checked.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Detect iPod&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Check: &lt;a href=&#34;https://superuser.com/questions/84446/how-to-mount-a-hfs-partition-in-ubuntu-as-read-write&#34;&gt;https://superuser.com/questions/84446/how-to-mount-a-hfs-partition-in-ubuntu-as-read-write&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Each Day Poking</title>
       <link>https://ohio.araw.xyz/edp/</link>
       <pubDate>Tue, 01 Oct 2024 21:38:55 +0800</pubDate>
@@ -42,6 +99,7 @@ observed on the day itself.&lt;/p&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#day-1&#34;&gt;Day 1&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#day-2&#34;&gt;Day 2&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#day-3&#34;&gt;Day 3&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -88,6 +146,31 @@ wonder, though what its print out says. &amp;ldquo;EVENING&amp;mdash;&lt;/p&gt;
 &lt;p&gt;Of course. Time to check in with the body. Putting this off for
 tomorrow. A better one. Lovelier and obviously with more effort,
 something I to be sold to a therapist.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;day-3&#34;&gt;Day 3&lt;/h2&gt;
+&lt;p&gt;The dice landed 12. Within the confines of two cubes rolling, it&amp;rsquo;s value
+aplenty. Versus the bigger picture, of course, that&amp;rsquo;s nothing. But
+throwing dice, instead of dicks, is more socially acceptable for a bored
+local functionary that&amp;rsquo;s often in arm&amp;rsquo;s length to a public announcement
+system.&lt;/p&gt;
+&lt;p&gt;But, I ask, is it better than pressing a button and speaking into the PA
+system when it&amp;rsquo;s already late at night?&lt;/p&gt;
+&lt;p&gt;I look at the time: 10 PM. The tingling sensation doesn&amp;rsquo;t come until I
+hear the announcement, more cringe than a shiver of disappointment. I
+don&amp;rsquo;t know why I feel that, but I make fun of the situation when I
+become aware of it. Someone right about now is on their way to the PA
+system. As they pace, they shake two dice in the globe of their two
+palms before breaking it open onto the table where the microphone sits.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Good evening, neighbors,&amp;rdquo; the announcement begins, the voice that of a
+man, in his 30s maybe, or older. &amp;ldquo;Please call your kids home as we now
+enter the nightly curfew.&amp;rdquo; The dice land snake eyes.&lt;/p&gt;
+&lt;p&gt;Twelve hours earlier, I wanted something completely different. Partisans
+of certain flavor of local leftist politics has coopted what it&amp;rsquo;s like
+to be an activist, making &lt;a href=&#34;https://ohio.araw.xyz/activism&#34;&gt;activism&lt;/a&gt; much worse in the eyes
+of the State. Neither will I associate myself to any of them nor will I
+ever understand the cunning that, in the end, causes more harm to
+anything and anyone it touches.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 </description>

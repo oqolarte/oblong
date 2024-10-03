@@ -9,7 +9,7 @@ draft: false
 
 ## Default apps
 
-- Operating System: [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); [Alpine Linux v3.20 *stable*](https://alpinelinux.org) (laptop, daily driver); Android (smartphone)
+- Operating System: [Alpine Linux v3.20 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
 - Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mull](https://gitlab.com/divested-mobile/mull-fenix) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock
@@ -23,7 +23,8 @@ draft: false
 - Back-up/File Sync: [Syncthing](https://syncthing.net/)
 - Instant messaging: [Signal](https://signal.org/)
 - RSS Feed reader: [newsraft](https://codeberg.org/newsraft/newsraft)
-- Media player: [mpv](https://mpv.io)
+- Music player: [rhythmbox](http://www.rhythmbox.org/)
+- Video player: [mpv](https://mpv.io)
 - Notes: [vimwiki](https://vimwiki.github.io/) plugged into [neovim](https://neovim.io) (also my `$EDITOR` of choice)
 - Office suite: [LibreOffice](https://www.libreoffice.org)
 - PDF reader: [zathura](https://pwmt.org/projects/zathura/)

@@ -23,6 +23,7 @@ riffed from a combination of Carroll's and others' minimal designs.
 Marked as **on-going** because I'm always revising my bujo ways.
 
 {{< toc >}}
+
 ## Materials
 
 **A notebook and a pen(cil).**

@@ -80,3 +80,34 @@ tomorrow. A better one. Lovelier and obviously with more effort,
 something I to be sold to a therapist.
 
 {{< btt >}}
+
+## Day 3
+
+The dice landed 12. Within the confines of two cubes rolling, it's value
+aplenty. Versus the bigger picture, of course, that's nothing. But
+throwing dice, instead of dicks, is more socially acceptable for a bored
+local functionary that's often in arm's length to a public announcement
+system.
+
+But, I ask, is it better than pressing a button and speaking into the PA
+system when it's already late at night?
+
+I look at the time: 10 PM. The tingling sensation doesn't come until I
+hear the announcement, more cringe than a shiver of disappointment. I
+don't know why I feel that, but I make fun of the situation when I
+become aware of it. Someone right about now is on their way to the PA
+system. As they pace, they shake two dice in the globe of their two
+palms before breaking it open onto the table where the microphone sits.
+
+"Good evening, neighbors," the announcement begins, the voice that of a
+man, in his 30s maybe, or older. "Please call your kids home as we now
+enter the nightly curfew." The dice land snake eyes.
+
+Twelve hours earlier, I wanted something completely different. Partisans
+of certain flavor of local leftist politics has coopted what it's like
+to be an activist, making [activism](/activism) much worse in the eyes
+of the State. Neither will I associate myself to any of them nor will I
+ever understand the cunning that, in the end, causes more harm to
+anything and anyone it touches.
+
+{{< btt >}}
