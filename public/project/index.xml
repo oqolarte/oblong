@@ -13,14 +13,14 @@
     
     
     <item>
-      <title>iPod Classic with Alpine Linux</title>
+      <title>iPod Classic syncing with Alpine Linux</title>
       <link>https://ohio.araw.xyz/alpod/</link>
       <pubDate>Thu, 03 Oct 2024 03:00:04 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
       <guid>https://ohio.araw.xyz/alpod/</guid>
-      <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
+      <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
-&lt;strong&gt;ON-GOING&lt;/strong&gt;
+&lt;strong&gt;DONE&lt;/strong&gt;
 &lt;/p&gt;
 
 &lt;p&gt;As of writing, &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;I am using Alpine Linux Stable&lt;/a&gt; as my main daily driver.
@@ -35,9 +35,13 @@ library from my Alpine Linux machine into the iPod&lt;/strong&gt;, if at all pos
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#install-rhythmbox-for-gui-needs&#34;&gt;Install Rhythmbox for GUI needs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#install-gfvs&#34;&gt;Install GFVS&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#install-plugins&#34;&gt;Install plugins&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#adjust-preferences-in-rhythmbox&#34;&gt;Adjust Preferences in Rhythmbox&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#todo&#34;&gt;TODO&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#plug-the-ipod-in-and-detect-it&#34;&gt;Plug the iPod in and detect it&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#mounting-the-ipod&#34;&gt;Mounting the iPod&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#success&#34;&gt;Success!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ejecting-unmounting-and-unplugging&#34;&gt;Ejecting, unmounting, and unplugging&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -45,27 +49,98 @@ library from my Alpine Linux machine into the iPod&lt;/strong&gt;, if at all pos
 
 &lt;h2 id=&#34;install-rhythmbox-for-gui-needs&#34;&gt;Install Rhythmbox for GUI needs&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add rhythmbox
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Where &lt;code&gt;#&lt;/code&gt; signifies that the command be run as root, i.e., with &lt;code&gt;doas&lt;/code&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Where &lt;code&gt;#&lt;/code&gt; signifies that the command be run as root, i.e., with &lt;code&gt;doas&lt;/code&gt;.
+(On the other hand, &lt;code&gt;$&lt;/code&gt; signifies that a command be run as the user.)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;Rhythmbox&lt;/a&gt; is a FOSS-copy of iTunes. It
 helps that it also supports iPod, that is, if the machine can detect the
-device, which will soon get into.&lt;/p&gt;
+device.&lt;/p&gt;
+&lt;h2 id=&#34;install-gfvs&#34;&gt;Install GFVS&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add gvfs
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Rhythmbox needs GNOME Virtual File System (GVFS) backend in order for it
+to detect Apple devices when they are plugged in. Good thing it&amp;rsquo;s in the
+packages and can be installed easily:&lt;/p&gt;
 &lt;h2 id=&#34;install-plugins&#34;&gt;Install plugins&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add gstreamer gst-plugins-good
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;These installs plugins that would actually allow Rhythmbox to scan your
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;These install plugins for
+&lt;a href=&#34;https://github.com/GStreamer/gst-plugins-good&#34;&gt;Gstreamer&lt;/a&gt;, a framework
+for streaming media, that would allow Rhythmbox to scan your
 library and import music from it.&lt;/p&gt;
 &lt;h2 id=&#34;adjust-preferences-in-rhythmbox&#34;&gt;Adjust Preferences in Rhythmbox&lt;/h2&gt;
-&lt;p&gt;Be sure to adjust &lt;code&gt;Preferences&lt;/code&gt;, like:&lt;/p&gt;
+&lt;p&gt;Be sure to adjust &lt;strong&gt;Preferences&lt;/strong&gt; like:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Pointing to your music library and other audio files, including
 downloaded podcast episodes.&lt;/li&gt;
-&lt;li&gt;Under &lt;code&gt;Plugins&lt;/code&gt;, make sure that the &amp;ldquo;Portable Players &amp;ndash; iPod&amp;rdquo; box is
+&lt;li&gt;Under &lt;strong&gt;Plugins&lt;/strong&gt; make sure that the &amp;ldquo;Portable Players &amp;ndash; iPod&amp;rdquo; box is
 checked. By default, it is checked.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;todo&#34;&gt;TODO&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Detect iPod&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Check: &lt;a href=&#34;https://superuser.com/questions/84446/how-to-mount-a-hfs-partition-in-ubuntu-as-read-write&#34;&gt;https://superuser.com/questions/84446/how-to-mount-a-hfs-partition-in-ubuntu-as-read-write&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;plug-the-ipod-in-and-detect-it&#34;&gt;Plug the iPod in and detect it&lt;/h2&gt;
+&lt;p&gt;Plug the iPod in and check under what partition it is by running &lt;code&gt;fdisk&lt;/code&gt;
+with the &lt;code&gt;-l&lt;/code&gt; flag.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# fdisk -l
+
+...
+
+Disk /dev/sdc: 119.19 GiB, 127976345600 bytes, 31244225 sectors
+Disk model: iPod            
+Units: sectors of 1 * 4096 = 4096 bytes
+Sector size (logical/physical): 4096 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In the sample output above, the iPod is under the disk &lt;code&gt;/dev/sdc&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;But we have to be specific. When we run &lt;code&gt;lsblk&lt;/code&gt; we&amp;rsquo;ll notice that there
+are two more partitions within it.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ lsblk
+
+NAME    MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+...
+sdc       8:32   1 119.2G  0 disk
+├─sdc1    8:33   1   248K  0 part
+└─sdc2    8:34   1 119.2G  0 part
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In the sample output above, we can surmise that &lt;code&gt;sdc2&lt;/code&gt; is the more
+relevant block. This is what we will mount to our system.&lt;/p&gt;
+&lt;h2 id=&#34;mounting-the-ipod&#34;&gt;Mounting the iPod&lt;/h2&gt;
+&lt;p&gt;Mounting means attaching the file source&amp;mdash;in this case, the iPod&amp;mdash;to
+the computer. In some Linux distros, including Alpine, physically
+plugging a device in via USB port doesn&amp;rsquo;t necessarily make it available
+to the system, unless we &amp;ldquo;mount&amp;rdquo; it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hierarchical_File_System_(Apple)&#34;&gt;Hierarchical File System&lt;/a&gt; (HFS) is the file system in the iPod. To access it, install &lt;code&gt;hfsprogs&lt;/code&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add hfsprogs
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Then create a mounting point (a directory/folder through which we can
+access the iPod&amp;rsquo;s files):&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# mkdir -p /mnt/ipod
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now, we can mount the iPod to the computer, running this command:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# mount -t hfsplus /dev/sdc2 /mnt/ipod
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To check if it has been properly mounted, run &lt;code&gt;lsblk&lt;/code&gt; and inspect the
+output:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ lsblk
+
+NAME    MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
+...
+sdc       8:32   1 119.2G  0 disk
+├─sdc1    8:33   1   248K  0 part
+└─sdc2    8:34   1 119.2G  0 part /mnt/ipod
+...
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;code&gt;sdc2&lt;/code&gt; (the relevant partition of the iPod) is now mounted to the point we just created, &lt;code&gt;/mnt/ipod&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;success&#34;&gt;Success!&lt;/h2&gt;
+&lt;p&gt;Navigating through the Rhythmbox&amp;rsquo;s GUI, the iPod should show now under &lt;strong&gt;Devices&lt;/strong&gt; on the left sidebar. We can now &lt;strong&gt;Sync&lt;/strong&gt; muzak and, later,
+&lt;strong&gt;Eject&lt;/strong&gt; the iPod.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/rhythmbox.png&#34;
+    alt=&#34;Graphical User Interface of Rhythmbox when an iPod is plugged in, ready for syncing&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Current line up&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;ejecting-unmounting-and-unplugging&#34;&gt;Ejecting, unmounting, and unplugging&lt;/h2&gt;
+&lt;p&gt;Before unplugging, click &lt;strong&gt;Eject&lt;/strong&gt; in the Rhythmbox GUI. Not doing this
+will throw an error when we try to unmount it, saying that device is
+&amp;ldquo;busy&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;When that&amp;rsquo;s done,
+let&amp;rsquo;s go back to the command line and unmount the
+iPod:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# umount /mnt/ipod
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can now safely unplug the iPod.&lt;/p&gt;
 </description>
     </item>
     
@@ -100,6 +175,7 @@ observed on the day itself.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#day-1&#34;&gt;Day 1&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#day-2&#34;&gt;Day 2&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#day-3&#34;&gt;Day 3&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#day-4&#34;&gt;Day 4&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -128,7 +204,7 @@ of some outreach program &amp;ldquo;for the environment&amp;rdquo; or some doubl
 they come up with.&lt;/p&gt;
 &lt;p&gt;No one should have the gall to openly light a cig in the presence of
 non-smokers. (Yes, I mean that in the literal and figurative sense.)
-Inconsiderate moves like that snags the throats of unsuspecting people
+Inconsiderate moves like that snag the throats of unsuspecting people
 akin to lying to them akin to green-lighting the kill order that can
 only be legally executed through capitalist machinery.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -171,6 +247,24 @@ to be an activist, making &lt;a href=&#34;https://ohio.araw.xyz/activism&#34;&gt
 of the State. Neither will I associate myself to any of them nor will I
 ever understand the cunning that, in the end, causes more harm to
 anything and anyone it touches.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;day-4&#34;&gt;Day 4&lt;/h2&gt;
+&lt;p&gt;I look up and is greeted by no more than the asbestos roof, a regular
+material for the type of housing erected for the projects back in the
+50s and 60s. At the time, it is &lt;em&gt;the&lt;/em&gt; specification.&lt;/p&gt;
+&lt;p&gt;Like the rest that came along with it, the house is a regular one. The
+rooms in it are regular, too, with common shapes for rooms that are
+mostly rectangular prisms.&lt;/p&gt;
+&lt;p&gt;We were talking about something ordinary when a half-baked-dream humanoid
+slipped into the room with only a towel around the torso. The
+room we were in is where all the people in the regular house would
+change clothes. Naturally, the humanoid could not do that with us
+occupying it.&lt;/p&gt;
+&lt;p&gt;So, imagine my shock to find them slowly unwrapping the towel in front
+of us, keeping their back to us, and below it, a seamless undergarment
+of light blue-grey tint same to that of the asbestos. Can something be
+so freaky yet so coy&amp;mdash;freak-coy?&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 </description>

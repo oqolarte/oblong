@@ -53,7 +53,7 @@ they come up with.
 
 No one should have the gall to openly light a cig in the presence of
 non-smokers. (Yes, I mean that in the literal and figurative sense.)
-Inconsiderate moves like that snags the throats of unsuspecting people
+Inconsiderate moves like that snag the throats of unsuspecting people
 akin to lying to them akin to green-lighting the kill order that can
 only be legally executed through capitalist machinery.
 
@@ -109,5 +109,28 @@ to be an activist, making [activism](/activism) much worse in the eyes
 of the State. Neither will I associate myself to any of them nor will I
 ever understand the cunning that, in the end, causes more harm to
 anything and anyone it touches.
+
+{{< btt >}}
+
+## Day 4
+
+I look up and is greeted by no more than the asbestos roof, a regular
+material for the type of housing erected for the projects back in the
+50s and 60s. At the time, it is *the* specification.
+
+Like the rest that came along with it, the house is a regular one. The
+rooms in it are regular, too, with common shapes for rooms that are
+mostly rectangular prisms.
+
+We were talking about something ordinary when a half-baked-dream humanoid
+slipped into the room with only a towel around the torso. The
+room we were in is where all the people in the regular house would
+change clothes. Naturally, the humanoid could not do that with us
+occupying it.
+
+So, imagine my shock to find them slowly unwrapping the towel in front
+of us, keeping their back to us, and below it, a seamless undergarment
+of light blue-grey tint same to that of the asbestos. Can something be
+so freaky yet so coy---freak-coy?
 
 {{< btt >}}
