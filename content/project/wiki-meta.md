@@ -46,6 +46,8 @@ let g:vimwiki_list = [{'path': '~/path/to/vimwiki/',
 
 I can now write my notes using `.md`
 
+{{< btt >}}
+
 ## Integration with Hugo
 
 I use the static-site generator, [Hugo](https://gohugo.io) to generate
@@ -78,11 +80,15 @@ To make this easier, I include these lines in my Makefile which includes
 other automation as well. When I run `make build` in my terminal, my
 blog update now includes the latest changes from my wiki.
 
+{{< btt >}}
+
 ## Preparing each note to be Hugo-ready
 
 For this to work, each note must be Hugo-ready. Writing the notes in
 Markdown is already half the work. Next will be adding front matter to
 each note.
+
+{{< btt >}}
 
 ### Front matter
 
@@ -110,6 +116,8 @@ math: false
 As you can see, it's a rather simple script. Feel free to edit to meet
 your front matter needs.
 
+{{< btt >}}
+
 ### Config the `init.vim` to call the script
 
 To automatically call the script, that is, to add the
@@ -125,3 +133,5 @@ front matter on the blank file.
 
 Having front matter in the wiki is helpful because I can set `draft: true` and not
 make a note publicly available yet still accessible to me.
+
+{{< btt >}}

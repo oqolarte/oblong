@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>iPod Classic syncing with Alpine Linux</title>
+      <title>Sync muzak in Alpine Linux with iPod Classic</title>
       <link>https://ohio.araw.xyz/alpod/</link>
       <pubDate>Thu, 03 Oct 2024 03:00:04 +0800</pubDate>
       <author>ohio@araw.xyz (ohio olarte)</author>
@@ -23,58 +23,86 @@ Status:
 &lt;strong&gt;DONE&lt;/strong&gt;
 &lt;/p&gt;
 
-&lt;p&gt;As of writing, &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;I am using Alpine Linux Stable&lt;/a&gt; as my main daily driver.
-So far, it&amp;rsquo;s been great.&lt;/p&gt;
-&lt;p&gt;We have an old &lt;a href=&#34;https://seekers.araw.xyz/repair-ipod/&#34;&gt;iPod Classic from a previous project&lt;/a&gt; that is just sitting unused.&lt;/p&gt;
-&lt;p&gt;This project notes down the steps I have taken so far &lt;strong&gt;to get the music
-library from my Alpine Linux machine into the iPod&lt;/strong&gt;, if at all possible.&lt;/p&gt;
+&lt;p&gt;As of writing, &lt;a href=&#34;https://ohio.araw.xyz/foss&#34;&gt;I am using Alpine Linux stable&lt;/a&gt; as my main daily driver.&lt;/p&gt;
+&lt;p&gt;We have an old &lt;a href=&#34;https://seekers.araw.xyz/repair-ipod/&#34;&gt;iPod Classic (6th Gen) from a previous project&lt;/a&gt; that is just sitting unused.&lt;/p&gt;
+&lt;p&gt;This project lists the steps &lt;strong&gt;to get the music
+library from my Alpine Linux machine into the iPod&lt;/strong&gt;.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
   &lt;details&gt;
   &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#assumptions&#34;&gt;Assumptions&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#install-rhythmbox-for-gui-needs&#34;&gt;Install Rhythmbox for GUI needs&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#install-gfvs&#34;&gt;Install GFVS&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#install-plugins&#34;&gt;Install plugins&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#install-gstreamer-plugins&#34;&gt;Install Gstreamer plugins&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#adjust-preferences-in-rhythmbox&#34;&gt;Adjust Preferences in Rhythmbox&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#plug-the-ipod-in-and-detect-it&#34;&gt;Plug the iPod in and detect it&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#mounting-the-ipod&#34;&gt;Mounting the iPod&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#success&#34;&gt;Success!&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#ejecting-unmounting-and-unplugging&#34;&gt;Ejecting, unmounting, and unplugging&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#appendix&#34;&gt;Appendix&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
 &lt;/div&gt;
 
+&lt;h2 id=&#34;assumptions&#34;&gt;Assumptions&lt;/h2&gt;
+&lt;p&gt;Before we start, I have the following ready:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://apple.fandom.com/wiki/IPod_classic_(6th_generation)&#34;&gt;iPod Classic, 6th Gen&lt;/a&gt;, modded with &lt;a href=&#34;https://www.iflash.xyz&#34;&gt;iFlash Quad adapters&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;128Gb micro SD card&lt;/li&gt;
+&lt;li&gt;Synced previously with iTunes on a Mac&lt;/li&gt;
+&lt;li&gt;Note: I think the steps below would still work on an unmodded iPod
+with its original hard drive.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;iPod&amp;rsquo;s original proprietary cord&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.alpinelinux.org/&#34;&gt;Alpine Linux stable&lt;/a&gt; installed on bare metal
+&lt;ul&gt;
+&lt;li&gt;In it, the entire music library&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;install-rhythmbox-for-gui-needs&#34;&gt;Install Rhythmbox for GUI needs&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add rhythmbox
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Where &lt;code&gt;#&lt;/code&gt; signifies that the command be run as root, i.e., with &lt;code&gt;doas&lt;/code&gt;.
 (On the other hand, &lt;code&gt;$&lt;/code&gt; signifies that a command be run as the user.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;Rhythmbox&lt;/a&gt; is a FOSS-copy of iTunes. It
-helps that it also supports iPod, that is, if the machine can detect the
-device.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;Rhythmbox&lt;/a&gt; is a FOSS-copy of iTunes, which
+means it supports iPod devices.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;install-gfvs&#34;&gt;Install GFVS&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add gvfs
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Rhythmbox needs GNOME Virtual File System (GVFS) backend in order for it
-to detect Apple devices when they are plugged in. Good thing it&amp;rsquo;s in the
-packages and can be installed easily:&lt;/p&gt;
-&lt;h2 id=&#34;install-plugins&#34;&gt;Install plugins&lt;/h2&gt;
+to detect Apple devices when they are plugged in.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;install-gstreamer-plugins&#34;&gt;Install Gstreamer plugins&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add gstreamer gst-plugins-good
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;These install plugins for
-&lt;a href=&#34;https://github.com/GStreamer/gst-plugins-good&#34;&gt;Gstreamer&lt;/a&gt;, a framework
-for streaming media, that would allow Rhythmbox to scan your
-library and import music from it.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/GStreamer/gst-plugins-good&#34;&gt;Gstreamer&lt;/a&gt; is a
+framework for streaming media that would allow Rhythmbox, among other
+things, to scan your
+library and import music from it during first setup.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;adjust-preferences-in-rhythmbox&#34;&gt;Adjust Preferences in Rhythmbox&lt;/h2&gt;
-&lt;p&gt;Be sure to adjust &lt;strong&gt;Preferences&lt;/strong&gt; like:&lt;/p&gt;
+&lt;p&gt;In the Rhythmbox, be sure to adjust &lt;strong&gt;Preferences&lt;/strong&gt; like:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Pointing to your music library and other audio files, including
-downloaded podcast episodes.&lt;/li&gt;
+downloaded podcast episodes if you want.&lt;/li&gt;
 &lt;li&gt;Under &lt;strong&gt;Plugins&lt;/strong&gt; make sure that the &amp;ldquo;Portable Players &amp;ndash; iPod&amp;rdquo; box is
 checked. By default, it is checked.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;plug-the-ipod-in-and-detect-it&#34;&gt;Plug the iPod in and detect it&lt;/h2&gt;
-&lt;p&gt;Plug the iPod in and check under what partition it is by running &lt;code&gt;fdisk&lt;/code&gt;
+&lt;p&gt;&lt;strong&gt;Plug the iPod in&lt;/strong&gt;. If you check Rhythmbox, it won&amp;rsquo;t appear there yet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Check the partition by running&lt;/strong&gt; &lt;code&gt;fdisk&lt;/code&gt;
 with the &lt;code&gt;-l&lt;/code&gt; flag.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# fdisk -l
 
@@ -88,7 +116,7 @@ I/O size (minimum/optimal): 4096 bytes / 4096 bytes
 
 ...
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In the sample output above, the iPod is under the disk &lt;code&gt;/dev/sdc&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;But we have to be specific. When we run &lt;code&gt;lsblk&lt;/code&gt; we&amp;rsquo;ll notice that there
+&lt;p&gt;But we have to be specific. When we &lt;strong&gt;run&lt;/strong&gt; &lt;code&gt;lsblk&lt;/code&gt; we&amp;rsquo;ll notice that there
 are two more partitions within it.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ lsblk
 
@@ -99,20 +127,26 @@ sdc       8:32   1 119.2G  0 disk
 └─sdc2    8:34   1 119.2G  0 part
 ...
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In the sample output above, we can surmise that &lt;code&gt;sdc2&lt;/code&gt; is the more
-relevant block. This is what we will mount to our system.&lt;/p&gt;
+relevant block, because its size is significantly larger than &lt;code&gt;sdc1&lt;/code&gt;.
+This is what we will mount to our system.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;mounting-the-ipod&#34;&gt;Mounting the iPod&lt;/h2&gt;
-&lt;p&gt;Mounting means attaching the file source&amp;mdash;in this case, the iPod&amp;mdash;to
-the computer. In some Linux distros, including Alpine, physically
-plugging a device in via USB port doesn&amp;rsquo;t necessarily make it available
-to the system, unless we &amp;ldquo;mount&amp;rdquo; it.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hierarchical_File_System_(Apple)&#34;&gt;Hierarchical File System&lt;/a&gt; (HFS) is the file system in the iPod. To access it, install &lt;code&gt;hfsprogs&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Mounting means attaching the file system of a device&amp;mdash;in this case, the
+iPod&amp;mdash;to the computer. As we have noticed in some Linux distros,
+including Alpine, physically plugging a device in via USB port doesn&amp;rsquo;t
+necessarily make it available to the system, unless we &amp;ldquo;mount&amp;rdquo; it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Hierarchical_File_System_(Apple)&#34;&gt;Hierarchical File System&lt;/a&gt; (HFS) is the file system in the iPod. To access it, we can get Apple&amp;rsquo;s needed utilities by &lt;strong&gt;installing&lt;/strong&gt; &lt;code&gt;hfsprogs&lt;/code&gt;:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# apk add hfsprogs
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Then create a mounting point (a directory/folder through which we can
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Then &lt;strong&gt;create a mounting point&lt;/strong&gt; (a directory through which the computer can
 access the iPod&amp;rsquo;s files):&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# mkdir -p /mnt/ipod
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now, we can mount the iPod to the computer, running this command:&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now, we can &lt;strong&gt;mount the iPod&lt;/strong&gt; to the computer, running this command:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# mount -t hfsplus /dev/sdc2 /mnt/ipod
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;To check if it has been properly mounted, run &lt;code&gt;lsblk&lt;/code&gt; and inspect the
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The command above means that we are mounting the iPod (&lt;code&gt;/dev/sdc2&lt;/code&gt;) to
+our mounting point (&lt;code&gt;/mnt/ipod&lt;/code&gt;), specifying that the file system is
+Apple&amp;rsquo;s HFS (&lt;code&gt;-t hfsplus&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;To check if it has been properly mounted, run &lt;code&gt;lsblk&lt;/code&gt; and inspect the
 output:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ lsblk
 
@@ -123,24 +157,59 @@ sdc       8:32   1 119.2G  0 disk
 └─sdc2    8:34   1 119.2G  0 part /mnt/ipod
 ...
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;code&gt;sdc2&lt;/code&gt; (the relevant partition of the iPod) is now mounted to the point we just created, &lt;code&gt;/mnt/ipod&lt;/code&gt;&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;success&#34;&gt;Success!&lt;/h2&gt;
-&lt;p&gt;Navigating through the Rhythmbox&amp;rsquo;s GUI, the iPod should show now under &lt;strong&gt;Devices&lt;/strong&gt; on the left sidebar. We can now &lt;strong&gt;Sync&lt;/strong&gt; muzak and, later,
+&lt;p&gt;Navigating through the Rhythmbox&amp;rsquo;s GUI, the iPod should be shown now under
+&lt;strong&gt;Devices&lt;/strong&gt; on the left sidebar. We can now &lt;strong&gt;Sync&lt;/strong&gt; music (and/or
+podcasts) and, later,
 &lt;strong&gt;Eject&lt;/strong&gt; the iPod.&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/rhythmbox.png&#34;
     alt=&#34;Graphical User Interface of Rhythmbox when an iPod is plugged in, ready for syncing&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Current line up&lt;/p&gt;
+      &lt;p&gt;Current line up; name of iPod redacted&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;WARNING&lt;/strong&gt;: When syncing, the music in the Linux machine &lt;em&gt;will replace&lt;/em&gt;
+any existing music in the iPod. I haven&amp;rsquo;t found a way to transfer the
+existing songs in the iPod to the Linux machine, and I&amp;rsquo;m not sure if
+it&amp;rsquo;s even possible, but that is outside the scope of this post.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;ejecting-unmounting-and-unplugging&#34;&gt;Ejecting, unmounting, and unplugging&lt;/h2&gt;
 &lt;p&gt;Before unplugging, click &lt;strong&gt;Eject&lt;/strong&gt; in the Rhythmbox GUI. Not doing this
 will throw an error when we try to unmount it, saying that device is
 &amp;ldquo;busy&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;When that&amp;rsquo;s done,
-let&amp;rsquo;s go back to the command line and unmount the
-iPod:&lt;/p&gt;
+let&amp;rsquo;s go back to the command line and &lt;strong&gt;unmount the iPod&lt;/strong&gt;:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# umount /mnt/ipod
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;You can now safely unplug the iPod.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;appendix&#34;&gt;Appendix&lt;/h2&gt;
+&lt;p&gt;&amp;hellip; or, possible avenues to explore in the future:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you have your old music in an Apple Mac[book], you can sync it
+first with the Linux machine using an app like
+&lt;a href=&#34;https://syncthing.net&#34;&gt;Syncthing&lt;/a&gt;, a cross-platform file
+synchronization program. This way, you don&amp;rsquo;t wipe out the existing
+songs in your iPod when you sync it with the Linux machine following
+the steps above.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s possible to replace the iPod&amp;rsquo;s stock firmware with
+&lt;a href=&#34;https://www.rockbox.org/&#34;&gt;Rockbox&lt;/a&gt;, a FOSS replacement firmware for
+music players with iPod support. Rockbox also removes Apple&amp;rsquo;s
+limitation on the memory limit. So, if for example you have an iFlash Quad
+adapter, with each of the slots mounted with, say, 128 Gb micro SD
+card, you now have access to ~512 Gb worth of memory. Imagine the
+number of legally obtained songs and albums that can fit in that space!&lt;/li&gt;
+&lt;li&gt;Aside from Rhythmbox, there are other music players that supposedly
+have support for iPods. Briefly, I played with
+&lt;a href=&#34;https://www.strawberrymusicplayer.org/&#34;&gt;Strawberry Music Player&lt;/a&gt; which looks
+promising, but haven&amp;rsquo;t had the chance to actually use it to sync music
+with iPod.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 </description>
     </item>
     
@@ -176,6 +245,7 @@ observed on the day itself.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#day-2&#34;&gt;Day 2&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#day-3&#34;&gt;Day 3&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#day-4&#34;&gt;Day 4&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#day-5&#34;&gt;Day 5&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -267,6 +337,19 @@ of light blue-grey tint same to that of the asbestos. Can something be
 so freaky yet so coy&amp;mdash;freak-coy?&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
+&lt;h2 id=&#34;day-5&#34;&gt;Day 5&lt;/h2&gt;
+&lt;p&gt;Is it effective to use big words to wow an audience?&lt;/p&gt;
+&lt;p&gt;Maybe, if the goal is to have their identities fragment into many silly,
+little things, which in turn fragment into smaller bits, and on and on,
+until they are practically invisible.&lt;/p&gt;
+&lt;p&gt;You are about to speak. The audience in front of you waits. You open
+your mouth and say, &amp;ldquo;The hypervolatility of human consciousness stirs
+within me a desire to implement steps to take myself to ascendancy.&amp;rdquo; But
+there&amp;rsquo;s no one there to make sense of what you uttered.&lt;/p&gt;
+&lt;p&gt;This is how I fade, maybe: the beauty of passing time gradually becoming
+too much that starts crack&amp;hellip;&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 </description>
     </item>
     
@@ -325,6 +408,8 @@ following snippet:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;let g:vimwiki_list = [{&amp;#39;path&amp;#39;: &amp;#39;~/path/to/vimwiki/&amp;#39;,
                       \ &amp;#39;syntax&amp;#39;: &amp;#39;markdown&amp;#39;, &amp;#39;ext&amp;#39;: &amp;#39;.md&amp;#39;}]
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I can now write my notes using &lt;code&gt;.md&lt;/code&gt;&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;integration-with-hugo&#34;&gt;Integration with Hugo&lt;/h2&gt;
 &lt;p&gt;I use the static-site generator, &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; to generate
 the HTML files of this blog.&lt;/p&gt;
@@ -344,10 +429,14 @@ of having two index files, one from Vimwiki, and one from Hugo build.&lt;/p&gt;
 &lt;p&gt;To make this easier, I include these lines in my Makefile which includes
 other automation as well. When I run &lt;code&gt;make build&lt;/code&gt; in my terminal, my
 blog update now includes the latest changes from my wiki.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;preparing-each-note-to-be-hugo-ready&#34;&gt;Preparing each note to be Hugo-ready&lt;/h2&gt;
 &lt;p&gt;For this to work, each note must be Hugo-ready. Writing the notes in
 Markdown is already half the work. Next will be adding front matter to
 each note.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;front-matter&#34;&gt;Front matter&lt;/h3&gt;
 &lt;p&gt;According to Hugo&amp;rsquo;s docs, &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;&gt;front matter&lt;/a&gt; is the
 metadata of the file, containing, for example, title, tags, description,
@@ -367,6 +456,8 @@ math: false
 ---&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;As you can see, it&amp;rsquo;s a rather simple script. Feel free to edit to meet
 your front matter needs.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;config-the-initvim-to-call-the-script&#34;&gt;Config the &lt;code&gt;init.vim&lt;/code&gt; to call the script&lt;/h3&gt;
 &lt;p&gt;To automatically call the script, that is, to add the
 front matter, add this line below to your vim &lt;code&gt;init.vim&lt;/code&gt;.&lt;/p&gt;
@@ -376,6 +467,8 @@ folder, &lt;code&gt;gen-wiki-template&lt;/code&gt; script is run. The script jus
 front matter on the blank file.&lt;/p&gt;
 &lt;p&gt;Having front matter in the wiki is helpful because I can set &lt;code&gt;draft: true&lt;/code&gt; and not
 make a note publicly available yet still accessible to me.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 </description>
     </item>
     

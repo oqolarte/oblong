@@ -134,3 +134,21 @@ of light blue-grey tint same to that of the asbestos. Can something be
 so freaky yet so coy---freak-coy?
 
 {{< btt >}}
+
+## Day 5
+
+Is it effective to use big words to wow an audience?
+
+Maybe, if the goal is to have their identities fragment into many silly,
+little things, which in turn fragment into smaller bits, and on and on,
+until they are practically invisible.
+
+You are about to speak. The audience in front of you waits. You open
+your mouth and say, "The hypervolatility of human consciousness stirs
+within me a desire to implement steps to take myself to ascendancy." But
+there's no one there to make sense of what you uttered.
+
+This is how I fade, maybe: the beauty of passing time gradually becoming
+too much that starts crack...
+
+{{< btt >}}
