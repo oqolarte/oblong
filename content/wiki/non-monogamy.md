@@ -6,10 +6,10 @@ draft: false
 
 In a society of jealousy and ownership,
 non-monogamy challenges assumptions
-on intimate relationships---romantic, sexual,
+on intimate relationships---romantic, [sexual](/sex),
 and everything [in between](/friendship) and [beyond](/community).
 
-Do we love more than our friends/loved ones?
+[Do we love more than our friends/loved ones](/love)?
 And do we take care of more than the people we love?
 If the answer is "no one"
 then it might well be [revolutionary love](/revolution).

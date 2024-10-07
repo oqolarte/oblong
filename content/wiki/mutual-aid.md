@@ -1,5 +1,5 @@
 ---
-title: "On Mutual Aid"
+title: "On Mutual aid"
 date: 2022-08-15
 draft: false
 ---

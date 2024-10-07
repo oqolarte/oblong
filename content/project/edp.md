@@ -152,3 +152,15 @@ This is how I fade, maybe: the beauty of passing time gradually becoming
 too much that starts crack...
 
 {{< btt >}}
+
+## Day 6
+
+Getting out of comfort zone does not mean going out of the corners of
+the...house just to wallow in the normalcy established by the esteemed
+members of society.
+
+Staying in it does not also mean being on the receiving end of someone's
+trauma dump. That is not how I bond with anyone at all. But given the
+looming crises, I can forgive that...sometimes.
+
+{{< btt >}}

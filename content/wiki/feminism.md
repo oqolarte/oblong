@@ -47,3 +47,12 @@ between clitorises and penises.
 > cultural or religious differences among students.
 >
 > -- Aïsha Kanters
+
+## Feminist men
+
+"Feminist" men should still do the emotional labor in keeping the
+relationships healthy, and not just delegate this task to other non-men.
+
+Are feminist men, when they decided to not turn to macho men, remained
+as "boys", not maturing emotionally? We can develop emotional
+intelligence, and NOT have to turn to machismo for identity!

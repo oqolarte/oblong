@@ -89,7 +89,7 @@ In an increasingly consumerist society where buying new is rewarded with
 feel-good sensations, repairing broken things to reuse and repurpose,
 then, becomes a radical act.
 
-[Stéphane Arditi](https://eeb.org/eeb-staff/stephane-arditi/) said:
+Stéphane Arditi said:
 
 > Small independent repairers can make a great contribution to the
 > economy and our society.

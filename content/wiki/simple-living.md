@@ -40,5 +40,3 @@ RSS feed readers, etc.
 - Ditch TV.
 
 [On a planet of finite, degraded and depleted natural resources, the ecology of wanking is an ethos whose time has come.](https://aeon.co/essays/from-the-cynics-self-sufficiency-to-an-ecology-of-wanking)
-
-

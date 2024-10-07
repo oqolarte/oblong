@@ -28,7 +28,7 @@ I read slowly, you might notice.
 | Eleven Minutes                                                                                          | Paulo Coelho                               |
 | Never Let Me Go                                                                                         | Kazuo Ishiguro                             |
 | Beatrice and Virgil                                                                                     | Yann Martel                                |
-| Antifragile                                                                                             | Nicholas Nassim Taleb                      |
+| [Antifragile](/antifragile)                                                                             | Nicholas Nassim Taleb                      |
 | Fight Club                                                                                              | Chuck Palahniuk                            |
 | Little Book of Speeches                                                                                 | Lourd de Veyra                             |
 | V for Vendetta                                                                                          | Alan Moore, David Lloyd                    |
@@ -52,9 +52,10 @@ I read slowly, you might notice.
 | [The Man Without Talent](/148/#brief-review-of-the-man-without-talent) (無能の人)                       | Yoshiharu Tsuge 柘植義春                   |
 | [The Philippines Is Not A Small Country](/149/#brief-review-of-the-philippines-is-not-a-small-country)  | Gideon Lasco                               |
 | [Some People Need Killing](/151/#brief-review-of-some-people-need-killing)                              | Patricia Evangelista                       |
-| Repair Revolution                                                                                       | John Wackman & Elizabeth Knight            |
+| [Repair Revolution](/repair)                                                                 | John Wackman & Elizabeth Knight            |
 | [The Left Hand of Darkness](/171)                                                                       | Ursula K. Le Guin                          |
 | [Do Androids Dream of Electric Sheep?](/194)                                                            | Philip K. Dick                             |
 | [Joyful Militancy](/joyful-militancy): Building Thriving Resistance in Toxic Times                      | Nick Montgomery and carla bergman          |
 | [Blessed is the Flame](/nihilism/#jouissance)                                                           | Serafinski                                 |
 | [EXPECT RESISTANCE](/208/#brief-review-of-expect-resistance)                                            | [CrimethInc](https://crimethinc.com/)      |
+| [All About Love: New Visions](/love)                                                                    | bell hooks                                 |

@@ -17,6 +17,7 @@ reference from which to learn.
 - [counter-insurgency](/counter-insurgency)
 - [feminism](/feminism)
 - [friendship](/friendship)
+- [love](/love)
 - [mutual aid](/mutual-aid)
 - [pedagogy](/pedagogy)
 - [prefiguration](/prefiguration)

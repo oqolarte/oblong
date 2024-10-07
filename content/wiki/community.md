@@ -19,7 +19,23 @@ together.
 What are we capable of doing individually? Collectively? We won't know
 until we try and try again.
 
-It won't be easy. People naturally have different experiences
+Privatized patriarchal nuclear family is an expensive way to live.
+Sharing resources with the community always has been te norm in many
+societies around the world. Research by anthropologists and sociologists
+indicates that privatized units (e.g., families) are unhealthy for
+everyone.
+
+Atomizing of spaces such that being an individual, or worse, being
+alone, is highly preferred over socializing leaves many people
+susceptible to emotional pain.
+
+Selfishness causes [romantic] relationships fail. It might also be the
+cause why other relationships with communities fail. When we only think
+of ourselves, society crumbles. One way to reverse this is
+[to be generous in sharing what we have.](/mutual-aid)
+
+It won't be easy, reintegrating "back to our communities."
+People naturally have different experiences
 that may clash with other perspectives. Working well within the
 community means working with these differences, facing them head on
 whenever possible instead of avoiding them altogether. This means a lot
