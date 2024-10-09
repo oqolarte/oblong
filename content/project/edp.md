@@ -164,3 +164,37 @@ trauma dump. That is not how I bond with anyone at all. But given the
 looming crises, I can forgive that...sometimes.
 
 {{< btt >}}
+
+## Day 7
+
+Before lunchtime, I was back from a hot ride through this boring
+dystopia, where the ads look like stills from a *Black Mirror* episode
+shot in a global south nation. I can almost see the yellow tint if it
+weren't for the sunglasses I was wearing.
+
+Sometimes it's cool to have this kind of outlook in life. Aren't we
+languishing in it?
+
+People crave attention. You can hear it from the incessant blowing of
+horns when something is blocking their way that they can't just drive
+around it. This is not our purpose, though. I don't know what is, but
+maybe starting with being kind to yourself is a good baby step.
+
+{{< btt >}}
+
+## Day 8
+
+I wait for day end suspended on an almost-corner in an event hall within
+a fast food joint. There are tens of other people looking at the person
+in front of them, who tells them the importance of what they have
+already known but neglected to implement while on the job. Otherwise, we
+would not be doing this.
+
+As I wait, I pass the time not knowing when to hope or hop, the latter I
+could not do without a trigger of happiness or a burst of tunes.
+
+At one point, the person in front talks to me about my decision. I tell
+them it's final, but I thank them, because I am polite like that, for
+looking into it.
+
+{{< btt >}}
