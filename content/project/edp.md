@@ -198,3 +198,19 @@ them it's final, but I thank them, because I am polite like that, for
 looking into it.
 
 {{< btt >}}
+
+## Day 9
+
+When we go outside, what do we see?
+
+There is that avocado tree waiting for its right moment again to have
+bearing fruits. One of its huge branches is slowly dying, becoming food
+for the urban bugs lucky enough to still find some flora.
+
+There is the daily rain that cannot wash all the seedy things inside of
+people. But it can try.
+
+In the event that I can no longer see anything, I wonder what that day
+would like.
+
+{{< btt >}}
