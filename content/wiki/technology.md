@@ -28,6 +28,7 @@ In fact, one could argue the complexity of solution is
 [inversely proportional](https://www.schneier.com/essays/archives/1999/11/a_plea_for_simplicit.html) to
 the one's comprehension of the problem,
 which is especially true in the context of [security](/security).
+Not all things that could exist should exist!
 
 BUT!
 Not all problems are technical problems.

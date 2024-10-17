@@ -1,5 +1,5 @@
 ---
-title: "On Patriarchy"
+title: "On patriarchy"
 date: 2024-01-19
 draft: false
 ---

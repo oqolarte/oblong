@@ -214,3 +214,40 @@ In the event that I can no longer see anything, I wonder what that day
 would like.
 
 {{< btt >}}
+
+## Day 10
+
+In a certain group chat that I feel invisible in, the people there are
+talking about something related to a Christmas presentation. Per
+tradition, all new hires will be the unwilling jesters. If you're
+corporate slave in the place where I live, you'll know the bane of
+having been literally coerced to perform in front of what practically are
+strangers.
+
+And one of the most common reasons the management team peddles for
+enforcing this is, of course, "collaboration". If the higher ups really
+are keen on having us collaborate, then can we please start a union?
+
+No?
+
+That's what I thought.
+
+I have been lucky (or cunning, depending on your beliefs) enough to manage to evade these kinds of office
+bullshit that adds no value to my personal well-being, more so in my
+quest to leave the workforce flying as soon as possible.
+
+{{< btt >}}
+
+## Day 11
+
+Not being exposed to the benefits of traveling early on life because of
+limited resources and our family's financial capabilities at the time, I
+wonder if it---it, meaning being tethered to home until my
+adulthood---had a significant effect on me, and how I am not as excited
+as many people when it comes to going to places, familiar or otherwise,
+even though I have the means to do so right now?
+
+I wonder if traveling is such a bourgeoisie thing, a concept that's not
+supposed to be hard to grasp.
+
+{{< btt >}}

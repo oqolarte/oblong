@@ -42,14 +42,12 @@ Whenever I can, I make, fix, and/or repair stuff.
 The wishlist below hopefully reflects that.
 Please email me first if you plan to give me any of these.
 
-- New 6- or 9-cell battery for Thinkpad X220/X230
 - Single-board computer (any model), used and in good working condition[^used]
 - E-book reader, used and in good working condition
-- Mechanical keyboard, 75% or 80% (tenkeyless, TKL)
 - Chain mail[^chain]
 - Canon Powershot G7x Mark II
 - Typewriter in working condition, preferably the portable kind
-- Multitool: Victorinox Swiss Compact or SOG PowerPint
+- 3D printer
 
 [^1]: *Limós* is the root of this Tagalog word, meaning "alms".
 From [Tagalog Lang](https://www.tagaloglang.com/palimos/): In the Philippines, it is common for street children to approach strangers and say, “Palimos po.”

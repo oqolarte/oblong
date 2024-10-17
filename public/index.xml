@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Sun, 13 Oct 2024 01:02:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 04:59:12 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -358,7 +358,8 @@ Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;li&gt;Back-up/File Sync: &lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Instant messaging: &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;RSS Feed reader: &lt;a href=&#34;https://codeberg.org/newsraft/newsraft&#34;&gt;newsraft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Music player: &lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;rhythmbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Music player: &lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;Rhythmbox&lt;/a&gt; (laptop); &lt;a href=&#34;https://github.com/OxygenCobalt/Auxio&#34;&gt;Auxio&lt;/a&gt;
+(Android)&lt;/li&gt;
 &lt;li&gt;Video player: &lt;a href=&#34;https://mpv.io&#34;&gt;mpv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Notes: &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;vimwiki&lt;/a&gt; plugged into &lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; (also my &lt;code&gt;$EDITOR&lt;/code&gt; of choice)&lt;/li&gt;
 &lt;li&gt;Office suite: &lt;a href=&#34;https://www.libreoffice.org&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
@@ -584,14 +585,12 @@ my inbox welcomes those as well.&lt;/p&gt;
 &lt;p&gt;The wishlist below hopefully reflects that.
 Please email me first if you plan to give me any of these.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;New 6- or 9-cell battery for Thinkpad X220/X230&lt;/li&gt;
 &lt;li&gt;Single-board computer (any model), used and in good working condition&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;li&gt;E-book reader, used and in good working condition&lt;/li&gt;
-&lt;li&gt;Mechanical keyboard, 75% or 80% (tenkeyless, TKL)&lt;/li&gt;
 &lt;li&gt;Chain mail&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
 &lt;li&gt;Canon Powershot G7x Mark II&lt;/li&gt;
 &lt;li&gt;Typewriter in working condition, preferably the portable kind&lt;/li&gt;
-&lt;li&gt;Multitool: Victorinox Swiss Compact or SOG PowerPint&lt;/li&gt;
+&lt;li&gt;3D printer&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;

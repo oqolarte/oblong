@@ -1,5 +1,5 @@
 ---
-title: "Makefile Template"
+title: "Makefile template"
 date: 2024-01-03
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Output Feedback (OFB)"
+title: "Output feedback (OFB)"
 date: 2024-01-22
 draft: false
 math: true
