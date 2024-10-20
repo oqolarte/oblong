@@ -9,7 +9,6 @@ interact. Unlike televisions, what the screen monitor would show would
 depend on what I type on the keyboard, and what I click with the mouse.
 I can interact with the machine thanks to its [operating system](/OS).
 
-
 ## Laptops
 
 Laptops are portable computers, with clamshell-like form factor.

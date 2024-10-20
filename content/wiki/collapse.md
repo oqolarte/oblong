@@ -8,7 +8,8 @@ We have a climate crisis.
 But people in power---[capitalists](/capitalism), states, [empires](/empire)---seemingly
 have no interest in preserving a healthy environment for us all.
 
-We're fast approaching collapse.
+Either we're fast approaching collapse, or it has already begun and
+we're in a slow but unending downward spiral.
 
 ## What is collapse?
 
@@ -16,7 +17,7 @@ Collapse, in this context,
 refers to the significant loss of an established level
 or complexity towards a much simpler state.
 It can occur differently within many areas,
-most likely chaotically,
+most likely [chaotically](/chaos),
 and be willing or unwilling.
 It does not necessarily mean extinction or a singular, global event.
 In fact, many believe a more accurate depiction would be

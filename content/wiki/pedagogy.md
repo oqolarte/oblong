@@ -70,6 +70,16 @@ didn't factor in the complexity of human behavior, in my opinion.
 STEM (Science, [Technology](/technology), [Engineering](/engineering), [Math](/math)) education that I went through had
 felt separated from real world examples.
 
+Alberto Muyot, CEO of Save the Children Philippines, said on the role of
+teachers in the AI era:
+
+> I think that [AI](/ai) is really the way to go.
+> And the role of the teacher will now have to be redefined....
+> And that would be to promote [critical thinking](/being-critical).
+> AI is a good tool (sic), but teachers should now look at the
+> themselves not only as the repository of knowledge as it was before,
+> but that they're the facilitator for critical thinking.
+
 ## Math Education
 
 Consider the Math problem below.
