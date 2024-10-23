@@ -19,7 +19,7 @@ activity data and perform behavioral analysis by using
 [artificial intelligence](/ai) to identify threat
 patterns happening on an endpoint.
 
-### Popular EDR tools
+## Popular EDR tools
 
 - Open EDR®
 - Bitdefender™ Endpoint Detection and Response

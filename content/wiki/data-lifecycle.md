@@ -36,9 +36,15 @@ people. Data governance policies commonly categorize individuals into a
 specific role:
 
 - **Data owner**: the person that decides who can access, edit, use, or
-  destroy their information.
+  destroy their information. Data owners have administrative control
+  over specific information hardware or software and are accountable for
+  the classification, protection, access, and use of organization's
+  data.
 - **Data custodian**: anyone or anything that's responsible for the safe
-  handling, transport, and storage of information.
+  handling, transport, and storage of information. Custodians are
+  responsible for implementing [security controls](/security-controls)
+  for the data they are responsible for, granting and revoking access to
+  that data.
 - **Data steward**: the person or group that maintains and implements
   data governance policies set by an organization.
 

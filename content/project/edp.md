@@ -251,3 +251,43 @@ I wonder if traveling is such a bourgeoisie thing, a concept that's not
 supposed to be hard to grasp.
 
 {{< btt >}}
+
+## Day 12
+
+I can't remember the last time I examined myself for the feelings that
+consistently derail me on a regular basis. For example, why am I always
+angry? I fluctuate within its spectrum, but I can't seem to get out of
+it. Most days, I'm a functioning "madman" similar to Dr. Banner
+on that first *Avengers* movie, in which, as a response to what is
+essentially a rage bait,
+he says, "I'm always angry," before transforming pronto into his
+Hulk alter-ego to give an oncoming alien ship the only fisting it needed.
+
+Always mad at something. Is it because it's inescapable? is it because
+beneath the sheen of yet another oil spill, below the rubble of another
+death strike from heavens, under the surface of split-second boiling
+blood, there had been lives---and within each, ten thousand more
+possibilities---that could have flourished if only they had the chance
+to choose it?
+
+{{< btt >}}
+
+## Day 13
+
+My partner survives the daily dread of yearning for truth to come out.
+Not as a surprise, because we both dislike surprises when it comes to
+heavy-hitting stuff; but as a gentle reminder that there is still good
+in the spaces we line up for.
+And I would like to think that I am there for them, especially in those
+quiet moments when waves are most deafening---for both of us, really.
+
+They look out of the sky, then to their phone, then back to the sky---my
+own weather worrier within reach---and could not help but belt out the
+swirling things those black clouds bring. My own enlightenment
+enthusiast, both escaping and entering the void with me, not as a hobby
+but as an everyday habit. I tell them to not worry too much, a
+privileged thing to say, I admit, more so now that we are becoming aware
+of the devastation that this Typhoon Kristine brings. But what else is
+there but to offer a sense of comfort?
+
+{{< btt >}}

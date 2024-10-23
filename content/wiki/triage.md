@@ -6,8 +6,9 @@ math: false
 ---
 
 Incidents can have the potential to cause significant damage to an
-organization. [Security teams must respond quickly and
-efficiently](/security) to prevent or limit the impact of an incident.
+organization.
+[Security teams must respond quickly and efficiently](/security)
+to prevent or limit the impact of an incident.
 **Triage** is the prioritizing of incidents according to their level of
 importance or urgency.
 

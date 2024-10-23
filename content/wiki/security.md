@@ -11,11 +11,13 @@ hardware---can introduce unexpected vulnerabilties. And decisions we
 make based on our own abilities to "enhance" security can be
 ineffective.
 
-Security Mindset encourages a different way of looking at the world
-around us: to get into the thinking of a [would-be bad actor](/threat-actor) and how can
-the current systems, [including digital systems](/cybersecurity), in
-place be exploited; to question the norms and assumptions. For example,
-how can we better talk to each other in private?
+Security Mindset is the ability to evaluate risk and constantly seek out
+and identify the potential or actual breach of a system. It encourages a
+different way of looking at the world around us: to get into the
+thinking of a [would-be bad actor](/threat-actor) and how can the
+current systems, [including digital systems](/cybersecurity), in place
+be exploited; to question the norms and assumptions. For example, how
+can we better talk to each other in private?
 
 By trying to identify a system's weaknesses, we get closer at making it
 more secure. Teaching designers how a system might fail is just as

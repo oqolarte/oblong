@@ -46,7 +46,7 @@ is**, **who owns it**, and **how important it is**.
 
 - **Public**: are assets that have no negative consequences to the
   organization if they are released.
-- **Internal-only**: describes assets that are available to employees
+- **Private**: describes assets that are available to employees
   and business partners.
 - **Confidential**: refers to assets whose disclosure may lead to a
   significant negative impact on an organization.
@@ -71,3 +71,13 @@ addressed to you in the mail. The letter contains some public
 information that’s okay to share, like your name. It also contains
 fairly confidential pieces of information that you’d rather only be
 available to certain people, like your address.
+
+## Information lifecycle strategy
+
+1. Identify important assets of the organization, including personal
+   identifiable information (PII), financial information, etc.
+2. [Assess the security measures](/vulnerability-scanning) in place to
+   protect the assets.
+3. Protect identified assets of the organization.
+4. Monitor the security processes that have been implemented to protect
+   the organization's assets.

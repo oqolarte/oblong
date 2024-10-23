@@ -4,7 +4,12 @@ date: 2023-02-05
 draft: false
 ---
 
-Autonomation describes a feature of machine [design](/design)
+Automation is the use of [technology](/technology) to reduce human and manual effort to
+perform common and repetitive tasks.
+In [computing](/computer), this can be achieved with the use of [Python](/python) progamming
+language.
+
+**Autonomation**, on the other hand, describes a feature of machine [design](/design)
 to effect the principle of jidoka (自働化)（じどうか jidouka),
 used in the Toyota Production System (TPS) and lean manufacturing,
 sometimes described as "automation with a human touch".
