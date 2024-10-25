@@ -7,6 +7,8 @@ draft: false
 My background in teaching has been informal,
 limited to tutoring a family member and some former classmates.
 I'm not good at it.
+But, I am always curious and loves to explore things that fascinate me
+in whatever way, if only I had the resources.
 So, I try to [learn from the teachers on how they teach](/academy).
 
 ## Radical Education

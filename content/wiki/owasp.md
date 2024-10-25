@@ -13,10 +13,10 @@ focused on securing the web.
 
 ## OWASP Top 10
 
-[The Top 10](https://owasp.org/www-project-top-ten/) mainly applies to new or custom made software. Many of the
-world's largest organizations reference the OWASP Top 10 during
-application development to help ensure their programs address common
-security mistakes.
+[The Top 10](https://owasp.org/www-project-top-ten/) mainly applies to
+new or custom made software. Many of the world's largest organizations
+reference the OWASP Top 10 during application development to help ensure
+their programs address common security mistakes.
 
 **Pro tip**: OWASP’s Top 10 is updated every few years as technologies
 evolve. Rankings are based on how often the vulnerabilities are

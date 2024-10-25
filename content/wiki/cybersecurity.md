@@ -1,5 +1,5 @@
 ---
-title: "On Cybersecurity"
+title: "Cybersecurity"
 date: 2023-08-21
 draft: false
 ---

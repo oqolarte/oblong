@@ -25,6 +25,17 @@ observed on the day itself.
 
 {{< toc >}}
 
+## Day 0
+
+I want to know when to act or not act, and have the wisdom
+to know which would matter more&#8212;to me, my friends and family, and to the
+communities of which I'm part. In all of the timelines that have
+converged and diverged, only Now is left. All beautiful places have been
+created and destroyed; we remain Here. In the world where we pass, how else do
+we go but on?
+
+{{< btt >}}
+
 ## Day 1
 
 Someone is smoking. It is so familiar yet so offensive. I have grown to
