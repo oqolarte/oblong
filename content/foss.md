@@ -11,7 +11,7 @@ draft: false
 
 - Operating System: [Alpine Linux v3.20 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
-- Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mull](https://gitlab.com/divested-mobile/mull-fenix) (Android)
+- Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mulch](https://divestos.org/pages/our_apps#mulch) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
       Rural Dictionary, rimgo, Quetre)
@@ -36,10 +36,8 @@ draft: false
 ## Special Mentions
 
 - [Fedora Workstation](https://getfedora.org/en/workstation/) -- The
-  first Linux distro I used. GNOME desktop environment was easy to
-  learn. But i3 tiling window manager made more sense to use.
-- [OpenBSD](https://www.openbsd.org/) -- The one I used in [the Old
-  Computer Challenge](/old-computer)
+  first Linux distro I used. Also currently using the [Budgie Spin](https://fedoraproject.org/spins/budgie) to run on an old laptop repurposed to be a media center.
+- [OpenBSD](https://www.openbsd.org/) -- The one I used in [the Old Computer Challenge](/old-computer)
 - [Devuan 5 "Daedalus"](https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14)
   -- is a Debian-fork OS without systemd that used to be in my main
   computer before distro-hopping[^distro-hopping] to Alpine.

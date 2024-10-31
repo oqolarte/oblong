@@ -22,7 +22,7 @@ I've always wanted to learn and make something. These
 days, that *thing* skews abstract, but I hope to create more tangible
 things using different tools ([hardware](/tools) and [software](/foss)
 alike) that might be useful. For R&R, I like to read movies and watch
-[books](/books) to switch things up
+[books](/books) to switch things up.
 
 Sometimes, people say [good things](/testi) about me.
 
