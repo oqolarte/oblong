@@ -6,7 +6,7 @@ draft: false
 math: false
 ---
 
-{{< ongoing >}}
+{{< done >}}
 
 ***Each day poking*** is a writing exercise borne out of the need to be
 creative again as I transition to [brief?] unemployment, spanning the
@@ -89,7 +89,7 @@ METABOLISM DROPS, AND YET THERE IS NEED FOR FOOD."
 
 Of course. Time to check in with the body. Putting this off for
 tomorrow. A better one. Lovelier and obviously with more effort,
-something I to be sold to a therapist.
+something to be sold to a therapist.
 
 {{< btt >}}
 
@@ -215,8 +215,8 @@ looking into it.
 
 When we go outside, what do we see?
 
-There is that avocado tree waiting for its right moment again to have
-bearing fruits. One of its huge branches is slowly dying, becoming food
+There is that avocado tree waiting for its right moment again to
+bear fruits. One of its huge branches is slowly dying, becoming food
 for the urban bugs lucky enough to still find some flora.
 
 There is the daily rain that cannot wash all the seedy things inside of
@@ -231,12 +231,11 @@ would like.
 
 In a certain group chat that I feel invisible in, the people there are
 talking about something related to a Christmas presentation. Per
-tradition, all new hires will be the unwilling jesters. If you're
-corporate slave in the place where I live, you'll know the bane of
-having been literally coerced to perform in front of what practically are
-strangers.
+tradition, all new hires will be the unwilling jesters. If you're a
+corporate slave where I live, you'll know the bane of
+being coerced to perform in front of strangers.
 
-And one of the most common reasons the management team peddles for
+And one of the most common reasons the Management peddles for
 enforcing this is, of course, "collaboration". If the higher ups really
 are keen on having us collaborate, then can we please start a union?
 
@@ -244,23 +243,24 @@ No?
 
 That's what I thought.
 
-I have been lucky (or cunning, depending on your beliefs) enough to manage to evade these kinds of office
-bullshit that adds no value to my personal well-being, more so in my
-quest to leave the workforce flying as soon as possible.
+I have been lucky (or cunning, depending on your beliefs) enough to
+manage to evade these kinds of office bullshit that adds no value to my
+personal well-being, more so in my quest to leave the workforce flying
+as soon as possible.
 
 {{< btt >}}
 
 ## Day 11
 
-Not being exposed to the benefits of traveling early on life because of
+Not being exposed to the benefits of travel early on life because of
 limited resources and our family's financial capabilities at the time, I
 wonder if it---it, meaning being tethered to home until my
 adulthood---had a significant effect on me, and how I am not as excited
 as many people when it comes to going to places, familiar or otherwise,
 even though I have the means to do so right now?
 
-I wonder if traveling is such a bourgeoisie thing, a concept that's not
-supposed to be hard to grasp.
+I wonder if traveling is such a bourgeoisie thing, a concept that's
+supposed to be easy to grasp.
 
 {{< btt >}}
 
