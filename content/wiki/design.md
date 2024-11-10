@@ -23,12 +23,12 @@ and
 3. Useful
 4. Beautiful
 5. Understandable, or better yet, self-explanatory
-6. Does not interrupt
-7. Honest
-8. Long-lasting
-9. Thorough down to the last detail
-10. Environmentally-friendly
-11. Simple and without the non-essentials
+6. [Does not interrupt](/hostile-architecture)
+8. Honest
+9. Long-lasting
+10. Thorough down to the last detail
+11. Environmentally-friendly
+12. Simple and without the non-essentials
 
 ## Other adjacent topics
 
