@@ -50,6 +50,11 @@ reaches a point that it's taking years for him to heal.
           her active participation in any given situation.
 - A rich aswang (politico? businessman? both?) has domestics helpers who
   are overworked and underpaid. They plan to escape their master.
+- Entrepreneur/chismis lord who has cleaning business, employing people
+  (middle aged women and/or queer people, mostly, because "they are
+  trustworthy") who go through the trash of celebrities who hire them
+  for their deep cleaning services in search for the latest "chizmax"
+  (gossip).
 
 ## Locations
 

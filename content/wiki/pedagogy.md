@@ -13,6 +13,9 @@ So, I try to [learn from the teachers on how they teach](/academy).
 
 ## Radical Education
 
+Education should transform the character, body, and mind of both
+teachers and learners for the better.
+
 Any attempt to teach should start with the experiences of the learners.
 Find activities where they explore the socialization they've experienced
 in life. For example, how beliefs, ideas, norms, experiences, etc.

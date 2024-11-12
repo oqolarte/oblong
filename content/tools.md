@@ -9,8 +9,8 @@ draft: false
 
 - Watch: Casio F-105W
 - Wallet: a binder clip
-- Multitool: Victorinox Camper (or Waiter, not pictured)
+- Multitool: Victorinox Camper
 - Flashlight: Lumintop EDC01
 - Laptop: "Ador" the [Frankenpad X225](/64)
-- Phone: OnePlus 5t (the one that took the picture)
+- Phone: Samsung S10e (not pictured)
 - Bike: "[FOLK](/50)" the single-speed city bike (not pictured)

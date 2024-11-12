@@ -4,9 +4,10 @@ date: 2023-01-23
 draft: false
 ---
 
-AI crafts systems that can perform tasks requiring human-like intellect,
-like discovery, inference, and reasoning. A subset of AI is
-[Machine Learning](/ml) (ML).
+
+AI refers to computer programs that can craft systems to perform tasks
+requiring human-like intellect, like discovery, inference, and
+reasoning. A subset of AI is [Machine Learning](/ml) (ML).
 
 Key Domains of AI:
 
@@ -27,6 +28,19 @@ making art, but doing quite the opposite.
 
 LLMs are *language* models (it even says so in the name) and have not
 been specifically been trained to solve mathematical problems.
+
+## Generative AI
+
+One specific type of AI, and perhaps the most popular, is generative AI
+(gen AI), which is AI that can generate new content, like text, images,
+or other media from a prompt, which is just a set of specific
+instructions, that the user supplies.
+
+One might use gen AI for any of the following:
+- Create content
+- Analyze information quickly
+- Summarize information to use in research
+- Simplify day-to-day work
 
 ## Cons of AI
 

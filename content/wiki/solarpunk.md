@@ -6,15 +6,13 @@ draft: false
 
 > No one wants the utopian struggle.
 > They just want the utopia.
+> And being stuck in this dream manifests in how it becomes dystopia
+> when we don't [put in the work in our daily lives](/prefiguration).
 
-Solarpunk started out as a movement in
-speculative fiction,
-art,
-fashion,
-and [activism](/activism)
-that seeks to answer and embody the question
-“what does a [sustainable civilization](/social-ecology) look like,
-and how can we get there?”
+Solarpunk started out as a movement in speculative fiction, [art](/art),
+[fashion](/fashion), and [activism](/activism) that seeks to answer and
+embody the question “what does a
+[sustainable civilization](/social-ecology) look like, and how can we get there?”
 
 It's a hopeful rendition of the future
 in which [appropriate technology](https://www.appropedia.org/Appropriate_technology),
@@ -22,8 +20,8 @@ renewable energy,
 and sustainable living practices
 [empower us to build communities](/mutual-aid) that we want to live in.
 
-Solarpunk---like cyberpunk, steampunk and other
--punk movements---deeply examines how [technology](/technology)
+Solarpunk, like cyberpunk, steampunk and other
+-punk movements, deeply examines how [technology](/technology)
 has affected our lives,
 and how might we imagine it continue doing so,
 but in a more optimistic way.
