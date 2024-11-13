@@ -8,9 +8,19 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anti-Work</title>
+      <link>https://ohio.araw.xyz/tags/anti-work/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <author>ohio@araw.xyz (ohio olarte)</author>
+      <guid>https://ohio.araw.xyz/tags/anti-work/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

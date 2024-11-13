@@ -78,10 +78,20 @@ But the following are also forms of violence:
 - letting living things die in extreme weather, just so few people can
   profit from fossil fuels.
 
+## Self-defense
+
 We can't condemn all violence, like self-defense, as objectively bad if
 overall harm is reduced. As we fight for our rights, some people who
-oppose are beliefs wouldn't always want to meet us with grace. Some of
+oppose our beliefs wouldn't always want to meet us with grace. Some of
 them would resort to violence, in any of its form.
+
+But self-defense in itself won't really save you. The single best thing
+you can do is meet other like minded people and
+[build community with them](/community).
+No matter how good you are at martial arts, no matter
+if you're a great gunslinger, it won't mean anything if you're cornered
+by the government. But if you have people to rely on, then you don't
+even need to be the best fighter and you're already safer.
 
 An essential part of a social [revolution](/revolution) will be the
 building of dual power and [mutual aid](/mutual-aid) as a means of

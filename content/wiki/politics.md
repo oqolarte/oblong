@@ -11,8 +11,8 @@ reference from which to learn.
 
 ## Stratetgies
 - [abolition](/abolition)
+- [animal liberation](/animal-liberation)
 - [anti-work](/anti-work)
-- [child liberation](/child-liberation)
 - [community](/community)
 - [counter-insurgency](/counter-insurgency)
 - [feminism](/feminism)
@@ -25,11 +25,14 @@ reference from which to learn.
 - [technological disobedience](/technological-disobedience)
 - [violence](/violence)
 - [voting](/voting)
+- [youth liberation](/youth-liberation)
 
 ## Ideas
 - [absurdism](/absurdism)
 - [academy](/academy)
 - [activism](/activism)
+- [apoliticism](/apolitical)
+- [authority](/authority)
 - [collapse](/collapse)
 - [democracy](/democracy)
 - [eco-anarchism](/eco-anarchism)

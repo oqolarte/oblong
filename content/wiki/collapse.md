@@ -11,6 +11,8 @@ have no interest in preserving a healthy environment for us all.
 Either we're fast approaching collapse, or it has already begun and
 we're in a slow but unending downward spiral.
 
+{{< figure src="/image/wait-patiently.jpg" alt="A sign that has Chinese and English in it. The Chinese says '外国人来华工作许可, 系统故障,请耐心等待' while the supposed English translation below it is 'Please wait patiently for the failure of the system'" caption="" >}}
+
 ## What is collapse?
 
 Collapse, in this context,
@@ -22,6 +24,8 @@ and be willing or unwilling.
 It does not necessarily mean extinction or a singular, global event.
 In fact, many believe a more accurate depiction would be
 "an slow and steady, yet endless, decline of society as we know it today."
+[Whether we are prepared for this disaster](/drrm) is another thing to be
+addressed.
 
 ## Are we close to a collapse of Capitalism?
 

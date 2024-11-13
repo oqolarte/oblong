@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -351,7 +351,7 @@ References are available on request.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Operating System: &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux v3.20 &lt;em&gt;stable&lt;/em&gt;&lt;/a&gt; (laptop, daily driver); &lt;a href=&#34;https://www.debian.org/News/2023/20230610&#34;&gt;Debian 12 &amp;ldquo;&lt;em&gt;bookworm&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); Android (smartphone)&lt;/li&gt;
 &lt;li&gt;Tiling window manager: &lt;a href=&#34;https://swaywm.org/&#34;&gt;sway&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Web Browsers: &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (laptop), &lt;a href=&#34;https://divestos.org/pages/our_apps#mulch&#34;&gt;Mulch&lt;/a&gt; (Android)
+&lt;li&gt;Web Browsers: &lt;a href=&#34;https://www.mozilla.org/en-US/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (laptop), &lt;a href=&#34;https://divestos.org/pages/our_apps#mull&#34;&gt;Mull&lt;/a&gt; (Android)
 &lt;ul&gt;
 &lt;li&gt;Browser add-ons: uBlock Origin, Redirector, SponsorBlock&lt;/li&gt;
 &lt;li&gt;Redirector set-up: &lt;a href=&#34;https://ohio.araw.xyz/Redirector.json&#34;&gt;JSON file&lt;/a&gt; (includes Scribe,
@@ -366,8 +366,8 @@ Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;li&gt;Back-up/File Sync: &lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Instant messaging: &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;RSS Feed reader: &lt;a href=&#34;https://codeberg.org/newsraft/newsraft&#34;&gt;newsraft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Music player: &lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;Rhythmbox&lt;/a&gt; (laptop); &lt;a href=&#34;https://github.com/OxygenCobalt/Auxio&#34;&gt;Auxio&lt;/a&gt;
-(Android)&lt;/li&gt;
+&lt;li&gt;Music player: &lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;Rhythmbox&lt;/a&gt; (laptop); &lt;a href=&#34;https://github.com/OxygenCobalt/Auxio&#34;&gt;Auxio&lt;/a&gt; (Android)&lt;/li&gt;
+&lt;li&gt;Internet radio: &lt;a href=&#34;https://apps.gnome.org/Shortwave/&#34;&gt;Shortwave&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Video player: &lt;a href=&#34;https://mpv.io&#34;&gt;mpv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Notes: &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;vimwiki&lt;/a&gt; plugged into &lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; (also my &lt;code&gt;$EDITOR&lt;/code&gt; of choice)&lt;/li&gt;
 &lt;li&gt;Office suite: &lt;a href=&#34;https://www.libreoffice.org&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
@@ -394,6 +394,17 @@ in case.&lt;/li&gt;
 and is just reliable, though can be bloated at times.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+&lt;p&gt;Is the software you use&amp;hellip;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;backed by venture capital (VC) funding?&lt;/li&gt;
+&lt;li&gt;maintained by Big Tech companies?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If so, know that this will pose different problems in the future, if it
+hasn&amp;rsquo;t already yet. Companies ultimately are driven by profit incentive,
+and at one point, they will want to collect. It can be in the form of
+unfair subscription payment models,
+&lt;a href=&#34;https://pluralistic.net/2024/04/24/naming-names/#more-8578&#34;&gt;enshittification&lt;/a&gt;
+of their services, privacy-invasive data gathering methods, etc.&lt;/p&gt;
 &lt;p&gt;As much as possible, I want to use FOSS (i.e., free and open source
 software) for all my software needs. I believe FOSS empowers me to
 accomplish digital tasks that don&amp;rsquo;t cage me in a paid walled garden

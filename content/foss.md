@@ -11,7 +11,7 @@ draft: false
 
 - Operating System: [Alpine Linux v3.20 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
-- Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mulch](https://divestos.org/pages/our_apps#mulch) (Android)
+- Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mull](https://divestos.org/pages/our_apps#mull) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
       Rural Dictionary, rimgo, Quetre)
@@ -23,8 +23,8 @@ draft: false
 - Back-up/File Sync: [Syncthing](https://syncthing.net/)
 - Instant messaging: [Signal](https://signal.org/)
 - RSS Feed reader: [newsraft](https://codeberg.org/newsraft/newsraft)
-- Music player: [Rhythmbox](http://www.rhythmbox.org/) (laptop); [Auxio](https://github.com/OxygenCobalt/Auxio)
-  (Android)
+- Music player: [Rhythmbox](http://www.rhythmbox.org/) (laptop); [Auxio](https://github.com/OxygenCobalt/Auxio) (Android)
+- Internet radio: [Shortwave](https://apps.gnome.org/Shortwave/)
 - Video player: [mpv](https://mpv.io)
 - Notes: [vimwiki](https://vimwiki.github.io/) plugged into [neovim](https://neovim.io) (also my `$EDITOR` of choice)
 - Office suite: [LibreOffice](https://www.libreoffice.org)
@@ -55,6 +55,17 @@ computer to a different distribution of
 [Linux](https://en.wikipedia.org/wiki/Linux), *usually* as a hobby.
 
 ## Why?
+
+Is the software you use...:
+- backed by venture capital (VC) funding?
+- maintained by Big Tech companies?
+
+If so, know that this will pose different problems in the future, if it
+hasn't already yet. Companies ultimately are driven by profit incentive,
+and at one point, they will want to collect. It can be in the form of
+unfair subscription payment models,
+[enshittification](https://pluralistic.net/2024/04/24/naming-names/#more-8578)
+of their services, privacy-invasive data gathering methods, etc.
 
 As much as possible, I want to use FOSS (i.e., free and open source
 software) for all my software needs. I believe FOSS empowers me to
