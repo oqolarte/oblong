@@ -35,7 +35,7 @@ keeping our stuff working for as long as possible would be a hard life.
 4. Regift: Donate unwanted items
 5. Recover: Compost your food scraps
 6. Recycle: Know your program and recycle right
-7. Refuse: Don't consume what you don't need to
+7. [Refuse](/refuse): Don't consume what you don't need to
 
 Recyling has become a fad and is no longer the bridge to a sustainable
 future. The term is slapped on brands to encourage consumers to do it,
