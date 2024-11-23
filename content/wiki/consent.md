@@ -10,6 +10,8 @@ asking for consent is [revolutionary](/revolution).
 This act asks you to be patient and understanding, instead of blitzing
 through to achieve your own agenda with complete disregard to other people
 involved.
+That's why people who rise to power often manufacture it, through
+advertising (or propaganda, same thing).
 
 Is it really more efficient to make decisions without getting the inputs
 of all parties involved? For those of us who have been on the receiving

@@ -31,3 +31,8 @@ and/or
 we will be forced to buy
 more harmful solutions to address the novel problems
 that the previous one has created (e.g., acquiring more cars).
+
+## Further reading:
+
+- [Algorithmic Sabotage](https://hyperallergic.com/878913/artist-chavis-marmol-crushes-tesla-with-colossal-olmec-head-sculpture/)
+- [Chavis Mármol crushes Tesla with head sculpture](https://hyperallergic.com/878913/artist-chavis-marmol-crushes-tesla-with-colossal-olmec-head-sculpture/)

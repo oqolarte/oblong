@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
     <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
-    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -332,6 +332,19 @@ alike) that might be useful. For R&amp;amp;R, I like to read movies and watch
 &lt;p&gt;For my professional background
 check my &lt;a href=&#34;https://ohio.araw.xyz/cv&#34;&gt;CV&lt;/a&gt; or download the &lt;a href=&#34;https://ohio.araw.xyz/cv.pdf&#34;&gt;pdf&lt;/a&gt; version.
 References are available on request.&lt;/p&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;You can always contact me via email (see footer).&lt;/p&gt;
+&lt;p&gt;Some good icebreakers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A reply/comment to one of the posts I made here&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;What have you been reading?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;You talked about [Something]. How do you/I/we act on [Something
+(related)]? Or, what are your thoughts on [This Other Thing]?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;[An Interesting Event] will happen on [This Date] at [That Place].
+Have you heard about it? I think you&amp;rsquo;d be interested.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;If you liked listening to [Artist], you might enjoy listening to
+[This Other Artist] and/or [This Genre].&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -445,6 +458,9 @@ computer to a different distribution of
       <guid>https://ohio.araw.xyz/blogroll/</guid>
       <description>&lt;p&gt;An incomplete list of blogs that I find interesting currently.&lt;/p&gt;
 &lt;dl&gt;
+&lt;dt&gt;&lt;a href=&#34;https://blog.avas.space/&#34;&gt;Ava&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;writes about their hobbies and projects, tech, health, Right to
+Repair, Car-free Cities, and other things that I vibe with.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;is a developer who deep-dives into various topics,
 including computer latencies, cocktail party ideas, and
@@ -480,6 +496,9 @@ abolitionist, and open source movements.&lt;/dd&gt;
 &lt;dd&gt;explores &amp;ldquo;past and often
 forgotten technologies and how they can inform sustainable energy
 practices&amp;rdquo; from their solar-powered server in Barcelona.&lt;/dd&gt;
+&lt;dt&gt;&lt;a href=&#34;https://maia.crimew.gay/&#34;&gt;maia arson crimew&lt;/a&gt;&lt;/dt&gt;
+&lt;dd&gt;writes about cyberpunk, hacktivism, and other technical articles. I&amp;rsquo;m
+interested in their thoughts about cybersecurity in general.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://everythingchanges.us/&#34;&gt;Mandy Brown&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;talks about the more progressive practices that we could/should have
 in our workplaces.&lt;/dd&gt;

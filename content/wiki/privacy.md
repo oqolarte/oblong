@@ -40,6 +40,13 @@ foundation of healthy relationships.
 
 [Security](/security) and privacy have a close relationship.
 
+Online tracking tactics are designed and implemented such that it gives
+the ability for someone with money to sway you, the unsuspecting user in
+their platform and/or of their services, into changing your mind about
+something---whether that's to nudge you into buying something,
+[to vote for someone](/voting),
+or to do something else that they want you to do.
+
 When companies and organizations with profit motives start collecting
 and sharing your data to other businesses without your consent, like
 they have been doing since the late 1990s, we should be concerned; the

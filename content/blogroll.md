@@ -7,6 +7,10 @@ draft: false
 
 An incomplete list of blogs that I find interesting currently.
 
+[Ava](https://blog.avas.space/)
+: writes about their hobbies and projects, tech, health, Right to
+Repair, Car-free Cities, and other things that I vibe with.
+
 [Dan Luu](https://danluu.com)
 : is a developer who deep-dives into various topics,
 including computer latencies, cocktail party ideas, and
@@ -51,6 +55,10 @@ abolitionist, and open source movements.
 : explores "past and often
 forgotten technologies and how they can inform sustainable energy
 practices" from their solar-powered server in Barcelona.
+
+[maia arson crimew](https://maia.crimew.gay/)
+: writes about cyberpunk, hacktivism, and other technical articles. I'm
+interested in their thoughts about cybersecurity in general.
 
 [Mandy Brown](https://everythingchanges.us/)
 : talks about the more progressive practices that we could/should have

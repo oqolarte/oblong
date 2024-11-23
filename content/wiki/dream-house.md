@@ -72,17 +72,18 @@ or cantilever chairs
 
 ### Doors
 
-- with auto-closing mechanisms
+- Consider which doors should have automatic door closer
 - with peep holes
-- Mortise locksets for all doors, made of brass or copper
+- Mortise locksets where practical, made of brass or copper
 - Main doors swing out (check if ok with code); viewing panel made of shatter-proof acrylic, with one-way film
 - Sliding doors with auto closer
-- Double action hinges on some doors
+- Double action spring hinges on some doors
 - Doorways wide enough to accommodate a person on wheelchair.
 
 ### Windows
 
 - las ventanas de concha, or Capiz shell as lattice material
+- stained glass in one of the rooms!
 - window heights = 1100mm for effective indoor air movement
 - Wind deflectors (?)
 - Rain screens over windows

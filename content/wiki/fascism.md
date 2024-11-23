@@ -18,7 +18,8 @@ inferior.
 
 ## Describing what it is
 
-Fascism is caused by a belief that power comes from the position of
+Fascism is caused by [making people believe through propaganda](/consent)
+that power comes from the position of
 leadership itself. For example, if someone is able to use force and
 intimidation to get elected president of a country, then they're a
 legitimate leader and should have all the power and respect that

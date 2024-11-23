@@ -29,3 +29,17 @@ Sometimes, people say [good things](/testi) about me.
 For my professional background
 check my [CV](/cv) or download the [pdf](/cv.pdf) version.
 References are available on request.
+
+## Contact
+
+You can always contact me via email (see footer).
+
+Some good icebreakers:
+- A reply/comment to one of the posts I made here
+- "What have you been reading?"
+- "You talked about [Something]. How do you/I/we act on [Something
+  (related)]? Or, what are your thoughts on [This Other Thing]?"
+- "[An Interesting Event] will happen on [This Date] at [That Place].
+  Have you heard about it? I think you'd be interested."
+- "If you liked listening to [Artist], you might enjoy listening to
+  [This Other Artist] and/or [This Genre].

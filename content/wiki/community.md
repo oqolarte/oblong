@@ -87,3 +87,7 @@ Consider: we may have affected both our ancestors and our descendants by
 existing now. On one hand, the former had thought about our welfare and
 acter accordingly; on another, we could be doing the same for the
 latter. Community work, then, like many [revolutionary](/revolution) acts, spans generations.
+
+## Further reading
+
+- [Rebuilding the Village](https://docs.google.com/document/d/1rC-0Mpe5F78oA991Odno4fyXmr6O-1_CH6NCKy6uEXs/edit?tab=t.0): The Radical Act of Depending on Each other (essay on Google Docs)

@@ -85,7 +85,7 @@ https://www.theguardian.com/technology/2017/dec/04/racist-facial-recognition-whi
 Moreover, the idea that machines are more efficient in doing tasks than
 humans is important to acknowledge here. We must remember that while the
 Industrial Revolution (arguably) increased productivity by employment of
-machines, it has also allowed efficient and effective destruction of our
+machines, it has also allowed efficient and effective [destruction](/destruction) of our
 natural environment which, in my opinion, offsets the benefits gained.
 
 Consider this: The future of automation will likely depend on the
