@@ -1,5 +1,5 @@
 ---
-title: "On Personal Finance"
+title: "On personal finance"
 date: 2022-08-17
 draft: false
 ---

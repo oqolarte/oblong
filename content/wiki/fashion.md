@@ -32,3 +32,11 @@ by absorbing heat before it reaches the skin.
 The thickness of the fabric helps:
 the outer layer does get hotter,
 but the heat doesn't get transmitted to the skin.
+
+## Modern inspo/s
+
+[Frugal Aesthetic](https://www.youtube.com/@FrugalAesthetic) is a
+YouTube channel made by someone who "made a career out of stretched
+comic sans" but also has in my opinion grounded, if not postmodern, take
+on fashion. It is mostly male-centric, though, but not I would say
+problematic.

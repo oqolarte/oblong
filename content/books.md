@@ -59,3 +59,4 @@ I read slowly, you might notice.
 | [Blessed is the Flame](/nihilism/#jouissance)                                                           | Serafinski                                 |
 | [EXPECT RESISTANCE](/208/#brief-review-of-expect-resistance)                                            | [CrimethInc](https://crimethinc.com/)      |
 | [All About Love: New Visions](/love)                                                                    | bell hooks                                 |
+| [Dila at Bandila](/236/#brief-review-of-dila-at-bandila)                                                | Ige Ramos                                  |

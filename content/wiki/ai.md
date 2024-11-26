@@ -49,6 +49,14 @@ A lot of AI-related startups and research labs depend on the
 infrastructure that Microsoft, Amazon, and Google provides.
 
 [Can we even achieve full automation without the human touch](/autonomation)?
+In CNET's YouTube video "[Apple Intelligence is for the Stupid Ones](https://www.youtube.com/watch?v=D0V554NyXWM)",
+Bridget Carey observes that the point of AI "was supposed to save us
+time[.]" Carey further asks:
+
+> But with AI, what is the chore that we're trying to solve for? Is
+> communication the chore? Is reading comprehension and critical
+> thinking the chore? [...] So, is the value having the computer do the
+> thinking for us?
 
 I don't want that, after having read Victoria Turk's piece on
 [how AI reduces the world to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/).

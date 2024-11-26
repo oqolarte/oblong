@@ -1,5 +1,5 @@
 ---
-title: "Simple Living"
+title: "Simple living"
 date: 2022-09-08
 draft: false
 ---

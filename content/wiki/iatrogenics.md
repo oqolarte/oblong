@@ -24,16 +24,12 @@ approach a more [antifragile](/antifragile) system:
 - concentration
 - speed
 
-Iatrogenics can also be identified in other fields, like [AI](/ai).
-In Joan Westenberg's
-[post *"Creators don't need your rage. They need your support."*](https://www.joanwestenberg.com/creators-dont-need-your-rage-they-need-your-support), they argue that "[a]ttempting to battle AI content" in public spaces, especially in social media sites, only broadens it's reach.
-
 Many people are still averse to hospitals and other similar healthcare
-facilities, largely because the have been seedbeds of death. That, or it
+facilities, largely because they have been seedbeds of death. That, or it
 is very expensive for most of us to really afford without plummeting to
 destitution.
 
 Author Nassim Nicholas Taleb argues that [capitalism](/capitalism) is
 working in an inverse-iatrogenics. In dismantling or obsoleting it,
-then, we would would have to prioritize both self- and community care:
-helping one empowers the other, creating a positive feedback loop.
+then, we would would have to prioritize both self- and [community care](/community):
+helping one person empowers the another, creating a positive feedback loop that ripples through the community.
