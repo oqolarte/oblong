@@ -20,7 +20,7 @@ they can longer be fixed, so we don't have to be digging up earth for
 precious metals or cutting down trees for wood, or pull crude oil for
 plastics, or what have you.
 
-Here in the Philippine archipelago, we repair our stuff when it breaks,
+Here in the Philippine archipelago, many of us repair our stuff when it breaks,
 or we ask someone who knows how to do so. Thanks to our many skilled
 technicians, mechanics, electricians, plumbers, masons, tailors,
 artisans, woodworkers, metalworkers, dressmakers, weavers, and every
@@ -97,7 +97,7 @@ Stéphane Arditi said:
 "Placemaking" introduced third places in communities. For more info on
 placemaking, read this: [What is Placemaking?](https://www.pps.org/article/what-is-placemaking)
 
-We need more 3rd places to hangout with our community---perhaps to conduct
+We need more third places to hangout with our [community](/community)---perhaps to conduct
 regular repair workshops---and start
 [stronger relationships](/friendship) that will help us not only with
 reducing our negative impact to the environment, but ultimately reach
@@ -163,3 +163,13 @@ website for more info).
 If it applies, do a preventive maintenance, which in its core is just
 regularly checking your devices, and/or fixing them before they break.
 If you're not sure how to do this, ask a trusted technician.
+
+### No buying (including some nuances)
+
+Not buying anything new is a noble endeavor, indeed.
+However, remember that it's the lack of competition and closed
+ecosystems that profiting from planned obsolescence. How else can we
+move towards lowering the repair costs than replacement? One idea is
+demanding manufacturers to provide at least 10-year warranty for
+appliances that are reasonably expected to be used for that long or
+more, like it's done is EU.
