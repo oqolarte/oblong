@@ -5,10 +5,10 @@ draft: false
 ---
 
 Religion, itself, is not bad.
-If you're a Christian, it's worth considering having a personal
-relationship with Christ, a direct interaction with God with priest or
-pope to act as intermediary, perhaps disregading the church as an
-institution altogether.
+
+Or a more nuanced take would be, many religions have imparted nuggets of
+wisdom that are still relevant today; their texts are filled with
+verbose literature, of poems and proses.
 
 ## Leaders and Organizations
 
@@ -31,10 +31,18 @@ institution that relies on us submitting to authority, dismissing our
 feelings and observations, isolating us, does this. It's no
 wonder there are cults across the political spectrum.
 
+Let's take the Holy Bible, for example. It represents the limited
+knowledge of people of its time, trying to put mystical and/or spiritual
+experiences into words.
+This lack of clarity [leaves room for *a lot* of interpretation](/surrealism) for future generations of believers, even allowing some
+of them to take advantage of other people's yearnings to put themselves
+into positions of power.
+
 ## Good religion?
 
 If your faith is compatible with the end goals of [revolution](/revolution),
-that is, as long as you believe that dismantling hierarchies and working
+that is, as long as you believe that dismantling hierarchies and
+vertical structures, and working
 towards ending inequality is in line with your teachings,
 then there's no reason not to welcome this belief.
 If you are standing up to the barriers even within your faith, then even

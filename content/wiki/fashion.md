@@ -33,6 +33,14 @@ The thickness of the fabric helps:
 the outer layer does get hotter,
 but the heat doesn't get transmitted to the skin.
 
+## Barong Tagalog
+
+I have mostly black and dark colors. It would be cool to have white or
+light colored Barong in my rotation of drips. Here are some resources:
+
+- Preview: [10 Modern Barong Designers to Keep On Your Sartorial Radar](https://www.preview.ph/fashion/modern-barong-filipino-designers-a00378-20230416?s=2tgvk77h150f7rub03549m332f)
+- Heritage Barong: [Definitive Guide to Wearing a Barong Tagalog](https://www.heritagebarong.com/pages/definitive-guide-to-wearing-a-barong-tagalog)
+
 ## Modern inspo/s
 
 [Frugal Aesthetic](https://www.youtube.com/@FrugalAesthetic) is a

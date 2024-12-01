@@ -33,10 +33,23 @@ As a guideline, consume 140 grams of protein daily to gain muscle mass.
 
 ### On "Gym Bros"
 
+How could one be happy with being simply in shape without
+worrying about not having the "perfect" physique?
+
 Gym bros, with their obsession on growing their muscles and calculating
 the amount of fat, need to check themselves whether they are experiencing body
 dysmorphia and/or eating disorder, which are usually underdiagnosed in
 men.
+
+Here are some ideas:
+
+- Be more interested in what the body can do compared to how it looks.
+  In my experience, this affects my mental wellbeing better especially
+  when I can be the functional guy who can help people by lifting things
+  for them.
+- Find a hobby that doesn't involve body image.
+- Reduce the amount of exposure you have to (i.e., don't actively seek)
+  images and/or videos of jacked people on the media.
 
 ## Sleep
 

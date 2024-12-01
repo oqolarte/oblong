@@ -4,21 +4,21 @@ date: 2024-01-28
 draft: false
 math: false
 ---
-Instead of throwing away stuff because it's broken,
-consider if it can be fixed. This is how we can start rethinking about
-our waste.
 
-The message is simple: we should have the right to repair the stuff we
-bought. The wastefulness of Global North negatively impacts the overall
-quality of life for those in Global South.
+Instead of throwing away stuff because it's broken, consider if it can
+be fixed. This is how we can start rethinking about our waste. We should
+have the right to repair the stuff we bought.
 
-It's in our best interest to keep things functional for as long as we
-can maintain it that way. Not only that, it's also in the best interest
-of our environment, to not just throw away broken things without even
-trying to repair them. The least we can do is to wear them down until
-they can longer be fixed, so we don't have to be digging up earth for
-precious metals or cutting down trees for wood, or pull crude oil for
-plastics, or what have you.
+The wastefulness of Global North negatively impacts the overall quality
+of life for those in Global South. So, while the pressure should be
+applied more on the former, it's in all our best interest to keep things
+functional for as long as we can maintain it that way. Not only that,
+it's also in the best interest of our environment, to not just throw
+away broken things without even trying to repair them. The least we can
+do is to wear them down until they can longer be fixed, so we don't have
+to be digging up earth for precious metals or cutting down trees for
+wood, or pull crude oil for plastics, or you know, extract and exploit
+labor from the Global South.
 
 Here in the Philippine archipelago, many of us repair our stuff when it breaks,
 or we ask someone who knows how to do so. Thanks to our many skilled
@@ -39,8 +39,8 @@ keeping our stuff working for as long as possible would be a hard life.
 
 Recyling has become a fad and is no longer the bridge to a sustainable
 future. The term is slapped on brands to encourage consumers to do it,
-but when buying new has been incentivized by both state and market to be
-cheaper, why recycle?
+that is, shift the blame on them. But when buying new has been
+incentivized by both state and market to be cheaper, why recycle?
 
 As I have suspected, [economics](/economics) is flawed because it
 doesn't account for *all* costs. It's not accurate to just analyze
@@ -55,6 +55,8 @@ this just transition is saying No to Jeepney Phaseout.
 https://mb.com.ph/2023/3/11/the-jeepney-phase-out-explained  
 https://edition.cnn.com/2024/01/16/asia/philippines-jeepney-phase-out-strikes-intl-hnk/index.html
 
+## Maintenance work
+
 Maintenance work is real, hard work that often goes unnoticed until
 something breaks because no one looked after the thing.
 
@@ -64,8 +66,8 @@ Thanks to entropy, nothing is fully maintenance-free, and things
 eventually break down.
 
 Home has always been the first repair shop that we know. But modern
-conveniences brought by consumerism contribute to it become a
-de-skilling center as well.
+conveniences brought by consumerism has turned it into a de-skilling
+center as well.
 
 The ability to maintain, thus, is helpful in
 prolonging the useful life of an object, and should be taught---for
@@ -75,7 +77,7 @@ example, by sharing good maintenance and troubleshooting
 Yet, the issue remains: people consume more, and that many of
 them still prefer buying new things instead of repairing. This curse
 plays a role in the large scale environmental damage, and it might be
-the beginning of the end of humanity, and it would take more than 99% of
+the beginning of the end of humanity. It would take more than 99% of
 the human population to coordinate if we are to save ourselves from our
 own greed. Convenience drives capitalism.
 
@@ -94,9 +96,8 @@ Stéphane Arditi said:
 > Small independent repairers can make a great contribution to the
 > economy and our society.
 
-"Placemaking" introduced third places in communities. For more info on
-placemaking, read this: [What is Placemaking?](https://www.pps.org/article/what-is-placemaking)
-
+"Placemaking" introduced third places in communities. (For more info on
+placemaking, read this: [What is Placemaking?](https://www.pps.org/article/what-is-placemaking))
 We need more third places to hangout with our [community](/community)---perhaps to conduct
 regular repair workshops---and start
 [stronger relationships](/friendship) that will help us not only with
@@ -105,7 +106,9 @@ our higher selves.
 
 It's important to introduce kids to simple yet effective tools like
 hammer and screwdriver, so they'd appreciate their use, more so in times
-of tinkering and repairing.
+of tinkering and repairing. I for one dismantled a lot of my electronic
+toys with a philips screwdriver when I was a curious kid. Sadly, though,
+life happened, and my curiosity dwindled.
 
 To attain sustainability, we need to increase our collective "repair
 literacy" or our ability to maintain the usefulness of things as time
@@ -121,6 +124,8 @@ Big companies will try to maintain as much control over their products as possib
 - making it hard for third-party technicians to get accreditation;
 - labeling independent repair shops as "unauthorized";
 - using proprietary tools *and* limiting the public's access to them;
+- planning for obsolescence, i.e., designing the thing to eventually
+  break down after a set period of time;
 - and other things that can only be "good for the[ir] business."
 
 As you can already tell, [maximizing profit](/capitalism) does not end with you buying
@@ -128,13 +133,11 @@ their product.
 
 ## What can be done
 
-We should all be considering what would eventually happen to stuff we
-end up giving/throwing away. This goes beyond consumer electronics,
-though. We should be repairing, or having them repaired by someone who
-knows how, any stuff ranging from furniture, agriculture and farming,
-automotive, clothing, medical device repair, etc.
+Consider what would happen to stuff we
+end up giving/throwing away.
 
-Here are a few more thoughts.
+Apart from repairing, or having the thing repaired by someone who
+knows how, here are a few more ideas.
 
 ### Manufacturers
 
