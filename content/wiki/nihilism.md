@@ -108,3 +108,8 @@ the old? Evidence suggest that its just constant collapse.
 Insurrectionary memory is a powerful tool to help us remind that the
 dead *should* still haunt the living. To forget the past is to accept
 grave mistakes can and will happen again.
+
+## TO READ
+- Essential readings in addition to all of the above is Kaneko Fumiko. She was a Japanese Nihilist Anarchist executed for plotting to kill the emperor, though she herself was probably innocent.
+    - https://theanarchistlibrary.org/library/max-res-kaneko-fumiko-because-i-wanted-to
+    - https://theanarchistlibrary.org/library/kaneko-fumiko-the-prison-memoirs-of-a-japanese-woman
