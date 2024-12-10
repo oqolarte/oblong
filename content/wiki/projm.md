@@ -1,5 +1,5 @@
 ---
-title: "On Project Management"
+title: "On project management"
 date: 2022-09-08
 draft: false
 ---

@@ -265,3 +265,141 @@ investment.
 Optionality allows for progress. Narratives can be used to distort it.
 The former allows us to learn from mistakes; the latter can hinder us
 by invoking irreversible effects.
+
+Not knowing why matters less than actually being able to do, or start
+doing, the thing. [Academizing something](/academy) is not needed in order to
+participate in it. For example, I can ride a bike without knowing the
+physics of how to balance on two moving wheels. But if doing is what
+eventually leads to success, Taleb argues that history is written by
+losers, people who have "free time on their hands and a protected
+academic position."
+
+Moreover, the author argues, "Experimentation can
+make people much more careful than theories[,]" because the former
+exposes one to more risks, like using actual resources and possibly skirting
+safety. Playing with theories allows one to be safer, but it's harder to
+rely on its results compared to actual experiments.
+
+In the YouTube channel Good Work's video,
+[What do Wall Street quants actually do?](https://www.youtube.com/watch?v=DuBrreMiZlA)" they look
+for the answer to the question presenting it through humor. In the end,
+the presenter Dan Toomey reveals that quants merely *speculate*. "They
+try as hard as they can to turn uncertainties into certainties all in
+the glorious name of getting the bag."
+
+People who love rationalism and emobody its ideals in their interactions
+should know that logic excludes nuances. Many of the Truths we seek are
+only in those nuances. Thus, logic alone cannot, will not save us from
+our problems, especially when it involves other people. The genius, I've
+read, is in the minutiae.
+
+Bottlenecks are literally squeezes. When a process, system, or situation
+forces you to do something no matter the cost, that's a *squeeze*.
+Poverty can be argued as a systemic squeeze (one way of spelling
+*oppression* in two words) because it forces poor people to do things
+they wouldn't do if they had better situations.
+
+In the past, [projects were completed on time due to lack of complex processes](/projm)
+and complicated people, but also because of decentralization,
+I think.
+
+**Efficiency** is one of the most important metrics in
+[technology](/technology) and [engineering](/engineering). Beyond these
+two, it is also present in work productivity, in which it is highly
+valued in the rat maze. Thus, it is hard to see that as we attain more
+efficiencies in the systems we operate in, we introduce more fragility.
+This is because to be more efficient, systems require more complexity.
+
+The idea behind the barbell strategy, i.e., betting on extremes and
+ignoring the safer middle, is to remove things that cause fragility. To
+know which things to remove is, of course, to learn about them by doing.
+It's hard to rely on theories alone as they cannot, do not fully reflect
+the apparent reality, which contains and hides nuances that often change
+without notice.
+
+Tech bros tend to lack creativity and elegance, despite them spouting
+these words on their tech blogs, which are also devoid of creativity and
+elegance, if I say so myself. From what I have read and seen, they
+worship technology and its supposed effect too much, that many things
+beyond it don't matter to them, like [privacy](/privacy) or ethics.
+
+It doesn't matter whether an old on-going tradition doesn't make sense;
+it will likely to go on for as long as there are people continuing its
+legacy. In that sense, long standing traditions are robust, if not
+antifragile.
+
+"[T]he non-natural needs to prove its benefits, not the natural," argues
+the author. Evidence must then be produced to prove or disprove
+something entirely (or mostly) caused by humans. For example, it's up to
+tobacco companies to disprove whether nicotine and other chemicals
+inhaled through smoking or vaping does not do any damage to lungs (for
+this one: anything that is not the natural air is just not for the
+lungs).
+
+We humans have been shaping the spaces around us since before
+civilization. It is in this process of shaping that we have learned
+about agriculture, which led to specialization of work, which led us,
+eventually, to here and now. But throughout this human history, we have
+also been outsmarting nature, or at least trying to, and we have cause
+more harm to us and to other living things in the planet.
+
+Humans should not be given explosive toys (like atomic bombs, financial
+derivatives, or tools to create life), because the unforeseen
+consequences of a big impact is not worth the small obvious gains.
+Humans are not good at ppredicting the future, much more the downsides
+and its cascading effects of our actions today.
+
+My grandmother, to her credit, lived until her late 80s, and for at
+least half of her life, she did not rely on modern medicine. For as long
+as she could, she refused going to the doctor, except maybe during
+pregnancies. Hospitals for her did not induce a healing environment, and
+still they don't. Nowadays, it's getting harder to ignore medicine
+because of the many factors that make it hard for Nature to do its
+natural way of healing our bodies. With all the synthetic stressors
+causing new diseases, can our natural way of regenerating even keep up?
+
+If there's any good left in the world we are in right now, it's because
+of the courage (willing or otherwise) of those who have soul in the
+game, people who have taken risks for others. This comes in many forms:
+artists making art in a tech-obsessed world that continues to rob us of
+our creativity; medical frontliners who continue to care, especially,
+not in spite of, the pandemic; activists who continue to fight for what
+they believe is right, fueled not by the prospect of winning in the
+short term, but [by the joy of it all](/joyful-militancy); etc.
+
+## Skin in the game
+
+**Note to self**: Be willing to take [calculated] risks and face the
+consequences of each with dignity. Non-risk takers might call you out on
+this endeavor, but don't mind them if they have nothing to offer except
+empty words. "Dogs can't insult me," and even that is an insult to dogs
+to be compared to those who bark but have no skin in the game.
+
+"Never ask anyone for their opinion, forecast, or recommendation. Just
+ask them what they have---or don't have---in their portfolio," the
+author advises. Further, "Never ask a doctor what you should do. Ask him
+what he would do if were in your place."
+
+"How often someone is right is largely irrelevant in the real world
+but [...] one needs to be a practitioner, not a talker, to figure it
+out." Even if you're correct most of the time, it only takes one grave
+error to undo all that. Think pilots, police, politicians, or any
+profession that has relatively big influence over many people.
+
+When looking at a published research, and the ideas presented therein
+are applicable to real life, check the researcher whether they are using
+these ideas on their personal life. If not, why?
+
+Is something worth having? One metric to check is if it has marketing,
+or it is heavily advertised. If so, it's likely a bad product or
+service, or is made/produced/shipped unethically, or both!
+
+## Ethics
+
+Taleb advises, "One should give more weight to witnesses and opinions
+when they present the opposite of a conflict of interest." On this line
+of thinking, I'm thinking of a few examples: listen only to "economists"
+who know that economics is useless; and lawyers who are not only
+self-aware of their need to lie but uses that privilege to punch up.
+More respect also goes to artisans, creators, producers, makers, who
+*encourage* the public to pirate their works.

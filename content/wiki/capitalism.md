@@ -10,11 +10,17 @@ Capitalism is, whether we like it or not, a strong idea that most of us
 [an elaborate Ponzi scheme](https://crimethinc.com/posters/capitalism-is-a-pyramid-scheme) that shapes our
 lives and the space around us, by extracting from them to feed
 the profit incentive---an endless growth on finite resources which, in
-reality, cannot be sustained.
+reality, cannot be sustained. For those against it, we cosplay
+capitalism because we need to get paid to meet our needs.
 
 It has caused many deaths, and yet it is not [our deaths](/death) that
 the elite class fear but our lives. Alive, we can be learning and
 kicking to topple the oppression.
+
+When we no longer think of profit
+as the sole path to growth; when we no longer sacrifice lives and the
+environment to "meet this quarter's/year's quota"; when we, in fact, remove the notion of
+Profit, let alone the act of chasing it, then would be freer.
 
 ![Overconsumption always destroys](/image/capitalism.jpg)
 

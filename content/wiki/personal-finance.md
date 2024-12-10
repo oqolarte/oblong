@@ -52,6 +52,20 @@ Why financial independence, then?
    While solo travel is a promising act, doing it with someone
    multiplies the joy (or divides the despair).
 
+### Stake on financial institutions
+
+Despite my qualms on the existence of financial institutions, like
+banks, insurance companies, stock markets, etc., all of which are power
+tools of the [Empire](/empire), I have skin in them, i.e., stake in
+terms of having my life savings stored in them. Yet I would still wish
+for, and actively working on to obsolete these institutions, whether in
+my own capacity or with my affinity group/s. This is because I am sure
+when that the time comes these institutions no longer matter, there are
+more important things to work on other than earning money.
+
+In my
+opinion, not needing money is the truest form of financial independence.
+
 ## Anti-investment/s
 
 I am not a financial advisor nor my interests are in finance. Take any

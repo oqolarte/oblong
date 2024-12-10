@@ -20,6 +20,7 @@ We should only intervene when the benefits outweigh the negatives.
 
 What should we control? We could look into limiting the following to
 approach a more [antifragile](/antifragile) system:
+
 - size
 - concentration
 - speed
@@ -33,3 +34,12 @@ Author Nassim Nicholas Taleb argues that [capitalism](/capitalism) is
 working in an inverse-iatrogenics. In dismantling or obsoleting it,
 then, we would would have to prioritize both self- and [community care](/community):
 helping one person empowers the another, creating a positive feedback loop that ripples through the community.
+
+## Principles of iatrogenics
+
+1. **Evidence of harm is not needed for an unnatural thing to be
+   considered harmful.** To fight the effects of harmful unnatural things,
+   we could try to remove them from our lives and not add more, like pharmaceuticals.
+2. **Effects of iatrogenics is non-linear.** Following this, we should
+   encourage treatment only when the patient is very sick, because when
+   they undergo treatment, it will have higher chances of working.

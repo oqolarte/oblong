@@ -76,6 +76,15 @@ it can be in 4 (max 5) sentences.
 4. Closing remark: "I welcome the opportunity to talk to you about this or any
    other position in your organization."
 
+## My style and voice as of now
+
+Writing how I speak is not simply my voice. And most of the time, I'm
+neither writing business nor technical articles. I write, first and
+foremost, for myself---playfully sometimes, unusual. It becomes a
+balancing act of enjoying the craft and making sure I use the right
+words that convey exactly what I need to for the reader, even if the
+reader is just Future Me.
+
 ## Some more principles to live by
 
 1. [Take care of your body](/health).

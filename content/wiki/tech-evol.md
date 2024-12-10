@@ -1,7 +1,7 @@
 ---
 title: "Evolution of technology: privacy and security implications of it"
 date: 2024-09-06
-draft: false
+draft: true
 math: false
 ---
 

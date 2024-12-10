@@ -72,6 +72,10 @@ and often talks about the overlap of the two.
 : likes to share her findings on niche operating systems like NixOS
 and BSDs.
 
+[The Amphibian](https://theamphibian.substack.com/)
+: is an eco-anarchist's "storytelling folded in with strategy,"
+involving lots of looking inward as well as outward.
+
 [The Perry Bible Fellowship](https://pbfcomics.com/)
 : is a webcomics drawn by Nicholas Gurewitch with good art laced with a
 tinge of dark humor.

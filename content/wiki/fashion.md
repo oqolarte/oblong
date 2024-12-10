@@ -1,5 +1,5 @@
 ---
-title: "On Fashion"
+title: "On fashion"
 date: 2023-02-11
 draft: false
 ---
@@ -48,3 +48,32 @@ YouTube channel made by someone who "made a career out of stretched
 comic sans" but also has in my opinion grounded, if not postmodern, take
 on fashion. It is mostly male-centric, though, but not I would say
 problematic.
+
+## Fashion, function, both?
+
+In order for to sustain it, fashion has to be fit for purpose and needs
+to align with my lifestyle. Beyond cultural purpose, people get caught
+up in the the aesthetic side advertised in social media that they end up
+thinking less about just the functional purpose of clothes. They're
+supposed to protect your body while you're out doing the things you need
+to do. So, if any piece of clothing would get in my way (like physically
+making less comfortable or restricting movement), then there is no point
+in acquiring such items.
+
+This return-to-funtional is return-to-basics is a great way to remind
+myself that I'm not really impressing anyone.
+
+In some cultures, there are specific clothes for a specific context.
+
+### Loungewear, examples
+
+In Japan, 部屋着 (heyagi)
+means room clothes, and it's like the clothes that aren't pajamas but
+clothes you don't wear outside because they'll get dirty. They're
+meant for doing things around
+your house.
+
+In Indonesia, it’s called *baju rumah* (house
+clothes) and these clothes are worn around the house in daytime.
+
+Filipinos call this *pambahay*, literally meaning "for the house".

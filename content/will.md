@@ -21,6 +21,9 @@ math: false
    mourning. If it's possible, you can even have an open mic event where
    people can play songs and/or read poetry.
 
+Hopefully, before I die, I would have you read these things first, so we
+would agree on how doable any of the points listed here.
+
 ## DNR
 
 If I am no longer able to communicate with the world in a meaningful

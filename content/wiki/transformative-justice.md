@@ -1,5 +1,5 @@
 ---
-title: "Transformative Justice"
+title: "Transformative justice"
 date: 2023-05-16
 draft: false
 ---
@@ -68,3 +68,20 @@ one's wit and/or [politics](/politics).
 Calling out isn't bad per se;
 it's often used by the powerless when following the "due process" hasn't
 given them the they are seeking.
+
+### Shaming
+
+One non-violent way of "punishment" aside from removing the tools and/or
+the environment that enable the harm, we could start using shame as a
+way to discipline wrong-doers. Shame is a powerful social construct. We
+can see this in some Asian cultures like the Japanese.
+
+I don't necessarily mean to weaponize shame, as it is done in cancel culture.
+Perhaps, we could think of ways to develop social relations that
+emphasizes, for example, how shameful it is for one to cause harm to the
+community that provides one their basic needs.
+
+### [Non-]violence?
+
+Sometimes, talking just doesn't work. *What if* beating up an abuser is
+also part of the necessary collective healing process?

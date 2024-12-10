@@ -8,7 +8,13 @@ Religion, itself, is not bad.
 
 Or a more nuanced take would be, many religions have imparted nuggets of
 wisdom that are still relevant today; their texts are filled with
-verbose literature, of poems and proses.
+verbose literature, of poems and proses. It has its own benefits when it
+comes to influencing behavior. At least in Christianity, the only one
+I'm familiar with, it tames the "iatrogenics of abundance" as observed
+by Nassim Nicholas Taleb in his book [*Antifragile*](/antifragile).
+Meaning, at the core of Christianity, [simple living](/simple-living) leads to a [healthier](/healthy)
+and more fulfilling life---very different from the many offshoots that
+has sprouted over the thousands of years of its existence.
 
 ## Leaders and Organizations
 

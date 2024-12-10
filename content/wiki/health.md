@@ -99,3 +99,11 @@ Needing and wanting help from others can also free us from the
 capitalist baggage of ultra-self-optimization to the point of isolation,
 of being "lonely at the top," which I always find odd.
 
+## Things to remove for a healthier life
+
+- daily news
+- [working for profit and/or for someone else](/anti-work)
+- daily commute to and from work
+- air conditioning
+- TV
+- gym equipment
