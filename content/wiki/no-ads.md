@@ -1,5 +1,5 @@
 ---
-title: "Against All Ads"
+title: "Against all ads"
 date: 2021-07-27T01:10:58+08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Radical Transportation"
+title: "Radical transportation"
 date: 2021-12-28T12:21:20+08:00
 tags: ["community development", "environment"]
 draft: false
@@ -167,7 +167,7 @@ when we finally address our collective safety.
 We should urge policymakers to improve our mass transportation.[^policy]
 Or, you know, let's just do it ourselves.[^diy]
 Why wait?
-Direct action always gets the goods anyway. `TNU`
+Direct action always gets the goods anyway.
 
 [^policy]: Tan, A. N. O. (2021, November 28). *Cycling advocacy groups push for P14-B budget for projects to improve mobility.* BusinessWorld Online. Retrieved December 28, 2021, from https://www.bworldonline.com/cycling-advocacy-groups-push-for-p14-b-budget-for-projects-to-improve-mobility/
 [^diy]: Bagayas, S. (2020, July 26). *Filipinos’ bayanihan fills in gaps of Duterte government’s pandemic response.* RAPPLER. Retrieved December 28, 2021, from https://www.rappler.com/moveph/filipinos-bayanihan-fills-in-gaps-duterte-government-pandemic-response/#shunning-citizen-led-innovation/

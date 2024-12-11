@@ -5,19 +5,18 @@ draft: false
 ---
 
 Web3 is a buzzword that simply means having the internet go through the
-blockchain,
-in an attempt to decentralize it.
+blockchain, in an attempt to decentralize it.
 
-This is strange;
-small-letter-*i* internet has inherently no central authority.
+But
+lowercase-*i* internet has inherently no central authority.
 
-Or, at least, it start out that way.
+Or, at least, it started out that way.
 
 Big tech companies like Google, Amazon, and Microsoft
-are starting their own walled gardens in attempt
+have created their own walled gardens in attempt
 to centralize huge chunks of the internet for profit.
 
-Somehow, some techbros think that Web3 is a good response to that.
+Somehow, techbros think that Web3 is a good response to that.
 
 [*Web3 is going just great*](https://web3isgoinggreat.com/)
 is a website that lists the disasters happening in
