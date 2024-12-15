@@ -5,6 +5,8 @@ draft: false
 math: false
 ---
 
+> The urge to destroy is a creative urge.
+
 It's weird to have a dedicated page solely for the concept of
 destruction. But it doesn't need to be about *just* bad things in life,
 right.

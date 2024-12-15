@@ -81,6 +81,11 @@ Perhaps, we could think of ways to develop social relations that
 emphasizes, for example, how shameful it is for one to cause harm to the
 community that provides one their basic needs.
 
+Still, it's also worth thinking how we as a community might stop
+ourselves from collectively weaponizing shame to, say,
+destroy the life/lives of people (a la witch hunt) whose values and
+beliefs are not the same as ours.
+
 ### [Non-]violence?
 
 Sometimes, talking just doesn't work. *What if* beating up an abuser is

@@ -6,7 +6,7 @@ draft: false
 
 Our security is only as good as the humans that "maintain" or
 control it. Whether we like it or not, it becomes
-increasingly complex. Adding a functionality---be it to software or
+increasingly complex. Adding a functionality---be it to soft- and/or
 hardware---can introduce unexpected vulnerabilties. And decisions we
 make based on our own abilities to "enhance" security can be
 ineffective.
@@ -20,7 +20,16 @@ be exploited; to question the norms and assumptions. For example, how
 can we better talk to each other in private?
 
 By trying to identify a system's weaknesses, we get closer at making it
-more secure. Teaching designers how a system might fail is just as
+more secure.
+
+As security analysts, we need to ask "why", not just "how", an attack
+can possibly executed by a bad actor. What could their motivations be?
+Is it money, or something else? Is it possible to predict their intent?
+If we rely heavily and put our trust on
+[automation](/automation), attackers can eventually exploit whatever
+predictability is embedded within automated tools or processes.
+
+Teaching designers how a system might fail is just as
 important as thinking about how they will work. In all cases,
 anticipating attacks is the key to preparing for them. In security, we
 do that by [threat modeling](/threat-modeling).

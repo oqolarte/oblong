@@ -19,7 +19,15 @@ do we work in tandem with it, riffing impromp-tunes in our own unique
 ways to make melody for everyone involved? If you don't mind, I prefer
 the latter.
 
-## Entropy
+## Randomness
 
-"Time wounds all heels", so says the humorous spin of a similar-sounding
-adage. And according to physics, that's right.
+> Time wounds all heels.
+
+Randomness is especially useful in [cryptography](/cryptography), and
+some sources in Nature include:
+
+- radioactive decay
+- [motion of fluids](https://en.wikipedia.org/wiki/Lavarand)
+- [atmospheric noise](https://www.random.org/)
+- pulsars
+
