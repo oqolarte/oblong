@@ -10,19 +10,6 @@ More accurately, these are the books I've read since I started
 recording them on November 2019.
 I read slowly, you might notice.
 
-```
-       .--.                   .---.
-   .---|__|           .-.     |~~~|
-.--|===|--|_          |_|     |~~~|--.
-|  |===|  |'\     .---!~|  .--|   |--|
-|%%|   |  |.'\    |===| |--|%%|   |  |
-|%%|   |  |\.'\   |   | |__|  |   |  |
-|  |   |  | \  \  |===| |==|  |   |  |
-|  |   |__|  \.'\ |   |_|__|  |~~~|__|
-|  |===|--|   \.'\|===|~|--|%%|~~~|--|
-^--^---'--^    `-'`---^-^--^--^---'--' hjw
-
-```
 
 | Book Title                                                                                              | Author/s                                   |
 |---------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -74,3 +61,4 @@ I read slowly, you might notice.
 | [EXPECT RESISTANCE](/208/#brief-review-of-expect-resistance)                                            | [CrimethInc](https://crimethinc.com/)      |
 | [All About Love: New Visions](/love)                                                                    | bell hooks                                 |
 | [Dila at Bandila](/236/#brief-review-of-dila-at-bandila)                                                | Ige Ramos                                  |
+| [Purity](/240/#brief-review-of-purity)                                                                  | Jonathan Franzen                           |
