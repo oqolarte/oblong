@@ -9,7 +9,7 @@ AI refers to computer programs that can craft systems to perform tasks
 requiring human-like intellect, like discovery, inference, and
 reasoning. A subset of AI is [Machine Learning](/ml) (ML).
 
-Key Domains of AI:
+## Key Domains of AI:
 
 - Natural Language Processing: Understanding and generating human language.
 - Computer Vision: Making sense of visual data.
@@ -17,10 +17,6 @@ Key Domains of AI:
 - Motion/Robotics: Making machines move or perform tasks.
 - Generative AI: Systems that can create content.
 - *many more*
-
-**More clarification**: LLM is Large Language Model (LLM), the most well-known
-gateway to which is ChatGPT; AGI is Artificial General Intelligence, the
-notion of a computer that can think like people can.
 
 It's something that computer scientists and [engineers](/engineering)
 are developing to supposedly automate boring tasks so we can focus on
@@ -86,7 +82,11 @@ In [an interview by *The Guardian*](https://www.theguardian.com/technology/2021/
 
 ## What to think of LLM
 
-Large language models (LLMs) are not meant to be used as search engines.
+LLM is Large Language Model (LLM), the most well-known
+gateway to which is ChatGPT; AGI is Artificial General Intelligence, the
+notion of a computer that can think like people can.
+
+LLMs are not meant to be used as search engines.
 LLMs are, in simpler terms, based on [statistics](/statistics) in that
 they only predict a likely answer. To understand it better, when you
 type a question or prompt, you're actually asking the LLM to give back

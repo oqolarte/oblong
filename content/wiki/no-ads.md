@@ -158,7 +158,7 @@ If you have more suggestions, feel free to send them to me.
 Installing ad blockers[^brave] is a low-effort, high-reward that anyone can do.
 We highly recommend [ublock Origin](https://ublockorigin.com/).
 1. Don't use Google Chrome.
-If possible, avoid Google products whenever you can.[^google][^google2]
+If possible, avoid Google products whenever you can.[^google2]
 1. If possible, [buy only second-hand products](/refuse).
 Not buying new things circumvents marketing.
 It also has the added benefit of being more eco-friendly.
@@ -215,7 +215,6 @@ More info: https://pi-hole.net/
 
 [^browser]: *Privacy: Securing Your Browser*. (n.d.). The New Oil. Retrieved 09 April 2023, from https://thenewoil.org/en/guides/most-important/browser/
 [^brave]: Some browsers, like [Brave](https://brave.com/) have built-in ad blocker, requiring little to no tweaking from non-techy users.
-[^google]: *Is Google evil?* (2017, December 13). Unix Sheikh. https://www.unixsheikh.com/articles/is-google-evil.html
 [^google2]: Free Software Foundation. (n.d.). *Google’s Software Is Malware.* GNU Project - Free Software Foundation. Retrieved 27 July 2021, from https://www.gnu.org/proprietary/malware-google.html
 [^anarchy]: Ponkan. (2020, June 1). *Advertising Anarchy*. Freedom through Freedom. https://usbong.noblogs.org/post/2020/06/01/advertising-anarchy/
 
@@ -223,7 +222,7 @@ More info: https://pi-hole.net/
 
 If ads are a perverted version of art,
 then they are useless.
-Oscar Wilde had had some strong opinions about art being quite useless.
+[Oscar Wilde](/oscar-wilde) had had some strong opinions about art being quite useless.
 This appendix contains two of them.
 
 ### Preface to *The Picture of Dorian Gray*[^dg]

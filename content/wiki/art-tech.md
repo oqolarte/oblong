@@ -32,45 +32,9 @@ I see it as a challenge, then:
 these limits can push me to come up with new ideas that I might not have
 discovered otherwise.
 
-## Simpler Art with Simpler Tools
-
-1. Drawing and Sketching
-2. Painting: Watercolor paints, acrylics, or even finger painting with tempera paints
-3. Collage: Collect magazines, newspapers, or colorful paper scraps
-4. Found Object Art
-5. Street Art
-6. Digital Art with Basic Tools
-7. Shadow Art
-8. Nature Art
-9. Origami
-10. Body Art
-
-## Complex Art with Simpler Tools
-
-Simpler tools can be used to create intricate art.
-The complexity depends more on the creativity, skill,
-and vision of the artist rather than the tools they use. Here's why:
-
-- Technique: Even with basic tools like a pencil and paper, an artist
-    can employ advanced techniques such as cross-hatching, stippling, or
-    layering to create intricate and detailed drawings.
-- Layering: Artists can achieve complexity by layering colors,
-    textures, or shapes. This can be done with basic painting supplies
-    like watercolors or acrylics.
-- Precision: Artists can use fine motor skills to create intricate
-    details, regardless of the simplicity of the tools. A steady hand
-    and attention to detail can go a long way.
-- Creativity: The imagination of the artist plays a huge role. You can
-    use simple tools to create complex, thought-provoking, or
-    emotionally charged art by exploring new concepts and ideas.
-- Experimentation: Artists can push the boundaries of what's possible
-    with any tool by experimenting and trying new things. This can lead
-    to innovative and complex art forms.
-
 - Who defines what art is?
 - Art's complexity can't be the function of tools' complexity that
   created it, right?
-
 - Art begets art. It can reflect but not resolve.
 
 

@@ -74,7 +74,7 @@ that is associated with malicious activity. Signatures can contain
 specific patterns like a sequence of binary numbers, bytes, or even
 specific data like an IP address.
 
-In the [Pyramid of Pain](/indicators-of-compromise/#pyramid-of-pain),
+In the [Pyramid of Pain](/pyramid-of-pain),
 prioritizing IoCs and other indicators of attack can be useful for
 creating targeted signatures to detect and block attacks.
 

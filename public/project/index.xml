@@ -6,8 +6,6 @@
     <description>Recent content in Projects on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>ohio@araw.xyz (ohio olarte)</managingEditor>
-    <webMaster>ohio@araw.xyz (ohio olarte)</webMaster>
     
         <atom:link href="https://ohio.araw.xyz/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +14,7 @@
       <title>Sync muzak in Alpine Linux with iPod Classic</title>
       <link>https://ohio.araw.xyz/alpod/</link>
       <pubDate>Thu, 03 Oct 2024 03:00:04 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/alpod/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -217,7 +215,7 @@ with iPod.&lt;/li&gt;
       <title>Each Day Poking</title>
       <link>https://ohio.araw.xyz/edp/</link>
       <pubDate>Tue, 01 Oct 2024 21:38:55 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/edp/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -513,7 +511,7 @@ way.&lt;/p&gt;
       <title>Wiki by Hugo and Vimwiki</title>
       <link>https://ohio.araw.xyz/wiki-meta/</link>
       <pubDate>Tue, 30 Jan 2024 06:37:13 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/wiki-meta/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
@@ -529,13 +527,23 @@ Status:
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#personal-knowledge-management-pkm-system&#34;&gt;Personal Knowledge Management (PKM) System&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#integration-with-hugo&#34;&gt;Integration with Hugo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#assumptions&#34;&gt;Assumptions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#markdown-experience-for-your-wiki&#34;&gt;Markdown experience for your wiki&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#integration-with-hugo&#34;&gt;Integration with Hugo&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#create-a-wiki-section-in-hugo-directory&#34;&gt;Create a wiki section in Hugo directory&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#laying-out-the-wiki-hugo-way&#34;&gt;Laying out the wiki, Hugo way&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#index-files&#34;&gt;Index files&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#copy-pkm-files-to-hugo-site&#34;&gt;Copy PKM files to Hugo site&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#preparing-each-note-to-be-hugo-ready&#34;&gt;Preparing each note to be Hugo-ready&lt;/a&gt;
       &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#front-matter&#34;&gt;Front matter&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#automatically-add-front-matter&#34;&gt;Automatically add front matter&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#config-the-initvim-to-call-the-script&#34;&gt;Config the &lt;code&gt;init.vim&lt;/code&gt; to call the script&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#generate&#34;&gt;Generate!&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -544,62 +552,112 @@ Status:
 &lt;h2 id=&#34;personal-knowledge-management-pkm-system&#34;&gt;Personal Knowledge Management (PKM) System&lt;/h2&gt;
 &lt;p&gt;Having a second brain is getting more popular.
 In it&amp;rsquo;s simplest form, it&amp;rsquo;s a bunch of personal notes on different
-topics. When these notes are linked to one another so that they
-encourage formation of novel ideas, then their sum becomes a knowledge
-base&amp;mdash;a low-tech brain if you will&amp;mdash;that one can use to augment that thing
-between one&amp;rsquo;s ears.&lt;/p&gt;
-&lt;p&gt;Personally, digital note-taking systems make good second brains.
-And there are a lot of them.&lt;/p&gt;
-&lt;p&gt;I use &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;Vimwiki&lt;/a&gt; on top of
-&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; text editor.
-That means if you aren&amp;rsquo;t already using Vim or neovim as your default
-text editor, Vimwiki might not be for you.
-Otherwise, read on.&lt;/p&gt;
+topics compiled over a period of time.
+When these notes are linked to one another so that they
+might form new ideas, then their sum becomes a knowledge
+base&amp;mdash;a low-tech brain if you will&amp;mdash;that one can use to help with
+Thinking.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;assumptions&#34;&gt;Assumptions&lt;/h2&gt;
+&lt;p&gt;This write-up assumes the following that the reader:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;knows how to use both &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;Vimwiki&lt;/a&gt; and
+&lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; (or &lt;a href=&#34;https://www.vim.org&#34;&gt;vim&lt;/a&gt;);&lt;/li&gt;
+&lt;li&gt;uses &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; as their static site generator for
+their website;&lt;/li&gt;
+&lt;li&gt;is interested in sharing their PKM (i.e., in the form of VimWiki) to
+the public via their website&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With that, read on.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;markdown-experience-for-your-wiki&#34;&gt;Markdown experience for your wiki&lt;/h2&gt;
 &lt;p&gt;The out-of-the-box &lt;code&gt;.wiki&lt;/code&gt; syntax of Vimwiki is a derivative of
-Markdown. It can be confusing at first, though. So, for a cohesive
-text-editing experience, we&amp;rsquo;ll tweak it so that we can use actual
-Markdown syntax (important for blogging in Hugo).&lt;/p&gt;
-&lt;p&gt;To do so, I configured my &lt;code&gt;init.vim&lt;/code&gt; to have the
-following snippet:&lt;/p&gt;
+Markdown, but not the variant that&amp;rsquo;s widely adopted. So, for a cohesive
+experience, I included the following snippet &lt;code&gt;init.vim&lt;/code&gt; it so I can use &lt;em&gt;the&lt;/em&gt;
+Markdown syntax, that is, text files with &lt;code&gt;.md&lt;/code&gt; extension:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;let g:vimwiki_list = [{&amp;#39;path&amp;#39;: &amp;#39;~/path/to/vimwiki/&amp;#39;,
                       \ &amp;#39;syntax&amp;#39;: &amp;#39;markdown&amp;#39;, &amp;#39;ext&amp;#39;: &amp;#39;.md&amp;#39;}]
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I can now write my notes using &lt;code&gt;.md&lt;/code&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;With this I can now write notes using &lt;code&gt;.md&lt;/code&gt; and NOT &lt;code&gt;.wiki&lt;/code&gt;, which is important because Hugo only works with the former.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;integration-with-hugo&#34;&gt;Integration with Hugo&lt;/h2&gt;
-&lt;p&gt;I use the static-site generator, &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; to generate
-the HTML files of this blog.&lt;/p&gt;
-&lt;p&gt;To migrate my offline wiki to this blog, I made a separate section in this
-site&amp;rsquo;s folder structure, under &lt;code&gt;content&lt;/code&gt;:&lt;/p&gt;
+&lt;h3 id=&#34;create-a-wiki-section-in-hugo-directory&#34;&gt;Create a wiki section in Hugo directory&lt;/h3&gt;
+&lt;p&gt;I made a separate section in Hugo&amp;rsquo;s site&amp;rsquo;s folder structure, under
+&lt;code&gt;content&lt;/code&gt;, called &lt;code&gt;wiki&lt;/code&gt;, into which I&amp;rsquo;ll copy my PKM files. (For more
+info on this, &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;Hugo&amp;rsquo;s Quick Start&lt;/a&gt; is a helpful
+guide.)&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mkdir content/wiki/
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I&amp;rsquo;m not building my wiki within the site directory and am keeping it in
-a separate folder, to have compartmentalization. This friction is
-non-issue for now.&lt;/p&gt;
-&lt;p&gt;To migrate, I run a few commands:&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;laying-out-the-wiki-hugo-way&#34;&gt;Laying out the wiki, Hugo way&lt;/h3&gt;
+&lt;p&gt;Ensure that there is a &lt;code&gt;wiki&lt;/code&gt; folder under
+&lt;code&gt;layouts/&lt;/code&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;mkdir layouts/wiki/
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I populate this folder with &lt;code&gt;single.html&lt;/code&gt; and &lt;code&gt;list.html&lt;/code&gt; files; the former is
+a template for how each page in the wiki would look like, and the latter
+is for the list of all the notes.&lt;/p&gt;
+&lt;p&gt;The following are the stripped down version for &lt;code&gt;single.html&lt;/code&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{ define &amp;#34;main&amp;#34; }}
+
+&amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+
+{{ .Content }}
+
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And now, the &lt;code&gt;list.html&lt;/code&gt;:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{ define &amp;#34;main&amp;#34; }}
+
+&amp;lt;h1&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt;
+
+{{ range .Pages.ByLastmod }}
+&amp;lt;a href=&amp;#34;{{ .RelPermalink }}&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/a&amp;gt;&amp;lt;br&amp;gt;
+{{ end }}
+
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;index-files&#34;&gt;Index files&lt;/h3&gt;
+&lt;p&gt;I created an &lt;code&gt;_index.md&lt;/code&gt; file placed under the &lt;code&gt;content/wiki/&lt;/code&gt; section, and this just contains the title of that page, like so:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;---
+title: &amp;#34;Digital Garden 🌱&amp;#34;
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Meanwhile, recall VimWiki also has its own &lt;code&gt;index.md&lt;/code&gt; (originally
+&lt;code&gt;index.wiki&lt;/code&gt; out of the box). When copying the offline PKM files into
+&lt;code&gt;content/wiki/&lt;/code&gt; section, we don&amp;rsquo;t need to copy this particular index
+file to not cause any weird issues.&lt;/p&gt;
+&lt;p&gt;To be clear, I don&amp;rsquo;t have my PKM within this Hugo&amp;rsquo;s site directory. I am
+keeping it in a separate folder, to have compartmentalization. This
+friction is non-issue for now as will be apparent in the next few
+commands.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;copy-pkm-files-to-hugo-site&#34;&gt;Copy PKM files to Hugo site&lt;/h3&gt;
+&lt;p&gt;To migrate, I run a few commands in my terminal:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;cp -rv /path/to/offline-wiki/*.md /home/user/site-directory/content/wiki/
 rm /home/user/site-directory/content/wiki/index.md
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The &lt;code&gt;cp&lt;/code&gt; line just copies all &lt;code&gt;.md&lt;/code&gt; files to the wiki section of this
-site. The &lt;code&gt;rm&lt;/code&gt; line deletes the index file of the offline wiki; I made a
-separate &amp;ldquo;index&amp;rdquo; file for the wiki section. This solves the weird issues
-of having two index files, one from Vimwiki, and one from Hugo build.&lt;/p&gt;
-&lt;p&gt;To make this easier, I include these lines in my Makefile which includes
-other automation as well. When I run &lt;code&gt;make build&lt;/code&gt; in my terminal, my
-blog update now includes the latest changes from my wiki.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;cp&lt;/code&gt; line just copies all &lt;code&gt;.md&lt;/code&gt; files to the wiki section of this
+site.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;rm&lt;/code&gt; line deletes the index file of the offline wiki&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;PRO TIP&lt;/strong&gt;: To make this easier, I have included these lines in a Makefile that builds and publishes my website. When I run &lt;code&gt;make build&lt;/code&gt; in my terminal, my
+blog update now includes the latest changes from my wiki. (Note: making
+a Makefile is outside the scope of this post.)&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;preparing-each-note-to-be-hugo-ready&#34;&gt;Preparing each note to be Hugo-ready&lt;/h2&gt;
 &lt;p&gt;For this to work, each note must be Hugo-ready. Writing the notes in
-Markdown is already half the work. Next will be adding front matter to
-each note.&lt;/p&gt;
+Markdown is already half the work. Next is to ensure each note has a
+front matter. For more info on this, check Hugo&amp;rsquo;s page on &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;&gt;Front Matter&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h3 id=&#34;front-matter&#34;&gt;Front matter&lt;/h3&gt;
-&lt;p&gt;According to Hugo&amp;rsquo;s docs, &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;&gt;front matter&lt;/a&gt; is the
-metadata of the file, containing, for example, title, tags, description,
-etc.&lt;/p&gt;
+&lt;h3 id=&#34;automatically-add-front-matter&#34;&gt;Automatically add front matter&lt;/h3&gt;
 &lt;p&gt;To automatically add front matter each time you create a note, create a
-script that the Vimwiki can call. I&amp;rsquo;ll call this &lt;code&gt;gen-wiki-template&lt;/code&gt; and
-place it on Vim config directory, say &lt;code&gt;~/.vim/bin/gen-wiki-template&lt;/code&gt;:&lt;/p&gt;
+script that the VimWiki can call. I&amp;rsquo;ll call this &lt;code&gt;gen-wiki-template&lt;/code&gt; and
+place it on Vim config directory, say &lt;code&gt;~/.vim/bin/gen-wiki-template&lt;/code&gt;.
+The script itself contains the following lines:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#!/bin/sh
 
 isod=$(date +%F)
@@ -611,7 +669,8 @@ draft: false
 math: false
 ---&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;As you can see, it&amp;rsquo;s a rather simple script. Feel free to edit to meet
-your front matter needs.&lt;/p&gt;
+your front matter needs. What it does is it prints (&amp;ldquo;echoes&amp;rdquo;) a
+templated front matter, including the date on which the note is created.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;config-the-initvim-to-call-the-script&#34;&gt;Config the &lt;code&gt;init.vim&lt;/code&gt; to call the script&lt;/h3&gt;
@@ -621,10 +680,13 @@ front matter, add this line below to your vim &lt;code&gt;init.vim&lt;/code&gt;.
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;This means that every time a new file (note) is created within the wiki
 folder, &lt;code&gt;gen-wiki-template&lt;/code&gt; script is run. The script just echoes the
 front matter on the blank file.&lt;/p&gt;
-&lt;p&gt;Having front matter in the wiki is helpful because I can set &lt;code&gt;draft: true&lt;/code&gt; and not
-make a note publicly available yet still accessible to me.&lt;/p&gt;
+&lt;p&gt;Having front matter in the wiki is helpful because I can set &lt;code&gt;draft: true&lt;/code&gt; and not worry about making a note publicly available yet still
+accessible to me (via offline PKM).&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
+&lt;h2 id=&#34;generate&#34;&gt;Generate!&lt;/h2&gt;
+&lt;p&gt;At this point, when you generate your site using &lt;code&gt;hugo&lt;/code&gt; command, your
+wiki should now be included and is ready to be published online.&lt;/p&gt;
 </description>
     </item>
     
@@ -632,7 +694,7 @@ make a note publicly available yet still accessible to me.&lt;/p&gt;
       <title>Video Log - November 2022 </title>
       <link>https://ohio.araw.xyz/nov2022-vlog/</link>
       <pubDate>Tue, 27 Dec 2022 11:50:58 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/nov2022-vlog/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -805,7 +867,7 @@ I suspect, though, that I can give a decent output if I do this thing more.&lt;/
       <title>Knowing Here</title>
       <link>https://ohio.araw.xyz/here/</link>
       <pubDate>Sun, 01 May 2022 18:46:15 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/here/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
@@ -914,7 +976,7 @@ So, this will definitely be an internet-assisted effort.&amp;#160;&lt;a href=&#3
       <title>Dada: Text-only Local News</title>
       <link>https://ohio.araw.xyz/dada/</link>
       <pubDate>Sun, 10 Apr 2022 01:35:49 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/dada/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
@@ -969,35 +1031,35 @@ but I&amp;rsquo;ll be focusing my efforts in these four.&lt;/p&gt;
 Ours here in the Philippines, more so.
 According to &lt;a href=&#34;https://gtmetrix.com&#34;&gt;GTMetrix&lt;/a&gt;, the weight of each site is:&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Site&lt;/th&gt;
-&lt;th style=&#34;text-align:right&#34;&gt;Compressed&lt;/th&gt;
-&lt;th style=&#34;text-align:right&#34;&gt;Uncompressed&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;INQ&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;8.4 MB&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;18.7 MB&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;MB&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;5 MB&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;11.3 MB&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;PHS&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;3.3 MB&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;12.9 MB&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;RAP&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;3 MB&lt;/td&gt;
-&lt;td style=&#34;text-align:right&#34;&gt;7.4 MB&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Site&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Compressed&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Uncompressed&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;INQ&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;8.4 MB&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;18.7 MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;MB&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5 MB&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;11.3 MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;PHS&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3.3 MB&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12.9 MB&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;RAP&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3 MB&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;7.4 MB&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;That&amp;rsquo;s an average of ~5 MB (~12.6 MB uncompressed)!&lt;/p&gt;
 &lt;/li&gt;
@@ -1062,7 +1124,7 @@ this is entirely different from the art movement of similarly spelled name.&amp;
       <title>Daily Photos - Feb 2022</title>
       <link>https://ohio.araw.xyz/feb2022-photos/</link>
       <pubDate>Tue, 01 Feb 2022 23:24:14 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/feb2022-photos/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -1413,7 +1475,7 @@ to capture a feeling in a visual medium to be our anchor to the past.&lt;/p&gt;
       <title>The Old Computer Challenge</title>
       <link>https://ohio.araw.xyz/old-computer/</link>
       <pubDate>Sat, 10 Jul 2021 13:21:43 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/old-computer/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -1877,7 +1939,7 @@ I installed the former after removing the latter.&amp;#160;&lt;a href=&#34;#fnre
       <title>My Bullet Journal Method</title>
       <link>https://ohio.araw.xyz/bujo/</link>
       <pubDate>Thu, 13 May 2021 17:04:58 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/bujo/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
@@ -2114,7 +2176,7 @@ Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorit
       <title>Imbentori: Personal Truths &amp; Dreams</title>
       <link>https://ohio.araw.xyz/imbentori/</link>
       <pubDate>Mon, 08 Mar 2021 11:59:15 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/imbentori/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:
@@ -5944,12 +6006,7 @@ be sent packing to make room for their &amp;ldquo;adjustments&amp;rdquo;?&lt;/p&
 
 &lt;h3 id=&#34;entry--182&#34;&gt;Entry # 182&lt;/h3&gt;
 &lt;p&gt;Date: Thu, 25 Dec 2014&lt;/p&gt;
-&lt;p&gt;i&amp;rsquo;ve watched &lt;em&gt;Toy Story&lt;/em&gt; plenty of times, and it&amp;rsquo;s only the most recent
-one that i finally got to laugh at this one brief scene between mr.
-potatohead and hamm in which the latter altered his face to emulate a
-picasso painting. hamm &amp;ldquo;&lt;/p&gt;
-\[didn&#39;t\]
-&lt;p&gt; get it&amp;rdquo; (as many kids don&amp;rsquo;t). mr.
+\[didn&#39;t\]&lt;p&gt; get it&amp;rdquo; (as many kids don&amp;rsquo;t). mr.
 potatohead, said &amp;ldquo;you uncultured swine!&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;took me, what, more than a decade to get that?&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -8601,11 +8658,7 @@ voluminous slime that once belonged to a thousand animated mammals.&lt;/p&gt;
 &lt;p&gt;first, on paper. and, if it is theoretically sound, then on a wise
 choice. i show you the final draft, just in case. in fact, let the
 elusive wisdom be the basis of all future makings.&lt;/p&gt;
-&lt;p&gt;on the last milestone, i&amp;rsquo;d kiss you a tonne or not,
-whichever produces the highest note&amp;hellip;
-you are a &lt;/p&gt;
-\[REDACTED\]
-&lt;p&gt; vision, a prognosis borne out of ancient
+\[REDACTED\]&lt;p&gt; vision, a prognosis borne out of ancient
 wound mutating to a dense flesh. it was a horrible plot twist,
 i thought, but it doesn&amp;rsquo;t make the reality any less favorable.&lt;/p&gt;
 &lt;p&gt;we go back to the beginning, long before the crown has been broken.
@@ -10593,7 +10646,7 @@ Thanks, &lt;a href=&#34;https://tkmk.tumblr.com&#34;&gt;Tom&lt;/a&gt;&amp;#160;&
       <title>iPod Classic Hard Drive Upgrade</title>
       <link>https://ohio.araw.xyz/mercipod/</link>
       <pubDate>Tue, 02 Feb 2021 17:45:52 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/mercipod/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -10865,7 +10918,7 @@ Without prior knowledge, one would think that the iPod was not designed to be ma
       <title>Encoding: From Hardcopy to Softcopy</title>
       <link>https://ohio.araw.xyz/encode/</link>
       <pubDate>Mon, 18 Jan 2021 16:48:23 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/encode/</guid>
       <description>&lt;p class=&#34;statusDone&#34;&gt;
 Status:
@@ -11004,7 +11057,7 @@ Most of the password managers have randomizers, which prints out random strings 
       <title>Always Carry Website</title>
       <link>https://ohio.araw.xyz/alwayscarry/</link>
       <pubDate>Sat, 02 Jan 2021 15:02:49 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/alwayscarry/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
@@ -11196,7 +11249,7 @@ Right now, as mentioned, we focus the content management in IG due to its reach.
       <title>Homebrew Server</title>
       <link>https://ohio.araw.xyz/server/</link>
       <pubDate>Tue, 22 Dec 2020 22:37:41 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/server/</guid>
       <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
@@ -11620,7 +11673,7 @@ For more info: &lt;a href=&#34;https://www.ssh.com&#34;&gt;https://www.ssh.com&l
       <title>Site Construction</title>
       <link>https://ohio.araw.xyz/site/</link>
       <pubDate>Fri, 27 Nov 2020 14:42:32 +0800</pubDate>
-      <author>ohio@araw.xyz (ohio olarte)</author>
+      
       <guid>https://ohio.araw.xyz/site/</guid>
       <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
 Status:

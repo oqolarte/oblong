@@ -1,5 +1,5 @@
 ---
-title: "Understanding Automation"
+title: "Understanding automation"
 date: 2020-06-05
 draft: false
 ---
@@ -30,7 +30,7 @@ things one could do after regaining some of the time that was previously
 allocated for "work". More people would then look into other avenues of
 [creating value](/life-value).
 
-## Is it even possible?
+## Is it possible?
 
 There's a lot to unpack here, and I'm not the right person to go through
 tem. But here are a few thoughts.
@@ -69,19 +69,6 @@ biases of those that develop them. Like how dictionaries can be
 racist.[^dict1][^dict2] Or like how facial recognition software can be
 racist. [^face1][^face2]
 
-[^dict1]: Abagond, J. (2016, April 5). *“The dictionary was written by
-White people.”* Abagond.
-https://abagond.wordpress.com/2016/04/05/the-dictionary-was-written-by-white-people/
-[^dict2]:*“BUT THE DICTIONARY SAYS---”* (2012, October 20). FUCK YOUR
-RACISM.
-https://fuckyourracism.tumblr.com/post/33943946460/but-the-dictionary-says
-[^face1]: Najibi, A. (2020, October 26). *Racial Discrimination in Face
-Recognition Technology*. Science in the News.
-https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/
-[^face2]: Breland, A. (2017, December 4). *How white engineers built
-racist code – and why it’s dangerous for black people*. The Guardian.
-https://www.theguardian.com/technology/2017/dec/04/racist-facial-recognition-white-coders-black-people-police
-
 Moreover, the idea that machines are more efficient in doing tasks than
 humans is important to acknowledge here. We must remember that while the
 Industrial Revolution (arguably) increased productivity by employment of
@@ -89,7 +76,7 @@ machines, it has also allowed efficient and effective [destruction](/destruction
 natural environment which, in my opinion, offsets the benefits gained.
 
 Consider this: The future of automation will likely depend on the
-development of AI/ML. AI/ML relies on the processing prowess of
+development of [AI](/ai)/[ML](/ml). AI/ML relies on the processing prowess of
 computers which rely on their hardware. Electronics rely on mining
 industry, supply chain logistics, and oil industry, all of which harms
 the environment on a global scale.
@@ -133,3 +120,18 @@ nobody wants to do:
 4. If nobody still wants to do it, it has to be done, there's no other
    available options, *and* it's as optimized and bearable as we can
    make it, whoever is able probably just takes turns.
+
+[^dict1]: Abagond, J. (2016, April 5). *“The dictionary was written by
+White people.”* Abagond.
+https://abagond.wordpress.com/2016/04/05/the-dictionary-was-written-by-white-people/
+[^dict2]:*“BUT THE DICTIONARY SAYS---”* (2012, October 20). FUCK YOUR
+RACISM.
+https://fuckyourracism.tumblr.com/post/33943946460/but-the-dictionary-says
+[^face1]: Najibi, A. (2020, October 26). *Racial Discrimination in Face
+Recognition Technology*. Science in the News.
+https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/
+[^face2]: Breland, A. (2017, December 4). *How white engineers built
+racist code – and why it’s dangerous for black people*. The Guardian.
+https://www.theguardian.com/technology/2017/dec/04/racist-facial-recognition-white-coders-black-people-police
+
+

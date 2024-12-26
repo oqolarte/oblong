@@ -9,9 +9,9 @@ draft: false
 
 ## Default apps
 
-- Operating System: [Alpine Linux v3.20 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
+- Operating System: [Alpine Linux v3.21 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
-- Web Browsers: [Firefox](https://www.mozilla.org/en-US/firefox/new/) (laptop), [Mull](https://divestos.org/pages/our_apps#mull) (Android)
+- Web Browsers: [Chromium](https://www.chromium.org/chromium-projects/) (laptop), [Mull](https://divestos.org/pages/our_apps#mull) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
       Rural Dictionary, rimgo, Quetre)
@@ -84,4 +84,3 @@ into the curriculum early on, it won't be easy learning about FOSS alternatives.
 I try not to get obsessed, though, on picking the right tools.
 There's no perfect tool, and even the great ones will not save you;
 how you use them might.
-

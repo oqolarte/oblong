@@ -4,8 +4,8 @@ title = "to oblique lair"
 enableGitInfo = true
 
 [author]
-    email = 'ohio@araw.xyz'
-    name = 'ohio olarte'
+    email = "ohio@araw.xyz"
+    name = "ohio olarte"
 
 [permalinks]
     log = "/:filename:"
@@ -24,7 +24,8 @@ enableGitInfo = true
         [markup.goldmark.extensions.passthrough.delimiters]
           block = [['\[', '\]'], ['$$', '$$']]
           inline = [['\(', '\)']]
-
+        [markup.goldmark.renderer]
+              unsafe = true
 [params]
   dateFormat = "2 Jan 2006"
   math = false

@@ -1,5 +1,5 @@
 ---
-title: "On Fascism"
+title: "On fascism"
 date: 2022-11-20
 draft: false
 ---

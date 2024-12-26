@@ -182,7 +182,7 @@ people isolate themselves from their neighbors.
 
 ## Romance
 
-"Falling in love" implies on has no choice but to let gravity of the
+"Falling in love" implies one has no choice but to let the gravity of the
 situation pull them together, excusing themselves of the consequences of
 [in]actions. But to love means choosing it every time you feel it and
 express it. You are responsible for what you do.

@@ -28,7 +28,8 @@ that one, max of two, people can maintain easily.
   few hours each day.
 - Try using [computer](/computer) the Unix way. Consider using TUI
   (terminal- or text-based user interface) for programs that are text
-  heavy, e.g., text editors, email clients, RSS feed readers, etc.
+  heavy, e.g., text editors, email clients, RSS feed readers, etc. A
+  great resource is [Terminal Trove](https://terminaltrove.com/)
 - Ditch TV. Related to this, ava, in "[death to screens!](https://blog.avas.space/death-to-screens/)" post, talks
   about how they arrive to reducing the screens they use to one.
   Consider if that would also work for you.[^self]

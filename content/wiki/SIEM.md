@@ -78,7 +78,7 @@ and allows security professionals to determine if security
 infrastructure and policies are performing as designed. Security
 analysts can use this dashboard to monitor and investigate potential
 threats in real time, such as suspicious network activity originating
-from a specific IP address.
+from a specific [IP address](/ip-address).
 
 Executive summary dashboard
 : analyzes and monitors the overall health of the organization over
@@ -112,12 +112,13 @@ Chronicle provides multiple dashboards which are the following:
 
 Enterprise insights dashboard
 : highlights recent alerts. It identifies suspicious domain names in
-logs, known as [indicators of compromise](/indicators-of-compromise) (IOCs). Each result is labeled
-with a confidence score to indicate the likelihood of a threat. It also
-provides a severity level that indicates the significance of each threat
-to the organization. A security analyst might use this dashboard to
-monitor login or data access attempts related to a critical asset—like
-an application or system—from unusual locations or devices.
+logs, known as [indicators of compromise](/indicators-of-compromise)
+(IoCs). Each result is labeled with a confidence score to indicate the
+likelihood of a threat. It also provides a severity level that indicates
+the significance of each threat to the organization. A security analyst
+might use this dashboard to monitor login or data access attempts
+related to a critical asset—like an application or system—from unusual
+locations or devices.
 
 Data ingestion and health dashboard
 : shows the number of event logs, log sources, and success rates of data
@@ -141,7 +142,7 @@ Main dashboard
 : displays a high-level summary of information related to the
 organization’s data ingestion, alerting, and event activity over time.
 Security professionals can use this dashboard to access a timeline of
-security events—such as a spike in failed login attempts— to identify
+security events---such as a spike in failed login attempts---identify
 threat trends across log sources, devices, IP addresses, and physical
 locations.
 

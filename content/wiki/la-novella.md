@@ -7,29 +7,34 @@ draft: true
 ## Dedication (?)
 
 ACROSS ALL TIMES AND ALL WORLDS:
-To past me who wouldn't believe it;
+To past me who could not have imagined them;
 to Isya here and now;
 and to the blooming flora and fauna that *will* rise from the ruins of
-Empire in the distant future
+Empire in the distant future and dimensions
 
 ## One-sentence pitch
 
-A man with super-regeneration uses his own flesh as an ingredient in the dishes
-he cooks, and he wants to end Hunger.
+A radical cook uses his own flesh as an ingredient to end Hunger.
 
 ## One-paragraph pitch
 
-A man who accidentally discovers his super-regeneration abilities when
-he was young decides to open a diner in an effort to feed as many people
-in his community at an affordable price. His mad idea is to offer
-himself, literally, as an ingredient in the food, by cutting flesh
-(since it will grow back anyway), [preserving it](/meat-preservation) in
-a way, and then preparing meals. In succeeding operations, he discovers
-it's harder to keep this unorthodox way a secret from his small crew. He
-also notices that his regeneration rate is getting longer, until it
-reaches a point that it's taking years for him to heal.
+A cook with super-regeneration decides bands with his friends to open a
+small diner in an effort to feed as many people in his community at an
+affordable price. His mad idea is to offer himself, literally, as an
+ingredient in the food, by cutting the bone and flesh (since it will
+grow back anyway), [preserving it](/meat-preservation) in a way, and
+then preparing meals. To scale their operations, they try to secure
+funding from investors from within their social circles. In succeeding
+operations, he discovers it's harder to keep this unorthodox way a
+secret from people. If they were to build a future they want, how could
+he cultivate trust among them while keeping his secret? He also notices
+that his regeneration rate is getting longer depending on how severe and
+frequent his wounds are, until it reaches a point that it's taking years
+for him to heal.
 
 ## Characters
+
+### List of characters
 
 - An eccentric group of three people called Sunshine:
         - glam model, photog, make-up artist
@@ -38,7 +43,8 @@ reaches a point that it's taking years for him to heal.
         - Make-up artist is a queer guy, who's roughly the same age as the
           model; they're former classmates in a well known art school in Manila.
 - 4 main conflicting characters, also with superhuman abilities:
-        - Amorsolo (like the famous painter), a self-taught chef with incredible self-regeneration (anarch)
+        - Amorsolo (like the famous painter), a self-taught chef with
+          incredible self-regeneration (anarch)
         - Pete, charms their way out of problems, and way into solutions
           ([fasc](/fascism))
         - Krima, who has never received any kind of physical harm in
@@ -55,6 +61,39 @@ reaches a point that it's taking years for him to heal.
   trustworthy") who go through the trash of celebrities who hire them
   for their deep cleaning services in search for the latest "chizmax"
   (gossip).
+- Another entrepreneur who dreams of being a billionaire no matter what,
+  just so he could be able to help others through charity. It is not
+  lost on him the irony of reaching the billionaire status might also
+  require him to step on other people. In his quest, he constantly runs
+  into moral quandaries and tries to refine his methods. Wil he end up
+  being a billionaire?
+
+### TEMPLATE FOR EACH CHARACTER
+
+- Name
+- Level of importance: Minor, Secondary, Main
+- Motivation (what do they want abstractly?)
+- Goal (what do they want concretely?)
+- Conflict (what prevents them from reaching this goal?)
+- Epiphany (what will they learn, how will they change?)
+- One sentence summary
+- One paragraph summary of character's storyline
+- More details...
+
+## PLOT
+
+### Ideas (but not final yet)
+
+- Plot idea: One of the character's soliloquy:
+        - "I feel like I'm in a chapter that's about to end.
+        If you're responsible for this, please put down the book
+
+### Template for plots
+
+- Importance: minor, secondary, main
+- character/s
+- description
+- result
 
 ## Locations
 
@@ -62,12 +101,10 @@ reaches a point that it's taking years for him to heal.
   from Diliman Commune, but learning from its mistakes. All its entry
   and exit points have concrete bollards that only allow human-powered
   modes of transpo, like [bikes](/bike), push-carts, wheelchairs.
-
-## Other Ideas
-
-- Plot idea: One of the character's soliloquy:
-        - "I feel like I'm in a chapter that's about to end.
-        If you're responsible for this, please put down the book
 - RESENTMENT FACILITY: A place where parties settle their differences,
   mediated by a trusted third-party facilitator from within the
   community.
+
+## World design and building
+
+- 90s aesthetics everything

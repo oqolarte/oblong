@@ -6,7 +6,8 @@ draft: false
 math: false
 ---
 
-*If* I die, I wish for the following:
+*If* I die, I wish for the following, ordered from most important to
+least:
 
 1. Donate all my usable organs to medical and/or scientific causes.
 2. Dispose my body to the sea. Wrap my body in preferably biodegradable

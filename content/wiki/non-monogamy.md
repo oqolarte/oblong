@@ -1,5 +1,5 @@
 ---
-title: "On Ethical Non-monogamy"
+title: "On ethical non-monogamy"
 date: 2023-09-18
 draft: false
 ---

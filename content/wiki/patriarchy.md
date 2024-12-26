@@ -5,7 +5,7 @@ draft: false
 ---
 
 Joan Westenberg argues
-[the patriarchy is a modern invention, not the natural order](https://joanwestenberg.com/blog/the-patriarchy-is-a-modern-invention-not-the-natural-order).
+[the patriarchy is a modern invention, not the natural order](https://web.archive.org/web/20240215185522/https://www.joanwestenberg.com/blog/the-patriarchy-is-a-modern-invention-not-the-natural-order/).
 
 > For over 90% of human existence, during our hunter-gatherer phase,
 > social structures tended to be egalitarian, with equal status and

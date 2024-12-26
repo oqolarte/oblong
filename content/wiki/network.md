@@ -147,7 +147,7 @@ Virtualization tools
 Data packet
 : a basic unit of information that travels from one device to another
 within a network. Includes:
-    - Header: contains internet protocol (IP) address, the media access
+    - Header: contains [internet protocol (IP) address](/ip-address), the media access
       control (MAC) address of the destination device, the protocol
       number, size of packet
     - Body: contains the messsage that needs to be transmitted to the

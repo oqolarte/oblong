@@ -15,6 +15,7 @@ reference from which to learn.
 - [anti-work](/anti-work)
 - [community](/community)
 - [counter-insurgency](/counter-insurgency)
+- [direct action](/direct-action)
 - [feminism](/feminism)
 - [friendship](/friendship)
 - [love](/love)

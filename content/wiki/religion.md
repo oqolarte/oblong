@@ -1,10 +1,10 @@
 ---
-title: "On Religion"
+title: "On religion"
 date: 2023-04-14
 draft: false
 ---
 
-Religion, itself, is not bad.
+Religion, itself, is not bad. Maybe.
 
 Or a more nuanced take would be, many religions have imparted nuggets of
 wisdom that are still relevant today; their texts are filled with
@@ -56,3 +56,12 @@ better.
 
 The people saying that *all* religion is just toxic dogma need to check
 themselves.
+
+## Protestant Ethic
+
+Protestant Ethic states that life is good only if one works hard, is
+frugal, and has self-restraint. Poverty, the Ethic goes, is escapable;
+it all depends on the individual's discipline and austerity. All this
+does not factor in the external factors beyond one's control, like bad
+luck, bad employers exploiting their labor, or bad economy, the pull of
+all of which is *very* hard to escape.

@@ -3,6 +3,7 @@ title: "Abolition"
 date: 2022-11-10
 draft: false
 ---
+
 Abolition means a world with no police and no prisons,
 and the necessary steps we need to make it possible eventually.
 It's neither police nor prison reform;
@@ -10,11 +11,13 @@ it means uprooting those two which are based on the old-think of
 punishing the harm-doer,
 and ensuring these institutions won't be needed again ever.
 
-Prisons as they exist now are crimes against humanity,
-and they need to be abolished regardless of the fallout.
+Prisons as they exist now are crimes against humanity, designed to
+*require* cruelty from those that operate it daily---including guards,
+wardens, doctors and other medical workers, and other laborers in
+between---and they need to be abolished regardless of the fallout.
 Whatever shape or form the prison industrial complex takes, we can be
-sure that it will strip its prisoners of of their humanity.
-Throwing people in them can never be in the name of justice.
+sure that it will strip its prisoners off of their humanity. Throwing
+people in them can never be in the name of justice.
 
 Many crimes today are because of systemic issues.
 With tighter community, such crimes would be less likely to happen
