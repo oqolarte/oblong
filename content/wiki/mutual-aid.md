@@ -8,10 +8,13 @@ draft: false
 Bring what you can,
 take what you need.
 
-Mutual aid is a situation where you have two or more parties who are on equal footing,
-equal power and social standing and worth,
-giving each other things that they need for mutual benefit and support.
-It isn't an exchange, however, because it doesn't take place in one sitting, and isn't calculated.
+## Mutual aid in details
+
+Mutual aid is a situation where you have two or more parties who are on
+equal footing, equal power and social standing and worth, giving each
+other things that they need for mutual benefit and support. It isn't an
+exchange, however, because it doesn't take place in one sitting, and
+isn't calculated.
 
 For example, I could help you out with something you need help with,
 and my only expectation would be that you, or a friend of yours,
@@ -22,19 +25,30 @@ It doesn't matter what the two things are
 or how far apart they take place---I could help fix your computer
 and you could cook me chicken soup while I'm sick;
 or I could [get you enough food](/feeding) to last the week,
-and you could let me crash at your place between rentals---as long as
+and you could let me crash at your place if I'm being kicked out of my
+place---as long as
 the chain of reciprocity continues.
 The only time I'd stop is if I did something for you and you never did anything remotely worth it for me in return
 (and that's a flexible limit, too, it doesn't have to be one for one),
 which is why you're motivated to reciprocate if you want to keep this mutually beneficial relationship going with me.
 
-Basically, it's a flexible way for resources to flow through social networks to the places where they are needed from who can spare them.
-It's a way of satisfying the
-"from each according to their ability, to each according to their need"
-maxim of communism without having a central planner
-or forcing anyone to do anything---because
-giving according to your ability motivates others to give to you according to what you need
-because if you don't ever get anything in return then they're just freeloading on you and you don't have to keep giving aid to them.
+Basically, it's a flexible way for resources to flow through social
+networks to the places where they are needed from who can spare them.
+It's a way of satisfying the "from each according to their ability, to
+each according to their need" maxim of communism without having a
+central planner or forcing anyone to do anything---because giving
+according to your ability motivates others to give to you according to
+what you need because if you don't ever get anything in return then
+they're just freeloading on you and you don't have to keep giving aid to
+them.
+
+Mutual aid requires infrastructure: it need proximity (even virtual
+proximity), [community](/community), [friendship](/friendship), and conviviality.
+
+The making of infrastructure is important. Without developing this,
+mutual aid tends to devolve into another form of charity.
+
+## Mutual aid is different from charity
 
 On the other hand, charity---and many of its recent forms
 including [effective altruism](/ea) and longtermism---has a clear power imbalance:

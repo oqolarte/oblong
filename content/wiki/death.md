@@ -29,6 +29,11 @@ livestreaming. Seeing death this intense will repeatedly prick the body
 thousands, millions of times unless it becomes apparent that inaction
 only induces pain.
 
+[The act of committing] suicide is a hard choice to make, I would
+imagine, but it grants one final moment of agency. And that is all
+that matters when things get super gnarly and the oppressors would not
+stop until they have picked the bones clean.
+
 ### Choosing Life
 
 As I both continue and struggle to choose life, despite emotional and

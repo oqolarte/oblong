@@ -1108,6 +1108,11 @@ possibly by combining Beautiful Soup and Flask.&lt;/li&gt;
 &lt;h2 id=&#34;similar-projects&#34;&gt;Similar Project/s&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://neuters.de&#34;&gt;Neuters.de&lt;/a&gt; is an alternative frontend to Reuters,
 implemented using Rust programming language.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://brutalist.report/&#34;&gt;The Brutalist Report&lt;/a&gt; aggregates headlines
+from major news sites, but the headlines themselves are only links to
+the actual articles.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

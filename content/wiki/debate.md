@@ -17,3 +17,5 @@ one isn't willing to unlearn, like how it is in accountability:
 change. In the same way, people should be willing to unlearn and interrogate
 their own assumptions, standpoints, and positionalities and not feel entitled
 for others to labor to convince them.
+
+For my mental health, I try not to argue with strangers online.

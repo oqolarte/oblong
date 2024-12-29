@@ -81,6 +81,7 @@ Now, I'm not a fan of news sites to begin with,
 nor do I consume news all that much.
 
 {{< btt >}}
+
 ## Recommendations
 
 1. Implement this using a POSIX shell script.
@@ -96,3 +97,9 @@ possibly by combining Beautiful Soup and Flask.
 
 [Neuters.de](https://neuters.de) is an alternative frontend to Reuters,
 implemented using Rust programming language.
+
+[The Brutalist Report](https://brutalist.report/) aggregates headlines
+from major news sites, but the headlines themselves are only links to
+the actual articles.
+
+{{< btt >}}

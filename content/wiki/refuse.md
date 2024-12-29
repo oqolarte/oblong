@@ -1,9 +1,11 @@
 ---
-title: "Refuse! There's enough stuff in circulation for ALL"
+title: "Refuse!"
 date: 2020-05-25T17:12:01+08:00
 tags: ["zero waste", "environment"]
 draft: false
 ---
+
+There's enough stuff in circulation for all.
 
 > The best thing you can do is not buy more stuff[^minter].  -- Adam
 > Minter
@@ -12,9 +14,9 @@ draft: false
 not buy more stuff,” says “Secondhand” Expert.* NPR.
 https://www.npr.org/2019/12/04/784702588/the-best-thing-you-can-do-is-not-buy-more-stuff-says-secondhand-expert
 
-Advertisers and marketers have smooth-talked us into *buying* our way
-out of our problems. They blast us with colorful material and witty
-words in all media. Makes us think that we could *almost* excuse
+[Advertisers and marketers have smooth-talked us](/no-ads) into *buying* our way
+out of our problems. They blast us with colorful material and witty words in all media.
+Makes us think that we could *almost* excuse
 ourselves for falling for their pitches.
 
 We buy these solutions with either our money or time. It's likely both,

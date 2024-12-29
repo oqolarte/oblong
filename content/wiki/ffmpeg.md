@@ -34,3 +34,7 @@ i.e., `00:16:00` in this case.
 ## Command loop
 
 Sample Bash [script](/noautorotate.sh) for looping ffmpeg commands
+
+## Resources
+
+[How to: Prepare video for YouTube with FFmpeg](https://obrien.engineer/how-to-prepare-video-for-youtube-ffmpeg/)

@@ -77,7 +77,12 @@ such books here, including the reason why I stopped reading it. This
 will serve as a log for Future Me who might want to pick up the book
 again.
 
-| Book and the Author/s | Why            |
-|-----------------------|----------------|
-| *to be filled*        | *to be filled* |
+***These lives were made for us to writhe in*** by **Justine Tiongco**  
+**Why**: I do like the prose. However, since it's a collection of the author's
+musings on video games and related ideas, I find hard to
+relate to the work, because I may have outgrown video games. I
+also feel like writing about video games must include lots of
+related visuals of the game itself. The book does have
+graphics and images, but they tend to be more abstract sketches of the
+author.
 
