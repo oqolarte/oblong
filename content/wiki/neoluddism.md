@@ -119,7 +119,22 @@ Talking points?
 - Can we look beneath the UI or UX design and possibly determine the
   intention of its creators?
 - How does FOSS stack up to these?
-- Currently, I am *trying* to pivot to cybersecurity, with the hopes of
+- Currently, I am *trying* to pivot into a career path that ensures
+  privacy and security of people, with the hopes of
   one day giving back to my communities. The technological landscape of
   the future is too murky to be left alone to the surveillance of states
   and corporations.
+- If Luddites smashed the looms as a protest against their working
+  conditions, what does it mean to be a neo-Luddite? To me, it means
+  using a wide range of tech---from the simpler Unix command line tools
+  to the more complex self-hosted open source large language
+  models---NOT to serve the already huge conglomerates whose state
+  agents' boots are upon our necks. The proverbial smashing part might
+  mean using FOSS and/or pirating corporations' proprietary tools to
+  undo their machineries. In any case, I see Neo-Luddism as their
+  planned obsolescence, the planned part executed through riotous
+  collective bargaining, a two-prong approach of offense and defense
+  that will render the ruling class no more. While smashing the
+  proverbial looms is a cathartic option, an alternative for the
+  neo-Luddites would be to instead repurpose them into something that
+  may or may not have an inherent Productive Value.

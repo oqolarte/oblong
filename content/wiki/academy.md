@@ -34,3 +34,12 @@ between academic science and economic prosperity. Are we to believe that
 universities are repositories of knowledge? Or can we also access
 knowledge outside of academia, and contribute even to the betterment of
 society?
+
+## Writing papers, sharing ideas?
+
+Paywalls hinder people from gaining information.
+Consider the 2014 Ebola outbreak and how the
+disease had been mapped out since the 1980s, but that info hadn’t been
+disseminated to west African scientists and doctors during the epidemic
+because it was only posted among European and American academic
+communities, with paywalls as high as USD 40 per article.

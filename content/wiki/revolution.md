@@ -1,5 +1,5 @@
 ---
-title: "On Revolution"
+title: "Revolution: Series of infinite steps"
 date: 2022-10-25
 draft: false
 ---
@@ -54,6 +54,8 @@ rippling out to immediate communities and the larger society.
 The goal is to [abolish](/abolition) all kinds of oppression.
 Anyone who wants to
 become the oppressor does not want a lasting liberation for all.
+It is difficult, knowing we will be fighting it on two fronts:
+neoliberalism and [fascism](/fascism).
 
 As for me, I feel the need to stick these ideals, because learning more
 about them helps me undo what needs to be undone, and unlearn what needs
