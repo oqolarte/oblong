@@ -68,12 +68,13 @@ Contrast this with [modular arithmetic](/modular-arithmetic), which is a
 little more than working with the remainders left over after performing
 normal arithmetic operations.
 
-## Important Number Theory concepts
+## Some famous number theory concepts
 
 - [Euler's totient function](/euler-totient-function)
 - [Euler's Totient theorem](/euler-totient-theorem)
 - [Discrete Logarithms](/discrete-logarithms)
 - [Chinese Remainder Theorem](/crt)
 - [Fermat's Primality Test](/fermat-primality-test)
+- [Fermat's Last Theorem](/fermat-last-theorem)
 - [Miller-Rabin Primality Test](https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test)
 - [Lucas Primality Test](https://en.wikipedia.org/wiki/Lucas_primality_test)

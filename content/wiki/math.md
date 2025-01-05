@@ -1,5 +1,5 @@
 ---
-title: Notes on Math!
+title: "Notes on Math!"
 date: 2023-01-08
 draft: false
 ---
@@ -27,7 +27,7 @@ Reference: [Susan Rigetti's Math notes](https://www.susanrigetti.com/math)
 
 - *e: The Story of a Number* by Eli Maor
 - *The Joy Of X: A Guided Tour of Math, from One to Infinity* by Steven H. Strogatz
-- *Fermat’s Enigma* by Simon Singh
+- [*Fermat's Enigma*](/242/#brief-review-of-fermats-enigma) by Simon Singh
 - *The Man Who Loved Only Numbers* by Paul Hoffman
 - *The Man Who Knew Infinity* by Robert Kanigel
 - *Flatland* by Edwin A. Abbott

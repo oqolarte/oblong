@@ -1,5 +1,5 @@
 ---
-title: "On Veganism"
+title: "On veganism"
 date: 2022-08-17
 draft: false
 ---
@@ -10,6 +10,9 @@ elsewhere.
 We have reached a point where some societies can already go full vegan,
 while others simply can't, whether it's because of their environment or
 something else.
+
+Over time, I hope for this page to evolve to include ideas on this topic
+for me (and reader/s?) as a non-vegan to think about.
 
 ![Stop sign that has been "improved" by appending stickers that say "eating animals"](/image/stop.png)
 

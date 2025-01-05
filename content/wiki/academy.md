@@ -43,3 +43,7 @@ disease had been mapped out since the 1980s, but that info hadn’t been
 disseminated to west African scientists and doctors during the epidemic
 because it was only posted among European and American academic
 communities, with paywalls as high as USD 40 per article.
+
+Contrary to popular belief, academia---and more broadly, science---is
+not pure objectivity and truth. Science is a process embedded in
+societal contexts.

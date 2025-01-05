@@ -1,5 +1,5 @@
 ---
-title: "On Democracy"
+title: "On democracy"
 date: 2024-08-21
 draft: false
 math: false
@@ -10,8 +10,6 @@ which the desires of majority trample those of the minority.
 
 Democracy is therefore rigged to appease the majority and
 [make the process profitable](/capitalism) to keep the status quo.
-
-What, you think it benefits everyone?
 
 At least within the so-called Philippines, its implementation is a sham.
 It is impossible for anyone to legislate for everyone else. All of us
