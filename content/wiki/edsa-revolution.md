@@ -1,8 +1,12 @@
 ---
-title: "On EDSA Revolution"
+title: "On EDSA revolution"
 date: 2023-02-25
 draft: false
 ---
+
+In February 1986, the Marcos family was unceremoniously flown to Hawaii
+by the US government which installed the dictatorship for the longest
+time.
 
 Friend 1 muses:
 

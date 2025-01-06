@@ -1,5 +1,5 @@
 ---
-title: "Carbon Footprint"
+title: "Carbon footprint"
 date: 2024-05-26
 draft: false
 math: false
