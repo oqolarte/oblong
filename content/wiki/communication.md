@@ -6,26 +6,29 @@ draft: false
 
 Notes on tools and techniques for effective communication.
 
+## Incubating ideas
+
+For a discipline to be widely adopted and then improved upon, it must be
+based on understandable concpets, themselves based on a language that
+can scale well.
+
 ## Writing as a medium
 
-...is my main form of creating,
-of expressing myself,
-be it for public or private eyes.
+...is my main form of creating, of expressing myself, be it for public
+or private eyes.
 
-[Writing](/writing) scales well.
-I try to put effort no matter
-how big or small the body of text I'm writing.
+[Writing](/writing) scales well. I try to put effort no matter how big
+or small the body of text I'm writing.
 
 For non-fiction, keep intros to a minimum (or zero) and get to the main
 point as soon as you can.
 
 ## People?
 
-[Talking to people](/public-speaking) can get [frustrating](/frustration),
-especially via internet where everyone seems to be in perpetual [debate](/debate)
-with one another,
-and more so in many of the social media platforms.
-Just don't give up on them.
+[Talking to people](/public-speaking) can get
+[frustrating](/frustration), especially via internet where everyone
+seems to be in perpetual [debate](/debate) with one another, and more so
+in many of the social media platforms. Just don't give up on them.
 "[Because there isn't a perfect solution to a people problem.](https://seths.blog/2022/11/people-problems-are-complicated-problems/)"
 
 Still, there is no illegitimate perspective! Share your own and encourage

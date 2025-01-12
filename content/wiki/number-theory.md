@@ -68,6 +68,16 @@ Contrast this with [modular arithmetic](/modular-arithmetic), which is a
 little more than working with the remainders left over after performing
 normal arithmetic operations.
 
+## Practical uses of imaginary number
+
+/( i /) or /( sqrt{-1} /) has some real world uses:
+
+- analyzing swinging motion of objects;
+- in [electrical engineering](/electrical), analyzing electrical
+  currents;
+- in theoretical physics, calculating the oscillating quantum mechanical wave
+  functions
+
 ## Some famous number theory concepts
 
 - [Euler's totient function](/euler-totient-function)

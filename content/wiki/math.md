@@ -1,5 +1,5 @@
 ---
-title: "Notes on Math!"
+title: "Notes on math!"
 date: 2023-01-08
 draft: false
 ---
@@ -34,10 +34,6 @@ Reference: [Susan Rigetti's Math notes](https://www.susanrigetti.com/math)
 - *A Mathematician’s Apology* by G.H. Hardy
 - *Fearless Symmetry* by Avner Ash and Robert Gross
 - *Proofs from THE BOOK* by Martin Aigner and Günter M. Ziegler
-
-## Studying
-
-Solving problems is the only way to understand math.
 
 ## Curriculum
 

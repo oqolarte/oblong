@@ -63,3 +63,41 @@ depended on its divisors:
 - [Perfect number](https://en.wikipedia.org/wiki/Perfect_number) is a
   natural number whose sum of proper divisors (also called [aliquot sum](https://en.wikipedia.org/wiki/Aliquot_sum))**is equal to** the number. The
   first four perfect numbers are **6, 28, 496, and 8128**.
+
+Tale as old as time: cult leader Pythagoras could not accept the
+existence of irrational numbers, because he himself was actually
+irrational for believing that the universe would bend to his ideals that
+"All is Number," that everything can be explained by beautiful whole
+numbers and fractions. In the end, he could not fully accept the rigors
+of mathematics.
+
+## French Mathematicians
+
+French (Parisian) mathematicians used to be secretive with their
+calculations. This was because of how their reputation relied on
+guarding their methods, which was incentivized by the prestige of coming
+up with their own clever ways of calculating, say, complex accounting
+problems. Imagine, though, what would happen [if they had open-sourced their ways](/osint).
+This individualism, I think, is more persistent in western cultures.
+
+Blaise Pascal believed that religion is a gamble worth playing. And he
+related his rationale to how players feel when betting. If paradise is
+inifinite happiness and contentment, then it could be infinitely
+exciting, no matter how little, the chance of "winning" is.
+
+## Euler's breakthrough in Fermat's last theorem
+
+Leonard Euler found a major breakthrough in Fermat's last theorem when
+he explored Fermat's notes on a proof by contradiction called [method of infinite descent](https://en.wikipedia.org/wiki/Proof_by_infinite_descent).
+Details of which can be found in [this section of the related Wikipedia article](https://en.wikipedia.org/wiki/Proof_of_Fermat%27s_Last_Theorem_for_specific_exponents#n_=_3).
+
+Euler's proof at /( n = 3 /) also proves the cases of /( n /) that's
+multiple of 3. The number 3 is also a prime number. This meant that
+proving Fermat's last theorem was "reduced" to just the prime numbers of /( n /)
+because composite numbers comprise primes.
+
+Sure, there are infinite prime numbers, but at least it is "less than"
+all infinite whole numbers. Speaking of infinite numbers,
+[Euclid's theorem](https://en.wikipedia.org/wiki/Euclid%27s_theorem)
+states that there are indeed infinite prime numbers. (Proof is on the
+linked Wikipedia page)
