@@ -13,6 +13,8 @@ their hieroglyphic or symbol-based writings on monuments and walls.
 
 Modern applications also include integrity of digital transactions.
 
+{{< toc >}}
+
 ## Intro to Cryptography
 
 - Cryptography uses the idea of "alphabet" to express the minimal

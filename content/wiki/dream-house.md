@@ -12,6 +12,8 @@ principles including the following:
 - Sustainable [engineering](/engineering)
 - Low [technology](/technology)
 
+{{< toc >}}
+
 ## Civil Works
 
 - Polished [concrete](/concrete), but if possible, limit its use to
@@ -25,7 +27,10 @@ principles including the following:
 - window, accordion screen, sliding
 - Garage: optional
 - Baked bricks with slats where the sun wall is
-- if bungalow: [Solar house with passive cooling](https://www.builditsolar.com/Projects/Cooling/passive_cooling.htm)
+- If bungalow: [Solar house with passive cooling](https://www.builditsolar.com/Projects/Cooling/passive_cooling.htm)
+- NOT directly above fault line, within at least 5 meters, or at least
+  10 for good measure
+    - Check https://hazardhunter.georisk.gov.ph/map# for more details
 
 ## Architectural
 

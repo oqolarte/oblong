@@ -6,6 +6,8 @@ draft: false
 
 ![Use only what you need](/image/design-need.jpg)
 
+{{< toc >}}
+
 A good design is a boring design.
 It doesn't interfere,
 but it works when and where you need it.

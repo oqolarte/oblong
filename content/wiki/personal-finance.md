@@ -8,6 +8,8 @@ Money doesn't make one happy;
 but it's something we use to function
 in a society where it is, unfortunately, highly valued.
 
+{{< toc >}}
+
 I don't aim to be rich, which is tricky: how rich is rich?
 As far as I know, there's no strict metric, so for me:
 being rich is when I can live comfortably and [extend that comfort](/mutual-aid)

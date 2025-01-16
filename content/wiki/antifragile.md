@@ -8,6 +8,8 @@ math: false
 *Mostly raw notes from Nassim Nicholas Taleb's book of the same title.
 Each paragraph can be considered a self-contained note.*
 
+{{< toc >}}
+
 Learning things and building to a level of resilience requires practice.
 Action trumps thinking alone. **Practice over theory**. On the flip
 side, words are scalable, and through them we can share knowledge across

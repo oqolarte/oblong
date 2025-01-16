@@ -5,6 +5,10 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 A **virtual machine** (VM) is a virtual version of a physical
 [computer](/computer). Virtual machines are one example of
 virtualization. **Virtualization** is the process of using software to

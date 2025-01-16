@@ -5,6 +5,10 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 Security hardening is the process of strengthening a system to reduce
 its vulnerability and attack surface. All the potential vulnerabilities
 that a [threat actor](/threat-actor) could exploit are referred to as a system's attack

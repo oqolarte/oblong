@@ -12,6 +12,10 @@ proprietary infrastructure.
 And like many network infrastructure,
 [the cloud also needs to be secured](/cloud-security).
 
+{{< toc >}}
+
+## Intro
+
 Cloud computing is the practice of using remote servers, applications,
 and [network](/network) services that are hosted on the
 [internet](/internet) instead of on local physical devices.

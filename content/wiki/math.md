@@ -13,6 +13,8 @@ the sake of it.
 
 It's also a field filled with "drama."
 
+{{< toc >}}
+
 People's aptitude for mathematics can be influenced by a combination of
 factors such as inherent cognitive abilities, early exposure and
 education, motivation, and problem-solving skills. Some individuals may

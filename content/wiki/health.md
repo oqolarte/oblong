@@ -10,6 +10,8 @@ Improving and maintaining my health is one major way to accomplish that.
 
 Be aware of [intervention that might lead to worse outcomes](/iatrogenics).
 
+{{< toc >}}
+
 ## Physical Fitness
 
 Fitness depends on many factors (no, not like [BMI](/BMI)),

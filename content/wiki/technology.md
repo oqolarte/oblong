@@ -10,6 +10,8 @@ we live in,
 for example, to [create an ideal home](/dream-house).
 On the other hand, it also makes it easy to avoid [human interaction](/communication).
 
+{{< toc >}}
+
 My reasons for learning different pieces of tech
 trace back to my wanting to create something.
 Tech isn't just a bunch of toys only meant for White Male Americans;

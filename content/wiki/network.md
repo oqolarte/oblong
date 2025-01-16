@@ -5,6 +5,8 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
 ## What are networks?
 
 A network is the overall infrastructure that allows a group of connected

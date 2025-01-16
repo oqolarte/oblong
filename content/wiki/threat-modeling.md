@@ -8,6 +8,10 @@ math: false
 Threat modeling is a process of identifying assets,
 their vulnerabilities, and how each is exposed to threats.
 
+{{< toc >}}
+
+## Intro
+
 Applications (mobile, web-based, etc.) have changed the way people
 access the digital world. The volume of
 [data being processed](/data-management)

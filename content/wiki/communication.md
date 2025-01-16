@@ -6,6 +6,8 @@ draft: false
 
 Notes on tools and techniques for effective communication.
 
+{{< toc >}}
+
 ## Incubating ideas
 
 For a discipline to be widely adopted and then improved upon, it must be

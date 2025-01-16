@@ -9,6 +9,9 @@ want to read myself.
 
 It should be [set up in a believeable world, much like this one](/world-building).
 
+
+{{< toc >}}
+
 ## Snowflake Method
 
 [Write a novel using the snowflake method](https://www.advancedfictionwriting.com/articles/snowflake-method/).

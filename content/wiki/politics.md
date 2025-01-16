@@ -9,6 +9,8 @@ necessarily endorse nor condone any of the things found in these pages
 what any state nowadays consider as subversive. But they are here as
 reference from which to learn.
 
+{{< toc >}}
+
 ## Stratetgies
 - [abolition](/abolition)
 - [animal liberation](/animal-liberation)

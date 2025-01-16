@@ -7,6 +7,10 @@ draft: false
 Our modern world is filled with data,
 some considering it to be [the new oil](https://thenewoil.org/en/).
 
+{{< toc >}}
+
+## Intro
+
 Data is the information that is translated, processed, or stored by a
 [computer](/computer). Data can be vulnerable whether it is at rest, in
 use, or in transit. Regardless of the state it is in, information

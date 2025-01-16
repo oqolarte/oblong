@@ -9,6 +9,8 @@ The operating system (OS) is the interface between the hardware
 (physical parts) of the computer and the human user.
 OS helps us use computers more efficiently.
 
+{{< toc >}}
+
 The OS handles resource and memory management to ensure the limited
 capacity of the computer system is used where it is needed most. If a
 computer is running slowly, a [cybersecurity analyst](/cybersecurity)

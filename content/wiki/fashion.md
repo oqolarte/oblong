@@ -7,6 +7,8 @@ draft: false
 [People have been expressing themselves](/communication) through the clothes they wear
 for many, many millenia now.
 
+{{< toc >}}
+
 I hope I'm not too late to this,
 so I'm compiling any fit inspos that I find.
 

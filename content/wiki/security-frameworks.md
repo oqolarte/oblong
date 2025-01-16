@@ -85,3 +85,16 @@ Action-oriented approach to security, and has 3 elements:
 6. Decide on the target profile
 7. Determine, analyze, and prioritize gaps
 8. Implement the plan
+
+## Cyber Kill Chain framework
+
+The [Cyber Kill Chain framework](/cyber-kill-chain) is designed for identification and
+prevention of network intrusions.
+
+- Reconnaissance
+- Weaponization
+- Delivery
+- Exploitation
+- Installation
+- [Command & Control](/c2)
+- Actions on Objectives

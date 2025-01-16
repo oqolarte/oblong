@@ -10,6 +10,8 @@ how access to this information can be used in many different ways. Weak
 information security is a serious problem. It can lead to things like
 identity theft, financial loss, and reputational damage.
 
+{{< toc >}}
+
 ## Safety & Security Mindfulness
 
 We have an anarchistic bias for “information wants to be free”.

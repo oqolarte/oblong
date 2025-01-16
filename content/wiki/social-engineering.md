@@ -60,6 +60,7 @@ and the list below is non-exhaustive:
 10. Tailgating is a social engineering tactic in which unauthorized
     people follow an authorized person into a restricted area. This
     technique is also sometimes referred to as piggybacking.
+11. [Elicitation](https://christina-lekati.medium.com/elicitation-techniques-74be36e212f8) (*"Well, I'm not supposed to share this but..."*) that leads a person to volunteer information, usually sensitive and/or important.
 
 ## Phishing
 

@@ -1,5 +1,5 @@
 ---
-title: "Hash Functions"
+title: "Hash functions"
 date: 2023-11-28
 draft: false
 math: true
@@ -79,14 +79,14 @@ Note that large hash does not imply secure hash.
 ### Properties
 
 - Deterministic:
-        - Same input produces same output
+    - Same input produces same output
 - Computationally simple and fast
-        - only has to be fast and simple enough
+    - only has to be fast and simple enough
 - Messages and digests should be uncorrelated
 - Preimage and second preimage resistant (or [non-invertible](https://en.wikipedia.org/wiki/One-way_function))
 - Collision resistant
-        - also implies second preimage resistant
-        - but does not imply preimage resistant
+    - also implies second preimage resistant
+    - but does not imply preimage resistant
 
 ## Next-generation hashing
 

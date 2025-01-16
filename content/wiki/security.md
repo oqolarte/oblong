@@ -11,6 +11,8 @@ hardware---can introduce unexpected vulnerabilties. And decisions we
 make based on our own abilities to "enhance" security can be
 ineffective.
 
+{{< toc >}}
+
 Security Mindset is the ability to evaluate risk and constantly seek out
 and identify the potential or actual breach of a system. It encourages a
 different way of looking at the world around us: to get into the

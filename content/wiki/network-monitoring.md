@@ -6,8 +6,9 @@ math: false
 ---
 
 [Network communications](/network) provide information about connections
-such as source and destination IP addresses, amount of data transferred,
-date and time, and more. This information can be valuable when
+such as source and destination [IP addresses](/ip-address),
+amount of data transferred,
+date and time, etc. This information can be valuable when
 developing a baseline of normal or expected behavior.
 
 ![A simple line graph with zigzag lines; a horizontal line coming from the y-axis on the left goes to the right, and is labeled "baseline"](/image/baseline.png)
@@ -35,10 +36,10 @@ but not always, associated with network protocols. For example, port 443
 is commonly used by HTTPS which is a protocol that provides website
 traffic encryption.
 
-But malicious actors can use protocols and ports that are not commonly
-associated to maintain communications between the compromised system and
-their own machine by implenting techniques called **command and control
-(C2)**.
+But [malicious actors](/threat-actor) can use protocols and ports that
+are not commonly associated to maintain communications between the
+compromised system and their own machine by implenting techniques called
+[**command and control (C2)**](/c2).
 
 For example, malicious actors can use HTTPS protocol over port 8088 as
 opposed to its commonly associated port 443 to communicate with

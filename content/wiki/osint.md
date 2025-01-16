@@ -10,6 +10,10 @@ available sources to generate usable intelligence. It's commonly used to
 support [cybersecurity](/cybersecurity) activities, like identifying
 potential threats and vulnerabilities.
 
+As info becomes more widely available, researchers can often find the
+data they're looking for, given that they know where and how to look for
+it.
+
 ## Information vs intelligence
 
 *Information* refers to the collection of raw data or facts about a

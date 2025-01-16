@@ -13,6 +13,10 @@ pose a threat, and those that accidentally put assets at risk.
 They use attack vectors, which are pathways to penetrate security
 defenses, to exploit vulnerabilities and exposures.
 
+{{< toc >}}
+
+## Categories
+
 Threat actors are normally divided into five categories based on their
 motivations:
 
