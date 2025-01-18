@@ -87,3 +87,11 @@ related visuals of the game itself. The book does have
 graphics and images, but they tend to be more abstract sketches of the
 author.
 
+
+***The Lonely City*** by **Olivia Laing**  
+**Why**: Olivia Laing writes lovely in this collection of essays about
+loneliness and how she had explored it through art. I just think it's
+too... slow for me, and my own loneliness is impatient and wants to
+dissipate. [While I have some reflections on some of the writings](/249/#reflections-on-the-lonely-city), it
+could be that it's just too New York-y for me.
+On a more positive note, Robin Rendle related the book to someone he was flirting with [on his post with the same title as the book's](https://robinrendle.com/notes/the-lonely-city/).

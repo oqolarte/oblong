@@ -74,6 +74,11 @@ The latter, dare I say, is the result of the improvement of the former.
 From cave wall paintings to trash-worthy NFTs (thank gods the hype is
 over).
 
+Andy Warhol understood, in his own way, and accepted that art is a
+function of technology. To explore new frontiers of his art, he used
+machines and was not afraid of utilizing them to fit his needs. If it
+mean mass producing Pop Art to make a statement, so be it.
+
 For me, I try to master the use of technology when I can so I can be
 more efficient in making art.
 But thinking about it,

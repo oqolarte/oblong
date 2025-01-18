@@ -1,5 +1,5 @@
 ---
-title: "On Sex"
+title: "On sex"
 date: 2024-01-08
 draft: false
 ---
