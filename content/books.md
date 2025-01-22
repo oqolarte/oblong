@@ -68,8 +68,9 @@ I read slowly, you might notice.
 | [Dila at Bandila](/236/#brief-review-of-dila-at-bandila)                                               | Ige Ramos                                  |
 | [Purity](/240/#brief-review-of-purity)                                                                 | Jonathan Franzen                           |
 | [Resist Everything Except Temptation: The Anarchist Philosophy of Oscar Wilde](/241/#brief-review-of-resist-everything)                            | Kristian Williams
-| [Fermat's Enigma](/242/#brief-review-of-fermats-enigma)    | Simon Singh  |
-| [Ransomed by Love](/247/#brief-review-of-ransomed-by-love) | Tony La Viña |
+| [Fermat's Enigma](/242/#brief-review-of-fermats-enigma)    | Simon Singh           |
+| [Ransomed by Love](/247/#brief-review-of-ransomed-by-love) | Tony La Viña          |
+| [Skin in the Game](/250/#brief-review-of-skin-in-the-game) | Nassim Nicholas Taleb |
 
 ## Did not finish
 

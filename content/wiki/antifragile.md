@@ -375,12 +375,7 @@ short term, but [by the joy of it all](/joyful-militancy); etc.
 consequences of each with dignity. Non-risk takers might call you out on
 this endeavor, but don't mind them if they have nothing to offer except
 empty words. "Dogs can't insult me," and even that is an insult to dogs
-to be compared to those who bark but have no skin in the game.
-
-"Never ask anyone for their opinion, forecast, or recommendation. Just
-ask them what they have---or don't have---in their portfolio," the
-author advises. Further, "Never ask a doctor what you should do. Ask him
-what he would do if were in your place."
+to be compared to those who bark but have no [skin in the game](/skin-in-the-game).
 
 "How often someone is right is largely irrelevant in the real world
 but [...] one needs to be a practitioner, not a talker, to figure it

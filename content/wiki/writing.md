@@ -4,14 +4,19 @@ date: 2022-09-10
 draft: false
 ---
 
-I like writing, and I intend to get better at it. Writing allows me to
-shape my thoughts better, either by formalizing it, or by structuring it
+I like writing, and I intend to get better at it.
+
+Writing allows me to
+shape my thoughts better, either by formalizing them, or by structuring
+them
 for others outside myself to better understand my thoughts.
-Sindhu Shivaprasad says it's a "[great stress test](https://sindhu.live/notes/writing-cultures)" to see if certain ideas can connect well, if at all, and if the end result would be of any use to you and/or the readers.
+It's a stress test to see if certain
+ideas can connect well, if at all, and if the end result would be of any
+use to you and/or the readers.
 
 > The person who says he knows what he thinks but cannot exress it
 > usually does not know what he thinks.
-> 
+>
 > -- Mortimer Adler
 
 ## Write compelling headlines, not clickbaits.

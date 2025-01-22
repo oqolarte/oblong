@@ -44,3 +44,7 @@ which leads us to easily hate on each other.
 And if we found ourselves loving, we put a put a valve on it to regulate
 its flow and volume. Can we ever pour ourselves out *and* let others in
 fully this way?
+
+## Further reading/s
+
+[Relationship Anarchy. Dreaming in the belly of the whale.](https://catileptic.tech/posts/relationship-anarchy/)

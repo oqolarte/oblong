@@ -5,66 +5,171 @@ draft: true
 math: false
 ---
 
-Entry for https://fluconf.online
-
-Themes:
+## Themes:
 - Inclusivity and accessibilty in [tech](/technology)
 - Luddism
 - [Privacy](/privacy) and surveillance
 - scaling down technology's climate impact
 
-Abstract:
+## Abstract:
 
 In this article, I aim to talk about my personal experience using neat
-tools in FOSS, how it affects my choices when obtaining a new piece of
-technology, and how it might (or might not) affect the society at large,
-especially if it is to be pitted against the "convenience" delivered by
-Big Tech products and services, all within the context of where I live
-in, the so-called Philippines.
+tools in FOSS, how it affects my regular choices when obtaining a new
+piece of technology, when going about my daily life, and how it might
+(or might not) affect the society at large, especially if it is to be
+pitted against the "convenience" delivered by Big Tech products and
+services, all within the context of where I live in, the so-called
+Philippines.
 
-Talking points?
-- Free and open source software (FOSS), especially when I don't have a
-  background in software engineer, is a niche of a niche in a developing
-  country like the so-called Philippines. And that tiny space is not
-  claustrophobic, I would say, because it is more of a rabbit hole
-  leading to other interesting fields in and outside of tech, which I
-  might not have stumbled into otherwise.
-- In the so-called Philippines, if one could even afford a personal
-  computer (PC), it is expected that Microsoft Windows is the operating
-  system, unless they are rich enough to have Macbooks, in which case
-  they have macOS. But with the wider accessibilty and more affordabilty
-  of smartphones, many people are content with just these mobile devices
-  for their computing needs. And who would not love having their own
-  portable computers in their pockets?
-- Sadly, smartphones, and most of the applications in them that can
-  access the internet, have little to no incentive to respect the
-  owner's privacy, defaulting to collecting as much personal data as it
-  can send it to companies for further analysis. At one point in this
-  country's electoral history, Cambridge Analytica helped elect Rodrigo
-  Duterte, our Trump homebrew, but with more ties to the Chines
-  Communist Party than Trump himself would have liked.
-    - https://web.archive.org/web/20180412234433/https://www.scmp.com/news/asia/southeast-asia/article/2140303/how-cambridge-analyticas-parent-company-helped-man-action
-    - https://www.npr.org/2018/03/20/595338116/what-did-cambridge-analytica-do-during-the-2016-election
-    - https://web.archive.org/web/20240704031216/https://www.rappler.com/philippines/199599-facebook-data-scandal-cambridge-analytica-help-duterte-win-philippine-elections/
-- Interestingly, both the proprietary software and hardware, especially
-  in the realm of smartphones, are designed to be that shiny object that
-  is increasingly hard to put down, easy to pick up.
-- Many years into my FOSS journey, as niche as it is already, I have
-  found my friends who share the same sentiments. Unsurprisngly, we
-  share similar political leanings, which, let's just say, is mostly
-  anti-establishment. Believe it or not, one's personal politics may
-  contribute to how easy or hard it is to transition to using FOSS. As
-  an anecdotal example, I heard that authoritarian leftists  in the
-  country (whos politics I denounce, for the record) working underground
-  use a mish-mash of Linux and FOSS apps to operate, while I have yet to
-  hear the same thing from the State's military and police. In fact, the
-  latter, from I what limited info I know, scour big social media apps
-  like Facebook, because, to their credit, these platforms are treasure
-  troves for personal and/or incriminating data. All anecdotes, of
-  course.
+## Talking points?
+
+Free and open source software (FOSS), especially when I don't have a
+background in software engineer, is a niche of a niche in a developing
+country like the so-called Philippines, kind of like riding a
+singlespeed fixed-gear bike with at least one brake (I have two, front and back, "just to be safe").
+And that tiny space is not
+claustrophobic (both in FOSS and in my fixie example) because it is more of a rabbit hole
+leading to other interesting fields, which I
+might not have reached otherwise.
+
+In the so-called Philippines, if one could even afford a personal
+computer (PC), one would expect Microsoft Windows is the operating
+system, unless they are rich enough to opt for a Macbook, in which case
+they have macOS. But with the wider accessibilty and more affordabilty
+of smartphones, many people are content with just these mobile devices
+for their computing needs. And who would not love having their own
+portable PCs in their pockets that, for as cheap as a *very* light
+snack, can have mobile data to connect it to the internet?
+
+Sadly, smartphones, and most of the applications in them that has
+internet-access, have little to no incentive to respect the
+owner's privacy, defaulting to collecting as much personal data as it
+can send it to companies for further analysis. They analyze these
+aggregated data to serve their users with personalized ads, which in
+turn would retain them on the platform, so they could gather more
+data, and the cycle continues. At one point in this
+country's electoral history, Cambridge Analytica helped elect Rodrigo
+Duterte, our Trump homebrew but laced with more Chinese
+Communist Party spice than Trump himself would have liked.
+
+https://web.archive.org/web/20180412234433/https://www.scmp.com/news/asia/southeast-asia/article/2140303/how-cambridge-analyticas-parent-company-helped-man-action
+
+https://www.npr.org/2018/03/20/595338116/what-did-cambridge-analytica-do-during-the-2016-election
+
+https://web.archive.org/web/20240704031216/https://www.rappler.com/philippines/199599-facebook-data-scandal-cambridge-analytica-help-duterte-win-philippine-elections/
+
+I am not saying that smartphones are bad; they are merely high tech
+tools that can do many things at once, like connect people across huge
+distances without having to sell kidney. And for many things, they are
+great! I, for one, need a smartphone if I were to continue having
+private and secure communication with end-to-end encryption with friends
+and family, which, to wit, cannot happen on basic and feature phones.
+What I'm saying is, Big Tech companies have had the incentive to use
+smartphones as direct point to extract resources from the working class,
+be it in the form of time, attention, data, or all of the above, with
+which to concoct more profit-making and power-consolidating schemes.
+
+Interestingly, both the proprietary software and hardware, especially
+in the realm of smartphones, are designed to be that shiny object that
+is increasingly hard to put down, easy to pick up. I know the feeling
+since day 1 of me having a smartphone.
+
+I inherited my first smartphone, a cheap one with no-name running
+Android, from our [engineering] undergraduate
+thesis titled, "Microcontroller-based Bluetooth Surveillance Robot Using
+Machine Vision System" that my groupmates and I envisioned to "modernize
+surveillance robots" with the assistance of the latest smartphone models
+(serving as control and monitoring device) via Bluetooth, WLAN, and/or
+Internet. And looking back on it now, kind of dystopic. But if you're an
+engineering student, more so in a developing country, more so in a state
+university, nothing is driven unto thee as hard as having ambition.
+Without it, "Who are you?" And so the thesis projects from our batch,
+and the ones that came before and after us, were nothing but ambitious
+attempts: mainly to please the ambitions of our instructors and
+professors who did the same with theirs, but also to have some
+grand-sounding mouthful string of text to put to our CVs when we would
+finally apply for jobs.
+
+Ambition is nice, one would think, but to prop it up requires a solid
+foundation. Take our aforementioned thesis, for example.
+The knowledge we should have had to
+make it all possible---including, but not limited to, working grasp
+on *and* access to microcontrollers, some computer programming, computer
+networking, basic welding for metalwork---was not even taught to us
+because of lack of resources: university funding for necessary lab
+equipment; more engineering instructors with the technical know-how;
+personal computers and/or smartphones for students to access materials
+from the internet; etc. Yet, to graduate from college, i.e., be
+finally "free" and start working, we were forced to participate in this
+culture of ambition---a common theme in Silicon Valley tech startups, I would find out later---instead of maybe looking into the intersting ways appropriate
+technology or permacomputing can affect our lives using existing tech.
+And to particiapte,
+many of us, our team included, had to outsource the technical aspects of
+our theses that we knew nothing of to an enterprising group of
+tech-savvy people whose business is/was to design and build college students'
+"vision" to life. It was not affordable *at all*. Side note: I don't know if
+that particular business is still operating, though I suspect that if
+you ask any graduating engineering student from a relatively reputable
+engineering school, they would point you to at least one such shop.
+Also, before you call
+me out on violating academic integrity, please check your privilege;
+"cheating" is nasty and I don't condone it, but it has been a way of
+students to escape the unfairness and injustice that's innate to our
+current education system.
+
+I briefly talked with such enterprising tech-savvy people, and at the time, they
+were visibly unexcited with the work even if it were for, I think,
+decent money.
+Much, much later, I would realize under
+different circumstances why: *work* is flipping work, an elaborate fuckery
+compounded by misuse of tech, that I would rather not engage in. But I digress.
+
+I digress.
+
+My first smartphone was so cheap it was a hard tap away from being a
+glorified potato. But for all its unremarkability, it did okay. It had
+four-inch capacitive touchscreen, had Bluetooth, connected to wifi, and
+had a headphone jack. And most important of all, it worked---our whole
+thesis project worked---during thesis defense. I inherited it because at
+the time, all my groupmates already had a smartphone of their own, and
+definitely better than this one.
+
+Most enterprising tech-savvy people would not want to extend software
+and hardware support for it, let alone bring it back to life. I can't
+blame them. Such endeavor requires effort, resources, and time,
+something that many of us, myself included, would rather spend on
+shinier, newer, and probably objectively better things. And tech
+workers, you know, have been conditioned to follow where the obscene
+amount of money is. I say that last sentence not to slight them, but to
+remind myself also why I am trying to shift into a tech-adjacent career
+for the supposed non-trivial pay. I do wonder if I still had that potato
+phone today *and* am able to do normal things like offline map
+navigation or, I don't know, private and secure communications.
+
+- Tech life after that first phone was as boring as it gets. I could
+  only vaguely remember what got me into FOSS, if I'm being honest. It;s
+  likely because of some random comment someone on the internet made
+  about something cool, like the Tor project or, more likely, TAILS.
+  Whatever it was, it was my rabbit hole into FOSS, a path that gets
+  narrower as I proceed and branch off.
+
+Many years into my FOSS journey, as niche as it is already, I have
+found my friends who share the same sentiments. Unsurprisngly, we
+share similar political leanings, which, let's just say, is mostly
+anti-establishment. Believe it or not, one's personal politics may
+contribute to how easy or hard it is to transition to using FOSS. As
+an anecdotal example, I heard that authoritarian leftists  in the
+country (whos politics I denounce, for the record) working underground
+use a mish-mash of Linux and FOSS apps to operate, while I have yet to
+hear the same thing from the State's military and police. In fact, the
+latter, from I what limited info I know, scour big social media apps
+like Facebook, because, to their credit, these platforms are treasure
+troves for personal and/or incriminating data. All anecdotes, of
+course.
+
 - Deciding to use Linux as my main OS was a major turning point in my
   FOSS journey. And it was not done overnight. It took many months of
-  research: what Linux distribution (or "distro") would be the best
+  [research](research): what Linux distribution (or "distro") would be the best
   starting point for those switching from Windows; what hardware would
   be best for such distro; what apps to use; etc. From what I could
   glean from those who have been here before me, the Linux landscape is
@@ -123,7 +228,10 @@ Talking points?
   privacy and security of people, with the hopes of
   one day giving back to my communities. The technological landscape of
   the future is too murky to be left alone to the surveillance of states
-  and corporations.
+  and corporations. And I'd rather be the tech worker that sides with
+  the working class, not as another pawn of the capital to further
+  enrich them. In reality, though, it would take more effort to sustain
+  that.
 - If Luddites smashed the looms as a protest against their working
   conditions, what does it mean to be a neo-Luddite? To me, it means
   using a wide range of tech---from the simpler Unix command line tools
