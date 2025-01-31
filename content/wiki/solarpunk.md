@@ -1,5 +1,5 @@
 ---
-title: "On Solarpunk"
+title: "Solarpunk"
 date: 2022-08-17
 draft: false
 ---
@@ -14,11 +14,8 @@ Solarpunk started out as a movement in speculative fiction, [art](/art),
 embody the question “what does a
 [sustainable civilization](/social-ecology) look like, and how can we get there?”
 
-It's a hopeful rendition of the future
-in which [appropriate technology](https://www.appropedia.org/Appropriate_technology),
-renewable energy,
-and sustainable living practices
-[empower us to build communities](/mutual-aid) that we want to live in.
+It's a hopeful rendition of the future in which [appropriate technology](https://www.appropedia.org/Appropriate_technology),
+renewable energy, and sustainable living practices [empower us to build communities](/mutual-aid) that we want to live in.
 
 Solarpunk, like cyberpunk, steampunk and other
 -punk movements, deeply examines how [technology](/technology)
@@ -61,19 +58,14 @@ in this imagined future:
 
 ## Solarpunk in the Philippine archipelago
 
-A solarpunk society in the Philippine archipelago
-could potentially thrive
-by leveraging the region's natural resources
-and favorable climate to support the widespread adoption
-of renewable energy sources such as
-solar,
-wind, and
-hydroelectric power.
+A solarpunk society in the Philippine archipelago could potentially
+thrive by leveraging the region's natural resources and favorable
+climate to support the widespread adoption of renewable energy sources
+such as solar, wind, and hydroelectric power.
 
-Our energy demand can be managed at the community level.
-This might mean installing small-scale solar panels
-and wind turbines on rooftops,
-as well as developing microgrids.
+Our energy demand can be managed at the community level. This might mean
+installing small-scale solar panels and wind turbines on rooftops, as
+well as developing microgrids.
 
 ## Is Solarpunk [absurd](/absurdism)?
 

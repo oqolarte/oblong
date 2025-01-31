@@ -4,9 +4,10 @@ date: 2022-08-01
 draft: false
 ---
 
-The personal is political; the political is personal. I don't
-necessarily endorse nor condone any of the things found in these pages
-what any state nowadays consider as subversive. But they are here as
+The personal is political; the political is personal.
+We can only oppose what we believe. I don't
+necessarily endorse nor condone any of the things found in these pages.
+But they are here as
 reference from which to learn.
 
 {{< toc >}}
@@ -40,6 +41,7 @@ reference from which to learn.
 - [democracy](/democracy)
 - [eco-anarchism](/eco-anarchism)
 - [fascism](/fascism)
+- [Filipino values](/filipino-values)
 - [nihilism](/nihilism)
 - [religion](/religion)
 - [solarpunk](/solarpunk)

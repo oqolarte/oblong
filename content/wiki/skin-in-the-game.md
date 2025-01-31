@@ -78,16 +78,6 @@ finally asked about his passport, Dong admits that he doesn't want to
 take the Philippine passport because it would "severely limit the number
 of countries [he] could go to."
 
-TODO  
-READ 
-https://hhi.harvard.edu/blog/long-term-needs-coastal-communities
-
-Re transferring of risk from one group to another. Author cites an
-example in a footnote about how coastal communities being subsidized by
-state, and thus taxpayers. Supposedly there's an imbalance in risk
-there, but it may not be applicable in the coastal communities in the
-so-called Philippines.
-
 When traveling abroad, people would prefer familiar places like
 McDonald's rather than "risk" uncertainty. I know this, because we
 sometimes do this on our travels, too.

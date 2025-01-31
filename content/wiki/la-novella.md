@@ -67,6 +67,12 @@ for him to heal.
   require him to step on other people. In his quest, he constantly runs
   into moral quandaries and tries to refine his methods. Wil he end up
   being a billionaire?
+- Peil Badaran - first partner/ex of Amor, so named by her parents
+  because of her unnaturally white skin due to albinism. Kids used to
+  mock her when she was much younger. Now grown into a beautiful adult,
+  she still wonders why people would look at her differently. Using her
+  physical trait to her advantage, she would find and charm her people
+  into joining her cause.
 
 ### TEMPLATE FOR EACH CHARACTER
 
@@ -107,4 +113,4 @@ for him to heal.
 
 ## World design and building
 
-- 90s aesthetics everything
+- 90s aesthetics in many things, if not everything
