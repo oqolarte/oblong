@@ -1,7 +1,7 @@
 ---
 title: "Neo-Luddism in a developing country can be odd"
 date: 2024-12-25
-draft: true
+draft: false
 math: false
 ---
 
@@ -9,7 +9,7 @@ math: false
 
 ## Abstract
 
-In this article, I talk about my personal experience using FOSS, how it
+In this essay, I talk about my personal experience using FOSS, how it
 affects my regular choices when obtaining a new piece of technology,
 when going about my daily life, and how it might (or might not) affect
 the society at large, especially if it is to be pitted against the
@@ -288,3 +288,8 @@ necks. More modern interpretations to "smashing the looms":
 - changing the narrative about what is and is not possible in the tools
   we use today by starting with taking the mic from the oligarchy;
 - [SPACE LEFT INTENTIONALLY BLANK; How would you smash the looms?]
+
+## NEXT
+
+This write-up is part of a larger discussion, organized by people at
+FluConf. See more at: https://fluconf.online/program/
