@@ -35,3 +35,7 @@ When relationships begin to crack and break down because of lack of
 consent, we must pause and examine the dynamics that lead up to this
 point, how we can sort these out to ensure all are equally powerful, and
 no one holds another over the other.
+
+## Further reading
+
+- [Erica Rivera's Definition of consent](https://riveraerica.com/consent)

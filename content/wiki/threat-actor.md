@@ -1,5 +1,5 @@
 ---
-title: "Threat actors"
+title: "Threat actor"
 date: 2024-08-20
 draft: false
 math: false

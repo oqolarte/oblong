@@ -4,28 +4,34 @@ date: 2024-01-23
 draft: false
 ---
 
-Humans are naturally trusting and emotional, nothing wrong with that.
-The current systems in place also have made sure that are conditioned to
-respect authority. Bad actors use social engineering to get what they
-want, usually a piece of information like a password, by manipulating
-your emotions through [communication](/communication) to gain something:
-a private information, access, or valuables.
+Humans are naturally trusting and emotional, nothing wrong with that. On
+top of that, [the current systems in place](/empire) also have made sure
+that we are conditioned to respect authority. Bad actors exploit these
+and use social engineering to get what they want, usually a piece of
+information like a password, by manipulating your emotions through
+[communication](/communication) to gain something: a private
+information, access, or valuables.
+
+{{< toc >}}
+
+## How?
 
 One of the highest-profile social engineering attacks that occurred in
-recent years was the
-[Twitter Hack of 2020](https://www.dfs.ny.gov/Twitter_Report).
-During that incident, a group of hackers made phone calls to Twitter
-employees pretending to be from the IT department. Using this basic
-scam, the group managed to gain access to the organization’s network and
-internal tools. This allowed them to take over the accounts of
-high-profile users, including politicians, celebrities, and
-entrepreneurs.
+recent years was the [Twitter Hack of 2020](https://www.dfs.ny.gov/Twitter_Report).
+During that incident, a
+group of hackers made phone calls to Twitter employees pretending to be
+from the IT department. Using this basic scam, the group managed to gain
+access to the organization’s network and internal tools. This allowed
+them to take over the accounts of high-profile users, including
+politicians, celebrities, and entrepreneurs.
 
 [Attackers](/threat-actor) also exploit the fact that more and more
-people are choosing convenience over [privacy](/privacy) and/or
+people are choosing convenience over [privacy](/privacy) and
 [security](/security). This shift in preference may lead to increased
 vulnerability, if people do not examine the tools or services they are
 using well enough.
+
+### Examples
 
 Social engineering can be done in a number of ways,
 and the list below is non-exhaustive:
@@ -51,7 +57,7 @@ and the list below is non-exhaustive:
 8. Physical social engineering: A threat actor impersonates an employee,
    customer, or vendor to obtain unauthorized access to a physical
    location.
-9. Quid pro quo is a type of baiting used to trick someone into
+9. *Quid pro quo* is a type of baiting used to trick someone into
    believing that they’ll be rewarded in return for sharing access,
    information, or money. For example, an attacker might impersonate a
    loan officer at a bank and call customers offering them a lower
