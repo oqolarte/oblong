@@ -9,6 +9,8 @@ Natural disasters regularly hit the Philippine archipelago, from
 volcanic eruptions to typhoons to earthquakes. It only makes sense to
 have DRRM in place. But it's easier said than done.
 
+{{< toc >}}
+
 ## Challenges in local DRRM planning and implemmentation
 
 ### Attitude towards disaster

@@ -3,17 +3,15 @@ title: "On being apolitical"
 date: 2020-11-02
 draft: false
 ---
+
 "Not everything is political."
 
-Sure, there
-is a gram of truth to it; no menace, like [politics](/politics) is,
-can be omnipresent.
-
-But in the expanding Global Digitalization governed by States and
-Capitalists and other tyrants of oppression, [appropriating my data](/privacy),
-the gist of Me, without my consent
-will always be political. And that's just one thing to get agitated
-about.
+There is a gram of truth to it. No menace, like [politics](/politics)
+is, can be omnipresent. But in the expanding Global Digitalization
+governed by States and [Capitalists](/capitalism) and other tyrants of
+oppression, [appropriating my data](/privacy), the gist of Me, without
+my [consent](/consent) will always be political. And that's just one
+thing to get agitated about.
 
 We are suffering from multiple crises:
 - Israel conducting genocide against Palestinian people
@@ -29,7 +27,7 @@ Have you complained about the effects of inflation and the rising of
 prices of everyday necessities?
 
 Have you complained about how the [local] government seems to be not
-doing anything to address natural disasters?
+doing anything [to address natural disasters](/drrm)?
 
 Even in the mundane things like greeting your neighbor good morning, you
 are reinforcing, however little its effect, the sense of community,

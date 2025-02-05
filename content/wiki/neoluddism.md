@@ -30,7 +30,7 @@ Where I live, if one could afford a personal computer (PC), one expects
 Microsoft Windows as the operating system. If they are rich enough,
 though, they might opt for a Macbook, and thus macOS.
 
-But with the wider accessibilty and more affordabilty of smartphones,
+But with the wider accessibility and more affordability of smartphones,
 many people are content with just these mobile devices for their
 computing needs. And who would not love having their own portable PCs in
 their pockets that, for as cheap as a *very* light snack, can have
@@ -39,10 +39,10 @@ mobile data to connect it to the internet?
 Sadly, smartphones, and most of the applications in them that have
 internet access, have little to no incentive to respect the
 owner's privacy, defaulting to collecting as much personal data as it
-can send it to companies for further analysis. They analyze these
+can send to companies for further analysis. They analyze these
 aggregated data to serve their users with personalized ads, which in
-turn would keep them on the platform, so they could gather more
-data, and the cycle continues. At one point in this
+turn would keep them on the platform, gathering more personal data,
+and the cycle continues. At one point in this
 country's electoral history, Cambridge Analytica helped elect Rodrigo
 Duterte, our Trump homebrew but laced with more Chinese
 Communist Party spice than Trump himself would have liked. For more info
@@ -60,7 +60,7 @@ And for many things, they are great! I, for one, need a smartphone if I
 were to continue having private and secure communication with end-to-end
 encryption with friends and family, which, to wit, cannot happen on
 most, if not all, basic and feature phones. On the other hand, Big Tech
-companies have the incentive to use smartphones as direct point to
+companies have the incentive to use smartphones as a direct point to
 extract resources from the working class, be it in the form of time,
 attention, data, or all of the above, with which to concoct more
 profit-making and power-consolidating schemes.
@@ -75,14 +75,13 @@ since day 1 of me having a smartphone.
 I inherited my first smartphone, a cheap one with no-name running
 Android, from our [engineering] undergraduate thesis titled,
 "Microcontroller-based Bluetooth Surveillance Robot Using Machine Vision
-System" that my groupmates and I conceieved to "modernize surveillance
+System" that my group mates and I conceived to "modernize surveillance
 robots" with the help of the smartphone (serving as
 control and monitoring device) via Bluetooth, WLAN, and/or Internet.
 
 Looking back on it now, it was dystopic. But if you're an engineering
 student in a state university in a developing country, nothing is driven
-unto thee as hard and as graceless having ambition. Without it, "Who are
-you?" And so the thesis projects from our batch, and the ones that came
+unto thee as hard and as graceless as having an ambition. And so the thesis projects from our batch, and the ones that came
 before and after us, were nothing but ambitious attempts at engineering,
 mainly to please the ambitions of our instructors and professors who did
 the same with theirs, but also to have some grand-sounding mouthful
@@ -96,7 +95,7 @@ we should have had to make it all possible---including, but not limited
 to, working grasp on *and* access to microcontrollers; some computer
 programming; computer networking; working knowledge on robotics and/or
 mechatronics; basic welding for metalwork---was not
-taught to us because of lack of resources: university funding for
+taught to us because of lack of university resources: funding for
 necessary lab equipment; more engineering instructors with the technical
 know-how; personal computers and/or smartphones for students to access
 materials from the internet; etc.
@@ -104,20 +103,20 @@ materials from the internet; etc.
 Yet, to graduate from college, i.e., be finally "free" and start
 working, we were forced to participate in this culture of ambition---a
 recurring theme in Silicon Valley tech companies, I would find out
-later, filled with rotten techbros---instead of looking for interesting
-ways appropriate technology or permacomputing can affect our lives using
-existing tech. And to participate, many of us, our team included, had to
-outsource the technical aspects of our theses that we knew nothing of to
-an enterprising group of tech-savvy people whose business is/was to
-design and build college students' "vision" to life. It was not
-affordable *at all*. Side note: I don't know if that particular business
-is still operating, though I suspect that if you ask any graduating
-engineering student from a relatively reputable engineering school, they
-would point you to at least one such shop. Also, before you call me out
-on violating academic integrity, please check your privilege; "cheating"
-is nasty and I don't condone it, but it has been a way of students to
-escape the unfairness and injustice that's innate to our current
-education system.
+later, are filled with rotten techbros---instead of people looking for
+interesting ways appropriate technology or permacomputing can affect our
+lives using existing tech. And to participate, many of us, our team
+included, had to outsource the technical aspects of our theses that we
+knew nothing of to an enterprising group of tech-savvy people whose
+business is/was to design and build college students' "vision" to life.
+It was not affordable *at all*. Side note: I don't know if that
+particular business is still operating, though I suspect that if you ask
+any graduating engineering student from a relatively reputable
+engineering school, they would point you to at least one such shop.
+Also, before you call me out on violating academic integrity, please
+check your privilege; "cheating" is nasty and I don't condone it, but it
+has been a way of students to escape the unfairness and injustice that's
+innate in our current education system.
 
 I briefly talked with such enterprising tech-savvy people, and at the
 time, they were visibly unexcited with the work even if they were, I
@@ -138,13 +137,13 @@ definitely better than this one.
 ## As a journeyman
 
 Most enterprising tech-savvy people would not want to extend software
-and hardware support for it, let alone bring it back to life. I can't
+and hardware support for a phone, let alone bring it back to life once it expires its usefulness. I can't
 blame them. Such endeavor requires effort, resources, and time,
 something that many of us, myself included, would rather spend on
 shinier, newer, and probably objectively better things. And tech
 workers, you know, have been conditioned to follow where the obscene
-amount of money is. I say that last sentence not to slight them, but to
-remind myself also why I am trying to shift into a tech-adjacent career
+amount of money is. I say that not to slight them, but to
+also remind myself why I am trying to shift into a tech-adjacent career
 for the supposed non-trivial pay.
 
 My tech journey after that first phone went boring fast. Years prior,
@@ -167,7 +166,7 @@ the boredom I've been feeling about tech in general.
 ### Politics
 
 Now, many years into my FOSS journey, niche as it is, I have somehow
-found friends who share the similar sentiments. Unsurprisngly, we
+found friends who share the similar sentiments. Unsurprisingly, we
 also share similar political leanings, which, let's just say, is mostly
 anti-establishment. Believe it or not, one's personal politics does
 contribute to how easy or hard it is to transition to using FOSS. Many
@@ -175,11 +174,11 @@ things in life, including and especially tech, cannot be divorced from
 politics with a wave of hand or by simply ignoring the nuances.
 
 As an anecdotal example, I heard that authoritarian leftists in the
-country (whose politics I denounce, for the record) working underground
+country (whose policies and politics I denounce, for the record) working underground
 use a mish-mash of Linux and FOSS apps as their tech stack to operate,
 while I have yet to hear the same thing from the State's military and
 police. In fact, the latter, from I what limited info I know, crawl and
-scour big social media apps like Facebook, because, let's face it, these
+scour big social media apps like Facebook, because let's face it, these
 platforms are treasure troves for personal and/or incriminating data.
 
 ### Choosing Linux
@@ -216,43 +215,43 @@ you make back-ups before doing so. This mindset then led me deeper,
 beneath the software---to the bunch of semiconductors and pieces of
 metal that does the computation. Small steps like swapping RAM or
 replacing the hard drive, if both is even possible on the computer, can
-be exhilerating for a non-technician like me who just wants to not have
+be exhilarating for a non-technician like me who just wants to not have
 to buy another computer if/when this one stops working for some reason.
 
 Exploring this has intensified my support for our right to repair the
 devices we own. Software depends on the hardware and maintaining the
-latter is just as important as that the former.
+latter is just as important as the former.
 
-Repairing stuff, however, is neither new nor that radical concept for
+Repairing stuff, however, is neither new nor that radical of a concept for
 me. In developing countries, repair is just a way to extend an object's
 life. Repair is not necessarily seen as a political act, although it can
-and has been; it is another service that someone might offer as a
+and has been as it is another service that someone might offer as a
 non-expensive alternative to buying new. Here, technicians for all kinds
 of tech are abundant, at least in major city centers; and so having
 one's broken stuff repaired will not break bank.
 
 Still, when I read about how Big Tech overseas design their products
 with planned obsolescence, I wonder what kind of world do the top
-stakeholders of, say, Apple, imagine when they ship AirPods, which,
+stakeholders of, say, Apple, imagine when they ship AirPods which
 according to [iFixit's Airpods Repair](https://www.ifixit.com/Device/AirPods)
 page, scores *zero* out of ten in terms of repairability.
 
 The wastefulness of Global North negatively impacts the overall quality
 of life for those in Global South. The neocolonialism of the former
 continues to carve out non-renewable resources from the latter, powered
-by modern slavery and multiple environmental catastrophe.
+by modern slavery and multiple environmental catastrophes.
 
 ## Smash convenience
 
 STEM makes great strides forward. Scientists and engineers go on to make
 better technologies to improve our quality of life. It affords us a
-degree of convenience. But there can be such thing as too much
+degree of convenience. But there can be such a thing as too much
 convenience. We risk losing our ability for problem solving, which we
 would leave to those who know how. And it is not affordable *at all*,
 remember?
 
 We place too much value on
-convenience at the expence of other lives, even of our lives; we just do
+convenience at the expense of other lives, even our own; we just do
 not know that yet. There are a lot of boring and menial work that we
 would rather outsource to the machines, but I think we're still far from
 full automation. For example, recall the humanoid bots at the Tesla
