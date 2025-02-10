@@ -55,7 +55,7 @@ Reference: [Susan Rigetti's Math notes](https://www.susanrigetti.com/math)
 - [Modular exponentiation](/modular-exponentiation)
 - [topology](/topology)
 
-## Beautiful Formulas
+## Beautiful math things
 
 More than numerals and symbols,
 these are art works in their own right.
@@ -66,3 +66,4 @@ Below is a list of what I like but don't necessarily understand.
 - [Pythagorean theorem](https://en.wikipedia.org/wiki/Pythagorean_theorem)
 - [1 = 0.9999999...](https://math.hmc.edu/funfacts/why-does-0-999-1/)
 - [Euler's Identity](https://en.wikipedia.org/wiki/Euler%27s_identity)
+- [Chvátal’s art gallery theorem](https://www.futilitycloset.com/2019/03/26/crime-control/)

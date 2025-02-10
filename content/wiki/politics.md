@@ -23,6 +23,7 @@ reference from which to learn.
 - [friendship](/friendship)
 - [love](/love)
 - [mutual aid](/mutual-aid)
+- [Neo-Luddism](/neoluddism)  
 - [pedagogy](/pedagogy)
 - [prefiguration](/prefiguration)
 - [revolution](/revolution)

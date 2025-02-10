@@ -18,19 +18,15 @@ use, or in transit. Regardless of the state it is in, information
 
 In [security](/security), data vulnerabilities are often mapped in a
 model known as the [data lifecycle](/data-lifecycle). Each stage of the
-data lifecycle plays an important role in the [security
-controls](/security-controls) that are put in place to maintain the CIA
-triad of information.
+data lifecycle plays an important role in the [security controls](/security-controls) that are put in place to maintain the CIA
+(confidentiality, integrity, availabilty) triad of information.
 
-All this, becuase good data is expensive,
-in that it requires lot of resources:
-man power,
-[computing power](/computer),
-[hardware](/technology) and the logistics to make it available,
-and the funds to make it all happen.
-Under normal circumstances,
-the average person won't pay out of pocket
-to gather information, whether biased or not.
+All this, becuase good data is expensive, in that it requires lot of
+resources: man power, [computing power](/computer),
+[hardware](/technology) and the logistics to make it available, and the
+funds to make it all happen. Under normal circumstances, the average
+person won't pay out of pocket to gather information, whether biased or
+not.
 
 ## Things to remember when presenting Data
 

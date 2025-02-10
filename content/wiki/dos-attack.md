@@ -9,6 +9,10 @@ Denial of service attack is an attack that targets a [network](/network)
 or server and flods it with network traffic. This is meant to disrupt
 the operations of the targeted organization.
 
+{{< toc >}}
+
+## Intro
+
 A **distributed denial of service attack,** or DDoS, is a kind of DoS attack
 that uses multiple devices or servers in different locations to flood
 the target network with unwanted traffic. Use of numerous devices makes

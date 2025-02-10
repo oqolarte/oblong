@@ -63,4 +63,4 @@ producing them will make emissions problem worse.
 Thus, it's still better to extend the life of these devices.
 We must shift to mindset of achieving the same result for less energy.
 
-[READ MORE](https://limited.systems/articles/frugal-computing)
+[READ MORE](https://web.archive.org/web/20250126100459/https://limited.systems/articles/frugal-computing/)

@@ -12,6 +12,8 @@ administrative and are typically used to prevent, detect, or correct
 security issues. One of the most common controls is the
 [principle of least privelege](/polp).
 
+{{< toc >}}
+
 ## Categories
 
 - **Administrative controls**: addresses the human component, by clearly

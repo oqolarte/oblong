@@ -11,6 +11,10 @@ it means uprooting those two which are based on the old-think of
 punishing the harm-doer,
 and ensuring these institutions won't be needed again ever.
 
+{{< toc >}}
+
+## On prisons
+
 Prisons as they exist now are crimes against humanity, designed to
 *require* cruelty from those that operate it daily---including guards,
 wardens, doctors and other medical workers, and other laborers in
@@ -19,8 +23,8 @@ Whatever shape or form the prison industrial complex takes, we can be
 sure that it will strip its prisoners off of their humanity. Throwing
 people in them can never be in the name of justice.
 
-Many crimes today are because of systemic issues.
-With tighter community, such crimes would be less likely to happen
+Many crimes today exist because of systemic issues.
+[With tighter community](/community), such crimes would be less likely to happen
 as [people would be looking for each other](/mutual-aid) instead of ignoring it.
 And anyway, the current (in)[justice](/justice) system
 barely solves half of the cases;

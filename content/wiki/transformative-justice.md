@@ -10,6 +10,10 @@ harm, and abuse that changes our communities so that most harm
 ("crimes") would drastically decrease, an approach that's different from
 the current carceral systems in place.
 
+{{< toc >}}
+
+## Intro
+
 We can ask: can crimes of passion be obsolete when we no longer see people
 as things to lose or possess?
 

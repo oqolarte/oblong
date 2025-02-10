@@ -9,7 +9,7 @@ It's about making and analyzing protocols that prevent third party (or
 the public) from reading private messges.
 
 The earliest evidence of cryptography comes from ancient Egypt enciphering
-their hieroglyphic or symbol-based writings on monuments and walls. 
+their hieroglyphic or symbol-based writings on monuments and walls.
 
 Modern applications also include integrity of digital transactions.
 

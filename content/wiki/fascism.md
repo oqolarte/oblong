@@ -16,6 +16,8 @@ Merriam-Webster [defines it as](https://www.merriam-webster.com/dictionary/fasci
 In short, it's an ideology that says certain types of people are
 inferior.
 
+{{< toc >}}
+
 ## Describing what it is
 
 Fascism is caused by [making people believe through propaganda](/consent)
@@ -83,7 +85,7 @@ two things:
 
 ## Note on Nazis
 
-https://www.tumblr.com/whereserpentswalk/747399887511060481
+From: https://www.tumblr.com/whereserpentswalk/747399887511060481
 
 The Nazis that in movies are as much a historical fantasy as Vikings
 with horned helmets and samurai cutting people in half.
@@ -133,3 +135,24 @@ because they weren't that vague apolitical evil that exists for white
 American action heroes to fight. They did horrible things because they
 had a right-wing authoritarian political ideology, an ideology that is
 fundamentally the same as what most of the modern right wing believes.
+
+## How to fight fascism
+
+And not be fully consumed by hate and anger? Let us count some ways:
+
+- Noam Chomsky advises: "The way to avoid despair is to recognize how
+  much you can achieve if you devote yourself to it."
+- Dance. Yes, really. [Revolution](/revolution) must have the space for
+  it, and for other ways of expressing [joy](/joy).
+- Take care of your [health](/health) so you can also take care of
+  others.
+- [Build a community](/community) around something fun. Whether it's a
+  hobby like playing sports, or a noble cause like [giving free food to strangers](/feeding),
+  bonding on something common is essential in
+  making stronger relationships with peers.
+- Fascists thrive on fear, so why not [make art](/art) to make them look
+  dumb?
+- Whenever possible, [love](/love), as cheesy as it is.
+
+Of course, there are infinite ways to fight fascism. Hopefully, the
+above items can help us get started.

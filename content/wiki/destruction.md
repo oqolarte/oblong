@@ -11,6 +11,10 @@ It's weird to have a dedicated page solely for the concept of
 destruction. But it doesn't need to be about *just* bad things in life,
 right.
 
+{{< toc >}}
+
+## Outro
+
 Destruction is ever present in the material world. Compared
 with decay, which implies a slow, if not steady, breaking down of form,
 destruction implies a more violent ending over a shorter period of time.

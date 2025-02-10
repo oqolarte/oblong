@@ -28,6 +28,8 @@ clarity and/or anonymized for privacy.
 > on. He is also very nice and always willing to help (when he has time
 > to do so)."
 
+> [H]e seems cool.
+
 > "Ohio is always very friendly and reasonable to deal with, his
 > responses are both timely and clear. He feels like a valuable part of
 > any team."

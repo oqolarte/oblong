@@ -1,5 +1,5 @@
 ---
-title: "On Death and Dying"
+title: "On death and dying"
 date: 2024-03-04
 draft: false
 math: false
@@ -11,6 +11,8 @@ entirely---if this bothers you.
 
 It is the end state of all living things. The dying part is where it
 varies.
+
+{{< toc >}}
 
 ## Suicide
 

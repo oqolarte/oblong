@@ -13,6 +13,8 @@ Least privilege is a fundamental [security control](/security-control)
 that supports the confidentiality, integrity, and availability (CIA)
 triad of information.
 
+{{< toc >}}
+
 ## Limiting access reduces risk
 
 Implementing the principle of least privilege can reduce the risk of incidents like data breaches by:
