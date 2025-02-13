@@ -63,7 +63,8 @@ something breaks because no one looked after the thing.
 Marketers have yet again contributed to the de-skilling of people on
 repair, when they promote "maintenance-free" items on their products.
 Thanks to entropy, nothing is fully maintenance-free, and things
-eventually break down.
+eventually break down. But we can fight it; repair and maintenance is a
+battle against entropy.
 
 Home has always been the first repair shop that we know. But modern
 conveniences brought by consumerism has turned it into a de-skilling

@@ -72,6 +72,7 @@ I read slowly, you might notice.
 | [Ransomed by Love](/247/#brief-review-of-ransomed-by-love)           | Tony La Viña          |
 | [Skin in the Game](/250/#brief-review-of-skin-in-the-game)           | Nassim Nicholas Taleb |
 | [Filipino Value System](/252/#brief-review-of-filipino-value-system) | F. Landa Jocano       |
+| [The Hundred Year's War on Palestine](/palestine)                    | Rashid Khalidi        |
 
 ## Did not finish
 

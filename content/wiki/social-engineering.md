@@ -147,6 +147,8 @@ sharing sensitive information with the promise of fixing their problem.
 ### Further reading on phishing
 
 - [Top Phishing Techniquies](https://redteamrecipe.com/top-phishing-techniques)
+- [Phishing Quiz with Google](https://phishingquiz.withgoogle.com/)
+- Defang URLs in Phishing: https://pypi.org/project/defang/
 
 ## Stages of social engineering attacks
 

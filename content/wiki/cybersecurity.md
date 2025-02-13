@@ -163,7 +163,7 @@ To thrive as a cybersecurity professional, one must have these skills:
   periodic security audits
 - Instrusion detection systems (IDSs), to monitor system activity and
   alert for possible intrusions.
-- Threat landscape knowledge, to build stronger defenses against threat
+- [Threat landscape knowledge](/cyber-threat-intelligence), to build stronger defenses against threat
   actor tactics and techniques by knowing how they operate.
 
 ## Terms

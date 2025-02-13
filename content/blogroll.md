@@ -72,9 +72,9 @@ and often talks about the overlap of the two.
 : likes to share her findings on niche operating systems like NixOS
 and BSDs.
 
-[The Amphibian](https://theamphibian.substack.com/)
-: is a Filipina poet and essayist who offers "medicine and solutions in
-equal measure, for anxious environmentalists, cynical humanists, and
+[The Amphibian](https://www.marianilad.com/) : is written by Maria
+Nilad, a Filipina poet and essayist who offers "medicine and solutions
+in equal measure, for anxious environmentalists, cynical humanists, and
 kin-makers of all kinds."
 
 [The Perry Bible Fellowship](https://pbfcomics.com/)

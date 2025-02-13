@@ -1,55 +1,65 @@
 ---
-title: "On Cryptography"
+title: "Cryptography"
 date: 2022-08-25
 draft: false
 ---
 
-Cryptography is the art and science of secret [communications](/communication).
-It's about making and analyzing protocols that prevent third party (or
-the public) from reading private messges.
-
-The earliest evidence of cryptography comes from ancient Egypt enciphering
-their hieroglyphic or symbol-based writings on monuments and walls.
+Cryptography is the art and science of secret
+[communications](/communication). It's about making and analyzing
+protocols that prevent third party (or the public) from reading private
+messges. The earliest evidence of cryptography comes from ancient Egypt
+enciphering their hieroglyphic or symbol-based writings on monuments and
+walls.
 
 Modern applications also include integrity of digital transactions.
+
+**If I do ever mention "crypto" in any page in this site, I mean
+cryptography, NOT cryptocurrency.**
 
 {{< toc >}}
 
 ## Intro to Cryptography
 
-- Cryptography uses the idea of "alphabet" to express the minimal
-  information unit used by the communication system. In cryptography,
-  alphabet:
-    - is minimal unit for information coding
-    - can be letters, numbers, signs, etc,
-    - Examples of alphabets:
-        - English: {a, b, c, ..., z} (26)
-        - Morse code: {., -} (2)
-        - Computer bits: {1, 0} (2)
-        - Decimal: {0, 1, 2, ..., 9} (10)
-        - Hexadecimal: {0, 1, 2, ..., F} (16)
-- Cast of characters:
-    - Good guys: Alice and Bob
-    - Bad guys: Eve (eavesdropper) and Malory (malicious)
-    - Trusted third party: Trent
-- Basic Terms: plaintext, ciphertext, encrypt, decrypt
-- Threat Model: Read, Change, Forge [the message/s between actors]
-- [Information Security](/infosec) Goals:
-    - Confidentiality -- can't read our messages; only authorized users
-      can access specific assets or data
-    - Integrity -- can't change our messages; data is correct and
-      reliable
-    - Authenticity -- can't forge our messages
-- The algorithm is the key to encrypt and decrypt the ciphertext, to and
-  from plaintext.
-- In [cryptanalysis](/cryptanalysis), codes and [ciphers](/ciphers) are not the same:
-    - Codes can convey complex messages through small and simple
-      transmissions.But they are not generic and it's hard to convey
-      arbitrary messages with them.
-    - Ciphers can also convey complex messages *and* can be used in
-      generic messages, as ciphers can encrypt data without regard
-      to what they mean in the message. Ciphers lend themselves to
-      more rigorous mathematical design and analysis.
+Cryptography uses the idea of "alphabet" to express the minimal
+information unit used by the communication system. In cryptography,
+alphabet:
+- is minimal unit for information coding
+- can be letters, numbers, signs, etc,
+- Examples of alphabets:
+    - English: {a, b, c, ..., z} (26)
+    - Morse code: {., -} (2)
+    - Computer bits: {1, 0} (2)
+    - Decimal: {0, 1, 2, ..., 9} (10)
+    - Hexadecimal: {0, 1, 2, ..., F} (16)
+
+**Cast of characters**:
+- Good guys: Alice and Bob
+- Bad guys: Eve (eavesdropper) and Malory (malicious)
+- Trusted third party: Trent
+
+**Basic Terms**: plaintext, ciphertext, encrypt, decrypt
+
+[**Threat Model**](/threat-modeling): Read, Change, Forge [the message/s between actors]
+
+[**Information Security**](/infosec) oals:
+- Confidentiality -- can't read our messages; only authorized users
+  can access specific assets or data
+- Integrity -- can't change our messages; data is correct and
+  reliable
+- Authenticity -- can't forge our messages
+
+The **algorithm** is the key to encrypt and decrypt the ciphertext, to and
+from plaintext.
+
+In [cryptanalysis](/cryptanalysis), codes and [ciphers](/ciphers) are
+not the same:
+- Codes can convey complex messages through small and simple
+  transmissions. But they are not generic and it's hard to convey
+  arbitrary messages with them.
+- Ciphers can also convey complex messages *and* can be used in generic
+  messages, as ciphers can encrypt data without regard to what they mean
+  in the message. Ciphers lend themselves to more rigorous mathematical
+  design and analysis.
 
 ## Modern Principles in Cryptography
 - [Kerckhoffs's Principle](/kerckhoffs-principle) - states that a
@@ -85,27 +95,27 @@ the following concepts:
 "unbreakable."
 
 Modern cryptographic systems, particularly Public Key Cryptosystems
-based on asymmetric cryptographic algorithms,
-rely heavily on certain topics in [number theory](/number-theory),
-to create ciphers among others.
-More specifically, it's about understanding integer mathematics and
-abstract algebra, in which calculations must be exact (i.e., no round
-off error).
+based on asymmetric cryptographic algorithms, rely heavily on certain
+topics in [number theory](/number-theory), to create ciphers among
+others. More specifically, it's about understanding integer mathematics
+and abstract algebra, in which calculations must be exact (i.e., no
+round off error).
 
-Modern cryptography is also based on concepts
-like [mathematical proof](https://en.wikipedia.org/wiki/Mathematical_proof).
-It's important because it determines whether we can trust a particular
-method to work in keeping our secrets secret for a long while. That is,
-it establishes the computational hardness of problems, ensuring the
+Modern cryptography is also based on concepts like [mathematical proof](/math-proofs).
+It's important
+because it determines whether we can trust a particular method to work
+in keeping our secrets secret for a long while. That is, it establishes
+the computational hardness of problems, ensuring the
 [security](/security) and resilience of cryptographic algorithms and
 protocols.
 
-[Statistics](/statistics) -- to break ciphers
+[**Statistics**](/statistics) is also used to break ciphers.
 
-Elliptic curves,
-group theory,
-arithmetic of abelian varieties,
-elliptic curve cryptography.
+More math-heavy cryptography topics include:
+- Elliptic curves
+- group theory
+- arithmetic of abelian varieties
+- elliptic curve cryptography
 
 ## Misc Notes
 

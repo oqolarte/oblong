@@ -97,7 +97,7 @@ I consider these points important as they all relate to my current situation.
 In fact, websites should be guided by these principles.
 
 And because of these, this site scores
-[100/100 according to Yellow Lab Tools](https://yellowlab.tools/result/gs32wi1508).
+[100/100 according to Yellow Lab Tools](https://yellowlab.tools/result/h4kknty483).
 
 {{< btt >}}
 ### Typography

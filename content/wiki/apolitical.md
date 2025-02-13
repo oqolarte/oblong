@@ -14,7 +14,7 @@ my [consent](/consent) will always be political. And that's just one
 thing to get agitated about.
 
 We are suffering from multiple crises:
-- Israel conducting genocide against Palestinian people
+- [Israel conducting genocide against Palestinian people](/palestine)
 - Climate catastrophes due to effects of climate change
 - Rise of [fascism](/fascism) all over the world
 - [Societal collapse](/collapse)
