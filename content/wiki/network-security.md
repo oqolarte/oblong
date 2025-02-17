@@ -7,9 +7,18 @@ math: false
 
 Network security is important because intrusions compromise your system.
 Attackers could have different motivations for attacking your
-[network](/network). Security analysts must be constantly alert to
-potential vulnerabilities in their organization’s network and take quick
-action to mitigate them.
+[network](/network).
+
+{{< toc >}}
+
+## Control levels
+
+- **Physical**: prevents unauthorized physical access to networking
+  devices, cable boards, locks, and linked components
+- **Technical**: prevents unauthorized access to network data by
+  implementing security layers
+- **Administrative**: provides policies involving authentication
+  processes
 
 ## Network interception attacks
 

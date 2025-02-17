@@ -75,6 +75,7 @@ different sources under the following categories:
     - https://sslbl.abuse.ch/
     - https://urlhaus.abuse.ch/
     - https://threatfox.abuse.ch/
+- https://talosintelligence.com/
 
 ## Resources
 

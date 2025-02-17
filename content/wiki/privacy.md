@@ -10,6 +10,10 @@ curtains installed on our windows, and I close and lock the door of the
 toilet and bath when I do *things* inside---because the public doesn't
 need to know what I do at privacy of my own space.
 
+{{< toc >}}
+
+## Preamble
+
 With the convenience brought about by [technology](/technology), more
 and more people are foregoing their privacy, both digital and physical.
 
@@ -52,6 +56,18 @@ and sharing your data to other businesses without your consent, like
 they have been doing since the late 1990s, we should be concerned; the
 more organizations collect data, the more vulnerable it is to being
 abused, misused, and stolen.
+
+## Politics of privacy
+
+Those of us with a bit of know-how should seek to
+fight for the privacy of all in the working class. It *is* a human right
+that the ruling class intends on keeping only for themselves.
+
+I mention the *know-how*, because not everyone has the time nor
+resources to choose privacy-respecting options, especially in tech.
+Let's remember that many of us our living in poverty, and yet they
+deserve to have privacy, and not just have their data taken from them
+without their consent.
 
 ## Legally protected information
 

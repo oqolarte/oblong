@@ -5,10 +5,11 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
 
-"**Prosperity always lives in many open-handed souls**" is my go-to maxim these days.[^1]
+"**Prosperity always lives in many open-handed souls**" is my go-to
+maxim these days.[^1]
 
-If you're reading this,
-thank you for considering to support what I do online.
+If you're reading this, thank you for considering to support what I do
+online.
 
 I'm always polishing this site's contents,
 so that they're updated, and more importantly,
@@ -32,8 +33,10 @@ Feel free to message me, email in footer!
 - [Liberapay](https://liberapay.com/oqo_frxbj/donate)
 - [Paypal](https://paypal.me/oqolarte)
 - [BPI QR Code](/image/BPIQR_OQO.png) (Philippines only)
+- [Buy me coffee](https://ko-fi.com/oqolarte)
 
-If you prefer other means of supporting me (e.g. bank transfer, GCash, etc.), please email me.
+If you prefer other means of supporting me (e.g. bank transfer, GCash,
+etc.), please email me.
 
 ## Hardware support
 
@@ -48,6 +51,7 @@ Please email me first if you plan to give me any of these.
 - Canon Powershot G7x Mark II
 - Typewriter in working condition, preferably the portable kind
 - 3D printer
+- Cargo bike
 
 [^1]: *Limós* is the root of this Tagalog word, meaning "alms".
 From [Tagalog Lang](https://www.tagaloglang.com/palimos/): In the Philippines, it is common for street children to approach strangers and say, “Palimos po.”

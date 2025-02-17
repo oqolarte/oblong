@@ -148,6 +148,7 @@ sharing sensitive information with the promise of fixing their problem.
 
 - [Top Phishing Techniquies](https://redteamrecipe.com/top-phishing-techniques)
 - [Phishing Quiz with Google](https://phishingquiz.withgoogle.com/)
+- [PhishTool](https://www.phishtool.com/)
 - Defang URLs in Phishing: https://pypi.org/project/defang/
 
 ## Stages of social engineering attacks

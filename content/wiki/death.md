@@ -43,3 +43,13 @@ mental difficulties caused by Empire, I hurry not to the Void, however
 tempting its come-hither blackness. My
 [friends](/friendship) and I will be in the future together,
 [joy-armed to the teeth](/revolution).
+
+## Celebrity deaths
+
+A list of celebrities whose deaths have made me genuinely sad. No one asked
+for this but here goes:
+
+- Amy Winehouse
+- Chester Bennington
+- Anthony Bourdain
+- Grant Imahara
