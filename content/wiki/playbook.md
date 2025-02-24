@@ -9,6 +9,10 @@ A playbook, in the context of [cybersecurity](/cybersecurity), is a
 manual that provides details about any operational action, such as how
 to respond to a [security](/security) incident.
 
+{{< toc >}}
+
+## Playbooks as strategy
+
 Playbooks are accompanied by a strategy. The strategy outlines
 expectations of team members who are assigned a task, and some playbooks
 also list the individuals responsible. The outlined expectations are

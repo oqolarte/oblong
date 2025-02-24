@@ -5,7 +5,7 @@ draft: false
 math: false
 ---
 
-Democracy is the rule of majority. It is still a form of hierarchy, in
+Democracy is the rule of majority. It is still a form of [hierarchy](/hierarchy), in
 which the desires of majority trample those of the minority.
 
 Democracy is therefore rigged to appease the majority and

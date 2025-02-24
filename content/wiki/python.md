@@ -8,10 +8,10 @@ math: false
 Python is considered to be a general
 [programming language](/programming)
 that is used to create a wide variety of
-programs.
-
-Python is typically used to build websites and perform data analysis.
+programs. Typically used to build websites and perform data analysis.
 In [cybersecurity](/cybersecurity), it's mainly used to automate tasks.
+
+{{< toc >}}
 
 ## Best practices for naming variables
 
@@ -266,3 +266,7 @@ Debugging means checking the code so that it is working as intended.
 - **Use print statements** strategically in chunks of code to determine
   if it's even being executed. One strategy is by including the line of
   code as well as a descriptive text about the location.
+
+## Resources
+
+- [Python's built-in functions](https://docs.python.org/3/library/functions.html)

@@ -1,9 +1,11 @@
 ---
-title: "On Capitalism"
+title: "On capitalism"
 date: 2024-02-15
 draft: false
 math: false
 ---
+
+{{< toc >}}
 
 Capitalism is, whether we like it or not, a strong idea that most of us
 [are coerced to] agree on,

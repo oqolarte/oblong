@@ -110,3 +110,7 @@ the types of information that organizations must protect by default:
    should be a record of that access, who accessed it, and a
    justification as to why. And you should have a program to look at the
    audit records for that data.
+
+## Further reading
+
+- [Privacy is not dead](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/)

@@ -4,10 +4,11 @@ date: 2023-01-23
 draft: false
 ---
 
-
 AI refers to computer programs that can craft systems to perform tasks
 requiring human-like intellect, like discovery, inference, and
 reasoning. A subset of AI is [Machine Learning](/ml) (ML).
+
+{{< toc >}}
 
 ## Key Domains of AI:
 
@@ -92,6 +93,15 @@ they only predict a likely answer. To understand it better, when you
 type a question or prompt, you're actually asking the LLM to give back
 the most likely response of people to that sort of query/prompt. Don't
 expect it give a "right answer."
+
+## AI under [capitalism](/capitalism)
+
+All tech can never not be political, and that includes---and
+especially---AI.
+
+At least the closed-source, proprietary versions out there, AI allows
+the tech oligopoly to access skill while removing from the skilled the
+ability to access wealth.
 
 ## Further reading
 

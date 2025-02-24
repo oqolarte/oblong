@@ -191,11 +191,11 @@ since most of ads and trackers rely on this.
 The specifics vary from browser to browser,
 so you may have to look up on how to do it on yours.
 Note that doing this will break a lot of sites.
-
 Sites that are neither accessible from a terminal browser
 nor work with JavaScript disabled need to be heavily scrutinized as to
 what they actually contribute.
-There are a few exceptions, like bank-, school-, or work-related sites.
+Some exceptions: site for banks, school, or work (hardcore privacy
+advocates might even contain these sites on a separate browser).
 
 [^tui-browser]: Das, A. (2020, October 20). *You can Surf Internet in Linux Terminal With These Command Line Browsers*. It’s FOSS. https://itsfoss.com/terminal-web-browsers/
 

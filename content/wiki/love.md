@@ -5,11 +5,14 @@ draft: false
 math: false
 ---
 
-*The following notes stem from reading bell hooks's book* All About
-Love: New Visions.
+*These notes stem from reading bell hooks's book* All About
+Love: New Visions *but will grow to include more from other inspirations and
+musings.*
 
 I will always be reminded of that time when someone close to me urged me
 to stop intellectualizing feelings. This, of course, includes love.
+
+{{< toc >}}
 
 ## "What is love?"
 
@@ -34,6 +37,11 @@ feedback loop.
 It *is* important to talk about love, particularly Peck's definition, in
 our daily lives to normalize and demystify the notions in and around it.
 Young people need to hear this from older people.
+
+In Cindy Milstein's toot "[Love is freeing](https://kolektiva.social/@cbmilstein/114003489597557298)," they
+argue that "capitalism can't completely comodify" love because it is
+"elusive... still indescribable... [an] ungovernable emotion that allows
+us to embrace what it just might feel like to be free."
 
 ## On children
 

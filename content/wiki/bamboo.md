@@ -4,8 +4,10 @@ date: 2022-11-20
 draft: false
 ---
 
-Bamboo is plant that grows fast and strong,
+Bamboo is [plant](/plants) that grows fast and strong,
 a good renewable source of material to consider for [dream house](/dream-house).
+
+{{< toc >}}
 
 ## Being invasive
 

@@ -14,6 +14,21 @@ principles including the following:
 
 {{< toc >}}
 
+## Where?
+
+Hopefully in a rural city closer to nature but not too far from
+civilization.
+
+More things to consider:
+
+- Traffic and/or car-dependence
+- Air pollution
+- Possible modes of transportation
+- Crime rate
+- Proximity to a fault line
+- Proximity to sea
+- Closer to forest
+
 ## Civil Works
 
 - Polished [concrete](/concrete), but if possible, limit its use to
@@ -103,7 +118,7 @@ or cantilever chairs
 
 Solar thermal coil water heater, with insulated water tank
 
-### Sources of water
+### Sources of [water](/water)
 
 Cistern/s where rain water is collected
 

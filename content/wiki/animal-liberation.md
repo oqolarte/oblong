@@ -3,12 +3,13 @@ title: "Animal liberation"
 date: 2022-01-01
 draft: false
 ---
+
 The [empire](/empire) treats animals horribly,
 and is both effective and efficient in doing so.
 
 Animal liberation goes beyond not consuming animal products, and even
 beyond [veganism](/veganism). As I see it, it is about treating every
-living creature your equal, the hierarchy between human and nonhuman
+living creature your equal, the [hierarchy](/hierarchy) between human and nonhuman
 completely abolished. Which is a difficult reminder especially to
 myself who is not even a vegan yet. Like
 [many political movements](/politics),

@@ -8,15 +8,15 @@ draft: false
 
 {{< toc >}}
 
-A good design is a boring design.
-It doesn't interfere,
-but it works when and where you need it.
+A good design is a boring design. It doesn't interfere, but it works
+when and where you need it.
 
 A good design is the result of patience.
 
 ## Characteristics of a good design
 
-Amalgamation of ideas of both [Koray Er](https://korayer.de/posts/good-design.txt)
+Amalgamation of ideas of both
+[Koray Er](https://korayer.de/posts/good-design.txt)
 and
 [Dieter Rams](https://www.vitsoe.com/us/about/good-design)
 
@@ -26,7 +26,7 @@ and
 4. Beautiful
 5. Understandable, or better yet, self-explanatory
 6. [Does not interrupt](/hostile-architecture)
-8. Honest
+8. Honest; has no [deceptive patterns](https://www.deceptive.design/)
 9. Long-lasting
 10. Thorough down to the last detail
 11. Environmentally-friendly

@@ -292,3 +292,10 @@ necks. More modern interpretations to "smashing the looms":
 
 This write-up is part of a larger discussion, organized by people at
 FluConf. See more at: https://fluconf.online/program/
+
+For more resources, check the following sites:
+
+- [NO TECH MAGAZINE](https://www.notechmagazine.com/) - "Technology for
+  Luddites"
+- [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) - "The
+  sustainability wiki"

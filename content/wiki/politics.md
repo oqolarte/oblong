@@ -43,6 +43,7 @@ reference from which to learn.
 - [eco-anarchism](/eco-anarchism)
 - [fascism](/fascism)
 - [Filipino values](/filipino-values)
+- [hierarchy](/hierarchy)
 - [nihilism](/nihilism)
 - [religion](/religion)
 - [solarpunk](/solarpunk)
