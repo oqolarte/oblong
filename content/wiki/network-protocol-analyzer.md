@@ -54,7 +54,11 @@ Packets contain three components:
 
 ## Capturing packets
 
-**Packet sniffing** is the practice of capturing and inspecting data packets across a network. A **packet capture (p-cap)** is a file containing data packets intercepted from an interface or network. Packet captures can be viewed and further analyzed using network protocol analyzers. Different p-cap file formats include:
+**Packet sniffing** is the practice of capturing and inspecting data
+packets across a network. A **packet capture (pcap)** is a file
+containing data packets intercepted from an interface or network. Packet
+captures can be viewed and further analyzed using network protocol
+analyzers. Different p-cap file formats include:
 
 - **Libpcap** is a packet capture library designed to be used by
   Unix-like systems. Tools like [`tcpdump`](/tcpdump) use
