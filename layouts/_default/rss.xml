@@ -33,9 +33,7 @@
       {{ with .Site.Params.Author.email }}<author>{{.}}{{ with $.Site.Params.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Content | html }}
-      <br><hr><br>
-                              <p>Thanks for reading this feed via RSS/Atom. Questions? Comments? Suggestions? Please <a href="mailto:ohio@araw.xyz">reply by email</a>.</p>
-</description>
+      </description>
     </item>
     {{ end }}
   </channel>
