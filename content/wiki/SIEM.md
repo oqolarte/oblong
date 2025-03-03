@@ -5,24 +5,28 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 SIEM is an application that collects and analyzes [log](/computer-log)
 data to monitor in real time critical activities in an organization.
 
-The implementation of automation will also help security teams respond
-faster to possible incidents, performing many actions without waiting
-for a human response. **Security orchestration, automation, and response
-(SOAR)** is a collection of applications, tools, and workflows that uses
-automation to respond to security events. Essentially, this means that
-handling common security-related incidents with the use of SIEM tools is
-expected to become a more streamlined process requiring less manual
-intervention.
+The implementation of automation will also help [security](/security)
+teams respond faster to possible incidents, performing many actions
+without waiting for a human response. **Security orchestration,
+automation, and response (SOAR)** is a collection of applications,
+tools, and workflows that uses [automation](/automation) to respond to
+security events. Essentially, this means that handling common
+security-related incidents with the use of SIEM tools is expected to
+become a more streamlined process requiring less manual intervention.
 
 ## SIEM process
 
 1. **Collect and aggregate data**: SIEM collects logs from various
-   sources like firewalls, servers, routers, etc, which are consolidated
-   in a centralized place. This removes the need to review log from each
-   source.
+   sources like [firewalls](/firewall), servers, routers, etc, which are
+   consolidated in a centralized place. This removes the need to review
+   log from each source.
 2. **Normalize data**: SIEM then transforms the data into a standard,
    structured format that is easily searchable.
 1. **Analyze data**: Collected data is then analyzed with some type of

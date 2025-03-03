@@ -206,8 +206,7 @@ one that happens to result in the desired digest.
         - Exploits the math behind the birthday problem in probability
           theory.
         - The interest lies in finding two messages that happen to have
-          the same digest, not caring what the specific digest is.
-        - \( O(2^{\frac{N}{2}) \)
+          the same digest, not caring what the specific digest is. \( O(2^{\frac{N}{2}) \)
 
 ## Misc Notes
 

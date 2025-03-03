@@ -11,6 +11,96 @@
     
     
     <item>
+      <title>picoCTF 2024 Challenges</title>
+      <link>https://ohio.araw.xyz/picoctf-2024/</link>
+      <pubDate>Mon, 03 Mar 2025 14:10:30 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/picoctf-2024/</guid>
+      <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
+Status:
+&lt;strong&gt;ON-GOING&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Notes on how I tried to solve CTF problems in
+&lt;a href=&#34;https://picoctf.org&#34;&gt;picoCTF&lt;/a&gt; 2024. I may or may not write about each
+of the problem I go through.&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#verify&#34;&gt;Verify&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#webdecode&#34;&gt;WebDecode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#unminify&#34;&gt;Unminify&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#time-machine&#34;&gt;Time machine&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;verify&#34;&gt;Verify&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SSH into the server as per instructions, and &lt;code&gt;ls&lt;/code&gt; to view existing
+files.&lt;/li&gt;
+&lt;li&gt;There are lots of files in the &lt;code&gt;files/&lt;/code&gt; directory, but only one of it
+has the same hash as that in the &lt;code&gt;checksum.txt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;To filter which exact file: &lt;code&gt;sha256sum files/* | grep -f checksum.txt&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;sha256sum files/*&lt;/code&gt; &lt;a href=&#34;https://ohio.araw.xyz/hash-functions&#34;&gt;creates hashes&lt;/a&gt; for each of
+the file in the &lt;code&gt;files/&lt;/code&gt; directory&lt;/li&gt;
+&lt;li&gt;The result is then piped to (&amp;quot;&lt;code&gt;|&lt;/code&gt;&amp;quot;) &lt;code&gt;grep&lt;/code&gt;, which then checks the
+file (with the &lt;code&gt;-f&lt;/code&gt; option) &lt;code&gt;checksum.txt&lt;/code&gt; which contains the
+exact hash to look for&lt;/li&gt;
+&lt;li&gt;It turns out that &lt;code&gt;files/2cdcb2de&lt;/code&gt; is that file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Run &lt;code&gt;./decrypt.sh files/2cdcb2de&lt;/code&gt; to obtain the flag&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;webdecode&#34;&gt;WebDecode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Go to the link provided.&lt;/li&gt;
+&lt;li&gt;Inspect each web page, that is, view its source code. The About page
+is particularly interesting.&lt;/li&gt;
+&lt;li&gt;In the source code of the About page, this line of HTML code looks
+interesting: &lt;code&gt;&amp;lt;section class=&amp;quot;about&amp;quot; notify_true=&amp;quot;cGljb0...[base64 string]&amp;quot;&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The string of text inside the quotes in &lt;code&gt;notify-true&lt;/code&gt; turns out to be
+base64, which can then be decoded.&lt;/li&gt;
+&lt;li&gt;To decode: &lt;code&gt;echo cGljb...[base64 string] | base64 -d&lt;/code&gt; to obtain the flag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;unminify&#34;&gt;Unminify&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Go to the link provided.&lt;/li&gt;
+&lt;li&gt;Inspect the web page. The source code is &amp;ldquo;minified,&amp;rdquo; which means it
+has been reduced in size&amp;mdash;for example, by deleting &amp;ldquo;unnecessary&amp;rdquo; line
+spaces&amp;mdash;without reducing functionality.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a fairly simple static site. Scrolling horizontally, obtain the
+flag by looking for the string of text that matches the format
+&lt;code&gt;picoCTF{TEXT}&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;time-machine&#34;&gt;Time machine&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Download the &lt;code&gt;challenge.zip&lt;/code&gt; file and &lt;code&gt;unzip&lt;/code&gt; to access the files in
+the &lt;code&gt;drop-in/&lt;/code&gt; directory.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cd drop-in/&lt;/code&gt; and &lt;code&gt;ls&lt;/code&gt; to inspect the files.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cat message.txt&lt;/code&gt; to reveal a clue, which is something about
+&amp;ldquo;look[ing] at my commit history&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;The other set of files is &lt;code&gt;.git/&lt;/code&gt;. To view commit history and obtain
+flag, type &lt;code&gt;git log&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Sync muzak in Alpine Linux with iPod Classic</title>
       <link>https://ohio.araw.xyz/alpod/</link>
       <pubDate>Thu, 03 Oct 2024 03:00:04 +0800</pubDate>

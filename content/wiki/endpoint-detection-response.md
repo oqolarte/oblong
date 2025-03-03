@@ -24,3 +24,4 @@ patterns happening on an endpoint.
 - Open EDR®
 - Bitdefender™ Endpoint Detection and Response
 - FortiEDR™
+- [Wazuh](https://wazuh.com/)

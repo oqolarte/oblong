@@ -5,6 +5,10 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 A **log** is a record of events that occur within an organization's
 systems. Logs contain log entries and each entry details information
 corresponding to a single event that happened on a device or system.

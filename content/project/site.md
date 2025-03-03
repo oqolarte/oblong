@@ -415,5 +415,3 @@ Here are some other sites from which I also got inspiration:
 - And other small, obscure personal blogs in the "smol net" and "dork web" that we have yet to discover.
 
 {{< btt >}}
-
-[^metadata]: 

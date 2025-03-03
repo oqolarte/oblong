@@ -1,9 +1,12 @@
 ---
-title: "Notes on picoCTF 2024"
-date: 2025-02-25
+title: "picoCTF 2024 Challenges"
+date: 2025-03-03T14:10:30+08:00
+keywords: ["ohio olarte", "oqolarte", "oqo"]
 draft: false
 math: false
 ---
+
+{{< ongoing >}}
 
 Notes on how I tried to solve CTF problems in
 [picoCTF](https://picoctf.org) 2024. I may or may not write about each
@@ -26,6 +29,8 @@ of the problem I go through.
     - It turns out that `files/2cdcb2de` is that file.
 - Run `./decrypt.sh files/2cdcb2de` to obtain the flag
 
+{{< btt >}}
+
 ## WebDecode
 
 - Go to the link provided.
@@ -33,10 +38,12 @@ of the problem I go through.
   is particularly interesting.
 - In the source code of the About page, this line of HTML code looks
   interesting: `<section class="about"
-  notify_true="cGljb0NURnt3ZWJfc3VjYzNzc2Z1bGx5X2QzYzBkZWRfZjZmNmI3OGF9">`
+  notify_true="cGljb0...[base64 string]">`
 - The string of text inside the quotes in `notify-true` turns out to be
   base64, which can then be decoded.
-- To decode: `echo cGljb0NURnt3ZWJfc3VjYzNzc2Z1bGx5X2QzYzBkZWRfZjZmNmI3OGF9 | base64 -d` to obtain the flag.
+- To decode: `echo cGljb...[base64 string] | base64 -d` to obtain the flag.
+
+{{< btt >}}
 
 ## Unminify
 
@@ -48,6 +55,8 @@ of the problem I go through.
   flag by looking for the string of text that matches the format
   `picoCTF{TEXT}`.
 
+{{< btt >}}
+
 ## Time machine
 
 - Download the `challenge.zip` file and `unzip` to access the files in
@@ -57,3 +66,5 @@ of the problem I go through.
   "look[ing] at my commit history"
 - The other set of files is `.git/`. To view commit history and obtain
   flag, type `git log`.
+
+{{< btt >}}
