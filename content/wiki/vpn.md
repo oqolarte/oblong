@@ -5,14 +5,17 @@ draft: false
 math: false
 ---
 
-VPN is [network](/network) security service that changes your public IP address and
-hides your virtual location so that you can
-[keep your data private](/privacy) when you are using a public network
-like the [internet](/internet).
-VPNs provide a server that acts as a gateway between a computer and the
-internet. This server creates a path similar to a virtual tunnel that
-hides the computer’s IP address and encrypts the data in transit to the
-internet.
+{{< toc >}}
+
+## Intro
+
+VPN is [network](/network) security service that changes your public IP
+address and hides your virtual location so that you can
+[keep your data private](/privacy) when you are using a public network like the
+[internet](/internet). VPNs provide a server that acts as a gateway
+between a computer and the internet. This server creates a path similar
+to a virtual tunnel that hides the computer’s IP address and encrypts
+the data in transit to the internet.
 
 VPNs also [encrypt](/cryptography) your data as it travels across the
 internet to preserve confidentiality. A VPN service performs
@@ -25,7 +28,7 @@ data in other data packets.
 VPN protocols determine how the secure network tunnel is formed.
 Similar to network protocols, it’s a set of rules or instructions that
 will determine how data moves between endpoints (i.e., devices connected
-on a network, such as computers, mobile devices, and servers).
+on a network, such as [computers](/computer), mobile devices, and servers).
 
 ### Remote access and site-to-site VPNs
 

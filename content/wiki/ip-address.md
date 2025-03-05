@@ -6,6 +6,8 @@ math: false
 ---
 An IP ([internet](/internet) protocol) address is used to identify any device connected to a [network](/network).
 
+{{< toc >}}
+
 ## As an IoC
 
 IP addresses is one of the [indicators of compromise](/indicators-of-compromise) labeled in the [pyramid of pain](/pyramid-of-pain).

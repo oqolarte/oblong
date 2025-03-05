@@ -5,6 +5,10 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 Computer security incident response teams[^CSIRT] (CSIRTs) are a
 specialized group of security professionals trained in
 [incident management and response](/incident-response-lifecycle).
@@ -86,7 +90,7 @@ These highly experienced professionals are responsible for:
 
 - Managing the operations of their team
 - Exploring methods of detection by performing advanced detection
-  techniques, such as malware and forensics analysis
+  techniques, such as [malware](/malware) and [forensics analysis](/digital-forensics)
 - Reporting to the SOC manager
 
 ### SOC manager

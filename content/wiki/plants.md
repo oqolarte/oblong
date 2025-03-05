@@ -25,3 +25,7 @@ we should start planting them as quickly and as widely as possible. Of
 course, there's a lot more nuance to that, including asking things like,
 are the plants be native to the area? Otherwise, planting non-native
 and/or invasive plants can do more harm than good.
+
+## Further reading
+
+- Tracy Durnell shares her experience in "[Decolonizing my garden](https://tracydurnell.com/2025/03/03/decolonizing-my-garden/)"

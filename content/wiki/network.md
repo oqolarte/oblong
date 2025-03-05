@@ -17,7 +17,7 @@ connections.
 Devices need to find each other on a network to establish
 communications. These devices will use unique addresses, or identifiers,
 to locate each other. The addresses will ensure that communications
-happens with the right device. These are called the IP and MAC
+happens with the right device. These are called the [IP](/ip-address) and MAC
 addresses.
 
 {{< figure src="/image/network.png" alt="A diagram showing how multiple devices connected in a network" caption="A router connects to the internet through a modem, which is provided by your internet service provider (ISP). The firewall is a security device that monitors incoming and outgoing traffic on your network. The router then directs traffic to the devices on your home network, which can include computers, laptops, smartphones, tablets, printers, and other devices. You can imagine here that the server is a file server. All devices on this network can access the files in this server. This diagram also includes a switch which is an optional device that can be used to connect more devices to your network by providing additional ports and Ethernet connections. Additionally, there are 2 routers connected to the switch here for load balancing purposes which will improve the performance of the network." >}}
@@ -196,109 +196,109 @@ transmitted across the network. It has 4 layers:
    their transmission across a network. This includes hardware devices
    connected to physical cables and switches that direct data to its
    destination. Includes the following protcol/s:
-       - Address Resolution Protocol (ARP): is used to translate the IP
-         addresses that are found in data packets into the MAC address
-         of the hardware device. Each device on the network performs ARP
-         and keeps track of matching IP and MAC addresses in an ARP
-         cache. ARP does not have a specific port number since it is a
-         layer 2 protocol and port numbers are associated with the layer
-         7 application layer.
+    - Address Resolution Protocol (ARP): is used to translate the IP
+      addresses that are found in data packets into the MAC address
+      of the hardware device. Each device on the network performs ARP
+      and keeps track of matching IP and MAC addresses in an ARP
+      cache. ARP does not have a specific port number since it is a
+      layer 2 protocol and port numbers are associated with the layer
+      7 application layer.
 2. **Internet layer** is where IP addresses are attached to data packets
    to indicate the location of the sender and receiver. The internet
    layer also focuses on how networks connect to each other. Some common
    protocols that operate in this layer:
-       - Internet Protocol (IP): sends the data packets to the correct
-         destination and relies on the Transmission Control
-         Protocol/User Datagram Protocol (TCP/UDP) to deliver them to
-         the corresponding service. IP packets allow communication
-         between two networks. They are routed from the sending network
-         to the receiving network. TCP in particular retransmits any
-         data that is lost or corrupt.
-       - Internet Control Message Protocol (ICMP) shares error
-         information and status updates of data packets. This is useful
-         for detecting and troubleshooting network errors. The ICMP
-         reports information about packets that were dropped or that
-         disappeared in transit, issues with network connectivity, and
-         packets redirected to other routers.
+    - Internet Protocol (IP): sends the data packets to the correct
+      destination and relies on the Transmission Control
+      Protocol/User Datagram Protocol (TCP/UDP) to deliver them to
+      the corresponding service. IP packets allow communication
+      between two networks. They are routed from the sending network
+      to the receiving network. TCP in particular retransmits any
+      data that is lost or corrupt.
+    - Internet Control Message Protocol (ICMP) shares error
+      information and status updates of data packets. This is useful
+      for detecting and troubleshooting network errors. The ICMP
+      reports information about packets that were dropped or that
+      disappeared in transit, issues with network connectivity, and
+      packets redirected to other routers.
 3. **Transport layer** includes protocols to control the flow of traffic
    across a network. These protocols permit or deny communication with
    other devices and include information about the status of the
    connection.
-       - Transmission Control Protocol (TCP) ensures that data is
-         reliably transmitted to the destination service. TCP contains
-         the port number of the intended destination service, which
-         resides in the TCP header of a TCP/IP packet.
-       - User Datagram Protocol (UDP) is a connectionless protocol that
-         does not establish a connection between devices before
-         transmissions. It is used by applications that are not
-         concerned with the reliability of the transmission. Data sent
-         over UDP is not tracked as extensively as data sent using TCP.
-         Because UDP does not establish network connections, it is used
-         mostly for performance sensitive applications that operate in
-         real time, such as video streaming.
+    - Transmission Control Protocol (TCP) ensures that data is
+      reliably transmitted to the destination service. TCP contains
+      the port number of the intended destination service, which
+      resides in the TCP header of a TCP/IP packet.
+    - User Datagram Protocol (UDP) is a connectionless protocol that
+      does not establish a connection between devices before
+      transmissions. It is used by applications that are not
+      concerned with the reliability of the transmission. Data sent
+      over UDP is not tracked as extensively as data sent using TCP.
+      Because UDP does not establish network connections, it is used
+      mostly for performance sensitive applications that operate in
+      real time, such as video streaming.
 4. **Application layer** has protocols determine how the data packets
    will interact with receiving devices. Functions that are organized at
    application layer include file transfers and email services. Some
    common protocols used in this layer are:
-       - Hypertext transfer protocol (HTTP): provides a method of
-         communication between clients and website servers. HTTP uses
-         port 80. HTTP is considered insecure, so it is being replaced
-         on most websites by a secure version, called HTTPS that uses
-         encryption from SSL/TLS for communication.
-       - Simple mail transfer protocol (SMTP): is used to transmit and
-         route email from the sender to the recipient’s address. SMTP
-         works with Message Transfer Agent (MTA) software, which
-         searches DNS servers to resolve email addresses to IP
-         addresses, to ensure emails reach their intended destination.
-         SMTP uses TCP/UDP port 25 for unencrypted emails and TCP/UDP
-         port 587 using TLS for encrypted emails. The TCP port 25 is
-         often used by high-volume spam.
-       - Post office protocol (POP): is used to manage and retrieve
-         email from a mail server. POP3 is the most commonly used
-         version of POP. When using POP, mail has to finish downloading
-         on a local device before it can be read. After downloading, the
-         mail may or may not be deleted from the mail server, so it does
-         not guarantee that a user can sync the same email across
-         multiple devices.
-       - Internet Message Access Protocol (IMAP): is used for incoming
-         email. It downloads the headers of emails and the message
-         content. The content also remains on the email server, which
-         allows users to access their email from multiple devices. IMAP
-         uses TCP port 143 for unencrypted email and TCP port 993 over
-         the TLS protocol. Using IMAP allows users to partially read
-         email before it is finished downloading.
-       - Secure shell (SSH): is used to create a secure connection with
-         a remote system. This provides an alternative for secure
-         authentication and encrypted communication. SSH operates over
-         the TCP port 22 and is a replacement for less secure protocols,
-         such as Telnet.
-       - Secure File transfer protocol (SFTP): is used to transfer files
-         from one device to another over a network. SFTP uses secure
-         shell (SSH), typically through TCP port 22. SSH uses Advanced
-         Encryption Standard (AES) and other types of encryption to
-         ensure that unintended recipients cannot intercept the
-         transmissions.
-       - Domain name system (DNS): translates internet domain names into
-         IP addresses. When a client computer wishes to access a website
-         domain using their internet browser, a query is sent to a
-         dedicated DNS server. The DNS server then looks up the IP
-         address that corresponds to the website domain. DNS normally
-         uses UDP on port 53. However, if the DNS reply to a request is
-         large, it will switch to using the TCP protocol.
-       - Simple Network Management Protocol (SNMP): is used for monitoring
-         and managing devices on a network. SNMP can reset a password on
-         a network device or change its baseline configuration. It can
-         also send requests to network devices for a report on how much
-         of the network’s bandwidth is being used up.
-       - Dynamic Host Configuration Protocol (DHCP): works with the
-         router to assign a unique IP address to each device and provide
-         the addresses of the appropriate DNS server and default gateway
-         for each device. DHCP servers operate on UDP port 67 while DHCP
-         clients operate on UDP port 68.
-       - Telnet: sends all information in clear text. It uses command
-         line prompts to control another device similar to secure shell
-         (SSH), but Telnet is not as secure as SSH. Telnet can be used
-         to connect to local or remote devices and uses TCP port 23.
+    - Hypertext transfer protocol (HTTP): provides a method of
+      communication between clients and website servers. HTTP uses
+      port 80. HTTP is considered insecure, so it is being replaced
+      on most websites by a secure version, called HTTPS that uses
+      encryption from SSL/TLS for communication.
+    - Simple mail transfer protocol (SMTP): is used to transmit and
+      route email from the sender to the recipient’s address. SMTP
+      works with Message Transfer Agent (MTA) software, which
+      searches DNS servers to resolve email addresses to IP
+      addresses, to ensure emails reach their intended destination.
+      SMTP uses TCP/UDP port 25 for unencrypted emails and TCP/UDP
+      port 587 using TLS for encrypted emails. The TCP port 25 is
+      often used by high-volume spam.
+    - Post office protocol (POP): is used to manage and retrieve
+      email from a mail server. POP3 is the most commonly used
+      version of POP. When using POP, mail has to finish downloading
+      on a local device before it can be read. After downloading, the
+      mail may or may not be deleted from the mail server, so it does
+      not guarantee that a user can sync the same email across
+      multiple devices.
+    - Internet Message Access Protocol (IMAP): is used for incoming
+      email. It downloads the headers of emails and the message
+      content. The content also remains on the email server, which
+      allows users to access their email from multiple devices. IMAP
+      uses TCP port 143 for unencrypted email and TCP port 993 over
+      the TLS protocol. Using IMAP allows users to partially read
+      email before it is finished downloading.
+    - Secure shell (SSH): is used to create a secure connection with
+      a remote system. This provides an alternative for secure
+      authentication and encrypted communication. SSH operates over
+      the TCP port 22 and is a replacement for less secure protocols,
+      such as Telnet.
+    - Secure File transfer protocol (SFTP): is used to transfer files
+      from one device to another over a network. SFTP uses secure
+      shell (SSH), typically through TCP port 22. SSH uses Advanced
+      Encryption Standard (AES) and other types of encryption to
+      ensure that unintended recipients cannot intercept the
+      transmissions.
+    - Domain name system (DNS): translates internet domain names into
+      IP addresses. When a client computer wishes to access a website
+      domain using their internet browser, a query is sent to a
+      dedicated DNS server. The DNS server then looks up the IP
+      address that corresponds to the website domain. DNS normally
+      uses UDP on port 53. However, if the DNS reply to a request is
+      large, it will switch to using the TCP protocol.
+    - Simple Network Management Protocol (SNMP): is used for monitoring
+      and managing devices on a network. SNMP can reset a password on
+      a network device or change its baseline configuration. It can
+      also send requests to network devices for a report on how much
+      of the network’s bandwidth is being used up.
+    - Dynamic Host Configuration Protocol (DHCP): works with the
+      router to assign a unique IP address to each device and provide
+      the addresses of the appropriate DNS server and default gateway
+      for each device. DHCP servers operate on UDP port 67 while DHCP
+      clients operate on UDP port 68.
+    - Telnet: sends all information in clear text. It uses command
+      line prompts to control another device similar to secure shell
+      (SSH), but Telnet is not as secure as SSH. Telnet can be used
+      to connect to local or remote devices and uses TCP port 23.
 
 ### OSI Model
 

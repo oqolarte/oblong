@@ -5,6 +5,8 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
 ## Introduction
 
 Incident lifecycle frameworks provide a structure to support incident

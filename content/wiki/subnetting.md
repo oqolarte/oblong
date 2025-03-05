@@ -8,11 +8,13 @@ math: false
 Subnetting is the subdivision of a network into logical groups called
 subnets. It works like a [network](/network) inside a network.
 Subnetting divides up a network address range into smaller subnets
-within the network. These smaller subnets form based on the IP addresses
-and network mask of the devices on the network. Subnetting creates a
-network of devices to function as their own network. This makes the
-network more efficient and can also be used to create
-[security zones](/security-zone).
+within the network. These smaller subnets form based on the
+[IP addresses](/ip-address) and network mask of the devices on the network.
+Subnetting creates a network of devices to function as their own
+network. This makes the network more efficient and can also be used to
+create [security zones](/security-zone).
+
+{{< toc >}}
 
 ## Classless Inter-Domain Routing notation for subnetting
 

@@ -4,8 +4,9 @@ date: 2023-11-22
 draft: false
 ---
 
-[The only one perfectly secure cryptosystem known.](https://www.pro-technix.com/information/crypto/pages/vernam_base.html)
-(TODO: Go through the linked articles in the link above.)
+{{< toc >}}
+
+[The only one perfectly secure cryptosystem known.](https://web.archive.org/web/20240416184312/https://www.pro-technix.com/information/crypto/pages/vernam_base.html)
 
 For sending highly secure or confidential information over non-secure
 channels (e.g., telephone, radio, mail), Vernam [cipher](/ciphers) is the only
