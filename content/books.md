@@ -73,6 +73,7 @@ I read slowly, you might notice.
 | [Skin in the Game](/250/#brief-review-of-skin-in-the-game)           | Nassim Nicholas Taleb |
 | [Filipino Value System](/252/#brief-review-of-filipino-value-system) | F. Landa Jocano       |
 | [The Hundred Year's War on Palestine](/palestine)                    | Rashid Khalidi        |
+| [Cobalt Red](/259/#brief-review-of-cobalt-red)                       | Siddharth Kara        |
 
 ## Did not finish
 

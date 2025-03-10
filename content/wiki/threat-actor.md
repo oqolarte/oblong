@@ -67,6 +67,8 @@ of attack vectors they’ll use:
   organizations
 - Supply chains like third-party vendors that can present a backdoor
   into systems
+- [IMSI-catchers](/imsi-catcher) to eavesdrop on nearby mobile phone
+  traffic.
 
 [Recognizing a threat actor’s intentions](/vulnerability-assessment) can
 help you determine which access points they might target and what

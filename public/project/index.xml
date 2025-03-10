@@ -22,8 +22,9 @@ Status:
 &lt;/p&gt;
 
 &lt;p&gt;Notes on how I tried to solve CTF problems in
-&lt;a href=&#34;https://picoctf.org&#34;&gt;picoCTF&lt;/a&gt; 2024. I may or may not write about each
-of the problem I go through.&lt;/p&gt;
+&lt;a href=&#34;https://picoctf.org&#34;&gt;picoCTF&lt;/a&gt; &lt;strong&gt;2024&lt;/strong&gt;. I may or may not write about each
+of the problem I go through. Also note that picoCTF has just released
+their &lt;a href=&#34;https://play.picoctf.org/events/74&#34;&gt;2025 challenge&lt;/a&gt;&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
   &lt;details&gt;
@@ -34,6 +35,8 @@ of the problem I go through.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#webdecode&#34;&gt;WebDecode&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#unminify&#34;&gt;Unminify&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#time-machine&#34;&gt;Time machine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#secret-of-the-polyglot&#34;&gt;Secret of the Polyglot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#introtoburp&#34;&gt;IntroToBurp&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -93,6 +96,32 @@ the &lt;code&gt;drop-in/&lt;/code&gt; directory.&lt;/li&gt;
 &amp;ldquo;look[ing] at my commit history&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;The other set of files is &lt;code&gt;.git/&lt;/code&gt;. To view commit history and obtain
 flag, type &lt;code&gt;git log&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;secret-of-the-polyglot&#34;&gt;Secret of the Polyglot&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Download the file, which is in pdf format&lt;/li&gt;
+&lt;li&gt;Opening the file using a PDF reader (I use &lt;code&gt;zathura&lt;/code&gt;), it reveals a
+mostly blank page, except for this string of text somewhere in the
+middle of the page: &lt;code&gt;1n_pn9_&amp;amp;_pdf_724b1287}&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;The only clue for this problem mentions &amp;ldquo;opening the file in different ways.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;xdg-open flag2of2-final.pdf&lt;/code&gt; reveals an image with this seemingly
+incomplete text: &lt;code&gt;picoCTF{f1u3n7_&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;True enough, this is not the flag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Notice the curly brackets (&lt;code&gt;{ }&lt;/code&gt;), though, in both the strings of text
+that we have so far. What if we concatenate the two strings?&lt;/li&gt;
+&lt;li&gt;This will produce &lt;code&gt;picoCTF{f1u3n7_1n_pn9_&amp;amp;_pdf_724b1287}&lt;/code&gt; which is
+indeed the correct flag.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;introtoburp&#34;&gt;IntroToBurp&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Launch instance and visit the link.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
