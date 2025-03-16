@@ -8,11 +8,18 @@ math: false
 Based on the book of Nick Montgomery and carla bergman.
 Read the whole text online for free [here](https://theanarchistlibrary.org/library/joyful-militancy-bergman-montgomery).
 
+
+{{< toc >}}
+
+## Intro
+
 The phrase "joyful militancy" can't be distilled, in my opinion, into a
 single definition, and is merely a placeholder for all the ideas it
 attempts to encompass. This is good, unironically, because a word or
 phrase cannot be made to contain complex topics; it can only be a giant
 arrow to where we want our [communities](/community) to be.
+
+## Getting grounded
 
 Joy, in this context, isn't solely anchored to emotions, although
 there's no denying that they both feed off of each other. It's more of a

@@ -68,12 +68,15 @@ I read slowly, you might notice.
 | [Dila at Bandila](/236/#brief-review-of-dila-at-bandila)                                               | Ige Ramos                                  |
 | [Purity](/240/#brief-review-of-purity)                                                                 | Jonathan Franzen                           |
 | [Resist Everything Except Temptation: The Anarchist Philosophy of Oscar Wilde](/241/#brief-review-of-resist-everything)                            | Kristian Williams
-| [Fermat's Enigma](/242/#brief-review-of-fermats-enigma)              | Simon Singh           |
-| [Ransomed by Love](/247/#brief-review-of-ransomed-by-love)           | Tony La Viña          |
-| [Skin in the Game](/250/#brief-review-of-skin-in-the-game)           | Nassim Nicholas Taleb |
-| [Filipino Value System](/252/#brief-review-of-filipino-value-system) | F. Landa Jocano       |
-| [The Hundred Year's War on Palestine](/palestine)                    | Rashid Khalidi        |
-| [Cobalt Red](/259/#brief-review-of-cobalt-red)                       | Siddharth Kara        |
+| [Fermat's Enigma](/242/#brief-review-of-fermats-enigma)                        | Simon Singh           |
+| [Ransomed by Love](/247/#brief-review-of-ransomed-by-love)                     | Tony La Viña          |
+| [Skin in the Game](/250/#brief-review-of-skin-in-the-game)                     | Nassim Nicholas Taleb |
+| [Filipino Value System](/252/#brief-review-of-filipino-value-system)           | F. Landa Jocano       |
+| [The Hundred Year's War on Palestine](/palestine)                              | Rashid Khalidi        |
+| [Cobalt Red](/259/#brief-review-of-cobalt-red)                                 | Siddharth Kara        |
+| [My Friends in the Barrios](/260/#brief-review-of-my-friends-in-the-barrios)   | Juan M. Flavier       |
+| [Strange Intimacies](/260/#brief-review-of-strange-intimacies)                 | Zea Asis              |
+
 
 ## Did not finish
 

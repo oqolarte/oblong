@@ -13,6 +13,7 @@ Filipino redditors also skew to those living in the National Capital
 Region, so their lived experiences vary from people in other, less
 populous regions.
 
+{{< toc >}}
 
 ## Emilio Aguinaldo
 
@@ -21,9 +22,8 @@ populous regions.
 
 ## Manuel L. Quezon
 
-1. Propagandist and mudslinger, to the point of literally digging up bones of Andres
-   Bonifacio
-2. 
+1. Propagandist and mudslinger, to the point of literally digging up
+   bones of Andres Bonifacio
 
 ## Jose P. Laurel
 
@@ -109,7 +109,7 @@ populous regions.
 
 ## Rodrigo Duterte
 
-1. War on Drugs
+1. [War on Drugs](/drugwar)
 2. Lapdog of the State of Mainland China
 3. Fucked up handling of COVID pandemic
 

@@ -48,3 +48,7 @@ rotating them daily to avoid cracking.
 For more details,
 look for Vertical Soak Diffusion method in this article,
 [Treating Bamboo In Your Backyard](https://bamboou.com/treating-bamboo-in-your-backyard/).
+
+## Further reading
+
+- [Some list of bamboo species from Carolina Bamboo Garden](https://carolinabamboogarden.com/bamboo-species-list/)

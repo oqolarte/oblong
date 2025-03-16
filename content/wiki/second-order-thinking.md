@@ -3,6 +3,11 @@ title: "Second-order thinking"
 date: 2022-10-25
 draft: false
 ---
+
+{{< toc >}}
+
+## Start with an example
+
 Consider the fence described by G. K. Chesterton:
 
 > There exists in such a case a certain institution or law; let us say,

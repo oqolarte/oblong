@@ -15,6 +15,7 @@ reference from which to learn.
 ## Stratetgies
 - [abolition](/abolition)
 - [animal liberation](/animal-liberation)
+- [anonymous consumer](/anon-consumer)
 - [anti-work](/anti-work)
 - [community](/community)
 - [counter-insurgency](/counter-insurgency)
@@ -42,12 +43,9 @@ reference from which to learn.
 - [democracy](/democracy)
 - [eco-anarchism](/eco-anarchism)
 - [fascism](/fascism)
-- [Filipino values](/filipino-values)
 - [hierarchy](/hierarchy)
 - [nihilism](/nihilism)
 - [religion](/religion)
 - [solarpunk](/solarpunk)
-- "[war on drugs](/drugwar)"
 
-## Reference
-- [Worst thing each Philippine President has ever done](/ph-presidents)
+

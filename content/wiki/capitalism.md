@@ -7,6 +7,8 @@ math: false
 
 {{< toc >}}
 
+## Intro
+
 Capitalism is, whether we like it or not, a strong idea that most of us
 [are coerced to] agree on,
 [an elaborate Ponzi scheme](https://crimethinc.com/posters/capitalism-is-a-pyramid-scheme) that shapes our

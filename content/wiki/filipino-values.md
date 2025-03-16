@@ -100,7 +100,7 @@ Our values need to have a standard, or *pamantayan* (from the root word,
 Q: Why do Filipinos behave the way they do?  
 A: Because they observe the same *pamantayan* for doing things.
 
-### Elements of Pamantayan
+## Elements of Pamantayan
 
 1. [Halaga](/halaga) (evaluative core) - extrinsic to importance or
    significance of ideas, objects, and people; and value judgments deal

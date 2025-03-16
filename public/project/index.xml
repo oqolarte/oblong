@@ -11,6 +11,198 @@
     
     
     <item>
+      <title>GI Clothes Rack</title>
+      <link>https://ohio.araw.xyz/gi-clothes-rack/</link>
+      <pubDate>Sun, 16 Mar 2025 16:12:19 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/gi-clothes-rack/</guid>
+      <description>&lt;p class=&#34;statusDone&#34;&gt;
+Status:
+&lt;strong&gt;DONE&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I made a DIY clothes rack made up of galvanized iron (GI) pipes. All
+threading. No welding needed.&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#materials&#34;&gt;Materials&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#tools&#34;&gt;Tools&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#prepping-and-threading-the-pipes&#34;&gt;Prepping and threading the pipes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#assembly&#34;&gt;Assembly&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#1-screw-the-flanges-to-the-street-elbows&#34;&gt;1. Screw the flanges to the street elbows&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#2-screw-the-two-nipples-to-each-side-of-a-tee-connector&#34;&gt;2. Screw the two nipples to each side of a tee connector&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#3-screw-the-feet-from-step-1-to-the-tee-assembly-from-step-2&#34;&gt;3. Screw the &amp;ldquo;feet&amp;rdquo; (from step 1) to the tee assembly (from step 2)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#4-screw-the-feet-assembly-from-step-3-to-pipe&#34;&gt;4. Screw the &amp;ldquo;feet assembly&amp;rdquo; (from step 3) to pipe&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#5-screw-two-elbows-at-each-end-of-the-third-unused-pipe&#34;&gt;5. Screw two elbows at each end of the third unused pipe&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#6-screw-each-leg-assembly-from-step-4-to-each-end-of-the-rack-assembly-from-step-5&#34;&gt;6. Screw each leg assembly (from step 4) to each end of the rack assembly (from step 5)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#7-done&#34;&gt;7. Done!&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#for-improvement&#34;&gt;For improvement&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#final-thoughts&#34;&gt;Final thoughts&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_01.jpg&#34;
+    alt=&#34;A white-and-grey cat sleeping inside a plastic plantbox&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Foreman T. was confident I would finish the work and left it &lt;em&gt;up to me.&lt;/em&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_10.jpg&#34;
+    alt=&#34;knolling of materials, including GI pipes and fittings, all on concrete flooring&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;All of the pipes and fittings are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GI&lt;/li&gt;
+&lt;li&gt;Schedule 20&lt;/li&gt;
+&lt;li&gt;¾&amp;quot; diameter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That said, here are the materials:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;pipes, each at 5&amp;rsquo;, 3 lengths&lt;/li&gt;
+&lt;li&gt;90° elbows, 2 pieces&lt;/li&gt;
+&lt;li&gt;90° street elbow, 4 pieces&lt;/li&gt;
+&lt;li&gt;flanges, 4 pieces of&lt;/li&gt;
+&lt;li&gt;tee connectors, 2 pieces&lt;/li&gt;
+&lt;li&gt;6&amp;quot; nipples, 4 pieces&lt;/li&gt;
+&lt;/ol&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_05.jpg&#34;
+    alt=&#34;knolling of tools, including pipe wrench, two C clamps, threading oil, and die cast threader&#34;&gt;
+&lt;/figure&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Manual, Die, Ratcheting Pipe threader&lt;/li&gt;
+&lt;li&gt;Pipe wrench&lt;/li&gt;
+&lt;li&gt;Threading oil&lt;/li&gt;
+&lt;li&gt;C-clamps, two pieces&lt;/li&gt;
+&lt;li&gt;Wooden workbench (not pictured above, but will be below)&lt;/li&gt;
+&lt;li&gt;Any tray/basin to catch iron filings from threading&lt;/li&gt;
+&lt;li&gt;Scrap wood as spacers&lt;/li&gt;
+&lt;/ol&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;prepping-and-threading-the-pipes&#34;&gt;Prepping and threading the pipes&lt;/h2&gt;
+&lt;p&gt;Skip this part if you can buy pipes at 5&amp;rsquo; lengths that &lt;em&gt;are threaded&lt;/em&gt; on
+both ends. This would be ideal as you wouldn&amp;rsquo;t have to cut and thread
+the pipes yourself.&lt;/p&gt;
+&lt;p&gt;In our local hardware, only 20&amp;rsquo;-length pipes are available. I bought one
+length and commissioned one of the workers there to cut it for me for
+extra fee.&lt;/p&gt;
+&lt;p&gt;At home, I threaded the cut pipes with this low-tech setup:&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_09.jpg&#34;
+    alt=&#34;image of a pipe clamped down to a wooden bench, ready to be threaded on both ends&#34;&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For video tutorial, See Jane Drill&amp;rsquo;s tuorial &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=32pzriZO1xc&#34;&gt;How to Thread Pipe; A Beginner&amp;rsquo;s Tutorial&lt;/a&gt;&amp;rdquo; (YouTube) really helped.&lt;/p&gt;
+&lt;p&gt;This process needs all the tools, more notably the pipe threader, pipe
+wrench, and threading oil.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;assembly&#34;&gt;Assembly&lt;/h2&gt;
+&lt;p&gt;Putting it together requires lots of screwing around. I found that if
+some threads were hard to screw, applying WD-40 helped.&lt;/p&gt;
+&lt;p&gt;For a video guide, I highly recommend Gerardo&amp;rsquo;s tutorial &amp;ldquo;&lt;a href=&#34;https://www.youtube.com/watch?v=EFgqlDB_Rac&#34;&gt;How to make Industrial Clothing Rack! || DIY for Vintage markets or Closet!&lt;/a&gt;&amp;rdquo; which is the main inspiration for this build!&lt;/p&gt;
+&lt;h3 id=&#34;1-screw-the-flanges-to-the-street-elbows&#34;&gt;1. Screw the flanges to the street elbows&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_11.jpg&#34;
+    alt=&#34;image of hand holding a flange already screwed to a street elbow&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Do this four times, one for each foot of the rack.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;2-screw-the-two-nipples-to-each-side-of-a-tee-connector&#34;&gt;2. Screw the two nipples to each side of a tee connector&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_12.jpg&#34;
+    alt=&#34;image of hand holding an assembly of tee connector with nipples on both sides&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Do this twice, one for each end of the rack.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;3-screw-the-feet-from-step-1-to-the-tee-assembly-from-step-2&#34;&gt;3. Screw the &amp;ldquo;feet&amp;rdquo; (from step 1) to the tee assembly (from step 2)&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_13.jpg&#34;
+    alt=&#34;image of assemblies of tee connector with nipples and flanges on both sides&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Do this twice, one for each end of the rack.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;4-screw-the-feet-assembly-from-step-3-to-pipe&#34;&gt;4. Screw the &amp;ldquo;feet assembly&amp;rdquo; (from step 3) to pipe&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_14.jpg&#34;
+    alt=&#34;image of assemblies of the legs of the rack&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Do this twice, one for each stand of the rack.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;5-screw-two-elbows-at-each-end-of-the-third-unused-pipe&#34;&gt;5. Screw two elbows at each end of the third unused pipe&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_19.png&#34;
+    alt=&#34;image of a man holding assembly of pipe with elbow fittings screwed on each end&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Person NOT me. Still taken from Gerardo&amp;rsquo;s video tutorial. I forgot to take a photo of mine.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;6-screw-each-leg-assembly-from-step-4-to-each-end-of-the-rack-assembly-from-step-5&#34;&gt;6. Screw each leg assembly (from step 4) to each end of the rack assembly (from step 5)&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_20.png&#34;
+    alt=&#34;image of a man screwing the leg assembly on to the rack part&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Person NOT me. Still taken from Gerardo&amp;rsquo;s video tutorial. I forgot to take a photo of mine.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;7-done&#34;&gt;7. Done!&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/girack_17.jpg&#34;
+    alt=&#34;image of a built DIY rack&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Final product.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Don&amp;rsquo;t forget to tighten the screws and check any misalignment.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;for-improvement&#34;&gt;For improvement&lt;/h2&gt;
+&lt;p&gt;This is my first, but hopefully not the last, building this. I learned a
+lot.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Like I said, skipping the whole threading thing would have sped up
+the process, but that means scouring for already-threaded,
+cut-to-length GI pipes in larger hardware stores.&lt;/li&gt;
+&lt;li&gt;Pipe vise clamp would definitely help if I were to thread my own
+pipes again. Clamps and spacers do not hold well a pipe, especially when a
+torque is applied.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;final-thoughts&#34;&gt;Final thoughts&lt;/h2&gt;
+&lt;p&gt;Estimated total cost: ~PHP 2,500 (~USD 45)&lt;br&gt;
+Estimated number of workhours: 8&lt;br&gt;
+Estimated value of satisfaction: &lt;em&gt;Priceless&lt;/em&gt;&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>picoCTF 2024 Challenges</title>
       <link>https://ohio.araw.xyz/picoctf-2024/</link>
       <pubDate>Mon, 03 Mar 2025 14:10:30 +0800</pubDate>

@@ -4,6 +4,10 @@ date: 2022-09-08
 draft: false
 ---
 
+{{< toc >}}
+
+## What it is to me
+
 A simple life, to me, means:
 
 - Not falling trap to the [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill),

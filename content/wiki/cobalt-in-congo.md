@@ -215,12 +215,14 @@ To expose the earth for digging, forests have to be cleared, the wood
 from which are burned to be charcoal, used for heating and cooking in
 the villages.
 
-Most Congolese government officials dney or diminish the existence of
+Most Congolese government officials deny or diminish the existence of
 child labor in mining. At least one of them (according to Kara's
 interviews) said that they (the children) were
 [Pygmies](https://en.wikipedia.org/wiki/Pygmy_peoples), implying that
 they are actually not children, but rather adults whose average height
-is unusually short.
+is unusually short. AND!---even if they were Pygmies, they still deserve
+better and safer working conditions incentivized, if anything, with a
+living wage.
 
 ## Congo as colony to the whole world
 
