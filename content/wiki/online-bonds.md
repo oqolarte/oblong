@@ -10,6 +10,8 @@ scattered and would only gel around a central theme. Internet is a weird
 thing, but it's this weirdness that allows strange yet modern
 relationships to come into existence.
 
+{{< toc >}}
+
 ## Shocking, I know
 
 It's amazing how many digital relationships rely on specific
@@ -28,7 +30,7 @@ the loop, from hello to goodbye.
 
 The digital friends I met during my stay on Tumblr is now "harder to
 reach" since my moving away from the platform. Assuming that we all have
-access to internet, social media platforms become barriers when they are
+access to internet, [social media platforms](/social-media) become barriers when they are
 designed to be walled gardens, shunning non- and/or former users.
 
 Without obvious way to sustain the bond, these digital relationships are

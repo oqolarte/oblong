@@ -55,7 +55,7 @@ problematic.
 
 In order for to sustain it, fashion has to be fit for purpose and needs
 to align with my lifestyle. Beyond cultural purpose, people get caught
-up in the the aesthetic side advertised in social media that they end up
+up in the the aesthetic side advertised in [social media](/social-media) that they end up
 thinking less about just the functional purpose of clothes. They're
 supposed to protect your body while you're out doing the things you need
 to do. So, if any piece of clothing would get in my way (like physically

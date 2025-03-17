@@ -10,12 +10,15 @@ around me eventually?
 
 These are my notes *trying* to answer that question.
 
+{{< toc >}}
+
 ## Finances
 
 For a few years now, I'm taking care of
 [my finances](/personal-finance), trying to keep track of my spending
-habits. It is boring, but it helps me with budgeting. Sadly, our current
-systems are still governed by money. Looking after my bank is a small
+habits. It is boring, but it helps me with budgeting. Sadly, our
+[current systems are still governed by the chase of money](/capitalism).
+Looking after my bank is a small
 step towards not being a burden to my [community](/community).
 
 ## Sense of Purpose
@@ -34,7 +37,7 @@ soon enough. That's it: an existential nag to both the self and the
 society it is bound within, to have a function among its ranks. Or
 maybe, [the joke of finding purpose is to not do it at all](/nihilism).
 
-What my purpose is, to be honest, has not fully come to me yet if it
+What my purpose is, to be honest, has not fully come to me yet, if it
 will at all; but expression through
 [writing](/writing) seems to keep the tinder alive. It's one of those
 hobbies that I get to feel contented. My style isn't golden, but words
@@ -43,6 +46,9 @@ new thought.
 
 I'm also eyeing on [repairing broken things](/repair).
 Instead of sending them to landfill, why not try fixing them first?
+
+And in that sense, I wonder if [social revolution](/revolution) is an attmept at fixing
+broking things that span lifetimes?
 
 ## On Past Lives
 
@@ -60,14 +66,14 @@ when some random thing triggers it.
 There aren't many instances that I recall listening to my inner voice,
 but in the aftermath of a good decision, I realize that my gut feeling
 leads me through the arcane processes of fate. It doesn't sound
-scientific at all---let me explain.
+scientific at all. Let me explain.
 
 Before making a decision, [it's only reasonable to gather as many data](/data-management)
 as one can, and structure them in such a way
 that it presents knowledge on which one can then act. But not all
 times do we gain all the data right away, if at all. In these
 situations, my inner voice tells me to wait it out, be patient. Most
-often, "[waiting it out](/slow-productivity)" has revealed better options for me.
+often, "[waiting it out](/slow-productivity)" has revealed better options for me, that it was, and often, still is, a good choice.
 
 This particular rate of decision-making, though, will not work in the
 competitive environment of corporate world, where something must be done
@@ -87,15 +93,14 @@ force people into submitting to the same beliefs as theirs, we are good.
 
 To me, spirituality, doesn't necessarily mean a presence of soul within
 the corporeal form, but a state of mind. To be spiritual is to freely
-express oneself. In order for me to be at ease with one's and to engage
-in healthy activities that not only enriches oneself, but also those of
-others.
+express oneself.
 
 ## Show putting on for others?
 
 I have a quiet digital life, a product of deleting my accounts on some
-major social media like Facebook and Twitter. I still maintain my
-contact with some of my friends and family through their phone numbers.
+[major social media](/social-media) like Facebook and Twitter. I still maintain my
+contact with some of my friends and family through their phone numbers,
+or via Signal Messenger.
 If I don't have their numbers, it means we are not in enough regular
 contact to make an effort to sustain the relationship. I have always
 wanted to live my life in my own terms. The idea of doing it to please
@@ -103,33 +108,30 @@ somebody else cannot be sustained.
 
 ## Envy
 
-There are people out there whose lives I envy
+There are people out there whose lives I envy:
 
 1. **Musicians**: Since I have experienced music at a young age, I
    already knew then that it's something that I will be chasing for the
    rest of my life. Right now, though, my talents limit me to listening
-   to
-   music, not creating them. For a while in my high school days, I
+   to music, not creating them. For a while in my high school days, I
    joined a band as a drummer, but my skills were non-existent. I was
    out of time, out of sync, but my band mates and I had fun. We covered
-   music from our favorite groups for fun. I didn't expect to make
-   a living out of it. Although I still imagine myself performing for a
+   music from our favorite groups for fun. I didn't expect to make a
+   living out of it. Although I still imagine myself performing for a
    large audience in a sold-out concert. As a real-life musician,
    though, I've come to realize that it takes a certain kind of passion
    to know that one must consistently practice and perform their own
    songs over and over. It takes work.
-
 2. **Rich people**: Money solves problems, that is the reality. Having
    enough money addresses the basic needs. Having lots of money
    addresses more needs and wants. In the culture of consumerism,
    wanting more is not sustainable. So while I envy people who are far
    richer in wealth than I am, I question their shady lifestyle choices
    that affects the rest of us.
-
 3. **Scientists**: Their studies, discoveries have continued to make
    impact in our lives. At some point in my life, I wanted to become
    one, huddled in my own lab or shuffling about out in the field.
-   Scientists, however, in the Philippines encounter difficulties in
+   Scientists, however, in the [Philippines](/pilipinas) encounter difficulties in
    funding. The actual research is only half of the problem that
    requires solution.
 

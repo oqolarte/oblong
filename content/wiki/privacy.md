@@ -28,7 +28,7 @@ about (even if "people" could sometimes be just ourselves) within
 private spaces. Here, privacy means having the choice with whom to
 interact and where.
 
-Perhaps one of the bane of social media platforms is that
+Perhaps one of the bane of [social media platforms](/social-media) is that
 many of them exploit our need to socialize to encourage a behavior that
 overshares one's personal data to the public. This normalization of
 oversharing, then, transforms the need for privacy as counterproductive,

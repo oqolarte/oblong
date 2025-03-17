@@ -27,7 +27,7 @@ resulting tech can and will be used for other, more harmful things.
 Never has it been easier for corporations and nation-states to conduct
 mass surveillance, especially when its beautiful design and packag
 hijacks our attention that we cannot help but jump in and use it, like
-for example, social media platforms, or the sleek smart gadgets with
+for example, [social media platforms](/social-media), or the sleek smart gadgets with
 which we access said platforms. These platforms collect our data without
 our consent! These data will then be stored in their data centers, to be
 processed later for various purposes, including but not limited to,

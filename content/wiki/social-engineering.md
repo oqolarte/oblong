@@ -45,7 +45,7 @@ and the list below is non-exhaustive:
    when the latter is doing important stuff on their device, like
    inputting a password or PIN
 5. Social media phishing: A threat actor collects detailed information
-   about their target from social media sites. Then, they initiate an
+   about their target from [social media sites](/social-media). Then, they initiate an
    attack.
 6. Watering hole attack: A threat actor attacks a website frequently
    visited by a specific group of users.

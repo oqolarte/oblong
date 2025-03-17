@@ -178,7 +178,7 @@ country (whose policies and politics I denounce, for the record) working undergr
 use a mish-mash of Linux and FOSS apps as their tech stack to operate,
 while I have yet to hear the same thing from the State's military and
 police. In fact, the latter, from I what limited info I know, crawl and
-scour big social media apps like Facebook, because let's face it, these
+scour big [social media apps](/social-media) like Facebook, because let's face it, these
 platforms are treasure troves for personal and/or incriminating data.
 
 ### Choosing Linux

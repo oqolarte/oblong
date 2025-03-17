@@ -23,7 +23,7 @@ that one, max of two, people can maintain easily.
 
 - Keep a journal using pen and paper to document life. [Bullet journal](/bujo) has worked well for me.
 - When using the internet, consider using RSS feed instead of getting
-  info from social media and other distracting sites, but --
+  info from [social media](/social-media) and other distracting sites, but --
 - Read the news only at most once a week. If it's relevant enough, it
   will find it's way to you through the people around you.
 - Gaming, especially video gaming, should be contained in its own

@@ -4,6 +4,10 @@ date: 2023-12-21
 draft: false
 ---
 
+{{< toc >}}
+
+## Multi-level issue
+
 War on drugs is actually an intersection of multiple issues:
 
 - **Class issue**: War on drugs is anti-poor. Only rich people get
@@ -20,6 +24,8 @@ War on drugs is actually an intersection of multiple issues:
   they didn't have access to the level of education to enable them to
   find other legal ways of surviving.
 
+## Dehumanizing people
+
 The easiest way to dehumanize people, more so in post-Duterte era, is
 to say they use illegal drugs. Media is also responsible for
 indictment of drug users because everytime someone is arrested for
@@ -27,3 +33,7 @@ crime, especially rape or murder; they report that the suspects are drug
 users. Drug users are conveniently the best scapegoat to take away
 accountability from government for the daily violence we experience:
 when you blame a problem to the drug users, no more questions asked.
+
+## Further reading
+
+- [Ronda Girls: How Filipino Mothers Took on the War on Drugs](https://www.talkingdrugs.org/ronda-girls-how-filipino-mothers-took-on-the-war-on-drugs/)

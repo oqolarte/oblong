@@ -3,6 +3,11 @@ title: "Against all ads"
 date: 2021-07-27T01:10:58+08:00
 draft: false
 ---
+
+{{< toc >}}
+
+## Intro
+
 > Here's for you, marketing agents, with thy doggone tongues:
 > may maggots devour into your quota, your daily woes.
 > You consult the clinical behaviours,
@@ -131,7 +136,7 @@ that we'll blindly accept this fate without putting up a fight.
 ### Trendjacking
 
 **Trendjacking** is when a marketing team takes a trending event, likely
-appropriated from social media, and spins it into a vehicle for
+appropriated from [social media](/social-media), and spins it into a vehicle for
 advertising their products. Not even events and social occourences like
 *chismis* (gossip) are safe from the wits of marketing.
 

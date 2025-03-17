@@ -36,7 +36,7 @@ different sources under the following categories:
 **External**:
 - Threat intel feeds (Commercial & Open-source)
 - Online marketplaces.
-- Public sources include government data, publications, social media,
+- Public sources include government data, publications, [social media](/social-media),
   financial and industrial assessments.
 
 ## CTI lifecycle

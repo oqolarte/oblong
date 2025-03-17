@@ -1,8 +1,10 @@
 ---
-title: "On Product Management"
+title: "Product management"
 date: 2023-02-11
 draft: false
 ---
+
+{{< toc >}}
 
 ## Product Manager, the person
 
@@ -62,8 +64,8 @@ draft: false
     will increase your chances of getting the job somewhere else,
     even if you only had the title for a short time.
 5. Have an online brand
-    - Have a personal website (done!)
-    - Have a public-facing social media presence (*ugh*). Twitter might work,
+    - Have a personal website ([done!](/))
+    - Have a public-facing [social media presence](/social-media) (*ugh*). Twitter might work,
       but better Mastodon. Stay away from polarizing topics?
     - Have a blog (done!) related to prod management (not done!)
     - NOTE: Not only does having your own online space show that you're with the times,
@@ -95,19 +97,16 @@ draft: false
 ## Vibe Driven Development
 
 [Robin Rendle explores this kind of development](https://www.robinrendle.com/notes/vibe-driven-development/).
-He argues that when we see people as just a data,
-the potential to gain better insight diminishes.
+He argues that when we see people as just a data, the potential to gain
+better insight diminishes.
 
-Sure enough, we over-rely on the importance of quantitative data.
-But humans are social creatures with emotions.
-Shouldn't we at least factor in the feelings of a user
-when using/consuming a product?
+Sure enough, we over-rely on the importance of quantitative data. But
+humans are social creatures with emotions. Shouldn't we at least factor
+in the feelings of a user when using/consuming a product?
 
 ## Product Decline
 
-If a product tries to do too much
-by attempting to reach many verticals---which
-is a fancy term for business niches---it
-won't accomplish too many.
-It being feature-rich means
-it also has many points of failure.
+If a product tries to do too much by attempting to reach many
+verticals---which is a fancy term for business niches---it won't
+accomplish too many. It being feature-rich means it also has many points
+of failure.

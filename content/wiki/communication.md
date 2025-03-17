@@ -30,7 +30,7 @@ point as soon as you can.
 [Talking to people](/public-speaking) can get
 [frustrating](/frustration), especially via internet where everyone
 seems to be in perpetual [debate](/debate) with one another, and more so
-in many of the social media platforms. Just don't give up on them.
+in many of the [social media platforms](/social-media). Just don't give up on them.
 "[Because there isn't a perfect solution to a people problem.](https://seths.blog/2022/11/people-problems-are-complicated-problems/)"
 
 Still, there is no illegitimate perspective! Share your own and encourage

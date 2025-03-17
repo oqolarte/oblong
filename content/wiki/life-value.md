@@ -27,7 +27,7 @@ everything needs to be a job to be performed so that The Boss rewards
 you money, which, by the way, is most likely based on an unfair
 calculation of your time's worth.
 
-If you've been paying attention to your social media feeds, people never
+If you've been paying attention to your [social media feeds](/social-media), people never
 stopped creating value in spite of the COVID pandemic. Remember those
 who created face masks and shields, and gave them for free or donate
 them to front liners. Remember the volunteers in feeding programs.
