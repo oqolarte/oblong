@@ -58,3 +58,39 @@ Not necessarily, I think.
 I think the more important question is: Who owns the means of
 production? Who owns these social media platforms, and what are they
 doing with all the data they are gathering from their userbase?
+
+## Parasocial media?
+
+There's also the concern of how "social" really is social media.
+
+More and more, by amplifying rage through the algorithm, it has pit us
+against one another with hate, *while* facilitating the arena in which
+we digitally spew vitriol, in exchange for attention and engagement.
+
+## To destroy the master's house using master's tools
+
+For those against the surveillance capitalism, whether enabled by parasocial
+media, is it even productive to spread propaganda within their platforms?
+
+Yes, I believe so, with caveats.
+
+If we are to start convincing people to fight a worthy cause---be it in
+dismantling the capitalism or [abolishing the empire](/abolition),
+first we meet them everywhere and
+everywhen they gather.
+
+We can still use these platforms as media to propagate radical ideas,
+but we must not forget we are still playing by the house's rules.
+Moreover, we need to be aware of the possibility of putting more value
+than what's necessary to public performance.
+
+### POSSE
+
+If anything, [POSSE](https://indieweb.org/POSSE) (Publish (on your) Own
+Site, Syndicate Elsewhere) is a good startegy from the IndieWeb when
+using social media platforms in conjunction with a dedicated website or
+blog that is outside of big tech. In his post "[Reconsidering POSSE](https://starbreaker.org/grimoire/entries/reconsidering-posse/index.html),"
+Matthew Graybosch writes about how he (or anyone) "need[s] not syndicate
+to such [social media] platforms [like Mastodon or Bluesky]" but can do
+so to dedicated blogging platforms like [Bear Blog](https://bearblog.dev/), [Write.As](https://write.as/), or
+[Dreamwidth](https://www.dreamwidth.org/); or to a newsletter service like [Buttondown](https://buttondown.com/).

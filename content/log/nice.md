@@ -4,6 +4,7 @@ date: 2021-12-25T10:42:20+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
+
 - Added 11 new entries and four new one-liners to [Imbentori](/imbentori).
 - Minor edit in [Bujo](/bujo).
 - Added new project: [Notes on Market Research](/mr).
@@ -13,17 +14,23 @@ It's still in an ugly state, though, so it might not be useable for public.
 
 ## [Toe Clip Overlap](https://sheldonbrown.com/gloss_ta-o.html#toeclipoverlap)
 
-> On many bicycles, especially those with smaller frames and full-sized wheels, it is possible for the front fender or tire to bump into the rider's toe or to the toe clip. Some people worry a lot about this, but it is rarely a significant problem in practice.
+> On many bicycles, especially those with smaller frames and full-sized
+> wheels, it is possible for the front fender or tire to bump into the
+> rider's toe or to the toe clip. Some people worry a lot about this,
+> but it is rarely a significant problem in practice.
 >
-> The only time it can happen is when the handlebars are turned quite far to the side, as only happens at very low speeds.
+> The only time it can happen is when the handlebars are turned quite
+> far to the side, as only happens at very low speeds.
 >
-> Many, many people ride bicycles with fairly severe overlap with no practical problems, sometimes having to make a slight adjustment to their pedaling habits at very slow speeds.
+> Many, many people ride bicycles with fairly severe overlap with no
+> practical problems, sometimes having to make a slight adjustment to
+> their pedaling habits at very slow speeds.
 >
-> On smaller-size bikes with full-sized wheels, it is usually impossible to eliminate overlap without causing adverse fit/handling issues. 
+> On smaller-size bikes with full-sized wheels, it is usually impossible
+> to eliminate overlap without causing adverse fit/handling issues. 
 
-When this first happened to me when I got [FOLK](/afolk), I worried that it might
-not be the right fit for me.
-Good thing that it's a non-issue.
+When this first happened to me when I got [FOLK](/50), I worried that
+it might not be the right fit for me. Good thing that it's a non-issue.
 
 ## "When one teaches, two learn."
 
