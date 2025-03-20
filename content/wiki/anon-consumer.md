@@ -25,8 +25,7 @@ This list offers how one might buy stuff anonymously.
    the store or the surrounding area.
 6. Consider stereotyping yourself before each purchase. Check out
    popular options and see if they fit to your liking.
-7. It should be obvious by now, but don't participate in voluntary
-   surveillance. This could mean [opting out of credit and/or debit cards and all of their marketing hooks](/no-ads) to make you spend
+7. It should be obvious by now, but don't participate in [voluntary surveillance](/surveillance). This could mean [opting out of credit and/or debit cards and all of their marketing hooks](/no-ads) to make you spend
    more. This includes, but not is not limited to, avoiding any kind of
    membership cards that require you to provide personal details, and
    avoiding cashless payments, especially those that require you to

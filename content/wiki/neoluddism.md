@@ -262,7 +262,7 @@ intervention.
 Currently, I am *trying* to pivot into a career path that ensures
 privacy and security of people, with the hopes of one day giving back to
 my communities. The technological landscape of the future is too murky
-to be left alone to the surveillance of states and corporations, both
+to be left alone to the [surveillance](/surveillance) of states and corporations, both
 banking on us to choose the easiest paths. I'd rather be the tech worker
 that sides with the working class, not as another pawn of the capital to
 further enrich them. For now, though, I'm looking for other ways to

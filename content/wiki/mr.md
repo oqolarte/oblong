@@ -1,8 +1,10 @@
 ---
-title: "Notes on Market Research"
+title: "Notes on market research"
 date: 2021-12-25T14:19:42+08:00
 draft: false
 ---
+
+{{< toc >}}
 
 ## Definition
 

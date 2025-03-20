@@ -4,6 +4,10 @@ date: 2023-01-30
 draft: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 > What Nihilism provides then is an alternative
 > to the alternative that does not embed an idealist image
 > of the new world it would create.
@@ -26,13 +30,15 @@ no programs to be followed---resistance thus being one of pure negation.
 while the duopoly of State and [Capitalism](/capitalism)
 holds us by our necks.
 Still, [we should fight back](/violence) as a sort of final defiance act
-against authority---*Blessed Is The Flame*[^tal-blessed] is a good read on this.
+against authority. *Blessed Is The Flame*[^tal-blessed] is a good read on this.
 It's more so focused on acting in the moment,
 negating the delusion of a future [liberation](/revolution) that may never come,
 holding that this sort of mentality prevents us from taking action now.
 
 [^tal-blessed]: Read the whole text here:
 https://theanarchistlibrary.org/library/serafinski-blessed-is-the-flame
+
+## What to even (not) do?
 
 Looking for answer to poor questions like, "When will I die?" prevents
 us from fully experiencing what's worth feeling in our remaining days.
@@ -43,10 +49,10 @@ remember, to forgive, if at all?
 
 ## Jouissance
 
-(Or, more notes on *Blessed is the Flame*)
+(Or, more notes on *Blessed is the Flame* in this section)
 
 We are heading towards our demise, and I don't mean the natural kind of
-expiring one day---or daily, for that matter!. I'm talking about that
+expiring one day---or daily, for that matter! I'm talking about that
 thing that we don't necessarily want to come to us. To many, though, not
 proactively marching towards our collective death is like chasing an
 oasis-mirage on the horizon. Sytemic oppression can, has, and will
@@ -60,8 +66,9 @@ systemically deprived of food, but with the constant [collapse](/collapse), who
 knows?
 
 So long as the current orders exist, it wil co-opt and turn anything we
-build against us. Anarcho-nihilism aims to destroy (figuratively?
-Literally? Both.) all systems that contribute to the maintaining of
+build against us. Anarcho-nihilism aims to [destroy](/destruction)
+(figuratively?
+Literally? Both!) all systems that contribute to the maintaining of
 [Empire](/empire). This thinking believes that a new world is only
 possible to grow from the ashes of the old, and not along and/or from
 within it, a stark contrast to some radical beliefs that prefers to
@@ -109,7 +116,21 @@ Insurrectionary memory is a powerful tool to help us remind that the
 dead *should* still haunt the living. To forget the past is to accept
 grave mistakes can and will happen again.
 
-## TO READ
+## On being an edgelord
+
+Being nihilistic can asymptote to being an edgelord if you had
+embodied edginess to shock people for attention. Know that with such
+edge one has the
+potential to stumble into and possibly wear [fascism](/fascism) with
+[un]ironical pride.
+
+If you're already
+a nihilist (in your own way), I'd say be careful lest you become an
+edgelord that everyone in real life shuns. But if you're reading this, I
+know you have the agency to make that decision for yourself.
+
+## Further readings
+
 - Essential readings in addition to all of the above is Kaneko Fumiko. She was a Japanese Nihilist Anarchist executed for plotting to kill the emperor, though she herself was probably innocent.
     - https://theanarchistlibrary.org/library/max-res-kaneko-fumiko-because-i-wanted-to
     - https://theanarchistlibrary.org/library/kaneko-fumiko-the-prison-memoirs-of-a-japanese-woman

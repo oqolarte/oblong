@@ -81,6 +81,18 @@ In [an interview by *The Guardian*](https://www.theguardian.com/technology/2021/
 > is made from natural resources and it is people who are performing the
 > tasks to make the systems appear autonomous.**
 
+### Grief tech
+
+Another one: "grief tech" lays out the plot for the next Black Mirror
+episode. Except that creators of the show *already* produced a similar
+one, in the episode "[Be Right Back](https://en.wikipedia.org/wiki/Be_Right_Back)." Grief tech fails to
+realize that death is final and that it is natural to grieve loves lost.
+On the other hand, what if grief tech is used for cases of [enforced disappearances](/216) AND make the training data and source code free and open source?
+For more info on grief tech, check these articles:
+- [From AI avatars of loved ones who have died to conversations with the deceased via a chatbot—can tech create a form of life after death?](https://www.vml.com/insight/grief-tech)
+- [The race to optimize grief](https://www.vox.com/culture/23965584/grief-tech-ghostbots-ai-startups-replika-ethics)
+- [Grief Tech Uses AI to Give You (and Your Loved Ones) Digital Immortality](https://singularityhub.com/2023/08/16/grief-tech-uses-ai-to-give-you-and-your-loved-ones-digital-immortality/)
+
 ## What to think of LLM
 
 LLM is Large Language Model (LLM), the most well-known

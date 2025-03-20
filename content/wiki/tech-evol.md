@@ -1,9 +1,13 @@
 ---
 title: "Evolution of technology: privacy and security implications of it"
 date: 2024-09-06
-draft: true
+draft: false
 math: false
 ---
+
+{{< toc >}}
+
+## INTRO
 
 The rapid evolution of [technology](/technology) has brought about
 significant changes in the way we live, work, and interact with the
@@ -25,7 +29,7 @@ This is a problem. When ethics is not part of the design process, the
 resulting tech can and will be used for other, more harmful things.
 
 Never has it been easier for corporations and nation-states to conduct
-mass surveillance, especially when its beautiful design and packag
+[mass surveillance](/surveillance), especially when its beautiful design and packag
 hijacks our attention that we cannot help but jump in and use it, like
 for example, [social media platforms](/social-media), or the sleek smart gadgets with
 which we access said platforms. These platforms collect our data without

@@ -86,7 +86,7 @@ most. The result, I hope, is the strengthening of relationships that
 make life better for all of us.
 
 Tracy Durnell, on her blog post, [Extending my understanding of self-care](https://tracydurnell.com/2023/10/14/extending-my-understanding-of-self-care-indieweb-carnival-october-2023/)
-she makes a good point:
+makes a good point:
 "Advocacy is also self care in that it's empowering to participate in
 local decision making, the improvement will benefit me along with the
 entire community[.]"
@@ -100,6 +100,13 @@ But, this is not to say that we can't allow ourselves to ask for help.
 Needing and wanting help from others can also free us from the
 capitalist baggage of ultra-self-optimization to the point of isolation,
 of being "lonely at the top," which I always find odd.
+
+## On pharmaceuticals
+
+Pharmaceutical technology alone cannot solve medical crises, from the
+most localized pains in one's body to pandemics that affect everyone. It
+has always been the [community aspect](/community) of the healing process that helps
+us get better, just like [how it is with albularyos in barrios](/rural-ph/#alternative-healing).
 
 ## Things to remove for a healthier life
 

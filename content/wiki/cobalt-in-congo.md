@@ -300,7 +300,7 @@ colonialists and imperialists. It is up to the people to [take this power back](
 To control the flow of information goinf out of Tilwezembe, one of the
 smaller mining sites in Lualaba Province, the Republican Guard strikes
 fear and paranoia to the artisanal miners through intimidation,
-surveillance, and violence.
+[surveillance](/surveillance), and violence.
 
 Child slavery is being used to dig hazardous tunnels in Tilwezembe, to
 mine heterogenite using only hand tools, small headlamps, and raw human

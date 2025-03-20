@@ -7,6 +7,8 @@ math: false
 
 It's about giving machines access to data and letting them learn and make decisions on their own. No manual coding of rules; the machine learns from the data.
 
+{{< toc >}}
+
 ## Main Types of ML
 
 - Supervised Machine Learning: The machine learns from labeled data,

@@ -40,6 +40,7 @@ reference from which to learn.
 - [apoliticism](/apolitical)
 - [authority](/authority)
 - [collapse](/collapse)
+- [conspiracy theory](/conspiracy-theory)
 - [democracy](/democracy)
 - [eco-anarchism](/eco-anarchism)
 - [fascism](/fascism)
@@ -47,5 +48,3 @@ reference from which to learn.
 - [nihilism](/nihilism)
 - [religion](/religion)
 - [solarpunk](/solarpunk)
-
-

@@ -32,6 +32,7 @@ draft: false
 - Physical exercise tracker: [FitoTrack](https://codeberg.org/jannis/FitoTrack) (Android)
 - YouTube client: [NewPipe](https://newpipe.net/) (Android)
 - Authenticator: [Aegis](https://getaegis.app/) (Android)
+- Bird listener: [whoBIRD](https://github.com/woheller69/whoBIRD) (Android)
 
 ## Special Mentions
 

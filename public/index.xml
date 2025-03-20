@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 10:22:57 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -135,8 +135,49 @@ colleagues. Always clear when communicating with others.&amp;rdquo;&lt;/p&gt;
       <pubDate>Tue, 12 Sep 2023 20:50:12 +0800</pubDate>
       
       <guid>https://ohio.araw.xyz/books/</guid>
-      <description>&lt;p&gt;This page is split to two sections: &lt;strong&gt;Completed&lt;/strong&gt; and &lt;strong&gt;Did not
-finish&lt;/strong&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;A page dedicated, so far, to books that I am, have been, and did not
+finish reading.&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#currently-reading&#34;&gt;Currently reading&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#completed&#34;&gt;Completed&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#did-not-finish&#34;&gt;Did not finish&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;currently-reading&#34;&gt;Currently reading&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Book Title&lt;/th&gt;
+          &lt;th&gt;Author/s&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Doppelganger&lt;/td&gt;
+          &lt;td&gt;Naomi Klein&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;The Botany of Empire&lt;/td&gt;
+          &lt;td&gt;Banu Subramaniam&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dune&lt;/td&gt;
+          &lt;td&gt;Frank Herbert&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2 id=&#34;completed&#34;&gt;Completed&lt;/h2&gt;
 &lt;p&gt;More accurately, these are the books I&amp;rsquo;ve read since I started
 recording them on November 2019.
@@ -403,6 +444,10 @@ too&amp;hellip; slow for me, and my own loneliness is impatient and wants to
 dissipate. &lt;a href=&#34;https://ohio.araw.xyz/249/#reflections-on-the-lonely-city&#34;&gt;While I have some reflections on some of the writings&lt;/a&gt;, it
 could be that it&amp;rsquo;s just too New York-y for me.
 On a more positive note, Robin Rendle related the book to someone he was flirting with &lt;a href=&#34;https://robinrendle.com/notes/the-lonely-city/&#34;&gt;on his post with the same title as the book&amp;rsquo;s&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Frankenstein&lt;/strong&gt;&lt;/em&gt; by &lt;strong&gt;Mary Shelley&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Why&lt;/strong&gt;: Probably not in the right mindset to read a sci-fi novel
+written in early 19th century. I &lt;em&gt;might&lt;/em&gt; get back to this if I remember
+to forget how the first few pages were boring.&lt;/p&gt;
 
       </description>
     </item>
@@ -493,6 +538,7 @@ Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;li&gt;Physical exercise tracker: &lt;a href=&#34;https://codeberg.org/jannis/FitoTrack&#34;&gt;FitoTrack&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;li&gt;YouTube client: &lt;a href=&#34;https://newpipe.net/&#34;&gt;NewPipe&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;li&gt;Authenticator: &lt;a href=&#34;https://getaegis.app/&#34;&gt;Aegis&lt;/a&gt; (Android)&lt;/li&gt;
+&lt;li&gt;Bird listener: &lt;a href=&#34;https://github.com/woheller69/whoBIRD&#34;&gt;whoBIRD&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;special-mentions&#34;&gt;Special Mentions&lt;/h2&gt;
 &lt;ul&gt;

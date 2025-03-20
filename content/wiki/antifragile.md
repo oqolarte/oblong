@@ -10,6 +10,15 @@ Each paragraph can be considered a self-contained note.*
 
 {{< toc >}}
 
+## Main thesis
+
+Some systems gain, instead of lose, in a nonlinear way from disorder.
+These systems are antifragile. One might initially think they are
+resilient, but resilience implies only withstanding or surviving the
+stressor and not gain from it.
+
+## Reflections
+
 Learning things and building to a level of resilience requires practice.
 Action trumps thinking alone. **Practice over theory**. On the flip
 side, words are scalable, and through them we can share knowledge across

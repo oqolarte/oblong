@@ -6,8 +6,19 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo",
 draft: false
 ---
 
-This page is split to two sections: **Completed** and **Did not
-finish**.
+A page dedicated, so far, to books that I am, have been, and did not
+finish reading.
+
+{{< toc >}}
+
+## Currently reading
+
+| Book Title           | Author/s         |
+|----------------------|------------------|
+| Doppelganger         | Naomi Klein      |
+| The Botany of Empire | Banu Subramaniam |
+| Dune                 | Frank Herbert    |
+|
 
 ## Completed
 
@@ -102,3 +113,8 @@ too... slow for me, and my own loneliness is impatient and wants to
 dissipate. [While I have some reflections on some of the writings](/249/#reflections-on-the-lonely-city), it
 could be that it's just too New York-y for me.
 On a more positive note, Robin Rendle related the book to someone he was flirting with [on his post with the same title as the book's](https://robinrendle.com/notes/the-lonely-city/).
+
+***Frankenstein*** by **Mary Shelley**  
+**Why**: Probably not in the right mindset to read a sci-fi novel
+written in early 19th century. I *might* get back to this if I remember
+to forget how the first few pages were boring.
