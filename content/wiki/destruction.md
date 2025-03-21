@@ -24,11 +24,12 @@ observe from a distance.
 The worst kind of destruction is when it involves asymmetry of power
 possessed by capital-S Someone having a big influence in dictating the
 outcomes of many other people's lives. We see this in
-[fascist](/fascism) states endangering those that are not aligned with
-ruling party; we know this from the bullies in our local communities;
-and sadly, many of us have experienced this even from our own families.
+[fascist](/fascism) states endangering marginalized people who are not
+aligned with ruling party. Also, we know this from the bullies in our
+local communities; and sadly, many of us have experienced this even from
+our own families.
 
-## Examples of destruction that I fascinates me
+## Examples of destruction that fascinates me
 
 ### Sabongeros and their fighting cocks
 
@@ -42,8 +43,10 @@ have personally met a few sabongeros who had even imported a "winning"
 fighter from abroad to take advantage of its genes by breeding the next
 generation of fighters.
 
-Still, it amuses me that sabongeros willingly risk their prized
-possesssions to destruction for a chance at winning the fight.
+Still, it amuses me that sabongeros willingly risk their *bunso*
+("youngest one", a term of endearment often reserved for the youngest
+kid in the family) to destruction for a chance at winning the fight, and
+along with it, cash prize.
 
 ### Tibetan Buddhist monks and their sand mandalas
 

@@ -9,9 +9,10 @@ math: false
 
 ## In the beginning
 
-Age reveal without age reveal---I remember when social networking sites
-like Friendster and Yahoo Messenger were fun ways of keeping in touch
-with classmates and friends after school hours.
+Social networking sites
+like Friendster and Yahoo Messenger were fun ways to keep in touch
+with classmates and friends after school hours, or, if you are older
+than me, colleagues from work.
 
 Even when we all started migrating to Facebook, it was just this thing that
 we did for a few hours, before eventually logging out to do other
@@ -28,8 +29,8 @@ Who does not like seeing the things what our friends and family are up
 to these days?
 Do we not light up when they talk about something we love [to hate]?
 Social connection is important to us, and social media platforms have
-become the digital bridges that collapses distance and time between two
-people.
+become the digital bridges that collapse distance and time between two
+or more people.
 
 At the cost of their data.
 
@@ -39,22 +40,25 @@ the data brokers who have bought a dossier of you, likely from the likes
 of Google, Facebook, and other big tech companies.
 
 Everything now can be a brand, and everyone who dreams of making it big
-in social media must establish (i.e., [market themselves to be profitable](/mr))
-their "[personal brand](/personal-brand)" and see to it themselves, lest they deal with
-doppelgangers and be on the losing end.
+in social media must establish their "[personal brand](/personal-brand)"
+(i.e., [market themselves to be profitable](/mr)) and see to it
+themselves, lest they deal with doppelgangers and be on the losing end.
 
 To keep us engaged, an algorithm is baked into the design of a social
 media platform. No one really fully understands how an algorithm works,
-except that it keeps a tally of what types of "content" a user usually
-interacts with, and from this input feeds it into a black box that
-outputs a feed that the user will likely engage with more. Like I said,
-the key is to retain users, and the algorithm is the main tool for that.
+except that it keeps a running tally of what types of "content" a user
+usually interacts with, and from this it puts it into a "black box"
+(i.e., the algorithm itself where tha magic is made) that outputs a feed
+of probably similar content that the user might want to engage with
+more. The key is to retain users for as long as possible, and the
+algorithm is one of the main tools for that.
 
 If you are interacting with friends, families, or even strangers, in
 social media, but are using it through a colorful, algorithmically
 personalized feed, are you sure it benefits everyone involved, or is it
 just the cheap thrill of chasing dopamine that pushes the loneliness
-away, if only for a while?
+away, if only for a while? I ask this because many people may not be
+aware of [the pros and cons of maintaining relationships online](/online-bonds).
 
 People who use social media as work---the so-called influencers and
 content creators---are stuck in appeasing the algorithm, creating more
@@ -64,7 +68,8 @@ content creators---are stuck in appeasing the algorithm, creating more
 
 So, is monetization, then, the problem?
 
-Not necessarily, I think.
+Not necessarily, I think. Although, chasing growth and profit
+[has never been not destructive](/destruction), as we should know by now.
 
 I think there are a few important questions to ask: Who owns the means of
 production? Who owns these social media platforms, and what are they
@@ -94,7 +99,8 @@ There's also the concern of how "social" really is social media.
 
 More and more, by amplifying rage through the algorithm, it has pit us
 against one another with hate, *while* facilitating the arena in which
-we digitally spew vitriol, in exchange for attention and engagement.
+we digitally spew vitriol at each other from our safe space, our
+attention and engagement being the *only* fee they ask.
 
 ## To destroy the master's house using master's tools
 
@@ -103,16 +109,24 @@ media, is it even productive to spread propaganda within their platforms?
 
 Yes, I believe so, with caveats.
 
-If we are to start convincing people to fight a worthy cause---be it in
-dismantling the capitalism or [abolishing the empire](/abolition),
-first we meet them everywhere and
+Social media has been used by activists to platform their beliefs in
+order to reach more people, and
+to start convincing people to join a worthy cause---be it in
+dismantling the capitalism or [abolishing the empire](/abolition)---first
+we meet them everywhere and
 everywhen they gather.
 
-We can still use these platforms as media to propagate radical ideas,
-but we must not forget we are still playing by the house's rules.
-Moreover, we need to be aware of the possibility of putting more value
-than what's necessary to public performance.
-JP Hill reminds us in his essay (with the title being a reminder in itself) "[Social media is the house that always wins](https://www.jphilll.com/p/social-media-is-the-house-that-always)" that information alone cannot win a fight.
+However, we must not forget we are still playing by the house's rules.
+JP Hill reminds us in his essay (with the title being a reminder in
+itself) "[Social media is the house that always wins](https://www.jphilll.com/p/social-media-is-the-house-that-always)"
+that information alone cannot win a fight, especially if the house keeps
+on changing the rules, or keeps switching management that would
+potentially change rules.
+
+Lastly, we need to be aware of the possibility of putting more value
+than what's necessary to public performance. More than oration, more
+than pulling people into debates, the action is in the real world,
+[starting with our communities](/community).
 
 ### POSSE
 

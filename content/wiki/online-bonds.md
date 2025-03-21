@@ -1,5 +1,5 @@
 ---
-title: "Forming, maintaining, destroying (?) relationships online"
+title: "Maintaining online bonds"
 date: 2024-02-09
 draft: false
 math: false
@@ -16,15 +16,18 @@ relationships to come into existence.
 
 It's amazing how many digital relationships rely on specific
 fluctuations of electrons and photons over webs of cables and boards of
-chips and panes of glass. Equally amazing is how, as humans, have
+chips and panes of glass. Equally amazing is how we as humans have
 learned so much over the past decades that we can now make virtual
-realities by manipulating these particles through essentially what is
-just an elaborate implementation of boolean algebra, and jumpstarting a
-futuristic dystopia in the process. Maybe.
+realities---and later on, as Naomi Klein suggests on her book
+*Doppelganger*, mirror worlds that riff off on realities only to be
+warped into [conspiracy theories](/conspiracy-theory)---by manipulating
+these particles through essentially what is just an elaborate
+implementation of boolean algebra, and jumpstarting a futuristic
+dystopia in the process. Maybe.
 
-When we chat someone on our favorite messaging app, or when we
-video-call a loved one, I wonder how much energy it takes to complete
-the loop, from hello to goodbye.
+When we chat or video-call someone on our favorite messaging app, I
+wonder how much energy it takes to complete the loop, from hello to
+goodbye.
 
 ## Friends to keep?
 
@@ -62,7 +65,7 @@ coming up with epistolary works by compiling our email correspondence.
 ## Maintenance of online bonds
 
 Even digital relationships are hard to maintain, perhaps as hard as
-those in real life, especially when consent and context gets blurry
+those in real life, especially when [consent](/consent) and context gets blurry
 through the supposed urgency of wanting to make something happen.
 
 Asynchronous component of such bonds may or may not contribute to its
@@ -77,8 +80,8 @@ body language how they actually behave.
 
 But I know from experience that
 space can be limiting. Finding friends online helps expand our social
-bubble without having to shell out resources for transportation. In the
+bubble without having to shell out resources for [transportation](/transpo). In the
 absence of free and publicly accessible place where friends can just
-hangout, *and* with the relatively affordability of internet, it makes
+hangout, *and* with the relative affordability of internet, it makes
 more sense for a lot of people to pursue digital relationships instead.
 I wonder, though: at what cost?
