@@ -118,3 +118,9 @@ On a more positive note, Robin Rendle related the book to someone he was flirtin
 **Why**: Probably not in the right mindset to read a sci-fi novel
 written in early 19th century. I *might* get back to this if I remember
 to forget how the first few pages were boring.
+
+***how to grieve*** by **Jade Mark Capiñanes**  
+**Why**: Author has collected their wits and used it to build up *hugot*
+punchlines, which may or may not be cringy, just like some jokes are not
+funny. I appreciate the effort, though, but *conyo* hugot, despite its
+potential to jab at jaw, is not for me.

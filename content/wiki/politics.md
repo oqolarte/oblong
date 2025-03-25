@@ -44,6 +44,7 @@ reference from which to learn.
 - [democracy](/democracy)
 - [eco-anarchism](/eco-anarchism)
 - [fascism](/fascism)
+- [having kids](/having-kids)
 - [hierarchy](/hierarchy)
 - [nihilism](/nihilism)
 - [religion](/religion)

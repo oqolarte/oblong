@@ -24,6 +24,8 @@ Action trumps thinking alone. **Practice over theory**. On the flip
 side, words are scalable, and through them we can share knowledge across
 generations and spanning large distances.
 
+## Black swan
+
 **Black swan**, as coined by Taleb, is a rare event with significant
 impacts. It is impossible to calculate the risks of such events and
 predict when (not if) they would happen.
@@ -42,11 +44,13 @@ If most of history comprise
 black swans, how useful is it to create routines? Shouldn't we all start
 vibrating in random directions until we toughen up?
 
+## Ethics of risk-taking
+
 Ethics of risk-taking: One shall not have antifragility at the expense
 of the fragility of others.
 
 In the modern iteration of *progress*, what are we sacrificing, or
-giving away, or destroying in its name? If progress would require a
+giving away, or [destroying](/destruction) in its name? If progress would require a
 rainforest be razed flat to make way for farmlands or data centers,
 then have we really progressed? If so, on whose metrics?
 
@@ -71,8 +75,9 @@ with life's uncertainty. It *is* okay to not know everything.
 To have integrity, one must eat one's own cooking. Software developers
 even call this
 [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food),
+or "eating your own dog food,"
 that is, the practice of using one own's services, or in lay terms,
-believing *and* doing what one says and/or endorses. But Taleb goes a
+believing *and* doing what one says and/or endorses. Taleb goes a
 bit further when he puts his ideas on antifragility and black swans:
 "Compromising is condoning." This is a bold statement which I don't
 necessarily agree with. In a world that is largely gray areas and middle
@@ -259,6 +264,14 @@ having [financial independence](/personal-finance/#financial-independence)--- to
 [Fringe ideas and ideologies](/politics) grounded in the daily life are
 antifragile because they are capable to be widely adopted yet no one
 central authority is enforcing people to adopt these.
+Even Taleb cites [modern] prophets being antifragiles. As Naomi Klein
+explores in her book *Doppelganger*, we can glean this from Naomi Wolf,
+who was constantly deplatformed in major [social media](/social-media) sites like Twitter;
+and yet she was still able to increase her following through spreading
+alarmist misinformation via alternative sites that *did* give her
+platform. Before she was reinstated to Elon Musk's Twitter/X, her ideas
+had to survive elsewhere. She has become a negative prophet for the
+alt-right of US.
 
 It is okay to not be smart. Being smart is overrated. Better: don't do
 unintelligent things, especially those that might cause harm to you or

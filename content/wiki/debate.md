@@ -6,6 +6,19 @@ draft: false
 
 Be wary when getting into heated discussions with people.
 
+{{< toc >}}
+
+## Meat in the middle
+
+No matter which side you are on in a debate, especially online, the
+other side will most certainly look for ways to dismiss you and your
+beliefs. This is just the nature of debate.
+
+What could be the ways to meet people in the middle? Or should we even
+try if they themselves show no signs of listening from us?
+
+## Is the point learning from each other?
+
 Some people with extreme views, most of the time, want to prove themselves
 and they will feel entitled for you to labor for them to come up with
 something convincing for them. This will take much of your energy, and

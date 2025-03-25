@@ -1,8 +1,9 @@
 ---
-title: "On Frustration"
+title: "On frustration"
 date: 2022-09-18
 draft: false
 ---
+
 [mashatupitsyn](http://mashatupitsyn.tumblr.com/post/103345079948/if-someone-can-satisfy-you-then-they-can):
 
 > "If someone can satisfy you then they can frustrate you. Only someone

@@ -8,14 +8,16 @@ In radical spaces, well-versed hot takes might indicate the sayer has
 good [politics](/politics). But surely, that's not the only way to
 participate in daily politics, right?
 
+{{< toc >}}
+
 ## Toxic activism
 
 Misplaced wokeness has toxified activism.
 It becomes a performance,
 rather than the Thing that should be done.
-Mainstream movements,
+Bigger, more mainstream movements,
 with charismatic people at the helm,
-often tokenize marginalized people.
+often tokenize marginalized people to further the agenda.
 
 In reality, there are many forms of activism,
 and it doesn't have to burn anyone out.
@@ -29,7 +31,8 @@ But all the same,
 living the [revolution](/revolution) is actively practicing
 the beliefs in the here and now.
 
-Activism can and should at times make us feel good, physically,
+[Activism can and should at times make us feel alive](/joyful-militancy),
+physically,
 emotionally, socially, spiritually. Otherwise, what's the point?
 
 ## Mindfulness in radical spaces

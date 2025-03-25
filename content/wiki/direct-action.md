@@ -5,13 +5,22 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
+## Intro
+
+Perhaps [talk is cheap](/public-speaking), but action needs going beyond
+the convenience the modern-day comforts afford us.
+
+## Adjusting the deed
+
 Sometimes, I wonder about the effectivity of such violent direct
-actions. As of writing this on Week 50 of 2024, it has been days since
-the Brian Thompson, *former* CEO of UnitedHealthcare, was gunned downed
+actions. On DEC 2024,
+Brian Thompson, *former* CEO of UnitedHealthcare, was gunned downed
 by someone now dubbed "The Adjuster." People online have been sharing
 jokes, anecdotes, and memes on how this could be one of the greatest
 performance art of our lives. (Days later, police arrested Luigi
-Mangione, supposedly the assassin.) But by writing, or even thinking, about
+Mangione, supposedly the assassin.) But by [writing](/writing), or even thinking, about
 such a polarizing idea, I don't mean to glorify merciless
 [destruction](/destruction), especially for a [social revolution](/revolution).
 The caustic ways of extremism---really,

@@ -14,10 +14,9 @@ Be aware of [intervention that might lead to worse outcomes](/iatrogenics).
 
 ## Physical Fitness
 
-Fitness depends on many factors (no, not like [BMI](/BMI)),
-but these factors can
-be simplified into three: exercise, nutrition, and recovery. In turn, it
-affects many aspects of social life, including
+Fitness depends on many factors (no, not like [BMI](/BMI)), but these
+factors can be simplified into three: exercise, [nutrition](/nutrition),
+and recovery. In turn, it affects many aspects of social life, including
 [friendships](/friendship) and [sexual relationships](/sex).
 
 I'm currently doing [calisthenics](/calisthenics) and yoga as my main
@@ -29,19 +28,28 @@ possible, etc.
 
 I have also been [smoke-free](/quit-smoking) since Jun 2017.
 
-### Protein
+## On gyms
 
-As a guideline, consume 140 grams of protein daily to gain muscle mass.
+Are gyms built to be social places? Are they even designed to be such?
+
+I ask these questions because I am no gym rat, and I do not like
+spending money in scams like gym memberships. From what I heard, people
+rarely talk to each other there. Most gym rats are focused in working
+themselves out, a physical conversation or negotiation with their ideal
+selves.
+
+Personally, if I want social interactions with physical fitness, I might
+go into sports, instead.
 
 ### On "Gym Bros"
 
 How could one be happy with being simply in shape without
 worrying about not having the "perfect" physique?
 
-Gym bros, with their obsession on growing their muscles and calculating
-the amount of fat, need to check themselves whether they are experiencing body
-dysmorphia and/or eating disorder, which are usually underdiagnosed in
-men.
+Gym bros, who are obsessed with growing their muscles and calculating
+the amount of body fat, need to check in with themselves whether they are
+experiencing body dysmorphia and/or eating disorder, which are usually
+underdiagnosed in men.
 
 Here are some ideas:
 

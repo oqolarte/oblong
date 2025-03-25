@@ -125,7 +125,7 @@ potentially change rules.
 
 Lastly, we need to be aware of the possibility of putting more value
 than what's necessary to public performance. More than oration, more
-than pulling people into debates, the action is in the real world,
+than pulling people into debates, [the action is in the real world](/activism),
 [starting with our communities](/community).
 
 ### POSSE
@@ -133,8 +133,36 @@ than pulling people into debates, the action is in the real world,
 If anything, [POSSE](https://indieweb.org/POSSE) (Publish (on your) Own
 Site, Syndicate Elsewhere) is a good startegy from the IndieWeb when
 using social media platforms in conjunction with a dedicated website or
-blog that is outside of big tech. In his post "[Reconsidering POSSE](https://starbreaker.org/grimoire/entries/reconsidering-posse/index.html),"
+blog that is outside of big tech. And if you are to syndicate your posts
+to social media, make sure to share as little personally identifiable
+information (PII) as possible, using the platforms infrastructure and
+reach merely as portals for others to go to your main website. There are
+several catches to this. One of which, among many, is that managing and
+facilitating discussions in the comment and reply sections across
+different plaforms would get too cumbersome too fast. (This might be why
+bigger celebrities hire their own "social media manager/s.")
+
+In his post "[Reconsidering POSSE](https://starbreaker.org/grimoire/entries/reconsidering-posse/index.html),"
 Matthew Graybosch writes about how he (or anyone) "need[s] not syndicate
-to such [social media] platforms [like Mastodon or Bluesky]" but can do
-so to dedicated blogging platforms like [Bear Blog](https://bearblog.dev/), [Write.As](https://write.as/), or
-[Dreamwidth](https://www.dreamwidth.org/); or to a newsletter service like [Buttondown](https://buttondown.com/).
+to such [social media] platforms [like Mastodon or Bluesky]," and
+suggests that syndication is possible with dedicated blogging platforms
+like [Bear Blog](https://bearblog.dev/), [Write.As](https://write.as/),
+or [Dreamwidth](https://www.dreamwidth.org/); or to a newsletter service
+like [Buttondown](https://buttondown.com/).
+
+## Comments and replies
+
+I am a nobody in the whirlpool of people using social media and internet
+at large. [Since this personal site of mine was up on late 2020](/1), I have
+rarely, if at all, received a comment or reply sent in via email. Which
+is my saying that in terms of managing the "comment section" I have it
+relatively easy. To be honest, I think it is because of the following reasons:
+
+- People are drawn to more interesting persons than me;
+- Interesting things done by interesting persons have the chance to go
+  viral, and thus land in the eyes of many people, thanks to the
+  algorithm native in many social media, in which I am not in;
+- Replying or commenting to any one of my posts means going through the
+  friction of actually sending me an email about it, as I have no blog
+  comment hosting service implemented; and
+- People just do not know that I have this site.

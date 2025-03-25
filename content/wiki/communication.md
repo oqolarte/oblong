@@ -1,5 +1,5 @@
 ---
-title: "On Communication"
+title: "On communication"
 date: 2022-08-28
 draft: false
 ---

@@ -1,8 +1,10 @@
 ---
-title: "On Public Speaking"
+title: "On public speaking"
 date: 2023-10-24
 draft: false
 ---
+
+{{< toc >}}
 
 ## Know your audience.
 

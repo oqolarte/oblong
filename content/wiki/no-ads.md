@@ -133,6 +133,25 @@ or a concoction of the three.
 It doesn't mean, though,
 that we'll blindly accept this fate without putting up a fight.
 
+### Celebrities endorsing...?
+
+Brands have used famous people to further their agenda. In Apple's
+[Think Different](https://www.youtube.com/watch?v=5sMBhDv4sik)" ad,
+their marketing team have used images and video clips of these people: Albert
+Einstein, Bob Dylan, Martin Luther King Jr., John Lennon, Yoko Ono,
+Muhammad Ali, Mahatma Gandhi, Alfred Hitchcock, Jim Henson, Pablo
+Picasso, and other supposedly different-thinkers, whose consent to
+appear in said ad I doubt if it were asked. So, it barely matters whether
+one subverts current systems of oppression; said systems of
+oppression will just find new ways of co-opting the ideals and imagery
+of that subversive person, especially if it meant coaxing people to buy
+[into] an idea or product. And they will call it "storytelling."
+
+Locally, I wonder what kind of "storytelling" these celebs do when they
+promote online gambling: Ivana Alawi, Piolo Pascual, Alden Richards,
+Nadine Lustre, Dingdong Dantes, Luis Manzano, Maine Mendoza, AJ Raval,
+etc. The list goes on.
+
 ### Trendjacking
 
 **Trendjacking** is when a marketing team takes a trending event, likely
