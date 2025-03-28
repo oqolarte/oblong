@@ -34,8 +34,9 @@ associate it with overall unruly violence. This is likely because of the
 aforementioned propaganda of the deed that spiraled out of control on
 late 19th century Europe.
 
-If, however, the propaganda instead has attacked the ideas on which our
-current systems of oppression stand, I wonder what would happen then. [Capitalism](/capitalism), [patriarchy](/patriarchy),
+If, however, the propaganda had attacked the ideas on which our
+current systems of oppression stand, I wonder what would happen then.
+[Capitalism](/capitalism), [patriarchy](/patriarchy),
 militarism, [fascism](/fascism), sexism---each receiving a hypothetical bomb (a
 truth bomb?) with hopes of obliterating them.
 For when we, as a collective conscious set of living and thinking and
@@ -49,3 +50,11 @@ flourish and contribute to their community, the [collective](/community)
 must [ensure that all of these basic necessities are met](/mutual-aid).
 As "payment" the individual could create beautiful things for the world
 to see.
+
+## Calmness as action
+
+Calmness is *also* a form of resistance. While rage can agitate us to
+want to do something as soon as possible, being calm (afterwards?) allws
+us to focus on what actions to prioritize. Calmness, I would say, is the
+counter-weight to rage, and finding the right balance between the two
+may just be [what sustains our capacities](/joyful-militancy).

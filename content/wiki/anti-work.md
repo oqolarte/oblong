@@ -8,6 +8,10 @@ draft: false
 > is more powerful than those maliciously
 > designing their way past your boundaries.
 
+{{< toc >}}
+
+## What is work and anti-work?
+
 Let's define *Work* as all activity that makes profit, whether for
 oneself or someone else. So this includes not only wage labor, but also
 slave labor, prison labor, unpaid housework, internships, and many more
@@ -36,19 +40,34 @@ workplace.
 In an ideal world, we would be okay with lower-case-w "work" as
 *any activity or purposeful intent towards some goal*.
 
+## HR is not your friend
+
+Human resource management has roots in the exploitative nature of
+slavery, whose big concepts like [mass surveillance](/surveillance) and
+modern policing
+continue to shape our workspaces.
+
+Indeed, many progressive thinkers agree that we have not fully abolished
+slavery, only modernized it and given it a kinder face.
+
+But if you are a blue-collar worker who cannot take breaks lest it is
+deducted from your salary or a knowledge worker pressured into working
+(sometimes payless) overtime to "finish a report," HR will see to it
+that the employer gets the maximum profit out of your labor.
+
 ## No one is lazy and unskilled
 
 But you may have learned helplessness, which is more common.
 
 Work employs ennui. Think about whether your profession, no matter how
-noble you think it is, are actual paths to self-realization or mere
-barriers to it.
+noble you think it is, is an actual path to self-realization or
+hindrance to it.
 
-And, [modern] slavery is not a reliable source of quality labor,
-especially when the workers have decided to organize a sustained
+And, [modern] slavery is not a reliable source of quality labor.
+Imagine what would happen when the workers have decided to organize a sustained
 [sabotage](/sabotage).
 
-You have experienced failures or been convinced you are a failure. This
+You, the worker, have experienced failures or been convinced you are a failure. This
 causes the depressive symptoms that look like laziness, and the feeling
 that you can't accomplish anything. This becomes a negative feedback
 loop: since you barely try, fearing failure, you are more likely to fail
@@ -60,6 +79,30 @@ it head on. This means looking objectively at what you can do, setting
 goals that you care about, giving yourself credit for successes, and
 viewing failures as information from which to learn and improve
 yourself---they may slow you down, but they don't have to stop you.
+
+## But what about comforts?
+
+Comforts, peer recognition, and success achieved by Getting Work Done is
+made possible not solely by the worker themself, but also of the myriad
+of invisible people and things around and beyond the Work:
+- There are other workers that must not be paid fairly so that the
+  "savings" will be allotted pay the salaries of middle management and C-suite;
+- Trade policies favor richer nations and therefore its workers, extracting more resources from
+  the Global South than they give back, if they do at all;
+- Financial and social safety nets that come with being born into a
+  well-off, well connected family allows the luckier ones to pick and
+  choose a career path without having to worry whether it would pay well
+  in the future;
+- and other things.
+
+The indvidualist worker would be shocked again, as they likely did
+during the peak Covid, when another global catastrophe happens that
+would require all of us to act more than ourselves, beyond the
+so-called borders of classes and nations.
+
+All I'm saying: no one is self-made. So, why bother working hard.
+Instead, work kinder and smarter together. It might just unlock new
+comforts for all of us.
 
 ## Ideally, there's no need for Work
 
@@ -94,14 +137,10 @@ but because they are coerced to it.
 If it weren't their lives on the line,
 these same people would likely [escape the rat race.](/personal-finance)
 
-Repression is not a job.
-But others seem to enjoy it when they say that we should
-"earn a living,"
-which intself is a form of gaslighting
-capitalists have told us many times over
-until we have internalized it.
-Sometimes, though,
-they innovate and [give us some free money](/UBI).
+Repression is not a job. But others seem to enjoy it when they say that
+we should "earn a living," which intself is a form of gaslighting
+capitalists have told us many times over until we have internalized it.
+Sometimes, though, they innovate and [give us some free money](/UBI).
 But it's not enough.
 
 I find it cruel that our only value as living beings is in our ability

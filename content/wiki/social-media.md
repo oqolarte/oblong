@@ -120,8 +120,9 @@ However, we must not forget we are still playing by the house's rules.
 JP Hill reminds us in his essay (with the title being a reminder in
 itself) "[Social media is the house that always wins](https://www.jphilll.com/p/social-media-is-the-house-that-always)"
 that information alone cannot win a fight, especially if the house keeps
-on changing the rules, or keeps switching management that would
-potentially change rules.
+on changing the rules; or keeps switching management that would
+potentially change rules; or bombards you with propaganda to gaslight
+you that the rules are there to protect you.
 
 Lastly, we need to be aware of the possibility of putting more value
 than what's necessary to public performance. More than oration, more

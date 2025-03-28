@@ -5,9 +5,8 @@ draft: false
 math: false
 ---
 
-Based on the book of Nick Montgomery and carla bergman.
-Read the whole text online for free [here](https://theanarchistlibrary.org/library/joyful-militancy-bergman-montgomery).
-
+*Based on the book of Nick Montgomery and carla bergman.
+Read the whole text online for free [here](https://theanarchistlibrary.org/library/joyful-militancy-bergman-montgomery).*
 
 {{< toc >}}
 

@@ -11,10 +11,13 @@ But, I am always curious and loves to explore things that fascinate me
 in whatever way, if only I had the resources.
 So, I try to [learn from the teachers on how they teach](/academy).
 
+{{< toc >}}
+
 ## Radical Education
 
 Education should transform the character, body, and mind of both
-teachers and learners for the better.
+teachers and learners for the better. It is *NOT* about indoctrination
+of obedience, or about the preparation of youth to servitude.
 
 Any attempt to teach should start with the experiences of the learners.
 Find activities where they explore the socialization they've experienced

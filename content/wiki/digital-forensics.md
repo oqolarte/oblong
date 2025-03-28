@@ -49,11 +49,6 @@ forensic analysis contaminates the evidence. So:
 3. If our copy under investigation gets corrupted, we can always return
    and make a new copy from the evidence we had preserved.
 
-### Chain of custody
-
-Collected evidence must be kept in secure custody. Only authorized
-persons relevant to the investigation must have access to the evidence.
-
 ### Order of volatility
 
 Digital evidence is often volatile, i.e., it can be lost forever if not
@@ -70,8 +65,12 @@ provide perspective to the investigation.
 
 ## Tools
 
-- KAPE
-- Autopsy
+- [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape): live data acquisition tool used to acquire registry data.
+- [Autopsy](https://www.autopsy.com/)
 - Volatility
 - Redline
 - Velociraptor
+
+## OS-based forensics
+
+- [Windows forensics](/windows-forensics)

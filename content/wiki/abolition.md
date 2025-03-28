@@ -4,12 +4,11 @@ date: 2022-11-10
 draft: false
 ---
 
-Abolition means a world with no police and no prisons,
-and the necessary steps we need to make it possible eventually.
-It's neither police nor prison reform;
-it means uprooting those two which are based on the old-think of
-punishing the harm-doer,
-and ensuring these institutions won't be needed again ever.
+Abolition means a world with no police and no prisons, and the necessary
+steps we need to make it possible eventually. It's neither police nor
+prison reform; it means uprooting those two which are based on the
+old-think of punishing the harm-doer, and ensuring these institutions
+won't be needed again ever.
 
 {{< toc >}}
 
@@ -24,11 +23,13 @@ sure that it will strip its prisoners off of their humanity. Throwing
 people in them can never be in the name of justice.
 
 Many crimes today exist because of systemic issues.
-[With tighter community](/community), such crimes would be less likely to happen
-as [people would be looking for each other](/mutual-aid) instead of ignoring it.
-And anyway, the current (in)[justice](/justice) system
-barely solves half of the cases;
-jails don't stop people now.
+[With tighter community](/community)
+and building spaces where both kids and adults can flourish
+and express themselves,
+crimes would be less likely to happen as
+[people would be looking out for each other](/mutual-aid).
+And anyway, the current (in)[justice](/transformative-justice) system
+barely solves half of the cases; jails don't stop people now.
 
 ## Why "no police"
 

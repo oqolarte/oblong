@@ -46,6 +46,15 @@ two things:
   that entrench the existing leadership will eventually be the only way
   to hold on to power in a fascist government.
 
+## Chicken and egg
+
+- The first casualties of fascist regimes are the minority, the
+  vulnerable, and the different.
+- Perhaps, we in this modern and complicated anthropocene are capable of
+  turning into ourselves, if a shadow tyrant (i.e., someone who wants
+  power to control everyone) charming enough shows up at *just the right
+  time* in our lives.
+
 ## Characteristics
 
 [Lawrence Britt identified 14 characteristics](https://www.ratical.org/ratville/CAH/fasci14chars.txt) that make up a fascist government:
@@ -85,8 +94,6 @@ two things:
 
 ## Note on Nazis
 
-From: https://www.tumblr.com/whereserpentswalk/747399887511060481
-
 The Nazis that in movies are as much a historical fantasy as Vikings
 with horned helmets and samurai cutting people in half.
 
@@ -95,6 +102,11 @@ sake of hurting them. They had specific goals which furthered a
 far-right agenda, and they wanted to do harm to very specific groups,
 (largely Slavs, Jews, Romani, queer people, communists/leftists, and
 disabled people.)
+
+The Nazis were the white people's (more) evil doppelganger. Hitler
+himself said that he drew inspiration from the genocidal regime of the
+British empire and from other racial atrocities happening in North
+America, even co-opting the [Roman salute](https://en.wikipedia.org/wiki/Roman_salute) and [swastika](https://en.wikipedia.org/wiki/Swastika).
 
 The Nazis didn't use soldiers in creepy gas masks as their main imagery
 that they sold to the German people; they used blond-haired blue-eyed

@@ -19,9 +19,20 @@ Yusuf Diya, Rashid Khalidi's great-great-great uncle and a scholar with
 interests in comparative religion like Judaism, wrote a letter  to
 Theodor Herzl, Viennese journalist and the acknowledged leader of a
 Zionist movement, and basically asked to "let Palestine be left alone."
-Herzl ignored the main message of the letter. As we would come to know,
-Zionist leaders ignore these kinds of pleas, formal or otherwise, and
-would go on with their campaign.
+
+Much later, after World War II,
+[historian David Slucki notes](https://www.jstor.org/stable/10.2979/jss.2009.16.1.111?mag=how-the-jewish-labor-bund-changed-after-world-war-ii),
+that bundists,
+[a Jewish socialist movement in the late 19th century](https://en.wikipedia.org/wiki/Bundism),
+would focus on living
+"a diasporic reality that carefully balanced the local and
+transnational."
+Bundists and Zionists, both Jewish groups, are very much different in
+sets of beliefs. The former argues for "hereness" ([*Doikayt*](https://en.wikipedia.org/wiki/Bundism#Doikayt)), proclaiming they can live wherever they are. Zionists, on the other hand, wants "thereness" believing that a land, specifically Palestine, is dedicated for a Jewish ethnostate where Jews can thrive.
+
+Going back to Diya, Herzl ignored the main message of the letter. As we
+would come to know, Zionist leaders ignore these kinds of pleas, formal
+or otherwise, and would go on with their campaign.
 
 Herzl also wanted the native Palestinians already in the place to
 "disappear." He had unknowingly pioneered the first concepts of

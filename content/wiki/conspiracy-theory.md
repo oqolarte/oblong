@@ -24,6 +24,13 @@ asking:
 - Is the person asking *really* hoping for answer, or are they just
   vying for any attention?
 
+Naomi Klein in her book *Doppelganger* observes that "conspiracy
+theorists get the facts wrong but often get the *feelings* right[.]"
+They bait people into feeling angry, but their anger almost always never
+reaches the supposed target: the oligarchy comprising the ultra-rich,
+the State, big tech bros, big pharma bros, etc. The anger is redirected
+sidewards, to other people who are victims of the systemic abuses.
+
 ## False narratives
 
 Countering a false narrative becomes messier when you are also telling

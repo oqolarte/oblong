@@ -4,8 +4,6 @@ date: 2022-09-18
 draft: false
 ---
 
-[mashatupitsyn](http://mashatupitsyn.tumblr.com/post/103345079948/if-someone-can-satisfy-you-then-they-can):
-
 > "If someone can satisfy you then they can frustrate you. Only someone
 > who gives you frustration can give you satisfaction...You know someone
 > matters to you if they can frustrate you. It was because [King]

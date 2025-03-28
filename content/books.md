@@ -18,7 +18,7 @@ finish reading.
 | Doppelganger         | Naomi Klein      |
 | The Botany of Empire | Banu Subramaniam |
 | Dune                 | Frank Herbert    |
-|
+| Global Battlefields  | Walden Bello     |
 
 ## Completed
 

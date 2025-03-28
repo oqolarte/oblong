@@ -1,5 +1,5 @@
 ---
-title: "On Activism"
+title: "On activism"
 date: 2022-08-28
 draft: false
 ---
@@ -48,3 +48,31 @@ space and time from those I share them with. Some points to consider:
 - Am I or someone in the space is a serial rambler? If so, how can we
   moderate this as a group? Can we as a group ensure that participants
   have an equal amount of air time when voicing their thoughts?
+
+## Learning from the past
+
+When we look back to our collective past and history, are we remembering
+the stories for all the lessons we hope might (re)teach us, or are we
+re-traumatizing ourselves, opening again not-yet healed wounds?
+
+Remembering is more productive, especially when we are able to convert
+the emotions to actions of solidarity.
+
+Re-traumatizing might just want us to react in anger, might even pave
+the way to [fascist thought](/fascism).
+
+### "Never again"
+
+In many activist circles in the [so-called Philippines](/pilipinas), we
+chant "Never again" to mean "Never again to Marcos dictatorship" and "never again to the atrocities and human rights violations." And in
+1986, this energy [mobilized people to occupy EDSA](/edsa-revolution)
+that eventually lead to the ousting of the dictator Marcos Sr.
+
+But do we also mean "never again to any form of authoritarian rule, no
+matter who it is or what Party is at the top"?
+
+Do we mean "never again to any form of [violence](/violence), from the
+brutal to the invisible, to all life forms"?
+
+Do we mean "never again to any form of hierarchy, because it undoubtedly
+breeds many forms of oppression"?

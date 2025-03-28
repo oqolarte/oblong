@@ -48,7 +48,6 @@ Please email me first if you plan to give me any of these.
 - Single-board computer (any model), used and in good working condition[^used]
 - E-book reader, used and in good working condition
 - Chain mail[^chain]
-- Canon Powershot G7x Mark II
 - Typewriter in working condition, preferably the portable kind
 - 3D printer
 - Cargo bike
