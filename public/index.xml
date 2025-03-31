@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Mar 2025 16:29:22 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 15:47:37 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -160,10 +160,6 @@ finish reading.&lt;/p&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Doppelganger&lt;/td&gt;
-          &lt;td&gt;Naomi Klein&lt;/td&gt;
-      &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;The Botany of Empire&lt;/td&gt;
           &lt;td&gt;Banu Subramaniam&lt;/td&gt;
@@ -387,7 +383,7 @@ I read slowly, you might notice.&lt;/p&gt;
           &lt;td&gt;Jonathan Franzen&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/241/#brief-review-of-resist-everything&#34;&gt;Resist Everything Except Temptation: The Anarchist Philosophy of Oscar Wilde&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/241/#brief-review-of-resist-everything&#34;&gt;Resist Everything Except Temptation&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;Kristian Williams&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -421,6 +417,10 @@ I read slowly, you might notice.&lt;/p&gt;
       &lt;tr&gt;
           &lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/260/#brief-review-of-strange-intimacies&#34;&gt;Strange Intimacies&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;Zea Asis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/263/#brief-review-of-doppelganger&#34;&gt;Doppelganger&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Naomi Klein&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -646,9 +646,6 @@ something to learn from them.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://100r.co&#34;&gt;Hundred Rabbits&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;is a two-person artist collective who, most of the time, operates on their
 sailboat Pino, making art using some of their homebrewed FOSS.&lt;/dd&gt;
-&lt;dt&gt;&lt;a href=&#34;https://jagtalon.net/&#34;&gt;Jag Talon&lt;/a&gt;&lt;/dt&gt;
-&lt;dd&gt;is a friend involved in mutual aid, Palestinian, environmental,
-abolitionist, and open source movements.&lt;/dd&gt;
 &lt;dt&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;Low-tech Magazine&lt;/a&gt;&lt;/dt&gt;
 &lt;dd&gt;explores &amp;ldquo;past and often
 forgotten technologies and how they can inform sustainable energy

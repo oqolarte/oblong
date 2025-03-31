@@ -57,8 +57,11 @@ of course, is based from their holy book.
 Revisionist Zionist leader Ze'ev Jabotinsky was clear that for Zionism
 to successfully supplant the Arabs of Palestine, [violence](/violence)
 was necessary. This normalization of force is even described by
-colonialists as "progress." This progress would turn on its head when
-the British and the Zionists had a falling out.
+colonialists as "progress." Zionists has argued, perhaps implicitly,
+that being victims of Holocaust gives them "right to discriminate," and
+to colonize Palestine to establish their own ethnostate. This progress
+would turn on its head when the British and the Zionists had a falling
+out.
 
 ## First declaration of war, 1917 - 1939
 
@@ -282,6 +285,12 @@ genocide against Native Americans and their slavery of Black people.
 2. Acknowledge that (Khalidi explains) "conflict between [Palestinians
    and Israelis] cannot be resolved as long as the national existence of
    each is denied by the other."
+3. Similar to the previous point, Naomi Klein in her book *Doppelganger*
+   asks for a more nuanced conversation, acknowledging Jews escaping
+   into Palestine in 1940s were *both* victims of Holocaust (and
+   centuries of discrimination prior) *AND* settler colonists who has
+   been causing ethnic cleansing to Palestinian people. Victims can and
+   has the potential to victimize others. Hurt people hurt people.
 
 ## Related reading
 

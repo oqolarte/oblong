@@ -4,17 +4,17 @@ date: 2022-10-25
 draft: false
 ---
 
+{{< toc >}}
+
+## Nothing is permanent
+
 Feudalism didn't transform into capitalism one day.
 We're not waiting for someone to start a revolution, but
-the transformation out of capitalism is already underway.[^revolution]
-
-[^revolution]: More info here: https://theanarchistlibrary.org/library/kevin-a-carson-exodus
+the transformation out of [capitalism](/capitalism) is already underway.
 
 There are people still living today
 who were born before the rise of nationalism
-and the creation of immigration controls.[^home]
-
-[^home]: More info here: http://libgen.rs/book/index.php?md5=497EDD082AAE49FF70B09978A212D394
+and the creation of immigration controls.
 
 From an anthropological perspective,
 we're living in a historically rare period
@@ -22,9 +22,19 @@ where people are convinced that government exists for the good of people,
 when in fact humans have always found [joy](/joyful-militancy)
 in overthrowing authorities,
 like what they did to Marcos on [EDSA revolution](/edsa-revolution)
-or run away from states at every opportunity.[^power]
+or run away from states at every opportunity.
 
-[^power]: More info here: https://theanarchistlibrary.org/library/peter-gelderloos-worshipping-power
+## Attack against impermanence
+
+Alternative ways of living and relating to one another have been crushed
+violently by agents of empire, or imperialist-wannabes. It does not mean
+they failed.
+
+We can rediscover these roads-not-taken because they remain
+possibilities to better lives that do not have to be full of suffering
+unless you're part of the oligarchy.
+
+## Imagining the possibilities
 
 We can rethink success to be something much smaller in scale.
 It's extremely local, sometimes on a personal level.
@@ -61,3 +71,8 @@ As for me, I feel the need to stick these ideals, because learning more
 about them helps me undo what needs to be undone, and unlearn what needs
 to be unlearned, both in service to make space for something I have
 failed to imagine.
+
+## Further readings
+
+- [Exodus](https://theanarchistlibrary.org/library/kevin-a-carson-exodus_) by Kevin Carson
+- [Worshipping Power](https://theanarchistlibrary.org/library/peter-gelderloos-worshipping-power) by Peter Gelderloos

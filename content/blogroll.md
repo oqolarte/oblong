@@ -47,10 +47,6 @@ something to learn from them.
 : is a two-person artist collective who, most of the time, operates on their
 sailboat Pino, making art using some of their homebrewed FOSS.
 
-[Jag Talon](https://jagtalon.net/)
-: is a friend involved in mutual aid, Palestinian, environmental,
-abolitionist, and open source movements.
-
 [Low-tech Magazine](https://solar.lowtechmagazine.com)
 : explores "past and often
 forgotten technologies and how they can inform sustainable energy

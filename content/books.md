@@ -15,7 +15,6 @@ finish reading.
 
 | Book Title           | Author/s         |
 |----------------------|------------------|
-| Doppelganger         | Naomi Klein      |
 | The Botany of Empire | Banu Subramaniam |
 | Dune                 | Frank Herbert    |
 | Global Battlefields  | Walden Bello     |
@@ -78,7 +77,7 @@ I read slowly, you might notice.
 | [All About Love: New Visions](/love)                                                                   | bell hooks                                 |
 | [Dila at Bandila](/236/#brief-review-of-dila-at-bandila)                                               | Ige Ramos                                  |
 | [Purity](/240/#brief-review-of-purity)                                                                 | Jonathan Franzen                           |
-| [Resist Everything Except Temptation: The Anarchist Philosophy of Oscar Wilde](/241/#brief-review-of-resist-everything)                            | Kristian Williams
+| [Resist Everything Except Temptation](/241/#brief-review-of-resist-everything)                         | Kristian Williams                          |
 | [Fermat's Enigma](/242/#brief-review-of-fermats-enigma)                        | Simon Singh           |
 | [Ransomed by Love](/247/#brief-review-of-ransomed-by-love)                     | Tony La Viña          |
 | [Skin in the Game](/250/#brief-review-of-skin-in-the-game)                     | Nassim Nicholas Taleb |
@@ -87,6 +86,7 @@ I read slowly, you might notice.
 | [Cobalt Red](/259/#brief-review-of-cobalt-red)                                 | Siddharth Kara        |
 | [My Friends in the Barrios](/260/#brief-review-of-my-friends-in-the-barrios)   | Juan M. Flavier       |
 | [Strange Intimacies](/260/#brief-review-of-strange-intimacies)                 | Zea Asis              |
+| [Doppelganger](/263/#brief-review-of-doppelganger)                             | Naomi Klein           |
 
 
 ## Did not finish

@@ -33,6 +33,10 @@ barely solves half of the cases; jails don't stop people now.
 
 ## Why "no police"
 
+The police, as the state-sanctioned monopoly on violence, exists solely
+to protect the interests of those in power and maintain existing social
+and economic order.
+
 Imagine: they get in their "riot suits" and commit [violence](/violence)
 against police protest. It is happening, so imagine no more.
 
