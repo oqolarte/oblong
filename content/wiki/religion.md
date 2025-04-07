@@ -6,7 +6,11 @@ draft: false
 
 Religion, itself, is not bad. Maybe.
 
-Or a more nuanced take would be, many religions have imparted nuggets of
+{{< toc >}}
+
+## Intro
+
+A more nuanced take would be, many religions have imparted nuggets of
 wisdom that are still relevant today; their texts are filled with
 verbose literature, of poems and proses. It has its own benefits when it
 comes to influencing behavior. At least in Christianity, the only one
@@ -31,6 +35,10 @@ must introduce new moral high grounds to which they will set the current
 standards.
 
 ## Religion or cult?
+
+"All religions are barriers to progress," Walden Bello observes,
+especially if they devolve into cults that negatively affect people's
+social standings.
 
 Our society primes us for cult abuse through everyday institutions. Any
 institution that relies on us submitting to authority, dismissing our
