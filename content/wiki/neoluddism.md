@@ -230,6 +230,7 @@ non-expensive alternative to buying new. Here, technicians for all kinds
 of tech are abundant, at least in major city centers; and so having
 one's broken stuff repaired will not break bank.
 
+{{< figure src="/image/repair.jpg" alt="An open repair shop by the streetside. A repairman is crouching low to his workstation, and around him are stand fans, washing machines, hand tools." caption="Due to incredible summer heat, we decided to have our old fans refurbished in this shop, instead of buying new one. As it turned out, having two fans repaired is *cheaper* than buying one brand new." >}}
 Still, when I read about how Big Tech overseas design their products
 with planned obsolescence, I wonder what kind of world do the top
 stakeholders of, say, Apple, imagine when they ship AirPods which

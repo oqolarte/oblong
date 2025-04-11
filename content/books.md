@@ -13,11 +13,13 @@ finish reading.
 
 ## Currently reading
 
-| Book Title           | Author/s         |
-|----------------------|------------------|
-| The Botany of Empire | Banu Subramaniam |
-| Dune                 | Frank Herbert    |
-| Global Battlefields  | Walden Bello     |
+| Book Title             | Author/s                        |
+|------------------------|---------------------------------|
+| The Botany of Empire   | Banu Subramaniam                |
+| Dune                   | Frank Herbert                   |
+| Global Battlefields    | Walden Bello                    |
+| The Dawn of Everything | David Graeber and David Wengrow |
+| Braiding Sweetgrass    | Robin Wall Kimmerer             |
 
 ## Completed
 
@@ -120,7 +122,7 @@ written in early 19th century. I *might* get back to this if I remember
 to forget how the first few pages were boring.
 
 ***how to grieve*** by **Jade Mark Capiñanes**  
-**Why**: Author has collected their wits and used it to build up *hugot*
-punchlines, which may or may not be cringy, just like some jokes are not
-funny. I appreciate the effort, though, but *conyo* hugot, despite its
-potential to jab at jaw, is not for me.
+**Why**: Author has
+collected their wits and used it to build up *hugot* punchlines, which
+may or may not be cringy. I appreciate the effort, though, but *conyo*
+hugot, despite its potential to jab at jaw, is not for me.

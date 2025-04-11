@@ -6,13 +6,11 @@ draft: false
 
 Cybersecurity is the management of risk related to internet-connected
 businesses. It includes ensuring confidentiality (e.g., complex password
-requirement), integrity, and
-availability of information by protecting networks, devices, people, and
-data from unauthorized access.
+requirement), integrity, and availability of information by protecting
+networks, devices, people, and data from unauthorized access.
 
-Organizations use [security frameworks](/security-frameworks) as
-a starting point to create
-their own security policies and processes.
+Organizations use [security frameworks](/security-frameworks) as a
+starting point to create their own security policies and processes.
 
 {{< toc >}}
 
@@ -171,10 +169,6 @@ To thrive as a cybersecurity professional, one must have these skills:
 [Threat actor](/threat-actor)
 : Any person or group who presents [security](/security) risk
 
-Playbook
-: A list of how to go through a certain detection, and what the analyst
-needs to look at in order to investigate those incidents
-
 Internal threat
 : can be a current or former employee, an external vendor, or a trusted
 partner who poses a security risk. At times, an internal threat is
@@ -183,7 +177,7 @@ malicious email link would be considered an accidental threat. Other
 times, the internal threat actor *intentionally* engages in risky
 activities, such as unauthorized data access.
 
-Network security 
+[Network security](/network-security)
 : the practice of keeping an organization's network
 infrastructure secure from unauthorized access. Includes data,
 services, systems, and devices that are stored in an organization’s
@@ -199,7 +193,7 @@ properly configured, or set up correctly, and
 [Malware](/malware)
 : Software designed to harm devices or networks
 
-Network protocol analyzers
+[Network protocol analyzers](/network-protocol-analyzer)
 : AKA packet sniffer, is a tool designed to capture and analyze data
 traffic in a network. This means that the tool keeps a record of all the
 data that a computer within an organization's network encounters.
@@ -212,5 +206,11 @@ series of steps to complete specific security-related tasks.
 More terms in the
 [National Institute of Standards and Technology glossary](https://csrc.nist.gov/glossary)
 
+## Ethics (?) and further reading
 
-
+- [evacide](https://hachyderm.io/@evacide/114309079555843557): "So much of cybersecurity is "We must secure the Orphan
+  Crushing Machine so that unauthorized people do not crush the
+  orphans," and not 'Why the fuck are you building an Orphan Crushing
+  Machine in the first place?'"
+- OPINION: [stop studying cybersecurity](https://maia.crimew.gay/posts/please/) because of [maia arson crimew, an investigative journalist and hacktivist]
+- [Hack Back](https://theanarchistlibrary.org/library/subcowmandante-marcos-hack-back)
