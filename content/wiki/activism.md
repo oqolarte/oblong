@@ -76,3 +76,13 @@ brutal to the invisible, to all life forms"?
 
 Do we mean "never again to any form of hierarchy, because it undoubtedly
 breeds many forms of oppression"?
+
+## Activists' commitment
+
+"The activist's commitment must be to get at the truth, even at the
+price of breaking the law," advises Walden Bello in his book *Global
+Battlefields*. Laws are written by well-off, privileged
+people who claim to represent us, but almost always the masses do not
+have a say on this. We have to ask for whom these laws really apply to.
+As activists, we need to highlight the many ways this asymmetry affects
+our lives.

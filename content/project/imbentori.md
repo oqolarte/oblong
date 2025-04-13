@@ -53,13 +53,19 @@ Right now, I'll compromise by trimming *some* of the bad stuff.
 If everything sounds strange,
 it's because I had been in this odd phase.
 
-{{< btt >}}
-
 [^bs]: Reminds me of a paper called [_"Bullshit Makes The Art Grow Profounder"_](http://journal.sjdm.org/19/190712/jdm190712.html) (Turpin et. al., 2019). 
 Some 20(20) years ago when I last visited an art museum (or was it just gallery?), 
 I couldn't help but roll my eyes on a lot of pieces' description cards that seemingly always include how the artist "explores" this or that.
 
 {{< btt >}}
+
+## Acknowledgement
+
+*To Kim, Kai, Jane, Foxy, and the rest who have expressed themselves as
+freely as they could, because what else was there?*
+
+{{< btt >}}
+
 ## Selected Entries
 
 The following are the entries that I like, with slight edits.

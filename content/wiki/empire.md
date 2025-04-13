@@ -7,6 +7,10 @@ math: false
 
 **Empire** is "the name for the organized catastrophe in which we live today."
 
+{{< toc >}}
+
+## Intro
+
 It's more of a collection of process, rather than a singular
 mass/entity, that includes "the most brutal forms of domination to the
 subtlest inculcation of anxiety and isolation."
@@ -47,7 +51,7 @@ Rigid radicalism, while not exactly the opposite of joyful militancy,
 shapes our [activism](/activism) so that the spaces and relationships we
 are in become toxic towards the people in it. It comes in many forms:
 the need to be better than others; the way we self-censor lest we get
-cancelled; etc.
+canceled; etc.
 
 Since rigid radicalism borrows ideals from the Empire and "requires"
 them for revolution, it demands self-sacrifice, not for profit (that's
@@ -58,11 +62,41 @@ for nuance and no space to wiggle, then I cannot dance in it---it's NOT
 my revolution.
 
 Not sticking to a monolithic ideology is liberating, mind you, but has
-the drawback of being less certain on what actions to do or not do.
-Which is *fine*---we are not wired to be cold and efficient. Our warm
-bodies allow us to fail forward to a future where we all have more
-freedoms.
+the drawback of being less sure on what actions to do or not do. Which
+is *fine*---we are not wired to be cold and efficient. And anyway,
+lasting change requires time. Our warm bodies allow us to fail forward
+to a future where we all have more freedoms.
 
 Look no further: rigid ideology is what isolates CPP-NDF-NPA from the
-masses they seek to liberate. The truth is, they have very little
+masses they seek to liberate. To be fair, by offering an alternative way
+of living during Marcos Sr. Dictatorship, theirs was a movement that
+sought to topple the oppressive regime, and that activists at the time
+felt it was right to join the cause. But now, they have very little
 affect.
+
+## US Empire
+
+![An image of a lighter and a ballpen side by side with one another.](/image/empire-steals.jpg)
+
+This meme is not necessarily limited to the US, but it's surely its
+defining characteristic.
+
+
+According to sociologist Walden Bello, the political economy of US is
+built on two "original sins":
+1. Genocide of Indigenous Peoples of Americas; and
+2. Use of slavery of African Americans to prop up US capitalism.
+
+The US empire might begin its path to obsolescence once we, especially
+the American settlers acknowledge and repair these two sins.
+
+## Focus on military
+
+Focusing on improving and mainly utilizing military security, according
+to history, would be to the detriment of economy and political and
+diplomatic relations with other states and societies. Militarism is a
+highly hierarchical, highly organized implementation of [violence](/violence)
+as a tool of state to impose its authority.
+
+Authoritarian regimes almost always have the military at their disposal.
+Such regimes tend to have higher poverty rates.
