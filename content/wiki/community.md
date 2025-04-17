@@ -92,6 +92,22 @@ existing now. On one hand, the former had thought about our welfare and
 acter accordingly; on another, we could be doing the same for the
 latter. Community work, then, like many [revolutionary](/revolution) acts, spans generations.
 
+## A few things about far-right communities
+
+On his book *Global Battlefields*, Walden Bello talks about how Marine
+Le Pen led the French far-right National Front party by hijacking
+deglobalization and mixing it with nationalist and Islamophobic---in
+short, fascistic---spins. Bello pointed out that this is the wrong kind
+of community-building, and wrote:
+
+> For the right, community is determined by race, ethnicity, and blood.
+> It is narrow in terms of who is included in it rather than expansive.
+> For us, community is principally a matter of shared values that
+> transcend differences in blood, gender, race, class, and culture.
+> Community tends toward continual expansion and incorporation of people
+> that share the same values...
+
+
 ## Further reading
 
 - [Rebuilding the Village](https://docs.google.com/document/d/1rC-0Mpe5F78oA991Odno4fyXmr6O-1_CH6NCKy6uEXs/edit?tab=t.0): The Radical Act of Depending on Each other (essay on Google Docs)

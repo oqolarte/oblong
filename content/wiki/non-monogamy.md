@@ -4,6 +4,10 @@ date: 2023-09-18
 draft: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 In a society of jealousy and ownership,
 non-monogamy challenges assumptions
 on intimate relationships---romantic, [sexual](/sex),

@@ -8,12 +8,29 @@ math: false
 Firewall is a network security device that monitors traffic to and from
 your [network](/network).
 
+{{< toc >}}
+
+## Filtering
+
 A firewall can use **port filtering**, which blocks or allows certain
 port numbers to limit unwanted communication. For example, it could have
 a rule that only allows communications on port 443 for HTTPS or port 25
 for email and blocks everything else.
 
 ![Firewall topology in a network](/image/firewall.png)
+
+### Ingress filtering
+
+Ingress filtering is the practice of monitoring, controlling, and
+restricting traffic entering a network to ensure only legitimate traffic
+enters, and unauthorised or malicious traffic does not.
+
+### Egress filtering
+
+Egress filtering is the opposite of ingress, in that it only lets
+legitimate traffic to leave the network, and prevents unauthorised and
+malicious traffic from doing so. The main goal is to protect other
+organizations' networks by preventing malware spread.
 
 ## Types
 

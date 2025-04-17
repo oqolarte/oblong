@@ -15,6 +15,21 @@ defenses, to exploit vulnerabilities and exposures.
 
 {{< toc >}}
 
+## Operator or cutomer?
+
+It is important to know the distinction between adversary operator and
+adversary customer to understand the intent,
+attribution, adaptability, and persistence by helping to frame the
+relationship between an adversary and victim pair.
+
+Adversary Operator
+: the “hacker” or person(s) conducting the intrusion activity.
+
+Adversary Customer
+: the entity that stands to benefit from the activity
+conducted in the intrusion. Could be the same as the adversary operator,
+or could be a separate entity.
+
 ## Categories
 
 Threat actors are normally divided into five categories based on their

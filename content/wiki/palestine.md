@@ -5,11 +5,12 @@ draft: false
 math: false
 ---
 
-*This page includes and builds upon my notes and reflections on Rashid Khalidi's
-book* The Hundred Years' War on Palestine. *It is not necessarily a
-cohesive view, but I hope they at least give the reader an idea of what
-has been happening in Palestine early 1900s to Today. Each paragraph may be
-considered a standalone note.*
+*This page includes and builds upon my notes and reflections on Rashid
+Khalidi's book* The Hundred Years' War on Palestine. *It is neither a
+cohesive view nor an attempt at summarizing the author's work. Though, I
+hope notes at least give the reader an idea of what has been happening
+in Palestine early 1900s to Today. Each paragraph may be considered a
+standalone note.*
 
 {{< toc >}}
 
@@ -241,8 +242,11 @@ the already splintered forces left among Palestinians.
 
 Of course, I condemn the horrible acts of Hamas which has killed
 innocent Israeli civilians. In fact, innocent civilians in any side of a
-war do not deserve to be reduced to collateral damage statistics. Having
-said that, the biggest losers have always been the Palestinians.
+war do not deserve to be reduced to collateral damage statistics. The
+violence of Israeli state and the Hamas is NOT equal. Israeli forces are
+responsible for more war crimes over the past seven decades of its
+so-called existence. Having said all that, the biggest losers have
+always been the Palestinians.
 
 Besides, suicide bombings were a gambit without analysis from
 Palestinian leadership. The casualties only strengthened the sentiments

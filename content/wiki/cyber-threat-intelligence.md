@@ -68,6 +68,7 @@ different sources under the following categories:
 
 ## Tools
 
+- [Yara](/yara)
 - https://urlscan.io/
 - https://abuse.ch/ 
     - https://feodotracker.abuse.ch/

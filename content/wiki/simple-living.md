@@ -16,14 +16,14 @@ which means chasing happiness but remaining in the same state.
 - [Being more than my work](/anti-work).
 - Spending quality time with friends, family, and [significant other/s](/non-monogamy).
 - [Having a small house](/dream-house)
-(max of 70 square meters of floor area)
+(between 40 to 70 square meters of total floor area)
 that one, max of two, people can maintain easily.
 
 ## Some short- to mid-term strategies to use
 
 - Keep a journal using pen and paper to document life. [Bullet journal](/bujo) has worked well for me.
-- When using the internet, consider using RSS feed instead of getting
-  info from [social media](/social-media) and other distracting sites, but --
+- When using the internet, [consider using RSS feed](https://aboutfeeds.com/) instead of getting
+  info from [social media](/social-media) and other distracting sites, but---
 - Read the news only at most once a week. If it's relevant enough, it
   will find it's way to you through the people around you.
 - Gaming, especially video gaming, should be contained in its own
@@ -43,3 +43,13 @@ that one, max of two, people can maintain easily.
 [^self]: Yes, that's *you*, Future Self.
 
 [On a planet of finite, degraded and depleted natural resources, the ecology of wanking is an ethos whose time has come.](https://aeon.co/essays/from-the-cynics-self-sufficiency-to-an-ecology-of-wanking)
+## On surviving vs living
+
+Ideally, I don't want to be in a situation of extreme destitution. But
+there's no way of knowing what would happen in the future. We might end
+up where we didn't plan at all.
+
+To be prepared for the worst but determined to not let it ruin the daily
+life---this is a grounded hope that I want to have if I ever found
+myself in survival mode. It's like packing emergency go-bags but making
+room for the favorite blanket.
