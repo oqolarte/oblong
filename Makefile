@@ -35,6 +35,7 @@ build:
 	@echo "Copying wiki to oblong"
 	cp -rv /home/user/Documents/wikidbrane/*.md /home/user/oblong/content/wiki/
 	cp -rv /home/user/Documents/wikidbrane/*.png static/image/
+	cp -rv /home/user/Documents/wikidbrane/*.webp static/image/
 	cp -rv /home/user/Documents/wikidbrane/*.jpg static/image/
 	cp -rv /home/user/Documents/wikidbrane/*.svg static/image/
 	rm -rv content/wiki/index.md
