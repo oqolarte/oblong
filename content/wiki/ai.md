@@ -99,6 +99,8 @@ LLM is Large Language Model (LLM), the most well-known
 gateway to which is ChatGPT; AGI is Artificial General Intelligence, the
 notion of a computer that can think like people can.
 
+![Unmasking of AI](/image/statistical-ai.jpeg)
+
 LLMs are not meant to be used as search engines.
 LLMs are, in simpler terms, based on [statistics](/statistics) in that
 they only predict a likely answer. To understand it better, when you

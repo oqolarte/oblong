@@ -11,6 +11,7 @@ for many, many millenia now.
 
 I hope I'm not too late to this,
 so I'm compiling any fit inspos that I find.
+Probably the common theme (so far) is: How to Survive in the Heat.
 
 ## Yemeni Fashion
 
@@ -34,6 +35,37 @@ by absorbing heat before it reaches the skin.
 The thickness of the fabric helps:
 the outer layer does get hotter,
 but the heat doesn't get transmitted to the skin.
+
+## Bedouin Traditional Clothing
+
+{{< figure src="/image/bedouin-men-01.jpg" alt="Group of Bedouin men in their traditional clothing, posing for a photo" caption="A group of Bedouin men in the desert outside Aman, Jordan Stock Photo - Alamy" >}}
+
+The basic "dress" is a tob or thobe of (usually) white cotton to the
+ankles (silk and wool are also traditional; earth colors are also
+common). The collar on the tob varies by
+region. In Oman it is round with a button and tassel. Further north the
+tassel gets dropped. Elsewhere a high collar (like an European clerical
+collar) is worn. The tob has large triangular sleeves which are tied
+back with a cord.
+
+Under this Omani Bedouin wear a sarong. Many other wear sirwal. Around
+Palestine the legs are bare.
+
+Over the tob a striped kibr open down front with belt and/or shoulder
+straps is worn. For non-manual workers a redan - with kimono shaped
+sleeves to ground---reinforces their leisure status.
+
+Headwear for most Bedouin men is a kufeya held in place with an igal of
+camel wool. The kufeya is a square of fabric folded into a triangle with
+a point on each shoulder. The igal can be richly decorated with metallic
+threads.
+
+{{< figure src="/image/bedouin-men-02.webp" alt="Group of Bedouin men in their traditional clothing, posing for a photo" caption="" >}}
+
+### Further reading
+
+- [Bedouin Traditional Clothing](https://www.raqs.co.nz/me/clothing_bedouin.html)
+- [Reddit thread on Bedouin clothing](https://old.reddit.com/r/CampingGear/comments/ynxlb1/id_like_to_try_some_bedouin_clothing_out_in_the/)
 
 ## Barong Tagalog
 

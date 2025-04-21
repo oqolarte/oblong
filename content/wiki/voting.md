@@ -11,9 +11,11 @@ draft: false
 It doesn't really matter whether you vote or not.
 The problem isn't the people who want to vote, and it's not the people
 who don't want to vote. It's the people who feel the need to keep
-starting fights about it.
+starting fights about it. On the other hand, I believe that we should
+exhaust all avenues of potential change-making, and for many people, it
+is through voting.
 
-The state will still do everything to remain in power.
+The fact remains, though: The state will still do everything to remain in power.
 
 Who controls the information under [capitalism](/capitalism) on whom to
 vote if not the wealthy executives? Who sets the options if not

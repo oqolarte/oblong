@@ -11,28 +11,31 @@ A city should be **devoted to the pedestrians**, first and foremost.
 
 ## We, the PedXing
 
-We begin and end all of our travels as pedestrians. You would think that
+We begin and end all of our travels as pedestrians. One would think that
 it only makes sense to [design](/design) a safe communal space around
-that central idea. But pedestrians are not the priority. Somehow in the
+that central idea. But one need not to have lived a long life in a city
+to know that pedestrians are not the priority. Somehow in the
 so-called urban planning, decision-makers have thought that pedestrians
 are less valuable than cars. This is evident in the lack of proper
-sidewalks. By proper, I mean:
+sidewalks. By *proper*, I mean:
+
 - wide enough to fit at least four people standing next to each other;
 - has ramps with *reasonable* slopes on curbs' endpoints for people in
   wheelchair;
-- isn't blocked by any parked vehicle at any time; and
-- is not the de facto highway of skateboarders, cyclists, motorbikers,
+- not blocked by any parked vehicle at any time; and
+- not the de facto highway of skateboarders, cyclists, motorbikers,
   e-scooters, and the like.
 
 ## Cars-first Culture
 
-Thanks to our friends in developed nations, we've developed a knack for
-cars. And to an extent, it's understandable. Once you've learned how to
-drive, a car will take you to places with relative ease, as long as
-there is road on which the wheels shall roll. Perhaps we have the
+Thanks to our friends in developed nations---special mention to you,
+USA---we've developed a knack for
+cars. And to an extent, it's understandable: Once one has learned how to
+drive it, a car can take one to places with relative ease, as long as
+there is road on which the wheels shall roll. Perhaps, we have the
 Western culture to thank for this inevitable outcome.
 
-It's weird that many people think that having your own car symbolizes
+Many people think that having your own car symbolizes
 success, but does it?
 
 Those who can afford it will invariably use cars for their errands,
@@ -55,7 +58,8 @@ the battery if not by mining them from the ground, sourced most likely
 through slavery in Congo?
 
 We don't transition to clean energy by jumping into electric cars.
-If anything, we only threaten our forests.[^palawan]
+If anything, we only threaten our forests,[^palawan] or outsource the
+pollution (and misery along with it) to some place else.
 
 [^palawan]: Ilagan, K., Lopez, E., Lehren, A., Schecter, A., & Schapiro,
 R. (2021, December 8). *Rise of electric cars threatens Philippine
@@ -75,8 +79,9 @@ accidents.
 Sure, we can rely on computing and internet to avoid traffic and/or find
 the shortest route possible, but if you've driven and used Waze or
 Google Maps (or some similar real-time navigation app), you'd know that
-software can only do so much. An important side note: computing adds to
-the polution, too! Data centers that enable online GPS navigation, among
+software can only do so much. An important side note: computing power
+needed to operate real-time navigation apps adds to the carbon
+emissions, too! Data centers that enable online GPS navigation, among
 other things, still use massive amounts of computational energy, and
 therefore electricty from the power grid.
 

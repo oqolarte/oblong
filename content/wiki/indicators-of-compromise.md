@@ -7,7 +7,13 @@ math: false
 
 Indicators of compromise (IoCs) are observable evidence suggesting signs
 of a potential security incident, sometimes represented in the
-[Pyramid of Pain](/pyramid-of-pain). IoCs chart specific pieces of evidence
+[Pyramid of Pain](/pyramid-of-pain).
+
+{{< toc >}}
+
+## Intro
+
+IoCs chart specific pieces of evidence
 that are associated with an attack, like a file name associated with a
 type of [malware](/malware). You can think of an IoC as evidence that
 points to something that's already happened.

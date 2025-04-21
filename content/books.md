@@ -17,7 +17,6 @@ finish reading.
 |------------------------|---------------------------------|
 | The Botany of Empire   | Banu Subramaniam                |
 | Dune                   | Frank Herbert                   |
-| Global Battlefields    | Walden Bello                    |
 | The Dawn of Everything | David Graeber and David Wengrow |
 | Braiding Sweetgrass    | Robin Wall Kimmerer             |
 
@@ -89,6 +88,7 @@ I read slowly, you might notice.
 | [My Friends in the Barrios](/260/#brief-review-of-my-friends-in-the-barrios)   | Juan M. Flavier       |
 | [Strange Intimacies](/260/#brief-review-of-strange-intimacies)                 | Zea Asis              |
 | [Doppelganger](/263/#brief-review-of-doppelganger)                             | Naomi Klein           |
+| [Global Battlefields](/267/#brief-review-of-global-battlefields)               | Walden Bello          |
 
 
 ## Did not finish
