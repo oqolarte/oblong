@@ -19,13 +19,22 @@ We have lived in highly urbanized areas where plants could only grown in
 pots and boxes, if at all, to be controlled and monitored and protected
 from external harm. My parents were not into botany.
 
-The closest thing
-to learning about plants was in highschool biology class, which was
-sadly stripped of beauty and curiosity... only rote memorization.
+The closest thing to learning about plants was in highschool biology
+class, which was sadly stripped of beauty and curiosity... only rote
+memorization.
 
 I still live in a highly urbanized area (as of writing this), but I have
 become more open to the teachings of plants. For instance, I pay special
 attention to those that [grow between the cracks in concrete and pavement](/revolution).
+
+I also think that we have no choice but have our lives be intertwined
+with plants---are they not one of the major reasons why we breathe
+oxygen? I suppose in learning more about them, I move away from wanting
+to building a fortress world in which everyone protects what they have
+instead of [sharing it](/mutual-aid). In reality, we should be rewilding
+our spaces to become a forest world, as environmental lawyer Tony La
+Viña said in an interview, where we work with other plants and animals
+so that all of us can thrive.
 
 ## Native plants
 
