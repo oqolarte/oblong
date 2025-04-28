@@ -33,7 +33,7 @@ USA---we've developed a knack for
 cars. And to an extent, it's understandable: Once one has learned how to
 drive it, a car can take one to places with relative ease, as long as
 there is road on which the wheels shall roll. Perhaps, we have the
-Western culture to thank for this inevitable outcome.
+Western [culture](/culture) to thank for this inevitable outcome.
 
 Many people think that having your own car symbolizes
 success, but does it?

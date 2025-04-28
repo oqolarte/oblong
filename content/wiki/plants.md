@@ -10,6 +10,23 @@ Until now.
 
 {{< toc >}}
 
+## Why learn about plants?
+
+One of the great tragedies of my life is not having the right
+environment to learn more about plants.
+
+We have lived in highly urbanized areas where plants could only grown in
+pots and boxes, if at all, to be controlled and monitored and protected
+from external harm. My parents were not into botany.
+
+The closest thing
+to learning about plants was in highschool biology class, which was
+sadly stripped of beauty and curiosity... only rote memorization.
+
+I still live in a highly urbanized area (as of writing this), but I have
+become more open to the teachings of plants. For instance, I pay special
+attention to those that [grow between the cracks in concrete and pavement](/revolution).
+
 ## Native plants
 
 Joy Santore introduces the concept of native plants in his post
@@ -25,6 +42,25 @@ we should start planting them as quickly and as widely as possible. Of
 course, there's a lot more nuance to that, including asking things like,
 are the plants be native to the area? Otherwise, planting non-native
 and/or invasive plants can do more harm than good.
+
+## Plants talk?
+
+Western science had argued for a long time that plants cannot
+communicate with other plants because "they lack the mechanisms that
+animals use to speak."
+
+But plants are not animals; [communication](/communication) must be done
+through mechanisms that plants use. Robin Wall Kimmerer, botanist and author of
+*Braiding Sweetgrass*, writes (emphasis mine):
+
+> They communicate via pheromones, hormonelike compounds that are wafted
+> on the breeze, laden with meaning. Scientists have identified specific
+> compounds that one tree will release when it is under the stress of
+> insect attack... The downwind trees catch the drift, sensing those few
+> molecules of alarm, the whiff of danger. This gives them time to
+> manufacture defensive chemicals... There is so much we cannot yet
+> sense with our limited human capacity. **Tree conversations are still
+> far above our heads.**
 
 ## Further reading
 

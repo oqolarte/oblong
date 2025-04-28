@@ -103,7 +103,7 @@ of community-building, and wrote:
 > For the right, community is determined by race, ethnicity, and blood.
 > It is narrow in terms of who is included in it rather than expansive.
 > For us, community is principally a matter of shared values that
-> transcend differences in blood, gender, race, class, and culture.
+> transcend differences in blood, gender, race, class, and [culture](/culture).
 > Community tends toward continual expansion and incorporation of people
 > that share the same values...
 

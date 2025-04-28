@@ -17,5 +17,5 @@ Joan Westenberg argues
 > lineage, inheritance, virginity, and monogamy. Understanding that
 > patriarchy emerged so recently, under particular economic conditions
 > rather than from biological fate, is empowering. It means we can
-> rewrite modern society through consciously structuring culture and
+> rewrite modern society through consciously structuring [culture](/culture) and
 > laws.

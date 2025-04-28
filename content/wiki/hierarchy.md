@@ -34,7 +34,7 @@ cooperative, social, and accepting of all types.
 
 Sapolsky's research, and the troops of baboons participating in it, show
 that it's not inevitable, that even people in power can change if
-they're brought up in a culture that teaches them to value harmony.
+they're brought up in a [culture](/culture) that teaches them to value harmony.
 Of course, it does not happen overnight, or [violence](/violence) would
 surely erupt.
 

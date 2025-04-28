@@ -8,8 +8,9 @@
 <section class="articles">
     {{range .Articles}}
     <div class="article">
-        <a href="{{.Link}}" class="title" target="_blank" rel="noopener">{{.Title}}</a> <span class="blogsite"> via <a href="{{.SourceLink}}">{{.SourceTitle}}</a> </span>
+        <a href="{{.Link}}" class="title" target="_blank" rel="noopener">{{.Title}}</a> <span class="blogsite"> from <a href="{{.SourceLink}}">{{.SourceTitle}}</a> </span>
       <p class="summary">{{.Summary}}</p>
+      <small class="date">{{.Date.Format "2 Jan 2006" }}</small>
     </div>
     {{end}}
   </p>

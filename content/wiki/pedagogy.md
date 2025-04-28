@@ -32,9 +32,22 @@ of the hierarchy, rigidity, name some common frustrations with
 schooling. From there, try to bring new spark in the space, in that each
 person in the room has a stake on how the class will go.
 
+Teachers putting down students' enthusiasm about learning something
+before it even started because of some perceived naïveté ("It will not
+work because XYZ" or "We will not pursue with this observation because
+it's stupid") does not promote curiousity. On the other hand, we need to
+be aware of how and where to guide the learners with their
+wandering/wondering minds as safe as possible.
+
 > Efficiency and economy simply do not make good pedagogy.
 >
 > -- *Paul Lockhart*
+
+## Playing as learning
+
+In many cultures and societies, play is introduced to children as
+gateway for the work of the world. Even as adults, via play is the most fun
+way to learn about anything.
 
 ### Reward-based?
 

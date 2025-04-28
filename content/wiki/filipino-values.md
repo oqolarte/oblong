@@ -59,7 +59,7 @@ Jocano suggests the following approaches:
       an ethical and moral [community](/community) would look like.
 2. **Emphasize similarities**. To meaningfully connect with others, we
 can build better bridges by looking for common denominator. I think that
-many, if not all, cultures in southeast Asia are relationship-oriented,
+many, if not all, [cultures](/culture) in southeast Asia are relationship-oriented,
 despite the region's archipelagic geography. We have "unawa" (verb, to
 empathize with those in need) for our neighbors; we emphasize
 "pakikisama" (getting along) especially with strangers to possibly avoid

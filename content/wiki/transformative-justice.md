@@ -78,7 +78,7 @@ given them the they are seeking.
 One non-violent way of "punishment" aside from removing the tools and/or
 the environment that enable the harm, we could start using shame as a
 way to discipline wrong-doers. Shame is a powerful social construct. We
-can see this in some Asian cultures like the Japanese.
+can see this in some Asian [cultures](/culture) like the Japanese.
 
 I don't necessarily mean to weaponize shame, as it is done in cancel culture.
 Perhaps, we could think of ways to develop social relations that

@@ -11,6 +11,8 @@ The fruits of my labor have never fully benefited me nor the
 people I cared the most. So I thought it might be better for me to start
 considering setting my own shop.
 
+{{< toc >}}
+
 ## Business Startup Plan
 
 Being my own boss sounded like a lifestyle fit for me.
@@ -38,6 +40,22 @@ an entrepreneur must dedicate their whole being into making it stable as
 soon as possible. This could mean working upwards of 50 hours per week,
 which is definitely more than what I can allot for something, or
 anything really, without losing focus.
+
+## Business of exploitation
+
+Exploitation is always wrong; I should not have to exploit others' work
+just to stop being exploited myself. Cooperatives may be an exemption to
+this, but generally speaking, creating and operating a business that
+does not just entail my being the sole worker involved in it is almost
+certainly going to result in exploitation and [hierarchy](/hierarchy) of
+some kind.
+
+And then we have the State---the government regulates businesses that
+can be hard and unfair on small and medium enterprises (SME). For
+example, it can be hard renting land and/or any real estate for the
+business, and paying through property taxes when starting out. To gain
+some of the capital, business owners would have to compete against wage
+slave prices of competing brands and markets.
 
 ## Growth mindset is not sustainable
 
@@ -147,15 +165,17 @@ privileged population.
 
 Go back to the business startup plan mentioned above. What can you do to
 improve the framework so it doesn't need the exploitation of people and
-resources?
+resources? What must be added or subtracted so it is no longer a
+business of exploitation?
 
-Perhaps you can encourage others to join you in your hobbies. Perhaps
-you can join them in theirs. The point is to [form a community](/community) that
-shares something you all enjoy for the sake of enjoying it. To share a
-bond with people partaking in similar interests is human nature that
-could transcend any profit motive. This way, you also have a chance
-[to teach others](/pedagogy) that they might not already know,
-and learn from them as well.
+Perhaps, you can encourage others to join you in your hobbies. Perhaps
+you can join them in theirs. The point is to start
+[forming a community](/community) that shares something you all
+enjoy for the sake
+of enjoying it. To share a bond with people partaking in similar
+interests is human nature that could transcend any profit motive. This
+way, you also have a chance [to teach others](/pedagogy) something they might
+not already know, and learn from them as well.
 
 When knowledge is made practical in this manner, the community is
 empowered to contribute to some other aspects in their lives. The
@@ -170,8 +190,8 @@ Below are just a few suggestions.
 
 1. **Donations**. Whether recurring or one-time, this is probably the
    best way to get resources. Look up crowdfunding services in your
-   area; or online like [Liberapay](https://liberapay.com/), [Open
-   Collective](https://opencollective.com/), and even
+   area; or online like [Liberapay](https://liberapay.com/),
+   [Open Collective](https://opencollective.com/), and even
    [Patreon](https://www.patreon.com/).
 2. **Affiliate and referral links**, by which I mean, linking to other
    similar groups with projects you'd like to support. This is very much
@@ -181,3 +201,8 @@ Below are just a few suggestions.
    items, materials, and/or tools that you need for the operation, might
    as well ask for those directly. Many people would be inclined to
    donate their junk if it's another person's treasure.
+4. **Tools and skills sharing**. Check among the peers if you already
+   have the tools and skills needed to get the operation running. Check
+   with your friends and family, too, if they could spare old tools to
+   be donated or sold to your cause at a discount. Look into conducting
+   workshops for skills that you can share with others.

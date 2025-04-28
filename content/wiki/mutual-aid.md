@@ -1,5 +1,5 @@
 ---
-title: "On Mutual aid"
+title: "On mutual aid"
 date: 2022-08-15
 draft: false
 ---
@@ -7,6 +7,8 @@ draft: false
 **TL;DR**: It's like a pot luck.
 Bring what you can,
 take what you need.
+
+{{< toc >}}
 
 ## Mutual aid in details
 
@@ -48,6 +50,38 @@ proximity), [community](/community), [friendship](/friendship), and conviviality
 The making of infrastructure is important. Without developing this,
 mutual aid tends to devolve into another form of charity.
 
+### With plants!
+
+Robin Wall Kimmerer, botanist and author of *Braiding Sweetgrass*, even
+offers indigenous wisdom when she argues for forming a mutual aid with
+[plants](/plants) because it "can increase the evolutionary fitness of
+both plant and animal."
+
+On this note, we know that the earth endows us with gits to sustain our
+lives, but it requires still our participation in transforming these
+gifts to something we can use or eat, and in making sure that these
+gifts exist Tomorrow.
+
+## Gift economy?
+
+Some might say that mutual aid is gift economy, although there might be
+more nuance to that.
+
+A gift is a "random" act of kindness, expecting nothing in return. Gift
+giving for the sake of it has been frequently frowned upon.
+[Capitalism](/Capitalism)/[Empire](/empire) has eroded our trust on
+fellow people that both giving and receiving gifts might feel sketchy
+for some, and yet... doesn't it feel nice? To remember and be remembered
+through gifts, no matter how big or small.
+
+Despite "expecting nothing in return," gift-giving in many cases creates a bond of reciprocity,
+not as [*utang na loob*](/dangal) (in [Filipino values](/filipino-values)) but maybe as a way
+of remembering other people in our lives, and wanting them to remember
+us.
+
+It does not feel right to make it transactional. Or to even
+commodify gifts.
+
 ## Mutual aid is different from charity
 
 On the other hand, charity---and many of its recent forms
@@ -59,5 +93,6 @@ and also makes them dependent on the caprice of the emotions
 of those who give,
 instead of having anything to give in return
 so as to motivate them to give.
-And for those on the giving end,
-it's more of a virtue signal or a way to assuage one's conscience than anything that's really sustainable from a societal perspective.
+And for those on the giving end, it's more of a virtue signal or a way
+to assuage one's conscience than anything that's really sustainable from
+a societal perspective.

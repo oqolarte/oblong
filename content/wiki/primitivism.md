@@ -4,6 +4,8 @@ date: 2023-06-13
 draft: false
 ---
 
+{{< toc >}}
+
 Anarcho-primitivism[^tal-prim] is a shorthand term for a radical current
 that critiques the totality of civilization from an anarchist
 perspective, and seeks to initiate a comprehensive transformation of
@@ -38,7 +40,7 @@ right wood to make bow and drill or fireplough to make fire.
 Unless they took with them the tools of industrial civilization,
 they would die trying to "live a life in the wild".
 
-And yet, many are still doing it. And many Indigenous cultures still
+And yet, many are still doing it. And many Indigenous [cultures](/culture) still
 exist. Also, there is a lot of middle ground between "making stone
 tools" and "living in mechanized industrial civilization".
 

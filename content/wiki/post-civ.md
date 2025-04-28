@@ -3,6 +3,7 @@ title: "Notes on Post-Civ"
 date: 2022-11-11
 draft: false
 ---
+
 Post-civilized thought[^tal-postciv] is based on three premises:
 
 1. This civilization is, from its foundation, unsustainable. In this
@@ -17,7 +18,7 @@ Post-civilized thought[^tal-postciv] is based on three premises:
    damage to reject it as a whole. It's more helpful to reject the
    *inappropriate* use of tech.
 3. It's therefore desirable to imagine and enact a post-civilized
-   culture. Think of it as [repair](/repair), but for everything,
+   [culture](/culture). Think of it as [repair](/repair), but for everything,
    including ideas. It doesn't necessarily mean wishing for
    [collapse](/collapse), but when it comes, either in One Big Event or
    in a slow steady march, the skills we learned and the communities we

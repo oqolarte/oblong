@@ -96,6 +96,5 @@ observation for it to be the better choice.
 
 - [Information Security](/infosec)
 - [Software programming](/programming)
-- [Moore's Law](/moore-law)
 - [internet](/internet)
 - [Technological Singularity](/singularity)

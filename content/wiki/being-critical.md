@@ -6,7 +6,7 @@ draft: false
 
 Participating in society while being critical of aspects of it is not
 hypocrisy. When we free ourselves from the harmful traditions of
-culture, [religion](/religion), and other big concepts used to oppress people, we can
+[culture](/culture), [religion](/religion), and other big concepts used to oppress people, we can
 begin [helping others](/mutual-aid) pursue their path to
 [education](/pedagogy) and [personal development](/personal-principles).
 

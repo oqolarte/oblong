@@ -13,8 +13,9 @@ Merriam-Webster [defines it as](https://www.merriam-webster.com/dictionary/fasci
 > severe economic and social regimentation,
 > and forcible suppression of opposition.
 
-In short, it's an ideology that says certain types of people are
-inferior.
+In short, it's an ideology characterized by extreme nationalism and
+social conservatism, the combo of which dictates that certain types of
+people are inferior.
 
 {{< toc >}}
 
@@ -51,7 +52,7 @@ two things:
 - The first casualties of fascist regimes are the minority, the
   vulnerable, and the different.
 - Perhaps, we in this modern and complicated anthropocene are capable of
-  turning into ourselves, if a shadow tyrant (i.e., someone who wants
+  turning into fascists ourselves, if a shadow tyrant (i.e., someone who wants
   power to control everyone) charming enough shows up at *just the right
   time* in our lives.
 
@@ -64,12 +65,12 @@ two things:
 2. People in fascist regimes look the other way when the state violates
    human rights, out of fear of enemies and the need for [security](/security).
 3. People are rallied against a single common enemy:
-        1. racial, ethinic or religious minorities
-        2. liberals
-        3. communists
-        4. socialists
-        5. terrorists
-        6. etc.
+    1. racial, ethinic or religious minorities
+    2. liberals
+    3. communists
+    4. socialists
+    5. terrorists
+    6. etc.
 4. Fascist regimes prioritize support for military, even when there are
    more significant domestic problems that need to be addressed.
 5. Fascist governments tend to be male-dominated with rampant sexism.

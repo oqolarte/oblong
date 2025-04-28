@@ -14,6 +14,14 @@ People now choose to have kids for different reasons, some less noble
 than others. On the other hand, there are also people who choose *not*
 to have kids for another set of reasons.
 
+Parenthood---not being one, I could only imagine how tricky and hard it
+is to be a parent. Does having offsprings limit one's freedom, or is
+this just Western thought obsessed with individualism?
+
+Perhaps to many, parenthood could be liberating in many different ways.
+It could be great [friendship](/friendship) between parents and their
+children, if only the former could treat the latter as equals.
+
 ## Problem
 
 What happens when parents treat their kids as extensions of themselves,

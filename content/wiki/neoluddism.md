@@ -101,7 +101,7 @@ know-how; personal computers and/or smartphones for students to access
 materials from the internet; etc.
 
 Yet, to graduate from college, i.e., be finally "free" and start
-working, we were forced to participate in this culture of ambition---a
+working, we were forced to participate in this [culture](/culture) of ambition---a
 recurring theme in Silicon Valley tech companies, I would find out
 later, are filled with rotten techbros---instead of people looking for
 interesting ways appropriate technology or permacomputing can affect our

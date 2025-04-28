@@ -79,7 +79,7 @@ them.
 ## On love
 
 Marriage---what is its real function other than to legally and
-financially bind two (or more, such as the case in some cultures)
+financially bind two (or more, such as the case in some [cultures](/culture))
 people? It can't be all about [love](/love) because in reality, romantic
 love [can't be sustained by a single person](/non-monogamy). It
 [d]evolves into something after some years or decades of togetherness.

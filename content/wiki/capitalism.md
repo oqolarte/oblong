@@ -12,9 +12,11 @@ math: false
 Capitalism is, whether we like it or not, a strong idea that most of us
 [are coerced to] agree on,
 [an elaborate Ponzi scheme](https://crimethinc.com/posters/capitalism-is-a-pyramid-scheme) that shapes our
-lives and the space around us, by extracting from them to feed
+lives and the space around us, extracting from us to feed
 the profit incentive---an endless growth on finite resources which, in
-reality, cannot be sustained. For those against it, we cosplay
+reality, cannot be sustained.
+
+For those against it (AKA the working class), we cosplay
 capitalism because we need to get paid to meet our needs.
 
 ## Destructive nature of capitalism
@@ -45,7 +47,7 @@ its control by status quo.
 
 ## Anti-capitalist affirmations
 
-And now, for something completely different.
+And now, litanies against capitalism.
 
 - I am allowed to spend my time creating things, even if they are not
   beautiful.

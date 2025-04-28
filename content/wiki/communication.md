@@ -8,6 +8,18 @@ Notes on tools and techniques for effective communication.
 
 {{< toc >}}
 
+## Worldly languages
+
+Learning a new language opens up new possibile ways of interacting with
+the world.
+
+"Worldly" languages often are grounded to the natural and spiritual
+worlds, which I suspect challenge how the dominant human languages
+operate.
+
+If a language treats everything a subject that can "act" (as if
+animate), would we respect the world and its inhabitants?
+
 ## Incubating ideas
 
 For a discipline to be widely adopted and then improved upon, it must be

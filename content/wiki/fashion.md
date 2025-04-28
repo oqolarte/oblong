@@ -97,7 +97,7 @@ in acquiring such items.
 This return-to-funtional is return-to-basics is a great way to remind
 myself that I'm not really impressing anyone.
 
-In some cultures, there are specific clothes for a specific context.
+In some [cultures](/culture), there are specific clothes for a specific context.
 
 ### Loungewear, examples
 

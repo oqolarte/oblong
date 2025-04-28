@@ -38,7 +38,7 @@ leads them to darker, more harmful places.
 ## Appeal
 
 I understand the appeal of traveling. Meeting new people; being exposed
-to different cultures that may be diametrically opposed to the one you
+to different [cultures](/culture) that may be diametrically opposed to the one you
 have; learning about food; seeing new places; etc---all of these are
 valid ways of making sense of the people and the world around you.
 

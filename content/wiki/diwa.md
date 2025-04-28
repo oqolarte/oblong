@@ -29,7 +29,7 @@ Diwa is often believed to be:
 - fate as grounded by human nature; and
 - the main source of all comforts in life.
 
-In many cultures, there's always something unseen or supernatural that
+In many [cultures](/culture), there's always something unseen or supernatural that
 links people together. Some examples:
 - [Red thread of fate](https://en.m.wikipedia.org/wiki/Red_thread_of_fate)
 - [Ancient Greeks' idea of soulmates](https://www.thearchaeologist.org/blog/the-ancient-greek-myth-of-soulmates-how-we-became-human)
