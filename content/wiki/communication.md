@@ -54,11 +54,12 @@ sensibilities. But also, destructive speech makes people feel like
 fools, and it turns them away from what you want to say.
 Speak clearly and with little fluff, but never simpler.
 
-### Connecting via mainstream social media
+### Connecting via mainstream [social media](/social-media)
 
-Many people who use the internet have no idea how it's
-[technology](/technology) works. And that's perfectly fine if their
-online communication is contained within Facebook or Instagram.
+Many people who use the internet have no idea how its
+[technology](/technology) works. And *that's fine* if their
+online communication is contained within their preferred platform,
+like Facebook or Instagram.
 They have other skills to share and lives to live outside of tech,
 but they also have the right to have private lives,
 [away from the surveillance of Big Tech](/infosec), whether they know about it or not.
