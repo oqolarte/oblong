@@ -19,42 +19,6 @@ The most reliable laptops on the market so far are:
 - Lenovo, or the legendary IBM, Thinkpad
 - Dell Latitude
 
-## Smartphone
-
-Meant to be taken with our person,
-smartphones, and the apps in them, are designed
-to be pocketable assistants.
-
-### Ideal Phone
-
-Inspired by [Thomasorus](https://thomasorus.com/my-ideal-phone.html),
-below is a list of specs in my ideal phone.
-I'm not sure though how likely these components would work together,
-or what I'm asking would even be possible.
-
-#### Hardware
-
-- Physical keyboard like Blackberry phones
-    - I personally use QWERTY layout, but it would be nice if the
-      keyboard layout could be remapped programmatically.
-- Small OLED *or* e-ink screen with a decent refresh rate, maybe within
-  2.5" to 3.5" range
-- A camera for scanning QR, bar codes, and maybe the occasional paper
-  document
-- Anywhere between 80 - 16GB of internal memory
-- Has a microSD slot for expanded storage
-- Anywhere between 6 - 8GB RAM
-- With 3.5mm headphone jack
-- Removable Li-Ion battery, between 1500 - 2000 mAh
-- USB-C port
-
-#### Software
-
-- [AOSP](https://www.androidauthority.com/aosp-explained-1093505/)
-- Able to make calls and texts
-- A media player, for audio and video
-- Utility apps like: Maps, Calendar, Calculator, Notes, Dictionary, etc.
-- Able to use E2EE [Signal protocol](https://en.wikipedia.org/wiki/Signal_Protocol)
 
 ## Frugal Computing
 
@@ -65,3 +29,8 @@ life of these devices. We must shift to mindset of achieving the same
 result for less energy.
 
 [READ MORE](https://web.archive.org/web/20250126100459/https://limited.systems/articles/frugal-computing/)
+
+## Other computers
+
+- [smartphone](/smartphone)
+
