@@ -7,6 +7,8 @@ draft: false
 [FFmpeg](https://ffmpeg.org/)
 is a powerful command-line tool to edit videos.
 
+{{< toc >}}
+
 ## Cut Videos and clips
 
 `ffmpeg -i [INPUT FILE] -t 8 -c copy [OUTPUT FILE]`

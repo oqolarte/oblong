@@ -3,7 +3,8 @@ title: "Social Insects on Science Fiction"
 date: 2022-09-18
 draft: false
 ---
-source: https://featherquillpen.tumblr.com/post/139547239987/social-insects-in-science-fiction
+
+Source: https://featherquillpen.tumblr.com/post/139547239987/social-insects-in-science-fiction
 
 From the buggers in Ender's Game to the Borg in Star Trek to the Vord
 in Codex Alera to ants and termites themselves from a morph's-eye view

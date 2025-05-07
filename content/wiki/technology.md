@@ -98,3 +98,7 @@ observation for it to be the better choice.
 - [Software programming](/programming)
 - [internet](/internet)
 - [Technological Singularity](/singularity)
+
+## Further reading
+
+- [Tropical Technologist](https://chias.blog/2025/tropical-technologist/) by Chia Amisola

@@ -8,10 +8,12 @@ We have a climate crisis.
 But people in power---[capitalists](/capitalism), states, [empires](/empire)---seemingly
 have no interest in preserving a healthy environment for us all.
 
-Either we're fast approaching collapse, or it has already begun and
+Either we're fast approaching collapse; or it has already begun and
 we're in a slow but unending downward spiral.
 
 {{< figure src="/image/wait-patiently.jpg" alt="A sign that has Chinese and English in it. The Chinese says '外国人来华工作许可, 系统故障,请耐心等待' while the supposed English translation below it is 'Please wait patiently for the failure of the system'" caption="" >}}
+
+{{< toc >}}
 
 ## What is collapse?
 
@@ -40,16 +42,19 @@ We won't see the end of capitalism without a [revolutionary intervention](/revol
 
 ## Live, even in the face of collapse
 
-Nothing is set in stone. All advance civilizations before ours have
+Nothing is set in stone. All advanced civilizations before ours have
 collapsed, and it won't be different this time. With so many crises
 happening, our collapse might have already started, about to happen
 soon, or still ways off depending on numerous factors, like where you
 are.
 
-But, there's nothing wrong with living. Even, per Oscar Wilde, keeping
+But, there's nothing wrong with living. Even extravagantly once in a
+while as in, per Oscar Wilde, keeping
 moderation itself in check.
 
-And while partying can be fun for many, it's [not the only way](/mutual-aid). We can live in shared housing, growing food together,
+And while partying can be fun for many, it's
+[not the only way](/mutual-aid).
+We can live in shared housing, growing food together,
 and building community. It shouldn't take escapism to not feel awful.
 
 If the walls are closing in, you have the choice to stand right in the

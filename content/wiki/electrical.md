@@ -43,3 +43,9 @@ ground. The wire used for grounding is usually black in color.
 The main difference between earthing and grounding is that earthing is
 done to protect humans and animals from electric shocks, while grounding
 is done to protect the electrical equipment from damage.
+
+## RESOURCES
+
+### YouTube
+
+- [BuddyFroi](https://www.youtube.com/@Buddyfroi23/) (Filipino)
