@@ -19,7 +19,7 @@ which means chasing happiness but remaining in the same state.
 (between 40 to 70 square meters of total floor area)
 that one, max of two, people can maintain easily.
 
-## Some short- to mid-term strategies to use
+## Some short- to mid-term strategies to consider
 
 - Keep a journal using pen and paper to document life. [Bullet journal](/bujo) has worked well for me.
 - When using the internet, [consider using RSS feed](https://aboutfeeds.com/) instead of getting
@@ -39,6 +39,7 @@ that one, max of two, people can maintain easily.
   Consider if that would also work for you.[^self]
 - Detach from roles. You are more than your job, your achievements, or
   your schedule.
+
 
 [^self]: Yes, that's *you*, Future Self.
 

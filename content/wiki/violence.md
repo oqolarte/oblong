@@ -1,27 +1,40 @@
 ---
-title: "On Violence"
+title: "On violence"
 date: 2022-08-01
 draft: false
 ---
+
+{{< toc >}}
+
+## Preamble
+
+Whatever your views on violence are, the state and its organs will
+continue using it on a massive scale. Every law is written with an
+implicit threat.
+
+## Beyond physical
+
 The domain of violence goes beyond the physical.
 
 Often, we are presented with a dichotomist view of violence vs
-nonviolence: if nonviolence plays a key role in Gandhian style
-principles and tactics, then the opposite must be true of a movement not
-committed to nonviolence; and violence must be a central and highly
-important quality of that movement.
+nonviolence:
+1. if nonviolence plays a key role in Gandhian-style principles and
+   tactics, then the opposite must be true of a movement not committed
+   to nonviolence; and
+2. violence must be a central and highly important quality of that
+   movement.
 
 But that isn't the case. In the US, the often described "violent"
-counterpart to the civil rights movement as personified by MLK would be
-something like the Black Panthers. Yes, they were committed to
-self-defense and arming their community, but violence wasn't the central
-or dominating principle of the Black Panthers. No part of community
-education or breakfast programs is inherently dependent on being a
-"violent" movement. Ultimately, labeling a movement as violent comes
-with a lot of baggage while being too vague to actually mean anything
-significant. But with the semantics discussion of particular labels
-aside, there are two quotes that I feel reflect my thoughts on the
-subject.
+counterpart to the civil rights movement as personified by Martin Luther
+King would be something like the Black Panthers. Yes, they were
+committed to self-defense and arming their [community](/community), but
+violence wasn't the central or dominating principle of the Black
+Panthers. No part of community education or breakfast programs is
+inherently dependent on being a "violent" movement. Ultimately, labeling
+a movement as violent comes with a lot of baggage while being too vague
+to actually mean anything significant. But with the semantics discussion
+of particular labels aside, there are two quotes that I feel reflect my
+thoughts on the subject.
 
 From Errico Malatesta, *Violence as a Social Factor*[^tal]:
 

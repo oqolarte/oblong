@@ -38,6 +38,6 @@ they're brought up in a [culture](/culture) that teaches them to value harmony.
 Of course, it does not happen overnight, or [violence](/violence) would
 surely erupt.
 
-## Deep dive
+## Deeper dive
 
 - [The Problem with Hierarchy](https://www.youtube.com/watch?v=iqosSdnZnsU) (Youtube)

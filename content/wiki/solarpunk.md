@@ -9,6 +9,10 @@ draft: false
 > And being stuck in this dream manifests in how it becomes dystopia
 > when we don't [put in the work in our daily lives](/prefiguration).
 
+{{< toc >}}
+
+## Intro
+
 Solarpunk started out as a movement in speculative fiction, [art](/art),
 [fashion](/fashion), and [activism](/activism) that seeks to answer and
 embody the question “what does a
@@ -58,7 +62,7 @@ in this imagined future:
 
 ## Solarpunk in the Philippine archipelago
 
-A solarpunk society in the Philippine archipelago could potentially
+A solarpunk society in [the Philippine archipelago](/pilipinas) could potentially
 thrive by leveraging the region's natural resources and favorable
 climate to support the widespread adoption of renewable energy sources
 such as solar, wind, and hydroelectric power.

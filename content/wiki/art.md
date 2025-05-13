@@ -1,13 +1,15 @@
 ---
-title: "On Art"
+title: "On art"
 date: 2023-09-21
 draft: false
 ---
 
-Remember, something as hard to define as art
+Remember: something as hard to define as art
 is all about self-expression and creativity.
 You don't always need fancy tools;
 your [imagination](/surrealism) is your most valuable asset.
+
+{{< toc >}}
 
 ## Art begets art
 
@@ -16,12 +18,11 @@ experience, to capture emotions, tell stories, and provoke thought.
 It can serve as a mirror to society, highlighting issues, values, and
 beliefs. But, art often doesn't provide clear (re)solutions to these issues.
 
-Art can inspire change, raise awareness, and ignite conversations, but
-it's usually up to individuals, communities, and societies to take
-action and find resolutions to the challenges they face. Art can be a
-catalyst for [change](/revolution),
-but it's not a substitute for the practical steps
-needed to address complex problems.
+Art can inspire change, raise awareness, and ignite conversations,
+although it's usually up to individuals, [communities](/community), and
+societies to take action and find resolutions to the challenges they
+face. Art can be a catalyst for [change](/revolution), but it's not a
+substitute for the practical steps needed to address complex problems.
 
 Being a snob, instead of actually making the effort to find ways to
 enjoy and benefit from art, removes the joy in those pieces, all in the
@@ -40,11 +41,25 @@ wouldn't be shocked if many believers of capitalism might argue that
 without the suffering it naturally causes, beautiful works might never
 have come to life. What a twisted idea.
 
-In Hazel Weakly's blog post *[The Trap of Soulless Productivity](https://hazelweakly.me/blog/soulless-productivity/)*, she puts it succinctly, "Fear and abuse and spreadsheet hacking doesn't help people be creative and share ideas[.]"
+In Hazel Weakly's blog post "[The Trap of Soulless Productivity](https://hazelweakly.me/blog/soulless-productivity/)", she puts it succinctly: "Fear and abuse and spreadsheet hacking doesn't help people be creative and share ideas[.]"
+
+In a concise essay by Abuse of Notation titled
+"[To kill an art](http://abuseofnotation.github.io/kill-art/)",
+the author extends
+the idea of capitalists killing art for profit which leads to downward
+economic trajectory; and even links it all to authoritarian tendencies
+(hyperlinks added by me):
+
+>  No one will buy willingly, so what’s left is coercion:
+>  [fascism](/fascism), wars---those are things where you have no choice
+>  but to participate (“He who is not with Me is against Me”). Until
+>  everything is destroyed. That’s why I don’t like people who don’t
+>  like art.
 
 Greater art would come if most of us aren't so desparate to get by nor
 meeting some impossible metric. To me, though, great art gets around
-money---it just can't be bought. It can only be copied, transformed, or
+and bypasses the need for money---it just can't be bought.
+Art can only be copied, transformed, or
 transmuted to influence other creations, to start a movement maybe.
 
 On that note, the greatest performance art, perhaps, is communities of
@@ -57,7 +72,8 @@ I don't know exactly, except maybe it's a human thing to express oneself
 in ways alleviate the daily struggles...?
 
 Maybe, my art does not necessarily reside in th visual aspect, but more
-on the acceptance of [chaos](/chaos) and impermanence, both of which are inherent
+on the acceptance of [chaos](/chaos) and impermanence,
+both of which are inherent
 in this universe. I get my inspiration from each. I imagine some street
 artists do the same. They have accepted these factors play into their
 art. And yet, they will still go to great lengths to place their work

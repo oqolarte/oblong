@@ -12,3 +12,4 @@ Philippines.
 - [Life in the Barrio](/rural-ph)
 - "[war on drugs](/drugwar)"
 - [Worst thing each Philippine President has ever done](/ph-presidents)
+- [Philippine Elections](/ph-elections)

@@ -24,7 +24,7 @@ Probably the common theme (so far) is: How to Survive in the Heat.
 Women in Hadramaut, Yemen wear an all black abaya
 and a conical straw sunhat called *madhalla*
 when working in the fields.
-What they're wearing is old yet effective solarpunk solution to the hot
+What they're wearing is old yet effective [solarpunk](/solarpunk) solution to the hot
 weather.
 
 A madhalla is made from plaited strips of date palm leaves,
@@ -87,14 +87,14 @@ problematic.
 
 In order for to sustain it, fashion has to be fit for purpose and needs
 to align with my lifestyle. Beyond cultural purpose, people get caught
-up in the the aesthetic side advertised in [social media](/social-media) that they end up
+up in the aesthetic side advertised in [social media](/social-media) that they end up
 thinking less about just the functional purpose of clothes. They're
 supposed to protect your body while you're out doing the things you need
 to do. So, if any piece of clothing would get in my way (like physically
 making less comfortable or restricting movement), then there is no point
 in acquiring such items.
 
-This return-to-funtional is return-to-basics is a great way to remind
+This return-to-functional is return-to-basics is a great way to remind
 myself that I'm not really impressing anyone.
 
 In some [cultures](/culture), there are specific clothes for a specific context.
@@ -111,3 +111,23 @@ In Indonesia, it’s called *baju rumah* (house
 clothes) and these clothes are worn around the house in daytime.
 
 Filipinos call this *pambahay*, literally meaning "for the house".
+
+## Fashion, as cishet man
+
+At least in my experience growing up, boys and men are told to not dress
+flamboyantly, lest they be called gay, which in a [macho-patriarchal](/patriarchy)
+society, could only mean derogatory. Moreover, in conservative Catholic
+society, homophobia is ingrained early on.
+
+Colors and prints and
+different designs are fine so long as "flashy". For example, many would
+consider floral prints on a cisgender boy/man to be flashy. (Another
+tragedy of this conditioning against flowers had been my growing away
+from them and from [plants](/plants) in general.)
+
+Piercings, even simple earings, are frowned upon.
+
+No manicures and pedicures, not even clear coat or black.
+
+This policing of what people with dicks could wear has lead to more
+boring choices for men in terms of looks and styles.
