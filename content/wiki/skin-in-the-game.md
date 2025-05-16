@@ -65,13 +65,13 @@ founders, and/or makers do not use. Few examples:
 
 - [Social media bosses never got high on their own supply](https://www.theguardian.com/media/2018/jan/23/never-get-high-on-your-own-supply-why-social-media-bosses-dont-use-social-media)
 - Bill Gates and Steve Jobs were reported to have "[banned their kids from iPads and other devices they created](https://finance.yahoo.com/news/hidden-side-steve-jobs-bill-165424007.html)."
-- Of course, drug pushers literally don't get high on their own supply.
+- Of course, some drug pushers choose not to get high on their own supply.
 
 On choosing citizenship, the author shares his choice to pledge
 allegiance with the USA, and how being an American "became [his]
 identity, good or bad, tax or no tax." I can't help but compare this
 with a friend of a friend, whom I will just call here Dong. Dong is an
-American who has lived here in the so-called Philippines for many
+American who has lived here in the [so-called Philippines](/pilipinas) for many
 decades now. To be fair with him, he speaks conversational Tagalog and
 Cebuano, his own commitment to being with the local peoples. But when
 finally asked about his passport, Dong admits that he doesn't want to

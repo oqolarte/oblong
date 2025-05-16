@@ -10,19 +10,40 @@ Each paragraph can be considered a self-contained note.*
 
 {{< toc >}}
 
-## Main thesis
+## MAIN THESIS
 
 Some systems gain, instead of lose, in a nonlinear way from disorder.
 These systems are antifragile. One might initially think they are
 resilient, but resilience implies only withstanding or surviving the
 stressor and not gain from it.
 
-## Reflections
+## Doing by learning
 
 Learning things and building to a level of resilience requires practice.
 Action trumps thinking alone. **Practice over theory**. On the flip
 side, words are scalable, and through them we can share knowledge across
 generations and spanning large distances.
+
+### Dogfooding
+
+To have integrity, one must eat one's own cooking. Software developers
+even call this
+[dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food),
+or "eating your own dog food,"
+that is, the practice of using one own's services, or in lay terms,
+believing *and* doing what one says and/or endorses. Taleb goes a
+bit further when he puts his ideas on antifragility and black swans:
+"Compromising is condoning." This is a bold statement which I don't
+necessarily agree with. In a world that is largely gray areas and middle
+grounds, [building better relationships](/friendship) with people often
+means meeting them halfway. Of course, there are many instances where we
+cannot compromise, like we certainly don't want to enable harm-doers.
+
+### Stochastic tinkering
+
+[Stochastic tinkering](https://cleanlanguage.com/stochastic-tinkering/) is
+discovering something new that you don't intend
+to, and using it anyway to carry on with the search/experiment.
 
 ## Black swan
 
@@ -40,17 +61,28 @@ amount" of [disorder](/chaos),
 it will make all things affected antifragile,
 except the empire---the [empire](/empire) will fall.
 
-If most of history comprise
-black swans, how useful is it to create routines? Shouldn't we all start
+If [most of history](/human-history) comprise black swans,
+how useful is it to create routines? Shouldn't we all start
 vibrating in random directions until we toughen up?
 
-## Ethics of risk-taking
+## Ethics
+
+Taleb advises, "One should give more weight to witnesses and opinions
+when they present the opposite of a conflict of interest." On this line
+of thinking, I'm thinking of a few examples: listen only to "economists"
+who know that economics is useless; and lawyers who are not only
+self-aware of their need to lie but uses that privilege to punch up.
+More respect also goes to artisans, creators, producers, makers, who
+*encourage* the public to pirate their works.
+
+### Ethics of risk-taking
 
 Ethics of risk-taking: One shall not have antifragility at the expense
 of the fragility of others.
 
 In the modern iteration of *progress*, what are we sacrificing, or
-giving away, or [destroying](/destruction) in its name? If progress would require a
+giving away, or [destroying](/destruction) in its name?
+If progress would require a
 rainforest be razed flat to make way for farmlands or data centers,
 then have we really progressed? If so, on whose metrics?
 
@@ -71,23 +103,6 @@ the benefits? Some example/s:
 
 Ignorance is a key human trait we could harness and be proud of to deal
 with life's uncertainty. It *is* okay to not know everything.
-
-To have integrity, one must eat one's own cooking. Software developers
-even call this
-[dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food),
-or "eating your own dog food,"
-that is, the practice of using one own's services, or in lay terms,
-believing *and* doing what one says and/or endorses. Taleb goes a
-bit further when he puts his ideas on antifragility and black swans:
-"Compromising is condoning." This is a bold statement which I don't
-necessarily agree with. In a world that is largely gray areas and middle
-grounds, [building better relationships](/friendship) with people often
-means meeting them halfway. Of course, there are many instances where we
-cannot compromise, like we certainly don't want to enable harm-doers.
-
-[Stochastic tinkering](https://cleanlanguage.com/stochastic-tinkering/) is
-discovering something new that you don't intend
-to, and using it anyway to carry on with the search/experiment.
 
 The fragility of large systems (e.g., big corporations) which many
 people have come to rely on for daily tasks puts its dependents as
@@ -263,15 +278,22 @@ having [financial independence](/personal-finance/#financial-independence)--- to
 
 [Fringe ideas and ideologies](/politics) grounded in the daily life are
 antifragile because they are capable to be widely adopted yet no one
-central authority is enforcing people to adopt these.
-Even Taleb cites [modern] prophets being antifragiles. As Naomi Klein
-explores in her book *Doppelganger*, we can glean this from Naomi Wolf,
-who was constantly deplatformed in major [social media](/social-media) sites like Twitter;
-and yet she was still able to increase her following through spreading
-alarmist misinformation via alternative sites that *did* give her
-platform. Before she was reinstated to Elon Musk's Twitter/X, her ideas
-had to survive elsewhere. She has become a negative prophet for the
-alt-right of US.
+central authority is enforcing people to adopt these. Even Taleb cites
+[modern] prophets being antifragiles. As Naomi Klein explores in her
+book *Doppelganger*, we can glean this from Naomi Wolf, who was
+constantly deplatformed in major [social media](/social-media) sites
+like Twitter; and yet she was still able to increase her following
+through spreading alarmist misinformation via alternative sites that
+*did* give her platform. Before she was reinstated to Elon Musk's
+Twitter/X, her ideas had to survive elsewhere. She has become a negative
+prophet for the alt-right of US.
+
+Related: beware of
+[**schismogenesis**](https://en.wikipedia.org/wiki/Schismogenesis) when
+learning from mistakes of one's negative role model/s. The desire to be
+as unlike the model as possible could take on to extreme positions,
+i.e., fragile positions. Perhaps, consider learning also from shared
+ground.
 
 It is okay to not be smart. Being smart is overrated. Better: don't do
 unintelligent things, especially those that might cause harm to you or
@@ -413,12 +435,4 @@ Is something worth having? One metric to check is if it has marketing,
 or it is heavily advertised. If so, it's likely a bad product or
 service, or is made/produced/shipped unethically, or both!
 
-## Ethics
 
-Taleb advises, "One should give more weight to witnesses and opinions
-when they present the opposite of a conflict of interest." On this line
-of thinking, I'm thinking of a few examples: listen only to "economists"
-who know that economics is useless; and lawyers who are not only
-self-aware of their need to lie but uses that privilege to punch up.
-More respect also goes to artisans, creators, producers, makers, who
-*encourage* the public to pirate their works.

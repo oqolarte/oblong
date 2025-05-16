@@ -49,6 +49,7 @@ For more details,
 look for Vertical Soak Diffusion method in this article,
 [Treating Bamboo In Your Backyard](https://bamboou.com/treating-bamboo-in-your-backyard/).
 
-## Further reading
+## Further resources
 
 - [Some list of bamboo species from Carolina Bamboo Garden](https://carolinabamboogarden.com/bamboo-species-list/)
+- [Bamboo dome shelter](https://www.archdaily.com/93922/bamboo-structure-project-pouya-khazaeli-parsa), designed by Iranian architect Pouya Khazaeli Parsa

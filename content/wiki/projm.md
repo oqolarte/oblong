@@ -6,6 +6,8 @@ draft: false
 
 A project is a vow that must be done by those who agree to engage in it.
 
+{{< toc >}}
+
 Project management is the process of completing a set of goals
 within constraints, usually time, budget, and quality.
 
@@ -22,8 +24,17 @@ with its goals, principles, direction, and priorities.
 ## Common Process Groups
 
 1. Initiating
-2. Planning -- is a stage in which the Universe
-will always conspire against everything that's been set up.
-4. Executing
-5. Monitoring and Controlling
-6. Closing
+2. Planning -- is a stage in which the Universe will always conspire
+   against everything that's been set up.
+3. Executing
+4. Monitoring and Controlling
+5. Closing
+
+## Problem solving
+
+If simple and affordable solutions could work and its positive results
+are obvious and can be felt, then it should be [communicated](/communication)
+to the shareholders as simple as possible, but not any simpler. We can
+worry about technicalities later on. For those who would want to know
+more details, make sure that they are informed that such information can
+be accessed (and sure that it *is* accessible!).

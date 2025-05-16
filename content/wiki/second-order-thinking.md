@@ -6,7 +6,7 @@ draft: false
 
 {{< toc >}}
 
-## Start with an example
+## Let's start with examples
 
 Consider the fence described by G. K. Chesterton:
 
@@ -23,6 +23,10 @@ If a fence exists, there's a reason for it.
 Not necessarily a good or logical one,
 but a reason nonetheless.
 
+Here's another example from agriculture: spraying insecticides might
+increase the crop yield in a farmland by killing the pests. But it might
+also kill other creatures, like fish and frogs, which [some people in rural areas](/rural-ph)
+
 ## To effect or not to effect change?
 
 Before trying [to change existing systems](/revolution),
@@ -31,13 +35,19 @@ Also ask what would be the consequence of the consequence
 (second order, you might say)
 of our actions, [attempts of intervention](/iatrogenics).
 
+To implement change, be aware of the sociological implications. It is
+hard, but it is more possible to do by spending time with the people
+which the proposed change would affect. Let them have say in it, have
+stake in it.
+
 If action is inevitable, consider taking small steps. Small steps done
 consistently are easier to reverse in case there is an unforeseen,
 unwanted effect or mistake; and they are more likely to be adopted by those
 affected.
 
 [Uncertainty being a function of time](/chaos), we must take this into
-consideration when planning for any action that would cause change. We
+consideration when planning. We
 cannot predict the future, but we know for sure that it is full of
 surprises that we don't know we don't know. Put
-simply, allot for the largest wiggle room possible.
+simply, allot for the largest wiggle room possible and be open to the
+possibility of pivoting to new solutions.

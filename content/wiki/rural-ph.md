@@ -5,9 +5,8 @@ draft: false
 math: false
 ---
 
-Here are my notes and reflections on reading Juan M. Flavier's book
-[*My Friends in the Barrios*](/260/#brief-review-of-my-friends-in-the-barrios).
-
+Here are my notes and reflections on reading Juan M. Flavier's books
+[*My Friends in the Barrios*](/260/#brief-review-of-my-friends-in-the-barrios) and *Doctor to the Barrios*.
 
 {{< toc >}}
 
@@ -16,6 +15,17 @@ Here are my notes and reflections on reading Juan M. Flavier's book
 The simpler philosophy in rural life does not mean it is any less deep.
 When juxtaposed with urban "complexity" and modernity, the contrast
 reveals wisdom we might have been taking for granted.
+
+## Basic project requirements
+
+[Before introducing changes](/second-order-thinking) and possibly fail miserably,
+four basic requirements must be met [for a project to be successful](/projm)
+in a barrio
+
+1. It must be simple.
+2. It must be affordable.
+3. It must be relevant and has practical uses.
+4. It must be duplicable.
 
 ## On farming as business/endeavor
 

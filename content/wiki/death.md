@@ -32,8 +32,9 @@ thousands, millions of times unless it becomes apparent that inaction
 only induces pain.
 
 [The act of committing] suicide is a hard choice to make, I would
-imagine, but it grants one final moment of agency. And that is all
-that matters when things get super gnarly and the oppressors would not
+imagine, but it grants one final moment of agency.
+And [that is all that matters when things get super gnarly](/nihilism)
+and the oppressors would not
 stop until they have picked the bones clean.
 
 ### Choosing Life
@@ -53,3 +54,7 @@ for this but here goes:
 - Chester Bennington
 - Anthony Bourdain
 - Grant Imahara
+
+## Further reading
+
+- [Is Death Bad for You?](https://web.archive.org/web/20160317173835/http://chronicle.com/article/Is-Death-Bad-for-You-/131818/) by Shelly Kagan

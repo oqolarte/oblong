@@ -94,3 +94,24 @@ beliefs are not the same as ours.
 
 Sometimes, talking just doesn't work. *What if* beating up an abuser is
 also part of the necessary collective healing process?
+
+## Participation of community
+
+In the book *The Dawn of Everything*, authors David Graeber and David
+Wengrow talks about the
+[Wendat](https://en.wikipedia.org/wiki/Wendat_Nation)'s justice system:
+the culprit's entire clan pay compensation, so that everyone would keep
+their kindred in check. "If a Huron had killed an Algonquin or another
+Huron, the whole country assembled to agree the number of gifts due to
+the grieving relatives..."
+
+In the the democratic governance of the Wendat and Five Nations of
+Haudenosaunee, there is a lack of compulsion to obey laws; and yet they
+still have a functioning society. It must mean that people regularly
+engage in reasoned debate, persuasive arguments, and social consensus to
+make basic societal functions work. That is to say, a rule must make
+complete sense to people so that it would be easier for them to follow
+it. They use persuasiveness to establish order. This has resulted in
+many members being good arguers and debaters. Being persuasive means
+using logical reasoning, but also appealing to sentiments, employing
+humor and irony, etc.

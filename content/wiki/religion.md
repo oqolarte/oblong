@@ -52,6 +52,16 @@ This lack of clarity [leaves room for *a lot* of interpretation](/surrealism) fo
 of them to take advantage of other people's yearnings to put themselves
 into positions of power.
 
+## Christianity
+
+In the book *The Dawn of Everything* by David Graeber and David Wengrow,
+they talk about [Kondiaronk](https://en.wikipedia.org/wiki/Kondiaronk),
+a statesman of Wendat Nation in 17th Century Canada, who had dissed
+Christianity and its hundreds of sects splintering into their own paths
+of so-called truth. How can a god, all-knowing and all-powerful, would
+willingly take on misery in the flesh, to save a single species, only
+some of which were going to be rescued from hell?
+
 ## Good religion?
 
 If your faith is compatible with the end goals of [revolution](/revolution),
@@ -73,3 +83,4 @@ it all depends on the individual's discipline and austerity. All this
 does not factor in the external factors beyond one's control, like bad
 luck, bad employers exploiting their labor, or bad economy, the pull of
 all of which is *very* hard to escape.
+

@@ -54,3 +54,9 @@ To be prepared for the worst but determined to not let it ruin the daily
 life---this is a grounded hope that I want to have if I ever found
 myself in survival mode. It's like packing emergency go-bags but making
 room for the favorite blanket.
+
+## On wealth
+
+Wealth and comfort is relative. But glutton can be seen and judged by
+how everything around it behaves, like observing a black hole as it
+sucks in the light and distorts its environment.

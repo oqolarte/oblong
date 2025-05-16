@@ -154,3 +154,25 @@ influence long before colonialists and conquistadors were beached on
 their shores. The phrase "noble savage" did not mean nobility, but
 French observers used this term on men who did the hunting and fishing,
 which, in France, were things only noblemen did.
+
+## Multifaceted human politics
+
+Humans are very much alike, down to the DNA level. Even our
+ancestry---Africa, from which modern humans first appeared---is the
+same. But the slightest perceived difference has led to all sorts and
+degrees of suffering and [violence](/violence).
+
+It is true that we have the instinct to dominate or subjugate others,
+like many other primates and animals. But what makes us human is our
+ability *to choose NOT to*. Christopher Boehm further explains this idea
+of [humans as political animals](/politics): "The ability
+to [ruminate on possible futures](/prefiguration)
+that a society can have, make explicit arguments why it should take one
+path over another...[t]his makes us humans 'political animals.'
+Extending that, we can say the the personal indeed is political.
+
+If we do not underestimate what tens of thousands of years mean in
+[Upper] Paleolithic Period, we could imagine that pockets of human
+societies across time and global space, have been exploring different
+social arrangements, and that we are not just stuck to being either
+inherently hierarchical or innately egalitarian.

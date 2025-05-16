@@ -4,9 +4,13 @@ date: 2023-02-28
 draft: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 These are general guiding rules which
 I aim to apply when making decisions.
-Hopefull they help me:
+Hopefully they help me:
 
 - Make better decisions faster.
 - Reduce anxiety when deciding what to do.
@@ -26,12 +30,12 @@ Hopefull they help me:
 - Context matters.
 - Think before I do and/or speak.
 - Seek to understand others rather than passing shallow judgement.
-- [Teach](/pedagogy) through actions.
+- Don't stop learning.
+- Learn by doing; [teach](/pedagogy) by showing.
 - [Minimise the suffering of living things](/veganism).
 - Treat others like I would want to be treated.
 - [Don't hurt the environment.](/social-ecology)
 - Base my decisions on the [best available evidence](/data-management).
 - Admit when I don't know something.
 - [Keep my body and mind in shape](/health).
-- Don't stop learning.
 - [Weird is good](/surrealism).

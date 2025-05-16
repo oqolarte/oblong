@@ -22,16 +22,24 @@ What are we capable of doing individually? Collectively? We won't know
 until we try and try again.
 
 Privatized patriarchal nuclear family is an expensive way to live.
-Sharing resources with the community always has been te norm in many
+Sharing resources with the community always has been the norm in many
 societies around the world. Research by anthropologists and sociologists
 indicates that privatized units (e.g., families) are unhealthy for
 everyone.
+
+Even if, for some reason, you "hate other people," you don't
+have to like or love everyone to be in community with them. Neighbors
+can work still work together in, say, calamaties for better survival,
+but it's not necessary to have dinner with them regularly.
+And if we want to be more pedantic, a community can be as small as two
+people who deeply care for each other.
 
 Atomizing of spaces such that being an individual, or worse, being
 alone, is highly preferred over socializing leaves many people
 susceptible to emotional pain.
 
-Selfishness causes [romantic] relationships fail. It might also be the
+Selfishness causes relationships (including romantic ones) fail.
+It might also be the
 cause why other relationships with communities fail. When we only think
 of ourselves, society crumbles. One way to reverse this is
 [to be generous in sharing what we have.](/mutual-aid)

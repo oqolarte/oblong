@@ -51,4 +51,6 @@ fully this way?
 
 ## Further reading/s
 
-[Relationship Anarchy. Dreaming in the belly of the whale.](https://catileptic.tech/posts/relationship-anarchy/)
+- [Relationship Anarchy. Dreaming in the belly of the whale.](https://catileptic.tech/posts/relationship-anarchy/)
+- [How to fuck](https://buttondown.com/monteiro/archive/how-to-fuck/) by
+  Mike Monteiro

@@ -12,6 +12,23 @@ won't be needed again ever.
 
 {{< toc >}}
 
+## How laws can be destructive
+
+Laws (both coercive and punitive) are created to protect money, private
+property and property rights, and the resultant pursuit of material
+self-interest---all of which when extracted or taken from the commons
+(usually in a destructive, violent way) and the fruits of which are not
+shared back to the community, will result in greed and hunger for power.
+This is because hoarding of wealth would grant the owner control over
+others, but not without gaining the risk of instability, perhaps in the
+form of envy. It is because of this risk that maintaining and growing
+wealth is a negative feedback loop, which at one point must necessarily
+collapse at the expense of many lives.
+
+While we criticize the need for laws (institutionalized), that is not to
+say that we don't need rules (fluid, not necessarily set in stone,
+community-led).
+
 ## On prisons
 
 Prisons as they exist now are crimes against humanity, designed to
