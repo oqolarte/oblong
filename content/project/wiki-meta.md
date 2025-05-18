@@ -36,8 +36,6 @@ This write-up assumes the following that the reader:
 - is interested in sharing their PKM (i.e., in the form of VimWiki) to
   the public via their website
 
-With that, read on.
-
 {{< btt >}}
 
 ## Markdown experience for your wiki
@@ -241,3 +239,7 @@ accessible to me (via offline PKM).
 
 At this point, when you generate your site using `hugo` command, your
 wiki should now be included and is ready to be published online.
+
+## BONUS: Vimwiki on-the-go with Markor and Syncthing
+
+Edit notes on your Android smartphone by using [Markor](https://github.com/gsantner/markor), a FOSS markdown editor, and [Syncthing](https://syncthing.net/) to sync the notes between phone and computer.
