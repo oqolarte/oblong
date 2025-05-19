@@ -17,6 +17,14 @@ beliefs. This is just the nature of debate.
 What could be the ways to meet people in the middle? Or should we even
 try if they themselves show no signs of listening from us?
 
+## How not to debate
+
+Telling people who don't align with your views they are "bad" or "idiot"
+will not change their mind.
+
+Showing them how they are receiving thousands of little cuts from their
+belief/views/opinions, on the other hand, might sway them.
+
 ## Is the point learning from each other?
 
 Some people with extreme views, most of the time, want to prove themselves

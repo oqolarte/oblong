@@ -55,3 +55,18 @@ For example, how plausible is it to travel *frugally*:
 - as person with disability?
 
 As we imagine more accessible and inclusive ways of [getting from point A to B](/transpo)
+
+## Travel wishlist
+
+Some places that I want to visit.
+
+- Japan
+    - [KIRAKUYA](https://kirakuya.co.jp/shoplist/ichikawa)[^kirauya-coordinate],
+      a second-hand hardware shop. Paolo fromTokyo showcases this in
+      YouTube video "[A Typical Workday at a Japanese Hardware Tool Store](https://www.youtube.com/watch?v=A98jyfB5mws)"
+    - Stationery shop/s
+- Vietnam
+    - Hanoi
+
+
+[^kirauya-coordinate]: 35.70558278957751, 139.9518208107461

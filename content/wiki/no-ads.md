@@ -62,6 +62,10 @@ journal to do just that.[^ad2]
 [^ad1]: CrimethInc. (1996). *Selling Ourselves Out*. The Anarchist Library. https://theanarchistlibrary.org/library/crimethinc-selling-ourselves-out
 [^ad2]: Dayen, D. (2021, July 7). Juul: Taking Academic Corruption to a New Level. The American Prospect. https://prospect.org/health/juul-taking-academic-corruption-to-new-level/
 
+Best: Appeal to the morale. Look into some progressive movements for
+niche. Market to them; make it seem that your wanting to extract profit
+for them is "giving them representation," whatever that means.
+
 ### All ads pollute.
 
 We waste resources---human hours (including attention),
