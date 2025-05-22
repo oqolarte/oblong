@@ -79,7 +79,7 @@ these things might not be enough to stop or slow the broader
 [collapse](/collapse), random acts of kindness matter for the person
 (both humans and non-humans) and plants that you helped to overcome an
 obstacle. In fact, kindness can be a form of disobedience, one that
-subverts the ideals of capitalism, of nationalism, of fascism, of
+subverts the ideals of [capitalism](/capitalism), of [nationalism](/nationalism), of [fascism](/fascism), of
 militarism, and of sexism; and anyone can be kind!
 
 Neoliberal individualism "empowers" a person to be responsible for their

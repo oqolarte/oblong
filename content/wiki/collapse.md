@@ -25,7 +25,7 @@ most likely [chaotically](/chaos),
 and be willing or unwilling.
 It does not necessarily mean extinction or a singular, global event.
 In fact, many believe a more accurate depiction would be
-"an slow and steady, yet endless, decline of society as we know it today."
+"a slow and steady, yet endless, decline of society as we know it today."
 [Whether we are prepared for this disaster](/drrm) is another thing to be
 addressed.
 

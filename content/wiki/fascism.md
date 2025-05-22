@@ -13,7 +13,7 @@ Merriam-Webster [defines it as](https://www.merriam-webster.com/dictionary/fasci
 > severe economic and social regimentation,
 > and forcible suppression of opposition.
 
-In short, it's an ideology characterized by extreme nationalism and
+In short, it's an ideology characterized by extreme [nationalism](/nationalism) and
 social conservatism, the combo of which dictates that certain types of
 people are inferior.
 

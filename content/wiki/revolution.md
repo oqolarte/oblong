@@ -13,7 +13,7 @@ We're not waiting for someone to start a revolution, but
 the transformation out of [capitalism](/capitalism) is already underway.
 
 There are people still living today
-who were born before the rise of nationalism
+who were born before the rise of [nationalism](/nationalism)
 and the creation of immigration controls.
 
 From an anthropological perspective,

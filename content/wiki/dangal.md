@@ -5,7 +5,7 @@ draft: false
 math: false
 ---
 
-*Notes below are taken when I read the research book of [F. Landa Jocano](https://en.wikipedia.org/wiki/F._Landa_Jocano),
+*Notes below are seeded from the book of [F. Landa Jocano](https://en.wikipedia.org/wiki/F._Landa_Jocano),
 a Filipino anthropologist.*
 
 {{< toc >}}
@@ -26,5 +26,7 @@ The dominant norms of dangal are:
 - *utang na loob* (debt of gratitude, moral obligation) is a sense of
   reciprocal social obligation. One is expected to pay back the help
   they received, which when abused becomes wrong, as it leads to graft
-  and corruption. It is mutual aid that creates solidarity among
-  interacting people.
+  and corruption. This way of expressing gratitude is a radical act in a
+  society that constantly urges us to consume, and take, take, take. It
+  is [mutual aid](/mutual-aid) that creates solidarity among interacting
+  people.

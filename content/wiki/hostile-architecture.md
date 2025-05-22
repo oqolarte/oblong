@@ -5,6 +5,10 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
+## What is it?
+
 One bright day, we were traveling along EDSA---Epifanio de los Santos
 Avenue, one of the main highways in Metro Manila, along which, buildings
 of various shapes and sizes stand---when I saw a closed-down building
@@ -25,3 +29,9 @@ chairs for tire people. The floor is not the ideal resting place for
 many of us, especially people with limited mobility; and even if one
 could sit on floor, not only is it not dignified, it's also prohibited
 in some places because doing so is deemed loitering.
+
+## Real world examples
+
+![A metal bench with a handle in the middle; back rests face opposite directions on each half of bench](/image/hostile-archi-01.jpg)
+
+Found somewhere in Bonifacio Global City, Taguig City, on 14 MAY 2025

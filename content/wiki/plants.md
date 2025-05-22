@@ -1,5 +1,5 @@
 ---
-title: "Plants, fauna, and botany"
+title: "Plants, flora, and botany"
 date: 2025-02-20
 draft: false
 math: false
@@ -70,6 +70,33 @@ through mechanisms that plants use. Robin Wall Kimmerer, botanist and author of
 > manufacture defensive chemicals... There is so much we cannot yet
 > sense with our limited human capacity. **Tree conversations are still
 > far above our heads.**
+
+## The Three Sisters
+
+Robin Wall Kimmerer, botanist and author of *Braiding Sweetgrass*, talks
+about the "Three Sisters" whom the Native Americans have cultivated:
+corn, beans, and squash, all working together. Incidentally, they sprout
+from the ground in that order.
+
+Firstly, corn makes light available and provides the structure for when
+the vines of the beans start climbing up via circumnutation. Secondly,
+beans transform the nitrogen from the atmosphere into usuable plant food
+in ground, and share it among the sisters (and other creatures). This is
+done with the help of *rhizobium* bacteris in the beans' roots. Finally,
+the squash will stay low, and its broad leaves will shelter the base of
+corn and beans, keeping moisture in, and other plants and weeds out.
+
+As food, the three sisters also work well, nutrition-wise. Corns are
+great starches and carbohydrates. Beans are high in protein. Squash
+provide the vitamins.
+
+Kimmerer provides a great analogy for Three Sisters, in terms of what
+each sister could symbolize in our life:
+
+- The corn represents [traditional ecological knowledge](/social-ecology). It has risen first and provided a structure to our social arrangements.
+- The bean represents science and [technology](/technology), always
+  developing and innovating to improve our ways of living.
+- The squash represents ethics that provides for mutual flourishing.
 
 ## Further reading
 

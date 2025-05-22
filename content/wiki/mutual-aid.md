@@ -57,6 +57,11 @@ offers indigenous wisdom when she argues for forming a mutual aid with
 [plants](/plants) because it "can increase the evolutionary fitness of
 both plant and animal."
 
+The agricultural revolution, Kimmerer suggests, is a mutual taming
+between plants and humans: plants learned to bear more edible fruits for
+humans as humans learned to take care and shape the surroundings with
+the aid of plants.
+
 On this note, we know that the earth endows us with gits to sustain our
 lives, but it requires still our participation in transforming these
 gifts to something we can use or eat, and in making sure that these
@@ -80,7 +85,8 @@ of remembering other people in our lives, and wanting them to remember
 us.
 
 It does not feel right to make it transactional. Or to even
-commodify gifts.
+commodify gifts. Humans have the gift *and* responsibility to be
+grateful which could start a cycle of reciprocity.
 
 ## Mutual aid is different from charity
 

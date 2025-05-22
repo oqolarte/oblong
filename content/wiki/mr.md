@@ -205,3 +205,7 @@ Brand salience - being remembered by consumers
 Sample accurately reflects the characteristics of the population.
 
 SOV (share of voice) - measures the investment in your placement; share in the noise
+
+## Related reading
+
+https://www.schneier.com/blog/archives/2025/05/more-ais-are-taking-polls-and-surveys.html
