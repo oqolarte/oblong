@@ -20,16 +20,6 @@ everything in between, housed in a barely-formatted website.
 : likes writing, and people, and maybe writing about people, that maybe
 gut-punches the reader, but not in a horrible way.
 
-[Drew DeVault](https://drewdevault.com)
-: is a developer, probably most known for coming up with Sway window
-manager, who also has important (controversial?) political takes related
-to [FOSS](/foss).
-
-[Ethical Network](https://ethical.net)
-: looks for ways to make the "ethical the new normal," either by
-recommending
-more sustainable laptops or by de-googling one's lifestyle.
-
 [False Knees](https://falseknees.tumblr.com/)
 : is an Art Tumblr, containing mostly webcomics about birds.
 

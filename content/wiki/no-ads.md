@@ -9,21 +9,23 @@ draft: false
 ## Intro
 
 > Here's for you, marketing agents, with thy doggone tongues:
-> may maggots devour into your quota, your daily woes.
-> You consult the clinical behaviours,
-> wipe clean the tiles with dirt-stained corpo fabrics meant to patch the holes
+> may maggots eat into your quota, your daily woes.
+> You consult clinical behaviors,
+> wipe clean the tiles with dirty corpo suits meant to patch holes
 > in our shirts. Somehow, you get to decide whether you are having any of that,
-> which I can acknowledge as excreta worth flushing down the drain.
+> which I can only see as excreta worth flushing down the drain.
 >
 > -- Millenial, circa 2018
 
 People, most of us anyway, don't go out of their way and say, "Please,
-give us more ads!" No, everyone (except marketers) hates ads, especially
+give us more ads!" Everyone (except marketers) hates ads, especially
 when they are obtrusive, distracting, and nonsensical---and all of them
-are. We don't care if tomorrow they would cease to exist. They belong
+are.[^rik] We don't care if tomorrow they would cease to exist. They belong
 nowhere. São Paulo, Brazil believes in it so much, that they decided to
 remove all billboards in their city through their Lei Cidade Limpa
 (Clean City Law).[^sp1][^sp2]
+
+[^rik]: Well, except this one friend from college who doesn't mind seeing the occasional ads in his feeds because the algorithmic social media give him "ideas for possible DIY projects." But even this is an outlier.
 
 [^sp1]: “Clean City” São Paulo says no to visual pollution, bans public advertising for a cleaner, more serene environment | WcP Blog. (n.d.). https://web.archive.org/web/20100206141515/http://www.worldculturepictorial.com/blog/content/clean-city-sao-paulo-says-no-visual-pollution-bans-public-advertising-cleaner-more-serene-environment
 

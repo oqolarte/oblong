@@ -100,3 +100,7 @@ as a tool of state to impose its authority.
 
 Authoritarian regimes almost always have the military at their disposal.
 Such regimes tend to have higher poverty rates.
+
+## Related reading
+
+- [The Images of Empire](https://ykhong.substack.com/p/the-images-of-empire)

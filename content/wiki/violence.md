@@ -106,6 +106,16 @@ if you're a great gunslinger, it won't mean anything if you're cornered
 by the government. But if you have people to rely on, then you don't
 even need to be the best fighter and you're already safer.
 
+YK Hong meditates on this on their post, "[Already Ready When They Come for You](https://ykhong.substack.com/p/already-ready-when-they-come-for)" (emphasis reproduced from original):
+
+> James Baldwin writing to Angela Davis, “**if they take you in the
+> morning, they will be coming for us that night**” is the truth...
+> Notice there was no “because” in Baldwin’s statement. Instead, as I
+> understand it, it is that by the time they come for me, they have
+> already come for you. **When they come for anyone, everyone should
+> already be fighting back. By the time they come for the first person,
+> everyone should already be ready.**
+
 An essential part of a social [revolution](/revolution) will be the
 building of dual power and [mutual aid](/mutual-aid) as a means of
 resisting state and capitalism, and it wouldn't be effective to just get
