@@ -66,8 +66,8 @@ Thanks to entropy, nothing is fully maintenance-free, and things
 eventually break down. But we can fight it; repair and maintenance is a
 battle against entropy.
 
-Home has always been the first repair shop that we know. But modern
-conveniences brought by consumerism has turned it into a de-skilling
+Home has always been the first repair shop that we know. But
+[modern conveniences](/convenience) brought by consumerism has turned it into a de-skilling
 center as well.
 
 The ability to maintain, thus, is helpful in

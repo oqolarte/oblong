@@ -214,3 +214,4 @@ More terms in the
   Machine in the first place?'"
 - OPINION: [stop studying cybersecurity](https://maia.crimew.gay/posts/please/) because of [maia arson crimew, an investigative journalist and hacktivist]
 - [Hack Back](https://theanarchistlibrary.org/library/subcowmandante-marcos-hack-back)
+- "[Stop trying to fix the user](https://www.schneier.com/wp-content/uploads/2016/09/Stop-Trying-to-Fix-the-User-IEEE-SP.pdf)" (PDF) by Bruce Schneier, in whichhe argues that security and usability should not have to be on the opposite ends of the spectrum.

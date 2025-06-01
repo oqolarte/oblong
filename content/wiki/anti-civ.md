@@ -28,7 +28,7 @@ The answer is simple; tried
 and tested for millennia. People would feed themselves instead of
 expecting others to labor to feed them; an entitlement that arose with
 industrial civilization. People would be inclined to protect the forests
-instead of bulldozing them for the supposed convenience of industrial
+instead of bulldozing them for the supposed [convenience](/convenience) of industrial
 food production if they picked their food directly from those forests
 everyday.
 

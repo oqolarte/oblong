@@ -19,7 +19,7 @@ Usually very clean and dry.
 ### Ethyl alcohol
 
 Higher polarity, so its solvent ability is different,
-and more towards that of water.
+and more towards that of [water](/water).
 Speaking of water, this also causes ethanol to absorb more of it,
 and common store grades are between 80-95%,
 the remainder being water.

@@ -13,7 +13,7 @@ In this essay, I talk about my personal experience using FOSS, how it
 affects my regular choices when obtaining a new piece of technology,
 when going about my daily life, and how it might (or might not) affect
 the society at large, especially if it is to be pitted against the
-"convenience" delivered by Big Tech products and services, all within
+"[convenience](/convenience)" delivered by Big Tech products and services, all within
 the context of where I live in, the so-called Philippines.
 
 ## Niche as function

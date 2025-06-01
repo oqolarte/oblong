@@ -26,7 +26,7 @@ them to take over the accounts of high-profile users, including
 politicians, celebrities, and entrepreneurs.
 
 [Attackers](/threat-actor) also exploit the fact that more and more
-people are choosing convenience over [privacy](/privacy) and
+people are choosing [convenience](/convenience) over [privacy](/privacy) and
 [security](/security). This shift in preference may lead to increased
 vulnerability, if people do not examine the tools or services they are
 using well enough.

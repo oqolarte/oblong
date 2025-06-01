@@ -43,7 +43,7 @@ As advised by a formerly homeless person:
   resealed? Can it be squished so much that it becomes difficult to eat
   or extremely messy? Does it require silverware?
 - Don't give things that need a stove, oven, or refrigeration to be
-  edible. Needing to add hot water (like for ramen cups) is usually
+  edible. Needing to add hot [water](/water) (like for ramen cups) is usually
   doable as long as it is self-contained. Needing a knife or can opener
   is usually fine.
 

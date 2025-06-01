@@ -42,6 +42,7 @@ reference from which to learn.
 - [authority](/authority)
 - [collapse](/collapse)
 - [conspiracy theory](/conspiracy-theory)
+- [convenience](/convenience)
 - [democracy](/democracy)
 - [eco-anarchism](/eco-anarchism)
 - [fascism](/fascism)

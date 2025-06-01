@@ -29,9 +29,9 @@ and sets.
 - Hanging leg raises > Advanced hanging knee Raises > Hanging knee
   raises > Full leg raises > knee raises
 - Hollow body hold
-- Side plank dips
 - L-sit
 - Full Bridges
+- Dragon flag
 
 **PULL** exercises:
 - Full pullups > Negative pullups
@@ -40,5 +40,6 @@ and sets.
 **LEGS** exercises:
 - Hindu squats
 - Wall sit
-- Lateral lunges
 - High-knee stationary jogging
+- Cossack squat
+- Nordic hamstring curls

@@ -71,6 +71,30 @@ through mechanisms that plants use. Robin Wall Kimmerer, botanist and author of
 > sense with our limited human capacity. **Tree conversations are still
 > far above our heads.**
 
+### Indigenous wisdom on plants
+
+It is common among Indigenous Peoples to talk to plants and consider
+them non-human persons. "Elevating" their status, thus, affords them the
+same respect that humans give to other humans.
+
+Kimmerer talks about basket weavers doing this. Before harvesting the
+log of a Black Ash, traditional harvesters of Potawatomi basket weavers
+asks permission and "explains his purpose" in felling the tree. Here we
+recognize how Native Americans treat other non-human lives with dignity
+and respect.
+
+This also means not wasting the life matter which is akin to honoring
+the life before. So, reuse scrap wood and saw dust; compost food waste.
+"Take only what you need, and use what you take."
+
+Going back to Black Ash, Kimmerer also talks about the decline of Black
+Ash sapling, the age between seedling and full-grown, which according to
+their investigation is the result of *under*harvesting. Black Ash needs
+space to grow and develop. Crowded forests does not let light reach
+through seedlings, hindering their growth. When basket makers fell trees
+for basket-making, they also make room for Black Ash seedlings to grow.
+Here we see an example of the harmony between humans and plants.
+
 ## The Three Sisters
 
 Robin Wall Kimmerer, botanist and author of *Braiding Sweetgrass*, talks

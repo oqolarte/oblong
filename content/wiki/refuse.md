@@ -96,7 +96,7 @@ to sew, and upcycle some of your fabrics?
 *Do you really need the latest consumer electronics, or will a used one
 from three, four years ago perform just as well?*
 
-Asking such questions adds friction to convenience. There's no guarantee
+Asking such questions adds friction to [convenience](/convenience). There's no guarantee
 that you'll be swayed against buying, but it's a start. What's more
 important is to take your time, *literally*. Practice delaying
 gratification.

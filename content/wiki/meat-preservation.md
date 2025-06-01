@@ -4,13 +4,15 @@ date: 2024-02-09
 draft: false
 math: false
 ---
-Meat is animal muscle consisting of water, protein, and fat.
+Meat is animal muscle consisting of [water](/water), protein, and fat.
 When cooked, most meat products still retains about half of their
 moisture, enough to be home for micro-organisms.
 
 Preserving meat, thus, involves removing or limiting the moisture (i.e.,
 water) in it. Known processes that don't need electricity include
 drying, salting, and smoking.
+
+{{< toc >}}
 
 ## Drying
 

@@ -6,7 +6,7 @@ draft: false
 
 Concrete is a composite material which is made up of a filler and a binder.
 The binder (cement paste) "glues" the filler together to form a synthetic conglomerate.
-The constituents used for the binder are cement and water,
+The constituents used for the binder are cement and [water](/water),
 while the filler can be fine or coarse aggregate (usually gravel).
 
 Just note that concrete is one of, if not *the* most,

@@ -6,7 +6,7 @@ draft: false
 
 A **water clock** or **clepsydra**
 is any timepiece by which time is measured by the
-regulated flow of liquid into (inflow type)
+regulated flow of liquid (usually [water](/water)) into (inflow type)
 or out from (outflow type) a vessel,
 and where the amount is then measured.
 
