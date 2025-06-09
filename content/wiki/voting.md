@@ -27,7 +27,10 @@ Really, without snark and judgement, if it's important to you.
 
 Some people argue that it can be a
 form of harm reduction, that is, we can vote people that are more
-aligned with our values and beliefs. If you are from this crowd, know
+aligned with our values and beliefs.
+Vote in a specific direction without falling into idolizing and/or deifying any politician. And even then, don't expect much.
+
+If you are from this crowd, know
 that there are people you can't convince, and the time and energy you
 spend trying could be better spent bringing [real change](/revolution).
 

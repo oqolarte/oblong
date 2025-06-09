@@ -70,6 +70,9 @@ which we can strengthen our [relationships](/friendship).
 Yes, you do. I do.
 **I** am already a crowd because my life already
 depends on others.
+
+No one really grows old alone. Whether we like it or not, our lives are interconnected. Not just in the familial sense, but also in the sociopolitical sense: we need, say, farmers, laborers, and workers who make this society functional daily.
+
 Autonomy, though, is not to be confused with independence.
 
 Can individuals make a difference? Together we can, in a way that

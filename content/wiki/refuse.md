@@ -14,13 +14,19 @@ There's enough stuff in circulation for all.
 not buy more stuff,” says “Secondhand” Expert.* NPR.
 https://www.npr.org/2019/12/04/784702588/the-best-thing-you-can-do-is-not-buy-more-stuff-says-secondhand-expert
 
+{{< toc >}}
+
+## We are stuck in consumption loop
+
 [Advertisers and marketers have smooth-talked us](/no-ads) into *buying* our way
-out of our problems. They blast us with colorful material and witty words in all media.
+out of our problems.
+They blast us with colorful material and witty words in all media.
 Makes us think that we could *almost* excuse
 ourselves for falling for their pitches.
 
-We buy these solutions with either our money or time. It's likely both,
-since [Capitalism](/capitalism) conjures its own reality where money and time are
+We buy these solutions with either our money or time.
+It's likely both, since [Capitalism](/capitalism)
+conjures its own reality where money and time are
 intertwined.
 
 We buy stuff, convinced that it's needed to get on with life. A small
@@ -40,6 +46,12 @@ For the majority who had little to no money to spend to begin with, they
 instead developed the practical skills needed to survive. Ask your
 grandparents, and they will tell you countless stories of frugality, of
 repairing your own stuff, of borrowing from others.
+
+We Filipinos even refurbished jeepneys into our own public
+transportation and repurposed
+[perforated steel mattings](https://en.m.wikipedia.org/wiki/Marston_Mat)
+into fences
+(among other things), both of which were left by the Americans.
 
 ## It's time to refuse new stuff
 

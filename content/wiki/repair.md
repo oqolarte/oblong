@@ -9,6 +9,10 @@ Instead of throwing away stuff because it's broken, consider if it can
 be fixed. This is how we can start rethinking about our waste. We should
 have the right to repair the stuff we bought.
 
+{{< toc >}}
+
+## Preamble
+
 The wastefulness of Global North negatively impacts the overall quality
 of life for those in Global South. So, while the pressure should be
 applied more on the former, it's in all our best interest to keep things
@@ -20,7 +24,8 @@ to be digging up earth for precious metals or cutting down trees for
 wood, or pull crude oil for plastics, or you know, extract and exploit
 labor from the Global South.
 
-Here in the Philippine archipelago, many of us repair our stuff when it breaks,
+[Here in the Philippine archipelago](/pilipinas),
+many of us repair our stuff when it breaks,
 or we ask someone who knows how to do so. Thanks to our many skilled
 technicians, mechanics, electricians, plumbers, masons, tailors,
 artisans, woodworkers, metalworkers, dressmakers, weavers, and every
