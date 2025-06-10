@@ -1,0 +1,60 @@
+body {
+        margin:1em auto;max-width:70ch;padding: 1.5rem;
+        font: 1.2em/1.5 -apple-system, BlinkMacSystemFont, avenir, "Segoe UI", Helvetica, Ubuntu, Cantarell, "Open Sans", "Fira Sans", "Droid Sans", roboto, noto, sans-serif;
+        color:#edf2ea;background:#0a0012
+}
+body ::selection { background-color:#ffc30f ;color:#0029a3;text-decoration:none }
+a:link {color:#7aa3cc}
+a:hover, a:visited:hover {color:#36ca5c}
+a:visited {color:#cc7aa3}
+a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
+a[href^="https://"]:not([href*="ohio.araw.xyz"]):after {
+        content: "\2197";
+        color: #36ca5c;
+        display: inline-block
+}
+h1,h2,h3,h4,h5,h6 {
+        font-family: "Iowan Old Style", "Apple Garamond", "Droid Serif", Times, "Source Serif Pro", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        line-height:1.2
+}
+time {padding-right: 0.7rem}
+img {max-width:100%; height:auto}
+table {border-collapse:collapse; width:100%}
+td,th {padding: 0.5em; border: 1px solid}
+figure,figcaption {text-align:center;font-size: 0.8em;color: #808080;margin-right: auto;margin-left: auto}
+blockquote {font: 1.1em/1.4 Times,serif;padding-left: 0.9em;border-left: 5px solid #6b7c85}
+code,kbd,pre,samp {
+        font-family: Menlo, Consolas, Monaco, "Liberation Mono", "Lucida Console", monospace;
+        font-size: inherit;overflow-x: auto}
+p code, li code {border: 1px solid #f56b92;border-radius: 2px;color: #f56b92;padding: 1px 2px}
+pre {background: #1C273B;color: #daa4b5;padding: 0.75em}
+sub,sup {font-size: 69%}
+footer :target {font-weight:bold}
+.foot-hr {border:0;border-bottom:1px dashed #ccc;}
+.container { max-width: 700px }
+.small {font-size: 0.8em}
+.toc {font-size:0.8em; border: 1px solid; padding: 0.7em}
+.footnotes { font-size: 0.9rem }
+.footnotes :target {font-weight:bold}
+.footnote-ref:before { content:"["}
+.footnote-ref:after { content:"]"}
+.footnote-ref, .footnote-backref { text-decoration: none; font-weight:bold }
+.statusOnGoing { color: #0029a3; background-color: #ffc30f; padding:0.1em }
+.statusOpen { color: #85fcfc; background-color: #8a0303; padding:0.1em }
+.statusDone { color: #371a33; background-color: #32cd32; padding:0.1em }
+.statusClosed { color: #333; background-color: #c7c7c7; padding:0.1em }
+a.btt {font-size: 0.8em; text-decoration: none}
+.red {color:red}
+.green {color:#36ca5c}
+
+.webring .articles {display: flex;flex-wrap: wrap; justify-content:center}
+.webring .title {font-weight:bold; margin: 0}
+.webring .article {
+  flex: 1 1 150px;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background: #011627;
+}
+.webring .summary {font-size: 0.8em;flex: 1;}
+.webring .attribution {float: right;font-size: 0.8rem;color: #edf2ea;}
+.blogsite {font-size: 0.8rem}
