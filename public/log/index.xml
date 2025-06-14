@@ -16,7 +16,11 @@
       <pubDate>Sat, 14 Jun 2025 06:32:14 +0800</pubDate>
       
       <guid>https://ohio.araw.xyz/277/</guid>
-      <description>&lt;p&gt;Because I was lulled and swayed into it, I watched and thoroughly
+      <description>&lt;ul&gt;
+&lt;li&gt;Updated CSS to now have color pallettes for both light and dark
+&lt;code&gt;@media (prefers-color-scheme)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Because I was lulled and swayed into it, I watched and thoroughly
 enjoyed &lt;em&gt;Sinners&lt;/em&gt; (2025), directed by Ryan Coogler.&lt;/p&gt;
 &lt;p&gt;In some corners, it is billed as &amp;ldquo;horror&amp;rdquo;. Personally, I would not label
 it as such, the same way &lt;em&gt;From Dusk Till Dawn&lt;/em&gt; is NOT horror to me.&lt;/p&gt;
