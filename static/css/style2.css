@@ -6,12 +6,14 @@
     --background-color: #f5ffed;
     --heading-color: #120d15;
     --text-color: #120d15;
-    --link-color: #855c33;
-    --link-hover: #c935a3;
+    --link-color: #734F2B;
+    --link-hover: #95287A;
     --visited-color: #749034;
-    --code-background-color: #e3d8c4;
-    --code-color: #255b4a;
+    --code-background-color: #e3d6c0;
+    --code-color: #1E483E;
     --blockquote-color: #222;
+    --caption-color: #6B4A73;
+    --oring-bg: #FECBA4;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,6 +27,8 @@
         --code-background-color: #1C273B;
         --code-color: #daa4b5;
         --blockquote-color: #ccc;
+        --caption-color: #808080;
+        --oring-bg: #011627;
     }
 }
 
@@ -42,15 +46,24 @@ body {
     color: var(--text-color);
 }
 
+body ::selection {background-color:#ffc30f;color:#0029a3;text-decoration:none}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-main);
     color: var(--heading-color);
 }
 
+a[href^="http://"]:not([href*="ohio.araw.xyz"]):after,
+a[href^="https://"]:not([href*="ohio.araw.xyz"]):after {
+        content: "\2197";
+        color: var(--link-hover);
+        display: inline-block
+}
+
 a {
     color: var(--link-color);
     cursor: pointer;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover, a:visited:hover {
@@ -58,29 +71,18 @@ a:hover, a:visited:hover {
     text-decoration: underline; 
 }
 
-nav a {
-    margin-right: 8px;
-}
+nav a {margin-right: 8px;}
 
-strong, b {
-    color: var(--heading-color);
-}
+strong, b {color: var(--heading-color);}
 
 button {
     margin: 0;
     cursor: pointer;
 }
 
-time {
- 	font-family: monospace;
-  	font-style: normal;
-  	font-size: 15px;
-    padding-right: 0.7rem;
-}
+time {padding-right: 0.7rem}
 
-main {
-    line-height: 1.6;
-}
+main {line-height: 1.6;}
 
 table {
     border-collapse:collapse;
@@ -99,6 +101,16 @@ hr {
 
 img {
     max-width: 100%;
+    height:auto;
+}
+
+
+figure,figcaption {
+    text-align:center;
+    font-size: 0.8em;
+    color: var(--caption-color);
+    margin-right: auto;
+    margin-left: auto
 }
 
 code, kbd, pre, samp {
@@ -111,54 +123,51 @@ code, kbd, pre, samp {
     border-radius: 3px;
 }
 
-blockquote {
-    border-left: 1px solid #999;
+p code, li code {
+    border: 1px solid var(--code-color);
+    border-radius: 2px;
     color: var(--code-color);
-    padding-left: 20px;
+    padding: 1px 1px}
+
+blockquote {
+    font: 1.1em/1.4 Times,serif;
+    border-left: 2px solid #999;
+    color: var(--code-color);
+    padding-left: 0.9em;
     font-style: italic;
 }
 
-footer {
-    padding: 25px 0;
-    text-align: center;
-}
+sub,sup {font-size: 69%}
 
-.title:hover {
-    text-decoration: none;
-}
+footer {text-align: left;}
 
-.title h1 {
-    font-size: 1.5em;
-}
+footer :target {font-weight:bold}
 
-.inline {
-    width: auto !important;
-}
+.foot-hr {border:0;border-bottom:1px dashed #ccc;}
+.container { max-width: 700px }
+.small {font-size: 0.8em}
+.toc {font-size:0.8em; border: 1px solid; padding: 0.7em}
+.footnotes { font-size: 0.9rem }
+.footnotes :target {font-weight:bold}
+.footnote-ref:before { content:"["}
+.footnote-ref:after { content:"]"}
+.footnote-ref, .footnote-backref { text-decoration: none; font-weight:bold }
+.statusOnGoing { color: #0029a3; background-color: #ffc30f; padding:0.1em }
+.statusOpen { color: #85fcfc; background-color: #8a0303; padding:0.1em }
+.statusDone { color: #371a33; background-color: #32cd32; padding:0.1em }
+.statusClosed { color: #333; background-color: #c7c7c7; padding:0.1em }
+a.btt {font-size: 0.8em; text-decoration: none}
+.red {color:red}
+.green {color:#36ca5c}
 
-.highlight, .code {
-    padding: 1px 15px;
-    background-color: var(--code-background-color);
-    color: var(--code-color);
-    border-radius: 3px;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    overflow-x: auto;
+.webring .articles {display: flex;flex-wrap: wrap; justify-content:center}
+.webring .title {font-weight:bold; margin: 0}
+.webring .article {
+  flex: 1 1 150px;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  background: var(--oring-color);
 }
-
-/* blog post list */
-ul.blog-posts {
-    list-style-type: none;
-    padding: unset;
-}
-
-ul.blog-posts li {
-    display: flex;
-}
-
-ul.blog-posts li span {
-    flex: 0 0 130px;
-}
-
-ul.blog-posts li a:visited {
-    color: var(--visited-color);
-}
+.webring .summary {font-size: 0.8em;flex: 1;}
+.webring .attribution {float: right;font-size: 0.8rem;color: var(--caption-color);}
+.blogsite {font-size: 0.8rem}
