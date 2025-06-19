@@ -37,5 +37,6 @@ and
 - [Web Development](/web-dev)
 - [UI/UX](/ui-ux)
 - Color palette: https://refactoringui.com/previews/building-your-color-palette
+- [Color palette generator](https://coolors.co/)
 - [Typography](/typography)
 - [Japanese Design Principles](/japanese-design-principles)

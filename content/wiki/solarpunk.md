@@ -101,3 +101,7 @@ will lead to a more equitable environment for future generations.
   desertification by making the land hospitable.
   ![Digging in desert](/image/digging01.jpg)  
   ![Crescent-shaped holes reverse desertification](/image/digging02.jpg)
+
+## Further reading
+
+- [On the Political Dimensions of Solarpunk](https://medium.com/solarpunks/on-the-political-dimensions-of-solarpunk-c5a7b4bf8df4): 2015 article that still holds up reasonably well
