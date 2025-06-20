@@ -31,15 +31,21 @@ enableGitInfo = true
   math = false
 
 [privacy]
-	[privacy.disqus]
-		disable = true
-	[privacy.googleAnalytics]
-		disable = true
-	[privacy.instagram]
-		disable = true
-	[privacy.twitter]
-		disable = true
-	[privacy.vimeo]
-		disable = true
-	[privacy.youtube]
-		disable = true
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+    respectDoNotTrack = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+    enableDNT = true
+  [privacy.vimeo]
+    disable = true
+    enableDNT = true
+  [privacy.x]
+    disable = true
+    enableDNT = true
+  [privacy.youTube]
+    disable = true

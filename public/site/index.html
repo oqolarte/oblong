@@ -56,21 +56,19 @@ in which I often choose simple solutions.</p>
         <li><a href="#major-sections">Major Sections</a></li>
       </ul>
     </li>
-    <li><a href="#front-end">Front-end</a>
+    <li><a href="#design-choices">Design choices</a>
       <ul>
         <li><a href="#typography">Typography</a></li>
-        <li><a href="#default-is-dark">Default is Dark</a></li>
+        <li><a href="#light-and-dark-themes">Light and Dark themes</a></li>
         <li><a href="#link-management">Link Management</a></li>
         <li><a href="#javascript">JavaScript?</a></li>
-        <li><a href="#no-ads">No Ads</a></li>
         <li><a href="#images">Images</a></li>
         <li><a href="#comments-section">Comments section</a></li>
       </ul>
     </li>
-    <li><a href="#back-end">Back-end</a>
+    <li><a href="#other-important-stuff">Other important stuff</a>
       <ul>
-        <li><a href="#on-static-site-generators-ssg">On Static Site Generators (SSG)</a></li>
-        <li><a href="#using-hugo">Using Hugo</a></li>
+        <li><a href="#on-static-site-generators-ssg-and-hugo">On Static Site Generators (SSG) and Hugo</a></li>
         <li><a href="#disabling-internal-templates">Disabling Internal Templates</a></li>
         <li><a href="#privacy">Privacy</a></li>
         <li><a href="#hosting">Hosting</a></li>
@@ -136,19 +134,24 @@ check out <a href="https://pypi.org/project/rss2email/">rss2email</a>,
 a software that can forward your RSS feeds to your email.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
-<h2 id="front-end">Front-end</h2>
+<h2 id="design-choices">Design choices</h2>
 <p>I borrow design principles from brutalism for this site. Admittedly,
 it&rsquo;s the result of having only a working knowledge of HTML and CSS, and
-virtually none of JavaScript. It turns out that this is a feature, not a
-bug, for static websites anyway.</p>
-<p>By foregoing intricate <a href="/ui-ux">UI/UX design</a>, I can focus on what matters most: <em>content</em>.</p>
+virtually none of JavaScript. This &ldquo;limitation&rdquo; becomes a feature for
+static websites like this one.</p>
+<p>(For a complete breakdown of HTML and CSS, one can always inspect the
+page source. Accessing it differs from browser to browser.)</p>
+<p>By foregoing intricate <a href="/ui-ux">UI/UX design</a>, I can focus on what
+matters most: <em>content</em>.</p>
 <p>Through simplicity, I&rsquo;m making this site less bloated.
 This means that:</p>
 <ul>
-<li>low-end and/or <a href="/old-computer">old computers</a> with slow and/or outdated software can visit with little to no hassle on their end;</li>
-<li>locations with poor internet connectivity can still browse the content;</li>
+<li>low-end and/or <a href="/old-computer">old computers</a> with slow and/or
+outdated software can visit with little to no hassle on their end;</li>
+<li>locations with poor internet connectivity can still browse the
+content;</li>
 <li>improving accessibility is easier;</li>
-<li>the site loads fast because of no tracking, no custom fonts; and,</li>
+<li>the site loads fast because of <a href="/no-ads">no ads</a>, no tracking, no custom fonts; and,</li>
 <li>no distractions.</li>
 </ul>
 <p>I consider these points important as they all relate to my current situation.
@@ -158,69 +161,65 @@ In fact, websites should be guided by these principles.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
 <h3 id="typography">Typography</h3>
-<p>Some would say typography should elevate the content.
-What I have set here gets the job done,
+<p>Typography, no doubt, elevates the text.
+What I have set here, though, gets the job done,
 i.e., serve readable content.</p>
-<p>There are many ways to do that without compromising the overall experience of readers.</p>
+<p>There are many ways to do that without compromising the overall
+experience of readers.</p>
 <p>I use <em>your</em> system&rsquo;s default font stack so your computer wouldn&rsquo;t
 need to look elsewhere to render the fonts.</p>
 <p>I use serif for headings. This is the font stack that I use:</p>
 <ul>
 <li>Iowan Old Style</li>
 <li>Apple Garamond</li>
-<li>Baskerville</li>
-<li>Times New Roman</li>
-<li>Droid Serif</li>
 <li>Times</li>
-<li>Source Serif Pro</li>
-<li>Apple Color Emoji</li>
-<li>Segoe UI Emoji</li>
-<li>Segoe UI Symbol</li>
 </ul>
 <p>And I use sans serif for body and the rest of the page.
-This is what I have in my CSS:</p>
+This is what I use:</p>
 <ul>
-<li>-apple-system</li>
-<li>BlinkMacSystemFont</li>
-<li>Avenir Next</li>
-<li>Avenir</li>
-<li>Segoe UI</li>
-<li>Helvetica Neue</li>
 <li>Helvetica</li>
 <li>Cantarell</li>
 <li>Ubuntu</li>
 <li>Roboto</li>
 <li>Noto</li>
-<li>Arial</li>
 </ul>
 <p>Using serif for headings and sans serif for body gives a clear delineation
 which piece of info is which.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
-<h3 id="default-is-dark">Default is Dark</h3>
-<p>I personally like dark mode on my screens
-because it&rsquo;s less straining to the eyes,
-especially in low-light environment.</p>
-<p>It&rsquo;s also said to prolong the device&rsquo;s battery&rsquo;s charge.
-In theory, it&rsquo;s because the screen emits less photons (light) for using darker colors,
-therefore using less energy.
-In practice,
-it can be difficult to gauge.</p>
-<p>Here, admittedly, it&rsquo;s more of an aesthetic choice.</p>
+<h3 id="light-and-dark-themes">Light and Dark themes</h3>
+<p>Earlier iteration of this site defaults to dark mode, giving visitors no
+option to change to light mode.</p>
+<p>A good design provides option for both.</p>
+<p>Now, current theme will depend on what you have set for your
+device/browser.</p>
+<p>I&rsquo;m no expert in color theory, so I had help from online color palette
+generators to see which colors work well.
+<a href="https://coolors.co/">Coolors</a> is good tool on this.</p>
+<p>Another thing to check for is color contrast. Readability of text
+depends on how large the font AND what colors are mixed together. After
+choosing your color palettes (ideally for both light and dark themes),
+make sure that colors for fonts (for both main and for links) can be
+seen on your preferred background color.
+<a href="https://webaim.org/resources/contrastchecker/">WebAIM Contrast Checker</a>
+is the tool I
+used for this. To <strong>Pass</strong> all tests, slide the &ldquo;Lightness&rdquo; bar until
+the contrast ratio is at least 7:1.</p>
+<p>Again, please check the page source to view the complete breakdown of
+CSS.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
 <h3 id="link-management">Link Management</h3>
-<p>Links that have an arrow (&quot;↗&quot; or &ldquo;<code>\2197</code>&rdquo; in CSS) right after them are <em>external links</em>,
-i.e., links that take the visitor out of this website.</p>
+<p>Links that have an arrow (&quot;↗&quot; or &ldquo;<code>\2197</code>&rdquo; in CSS) right after them are
+<em>external links</em>, i.e., links that take the visitor out of this website.</p>
 <p>In CSS, I implented this using a selector that finds all links other than my own, which is <code>ohio.araw.xyz</code>.</p>
 <p>Here is a sample CSS code block implementing that:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">a</span><span style="color:#f92672">[</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#34;http://&#34;</span><span style="color:#f92672">]</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#34;ohio.araw.xyz&#34;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span><span style="color:#f92672">,</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">a</span><span style="color:#f92672">[</span><span style="color:#f92672">href</span><span style="color:#f92672">^=</span><span style="color:#e6db74">&#34;https://&#34;</span><span style="color:#f92672">]</span>:<span style="color:#a6e22e">not</span><span style="color:#f92672">([</span><span style="color:#f92672">href</span><span style="color:#f92672">*=</span><span style="color:#e6db74">&#34;ohio.araw.xyz&#34;</span><span style="color:#f92672">])</span>:<span style="color:#a6e22e">after</span>{
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">content</span>: <span style="color:#e6db74">&#34;\2917&#34;</span>; 
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">green</span>;
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">display</span>: <span style="color:#66d9ef">inline-block</span>;
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><p>The above snippet means that if a link does not contain <code>ohio.araw.xyz</code>, then <code>content</code> will be displayed <code>after</code> it.</p>
+<pre tabindex="0"><code>a[href^=&#34;http://&#34;]:not([href*=&#34;ohio.araw.xyz&#34;]):after,
+a[href^=&#34;https://&#34;]:not([href*=&#34;ohio.araw.xyz&#34;]):after{
+        content: &#34;\2917&#34;; 
+        display: inline-block;
+}
+</code></pre><p>The above snippet means that if a link does not contain <code>ohio.araw.xyz</code>, then <code>content</code> will be displayed <code>after</code> it.</p>
 <p>Currently, these arrows only indicate external links to let visitors know that they will be directed away.
 Clicking one does <strong><em>not</em></strong> open it in a new tab or window.
 You have to manually right-click it and select <code>Open in a new tab</code> (or <code>...window</code>) (or click with Mouse3/MouseWheel).</p>
@@ -239,31 +238,27 @@ browser&rsquo;s JS disabled, but you&rsquo;ll likely see weird syntax where a ma
 formula should be.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
-<h3 id="no-ads">No Ads</h3>
-<p>Only marketers like ads.
-I don&rsquo;t intend on monetizing this site with ads.</p>
-<p>Also, did you know that a lot of online advertising you see depends on JS?</p>
-<a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
-
 <h3 id="images">Images</h3>
-<p>Humans naturally tend to be visual.
+<p>Most of humans naturally tend to be visual.
 How does this translate well in a clean web design?</p>
-<p>Big image size takes time to load, and will need more resources to serve it to the visitor.
-More resources mean more energy consumed means larger carbon footprint.</p>
+<p>Big image size takes time to load, and will need more resources to serve
+it to the visitor. More resources mean more energy consumed means larger
+carbon footprint.</p>
 <p>When adding an image to a post, I make sure that:</p>
 <ul>
-<li>it <em>does</em> tell &ldquo;more than a thousand words.&rdquo;
-It must add value to the narrative,
-not distract the viewers from the main content.</li>
-<li>it&rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
-There are several tools you can use to do this.
-<a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.</li>
+<li>it <em>does</em> tell &ldquo;more than a thousand words.&rdquo; It must add value to the
+narrative, not distract the viewers from the main content.</li>
+<li>it&rsquo;s compressed as much as possible, to reduce its size, minimizing
+the time it takes to load. There are several tools you can use to do
+this. <a href="https://tinyjpg.com">Tiny JPG</a> is an online image compression
+tool, in which you can upload up to 20 image files, max 5MB each.</li>
 </ul>
 <p>Even with these points, adding an image is still a subjective decision.</p>
-<p>I use <a href="https://github.com/jarun/imgp">imgp</a>, a &ldquo;high-performance cli batch image resizer and rotator,&rdquo; that I can use offline.</p>
+<p>I use <a href="https://github.com/jarun/imgp">imgp</a>, a &ldquo;high-performance cli
+batch image resizer and rotator,&rdquo; that I can use offline.</p>
 <p>From the command line, I do something like:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>imgp -x 1366x0 --quality<span style="color:#f92672">=</span><span style="color:#ae81ff">85</span> -ew --optimize ~/image.jpg
-</span></span></code></pre></div><ul>
+<pre tabindex="0"><code>imgp -x 1366x0 --quality=85 -ew --optimize ~/image.jpg
+</code></pre><ul>
 <li><code>-x</code> is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.</li>
 <li><code>--quality</code> is the quality factor.
@@ -281,21 +276,24 @@ creation, helps reduce the image size.</li>
 burden on me to implement and moderate. But honestly, the tools out
 there just don&rsquo;t meet my criteria.</p>
 <p>One can still send their thoughts via this protocol called email, and
-mine is always at the footer! Sending comments via email is
-old school, but I feel like it promotes more thoughtful discussion
-rather than needless debate. The &ldquo;friction&rdquo; of having to open one&rsquo;s
-email client certainly makes one be deliberate about the message they&rsquo;re
+mine is always at the footer! Sending comments via email is old school,
+but I feel like it promotes more thoughtful discussion rather than
+needless debate. The &ldquo;friction&rdquo; of having to open one&rsquo;s email client
+certainly makes one be deliberate about the message (or comment) they&rsquo;re
 planning to send.</p>
 <p>Also, if we know each other personally, feel free to message your
 comments to me directly via Signal, assuming we already have each
 other&rsquo;s contact details.</p>
+<p>Kami explains it better on her blog &ldquo;<a href="https://kami.bearblog.dev/why-comment-sections-suck-rei-want-to-comment-on-your-blog-post/">Why Comment Sections Suck</a>.&rdquo;</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
-<h2 id="back-end">Back-end</h2>
+<h2 id="other-important-stuff">Other important stuff</h2>
+<p>I have lumped together other technical stuff here that goes into serving
+this site to the visitors.</p>
+<a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
+
+<h3 id="on-static-site-generators-ssg-and-hugo">On Static Site Generators (SSG) and Hugo</h3>
 <p>I use <a href="https://gohugo.io">Hugo</a> static site generator to build this site.</p>
-<a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
-
-<h3 id="on-static-site-generators-ssg">On Static Site Generators (SSG)</h3>
 <p>Using SSG like Hugo arguably increases security by simplifying a lot of
 things. There is no server-side software to install, no database to keep
 up to date, and no PHP plugins to upgrade. It&rsquo;s also an elegant solution
@@ -304,11 +302,6 @@ for read-only blogs like this one.</p>
 for creating formatted text using a plaintext editor. Markdown files
 (<code>.md</code>) are lightweight, portable, easy to backup, and transfer between
 computers.</p>
-<p><a href="https://pandoc.org/">Pandoc</a> can also be used to generate HTML pages
-for a website. It&rsquo;s easy to install. You can convert Markdown to HTML,
-and use those in your site. (Note: Pandoc is
-a &ldquo;universal document converter,&rdquo; it offers many uses outside of HTML
-generation, such as converting <code>.docx</code> to <code>.pdf</code>.)</p>
 <p>Generation time depends on the size and volume of files that need to be
 compiled. Some SSGs could take up to a minute to build one whole site;
 some only <em>milliseconds</em>.</p>
@@ -319,20 +312,20 @@ will have to, at least, type your post offline, compile, and then push
 to your web host.</p>
 <p>But I&rsquo;ll take the massive freedom gains provided by SSGs anytime!
 See Jamstack for their list of <a href="https://jamstack.org/generators/">Site Generators</a> if you want to know more.</p>
-<a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
-
-<h3 id="using-hugo">Using Hugo</h3>
-<p>Great Hugo tutorials abound online, in blog posts and video formats.
-Some target new users;
-some have specific use cases in mind.</p>
+<p>As for Hugo, tutorials abound online, in blog posts and video formats.
+Some target new users; some have specific use cases in mind.</p>
 <p>However, like most tutorials online, they get outdated quickly.
 Sooner or later, reading the official documentation becomes necessary.</p>
-<p>As with everything else, it&rsquo;s important to be patient and willing to read the manual.
-In case you&rsquo;re stuck, you can also ask the community.
-Hugo has both decent <a href="https://discourse.gohugo.io">community</a> and <a href="https://gohugo.io/documentation">documentation</a>.</p>
-<p>Honestly, Hugo&rsquo;s learning curve is steep, especially if you&rsquo;re like me with no &ldquo;real&rdquo; coding experience.
-But if you have the patience to read, learn, and ask for help, Hugo, as well as other SSGs, might just be the right magic for you.</p>
-<p>My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.</p>
+<p>As with everything else, it&rsquo;s important to be patient and willing to
+read the manual. In case you&rsquo;re stuck, you can also ask the community.
+Hugo has both decent <a href="https://discourse.gohugo.io">community</a> and
+<a href="https://gohugo.io/documentation">documentation</a>.</p>
+<p>I would say that Hugo&rsquo;s learning can be steep, especially if you&rsquo;re like
+me with no &ldquo;real&rdquo; coding experience. But if you have the patience to
+read, learn, and ask for help, Hugo, as well as other SSGs, might just
+be the right magic for you.</p>
+<p>My process involves a lot of trial and error to get this site looking
+the way it is now, simple as it is.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
 <h3 id="disabling-internal-templates">Disabling Internal Templates</h3>
@@ -344,25 +337,23 @@ and I don&rsquo;t have any use for them. They are:</p>
 <li>Google Analytics;</li>
 <li>Disqus comments;</li>
 <li>Instagram cards;</li>
-<li>Twitter cards;</li>
+<li>Twitter (X) cards;</li>
 <li>YouTube; and</li>
 <li>Vimeo</li>
 </ul>
-<p>To have a privacy-centered configuration,
-learn more about <a href="https://gohugo.io/about/hugo-and-gdpr/">Hugo and the General Data Protection Regulation</a>
-to <a href="https://gohugo.io/about/hugo-and-gdpr/#disable-all-services">disable all services</a>.</p>
+<p>To have a privacy-centered configuration, read on how to <a href="https://gohugo.io/configuration/privacy/#article">Configure privacy</a>.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
 <h3 id="privacy">Privacy</h3>
-<p>As far as I&rsquo;m aware,
-this site:</p>
+<p>As far as I&rsquo;m aware, this site:</p>
 <ul>
-<li>has no ad trackers</li>
+<li>has no ad trackers and no ad-tech companies behind;</li>
 <li>has no third-party cookies;</li>
 <li>has no tracking that evades cookie blockers;</li>
 <li>has no session recording services;</li>
 <li>has no keystroke logger;</li>
 <li>has no Facebook Pixel;</li>
+<li>has no Google Analytics [and their &ldquo;remarketing audiences&rdquo; feature]</li>
 </ul>
 <p>The above findings are according to <a href="https://themarkup.org/blacklight">The Markup&rsquo;s Blacklight tool</a>.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
@@ -377,43 +368,52 @@ The VM runs on Debian 12 &ldquo;Bookworm&rdquo;.</p>
 <p><a href="https://nginx.org/en/">nginx</a> (&ldquo;engine X&rdquo;), is an HTTP and reverse proxy server.
 To meet defensive security standards,
 I have the snippet in my server configuration:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>server <span style="color:#f92672">{</span>
-</span></span><span style="display:flex;"><span>        server_name ohio.araw.xyz ;
-</span></span><span style="display:flex;"><span>        root /var/www/ohio.araw.xyz ;
-</span></span><span style="display:flex;"><span>        index index.html index.htm index.nginx-debian.html ;
-</span></span><span style="display:flex;"><span>        add_header Content-Security-Policy <span style="color:#e6db74">&#34;default-src &#39;self&#39;;&#34;</span> always;
-</span></span><span style="display:flex;"><span>        add_header Strict-Transport-Security <span style="color:#e6db74">&#34;max-age=31536000; includeSubDomains&#34;</span> always;
-</span></span><span style="display:flex;"><span>        add_header X-Frame-Options <span style="color:#e6db74">&#34;SAMEORIGIN&#34;</span>;
-</span></span><span style="display:flex;"><span>        add_header X-XSS-Protection 1;
-</span></span><span style="display:flex;"><span>        add_header X-Content-Type-Options nosniff;
-</span></span><span style="display:flex;"><span>        location / <span style="color:#f92672">{</span>
-</span></span><span style="display:flex;"><span>                try_files $uri $uri/ <span style="color:#f92672">=</span><span style="color:#ae81ff">404</span> ;
-</span></span><span style="display:flex;"><span>        <span style="color:#f92672">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">}</span>
-</span></span></code></pre></div><p>With this,
+<pre tabindex="0"><code>server {
+        server_name ohio.araw.xyz ;
+        root /var/www/ohio.araw.xyz ;
+        index index.html index.htm index.nginx-debian.html ;
+        add_header Content-Security-Policy &#34;default-src &#39;self&#39;;&#34; always;
+        add_header Strict-Transport-Security &#34;max-age=31536000; includeSubDomains&#34; always;
+        add_header X-Frame-Options &#34;SAMEORIGIN&#34;;
+        add_header X-XSS-Protection 1;
+        add_header X-Content-Type-Options nosniff;
+        location / {
+                try_files $uri $uri/ =404 ;
+        }
+}
+</code></pre><p>With this,
 my site scores <code>A+</code> in <a href="https://observatory.mozilla.org/">Mozilla Observatory</a>.</p>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>
 
 <h2 id="inspiration">Inspiration</h2>
-<p>Computer laboratory was not my favorite back in high school.
-One of our lab works was to create our own (offline) website.
-It had to be interesting, catchy.
-That&rsquo;s why many of my classmates had <code>&lt;marquee&gt;</code> and <code>&lt;blink&gt;</code> tags in their works.</p>
+<p>Computer laboratory was not my favorite back in high school. Not because
+I hated <a href="/computer">computers</a>; how could I when I loved playing video
+games in it? I was disinterested, I later realized,
+because of <a href="/pedagogy">how it was taught</a>: rote memorization of the history of
+computing, of its important hardware and software; forcing us to use
+proprietary <a href="/os">operating system</a> (Windows) and applications (mainly
+Microsoft Office suite and Adobe Photoshop).</p>
+<p>Anyway, one of our lab works was to create our own (offline) website. It had to
+be interesting, catchy. Many of my classmates had <code>&lt;marquee&gt;</code>
+and <code>&lt;blink&gt;</code> tags, and of course, GIFs in their works.</p>
 <p>I don&rsquo;t remember how mine looked, but I&rsquo;m sure it&rsquo;s basic,
 with broken links hither and thither.</p>
-<p>More than a decade later, here I am, building one again.
-This time, I&rsquo;m building this site because I enjoy doing it for myself.
-At least, I&rsquo;ve retained the important bits on how HTML works,
+<p>More than a decade later, here I am, building and maintaining one.
+This time, I am enjoying the process.
+At least, I have retained the important bits on how HTML works,
 so I&rsquo;m not starting from zero.</p>
-<p>I&rsquo;d like to say that I dedicate this to my former self, who couldn&rsquo;t seem to grasp the importance of web design.
-As we rely on the internet for improving our collective knowledge,
-web designers and developers <em>must see to it</em> that everyone can access information, in spite of the current tech they have.</p>
+<p><strong>I dedicate this site to my former self</strong>, who couldn&rsquo;t seem to grasp
+the importance of web design. As we rely on the <a href="/internet">internet</a>
+for improving our collective knowledge, web designers and developers
+<em>must see to it</em> that everyone can access information, in spite of the
+current tech they have.</p>
 <p>Here are some other sites from which I also got inspiration:</p>
 <ul>
 <li><a href="https://solar.lowtechmagazine.com">LOW←TECH MAGAZINE</a>. Their article on <a href="https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html">how to build a low-tech website</a> is eye-opening.</li>
 <li><a href="https://1mb.club">1MB Club</a>, and it&rsquo;s contemporaries, <a href="https://512kb.club">512KB Club</a>, <a href="https://250kb.club">250KB Club</a>.</li>
 <li>&ldquo;<a href="https://actualwebsite.org/">This is an Actual Website</a>&rdquo;</li>
 <li><a href="https://danluu.com">Dan Luu&rsquo;s website</a>, although it begs a few design tweaks to improve readability.</li>
+<li><a href="https://brutalist-web.design/">Brutalist Web Design</a></li>
 <li>And other small, obscure personal blogs in the &ldquo;smol net&rdquo; and &ldquo;dork web&rdquo; that we have yet to discover.</li>
 </ul>
 <a href="#top" class="btt">go to top <strong>&#10514;</strong></a>

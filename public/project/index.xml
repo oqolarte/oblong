@@ -12185,21 +12185,19 @@ in which I often choose simple solutions.&lt;/p&gt;
         &lt;li&gt;&lt;a href=&#34;#major-sections&#34;&gt;Major Sections&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#front-end&#34;&gt;Front-end&lt;/a&gt;
+    &lt;li&gt;&lt;a href=&#34;#design-choices&#34;&gt;Design choices&lt;/a&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#typography&#34;&gt;Typography&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#default-is-dark&#34;&gt;Default is Dark&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#light-and-dark-themes&#34;&gt;Light and Dark themes&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#link-management&#34;&gt;Link Management&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#javascript&#34;&gt;JavaScript?&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#no-ads&#34;&gt;No Ads&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#images&#34;&gt;Images&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#comments-section&#34;&gt;Comments section&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#back-end&#34;&gt;Back-end&lt;/a&gt;
+    &lt;li&gt;&lt;a href=&#34;#other-important-stuff&#34;&gt;Other important stuff&lt;/a&gt;
       &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#on-static-site-generators-ssg&#34;&gt;On Static Site Generators (SSG)&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#using-hugo&#34;&gt;Using Hugo&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#on-static-site-generators-ssg-and-hugo&#34;&gt;On Static Site Generators (SSG) and Hugo&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#disabling-internal-templates&#34;&gt;Disabling Internal Templates&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#privacy&#34;&gt;Privacy&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#hosting&#34;&gt;Hosting&lt;/a&gt;&lt;/li&gt;
@@ -12265,19 +12263,24 @@ check out &lt;a href=&#34;https://pypi.org/project/rss2email/&#34;&gt;rss2email&
 a software that can forward your RSS feeds to your email.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h2 id=&#34;front-end&#34;&gt;Front-end&lt;/h2&gt;
+&lt;h2 id=&#34;design-choices&#34;&gt;Design choices&lt;/h2&gt;
 &lt;p&gt;I borrow design principles from brutalism for this site. Admittedly,
 it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and
-virtually none of JavaScript. It turns out that this is a feature, not a
-bug, for static websites anyway.&lt;/p&gt;
-&lt;p&gt;By foregoing intricate &lt;a href=&#34;https://ohio.araw.xyz/ui-ux&#34;&gt;UI/UX design&lt;/a&gt;, I can focus on what matters most: &lt;em&gt;content&lt;/em&gt;.&lt;/p&gt;
+virtually none of JavaScript. This &amp;ldquo;limitation&amp;rdquo; becomes a feature for
+static websites like this one.&lt;/p&gt;
+&lt;p&gt;(For a complete breakdown of HTML and CSS, one can always inspect the
+page source. Accessing it differs from browser to browser.)&lt;/p&gt;
+&lt;p&gt;By foregoing intricate &lt;a href=&#34;https://ohio.araw.xyz/ui-ux&#34;&gt;UI/UX design&lt;/a&gt;, I can focus on what
+matters most: &lt;em&gt;content&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Through simplicity, I&amp;rsquo;m making this site less bloated.
 This means that:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;low-end and/or &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;old computers&lt;/a&gt; with slow and/or outdated software can visit with little to no hassle on their end;&lt;/li&gt;
-&lt;li&gt;locations with poor internet connectivity can still browse the content;&lt;/li&gt;
+&lt;li&gt;low-end and/or &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;old computers&lt;/a&gt; with slow and/or
+outdated software can visit with little to no hassle on their end;&lt;/li&gt;
+&lt;li&gt;locations with poor internet connectivity can still browse the
+content;&lt;/li&gt;
 &lt;li&gt;improving accessibility is easier;&lt;/li&gt;
-&lt;li&gt;the site loads fast because of no tracking, no custom fonts; and,&lt;/li&gt;
+&lt;li&gt;the site loads fast because of &lt;a href=&#34;https://ohio.araw.xyz/no-ads&#34;&gt;no ads&lt;/a&gt;, no tracking, no custom fonts; and,&lt;/li&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I consider these points important as they all relate to my current situation.
@@ -12287,69 +12290,65 @@ In fact, websites should be guided by these principles.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;typography&#34;&gt;Typography&lt;/h3&gt;
-&lt;p&gt;Some would say typography should elevate the content.
-What I have set here gets the job done,
+&lt;p&gt;Typography, no doubt, elevates the text.
+What I have set here, though, gets the job done,
 i.e., serve readable content.&lt;/p&gt;
-&lt;p&gt;There are many ways to do that without compromising the overall experience of readers.&lt;/p&gt;
+&lt;p&gt;There are many ways to do that without compromising the overall
+experience of readers.&lt;/p&gt;
 &lt;p&gt;I use &lt;em&gt;your&lt;/em&gt; system&amp;rsquo;s default font stack so your computer wouldn&amp;rsquo;t
 need to look elsewhere to render the fonts.&lt;/p&gt;
 &lt;p&gt;I use serif for headings. This is the font stack that I use:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Iowan Old Style&lt;/li&gt;
 &lt;li&gt;Apple Garamond&lt;/li&gt;
-&lt;li&gt;Baskerville&lt;/li&gt;
-&lt;li&gt;Times New Roman&lt;/li&gt;
-&lt;li&gt;Droid Serif&lt;/li&gt;
 &lt;li&gt;Times&lt;/li&gt;
-&lt;li&gt;Source Serif Pro&lt;/li&gt;
-&lt;li&gt;Apple Color Emoji&lt;/li&gt;
-&lt;li&gt;Segoe UI Emoji&lt;/li&gt;
-&lt;li&gt;Segoe UI Symbol&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;And I use sans serif for body and the rest of the page.
-This is what I have in my CSS:&lt;/p&gt;
+This is what I use:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;-apple-system&lt;/li&gt;
-&lt;li&gt;BlinkMacSystemFont&lt;/li&gt;
-&lt;li&gt;Avenir Next&lt;/li&gt;
-&lt;li&gt;Avenir&lt;/li&gt;
-&lt;li&gt;Segoe UI&lt;/li&gt;
-&lt;li&gt;Helvetica Neue&lt;/li&gt;
 &lt;li&gt;Helvetica&lt;/li&gt;
 &lt;li&gt;Cantarell&lt;/li&gt;
 &lt;li&gt;Ubuntu&lt;/li&gt;
 &lt;li&gt;Roboto&lt;/li&gt;
 &lt;li&gt;Noto&lt;/li&gt;
-&lt;li&gt;Arial&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Using serif for headings and sans serif for body gives a clear delineation
 which piece of info is which.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h3 id=&#34;default-is-dark&#34;&gt;Default is Dark&lt;/h3&gt;
-&lt;p&gt;I personally like dark mode on my screens
-because it&amp;rsquo;s less straining to the eyes,
-especially in low-light environment.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s also said to prolong the device&amp;rsquo;s battery&amp;rsquo;s charge.
-In theory, it&amp;rsquo;s because the screen emits less photons (light) for using darker colors,
-therefore using less energy.
-In practice,
-it can be difficult to gauge.&lt;/p&gt;
-&lt;p&gt;Here, admittedly, it&amp;rsquo;s more of an aesthetic choice.&lt;/p&gt;
+&lt;h3 id=&#34;light-and-dark-themes&#34;&gt;Light and Dark themes&lt;/h3&gt;
+&lt;p&gt;Earlier iteration of this site defaults to dark mode, giving visitors no
+option to change to light mode.&lt;/p&gt;
+&lt;p&gt;A good design provides option for both.&lt;/p&gt;
+&lt;p&gt;Now, current theme will depend on what you have set for your
+device/browser.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m no expert in color theory, so I had help from online color palette
+generators to see which colors work well.
+&lt;a href=&#34;https://coolors.co/&#34;&gt;Coolors&lt;/a&gt; is good tool on this.&lt;/p&gt;
+&lt;p&gt;Another thing to check for is color contrast. Readability of text
+depends on how large the font AND what colors are mixed together. After
+choosing your color palettes (ideally for both light and dark themes),
+make sure that colors for fonts (for both main and for links) can be
+seen on your preferred background color.
+&lt;a href=&#34;https://webaim.org/resources/contrastchecker/&#34;&gt;WebAIM Contrast Checker&lt;/a&gt;
+is the tool I
+used for this. To &lt;strong&gt;Pass&lt;/strong&gt; all tests, slide the &amp;ldquo;Lightness&amp;rdquo; bar until
+the contrast ratio is at least 7:1.&lt;/p&gt;
+&lt;p&gt;Again, please check the page source to view the complete breakdown of
+CSS.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;link-management&#34;&gt;Link Management&lt;/h3&gt;
-&lt;p&gt;Links that have an arrow (&amp;quot;↗&amp;quot; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are &lt;em&gt;external links&lt;/em&gt;,
-i.e., links that take the visitor out of this website.&lt;/p&gt;
+&lt;p&gt;Links that have an arrow (&amp;quot;↗&amp;quot; or &amp;ldquo;&lt;code&gt;\2197&lt;/code&gt;&amp;rdquo; in CSS) right after them are
+&lt;em&gt;external links&lt;/em&gt;, i.e., links that take the visitor out of this website.&lt;/p&gt;
 &lt;p&gt;In CSS, I implented this using a selector that finds all links other than my own, which is &lt;code&gt;ohio.araw.xyz&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Here is a sample CSS code block implementing that:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;http://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;a&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;^=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;https://&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;not&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;([&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;href&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ohio.araw.xyz&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;])&lt;/span&gt;:&lt;span style=&#34;color:#a6e22e&#34;&gt;after&lt;/span&gt;{
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;content&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;\2917&amp;#34;&lt;/span&gt;; 
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;green&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#66d9ef&#34;&gt;display&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inline-block&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;ohio.araw.xyz&lt;/code&gt;, then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;a[href^=&amp;#34;http://&amp;#34;]:not([href*=&amp;#34;ohio.araw.xyz&amp;#34;]):after,
+a[href^=&amp;#34;https://&amp;#34;]:not([href*=&amp;#34;ohio.araw.xyz&amp;#34;]):after{
+        content: &amp;#34;\2917&amp;#34;; 
+        display: inline-block;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The above snippet means that if a link does not contain &lt;code&gt;ohio.araw.xyz&lt;/code&gt;, then &lt;code&gt;content&lt;/code&gt; will be displayed &lt;code&gt;after&lt;/code&gt; it.&lt;/p&gt;
 &lt;p&gt;Currently, these arrows only indicate external links to let visitors know that they will be directed away.
 Clicking one does &lt;strong&gt;&lt;em&gt;not&lt;/em&gt;&lt;/strong&gt; open it in a new tab or window.
 You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;/code&gt; (or &lt;code&gt;...window&lt;/code&gt;) (or click with Mouse3/MouseWheel).&lt;/p&gt;
@@ -12368,31 +12367,27 @@ browser&amp;rsquo;s JS disabled, but you&amp;rsquo;ll likely see weird syntax wh
 formula should be.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h3 id=&#34;no-ads&#34;&gt;No Ads&lt;/h3&gt;
-&lt;p&gt;Only marketers like ads.
-I don&amp;rsquo;t intend on monetizing this site with ads.&lt;/p&gt;
-&lt;p&gt;Also, did you know that a lot of online advertising you see depends on JS?&lt;/p&gt;
-&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
-
 &lt;h3 id=&#34;images&#34;&gt;Images&lt;/h3&gt;
-&lt;p&gt;Humans naturally tend to be visual.
+&lt;p&gt;Most of humans naturally tend to be visual.
 How does this translate well in a clean web design?&lt;/p&gt;
-&lt;p&gt;Big image size takes time to load, and will need more resources to serve it to the visitor.
-More resources mean more energy consumed means larger carbon footprint.&lt;/p&gt;
+&lt;p&gt;Big image size takes time to load, and will need more resources to serve
+it to the visitor. More resources mean more energy consumed means larger
+carbon footprint.&lt;/p&gt;
 &lt;p&gt;When adding an image to a post, I make sure that:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;it &lt;em&gt;does&lt;/em&gt; tell &amp;ldquo;more than a thousand words.&amp;rdquo;
-It must add value to the narrative,
-not distract the viewers from the main content.&lt;/li&gt;
-&lt;li&gt;it&amp;rsquo;s compressed as much as possible, to reduce its size, minimizing the time it takes to load.
-There are several tools you can use to do this.
-&lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li&gt;
+&lt;li&gt;it &lt;em&gt;does&lt;/em&gt; tell &amp;ldquo;more than a thousand words.&amp;rdquo; It must add value to the
+narrative, not distract the viewers from the main content.&lt;/li&gt;
+&lt;li&gt;it&amp;rsquo;s compressed as much as possible, to reduce its size, minimizing
+the time it takes to load. There are several tools you can use to do
+this. &lt;a href=&#34;https://tinyjpg.com&#34;&gt;Tiny JPG&lt;/a&gt; is an online image compression
+tool, in which you can upload up to 20 image files, max 5MB each.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Even with these points, adding an image is still a subjective decision.&lt;/p&gt;
-&lt;p&gt;I use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;, a &amp;ldquo;high-performance cli batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&#34;https://github.com/jarun/imgp&#34;&gt;imgp&lt;/a&gt;, a &amp;ldquo;high-performance cli
+batch image resizer and rotator,&amp;rdquo; that I can use offline.&lt;/p&gt;
 &lt;p&gt;From the command line, I do something like:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;imgp -x 1366x0 --quality&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;85&lt;/span&gt; -ew --optimize ~/image.jpg
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;imgp -x 1366x0 --quality=85 -ew --optimize ~/image.jpg
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
 &lt;li&gt;&lt;code&gt;-x&lt;/code&gt; is output resolution in HRESxVRES (horizontal and vertical resolution respectively).
 Here, I set HRES = 1366, and VRES will adapt to maintain the ratio.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;--quality&lt;/code&gt; is the quality factor.
@@ -12410,21 +12405,24 @@ creation, helps reduce the image size.&lt;/li&gt;
 burden on me to implement and moderate. But honestly, the tools out
 there just don&amp;rsquo;t meet my criteria.&lt;/p&gt;
 &lt;p&gt;One can still send their thoughts via this protocol called email, and
-mine is always at the footer! Sending comments via email is
-old school, but I feel like it promotes more thoughtful discussion
-rather than needless debate. The &amp;ldquo;friction&amp;rdquo; of having to open one&amp;rsquo;s
-email client certainly makes one be deliberate about the message they&amp;rsquo;re
+mine is always at the footer! Sending comments via email is old school,
+but I feel like it promotes more thoughtful discussion rather than
+needless debate. The &amp;ldquo;friction&amp;rdquo; of having to open one&amp;rsquo;s email client
+certainly makes one be deliberate about the message (or comment) they&amp;rsquo;re
 planning to send.&lt;/p&gt;
 &lt;p&gt;Also, if we know each other personally, feel free to message your
 comments to me directly via Signal, assuming we already have each
 other&amp;rsquo;s contact details.&lt;/p&gt;
+&lt;p&gt;Kami explains it better on her blog &amp;ldquo;&lt;a href=&#34;https://kami.bearblog.dev/why-comment-sections-suck-rei-want-to-comment-on-your-blog-post/&#34;&gt;Why Comment Sections Suck&lt;/a&gt;.&amp;rdquo;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
-&lt;h2 id=&#34;back-end&#34;&gt;Back-end&lt;/h2&gt;
+&lt;h2 id=&#34;other-important-stuff&#34;&gt;Other important stuff&lt;/h2&gt;
+&lt;p&gt;I have lumped together other technical stuff here that goes into serving
+this site to the visitors.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;on-static-site-generators-ssg-and-hugo&#34;&gt;On Static Site Generators (SSG) and Hugo&lt;/h3&gt;
 &lt;p&gt;I use &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator to build this site.&lt;/p&gt;
-&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
-
-&lt;h3 id=&#34;on-static-site-generators-ssg&#34;&gt;On Static Site Generators (SSG)&lt;/h3&gt;
 &lt;p&gt;Using SSG like Hugo arguably increases security by simplifying a lot of
 things. There is no server-side software to install, no database to keep
 up to date, and no PHP plugins to upgrade. It&amp;rsquo;s also an elegant solution
@@ -12433,11 +12431,6 @@ for read-only blogs like this one.&lt;/p&gt;
 for creating formatted text using a plaintext editor. Markdown files
 (&lt;code&gt;.md&lt;/code&gt;) are lightweight, portable, easy to backup, and transfer between
 computers.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://pandoc.org/&#34;&gt;Pandoc&lt;/a&gt; can also be used to generate HTML pages
-for a website. It&amp;rsquo;s easy to install. You can convert Markdown to HTML,
-and use those in your site. (Note: Pandoc is
-a &amp;ldquo;universal document converter,&amp;rdquo; it offers many uses outside of HTML
-generation, such as converting &lt;code&gt;.docx&lt;/code&gt; to &lt;code&gt;.pdf&lt;/code&gt;.)&lt;/p&gt;
 &lt;p&gt;Generation time depends on the size and volume of files that need to be
 compiled. Some SSGs could take up to a minute to build one whole site;
 some only &lt;em&gt;milliseconds&lt;/em&gt;.&lt;/p&gt;
@@ -12448,20 +12441,20 @@ will have to, at least, type your post offline, compile, and then push
 to your web host.&lt;/p&gt;
 &lt;p&gt;But I&amp;rsquo;ll take the massive freedom gains provided by SSGs anytime!
 See Jamstack for their list of &lt;a href=&#34;https://jamstack.org/generators/&#34;&gt;Site Generators&lt;/a&gt; if you want to know more.&lt;/p&gt;
-&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
-
-&lt;h3 id=&#34;using-hugo&#34;&gt;Using Hugo&lt;/h3&gt;
-&lt;p&gt;Great Hugo tutorials abound online, in blog posts and video formats.
-Some target new users;
-some have specific use cases in mind.&lt;/p&gt;
+&lt;p&gt;As for Hugo, tutorials abound online, in blog posts and video formats.
+Some target new users; some have specific use cases in mind.&lt;/p&gt;
 &lt;p&gt;However, like most tutorials online, they get outdated quickly.
 Sooner or later, reading the official documentation becomes necessary.&lt;/p&gt;
-&lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to read the manual.
-In case you&amp;rsquo;re stuck, you can also ask the community.
-Hugo has both decent &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;community&lt;/a&gt; and &lt;a href=&#34;https://gohugo.io/documentation&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Honestly, Hugo&amp;rsquo;s learning curve is steep, especially if you&amp;rsquo;re like me with no &amp;ldquo;real&amp;rdquo; coding experience.
-But if you have the patience to read, learn, and ask for help, Hugo, as well as other SSGs, might just be the right magic for you.&lt;/p&gt;
-&lt;p&gt;My process involves a lot of trial and error to get this site looking the way it is now, simple as it is.&lt;/p&gt;
+&lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to
+read the manual. In case you&amp;rsquo;re stuck, you can also ask the community.
+Hugo has both decent &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;community&lt;/a&gt; and
+&lt;a href=&#34;https://gohugo.io/documentation&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I would say that Hugo&amp;rsquo;s learning can be steep, especially if you&amp;rsquo;re like
+me with no &amp;ldquo;real&amp;rdquo; coding experience. But if you have the patience to
+read, learn, and ask for help, Hugo, as well as other SSGs, might just
+be the right magic for you.&lt;/p&gt;
+&lt;p&gt;My process involves a lot of trial and error to get this site looking
+the way it is now, simple as it is.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;disabling-internal-templates&#34;&gt;Disabling Internal Templates&lt;/h3&gt;
@@ -12473,25 +12466,23 @@ and I don&amp;rsquo;t have any use for them. They are:&lt;/p&gt;
 &lt;li&gt;Google Analytics;&lt;/li&gt;
 &lt;li&gt;Disqus comments;&lt;/li&gt;
 &lt;li&gt;Instagram cards;&lt;/li&gt;
-&lt;li&gt;Twitter cards;&lt;/li&gt;
+&lt;li&gt;Twitter (X) cards;&lt;/li&gt;
 &lt;li&gt;YouTube; and&lt;/li&gt;
 &lt;li&gt;Vimeo&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;To have a privacy-centered configuration,
-learn more about &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Hugo and the General Data Protection Regulation&lt;/a&gt;
-to &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/#disable-all-services&#34;&gt;disable all services&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To have a privacy-centered configuration, read on how to &lt;a href=&#34;https://gohugo.io/configuration/privacy/#article&#34;&gt;Configure privacy&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;privacy&#34;&gt;Privacy&lt;/h3&gt;
-&lt;p&gt;As far as I&amp;rsquo;m aware,
-this site:&lt;/p&gt;
+&lt;p&gt;As far as I&amp;rsquo;m aware, this site:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;has no ad trackers&lt;/li&gt;
+&lt;li&gt;has no ad trackers and no ad-tech companies behind;&lt;/li&gt;
 &lt;li&gt;has no third-party cookies;&lt;/li&gt;
 &lt;li&gt;has no tracking that evades cookie blockers;&lt;/li&gt;
 &lt;li&gt;has no session recording services;&lt;/li&gt;
 &lt;li&gt;has no keystroke logger;&lt;/li&gt;
 &lt;li&gt;has no Facebook Pixel;&lt;/li&gt;
+&lt;li&gt;has no Google Analytics [and their &amp;ldquo;remarketing audiences&amp;rdquo; feature]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The above findings are according to &lt;a href=&#34;https://themarkup.org/blacklight&#34;&gt;The Markup&amp;rsquo;s Blacklight tool&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -12506,43 +12497,52 @@ The VM runs on Debian 12 &amp;ldquo;Bookworm&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://nginx.org/en/&#34;&gt;nginx&lt;/a&gt; (&amp;ldquo;engine X&amp;rdquo;), is an HTTP and reverse proxy server.
 To meet defensive security standards,
 I have the snippet in my server configuration:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;server &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        server_name ohio.araw.xyz ;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        root /var/www/ohio.araw.xyz ;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        index index.html index.htm index.nginx-debian.html ;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header Content-Security-Policy &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;default-src &amp;#39;self&amp;#39;;&amp;#34;&lt;/span&gt; always;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header Strict-Transport-Security &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;max-age=31536000; includeSubDomains&amp;#34;&lt;/span&gt; always;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header X-Frame-Options &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;SAMEORIGIN&amp;#34;&lt;/span&gt;;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header X-XSS-Protection 1;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        add_header X-Content-Type-Options nosniff;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        location / &lt;span style=&#34;color:#f92672&#34;&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                try_files $uri $uri/ &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;404&lt;/span&gt; ;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;}&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;With this,
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;server {
+        server_name ohio.araw.xyz ;
+        root /var/www/ohio.araw.xyz ;
+        index index.html index.htm index.nginx-debian.html ;
+        add_header Content-Security-Policy &amp;#34;default-src &amp;#39;self&amp;#39;;&amp;#34; always;
+        add_header Strict-Transport-Security &amp;#34;max-age=31536000; includeSubDomains&amp;#34; always;
+        add_header X-Frame-Options &amp;#34;SAMEORIGIN&amp;#34;;
+        add_header X-XSS-Protection 1;
+        add_header X-Content-Type-Options nosniff;
+        location / {
+                try_files $uri $uri/ =404 ;
+        }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;With this,
 my site scores &lt;code&gt;A+&lt;/code&gt; in &lt;a href=&#34;https://observatory.mozilla.org/&#34;&gt;Mozilla Observatory&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;Computer laboratory was not my favorite back in high school.
-One of our lab works was to create our own (offline) website.
-It had to be interesting, catchy.
-That&amp;rsquo;s why many of my classmates had &lt;code&gt;&amp;lt;marquee&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags in their works.&lt;/p&gt;
+&lt;p&gt;Computer laboratory was not my favorite back in high school. Not because
+I hated &lt;a href=&#34;https://ohio.araw.xyz/computer&#34;&gt;computers&lt;/a&gt;; how could I when I loved playing video
+games in it? I was disinterested, I later realized,
+because of &lt;a href=&#34;https://ohio.araw.xyz/pedagogy&#34;&gt;how it was taught&lt;/a&gt;: rote memorization of the history of
+computing, of its important hardware and software; forcing us to use
+proprietary &lt;a href=&#34;https://ohio.araw.xyz/os&#34;&gt;operating system&lt;/a&gt; (Windows) and applications (mainly
+Microsoft Office suite and Adobe Photoshop).&lt;/p&gt;
+&lt;p&gt;Anyway, one of our lab works was to create our own (offline) website. It had to
+be interesting, catchy. Many of my classmates had &lt;code&gt;&amp;lt;marquee&amp;gt;&lt;/code&gt;
+and &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags, and of course, GIFs in their works.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t remember how mine looked, but I&amp;rsquo;m sure it&amp;rsquo;s basic,
 with broken links hither and thither.&lt;/p&gt;
-&lt;p&gt;More than a decade later, here I am, building one again.
-This time, I&amp;rsquo;m building this site because I enjoy doing it for myself.
-At least, I&amp;rsquo;ve retained the important bits on how HTML works,
+&lt;p&gt;More than a decade later, here I am, building and maintaining one.
+This time, I am enjoying the process.
+At least, I have retained the important bits on how HTML works,
 so I&amp;rsquo;m not starting from zero.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d like to say that I dedicate this to my former self, who couldn&amp;rsquo;t seem to grasp the importance of web design.
-As we rely on the internet for improving our collective knowledge,
-web designers and developers &lt;em&gt;must see to it&lt;/em&gt; that everyone can access information, in spite of the current tech they have.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I dedicate this site to my former self&lt;/strong&gt;, who couldn&amp;rsquo;t seem to grasp
+the importance of web design. As we rely on the &lt;a href=&#34;https://ohio.araw.xyz/internet&#34;&gt;internet&lt;/a&gt;
+for improving our collective knowledge, web designers and developers
+&lt;em&gt;must see to it&lt;/em&gt; that everyone can access information, in spite of the
+current tech they have.&lt;/p&gt;
 &lt;p&gt;Here are some other sites from which I also got inspiration:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;LOW←TECH MAGAZINE&lt;/a&gt;. Their article on &lt;a href=&#34;https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html&#34;&gt;how to build a low-tech website&lt;/a&gt; is eye-opening.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB Club&lt;/a&gt;, &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://actualwebsite.org/&#34;&gt;This is an Actual Website&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&amp;rsquo;s website&lt;/a&gt;, although it begs a few design tweaks to improve readability.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://brutalist-web.design/&#34;&gt;Brutalist Web Design&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;And other small, obscure personal blogs in the &amp;ldquo;smol net&amp;rdquo; and &amp;ldquo;dork web&amp;rdquo; that we have yet to discover.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
