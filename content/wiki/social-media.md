@@ -14,7 +14,7 @@ like Friendster and Yahoo Messenger were fun ways to keep in touch
 with classmates and friends after school hours, or, if you are older
 than me, colleagues from work.
 
-Even when we all started migrating to Facebook, it was just this thing that
+Even when we all started migrating to Facebook sometime around 2009, it was just this thing that
 we did for a few hours, before eventually logging out to do other
 things in the real world.
 
@@ -27,7 +27,7 @@ them to analyze. More data means personalized ads for you and me.
 
 Who does not like seeing the things what our friends and family are up
 to these days?
-Do we not light up when they talk about something we love [to hate]?
+Do we not light up when they talk about something we also love [to hate]?
 Social connection is important to us, and social media platforms have
 become the digital bridges that collapse distance and time between two
 or more people.
@@ -48,12 +48,12 @@ To keep us engaged, an algorithm is baked into the design of a social
 media platform. No one really fully understands how an algorithm works,
 except that it keeps a running tally of what types of "content" a user
 usually interacts with, and from this it puts it into a "black box"
-(i.e., the algorithm itself where tha magic is made) that outputs a feed
+(i.e., the algorithm itself where magic happens) that outputs a feed
 of probably similar content that the user might want to engage with
 more. The key is to retain users for as long as possible, and the
 algorithm is one of the main tools for that.
 
-If you are interacting with friends, families, or even strangers, in
+If you are interacting with friends, families, or even strangers in
 social media, but are using it through a colorful, algorithmically
 personalized feed, are you sure it benefits everyone involved, or is it
 just the cheap thrill of chasing dopamine that pushes the loneliness

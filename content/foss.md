@@ -9,10 +9,11 @@ draft: false
 
 ## Default apps
 
-- Operating System: [Alpine Linux v3.21 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
+- Operating System: [Alpine Linux v3.22 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
 - Web Browsers: [Chromium](https://www.chromium.org/chromium-projects/) (laptop), [Mull](https://divestos.org/pages/our_apps#mull) (Android)
-    - Browser add-ons: uBlock Origin, Redirector, SponsorBlock
+    - Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy
+      Badger, Wayback Machine
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
       Rural Dictionary, rimgo, Quetre)
 - Search engine: [Searx](https://searx.be/)

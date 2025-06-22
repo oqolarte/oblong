@@ -15,10 +15,10 @@ A good design is the result of patience.
 
 ## Characteristics of a good design
 
-Amalgamation of ideas of both
+Pulls ideas from many sources, including
 [Koray Er](https://korayer.de/posts/good-design.txt)
 and
-[Dieter Rams](https://www.vitsoe.com/us/about/good-design)
+[Dieter Rams](https://www.vitsoe.com/us/about/good-design):
 
 1. Accessible to as many people as possible
 2. Innovative
@@ -31,6 +31,7 @@ and
 10. Thorough down to the last detail
 11. Environmentally-friendly
 12. Simple and without the non-essentials
+13. Compassionate and empathetic
 
 ## Other adjacent topics
 
@@ -40,3 +41,7 @@ and
 - [Color palette generator](https://coolors.co/)
 - [Typography](/typography)
 - [Japanese Design Principles](/japanese-design-principles)
+
+## Further reading
+
+- "[A manifesto for culture-based design](https://curatorio.substack.com/p/a-manifesto-for-culture-based-design)"

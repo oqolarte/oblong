@@ -8,9 +8,9 @@ enableGitInfo = true
     name = "ohio olarte"
 
 [permalinks]
-    log = "/:filename:"
-    project = "/:filename:"
-    wiki = "/:filename:"
+    log = "/:contentbasename:"
+    project = "/:contentbasename:"
+    wiki = "/:contentbasename:"
 
 [frontmatter]
 	date = ["date", "publishDate"]
@@ -38,9 +38,6 @@ enableGitInfo = true
     respectDoNotTrack = true
   [privacy.instagram]
     disable = true
-  [privacy.twitter]
-    disable = true
-    enableDNT = true
   [privacy.vimeo]
     disable = true
     enableDNT = true
