@@ -13,8 +13,8 @@ enableGitInfo = true
     wiki = "/:contentbasename:"
 
 [frontmatter]
-	date = ["date", "publishDate"]
-	lastmod = [":git", "lastmod", ":fileModTime", ":default"]
+    date = ["date", "publishDate"]
+    lastmod = [":git", "lastmod", ":fileModTime", ":default"]
 
 [markup]
   [markup.goldmark]
