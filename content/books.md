@@ -13,13 +13,14 @@ finish reading.
 
 ## Currently reading
 
-| Book Title             | Author/s                        |
-|------------------------|---------------------------------|
-| The Botany of Empire   | Banu Subramaniam                |
-| Dune Messiah           | Frank Herbert                   |
-| The Dawn of Everything | David Graeber and David Wengrow |
-| Braiding Sweetgrass    | Robin Wall Kimmerer             |
-| Doctor to the Barrios  | Juan Flavier                    |
+| Book Title             | Author/s                           |
+|------------------------|------------------------------------|
+| The Botany of Empire   | Banu Subramaniam                   |
+| Children of Dune       | Frank Herbert                      |
+| The Dawn of Everything | David Graeber and David Wengrow    |
+| Braiding Sweetgrass    | Robin Wall Kimmerer                |
+| Doctor to the Barrios  | Juan Flavier                       |
+| The Vegetarian         | Han Kang (Trans. by Deborah Smith) |
 
 ## Completed
 
@@ -91,6 +92,7 @@ I read slowly, you might notice.
 | [Doppelganger](/263/#brief-review-of-doppelganger)                             | Naomi Klein           |
 | [Global Battlefields](/267/#brief-review-of-global-battlefields)               | Walden Bello          |
 | [Dune](/276/#brief-review-of-dune)                                             | Frank Herbert         |
+| Dune Messiah                                                                   | Frank Herbert         |
 
 
 ## Did not finish
