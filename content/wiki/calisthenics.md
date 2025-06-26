@@ -20,21 +20,21 @@ Since I'm no expert, I'll spare the details in the number of reps
 and sets.
 
 **PUSH** exercises:
-- Ring push-ups > Diamond push-ups > regular push-ups > knee push-ups >
+- Ring push-ups ➔ Diamond push-ups ➔ regular push-ups ➔ knee push-ups ➔
   advanced incline push-ups
 - [Ring, or most likely, bench] Dips
 - Wall-assisted hand stands
 
 **CORE** exercises:
-- Hanging leg raises > Advanced hanging knee Raises > Hanging knee
-  raises > Full leg raises > knee raises
+- Hanging leg raises ➔ Advanced hanging knee Raises ➔ Hanging knee
+  raises ➔ Full leg raises ➔ knee raises
 - Hollow body hold
 - L-sit
 - Full Bridges
 - Dragon flag
 
 **PULL** exercises:
-- Full pullups > Negative pullups
+- Full pullups ➔ Negative pullups
     - **Cue**: Imagine bending the bar into a rainbow shape
 
 **LEGS** exercises:

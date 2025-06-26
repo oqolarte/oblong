@@ -6,13 +6,14 @@ draft: false
 
 I like writing, and I intend to get better at it.
 
-Writing allows me to
-shape my thoughts better, either by formalizing them, or by structuring
-them
-for others outside myself to better understand my thoughts.
-It's a stress test to see if certain
-ideas can connect well, if at all, and if the end result would be of any
-use to you and/or the readers.
+{{< toc >}}
+
+## Intro
+
+Writing allows me to shape my thoughts better, either by formalizing
+them, or by structuring them for others. It's a stress test to see if
+certain ideas can connect well, if at all, and if the end result would
+be of any use to you and/or the readers.
 
 > The person who says he knows what he thinks but cannot exress it
 > usually does not know what he thinks.
@@ -26,22 +27,19 @@ the headline should have the most relevant information;
 this is what the readers will see first.
 
 ## [How to Write in the Age of Distraction](http://www.locusmag.com/Features/2009/01/cory-doctorow-writing-in-age-of.html)
+
 - Have a short, regular work schedule
-- Leave yourself a rough edge.
-Stop when you hit your daily word-goal,
-especially if it's mid sentence.
-When you pick it up next day, you'll have the prompt you need.
-- Don't research.
-Getting factual all the time gets in the way of writing.
-- Don't be ceremonious.
-The perfect setup and/or writing environment is nonexistent.
-So just try to do with what you have.
-- Kill your word-processor.
-Write in plaintext using text editors like vi (or vim or neovim),
-emacs, notepad, textedit, etc.
-- Realtime communications tools are deadly.
-They are distractions.
-Have a schedule for them.
+- Leave yourself a rough edge. Stop when you hit your daily word-goal,
+  especially if it's mid sentence. When you pick it up next day, you'll
+  have the prompt you need.
+- Don't research. Getting factual all the time gets in the way of
+  writing.
+- Don't be ceremonious. The perfect setup and/or writing environment is
+  nonexistent. So just try to do with what you have.
+- Kill your word-processor. Write in plaintext using text editors like
+  vi (or [vim](/vim) or neovim), emacs, notepad, textedit, etc.
+- Realtime communications tools are deadly. They are distractions. Have
+  a schedule for them.
 
 ## Technical writing
 
@@ -92,13 +90,27 @@ reader is just Future Me.
 
 ## Some more principles to live by
 
-1. [Take care of your body](/health).
-Mental output is directly correlated to one's physical well-being.
-2. Have your own work space.
-Both a distraction-free physical and mental space helps.
-3. Collect inspiration.
-Start by reading everything.
-4. Leave space for daydreaming.
-Allow yourself to look inward,
-to audit the mental inventory,
-to think about thinking even.
+1. [Take care of your body](/health). Mental output is directly
+   correlated to one's physical well-being.
+2. Have your own work space. Both a distraction-free physical and mental
+   space helps.
+3. Collect inspiration. Start by reading everything.
+4. Leave space for daydreaming. Allow yourself to look inward, to audit
+   the mental inventory, to think about thinking even.
+
+## Getting feedback using CRIBS
+
+I found the [CRIBS formula](https://perell.com/note/cribs-my-writing-feedback-formula/) via David Parell.
+
+The acronym stands for: confusing, repeated, interesting, boring,
+surprising.
+
+1. **Confusing**: Replace any confusing words or phrases that everybody
+   understands. Or, clarify ideas by simplifying and/or giving more
+   examples.
+2. **Repeated**: Remove repeating parts.
+3. **Interesting**: Elaborate on your interesting ideas so that readers
+   will stick around.
+4. **Boring**: Remove boring ideas, or rewrite boring deliveries of ideas.
+5. **Surprising**: Remove parts that contain no surprise. Build suspense
+   before every surprise.
