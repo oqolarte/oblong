@@ -11,11 +11,6 @@ An incomplete list of blogs that I find interesting currently.
 : writes about their hobbies and projects, tech, health, Right to
 Repair, Car-free Cities, and other things that I vibe with.
 
-[Dan Luu](https://danluu.com)
-: is a developer who deep-dives into various topics,
-including computer latencies, cocktail party ideas, and
-everything in between, housed in a barely-formatted website.
-
 [Em](https://www.conscienceround.com/)
 : likes writing, and people, and maybe writing about people, that maybe
 gut-punches the reader, but not in a horrible way.
@@ -46,6 +41,11 @@ practices" from their solar-powered server in Barcelona.
 : writes about cyberpunk, hacktivism, and other technical articles. I'm
 interested in their thoughts about cybersecurity in general.
 
+[Matthew Cambion](https://starbreaker.org/)
+: contains, like many of us, multitudes: a metalhead; generally
+irreligious, anti-authoritarian, and anti-capitalist; and also an
+incorrigible geek (all his words).
+
 [Mandy Brown](https://everythingchanges.us/)
 : talks about the more progressive practices that we could/should have
 in our workplaces.
@@ -58,7 +58,8 @@ and often talks about the overlap of the two.
 : likes to share her findings on niche operating systems like NixOS
 and BSDs.
 
-[The Amphibian](https://www.marianilad.com/) : is written by Maria
+[The Amphibian](https://www.marianilad.com/)
+: is written by Maria
 Nilad, a Filipina poet and essayist who offers "medicine and solutions
 in equal measure, for anxious environmentalists, cynical humanists, and
 kin-makers of all kinds."

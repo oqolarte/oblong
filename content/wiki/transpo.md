@@ -6,6 +6,7 @@ draft: false
 ---
 
 A city should be **devoted to the pedestrians**, first and foremost.
+If you see no sidewalk, claim a space for it.
 
 {{< toc >}}
 

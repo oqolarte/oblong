@@ -4,10 +4,6 @@ date: 2022-08-15
 draft: false
 ---
 
-**TL;DR**: It's like a pot luck.
-Bring what you can,
-take what you need.
-
 {{< toc >}}
 
 ## Mutual aid in details
@@ -67,7 +63,7 @@ lives, but it requires still our participation in transforming these
 gifts to something we can use or eat, and in making sure that these
 gifts exist Tomorrow.
 
-## Gift economy?
+## Gift economy and beyond
 
 Some might say that mutual aid is gift economy, although there might be
 more nuance to that.
@@ -79,10 +75,10 @@ fellow people that both giving and receiving gifts might feel sketchy
 for some, and yet... doesn't it feel nice? To remember and be remembered
 through gifts, no matter how big or small.
 
-Despite "expecting nothing in return," gift-giving in many cases creates a bond of reciprocity,
-not as [*utang na loob*](/dangal) (in [Filipino values](/filipino-values)) but maybe as a way
-of remembering other people in our lives, and wanting them to remember
-us.
+Despite "expecting nothing in return," gift-giving in many cases creates
+a bond of reciprocity, not as [*utang na loob*](/dangal)
+(in [Filipino values](/filipino-values)) but maybe as a way of remembering other
+people in our lives, and wanting them to remember us.
 
 It does not feel right to make it transactional. Or to even
 commodify gifts. Humans have the gift *and* responsibility to be
@@ -90,15 +86,20 @@ grateful which could start a cycle of reciprocity.
 
 ## Mutual aid is different from charity
 
-On the other hand, charity---and many of its recent forms
-including [effective altruism](/ea) and longtermism---has a clear power imbalance:
-one side, as the "superior" side in wealth and social standing,
-gives things out of pity to the other side.
-It's psychologically harmful to those on the receiving end,
-and also makes them dependent on the caprice of the emotions
-of those who give,
-instead of having anything to give in return
-so as to motivate them to give.
-And for those on the giving end, it's more of a virtue signal or a way
-to assuage one's conscience than anything that's really sustainable from
-a societal perspective.
+On the other hand, charity---and many of its recent forms including
+[effective altruism](/ea) and longtermism---has a clear power imbalance:
+one side, as the "superior" side in wealth and social standing, gives
+things out of pity to the other side. This top-down and unidirectional
+approach is psychologically harmful to those on the receiving end, and
+also makes them dependent on the caprice of the emotions of those who
+give, instead of having anything to give in return so as to motivate
+them to give. And for those on the giving end, it's more of a virtue
+signal or a way to assuage one's conscience than anything that's really
+sustainable from a societal perspective.
+
+The best way to ensure that decisions represent the interests of those
+they impact is to make sure that theone who are immediately impacted are
+the ones making the decisions. The ones with the problem have and are
+themselves the solution.
+
+Dean Spade's essay "[Solidarity Not Charity](https://www.deanspade.net/wp-content/uploads/2020/03/Mutual-Aid-Article-Social-Text-Final.pdf)" illuminates more of this.
