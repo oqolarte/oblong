@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 <h1>{{ .Title }}</h1>
+<p><em>of the state I find myself in</em></p>
 {{ range .Pages.ByPublishDate.Reverse }}
 {{ partial "dateList.html" . }} <a href="{{ .RelPermalink }}">{{ .Title }}</a> <br>
 {{ end }}

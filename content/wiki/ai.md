@@ -45,7 +45,7 @@ One might use gen AI for any of the following:
 A lot of AI-related startups and research labs depend on the
 infrastructure that Microsoft, Amazon, and Google provides.
 
-[Can we even achieve full automation without the human touch](/autonomation)?
+Can we even achieve [full automation without the human touch](/autonomation)?
 In CNET's YouTube video "[Apple Intelligence is for the Stupid Ones](https://www.youtube.com/watch?v=D0V554NyXWM)",
 Bridget Carey observes that the point of AI "was supposed to save us
 time[.]" Carey further asks:
@@ -55,7 +55,43 @@ time[.]" Carey further asks:
 > thinking the chore? [...] So, is the value having the computer do the
 > thinking for us?
 
-I don't want that, after having read Victoria Turk's piece on
+### Slop as result of offloading creativity to AI
+
+I believe that the "chore" was menial and dirty jobs that machines could
+do better and quicker while also freeing up humans of time.
+
+If, on the other hand, the chore is creativity, then I don't want AI
+"solving" that "problem", especially if the consequence is ingesting
+works of art and blending them all into bland slop for lazy
+creative-wannabes.
+
+Most gen AIs are trained on copyrighted material, and in the process
+actively harm the people they stole from by pushing them out of creative
+fields, making those fields even more difficult to enter for working
+class people.
+
+### Privacy and security nightmare
+
+When AI systems become agents on behalf of the user, doing things with
+some degree of autonomy, it will be *more* of a [privacy](/privacy) and
+[security](/security) nightmare.
+
+As it currently stands, they already are for women and children’s
+safety, especially with apps that "nudify" photos.
+
+AI might be recording users’ data without their knowledge or
+[consent](/consent) which is a major privacy concern. People are now talking
+to ChatGPT as though it were a empathetic human friend. At Post-human
+Posting, the author FAFOs about this on his funny write up
+"[I Built an AI Girlfriend And It Ruined My Life](https://posthuman.blog/i-made-an-ai-gf/)".
+
+All of the intimate details that one shares with an LLM will go to a
+corporation that does not care about people unless it's about their data
+from which they could extract more profit.
+
+### AI reinforces stereotypes
+
+after having read Victoria Turk's piece on
 [how AI reduces the world to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/).
 In it, the author quoted Amba Kak, executive director of AI Now
 Institute:
@@ -68,7 +104,9 @@ Institute:
 AI worsens misinformation and low-quality content because it lacks the
 ethical nuance with which to include in the contents it produces.
 
-In [an interview by *The Guardian*](https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent), Kate Crawford said on what people should know about how AI products are made (emphasis mine):
+In [an interview by *The Guardian*](https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent),
+Kate Crawford said on what people should know about how AI products are
+made (emphasis and added hyperlink mine):
 
 > We aren’t used to thinking about these systems in terms of the
 > environmental costs. But saying, “Hey, Alexa, order me some toilet
@@ -80,6 +118,13 @@ In [an interview by *The Guardian*](https://www.theguardian.com/technology/2021/
 > shuffling Amazon boxes. **AI is neither artificial nor intelligent. It
 > is made from natural resources and it is people who are performing the
 > tasks to make the systems appear autonomous.**
+
+### Proliferation of misinformation
+
+Gen AIs normalize the spread of lies and misinformation. If our
+educators failed to teach the importance of critical thinking and the
+act of fact checking in the Age of (Mis)Information, then AI will be
+used to accelerate [fascism](/fascism) in many parts of the world.
 
 ### Grief tech
 

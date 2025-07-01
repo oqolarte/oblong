@@ -26,7 +26,7 @@ refine these tools using complex and expensive computing power.
 Klein likened this hoarding of our data as data mine sites, the mining
 operators being the Big Tech's platforms which, in the case for the
 [so-called Philippines](/pilipinas), means they are overseas and from
-Global North nations. And like actual mining sites, this data mining is
+Global North nations. And like actual [mining](/mining) sites, this data mining is
 catastrophe, involving multiple violations of human rights. For example of this,see Dark Reading's article "[Pegasus Spyware Infections Proliferate Across iOS, Android Devices](https://www.darkreading.com/endpoint-security/pegasus-spyware-infections-ios-android-devices)".
 
 ## Gait analysis

@@ -216,7 +216,7 @@ from which are burned to be charcoal, used for heating and cooking in
 the villages.
 
 Most Congolese government officials deny or diminish the existence of
-child labor in mining. At least one of them (according to Kara's
+child labor in [mining](/mining). At least one of them (according to Kara's
 interviews) said that they (the children) were
 [Pygmies](https://en.wikipedia.org/wiki/Pygmy_peoples), implying that
 they are actually not children, but rather adults whose average height
@@ -280,17 +280,8 @@ types of people are allowed to monopolize it.
 
 Night markets for cobalt trading between artisanal miners and
 *négociants* further muddy the supply chain by "laundering" artisanally
-mined cobalt (i.e., cobaltmined through slavery) into the more formally
+mined cobalt (i.e., cobalt mined through slavery) into the more formally
 industrially mined cobalt, out of sight.
-
-I have yet to hear or know of a mining company that gives back to the
-commuhity more than what they have taken from it. I'm cynical about
-[Maharlika fund](https://www.mic.gov.ph/) loaning around US$ 76.4 million to Makilala Mining in
-Kalinga Province (here in the so-called Philippines). The latter, in
-doublespeak, claims that the loan would fund "responsible mining." See
-these news articles:
-- Manila Bulletin: [Maharlika Fund invests $76.4 million to advance Cordillera mining project](https://mb.com.ph/2025/2/25/maharlika-to-invest-76-4-million-in-makilala-mining-company)
-- Rappler: [After NGCP, Maharlika injects $76.4 million into Makilala Mining Company](https://www.rappler.com/business/maharlika-stake-makilala-mining-company/)
 
 Congolese people, Kara argues, will continue to suffer under their
 government thievinga the fruits of their labor. Political elites

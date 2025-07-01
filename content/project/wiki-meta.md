@@ -243,3 +243,11 @@ wiki should now be included and is ready to be published online.
 ## BONUS: Vimwiki on-the-go with Markor and Syncthing
 
 Edit notes on your Android smartphone by using [Markor](https://github.com/gsantner/markor), a FOSS markdown editor, and [Syncthing](https://syncthing.net/) to sync the notes between phone and computer.
+
+## Further reading
+
+In case you, dear reader, still want to have your own digital garden but
+cannot be bothered to take on the (relatively) steep learning curve of
+both Hugo and VimWiki, consider looking into the resource/s below:
+
+- [Notes on making a Digital Garden with WordPress](https://cagrimmett.com/2023/11/09/notes-on-making-a-digital-garden-with-wordpress/) by Chuck Grimmett.

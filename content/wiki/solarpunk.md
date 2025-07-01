@@ -21,7 +21,7 @@ embody the question “what does a
 It's a hopeful rendition of the future in which [appropriate technology](https://www.appropedia.org/Appropriate_technology),
 renewable energy, and sustainable living practices [empower us to build communities](/mutual-aid) that we want to live in.
 
-Solarpunk, like cyberpunk, steampunk and other
+Solarpunk, like cyberpunk, steampunk and adjacent
 -punk movements, deeply examines how [technology](/technology)
 has affected our lives,
 and how might we imagine it continue doing so,
@@ -62,10 +62,14 @@ in this imagined future:
 
 ## Solarpunk in the Philippine archipelago
 
-A solarpunk society in [the Philippine archipelago](/pilipinas) could potentially
+A solarpunk society in [the Philippine archipelago](/pilipinas)
+could potentially
 thrive by leveraging the region's natural resources and favorable
-climate to support the widespread adoption of renewable energy sources
+climate[^sea] to support the widespread adoption of renewable energy sources
 such as solar, wind, and hydroelectric power.
+
+[^sea]: That is, if the seas haven't risen yet to swallow our coastal
+regions and submerging low-lying cities.
 
 Our energy demand can be managed at the community level. This might mean
 installing small-scale solar panels and wind turbines on rooftops, as
@@ -78,7 +82,7 @@ After all, we know if it's too good to be true,
 it likely is.
 
 But such visions should inspire us to create and mold
-better communities Now.
+[better communities](/community) Now.
 While it's impossible to achieve a perfect society
 (which is subjective really),
 living the [revolution](/revolution) in the present

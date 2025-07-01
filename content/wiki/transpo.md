@@ -55,7 +55,7 @@ than their combustion counterparts, in that they still require obscene
 amounts of energy in order to be manufactured and operated.
 
 Where will we get the lithium, [cobalt](/cobalt-in-congo), and other rare earth metals for
-the battery if not by mining them from the ground, sourced most likely
+the battery if not by [mining](/mining) them from the ground, sourced most likely
 through slavery in Congo?
 
 We don't transition to clean energy by jumping into electric cars.

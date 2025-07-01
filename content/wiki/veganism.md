@@ -4,6 +4,10 @@ date: 2022-08-17
 draft: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 There's so much heated debate between vegans and omnivores online and
 elsewhere.
 
@@ -26,3 +30,21 @@ Eating a corpse does nothing to the animal after it's dead, and if
 everything is going to die eventually, farming animals for meat is in of
 itself alright. But if that farming involves the unspeakable torture,
 it's unjustifiable and loathesome.
+
+## Is it the answer?
+
+To what, exactly, I am not sure.
+
+It could be that veganism is the answer to *many* different problems,
+like climate crisis and animal cruelty.
+
+As we transition from the current [empires](/empire) of oppression into
+a [solarpunk](/solarpunk) future, I imagine it will be more like just
+slightly more technically advanced version of Indigenous Peoples' way of
+living. And as we know, IP still "consume" animal products, but on much
+smaller scale, implementing more mindful ways that in so doing does not
+rob the land of Life, very much unlike industrialized animal husbandry
+that we know today.
+
+Until we get there, vegans are probably on the right path.
+
