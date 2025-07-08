@@ -242,7 +242,9 @@ wiki should now be included and is ready to be published online.
 
 ## BONUS: Vimwiki on-the-go with Markor and Syncthing
 
-Edit notes on your Android smartphone by using [Markor](https://github.com/gsantner/markor), a FOSS markdown editor, and [Syncthing](https://syncthing.net/) to sync the notes between phone and computer.
+Edit notes on your Android smartphone by using:
+- [Markor](https://github.com/gsantner/markor), a FOSS markdown editor; and
+- [Syncthing](https://syncthing.net/) to sync the notes between phone and computer.
 
 ## Further reading
 

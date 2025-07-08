@@ -52,6 +52,16 @@ for this but here goes:
 
 - Amy Winehouse
 - Chester Bennington
+    - Not only was it sad to know that he succumbed to the dark, but as
+      Antonio Melonio put it in his essay "[Emptiness Machine](https://beneaththepavement.substack.com/p/emptiness-machine)",
+      many years later "the dark was *repurposed*---packaged---and sold
+      to millions of millenial teenagers as catharsis on demand... He
+      was replaced, and the show goes on." This is quite different from
+      when Led Zeppelin's drummer [John Bonham died in 1980](https://en.wikipedia.org/wiki/John_Bonham#Death). Instead of
+      replacing their him, the rock group disbanded, likely because of
+      the "deep respect [they] have for [Bonham's] family, together with
+      the sense of undivided harmony felt by ourselves and our
+      manager[.]"
 - Anthony Bourdain
 - Grant Imahara
 

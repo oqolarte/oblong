@@ -14,9 +14,9 @@ like Friendster and Yahoo Messenger were fun ways to keep in touch
 with classmates and friends after school hours, or, if you are older
 than me, colleagues from work.
 
-Even when we all started migrating to Facebook sometime around 2009, it was just this thing that
-we did for a few hours, before eventually logging out to do other
-things in the real world.
+Even when we all started migrating to Facebook sometime around 2009, it
+was just this thing that we did for a few hours, before eventually
+logging out to do other things in the real world.
 
 Now, it's safe to say that a lot has changed. The biggest social media
 platforms are designed to retain users for as long as possible, because

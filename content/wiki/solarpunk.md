@@ -108,4 +108,10 @@ will lead to a more equitable environment for future generations.
 
 ## Further reading
 
-- [On the Political Dimensions of Solarpunk](https://medium.com/solarpunks/on-the-political-dimensions-of-solarpunk-c5a7b4bf8df4): 2015 article that still holds up reasonably well
+- [On the Political Dimensions of Solarpunk](https://medium.com/solarpunks/on-the-political-dimensions-of-solarpunk-c5a7b4bf8df4):
+  2015 article that still holds up reasonably well
+- In the essay "[Cozy sci-fi and why we can't have nice things](https://tadaima.bearblog.dev/cozy-sci-fi-and-why-we-cant-have-nice-things/)",
+  the author touches upon "imagin[ing] a utopia that's bright and
+  positive" and yet remaining firm that books (and any work of
+  speculative fiction for that matter) "should still have a strong story
+  and strong characters."
