@@ -10,10 +10,9 @@ math: false
 ## Introduction
 
 Nature is the first open source entity we encounter. Its generosity
-extends to its ecosystems' participants. We humans used to
-give and take in such; and in fact, some of us like the Indigenous Peoples
-still do, taking part with the animals and plants in the ecological
-mutual aid.
+extends to its ecosystems' participants. We humans used to give and take
+in such; and in fact, some of us like the Indigenous Peoples still do,
+taking part with the animals and plants in the ecological mutual aid.
 
 The empire of growth, conquest, and profit, though, rewards
 destructive behaviors.

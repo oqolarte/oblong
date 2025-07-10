@@ -295,6 +295,11 @@ genocide against Native Americans and their slavery of Black people.
    centuries of discrimination prior) *AND* settler colonists who has
    been causing ethnic cleansing to Palestinian people. Victims can and
    has the potential to victimize others. Hurt people hurt people.
+4. As Huda El-Jamal wrote in her essay "[We don't deserve a free Palestine](https://hudaeljamal.substack.com/p/we-dont-deserve-a-free-palestine)",
+   Palestine will be free when "we free ourselves---from our numbness,
+   our excuses, and our betrayal of truth," suggesting that we should
+   never stop talking about and looking at the on-going horrors
+   happening there against Palestinian people.
 
 ## Related reading
 
