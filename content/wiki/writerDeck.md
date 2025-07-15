@@ -10,4 +10,3 @@ math: false
 ## Inspiration
 
 - https://arleym.com/ergonomic-writing-setup/
-

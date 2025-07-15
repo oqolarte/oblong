@@ -29,3 +29,18 @@ math: false
 5. Add glue.
 6. Let it dry for 8 hours in the open air.
 7. Cut off the excess from the mesh. The art is now ready to be glued!
+
+## Best practices for mosaic QR code
+
+1. The distance between each tile should either be zero or the same
+   color as the tiles next to it. It is best to avoid white space
+   between two black tiles
+2. There shouldn’t be a lot of bevel on the tiles. It could reflect
+   light and make the lines between the square parts stand out
+3. The colors must contrast well. Before making a large, sophisticated
+   QR Code, test out a similar smaller version for scannability.
+
+## Further reading
+
+- https://artaic.com/qr-code-mosaics/
+- https://blog.mosaicartsupply.com/qr-code-mosaic-sign/

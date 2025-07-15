@@ -18,14 +18,17 @@ I tend to agree.
 Anyway, here is the list, in no particular order:
 
 1. Wifi antenna
-1. Soap from used oil
 1. Hand tools
 1. Computer monitor upcycled from an old laptop
 1. Laundry detergent
-1. Repair, refurbish, and/or repurposing of different consumer electronics
-1. Make a free and open-source software *and* hardware, but not necessarily found together in a single device, that a layperson would find useful
+1. Repair, refurbish, and/or repurposing of different consumer
+   electronics
+1. Make a free and open-source software *and* hardware, but not
+   necessarily found together in a single device, that a layperson would
+   find useful
 1. Bio-digester
 1. Leather jacket made of mushrooms (mycelia jacket)
-2. Wearable dashcam, powered by body heat (using thermoelectric generator)
+2. Wearable dashcam, powered by body heat (using thermoelectric
+   generator)
 
 As soon as I start working on an idea here, it will be migrated to the [Projects](/project/) page.

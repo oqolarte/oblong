@@ -17,3 +17,13 @@ People in what I would say chronic grieving tend to not prioritize
 addressing their libidos. And that is understandable. As in the case of
 SO, they are looking for their desap, which entails intense emotional
 labor.
+
+## Other ideas worth exploring
+
+- Not having enough means to survive puts undue stress to a person's
+  psyche. Women have it harder, as they have to also defend themselves
+  against sexual violence and abuse on top of addressing their basic
+  needs.
+- Can [ethical non-monogamy](/non-monogamy) be the answer to this? That
+  is, should people start believing that romantic/sexual love cannot be
+  shared between one other person only?
