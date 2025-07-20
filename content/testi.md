@@ -48,4 +48,6 @@ clarity and/or anonymized for privacy.
 > "Very good in managing tasks. Always ready to offer help to
 > colleagues. Always clear when communicating with others."
 
+> "[Siya] ang idea ko ng gwapo. ([He is] my idea of handsome.)"
+
 *More soon...*

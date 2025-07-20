@@ -40,7 +40,7 @@ for the progeny. Stevens even talks optimistically about how our
 excessive use of [social media](/social-media) is our way of getting
 addicted to "what's next," comparing it to how humans have evolved to
 feel good about exploring the unknown. Which is what gambling also
-exploits, I guess?[^vsauce]
+exploits, I guess?
 
 [^vsauce]: I am neither fully endorsing the ideas behind the linked YouTube
 video, nor am I a fan of his style of
@@ -48,7 +48,7 @@ presentation in general, but I add them here because I think he
 succeeded in "engaging lengthy video essays" department; and traveling
 on his through line is a trippy experience.
 
-[^MCR]: I never said I'd lie in wait forever for an chance to
+[^MCR]: I never said I'd lie in wait forever for a chance to
 unabashedly make a My Chemical Romance reference. This is my odd way of
 coping with the fact that I may never get to see them live next year
 (APR 2026) when they perform at the Philippine Arena.
