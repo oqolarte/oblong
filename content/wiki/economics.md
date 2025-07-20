@@ -4,6 +4,10 @@ date: 2022-11-11
 draft: false
 ---
 
+![Astrology is more of a science than economics](/image/astrology.png)
+
+{{< toc >}}
+
 Economics is an analysis of production, distribution, and consumption
 of goods and services.
 
@@ -56,6 +60,27 @@ Not to mention the environmental destruction caused by the constant
 production and subsequent discarding of things. The biggest product of
 [capitalism](/capitalism) is waste.
 
+## Economics is a joke
+
+It is sentiment I have heard other people who had to go through it as
+college coursework uttered more than once.
+
+Artemis [shares the following their post](https://cozypper.net/2025/07/08/the-way-this-is-not/),
+also
+touching upon how to some, the market *is* god (hyperlinks added by me):
+
+> Mainstream economics as it’s taught at universities is a joke. It’s a
+> [religion](/religion) that twists reality to fit its theorems instead
+> of adapting to what is out there. It even had its own prophets as
+> found in John Locke or Adam Smith, eternal suffering be upon them.
+> Their scripture is obsessed with trying to be physics so badly and
+> it’s pathetic. Human interactions don’t follow neat laws. If your
+> theory needs a model that is never found anywhere and never under any
+> circumstances, then what the fuck are you modeling it for?!
+
+We should not pretend economics is a science. There should not even be a
+Nobel Prize in Economics, and it was not one of the original five Nobel
+Prizes.
 
 TODO (digest)
 

@@ -27,7 +27,7 @@ disasters brought about by climate change, even loneliness and death.
 
 It has ended so many lives, and yet it is not [our deaths](/death) that
 the elite class fear but our lives. Alive, we can be learning and
-kicking to topple the oppression.
+[kicking to topple the oppression](/direct-action).
 
 When we no longer think of profit as the sole path to growth; when we no
 longer sacrifice lives and the environment to "meet this
