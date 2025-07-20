@@ -60,3 +60,36 @@ room for the favorite blanket.
 Wealth and comfort is relative. But glutton can be seen and judged by
 how everything around it behaves, like observing a black hole as it
 sucks in the light and distorts its environment.
+
+## Concerns with simple living
+
+I am actively choosing a simpler life, but the calls of my flesh simply
+is against that. Perhaps this is because I have experienced certain
+levels of comfort and pleasure that it is harder to step back on them.
+
+This tugging of forces between mental and physical causes stress to me.
+It is becoming a real problem, this cognitive dissonance that, I think,
+the recent twitching on the muscle over my left cheekbone right below
+the left eye might be one of its manifestations.
+
+A simpler life, I suspect, could also be harder to attain for someone
+who might be going through mental health problems. I, for one, am losing
+focus. The capital-W Will is being depleted by forces outside me. And I
+am always bored. These are issues I must wrestle with. Monk mode is not
+a sedentary life, I assume.
+
+Within the dominion of [empire](/empire), choosing to live like a monk
+might not work out as well as one had hoped, unless one participates in
+a community of like-minded people who also aspire of living simply, not
+necessarily for aesthetics, but for its ethical leanings. A support
+system is indeed needed. Actual monks have communities, too, and do not
+live alone like hermits. I am too fatigued by my lonesome already to
+want to be a hermit.
+
+No matter the lifestyle we choose, I believe that inherent to human
+nature is the need to be useful: at least to ourselves, to others,
+and/or to the greater world around us. But what the empire is doing is
+only allowing the lifestyle it deems useful to propagate its existence.
+If we were to reap the benefits of a simple life, enough of us must be
+in it, while also acknowledging the fact the choosing a simpler life is
+only one way.

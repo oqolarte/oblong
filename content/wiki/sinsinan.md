@@ -35,15 +35,14 @@ poorly maintained sidewalks.
 By-passers can also scan the QR-code art, or *Q-art code*, using their
 smartphone, which contains a link to a website. See Part 2 for details.
 
-Installations will be scattered in at least in four cities nationwide.
+Installations will be in at least four cities nationwide.
 
 ## PART 2: "Libreng Computer" Website
 
 I will design and put up a website, to be called "Libreng Computer" for
 the following main reasons:
 
-1. It will be the gateway where people, specifically students, will have
-   the chance to get a free laptop, whose operating system (OS) and
+1. It will be the gateway where people, specifically students, have a chance to get a free laptop, whose operating system (OS) and
    applications will be free and open source software (FOSS), AKA
    ["libre" software](https://en.wikipedia.org/wiki/Free_software),
    respecting user's freedoms.
@@ -55,7 +54,7 @@ the following main reasons:
    internet these days. There will be no ads, no analytics, no trackers,
    no use of generative AI.
 
-The main call-to-action of website is a link to a questionnaire, to be hosted in
+The main call-to-action is a link to a questionnaire, to be hosted in
 [Cryptpad](https://cryptpad.org/) (*not* in Google Forms). Students
 who want to avail free laptop must fill out this form.
 
@@ -64,14 +63,14 @@ who want to avail free laptop must fill out this form.
 Applicants will be screened via the questionnaire hosted in Cryptpad, an
 alternative cloud-based office suite.
 
-The questionnaire will be designed so it screens students
+The questionnaire will be designed so it screens for people
 whether they are:
 
 - 18 years old and above;
 - currently enrolled in a school or university as a student;
 - currently lacks the financial capacity to obtain their own working
   laptop
-- tech-savvy enough to know how to use a laptop and navigating the
+- tech-savvy enough to know how to use a laptop and navigate the
   internet
 
 Applicants may be asked to provide proof for some or all of the above

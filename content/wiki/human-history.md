@@ -5,7 +5,7 @@ draft: false
 math: false
 ---
 
-*Largely notes seeded from the book* The Dawn of Everything *by David
+*Largely notes seeded by the book* The Dawn of Everything *by David
 Graeber and David Wengrow*.
 
 {{< toc >}}
@@ -18,7 +18,7 @@ hunter-gatherer; and that the Agricultural Revolution led to
 civilization, science and philosophy, specialization, along with states,
 militarism, and bureaucracy. In his essay *Discourse on the Origin and
 the Foundation of Inequality Among Mankind*, he argues that private
-property is the source of social inequality. He said the the state of
+property is the source of social inequality. He said the state of
 nature was only a thought experiment, even affirming that people were
 born as a blank slate, i.e., neither good nor bad; and that
 [*state of nature*](https://en.wikipedia.org/wiki/State_of_nature)
@@ -47,7 +47,7 @@ anthropologists, were even considered the OG affluent society.
 On one hand, Hobbes believed that all our actions would inevitably be
 intertwined with the entire Human History, all of which already
 predetermined by God. On the other hand, Rousseau believed whatever we
-humans do, we could undo, ot at least do differently, knowing it will be
+humans do, we could undo, or at least do differently, knowing it will be
 difficult.
 
 ### Complex lives, then and now
@@ -69,7 +69,7 @@ environment catastrophes caused and accelerated by human activity---have
 their lives improved, too?
 
 [^pinker]: He also talks about this in shorter formats, like talks and
-interviews. As a start, I referred to this transcript of an interviiew:
+interviews. As a start, I referred to this transcript of an interview:
 [Steven Pinker: Can Numbers Show Us That Progress Is Inevitable?](https://www.npr.org/transcripts/639229357)
 
 To be fair, Pinker claimed:
@@ -125,7 +125,7 @@ talks about [**bioarcheology of care**](https://www.researchgate.net/publication
 (a contextualized approach for interpreting the experience of disability
 and health-related care response in the past, based on evidence for
 disease found in human remains; developed by Lorna Tilley) through
-examples discovered in the field of archeology:
+examples discovered in the field of archaeology:
 
 - [**Man Bac 9**](https://www.nbcnews.com/id/wbna32318818): A paralyzed
   young man who suffered from [Klippel-Feil Syndrome](https://en.wikipedia.org/wiki/Klippel%E2%80%93Feil_syndrome)
@@ -169,10 +169,85 @@ of [humans as political animals](/politics): "The ability
 to [ruminate on possible futures](/prefiguration)
 that a society can have, make explicit arguments why it should take one
 path over another...[t]his makes us humans 'political animals.'
-Extending that, we can say the the personal indeed is political.
+Extending that, we can say the personal indeed is political.
 
 If we do not underestimate what tens of thousands of years mean in
 [Upper] Paleolithic Period, we could imagine that pockets of human
 societies across time and global space, have been exploring different
 social arrangements, and that we are not just stuck to being either
 inherently hierarchical or innately egalitarian.
+
+## Monuments of Göbekli Tepe, and those like it
+
+The discovery of Göbekli Tepe, ancient stone temple ruins, in
+southeastern Türkiye changed the way we view ancient world. Before that,
+it was believed that Neolithic period ("Agricultural revolution") was
+when humans discovered agriculture, which eventually led to modern
+society. Göbekli Tepe predates that period, back to hunter-gatherer
+period where groups ("bands") of humans lived a more nomadic lifestyle;
+and its existence challenges previous notions on what drove humans to
+society.
+
+Göbekli Tepe also predates the Pyramids of Giza in Egypt by about 7,000
+years.
+
+Societies around stone temples, like Göbekli Tepe, and Neolithic
+monuments---one of the most famous being Stone Henge---some
+archaeologists suggest, were able to build a hierarchical arrangement to
+organize a seasonal feast, after which they would elect to dismantle
+such hierarchies again.
+
+For the record, we still don't know how or why Göbekli Tepe was erected.
+For all we know, people then could have just done it because they
+thought it looked cool, and imagining it so is fine because it humanizes
+ancient people.
+
+## Seasonality of social and political life
+
+Below are some examples of societies that change their ways of living depending
+on what season it is.
+
+### Inuit and similar societies
+
+In Marcel Mauss and Henry Beuchat's (1903) *Seasonal Variations of the
+Eskimo*, the observed that circumpolar Inuit and other similar
+societies have two social structures: one in summer, and one in winter.
+Summer is when they form different bands of hunter-gatherer led by a
+patriarch. Winter is when [they come again as one community](/community), build great
+houses, and within these houses they share warmth and [exchange partners](/non-monogamy).
+
+### Kwakwa̱ka̱ʼwakw
+
+Another example is from
+[Kuwakiutl](https://en.wikipedia.org/wiki/Kwakwaka%CA%BCwakw),
+indigenous group of hunter-gatherers of Canada's Northwest Coast. They
+have formal hierarchies on winters, during which they build palaces and
+host banquets known as potlatch. These courts would then break apart
+on summers, reverting to smaller clans. They also change identities
+between seasons.
+
+### Cheyenne and Lakota
+
+Nineteenth century Cheyenne and Lakota bands would appoint a "seasonal"
+police force in preparation for a buffalo hunt. This was because a rigid
+structure must be enforced to have a successful hunt during the buffalo
+migration. After this season, the authoritarian set-up would be
+dissolved.
+
+Similar Plains Nations (including Crow and Assiniboine) would appear to
+jump regularly from one political spectrum to the other
+
+## Statehood is not necessarily inevitable
+
+There have been societies that grown and shrink fluidly between bond,
+tribe, chiefdom, and state. So it is pointless to assume that humans, as
+a whole, have evolved linearly from bands to states---we did not. More
+importantly, for humans of modern times, it means it is possible to move
+fluidly, too, between different types of affinity, depending on the
+needs of the community.
+
+So it is not ridiculous to think that while our modern societies crumble
+and [collapse](/collapse), humans
+could---*should*---simultaneously
+[imagine AND build a society](/solarpunk)
+in which all living things live harmoniously.

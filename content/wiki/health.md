@@ -109,6 +109,21 @@ Needing and wanting help from others can also free us from the
 capitalist baggage of ultra-self-optimization to the point of isolation,
 of being "lonely at the top," which I always find odd.
 
+### Jokes to make after failure that are not self-deprecating
+
+*from a Tumblr post*
+
+1. I’m the best to ever do it
+1. Nobody saw that (best if said loudly)
+1. No one has ever done it like me
+1. I could be President/they should make me President
+1. Behold, a mere fraction of my power!
+1. The public wants to be me *so* bad
+1. I’m an expert in [thing you just failed at]
+1. How could this have happened to god’s favorite prince/ss?
+1. Nothing ibuprofen and a glass of water cant fix
+1. I’m being sabotaged
+
 ## On pharmaceuticals
 
 Pharmaceutical technology alone cannot solve medical crises, from the

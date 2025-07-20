@@ -19,7 +19,6 @@ finish reading.
 | Children of Dune       | Frank Herbert                      |
 | The Dawn of Everything | David Graeber and David Wengrow    |
 | Braiding Sweetgrass    | Robin Wall Kimmerer                |
-| Doctor to the Barrios  | Juan Flavier                       |
 
 ## Completed
 
@@ -130,3 +129,9 @@ to forget how the first few pages were boring.
 collected their wits and used it to build up *hugot* punchlines, which
 may or may not be cringy. I appreciate the effort, though, but *conyo*
 hugot, despite its potential to jab at jaw, is not for me.
+
+
+***Doctor to the Barrios*** by **Juan Flavier**  
+**Why**: While it has some nuggets of [barrio wisdom](/rural-ph), most
+of the text is outdated; and I find it hard to relate to many of the
+anecdotes.

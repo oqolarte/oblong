@@ -169,3 +169,4 @@ ability to access wealth.
   technologies in a safe and [privacy-respecting manner](/privacy)."
 - [Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/pdf/2409.14160) (pdf) -- A paper on how "smaller AI models often perform better" and "obsession with bigness has severe collateral consequences" ([Whittaker](https://mastodon.world/@Mer__edith/113197090927589168), 2024)
 - [AI Cleanup/catchphrases compilation in Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup/AI_catchphrases)
+- [Short toot from Alex Ștefănescu](https://chaos.social/@catileptic/114879931445497328) about "brainstorming with ChatGPT"

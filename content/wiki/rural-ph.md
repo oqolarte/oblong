@@ -134,7 +134,7 @@ Some [Filipino values](/filipino-values) from a rural wisdom:
 - *Buho* is an indigenous variety of [bamboo](/bamboo) which is so tough
   "rats can't bite through it," and is used to make huge baskets
   (*matong*) for transporting palay.
-- Milk can be ulam everywhere and everywhen. I first saw it on my
+- Milk can be and has been ulam everywhere and everywhen. I first saw it on my
   mother. Then I have heard other people do it, too! I think it can be
   nutritious and yummy if gotten fresh from a cattle and poured over
-  rice. Isn't that quite similar to champorado?
+  hot rice. Isn't that quite similar to champorado?
