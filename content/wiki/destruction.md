@@ -29,6 +29,12 @@ aligned with ruling party. Also, we know this from the bullies in our
 local communities; and sadly, many of us have experienced this even from
 our own families.
 
+## In creating we destroy
+
+Animals consume and produce only what they need. Humans, on the other
+hand, produces excess, making us both the most creative and destructive
+living creatures in this planet.
+
 ## Examples of destruction that fascinates me
 
 ### Sabongeros and their fighting cocks

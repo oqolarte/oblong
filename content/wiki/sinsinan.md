@@ -9,7 +9,26 @@ FROM: https://benildeopen.com/
 
 {{< toc >}}
 
-## Introduction
+## Artist bio
+
+ori is a researcher and maker with over ten years of experience helping
+people and organizations understand there are better possibilities
+outside prevailing systems.
+
+His greatest strength (so far) is writing stories and documenting learnings with
+the purpose of sharing them with others.
+
+He is eager to improve the lives of people, including his, in
+communities he is in, because he values the strength and power we possess
+as a collective in shaping the Here and Now that we want to live in.
+
+ori has always wanted to learn and make something. These
+days, that *thing* skews abstract, but he wants to create more tangible
+things using different tools (hardware and software
+alike) that might be useful. For R&R, he likes to read movies and watch
+books to switch things up.
+
+## Abstract
 
 Nature is the first open source we encounter. Its generosity extends to
 all. Indigenous Peoples take part with the animals

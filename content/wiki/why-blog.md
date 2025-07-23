@@ -24,9 +24,10 @@ enough on its own?
 For me, what if it is partly to confuse digital archaeologists, partly
 to leave a mark of who I am at this point in
 [human history](/human-history)? When I was writing [Imbentori](/imbentori)
-many years back, my duty was mostly to myself. A few people somehow
-liked some of it. This meant that I had to embed the mundanities of the
-life I was logging into cryptic and  ways of the English langauge before
+many years back, my duty was mostly to myself. I was escaping the
+flatness of my youth for something greater. A few people somehow
+liked some of it. This meant that I had to embed the mundanities of
+life I was logging into cryptic ways of the English langauge before
 publishing. I churned the literal into [surreal](/surrealism) because
 exposing myself out there was something that bothered me, yet at the
 same time, I felt the need to unload them somehow onto a space that was

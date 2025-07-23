@@ -118,6 +118,11 @@ of community-building, and wrote:
 > Community tends toward continual expansion and incorporation of people
 > that share the same values...
 
+## Idea/s for community building
+
+Festivals/fiesta/*pista* have always been possible gateways to social
+revolutions in that they encourage people to come together, have fun, be
+noisy, share stories, eat together.
 
 ## Further reading
 

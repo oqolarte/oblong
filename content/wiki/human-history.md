@@ -6,7 +6,8 @@ math: false
 ---
 
 *Largely notes seeded by the book* The Dawn of Everything *by David
-Graeber and David Wengrow*.
+Graeber and David Wengrow, but would also contain insights from other
+sources*.
 
 {{< toc >}}
 
@@ -251,3 +252,132 @@ and [collapse](/collapse), humans
 could---*should*---simultaneously
 [imagine AND build a society](/solarpunk)
 in which all living things live harmoniously.
+
+## Stuck at social inequality
+
+Societies in which Amazonian chiefs "lead" had little to no power over
+other members of the tribe. Chiefs did have some special privileges,
+like being allowed to have many wives, but he had no authority over them
+when any one of them started looking for other lovers. [Pierre Clastres](https://en.wikipedia.org/wiki/Pierre_Clastres),
+a French anthropologist, argued that this was because these Amazonian
+societies had more political awareness and imagination than most modern
+people today.
+
+Since many societies around the world have had experimented with
+different social arrangements, often alternating between hierarchical
+and non-hierarchical modes, it is not accurate to ask, "What is origin of
+social inequlity?" because this question often yields simplistic
+answers. It is better to ask, "How did we get stuck in a single mode?"
+
+To be human is to be able to choose freely between different modes of
+interacting with one another, never settling to a single mode, always
+experimenting.
+
+## Egalitarian societies
+
+Egalitarian societies have members who think and feel they should all be
+the same in important matters; and it is important for them that such
+ideals that enable equality and equity to be put to practice. So, for
+example, if wealth is important, everyone should be equally wealthy.
+
+Graeber and Wengrow argue that large-scale storage of food, as in
+storing grains from farming surplus in granaries, *did not* result into
+the rise of "the state." Commoon belief is taht due to agriculture, we
+now have hierarchies, specialization, and governments. This likely stems
+from the beliefe that since grain crop is visible, quantifiable,
+sorable, and thus manageable, it is the preferred resource of the first
+states with which to enforce authority over its subjects.
+
+According to British anthropologist James Woodburn, Hadza foragers of
+Tanzania, San Bushmen, Mbuty Pygmies, Pandaram (South India), and Batek
+(Malaysia) are egalitarian societies that also extend equality to gender
+relations. Apart from that, he also echoed Christopher Boehm's notion
+about "actuarial intelligence" of hunter-gatherers. Wodburn then
+suggested that what really makes egalitarian societies as such is the
+lack of material surplus.
+
+A random personal anecdote: I am (maybe) from a lineage of wise and
+emotinally complex people who simply hated being told what to do. Humans
+have long intuited agianst formal authorities. It only makes sense for
+me, for better or worse, that I default to not doing what you tell me.
+
+## On 'original affluent societies'
+
+**Abundance** is not an absolute measure, Marshall Sahlins argued, nor
+is it achieved by liberating people through technological evolution. As
+states and corporations continue to fence in resources making them
+inaccessible to those they deem "undeserving," workers everywhere will
+on laboring in hopes of a decent, comfortable life.
+
+## Examples of hunter-gatherer "states"
+
+[Poverty Point](https://en.wikipedia.org/wiki/Poverty_Point) at Louisiana, USA, was a relatively grand structure built
+by foragers, NOT agriculture societies.
+
+[Jōmon (縄文)](https://en.wikipedia.org/wiki/J%C5%8Dmon_people) people are also said to have subsisted on hunting-gathering
+for an extended period of time because their natural environment was so
+rich they did not need to take up farming in order to sustain
+substantial communities. They also did not need to build mounds (unlike
+in Poverty Point) to keep above the water because their land is naturally
+hilly.
+
+The [Cucuteni-Trypillia](https://en.wikipedia.org/wiki/Cucuteni%E2%80%93Trypillia_culture) had cities and still subsisted at least partially
+on hunting and gathering. They did have farming and animal husbandry
+too, but they would relocate their entire city periodically, presumably for
+access to unexploited land.
+
+## Foragers are not simple societies
+
+European colonizers justified their appropriation of Indigenous lands
+from its Native poples using John Locke's argument on [Second Treatise of Government](https://www.gutenberg.org/files/7370/7370-h/7370-h.htm)
+(1690), in which Locke argued that property rights are "necessarily"
+derived from labor. Indigenous foragers, Locke argued, did not work the
+land (likely in terms of tilling and farming). This "carefree" attitude
+of the Indigenous Peoples (IP) have also been used by settlers to instill
+the myth that IP are "lazy people." Worse, settler forced them to "work":
+enslavement, tax regimes, corvée labor, debt peonage.
+
+Of course, the so-called "Agriculture Argument" was very Eurocentric and
+thus limited. IPs haev other ways of working, cultivating, and enhancing
+their territories including but not limited to: controlled burning,
+weeding, coppicing, fertilizing, pruning, etc.
+
+[Calusa society](https://en.wikipedia.org/wiki/Calusa) in North America were "stuck" in monarchy even as a
+foraging society.
+
+## Possible origin of "property" from "sacred"
+
+Private property may have originated from "sacred" property in free
+societies. In any case, such property is protected from public by
+elaborate rituals. But what is "sacred"? Emile Durkheim defines it as
+something removed fro mthe world because of its imperceptible connection
+with a higher force. The concept is as old as humanity itself.
+
+## Nature of slavery
+
+Slavery was practiced in Northwest Coast of IP of Turtle Island, even
+before Europeans arrived at the region.
+
+Slavery is the theft of labor that other societies invest in bringing
+up "useful" members of community, causing more harm than just the
+victims themselves.
+
+Graeber and Wengrow argue that ecology does not explain the presence of
+slavery, but freedom does. When authority and aristocracy could not
+enslave their people, they look elsewhere.
+
+Hierarchy and property get its ideas from the sacred (for example,
+religion and spirituality) but the most brutal forms of exploitation
+come from *home*, that is, in intimate spaces where nurture, love, and
+caring could be freely perverted and corrupted.
+
+## Food as possible determinant of type of society
+
+Graeber and Wengrow talks about how the types of societies could be a
+function of their main food source. They compare Northwest Coast
+societies with Californian societies (both from Turtle Island). The
+former relied in salmon-fishinf and became war-like, while the latter
+relied on acorn-gathering and became peaceful. [Optimal foraging theory](https://en.wikipedia.org/wiki/Optimal_foraging_theory)
+might make sense might make sense for salmon-fishing societies, but
+having "war-proof staple food" like acorns addresses a different kind of
+metric.

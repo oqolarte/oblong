@@ -62,6 +62,10 @@ and bypasses the need for money---it just can't be bought.
 Art can only be copied, transformed, or
 transmuted to influence other creations, to start a movement maybe.
 
+Still, it is important that we consider making art not despite, but
+because of political upheavals. Art that goes against the grain of
+status quo is invigorating and soul-enriching.
+
 On that note, the greatest performance art, perhaps, is communities of
 *artists* [coming together to help each other](/mutual-aid) out of this
 cultural, systemic mess we find ourselves in.

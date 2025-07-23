@@ -22,7 +22,7 @@ I am eager to improve the lives of people, myself included, in
 communities I am in, because I value the strength and power we possess
 as a collective in shaping the Here and Now that we want to live in.
 
-I've always wanted to learn and make something. These
+I have always wanted to learn and make something. These
 days, that *thing* skews abstract, but I hope to create more tangible
 things using different tools ([hardware](/tools) and [software](/foss)
 alike) that might be useful. For R&R, I like to read movies and watch
