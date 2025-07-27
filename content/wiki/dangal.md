@@ -24,9 +24,7 @@ The dominant norms of dangal are:
 - *paggalang* (respect) - is an important norm about respecting one's
   and others' honor, dignity, status, and feelings.
 - *utang na loob* (debt of gratitude, moral obligation) is a sense of
-  reciprocal social obligation. One is expected to pay back the help
-  they received, which when abused becomes wrong, as it leads to graft
-  and corruption. This way of expressing gratitude is a radical act in a
-  society that constantly urges us to consume, and take, take, take. It
-  is [mutual aid](/mutual-aid) that creates solidarity among interacting
+  reciprocal social obligation. One is expected to pay back/forward the help
+  they received, which when abused leads to graft
+  and corruption. *Utang na loob* is precursor to [mutual aid](/mutual-aid), a radical act of expressing gratitude that creates solidarity among interacting
   people.

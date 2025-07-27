@@ -19,7 +19,7 @@ people with chronic diseases that only modern medicine can address, etc.
 
 ## Living in the Wild
 
-Many could not survive in the wild like [Christopher McCandless](https://en.wikipedia.org/wiki/Chris_McCandless).
+Many could not survive in the wild; see [Christopher McCandless](https://en.wikipedia.org/wiki/Chris_McCandless).
 The problem with becoming reliant on [advanced] [technology](/technology) is
 that eventually one can't live without it and would find it harder to go back to
 "simpler" technology.
@@ -45,4 +45,4 @@ exist. Also, there is a lot of middle ground between "making stone
 tools" and "living in mechanized industrial civilization".
 
 Christopher isn't the best example as most anarchists or Indigenous
-traditionalists emphasize community. Nobody dies like him in community.
+traditionalists emphasize [community](/community). Nobody dies like him in community.

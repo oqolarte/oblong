@@ -15,6 +15,10 @@ not necessarily offer a particular set of guidelines for others to
 follow. As in, this body of text does not *really* offer a concrete
 answer "why I blog," if you know what I mean.
 
+[Quoting myself here](/3):
+
+> A flare of imagination could trigger emotions never felt before, and to that person, this is their first time learning this thing about himself. It could be wild, sometimes---detrimental, even---to not have the full scope of one’s being at one’s disposal for one’s perusal. That’s also one of the main reasons why I started this blog: another attempt to understand myself.
+
 ## The future is confusing
 
 Why document [a fraction of] one's life in the digital space in the

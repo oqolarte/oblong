@@ -10,9 +10,11 @@ math: false
 ## Introducing: ekoms
 
 Juvenile delinquency introduces many experimental things to our bodies,
-and tobacco products might be one of them. It's not your
+and tobacco products is one of them. It's not your
 fault for wanting to try things, especially if there's a social element
-to it. Moreover, the system is rigged to sustain
+to it.
+
+Moreover, the system is rigged to sustain
 the infrastructure for tobacco industry. The sooner its consumers quit,
 the better the world would be.
 
@@ -52,7 +54,7 @@ way to look cool. For all I know, it might still be among the younger
 crowd.
 
 When you're young, looking and feeling cool is paramount in making it
-among your peers, no matter how close you approach annihilation, because
+among your peers, no matter how close you approach [annihilation](/destruction), because
 in those moments---admit it---it's more annealing, really.
 
 I have since removed myself from that crowd. I have realized that
