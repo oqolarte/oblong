@@ -4,6 +4,25 @@ date: 2022-01-01
 draft: false
 ---
 
+{{< toc >}}
+
+> As far back as I can remember, the origin of my revolt against the
+> powerful was my horror at the tortures inflicted on animals. I used to
+> wish animals could get revenge, that the dog could bite the man who
+> was mercilessly beating him, that the horse bleeding under the whip
+> could throw off the man tormenting him.
+> 
+> I was accused of allowing my concern for animals to outweigh the
+> problems of humans at the Perronnet barricade at Neuilly during the
+> Commune, when I ran to help a cat in peril. The unfortunate beast was
+> crouched in a corner that was being scoured by shells, and it was crying
+> out. The more ferocious a man is toward animals, the more that man
+> cringes before the people who dominate him.
+> 
+> -- Louise Michel
+
+## First bite
+
 The [empire](/empire) treats animals horribly,
 and is both effective and efficient in doing so.
 

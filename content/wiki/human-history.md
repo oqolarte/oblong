@@ -339,8 +339,11 @@ enslavement, tax regimes, corvée labor, debt peonage.
 
 Of course, the so-called "Agriculture Argument" was very Eurocentric and
 thus limited. IPs haev other ways of working, cultivating, and enhancing
-their territories including but not limited to: controlled burning,
+their territories including but not limited to: controlled
+burning[^controlled-fire],
 weeding, coppicing, fertilizing, pruning, etc.
+
+[^controlled-fire]: Further reading: "[On Controlling Fire, New Lessons from a Deep Indigenous Past](https://e360.yale.edu/features/lori-daniels-interview)" by Nicola Jones
 
 [Calusa society](https://en.wikipedia.org/wiki/Calusa) in North America were "stuck" in monarchy even as a
 foraging society.

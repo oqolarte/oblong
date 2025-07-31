@@ -9,7 +9,8 @@ draft: false
 ## From modern times
 
 Joan Westenberg argues
-[the patriarchy is a modern invention, not the natural order](https://web.archive.org/web/20240215185522/https://www.joanwestenberg.com/blog/the-patriarchy-is-a-modern-invention-not-the-natural-order/).
+[the patriarchy is a modern invention, not the natural order](https://web.archive.org/web/20240215185522/https://www.joanwestenberg.com/blog/the-patriarchy-is-a-modern-invention-not-the-natural-order/)
+(hyperlink/s added by me):
 
 > For over 90% of human existence, during our hunter-gatherer phase,
 > social structures tended to be egalitarian, with equal status and
@@ -21,7 +22,7 @@ Joan Westenberg argues
 > lineage, inheritance, virginity, and monogamy. Understanding that
 > patriarchy emerged so recently, under particular economic conditions
 > rather than from biological fate, is empowering. It means we can
-> rewrite modern society through consciously structuring [culture](/culture) and
+> [rewrite modern society](/politics) through consciously structuring [culture](/culture) and
 > laws.
 
 ## Unlearning patriarchy
@@ -30,6 +31,12 @@ As a cishet male raised (somewhat) on the progressive side of
 Christian Catholicism, I feel like the vitriol of patriarchy is
 ingrained within me. The first step in unlearning all of this is to
 acknowledge its existence and its effects on my way of living.
+
+Patriarchy can and has allowed men to *feel* emotions: to cry, to be
+vulnerable. But feeling is different from healing. To heal from the
+damage that Patriarchy continues to do, it is necessary also to veer
+away from, say, the toxic traditional gender roles that people before us
+have taught us.
 
 In her essay "[am I missing out on male friendship?](https://jusdani.substack.com/p/am-i-missing-out-on-male-friendship)"
 Dani has some suggestions on how men can have healthy relationships with
@@ -44,4 +51,4 @@ others:
 
 The last bit resonates with me---I grew up holding the opposite sex to
 certain pedestal that I was unable to form platonic yet meaningful
-relationshipswith them.
+relationships with them.

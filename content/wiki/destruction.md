@@ -75,3 +75,11 @@ One of the main reasons I consistently come across is somewhere along
 the lines of, the work is no longer worth pursuing, and destroying it
 frees the artist of the mental baggage, perhaps even allowing them to
 start an even better work of art.
+
+### Controlled burning of forests by Native Americans
+
+Before European settlers colonized the Turtle Island, the Indigenous
+Peoples of America was deliberately managing their forests through
+controlled burning. Surface fires were used to control how many trees
+there were growing in an area, which was critical in maintaining a
+diverse ecosystem.
