@@ -24,8 +24,13 @@ with nature could be anything but cynical; and when I have personally
 experienced the spikes of climate catastrophes; it is hard to imagine a
 future in which humans would have lasting positive interactions with the
 [flora](/plants) and fauna around us. But if we are to learn from the wisdom of
-indigenous peoples, harmonious coexistence not only is possible, it is
-necessary for all things to thrive. Indeed, we have changed the world so
+Indigenous Peoples (IPs), harmonious coexistence not only is possible, it is
+necessary for all things to thrive. More modern interpretations of
+"sustainable living" include lowering the current standards of living.
+But arguable, IPs, especially those of coastal old-growth forests, were
+among the wealthiest in the world.
+
+Indeed, we have changed the world so
 much that many of the indigenous practices of living with nature is at
 best frowned upon, at worst would merit jail time.
 

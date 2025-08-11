@@ -7,16 +7,18 @@ draft: false
 
 {{< figure src="/image/neofetch.png" alt="Screenshot of desktop, including Operating System Details" caption="`sway` tiling window manager. Clockwise from top-left: Firefox, `neofetch` in `foot` running `tmux`, `imv` viewing a webcomic from https://webcomicname.com, mpv" >}}
 
+{{< toc >}}
+
 ## Default apps
 
 - Operating System: [Alpine Linux v3.22 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
-- Web Browsers: [Chromium](https://www.chromium.org/chromium-projects/) (laptop), [Mull](https://divestos.org/pages/our_apps#mull) (Android)
+- Web Browsers: [Chromium](https://www.chromium.org/chromium-projects/) (laptop), [Firefox Klar](https://www.firefox.com/en-US/browsers/mobile/focus/) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy
       Badger, Wayback Machine
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
       Rural Dictionary, rimgo, Quetre)
-- Search engine: [Searx](https://searx.be/)
+- Search engine: [Startpage](https://www.startpage.com/)
 - Password manager: [Bitwarden](https://bitwarden.com/)
 - Email client: [aerc](https://aerc-mail.org)
 - Email providers: [Migadu](https://www.migadu.com/), [Tuta](https://tutanota.com/)
@@ -30,10 +32,8 @@ draft: false
 - Notes: [vimwiki](https://vimwiki.github.io/) plugged into [neovim](https://neovim.io) (also my `$EDITOR` of choice)
 - Office suite: [LibreOffice](https://www.libreoffice.org)
 - PDF reader: [zathura](https://pwmt.org/projects/zathura/)
-- Physical exercise tracker: [FitoTrack](https://codeberg.org/jannis/FitoTrack) (Android)
 - YouTube client: [NewPipe](https://newpipe.net/) (Android)
 - Authenticator: [Aegis](https://getaegis.app/) (Android)
-- Bird listener: [whoBIRD](https://github.com/woheller69/whoBIRD) (Android)
 
 ## Special Mentions
 
@@ -76,12 +76,20 @@ and/or surveil my every move.
 
 {{< figure src="/image/foss-venn.png" alt="Venn Diagram showing the intersection of 3 characteristics of a software: good, fair, legal. All three is what FOSS represents. Good and legal is usually privacy-invasive. Good and fair is piracy. Fair and legal software: 'Why are you using it?'" caption="Venn Diagram generator by classtools.net" >}}
 
+### ...why not?
+
 It can be hard, though, especially if Big Tech companies are embedded in
-our digital lives now (e.g., at work), whether we like it or not. Take
-this personal anecdote as an example: computer "lessons" from my high
-school days involved using proprietary software like Microsoft Office
-(Word, Excel, and  PowerPoint) and Adobe Photoshop. When these are baked
-into the curriculum early on, it won't be easy learning about FOSS alternatives.
+our digital lives now (e.g., at work, employer forces you to use
+Microsoft Office Suite), whether we like it or not.
+
+At schools, are we teaching students how to use computers, or are we
+teaching them how to use products from Microsoft, Google, Adobe, and
+other big tech companies? When these are baked into the curriculum early
+on, it makes opting into FOSS alternatives feel like a burden than just
+using what you already know (in this case, products from Microsoft,
+Google, Adobe, etc.).
+
+## Final thoughts
 
 I try not to get obsessed, though, on picking the right tools.
 There's no perfect tool, and even the great ones will not save you;

@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Jul 2025 05:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 06:57:32 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -165,10 +165,6 @@ finish reading.&lt;/p&gt;
       &lt;tr&gt;
           &lt;td&gt;The Dawn of Everything&lt;/td&gt;
           &lt;td&gt;David Graeber and David Wengrow&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Braiding Sweetgrass&lt;/td&gt;
-          &lt;td&gt;Robin Wall Kimmerer&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -436,6 +432,10 @@ I read slowly, you might notice.&lt;/p&gt;
           &lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/282/#brief-review-of-the-vegetarian&#34;&gt;The Vegetarian&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;Han Kang (Trans. by Deborah Smith)&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;a href=&#34;https://ohio.araw.xyz/288/#brief-review-of-braiding-sweetgrass&#34;&gt;Braiding Sweetgrass&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;Robin Wall Kimmerer&lt;/td&gt;
+      &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;did-not-finish&#34;&gt;Did not finish&lt;/h2&gt;
@@ -573,11 +573,30 @@ Have you heard about it? I think you&amp;rsquo;d be interested.&amp;rdquo;&lt;/l
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#default-apps&#34;&gt;Default apps&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#special-mentions&#34;&gt;Special Mentions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#why&#34;&gt;Why?&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#why-not&#34;&gt;&amp;hellip;why not?&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#final-thoughts&#34;&gt;Final thoughts&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;default-apps&#34;&gt;Default apps&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Operating System: &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux v3.22 &lt;em&gt;stable&lt;/em&gt;&lt;/a&gt; (laptop, daily driver); &lt;a href=&#34;https://www.debian.org/News/2023/20230610&#34;&gt;Debian 12 &amp;ldquo;&lt;em&gt;bookworm&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); Android (smartphone)&lt;/li&gt;
 &lt;li&gt;Tiling window manager: &lt;a href=&#34;https://swaywm.org/&#34;&gt;sway&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Web Browsers: &lt;a href=&#34;https://www.chromium.org/chromium-projects/&#34;&gt;Chromium&lt;/a&gt; (laptop), &lt;a href=&#34;https://divestos.org/pages/our_apps#mull&#34;&gt;Mull&lt;/a&gt; (Android)
+&lt;li&gt;Web Browsers: &lt;a href=&#34;https://www.chromium.org/chromium-projects/&#34;&gt;Chromium&lt;/a&gt; (laptop), &lt;a href=&#34;https://www.firefox.com/en-US/browsers/mobile/focus/&#34;&gt;Firefox Klar&lt;/a&gt; (Android)
 &lt;ul&gt;
 &lt;li&gt;Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy
 Badger, Wayback Machine&lt;/li&gt;
@@ -585,7 +604,7 @@ Badger, Wayback Machine&lt;/li&gt;
 Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Search engine: &lt;a href=&#34;https://searx.be/&#34;&gt;Searx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Search engine: &lt;a href=&#34;https://www.startpage.com/&#34;&gt;Startpage&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Password manager: &lt;a href=&#34;https://bitwarden.com/&#34;&gt;Bitwarden&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email client: &lt;a href=&#34;https://aerc-mail.org&#34;&gt;aerc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email providers: &lt;a href=&#34;https://www.migadu.com/&#34;&gt;Migadu&lt;/a&gt;, &lt;a href=&#34;https://tutanota.com/&#34;&gt;Tuta&lt;/a&gt;&lt;/li&gt;
@@ -599,10 +618,8 @@ Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;li&gt;Notes: &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;vimwiki&lt;/a&gt; plugged into &lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; (also my &lt;code&gt;$EDITOR&lt;/code&gt; of choice)&lt;/li&gt;
 &lt;li&gt;Office suite: &lt;a href=&#34;https://www.libreoffice.org&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;PDF reader: &lt;a href=&#34;https://pwmt.org/projects/zathura/&#34;&gt;zathura&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Physical exercise tracker: &lt;a href=&#34;https://codeberg.org/jannis/FitoTrack&#34;&gt;FitoTrack&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;li&gt;YouTube client: &lt;a href=&#34;https://newpipe.net/&#34;&gt;NewPipe&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;li&gt;Authenticator: &lt;a href=&#34;https://getaegis.app/&#34;&gt;Aegis&lt;/a&gt; (Android)&lt;/li&gt;
-&lt;li&gt;Bird listener: &lt;a href=&#34;https://github.com/woheller69/whoBIRD&#34;&gt;whoBIRD&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;special-mentions&#34;&gt;Special Mentions&lt;/h2&gt;
 &lt;ul&gt;
@@ -643,12 +660,17 @@ and/or surveil my every move.&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;h3 id=&#34;why-not&#34;&gt;&amp;hellip;why not?&lt;/h3&gt;
 &lt;p&gt;It can be hard, though, especially if Big Tech companies are embedded in
-our digital lives now (e.g., at work), whether we like it or not. Take
-this personal anecdote as an example: computer &amp;ldquo;lessons&amp;rdquo; from my high
-school days involved using proprietary software like Microsoft Office
-(Word, Excel, and  PowerPoint) and Adobe Photoshop. When these are baked
-into the curriculum early on, it won&amp;rsquo;t be easy learning about FOSS alternatives.&lt;/p&gt;
+our digital lives now (e.g., at work, employer forces you to use
+Microsoft Office Suite), whether we like it or not.&lt;/p&gt;
+&lt;p&gt;At schools, are we teaching students how to use computers, or are we
+teaching them how to use products from Microsoft, Google, Adobe, and
+other big tech companies? When these are baked into the curriculum early
+on, it makes opting into FOSS alternatives feel like a burden than just
+using what you already know (in this case, products from Microsoft,
+Google, Adobe, etc.).&lt;/p&gt;
+&lt;h2 id=&#34;final-thoughts&#34;&gt;Final thoughts&lt;/h2&gt;
 &lt;p&gt;I try not to get obsessed, though, on picking the right tools.
 There&amp;rsquo;s no perfect tool, and even the great ones will not save you;
 how you use them might.&lt;/p&gt;

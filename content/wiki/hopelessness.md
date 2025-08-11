@@ -4,14 +4,15 @@ date: 2022-11-04
 draft: false
 ---
 
+
+
 > The spectre that many try not to see is a simple realisation---the
 > world will not be ‘saved’. Global anarchist revolution is not going to
 > happen. Global climate change is now unstoppable. We are not going to
 > see the worldwide [end to civilisation](/post-civ) /
-> [capitalism](/capitalism) / [patriarchy](/patriarchy) /authority. It’s
+> [capitalism](/capitalism) / [patriarchy](/patriarchy) / authority. It’s
 > not going to happen any time soon. It’s unlikely to happen ever. The
-> world will not be ‘saved’. Not by activists, not by [mass
-> movements](/activism), not by charities and not by an insurgent global
+> world will not be ‘saved’. Not by activists, not by [mass movements](/activism), not by charities and not by an insurgent global
 > proletariat. The world will not be ‘saved’. This realisation hurts
 > people. They don’t want it to be true! But it probably is. These
 > realisations, this abandonment of illusions should not become
@@ -33,6 +34,10 @@ Anarchy is nothing if not failure after failure on the large scale.
 Trying to fight and win on that sort of scale
 is just setting yourself up [for repeated misfortunes that come after](/zemblanity).
 
-
 [^tal-desert]: Read the whole text here:
 https://theanarchistlibrary.org/library/anonymous-desert
+
+"**Despair is paralysis**," as observed by Robin Wall Kimmerer, a scientist.
+Knowing what and how to do better does not automatically mean we would
+be compelled to make [direct actions](/direct-action) to fight the
+[global collapse](/collapse). Personally, it is because a non-trivial part of myself that still suffers from Stockholm syndrome as I am held captive by the perceived comforts the [Empire](/empire) "provides."

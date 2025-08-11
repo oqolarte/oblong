@@ -9,9 +9,12 @@ math: false
 
 ## Why
 
-My significant other (SO) is closely related to a desaparecido (desap), someone
-who is forcibly disappeared by the state. And since that fateful day, SO
-and their family has been rightfully grieving.
+My significant other (SO) is closely related to a desaparecido (desap),
+someone who is forcibly disappeared by the state. And since that fateful
+day, SO and their family has been rightfully grieving. States across the
+globe are wont to perpetuate the systems that keep them in power.
+Forcibly disappearing people is just one of the most violent ways to
+instill fear in the communities to suppress dissent.
 
 People in what I would say chronic grieving tend to not prioritize
 addressing their libidos. And that is understandable. As in the case of

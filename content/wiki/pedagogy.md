@@ -10,6 +10,20 @@ So, I try to [learn from the teachers on how they teach](/academy).
 
 {{< toc >}}
 
+## Pedagogy is key
+
+We should be training students not necessarily to achieve high grades or
+get employed as soon as possible, but rather to be able to
+[critically think](/being-critical) and comprehend how society and the world around them works.
+
+It is a syllabus complete with lesson plans that are:
+
+1. Standardized
+2. Integrative
+3. Adaptable
+4. Accessible
+5. Scalable
+
 ## Radical Education
 
 Education should transform the character, body, and mind of both
@@ -101,6 +115,27 @@ teachers in the AI era:
 > AI is a good tool (sic), but teachers should now look at the
 > themselves not only as the repository of knowledge as it was before,
 > but that they're the facilitator for critical thinking.
+
+I don't think that AI is a good tool for learning, but I
+could see some merits on when and how it could be used to, say,
+illustrate the negative effects of technology on human behavior.
+
+## *Nature* in natural science
+
+Personally, I am more inclined to believe Indigenous traditions that
+Mother Nature is our wisest teacher. Even when astronomers and
+cosmologists look at the outer space for things to study, it is here in
+this planet that we first understand the physical aspect of the
+universe. I suspect that if we really look hard enough, it is studying
+the [ecosystems](/eco-anarchism) that we might learn more of the
+technology that could actually enhance every living creature's
+existence.
+
+Education, beyond the formal and institutionalized, should show us the
+nature of our own gifts and how to use them for good in the world. Yes,
+teachers and educators play an important role in this, but so do
+[plants](/plants) (our oldest teachers), animals (via [biomimicry](https://en.wikipedia.org/wiki/Biomimetics)), and
+even ancient and historical wisdom.
 
 ## Math Education
 

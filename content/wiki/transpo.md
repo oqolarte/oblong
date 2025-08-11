@@ -30,14 +30,19 @@ sidewalks. By *proper*, I mean:
 ## Cars-first Culture
 
 Thanks to our friends in developed nations---special mention to you,
-USA---we've developed a knack for
-cars. And to an extent, it's understandable: Once one has learned how to
-drive it, a car can take one to places with relative ease, as long as
-there is road on which the wheels shall roll. Perhaps, we have the
-Western [culture](/culture) to thank for this inevitable outcome.
+USA---we've developed a knack for cars. And to an extent, it's
+understandable. Once a person has learned how to drive it, a car can take them
+to places with relative ease, as long as there is paved road on which the
+wheels shall roll. Perhaps, we have the Western [culture](/culture) to
+thank for this inevitable outcome.
 
-Many people think that having your own car symbolizes
-success, but does it?
+Many people think that having your own car symbolizes success, but does
+it? I wonder whether the existence of parking lots and buildings whose
+lots could have been used for greeneries and carbon sinks in urban
+centers is actually a metric of success for current city planners? I
+wonder if losing entire ecosystems just to pave the rich ground with
+asphalt and concrete where cars could be left unproductive for long
+periods of time is worth their [destruction](/destruction).
 
 Those who can afford it will invariably use cars for their errands,
 regardless of travel distance and/or purpose. To them, it's only
@@ -157,7 +162,7 @@ https://www.vox.com/the-goods/2020/2/25/21152903/coronavirus-cruise-ship-outbrea
 
 {{< figure src="/image/transpo-align.jpg" alt="Alignment Chart for Public Transportation" caption="Which ones apply to your city?" >}}
 
-## Conclusion
+## Last stop
 
 Transportation overall should be about our mobility. This includes
 everything and every*one*: better infrastructures for pedestrians
@@ -170,7 +175,7 @@ reimagine our movement in our spaces. Only will we all be safe in our
 travels when we finally address our collective safety.
 
 We should urge policymakers to improve our mass transportation.[^policy]
-Or, you know, let's just do it ourselves.[^diy] Why wait? Direct action
+Or, you know, let's just do it ourselves.[^diy] Why wait? [Direct action](/direct-action)
 always gets the goods anyway.
 
 [^policy]: Tan, A. N. O. (2021, November 28). *Cycling advocacy groups

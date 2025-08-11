@@ -18,7 +18,6 @@ finish reading.
 | The Botany of Empire   | Banu Subramaniam                   |
 | Children of Dune       | Frank Herbert                      |
 | The Dawn of Everything | David Graeber and David Wengrow    |
-| Braiding Sweetgrass    | Robin Wall Kimmerer                |
 
 ## Completed
 
@@ -92,6 +91,7 @@ I read slowly, you might notice.
 | [Dune](/276/#brief-review-of-dune)                                                                     | Frank Herbert                              |
 | [Dune Messiah](/282/#brief-review-of-dune-messiah)                                                     | Frank Herbert                              |
 | [The Vegetarian](/282/#brief-review-of-the-vegetarian)                                                 | Han Kang (Trans. by Deborah Smith)         |
+| [Braiding Sweetgrass](/288/#brief-review-of-braiding-sweetgrass)                                       | Robin Wall Kimmerer                        |
 
 
 ## Did not finish

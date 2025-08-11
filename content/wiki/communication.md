@@ -10,6 +10,10 @@ Notes on tools and techniques for effective communication.
 
 ## Worldly languages
 
+Language is a the medium throught which we express ourselves: our ideas,
+our thoughts, ever our emotions. Apart from the senses, we experience
+the world around us also through language.
+
 Learning a new language opens up new possibile ways of interacting with
 the world.
 

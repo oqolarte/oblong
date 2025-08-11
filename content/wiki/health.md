@@ -136,6 +136,7 @@ us get better, just like [how it is with albularyos in barrios](/rural-ph/#alter
 - daily news
 - [working for profit and/or for someone else](/anti-work)
 - daily commute to and from work
-- air conditioning
+- Air conditioning
 - TV
-- gym equipment
+- gym equipment (unless they are DIY)
+- any over-indulgent habit (which leads to [self-destruction](/destruction)

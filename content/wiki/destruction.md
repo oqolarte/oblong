@@ -83,3 +83,12 @@ Peoples of America was deliberately managing their forests through
 controlled burning. Surface fires were used to control how many trees
 there were growing in an area, which was critical in maintaining a
 diverse ecosystem.
+
+### Grief for the settler colonialists
+
+In her book *Braiding Sweetgrass*, Robin Wall Kimmerer observes how it
+is sad to think about the effects of death and destruction settler
+colonialism has brought upon the Natives. But she also says that it is
+*equally* sad for the settlers, for they will no longer experience the
+beauty and abundance of the place which they have ravaged that Native
+peoples had taken care for so long.

@@ -58,13 +58,18 @@ spaces.
 
 ## Writing papers, sharing ideas?
 
-Paywalls hinder people from gaining information.
-Consider the 2014 Ebola outbreak and how the
-disease had been mapped out since the 1980s, but that info hadn’t been
-disseminated to west African scientists and doctors during the epidemic
-because it was only posted among European and American academic
-communities, with paywalls as high as USD 40 per article.
+Paywalls hinder people from gaining information. Consider the 2014 Ebola
+outbreak and how the disease had been mapped out since the 1980s, but
+that info hadn’t been disseminated to west African scientists and
+doctors during the epidemic because it was only posted among European
+and American academic communities, with paywalls as high as USD 40 per
+article.
 
 Contrary to popular belief, academia---and more broadly, science---is
 not pure objectivity and truth. Science is a process embedded in
 societal contexts.
+
+Scientists, dare I say, have the obligation to tell stories to the rest
+of us. Their stories should not be paywalled and riddled with technical
+jargon if they want the knowledge to make a difference. More scientists
+need to be "more spiritual" if they are not yet already.
