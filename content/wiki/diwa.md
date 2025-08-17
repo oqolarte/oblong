@@ -16,7 +16,7 @@ a Filipino anthropologist.*
 component of the Filipino pamantayan system.
 
 Life is without direction if there is no unity of mind, emotion, and
-action. If these are united, our inner self will be at peace. It becomes
+action. If these are united, [our inner self will be at peace](/inner-peace). It becomes
 the diwa (or essence) of our intellectual, emotional, and spiritual
 consciousness from which our life can blossom.
 

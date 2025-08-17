@@ -1,5 +1,5 @@
 ---
-tilte: "On eco-anarchism"
+title: "Eco-anarchism"
 date: 2022-08-29
 draft: false
 ---

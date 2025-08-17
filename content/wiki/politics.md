@@ -48,6 +48,7 @@ reference from which to learn.
 - [fascism](/fascism)
 - [having kids](/having-kids)
 - [hierarchy](/hierarchy)
+- [finding inner peace](/inner-peace)
 - [nihilism](/nihilism)
 - [religion](/religion)
 - [solarpunk](/solarpunk)

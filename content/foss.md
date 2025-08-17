@@ -11,7 +11,7 @@ draft: false
 
 ## Default apps
 
-- Operating System: [Alpine Linux v3.22 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 12 "*bookworm*"](https://www.debian.org/News/2023/20230610) (host server); Android (smartphone)
+- Operating System: [Alpine Linux v3.22 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 13 "*trixie*"](https://www.debian.org/News/2025/20250809) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
 - Web Browsers: [Chromium](https://www.chromium.org/chromium-projects/) (laptop), [Firefox Klar](https://www.firefox.com/en-US/browsers/mobile/focus/) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy

@@ -4,8 +4,6 @@ date: 2022-11-04
 draft: false
 ---
 
-
-
 > The spectre that many try not to see is a simple realisation---the
 > world will not be ‘saved’. Global anarchist revolution is not going to
 > happen. Global climate change is now unstoppable. We are not going to
@@ -37,7 +35,12 @@ is just setting yourself up [for repeated misfortunes that come after](/zemblani
 [^tal-desert]: Read the whole text here:
 https://theanarchistlibrary.org/library/anonymous-desert
 
-"**Despair is paralysis**," as observed by Robin Wall Kimmerer, a scientist.
+"**Despair is paralysis**," as observed by author Robin Wall Kimmerer.
 Knowing what and how to do better does not automatically mean we would
 be compelled to make [direct actions](/direct-action) to fight the
-[global collapse](/collapse). Personally, it is because a non-trivial part of myself that still suffers from Stockholm syndrome as I am held captive by the perceived comforts the [Empire](/empire) "provides."
+[global collapse](/collapse). Personally, it is because a non-trivial
+part of myself still suffers from Stockholm syndrome as I am held
+captive by the perceived comforts the [Empire](/empire) "provides."
+And like fugitives, we must then imagine creative ways of escaping its
+grasp in our lives. If nothing else, we can start with our own
+imagination: the last bastion of autonomy.

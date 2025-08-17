@@ -11,6 +11,156 @@
     
     
     <item>
+      <title>Refurbishing Laptops</title>
+      <link>https://ohio.araw.xyz/refurbishing-laptops/</link>
+      <pubDate>Wed, 13 Aug 2025 15:41:42 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/refurbishing-laptops/</guid>
+      <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
+Status:
+&lt;strong&gt;ON-GOING&lt;/strong&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Ever since I got into using Linux full-time, I dreamed about saving old
+laptops&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; by refurbishing them and donating them to those who
+need it.&lt;/p&gt;
+&lt;p&gt;Thanks to a friend, this ball is now rolling.&lt;/p&gt;
+&lt;p&gt;Below are some of my notes for each attempt at refurbishing a laptop.
+It&amp;rsquo;s not necessarily a tutorial, but I will try to make it as helpful as
+possible, like writing down what worked and didn&amp;rsquo;t work, and putting
+links to where needed.&lt;/p&gt;
+&lt;p&gt;I am codenaming each laptop for easier reference using a random word
+generator.&lt;/p&gt;
+&lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
+&lt;div class=toc&gt;
+  &lt;details&gt;
+  &lt;summary&gt;On this page (click to [un]hide)&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#earful-macbook-air-mid-2013&#34;&gt;&amp;ldquo;Earful&amp;rdquo;: MacBook Air, mid-2013&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#fiddling-with-earful-via-macos&#34;&gt;Fiddling with Earful via macOS&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#fiddling-with-earful-via-linux&#34;&gt;Fiddling with Earful via Linux&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#fiddling-with-trackpad-and-keyboard-issue&#34;&gt;Fiddling with Trackpad and keyboard issue&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/details&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;earful-macbook-air-mid-2013&#34;&gt;&amp;ldquo;Earful&amp;rdquo;: MacBook Air, mid-2013&lt;/h2&gt;
+&lt;p&gt;Initial info about Earful:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Model: A1466&lt;/li&gt;
+&lt;li&gt;Turns on and boots into a login screen.&lt;/li&gt;
+&lt;li&gt;Keyboard seems working&lt;/li&gt;
+&lt;li&gt;Has an account of previous owner.
+&lt;ul&gt;
+&lt;li&gt;For privacy and security purposes, I will &lt;em&gt;NOT&lt;/em&gt; be asking for their
+like password, not that my friend would even consider it. Just for
+fun, I tried &lt;code&gt;123456&lt;/code&gt; for password, and luckily it did not work.&lt;/li&gt;
+&lt;li&gt;The options, then, for getting into a userspace either we do a
+fresh install of latest compatible macOS or liveboot (for the
+meantime) into a Linux distro&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fiddling-with-earful-via-macos&#34;&gt;Fiddling with Earful via macOS&lt;/h3&gt;
+&lt;p&gt;Earful&amp;rsquo;s current macOS version is not immediately apparent on first
+boot.&lt;/p&gt;
+&lt;p&gt;I decided &lt;a href=&#34;https://support.apple.com/en-us/102655&#34;&gt;to reinstall macOS from Recovery&lt;/a&gt;.
+Pressing and holding
+Command (⌘) and R keys didn&amp;rsquo;t yield any result, i.e., it was just
+booting into the normal log-in screen as if it didn&amp;rsquo;t detected my key
+presses. When I plugged an external keyboard and tried again, it booted
+into Recovery mode. It was also here that I found out that only 1 out of 2
+USB ports is reliably functional, the one on the left hand side.&lt;/p&gt;
+&lt;p&gt;In Recovery mode, I was able to successfully reinstall the version that
+was in it, which I found out to be &lt;strong&gt;Mojave&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;After reboot, I found out that I &lt;em&gt;still&lt;/em&gt; need to login to the account of
+Previous Owner. &lt;strong&gt;Important lesson learned&lt;/strong&gt;: Reinstalling macOS from
+Recovery does &lt;em&gt;NOT&lt;/em&gt; wipe and replace it with a fresh one.&lt;/p&gt;
+&lt;h3 id=&#34;fiddling-with-earful-via-linux&#34;&gt;Fiddling with Earful via Linux&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve read only good things about Linux Mint as a great place for both
+Windows and macOS users to hop onto, so this is the distro that I&amp;rsquo;ve
+chosen with which to replace the Mojave in Earful.&lt;/p&gt;
+&lt;p&gt;I went ahead and &lt;strong&gt;downloaded &lt;a href=&#34;https://linuxmint.com/download.php&#34;&gt;Linux Mint 22.1 &amp;lsquo;Xia&amp;rsquo;&lt;/a&gt;, Cinnamon edition.&lt;/strong&gt;
+&lt;a href=&#34;https://linuxmint-installation-guide.readthedocs.io/en/latest/&#34;&gt;Linux Mint Installation Guide&lt;/a&gt;
+is great resource for going through the necessary steps in accomplishing
+this, regardless of the scenario (e.g. creating bootable media in Linux
+to be installed in MacBook, etc).&lt;/p&gt;
+&lt;p&gt;However, there are hardware issues:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Like I said earlier, only one USB port of Earful is reliably working.
+I would need ideally two ports, one for the bootable media and one for
+the external keyboard.&lt;/li&gt;
+&lt;li&gt;The most of Earful&amp;rsquo;s keyboard, including the trackpad, somehow stops
+working whenever an external keyboard is plugged in. I think only the
+Power Button is the only left working.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Good thing I have a 4-port USB dongle from our Pile of Stuff that&amp;rsquo;s
+still miraculously working after years of unuse.&lt;/p&gt;
+&lt;p&gt;I plugged the dongle in Earful&amp;rsquo;s working port; plugged the bootable
+media, external keyboard, and even a mouse for good measure in the
+dongle; and began my work.&lt;/p&gt;
+&lt;p&gt;To &lt;strong&gt;boot into the bootable media&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From powered off state, press the power button, and &lt;em&gt;immediately&lt;/em&gt;
+press and hold &lt;code&gt;Alt/Option&lt;/code&gt; (it&amp;rsquo;s in one key).&lt;/li&gt;
+&lt;li&gt;Choose the bootable drive.&lt;/li&gt;
+&lt;li&gt;Choose &amp;ldquo;Start Linux Mint Cinnamon 22.1&amp;rdquo; (first choice)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Installation&lt;/strong&gt; of Linux Mint is as simple as double-clicking the
+&amp;ldquo;Install Linux Mint&amp;rdquo; on the Desktop and going
+through the installation process.&lt;/p&gt;
+&lt;p&gt;On next reboot (after the successful install, I was prompted to reboot),
+a Welcome pop-up window prompted me to go through
+the &lt;strong&gt;First Steps&lt;/strong&gt;, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Updating desktop colors;&lt;/li&gt;
+&lt;li&gt;Setting automatic backups (system snapshots);&lt;/li&gt;
+&lt;li&gt;Checking additional drivers (&lt;strong&gt;This is important&lt;/strong&gt; as it will deal
+with the proprietary drivers, like WiFi);&lt;/li&gt;
+&lt;li&gt;Checking multimedia codecs for ample support for different media
+formats;&lt;/li&gt;
+&lt;li&gt;Updating packages and programs;&lt;/li&gt;
+&lt;li&gt;Configuring the operating system;&lt;/li&gt;
+&lt;li&gt;Installing new software in case it&amp;rsquo;s not included in the base;&lt;/li&gt;
+&lt;li&gt;And even setting up network firewall.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After all that, Earful is mostly functional&amp;mdash;even the headphone jack is
+working. But I needed to address the hardware issues listed above.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/earful-mac.jpg&#34;
+    alt=&#34;Image of a MacBook Air 2013 screen with its system details listed out on a terminal emulator&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Earful running on Linux Mint 22.1&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;fiddling-with-trackpad-and-keyboard-issue&#34;&gt;Fiddling with Trackpad and keyboard issue&lt;/h3&gt;
+&lt;p&gt;Looking into it, one possible cause is related to the Trackpad cable.&lt;/p&gt;
+&lt;p&gt;To get to it, I followed this iFixit guide up to &lt;strong&gt;Step 6&lt;/strong&gt;: &lt;a href=&#34;https://www.ifixit.com/Guide/MacBook+Air+13-Inch+Mid+2013+Trackpad+Replacement/15235&#34;&gt;MacBook Air 13&amp;quot; Mid 2013 Trackpad Replacement&lt;/a&gt;
+Supposedly, the easiest possible fix to try is to disconnect the cable
+and clean the ZIF sockets on both ends with &lt;a href=&#34;https://ohio.araw.xyz/alcohol&#34;&gt;isopropyl alcohol&lt;/a&gt;. I tried that, reconnected everything, and rebooted&amp;mdash;but to no avail, i.e., keyboard and trackpad is still not working.&lt;/p&gt;
+&lt;p&gt;And this is the point in which my friend and I decided it would be more
+productive to have it professionally diagnosed and repaired.&lt;/p&gt;
+&lt;p&gt;TODO&lt;br&gt;
+I will update this post once Earful has been professionally diagnosed
+and repaired.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The laptop I&amp;rsquo;m currently using and writing this on is a
+&lt;a href=&#34;https://ohio.araw.xyz/64&#34;&gt;refurbished Thinkpad X220&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Recipe for Kamias Jam</title>
       <link>https://ohio.araw.xyz/kamias-jam/</link>
       <pubDate>Wed, 21 May 2025 20:21:45 +0800</pubDate>

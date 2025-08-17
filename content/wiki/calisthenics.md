@@ -13,8 +13,7 @@ A good starting point is: [Hampton's suggested routine](https://hybridcalistheni
 ## Current exercises
 
 I only do one group of exercises a day (e.g., today I might do PUSH;
-tomorrow CORE), and I don't necessarily do all of the exercises in each
-group.
+tomorrow CORE).
 
 Since I'm no expert, I'll spare the details in the number of reps
 and sets.
@@ -22,8 +21,8 @@ and sets.
 **PUSH** exercises:
 - Ring push-ups ➔ Diamond push-ups ➔ regular push-ups ➔ knee push-ups ➔
   advanced incline push-ups
+- Pike push-ups
 - [Ring, or most likely, bench] Dips
-- Wall-assisted hand stands
 
 **CORE** exercises:
 - Hanging leg raises ➔ Advanced hanging knee Raises ➔ Hanging knee
@@ -38,8 +37,8 @@ and sets.
     - **Cue**: Imagine bending the bar into a rainbow shape
 
 **LEGS** exercises:
-- Hindu squats
-- Wall sit
-- High-knee stationary jogging
+- Assisted pistol squats ➔ narrow squats
+- Weighted Bulgarian split squats
 - Cossack squat
 - Nordic hamstring curls
+- calf raises
