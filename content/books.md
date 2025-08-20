@@ -13,11 +13,13 @@ finish reading.
 
 ## Currently reading
 
-| Book Title             | Author/s                           |
-|------------------------|------------------------------------|
-| The Botany of Empire   | Banu Subramaniam                   |
-| Children of Dune       | Frank Herbert                      |
-| The Dawn of Everything | David Graeber and David Wengrow    |
+| Book Title                  | Author/s                        |
+|-----------------------------|---------------------------------|
+| The Botany of Empire        | Banu Subramaniam                |
+| Children of Dune            | Frank Herbert                   |
+| The Dawn of Everything      | David Graeber and David Wengrow |
+| [Being Peace](/inner-peace) | Thich Nhat Hanh                 |
+| Candido's Apocalypse        | Nick Joaquin                    |
 
 ## Completed
 

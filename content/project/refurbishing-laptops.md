@@ -129,6 +129,7 @@ and clean the ZIF sockets on both ends with [isopropyl alcohol](/alcohol). I tri
 And this is the point in which my friend and I decided it would be more
 productive to have it professionally diagnosed and repaired.
 
-TODO  
-I will update this post once Earful has been professionally diagnosed
-and repaired.
+When a technician had finally checked it, he found that **the issue was
+the actual trackpad**, and not the connecting cable. He had the trackpad
+replaced with new one, and everything now works. This repair costed PHP
+3,500 (or around USD 61.29 at the time of writing).

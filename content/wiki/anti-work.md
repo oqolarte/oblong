@@ -33,7 +33,7 @@ sometimes paying less than minimum wage.
 We are meant to live in [loving communities](/friendship)
 in which we can [help each other meet our daily needs](/mutual-aid).
 
-Power Gets Things Done, but it can also oppress people.
+Power Gets Things Done, but at the hands of Authority it also oppresses people.
 The state does this in the public sphere, and your average CEO does it in the
 workplace.
 
@@ -85,6 +85,7 @@ yourself---they may slow you down, but they don't have to stop you.
 Comforts, peer recognition, and success achieved by Getting Work Done is
 made possible not solely by the worker themself, but also of the myriad
 of invisible people and things around and beyond the Work:
+
 - There are other workers that must not be paid fairly so that the
   "savings" will be allotted pay the salaries of middle management and C-suite;
 - Trade policies favor richer nations and therefore its workers, extracting more resources from
@@ -151,3 +152,12 @@ the distribution of money is fair and efficient, when it's most often
 the opposite. People in power, usually [capitalists](/capitalism), use
 this to justify their privilege, how they exploit the working class, how
 they plunder the natural resources for their own benefit, etc.
+
+## Advice to anyone working
+
+If you can't find a job that aligns with your [values](/personal-principles),
+do your best with what you have:
+
+- [Read and brush up on topics](/politics) that are important to you.
+- Organize your workplace.
+- [Help and/or support people around you with whatever you can offer](/mutual-aid).

@@ -3,11 +3,26 @@ title: "Notes on feminism"
 date: 2022-11-03
 draft: false
 ---
-The struggle against [patriarchy](/patriarchy) is an essential part of class conflict,
+
+The struggle against [patriarchy](/patriarchy) is an essential
+part of class conflict,
 as well as the struggle against state and capitalism.
 
 > Womanhood is a dark meditation peppered with agony and ecstasy.  
 > -- Kimia Dargahi
+
+{{< toc >}}
+
+## Intro
+
+Two important things to consider:
+
+1. **Women have complete autonomy over their own bodies.** They deserve
+   a fulfilling life of [political](/politics), economic, and social
+   empowerment.
+2. These higher forms of empowerment, though, cannot be achieved if the
+   most basic rights of women and girls---their **right to life and to
+   live free of [violence](/violence)**---are not even guaranteed.
 
 ## Problematic branches
 

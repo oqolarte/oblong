@@ -144,9 +144,10 @@ Supposedly, the easiest possible fix to try is to disconnect the cable
 and clean the ZIF sockets on both ends with &lt;a href=&#34;https://ohio.araw.xyz/alcohol&#34;&gt;isopropyl alcohol&lt;/a&gt;. I tried that, reconnected everything, and rebooted&amp;mdash;but to no avail, i.e., keyboard and trackpad is still not working.&lt;/p&gt;
 &lt;p&gt;And this is the point in which my friend and I decided it would be more
 productive to have it professionally diagnosed and repaired.&lt;/p&gt;
-&lt;p&gt;TODO&lt;br&gt;
-I will update this post once Earful has been professionally diagnosed
-and repaired.&lt;/p&gt;
+&lt;p&gt;When a technician had finally checked it, he found that &lt;strong&gt;the issue was
+the actual trackpad&lt;/strong&gt;, and not the connecting cable. He had the trackpad
+replaced with new one, and everything now works. This repair costed PHP
+3,500 (or around USD 61.29 at the time of writing).&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

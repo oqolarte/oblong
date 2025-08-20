@@ -1,14 +1,11 @@
 ---
 title: "Small palette was still colorful"
 date: 2025-07-27
-draft: true
+draft: false
 math: false
 ---
 
 {{< toc >}}
-
-FROM:
-https://marisabel.nl/public/blog/IndieWeb_Carnival_August_2025_:_Colors
 
 Ruminating on one's past life often leaves a mix of tastes on one's
 palette, yet here I am, unafraid to make such revisits from time to
@@ -54,11 +51,13 @@ kid---I found red. With it came big ideas like courage, anger, blood.
 *Boy's stuff*, finally.
 
 Not too long after that, I encountered the cartoon show
-*Courage the Cowardly Dog*. Despite some of the episodes being too jarring and
+*Courage the Cowardly Dog*.[^good-boy] Despite some of the episodes being too jarring and
 out-there for my young sensibilities, I came to enjoy the series. Most
 of the time it was wacky in a fun and weird way. It even had feel-good
 endings for many episodes, imparting moral lessons right after it scared
 my guts into knots.
+
+[^good-boy]: There's a horror film called '*Good Boy*', and it's supposedly [*Courage the Cowardly Dog* brought to life](https://lifestyle.inquirer.net/547563/good-boy-is-courage-the-cowardly-dog-brought-to-life/).
 
 The titular Courage was not red, but a shade of purple. He was *cowardly*,
 yes, but do we not all need fear to do the brave "things we do for
@@ -181,28 +180,3 @@ alive with contrasting hues tightroping between hope and nihilism;
 cinematography with impossible yet lively color grading; radical designs
 that surprise you with the right pop of maddened color, etc. Age graces
 one with a certain appreciation for depth more than breadth.
-
-```
-DELETE
-
-1. Transitions Between Sections: Consider adding transitional phrases at
-   the end of each section to create a smoother connection to the next
-   topic. For example, after discussing colors, you could mention how
-   these colors relate to emotions or experiences, leading into the
-   "Courage" section.
-1. Thematic Consistency: Ensure that each section ties back to the
-   overarching theme of identity and self-discovery. This could involve
-   revisiting the idea of colors as metaphors for emotions or
-   experiences in subsequent sections.
-1. Repetition for Emphasis: Reiterate key phrases or ideas throughout
-   the text to create a sense of cohesion. For instance, the concept of
-   "palette" could be revisited in various contexts to reinforce the
-   metaphor of personal growth and exploration.
-1. Parallel Structure: Use parallel sentence structures when listing
-   ideas or experiences to enhance readability and rhythm. This can make
-   the text more engaging and easier to follow.
-1. Concluding Thoughts: Each section could benefit from a brief
-   concluding thought that encapsulates the main idea before
-   transitioning to the next topic. This would help reinforce the
-   message and provide a natural segue into the following section.
-```
