@@ -50,5 +50,6 @@ reference from which to learn.
 - [hierarchy](/hierarchy)
 - [finding inner peace](/inner-peace)
 - [nihilism](/nihilism)
+- [organizing](/organizing)
 - [religion](/religion)
 - [solarpunk](/solarpunk)

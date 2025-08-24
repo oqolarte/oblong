@@ -42,6 +42,14 @@ generator.&lt;/p&gt;
         &lt;li&gt;&lt;a href=&#34;#fiddling-with-earful-via-macos&#34;&gt;Fiddling with Earful via macOS&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#fiddling-with-earful-via-linux&#34;&gt;Fiddling with Earful via Linux&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#fiddling-with-trackpad-and-keyboard-issue&#34;&gt;Fiddling with Trackpad and keyboard issue&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#donated&#34;&gt;Donated!&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#proofing-macbook-air-mid-2013&#34;&gt;&amp;ldquo;Proofing&amp;rdquo;: MacBook Air, mid-2013&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#professional-repair&#34;&gt;Professional repair&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#replacing-macos-with-linux-mint&#34;&gt;Replacing macOS with Linux Mint&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#next-steps&#34;&gt;Next step/s&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
@@ -82,6 +90,12 @@ was in it, which I found out to be &lt;strong&gt;Mojave&lt;/strong&gt;.&lt;/p&gt
 Previous Owner. &lt;strong&gt;Important lesson learned&lt;/strong&gt;: Reinstalling macOS from
 Recovery does &lt;em&gt;NOT&lt;/em&gt; wipe and replace it with a fresh one.&lt;/p&gt;
 &lt;h3 id=&#34;fiddling-with-earful-via-linux&#34;&gt;Fiddling with Earful via Linux&lt;/h3&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/earful-mac.jpg&#34;
+    alt=&#34;Image of a MacBook Air 2013 screen with its system details listed out on a terminal emulator&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Earful running on Linux Mint 22.1&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;p&gt;I&amp;rsquo;ve read only good things about Linux Mint as a great place for both
 Windows and macOS users to hop onto, so this is the distro that I&amp;rsquo;ve
 chosen with which to replace the Mojave in Earful.&lt;/p&gt;
@@ -129,14 +143,26 @@ formats;&lt;/li&gt;
 &lt;li&gt;Installing new software in case it&amp;rsquo;s not included in the base;&lt;/li&gt;
 &lt;li&gt;And even setting up network firewall.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;After all that, Earful is mostly functional&amp;mdash;even the headphone jack is
-working. But I needed to address the hardware issues listed above.&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/earful-mac.jpg&#34;
+&lt;p&gt;However, &lt;strong&gt;Left control&lt;/strong&gt; key may not be working as intended. Here is a
+satisfactory solution (based from &lt;a href=&#34;https://unix.stackexchange.com/questions/557775/how-can-i-change-cmd-to-ctrl-in-linux-mint-only-in-terminal&#34;&gt;this discussion&lt;/a&gt;):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Go to &lt;code&gt;Keyboard&lt;/code&gt; &amp;gt; &lt;code&gt;Layouts&lt;/code&gt; &amp;gt; &lt;code&gt;Options...&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Under &lt;strong&gt;Ctrl position&lt;/strong&gt;, make sure the following boxes are checked:
+&lt;ul&gt;
+&lt;li&gt;Swap Left Alt with Left Ctrl&lt;/li&gt;
+&lt;li&gt;Swap Left Win with Left Ctrl&lt;/li&gt;
+&lt;li&gt;Swap Right Win with Right Ctrl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/left-ctrl-macbook.png&#34;
     alt=&#34;Image of a MacBook Air 2013 screen with its system details listed out on a terminal emulator&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;Earful running on Linux Mint 22.1&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;p&gt;After all that, Earful is mostly functional&amp;mdash;even the headphone jack is
+working. But I needed to address the hardware issues listed above.&lt;/p&gt;
 &lt;h3 id=&#34;fiddling-with-trackpad-and-keyboard-issue&#34;&gt;Fiddling with Trackpad and keyboard issue&lt;/h3&gt;
 &lt;p&gt;Looking into it, one possible cause is related to the Trackpad cable.&lt;/p&gt;
 &lt;p&gt;To get to it, I followed this iFixit guide up to &lt;strong&gt;Step 6&lt;/strong&gt;: &lt;a href=&#34;https://www.ifixit.com/Guide/MacBook+Air+13-Inch+Mid+2013+Trackpad+Replacement/15235&#34;&gt;MacBook Air 13&amp;quot; Mid 2013 Trackpad Replacement&lt;/a&gt;
@@ -148,6 +174,36 @@ productive to have it professionally diagnosed and repaired.&lt;/p&gt;
 the actual trackpad&lt;/strong&gt;, and not the connecting cable. He had the trackpad
 replaced with new one, and everything now works. This repair costed PHP
 3,500 (or around USD 61.29 at the time of writing).&lt;/p&gt;
+&lt;h3 id=&#34;donated&#34;&gt;Donated!&lt;/h3&gt;
+&lt;p&gt;As of 23 AUG 2025, Earful now belongs to a deserving donee who is currently
+rebuilding his life after he was wrongfully accused and jailed for
+crimes he did not commit.&lt;/p&gt;
+&lt;h2 id=&#34;proofing-macbook-air-mid-2013&#34;&gt;&amp;ldquo;Proofing&amp;rdquo;: MacBook Air, mid-2013&lt;/h2&gt;
+&lt;p&gt;Initial info about Proofing:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Model: A1466&lt;/li&gt;
+&lt;li&gt;Does not turn on even when charger is plugged in.&lt;/li&gt;
+&lt;li&gt;Indicator light of magsafe charge is not lighting on when plugged in.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;professional-repair&#34;&gt;Professional repair&lt;/h3&gt;
+&lt;p&gt;The power issue is beyond my capabilities, so I dropped it at the
+trusted repair shop for diagnosis.&lt;/p&gt;
+&lt;p&gt;They found out that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Parts of motherboard have corrosion, likely from a liquid spill.&lt;/li&gt;
+&lt;li&gt;System Management Controller (SMC) chip is fried, likely because of
+said spill, thus preventing laptop from charging.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The cost for cleaning off the corrosion and replacing the SMC chip
+amounted to PHP 4,500 (USD 79.68).&lt;/p&gt;
+&lt;h3 id=&#34;replacing-macos-with-linux-mint&#34;&gt;Replacing macOS with Linux Mint&lt;/h3&gt;
+&lt;p&gt;This step is the same as the section above in fiddling with Linux.&lt;/p&gt;
+&lt;h3 id=&#34;next-steps&#34;&gt;Next step/s&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Proofing came in without its own charger. I&amp;rsquo;m looking for a secondhand
+one.&lt;/li&gt;
+&lt;li&gt;Donate.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;

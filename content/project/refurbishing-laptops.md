@@ -63,6 +63,8 @@ Recovery does *NOT* wipe and replace it with a fresh one.
 
 ### Fiddling with Earful via Linux
 
+{{< figure src="/image/earful-mac.jpg" alt="Image of a MacBook Air 2013 screen with its system details listed out on a terminal emulator" caption="Earful running on Linux Mint 22.1" >}}
+
 I've read only good things about Linux Mint as a great place for both
 Windows and macOS users to hop onto, so this is the distro that I've
 chosen with which to replace the Mojave in Earful.
@@ -112,11 +114,19 @@ the **First Steps**, including:
 - Installing new software in case it's not included in the base;
 - And even setting up network firewall.
 
+However, **Left control** key may not be working as intended. Here is a
+satisfactory solution (based from [this discussion](https://unix.stackexchange.com/questions/557775/how-can-i-change-cmd-to-ctrl-in-linux-mint-only-in-terminal)):
+
+1. Go to `Keyboard` > `Layouts` > `Options...`
+2. Under **Ctrl position**, make sure the following boxes are checked:
+    - Swap Left Alt with Left Ctrl
+    - Swap Left Win with Left Ctrl
+    - Swap Right Win with Right Ctrl
+
+{{< figure src="/image/left-ctrl-macbook.png" alt="Image of a MacBook Air 2013 screen with its system details listed out on a terminal emulator" caption="Earful running on Linux Mint 22.1" >}}
+
 After all that, Earful is mostly functional---even the headphone jack is
 working. But I needed to address the hardware issues listed above.
-
-
-{{< figure src="/image/earful-mac.jpg" alt="Image of a MacBook Air 2013 screen with its system details listed out on a terminal emulator" caption="Earful running on Linux Mint 22.1" >}}
 
 ### Fiddling with Trackpad and keyboard issue
 
@@ -133,3 +143,39 @@ When a technician had finally checked it, he found that **the issue was
 the actual trackpad**, and not the connecting cable. He had the trackpad
 replaced with new one, and everything now works. This repair costed PHP
 3,500 (or around USD 61.29 at the time of writing).
+
+### Donated!
+
+As of 23 AUG 2025, Earful now belongs to a deserving donee who is currently
+rebuilding his life after he was wrongfully accused and jailed for
+crimes he did not commit.
+
+## "Proofing": MacBook Air, mid-2013
+
+Initial info about Proofing:
+- Model: A1466
+- Does not turn on even when charger is plugged in.
+- Indicator light of magsafe charge is not lighting on when plugged in.
+
+### Professional repair
+
+The power issue is beyond my capabilities, so I dropped it at the
+trusted repair shop for diagnosis.
+
+They found out that:
+- Parts of motherboard have corrosion, likely from a liquid spill.
+- System Management Controller (SMC) chip is fried, likely because of
+  said spill, thus preventing laptop from charging.
+
+The cost for cleaning off the corrosion and replacing the SMC chip
+amounted to PHP 4,500 (USD 79.68).
+
+### Replacing macOS with Linux Mint
+
+This step is the same as the section above in fiddling with Linux.
+
+### Next step/s
+
+- Proofing came in without its own charger. I'm looking for a secondhand
+  one.
+- Donate.

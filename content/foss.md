@@ -34,6 +34,7 @@ draft: false
 - PDF reader: [zathura](https://pwmt.org/projects/zathura/)
 - YouTube client: [NewPipe](https://newpipe.net/) (Android)
 - Authenticator: [Aegis](https://getaegis.app/) (Android)
+- Alternative app repos (Android): [F-droid](https://f-droid.org/en/) and [Obtainium](https://obtainium.imranr.dev/)
 
 ## Special Mentions
 
