@@ -30,11 +30,20 @@ gatekeep as much "content" and information as possible within their
 platforms, so much so that many people think that, say, Facebook is the
 internet.
 
-Securing a domain name and a website is not prioritized, particularly
-among smaller groups who do not have big funding backing them up.
-Such groups are missing out on having the control to what they can post,
-instead of delegating it to the whims of our technofeudal lords at
-Silicon Valley.
+Sharing links from big tech platforms to people outside it can be also
+sketchy. In my experience, even posts that are supposedly set in public
+does not guarantee a log-in wall would not appear and break the viewing
+experience. It is one of those deceptive patterns they employ to coerce
+the viewer to get into the platform if they want to continue
+viewing/reading/watching the "content" in it.
+
+Despite these, securing a domain name and making a dedicated website is
+not prioritized. This is more evident among smaller groups who lack
+resources and manpower develop and maintain a website.
+
+On the other hand, such groups are missing out on having complete
+control over what they can post, and are instead delegating it to the
+whims of technofeudal lords at Silicon Valley.
 
 [POSSE](https://indieweb.org/POSSE) (Publish (on your) Own Site,
 Syndicate Elsewhere) is a decent compromise between using social media
