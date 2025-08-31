@@ -172,10 +172,55 @@ amounted to PHP 4,500 (USD 79.68).
 
 ### Replacing macOS with Linux Mint
 
-This step is the same as the section above in fiddling with Linux.
+This step is the same as the [section above in fiddling with Linux](/refurbishing-laptops/#fiddling-with-earful-via-linux).
 
 ### Next step/s
 
 - Proofing came in without its own charger. I'm looking for a secondhand
   one.
+- Donate.
+
+## "Sullen": MacBook Air, mid-2015
+
+Initial info about Sullen:
+- Model: A1465
+- Came in without a charger
+- Needs to be plugged in to boot up. It does not turn on when unplugged;
+  or it immediately powers off when the magsafe charger is yanked away
+  when plugged.
+- Significant number of keys are not working, but at least the trackpad
+  is working.
+- Has an account of previous owner, but is somehow set up to let in a
+  "Guest User"
+    - Guest User is sandboxed only to Safari (Apple's native web
+      browser). Logging to this Guest User was how I found out that some
+      keys were not working.
+    - In this session, I was able to connect to our wifi.
+    - It might be running an outdated Safari because most of the sites I
+      visited has an "invalid certificate." From what I can tell, its
+      Safari can only make HTTP connections, not HTTP*S* ones.
+- Booting up takes a little longer than expected.
+
+### Fiddling with Sullen via Linux, and fixing wifi issue
+
+This step, which is replacing macOS with Linux Mint, is the same as the [section above in fiddling with Linux](/refurbishing-laptops/#fiddling-with-earful-via-linux).
+
+*However*, after the fresh install, it had an odd issue of locating the
+wifi drivers, something I did not experience in the first two Macbooks
+above. Driver Manager had been throwing errors because it "[c]annot
+download packages whilst offline." *Duh.*
+
+It would not be much of an issue if Sullen (and other Macbooks) had an
+ethernet port. But Apple's engineers and designers do not see ports, and
+functionality in general, as *aesthetically pleasing.*
+
+We would have to [**create a temporary internet connection with a smartphone**](https://web.archive.org/web/20250831141427/https://easylinuxtipsproject.blogspot.com/p/temporary-internet.html?m=1) that is able to connect to internet. That link contains a walkthrough on how to do it on both Android and iOS.
+
+Then, proceed with installing the needed wifi driver/s via Driver
+Manager. After this, connect to wifi as normal.
+
+### Next step/s
+
+- Have the keyboard and battery professionally replaced.
+- Obtain a secondhand charger.
 - Donate.
