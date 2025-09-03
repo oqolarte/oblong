@@ -219,8 +219,11 @@ We would have to [**create a temporary internet connection with a smartphone**](
 Then, proceed with installing the needed wifi driver/s via Driver
 Manager. After this, connect to wifi as normal.
 
+### Professinal repair
+
+I delegated the power and keyboard issues to our trusted repair shop.
+They charged a total of PHP 8,400 (~ USD 146.55) for these jobs.
+
 ### Next step/s
 
-- Have the keyboard and battery professionally replaced.
-- Obtain a secondhand charger.
-- Donate.
+- Ready for donation.

@@ -32,7 +32,7 @@ internet.
 
 Sharing links from big tech platforms to people outside it can be also
 sketchy. In my experience, even posts that are supposedly set in public
-does not guarantee a log-in wall would not appear and break the viewing
+do not guarantee a log-in wall would not appear and break the viewing
 experience. It is one of those deceptive patterns they employ to coerce
 the viewer to get into the platform if they want to continue
 viewing/reading/watching the "content" in it.
