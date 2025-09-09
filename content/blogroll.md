@@ -58,7 +58,7 @@ and often talks about the overlap of the two.
 : likes to share her findings on niche operating systems like NixOS
 and BSDs.
 
-[The Amphibian](https://www.marianilad.com/)
+[Soulful Resistance](https://www.marianilad.com/)
 : is written by Maria
 Nilad, a Filipina poet and essayist who offers "medicine and solutions
 in equal measure, for anxious environmentalists, cynical humanists, and
