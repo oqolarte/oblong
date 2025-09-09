@@ -52,7 +52,7 @@ Heavily influenced by https://www.bicycling.com/repair/a20012653/bike-repair-tip
 18. Three signs your brake pads are worn: You hear a gritty scraping
    sound, the grooves in the pad have all but disappeared, or you feel
    stickiness when you brake.
-19. Don’t touch disc-brake pads with your fingers. The oil from your skin
+19. Don’t touch disc-brake pads with your fingers. The oil from your [skin](/skin)
    can decrease their braking power.
 20. Work on one brake at a time so you always have an intact brake to
    reference.

@@ -32,7 +32,7 @@ defined space we share and move within.
 ### Functions of Halaga
 
 Our halaga norms are associated with our sensitivity. That's why we use
-*mukha* (face) and *balat* (skin) as symbols of this fragility of
+*mukha* (face) and *balat* ([skin](/skin)) as symbols of this fragility of
 feelings, or as possible attack surfaces. For example, "*kapal ng
 mukha*" (literally "thick face", meaning, so insensitive that it's
 insulting) can be hurled as vitriol to another person, but can also be

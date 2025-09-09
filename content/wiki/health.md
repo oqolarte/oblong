@@ -4,9 +4,9 @@ date: 2022-08-17
 draft: false
 ---
 
-I don't wish to live forever,
-but I do want to do as many things in life as possible.
-Improving and maintaining my health is one major way to accomplish that.
+I don't wish to live forever, but I do want to do as many things in life
+as possible. Improving and maintaining my health is one major way to
+accomplish that.
 
 Be aware of [intervention that might lead to worse outcomes](/iatrogenics).
 
@@ -111,7 +111,7 @@ of being "lonely at the top," which I always find odd.
 
 ### Jokes to make after failure that are not self-deprecating
 
-*from a Tumblr post*
+*from the internet*
 
 1. I’m the best to ever do it
 1. Nobody saw that (best if said loudly)

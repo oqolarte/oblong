@@ -14,9 +14,12 @@ How accurate to use something as elemental and as primitive as fire to
 explain the range of emotions that stem from our primitive roots. She
 warns, though, that:
 
-> [...] a fire not properly regulated has the potential to destroy
-> everything too. [...] To keep a steady flame, you must direct the fire
-> towards something other than its own expansion.
+> [...] a fire not properly regulated has the potential to
+> [destroy](/destruction) everything too. [...] To keep a steady flame,
+> you must direct the fire towards something other than its own
+> expansion.
+
+(Hyperlinks added by me)
 
 ## Stages of sex: poetry in motion
 

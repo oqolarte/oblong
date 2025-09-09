@@ -31,7 +31,7 @@ A madhalla is made from plaited strips of date palm leaves,
 and the high peak promotes air circulation inside the hat.
 
 The black color of the abaya actually keeps them cooler
-by absorbing heat before it reaches the skin.
+by absorbing heat before it reaches the [skin](/skin).
 The thickness of the fabric helps:
 the outer layer does get hotter,
 but the heat doesn't get transmitted to the skin.

@@ -21,6 +21,8 @@ Through friends we gain more mobility, we can access
 
 {{< figure src="/image/gentlefriends.jpg" alt="Two kids wearing only shorts and cloth masks, the arm of one goes over the shoulder of the other. They each hold a pistol. Overlaid on them is the caption in big bold capital letters: Be gentle with each other, so we can be dangerous together" caption="That's what friends are for" >}}
 
+## F for eFFort
+
 Friendship takes time and energy.
 Intimate relationships that we build and maintain with friends matters a
 lot in determining the [politics](/politics), personal and social, of
@@ -37,8 +39,9 @@ care we would a partner.
 >
 > -- Jon Nixon, in his book  *Hannah Arendt and the Politics of Friendship*
 
-We look into, and learn from, our friends
+We look into, listen, and learn from, our friends
 not because they are our exact copies,
+not because they are broadcasting what we want to hear,
 but because of our differences with them.
 
 ## Network of friends
