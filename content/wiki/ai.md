@@ -45,6 +45,13 @@ One might use gen AI for any of the following:
 A lot of AI-related startups and research labs depend on the
 infrastructure that Microsoft, Amazon, and Google provides.
 
+So far, the true costs of gen AI has been obscured by insane amounts of
+venture capital. When the bill comes due, these AI tools will either
+become prohibitively expensive or they will turn to
+[advertising](/no-ads) and/or propaganda. Like all current big tech
+companies, the product is not the software but its users; and the true
+customers are the venture capitalists who are paying for it all.
+
 Can we even achieve [full automation without the human touch](/autonomation)?
 In CNET's YouTube video "[Apple Intelligence is for the Stupid Ones](https://www.youtube.com/watch?v=D0V554NyXWM)",
 Bridget Carey observes that the point of AI "was supposed to save us
@@ -91,9 +98,9 @@ from which they could extract more profit.
 
 ### AI reinforces stereotypes
 
-after having read Victoria Turk's piece on
-[how AI reduces the world to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/).
-In it, the author quoted Amba Kak, executive director of AI Now
+In Victoria Turk's piece on
+[how AI reduces the world to stereotypes](https://restofworld.org/2023/ai-image-stereotypes/),
+the author quoted Amba Kak, executive director of AI Now
 Institute:
 
 > Essentially what this is doing is flattening descriptions of, say, ‘an
@@ -104,8 +111,10 @@ Institute:
 AI worsens misinformation and low-quality content because it lacks the
 ethical nuance with which to include in the contents it produces.
 
+### Environmental costs of AI
+
 In [an interview by *The Guardian*](https://www.theguardian.com/technology/2021/jun/06/microsofts-kate-crawford-ai-is-neither-artificial-nor-intelligent),
-Kate Crawford said on what people should know about how AI products are
+Kate Crawford said something on what people should know about how AI products are
 made (emphasis and added hyperlink mine):
 
 > We aren’t used to thinking about these systems in terms of the

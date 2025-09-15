@@ -5,7 +5,9 @@ draft: false
 math: false
 ---
 
-It's about giving machines access to data and letting them learn and make decisions on their own. No manual coding of rules; the machine learns from the data.
+It's about giving machines access to data and letting them learn and
+make decisions on their own. No manual coding of rules; the machine
+learns from the data.
 
 {{< toc >}}
 
@@ -24,5 +26,10 @@ It's about giving machines access to data and letting them learn and make decisi
 
 ML requires knowledge in [math](/math) and computer science to make
 accurate predictions in useful data.
+
+Machine learning is a great method for finding complex and hidden
+patterns and is an amazing asset when it comes to scientific discovery
+and some forms of automation. But publicly available gen AI is
+not trustworthy for most other jobs.
 
 For more info, Mark Redito lists more reference materials in his [GitHub repo](https://github.com/markredito/selfstudy-roadmap-ml-ai#fundamental-skills).

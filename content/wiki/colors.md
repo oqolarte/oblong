@@ -180,3 +180,6 @@ alive with contrasting hues tightroping between hope and nihilism;
 cinematography with impossible yet lively color grading; radical designs
 that surprise you with the right pop of maddened color, etc. Age graces
 one with a certain appreciation for depth more than breadth.
+
+*This is part of a bigger conversation around **colors**, hosted by
+Marisabel Munoz. Read more about her write-up on the matter: "[IndieWeb Carnival August 2025: Roundup](https://marisabel.nl/public/blog/IndieWeb_Carnival_August_2025_:_Roundup)"*

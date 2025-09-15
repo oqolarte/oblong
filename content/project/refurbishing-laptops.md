@@ -214,16 +214,19 @@ It would not be much of an issue if Sullen (and other Macbooks) had an
 ethernet port. But Apple's engineers and designers do not see ports, and
 functionality in general, as *aesthetically pleasing.*
 
-We would have to [**create a temporary internet connection with a smartphone**](https://web.archive.org/web/20250831141427/https://easylinuxtipsproject.blogspot.com/p/temporary-internet.html?m=1) that is able to connect to internet. That link contains a walkthrough on how to do it on both Android and iOS.
+For this, [**create a temporary internet connection with a smartphone**](https://web.archive.org/web/20250831141427/https://easylinuxtipsproject.blogspot.com/p/temporary-internet.html?m=1) that is able to connect to internet. That link contains a walkthrough on how to do it on both Android and iOS.
 
-Then, proceed with installing the needed wifi driver/s via Driver
-Manager. After this, connect to wifi as normal.
+Once succesfully connected to the internet, proceed with installing the
+needed wifi driver/s via Driver Manager.
 
-### Professinal repair
+After this, connect to wifi as normal.
+
+### Professional repair
 
 I delegated the power and keyboard issues to our trusted repair shop.
 They charged a total of PHP 8,400 (~ USD 146.55) for these jobs.
 
-### Next step/s
+### Donated!
 
-- Ready for donation.
+Sullen is now delivered to a friend in Cavite who is running their own
+small infoshop.
