@@ -144,7 +144,7 @@ different plaforms would get too cumbersome too fast. (This might be why
 bigger celebrities hire their own "social media manager/s.")
 
 In his post "[Reconsidering POSSE](https://starbreaker.org/grimoire/entries/reconsidering-posse/index.html),"
-Matthew Graybosch writes about how he (or anyone) "need[s] not syndicate
+Matthew Cambion writes about how he (or anyone) "need[s] not syndicate
 to such [social media] platforms [like Mastodon or Bluesky]," and
 suggests that syndication is possible with dedicated blogging platforms
 like [Bear Blog](https://bearblog.dev/), [Write.As](https://write.as/),

@@ -59,6 +59,10 @@ abused, misused, and stolen.
 
 ## Politics of privacy
 
+No matter how suspicious you might find the neighbor who never opens
+their blinds, they will never be as suspicious as the neighbor who wants
+free reign to peek in through people’s windows.
+
 Those of us with a bit of know-how should seek to
 fight for the privacy of all in the working class. It *is* a human right
 that the ruling class intends on keeping only for themselves.

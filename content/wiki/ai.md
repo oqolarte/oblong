@@ -41,6 +41,8 @@ One might use gen AI for any of the following:
 
 ## Cons of AI
 
+![the classic XKCD »all modern digital infrastructure« tower-of-bricks, but with a wedge labelled »AI« added in the lower third.](/image/ai.jpg)
+
 [Make no mistake---AI is owned by Big Tech](https://www.technologyreview.com/2023/12/05/1084393/make-no-mistake-ai-is-owned-by-big-tech/).
 A lot of AI-related startups and research labs depend on the
 infrastructure that Microsoft, Amazon, and Google provides.

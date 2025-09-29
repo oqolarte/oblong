@@ -16,8 +16,12 @@ lives and the space around us, extracting from us to feed
 the profit incentive---an endless growth on finite resources which, in
 reality, cannot be sustained.
 
-For those against it (AKA the working class), we cosplay
-capitalism because we need to get paid to meet our needs.
+For those against it, we cosplay
+capitalism because:
+
+- we need to get paid to meet our needs;
+- its logic is totalizing, literally so, in that there is no outside of
+  it (YET).
 
 ## Destructive nature of capitalism
 
