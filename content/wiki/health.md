@@ -16,17 +16,21 @@ Be aware of [intervention that might lead to worse outcomes](/iatrogenics).
 
 Fitness depends on many factors (no, not like [BMI](/BMI)), but these
 factors can be simplified into three: exercise, [nutrition](/nutrition),
-and recovery. In turn, it affects many aspects of social life, including
+and recovery. In turn, having a healthy body affects many aspects of
+one's own mental health, social life, including
 [friendships](/friendship) and [sexual relationships](/sex).
 
-I'm currently doing [calisthenics](/calisthenics) and yoga as my main
+I'm currently doing [calisthenics](/calisthenics) and (some) yoga as my main
 form of physical exercise.
 
-My cardio is embedded in daily life in the form of long walks, cycling
-to and from work on a single-speed [bike](/bike), taking stairs when
-possible, etc.
+My cardio is embedded in daily life in the form of long walks (sometimes
+with the SO and dog), cycling to and from work on a single-speed
+[bike](/bike), taking stairs when possible, etc.
 
 I have also been [smoke-free](/quit-smoking) since Jun 2017.
+
+Also, as of writing this, I'm considering to get [vasectomy](/vasectomy) (preferably
+the non-scalpel kind because blades near my peepee = big YIKES).
 
 ## On gyms
 
