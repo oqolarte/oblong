@@ -23,7 +23,8 @@ Through friends we gain more mobility, we can access
 
 ## F for eFFort
 
-Friendship takes time and energy.
+Friendship takes time and energy. In the transcribed teachings of Thich Nhat Hanh in *Being Peace*, he lectures that happiness is intertwined in how we take care of each other and of ourselves. He makes it clear: "[I]n order to take care of you, I have to take care of myself."
+
 Intimate relationships that we build and maintain with friends matters a
 lot in determining the [politics](/politics), personal and social, of
 [this world we want to prefigure](/prefiguration); and

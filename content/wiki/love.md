@@ -29,7 +29,7 @@ them. Especially in the case of abusive or hurtful relationships, this
 cannot be true---one's spiritual growth is stunted.
 
 Does the way we love need to depend on who we are, on what our gender
-and sexual orientation are, on our origins, on our lived experience? It
+and sexual orientations are, on our origins, on our lived experience? It
 is hard to think about it, but I feel like these do factor in my
 relationships with people and what society expects of me, forming a
 feedback loop.
