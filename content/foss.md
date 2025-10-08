@@ -5,7 +5,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
 
-{{< figure src="/image/neofetch.png" alt="Screenshot of desktop, including Operating System Details" caption="`sway` tiling window manager. Clockwise from top-left: Firefox, `neofetch` in `foot` running `tmux`, `imv` viewing a webcomic from https://webcomicname.com, mpv" >}}
+{{< figure src="/image/fastfetch.png" alt="Screenshot of desktop, including Operating System Details" caption="`sway` tiling window manager. Left half: Firefox; upper right: `fastfetch` in `foot`; lower right: `imv` viewing an image" >}}
 
 {{< toc >}}
 
@@ -13,7 +13,7 @@ draft: false
 
 - Operating System: [Alpine Linux v3.22 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 13 "*trixie*"](https://www.debian.org/News/2025/20250809) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
-- Web Browsers: [Chromium](https://www.chromium.org/chromium-projects/) (laptop), [Firefox Klar](https://www.firefox.com/en-US/browsers/mobile/focus/) (Android)
+- Web Browsers: [Firefox](https://www.firefox.com/en-US/) (laptop), [Firefox Klar](https://www.firefox.com/en-US/browsers/mobile/focus/) (Android)
     - Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy
       Badger, Wayback Machine
     - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
