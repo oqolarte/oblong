@@ -68,7 +68,13 @@ which we can strengthen our [relationships](/friendship).
 ### "But I don't need anyone!"
 
 Yes, you do. I do. **I** am already a crowd because my life already
-depends on others.
+depends on others. Thich Nhat Hanh draws from Buddhism and links this to and beyond the practice of meditation: 
+
+When you meditate, it is not just for yourself, you do it for the whole society. You seek solutions to your problems not only for yourself, but for all of us.
+
+...
+
+There are so many things that make me want to withdraw, to go back to myself. But my practice helps me remain in society, because I am aware that if I leave society, I will not be able to help change it."
 
 No one really grows old alone. Whether we like it or not, our lives are
 interconnected. Not just in the familial sense, but also in the

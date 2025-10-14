@@ -5,13 +5,13 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
 
-An incomplete list of blogs that I find interesting currently.
+An incomplete list of blogs I find interesting currently.
 
 [Ava](https://blog.avas.space/)
 : writes about their hobbies and projects, tech, health, Right to
 Repair, Car-free Cities, and other things that I vibe with.
 
-[Em](https://www.conscienceround.com/)
+[Emma](https://www.conscienceround.com/)
 : likes writing, and people, and maybe writing about people, that maybe
 gut-punches the reader, but not in a horrible way.
 

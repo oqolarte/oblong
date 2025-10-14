@@ -37,6 +37,8 @@ living creatures in this planet.
 
 ## Examples of destruction that fascinates me
 
+(Any hyperlinks in quotes are added by me for convenience)
+
 ### Sabongeros and their fighting cocks
 
 If I remember my history right, *sabong* or cockfighting, has been
@@ -92,3 +94,11 @@ colonialism has brought upon the Natives. But she also says that it is
 *equally* sad for the settlers, for they will no longer experience the
 beauty and abundance of the place which they have ravaged that Native
 peoples had taken care for so long.
+
+### On destroying dominant systems
+
+carla joy bergman [toots](https://kolektiva.social/@joyfulcarla/115339710683929707):
+
+> I feel like we need to say Destroy (and do the destroying) much more
+> often when talking about ending [oppression and institutions](/empire) that do
+> and incite harm...
