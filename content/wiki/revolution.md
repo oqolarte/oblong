@@ -6,6 +6,24 @@ draft: false
 
 {{< toc >}}
 
+## On vanguard shit
+
+The most (in)famous variant of communism in the Philippine Archipelago,
+Marxist-Leninist-Maoist (MLM) puts power in the hands of a small
+'vanguard' to lead the revolution. Idealistically, this could be a great
+thing: a diverse group of people with diverse ideas and approaches to
+lead a diverse population to a communist state. However, realistically,
+working-class women, disabled people, precarious workers, etc., do not
+have the luxury of 'organizing' full-time. So, by design, the vanguard
+becomes a sub-class of educated, often male theorists. You can't build a
+people's revolution if only the people with free time and money get to
+lead it.
+
+Revolution built on theory, not care and community, misses the point.
+Joy, [culture](/culture), and [human connection](/friendship) are what
+draw people to a movement, not books and endless readings. Theory
+excludes; communal action includes.
+
 ## Nothing is permanent
 
 Feudalism didn't transform into capitalism one day.

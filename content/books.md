@@ -18,7 +18,6 @@ finish reading.
 | The Botany of Empire        | Banu Subramaniam                |
 | Children of Dune            | Frank Herbert                   |
 | The Dawn of Everything      | David Graeber and David Wengrow |
-| [Being Peace](/inner-peace) | Thich Nhat Hanh                 |
 
 ## Completed
 
@@ -94,6 +93,7 @@ I read slowly, you might notice.
 | [The Vegetarian](/282/#brief-review-of-the-vegetarian)                                                 | Han Kang (Trans. by Deborah Smith)         |
 | [Braiding Sweetgrass](/288/#brief-review-of-braiding-sweetgrass)                                       | Robin Wall Kimmerer                        |
 | [Candido's Apocalypse](/293/#brief-review-of-candido)                                     | Nick Joaquin                               |
+| [Being Peace](/inner-peace) | Thich Nhat Hanh                 |
 
 
 ## Did not finish

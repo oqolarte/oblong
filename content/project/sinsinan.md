@@ -1,11 +1,22 @@
 ---
 title: "Project: SINSINAN"
 date: 2025-07-03
-draft: true
+draft: false
 math: false
 ---
 
-FROM: https://benildeopen.com/
+{{< closed >}}
+
+[Benilde Open 2025](https://benildeopen.com/) called for "proposals
+offering bold ideas where art and design meet nature and technology".
+
+I submitted the proposal detailed below almost verbatim, save for a few
+minor edits. As of first publishing this (Mid October 2025), Benilde
+Open has not gotten back to me about my application. Regardless of the
+status, I am sharing this to the public.
+
+Who knows? I might actually do this someday, whether an institution
+backs me up.
 
 {{< toc >}}
 

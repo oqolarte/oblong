@@ -4,6 +4,8 @@ date: 2022-09-08
 draft: false
 ---
 
+Thich Nhat Hahn writes, "Simple living [...] means to remain as free as possible from the destructive social and [economic machine](/capitalism), and to avoid stress, depression, high blood pressure, and other modern diseases... The only way out is to consume less. Once we are able to live simply and happily, we are better able to help others."
+
 {{< toc >}}
 
 ## What it is to me
@@ -44,6 +46,7 @@ that one, max of two, people can maintain easily.
 [^self]: Yes, that's *you*, Future Self.
 
 [On a planet of finite, degraded and depleted natural resources, the ecology of wanking is an ethos whose time has come.](https://aeon.co/essays/from-the-cynics-self-sufficiency-to-an-ecology-of-wanking)
+
 ## On surviving vs living
 
 Ideally, I don't want to be in a situation of extreme destitution. But

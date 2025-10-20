@@ -22,11 +22,16 @@ blasting love songs all day and all night; videoke hits that are
 perpetually distorted by distance, odd audio mixing, or, usually, both,
 splitting airwaves on special occasions.
 
-Of course, as I grew older, I got into more sophisticated stuff: mp3
-players meant I could personally bring my music library with me; I
-learned to play guitar; then, smartphones became the all-in-one device
-that happens to also play audio files; Spotify boomed to popularity with
-its streaming service on demand. Music is then transported from the
+Of course, as I grew older, I got into more sophisticated stuff: 
+
+- mp3
+players meant I could personally bring my music library with me;
+- I learned to play guitar; then, smartphones became the all-in-one device
+that happens to also play audio files;
+- Spotify boomed to popularity with
+its streaming service on demand.
+
+Music is delivered from the
 device to our ears via a number of implements: wired earphones, wired
 headphones, each of their wireless counterparts, including bluetooth
 speakers. Each of which meets a demand, from a casual listener to an
@@ -42,3 +47,7 @@ Obligatory [quoting of myself](/285):
 
 > By no means am I a good singer. But I grew up in a household that
 > prioritized music and singing, so that was instilled in me early on.
+
+## Time traveling
+
+Hearing a particular music, for me, connects me to the last instance that I heard it. It's not quite as strong as the reliving memories triggered by smell, but it *is* quite an experience. When artist Jean-Michel Basquiat said "music is how we decorate time," it is no stretch to imagine it as a time-traveling device that can be personalized to our life.
