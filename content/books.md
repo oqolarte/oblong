@@ -93,7 +93,8 @@ I read slowly, you might notice.
 | [The Vegetarian](/282/#brief-review-of-the-vegetarian)                                                 | Han Kang (Trans. by Deborah Smith)         |
 | [Braiding Sweetgrass](/288/#brief-review-of-braiding-sweetgrass)                                       | Robin Wall Kimmerer                        |
 | [Candido's Apocalypse](/293/#brief-review-of-candido)                                     | Nick Joaquin                               |
-| [Being Peace](/inner-peace) | Thich Nhat Hanh                 |
+| [Being Peace](/inner-peace)                                                               | Thich Nhat Hanh                            |
+| [The Comfort of Strangers](/308/#brief-review-of-the-comfort-of-strangers)               | Ian McEwan                                 |
 
 
 ## Did not finish
