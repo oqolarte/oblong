@@ -15,7 +15,7 @@ minor edits. As of first publishing this (Mid October 2025), Benilde
 Open has not gotten back to me about my application. Regardless of the
 status, I am sharing this to the public.
 
-Who knows? I might actually do this someday, whether an institution
+Who knows? I might actually do this someday, regardless of whether an institution
 backs me up.
 
 {{< toc >}}

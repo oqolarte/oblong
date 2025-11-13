@@ -4,11 +4,13 @@ date: 2022-08-01
 draft: false
 ---
 
-The personal is political; the political is personal.
-We can only oppose what we believe. I don't
-necessarily endorse nor condone any of the things found in these pages.
-But they are here as
-reference from which to learn.
+When we believe that politics is everyday, and not just limited to a
+specific time, place, and context, the personal becomes political.
+Indeed, the political is personal. We can only oppose what we believe.
+
+I don't necessarily endorse nor condone any of the things found in these
+pages. But they are here as reference from which to learn. I leave it to
+the reader to discern which "side" of history I am in.
 
 {{< toc >}}
 

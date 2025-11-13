@@ -172,7 +172,7 @@ like the one I did for this project,
 ### What didn't work
 
 `ffmpeg`, as a video editing "suite",
-will not work in 99% of the film projects.
+will not work on 99% of the film projects.
 
 To my knowledge,
 dedicated GUI video editors like [Kdenlive](https://kdenlive.org/en/)
