@@ -77,11 +77,8 @@ light colored Barong in my rotation of drips. Here are some resources:
 
 ## Modern inspo/s
 
-[Frugal Aesthetic](https://www.youtube.com/@FrugalAesthetic) is a
-YouTube channel made by someone who "made a career out of stretched
-comic sans" but also has in my opinion grounded, if not postmodern, take
-on fashion. It is mostly male-centric, though, but not I would say
-problematic.
+[Ash Callaghan](https://www.youtube.com/channel/UCSX6zq83jCHK1Y24sdiye-A) is a
+YouTuber critiquing fashion in an entertaining British-accented way.
 
 ## Fashion, function, both?
 
