@@ -36,3 +36,10 @@ parents---in their lives is to be guides: to see to it their basic needs
 are met, just like everyone else in the [community](/community); and to see
 to it that they may cause the least amount of harm to themselves and to
 others.
+
+## Further reading
+
+- "[Should you have kids?](https://www.planetcritical.com/should-you-have-kids/)" by
+  Rachel Donald. Aside from picking apart the question, she explores the
+  (any) argument for and against having kids, and how the decision
+  should also be for the community at large.
