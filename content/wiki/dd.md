@@ -10,8 +10,7 @@ draft: false
 
 ## To erase a pen (USB) drive "quicker"
 
-`sudo dd if=/dev/zero of=/dev/sdd bs=1M conv=noerror,sync
-status=progress`
+`sudo dd if=/dev/zero of=/dev/sdd bs=1M conv=noerror,sync status=progress`
 
 where `sdd` is the drive specified in `lsblk`
 
@@ -31,12 +30,6 @@ Two most popular cross-platform are [Universal Disk Format](https://en.wikipedia
 2. Create file system: `mkudffs --media-type=hd --blocksize=512
    /dev/sdx`
 3. Reference: [Using UDF on a USB flash drive](https://superuser.com/questions/39942/using-udf-on-a-usb-flash-drive)
-
-~~#### NTFS-3G
-
-1. Install (on Alpine linux): `doas apk add ntfs-3g`
-2. 
-~~
 
 ### Create bootable USB from ISO file on Linux
 

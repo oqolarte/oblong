@@ -77,12 +77,14 @@ well as developing microgrids.
 
 ## Is Solarpunk [absurd](/absurdism)?
 
-It's understandable to be skeptical of a utopian vision of future.
-After all, we know if it's too good to be true,
-it likely is.
+It's understandable to be skeptical of a utopian vision of future. After
+all, we know if it's too good to be true, it likely is. But we also have
+to welcome any and all reactions to dystopian imaginations that have
+come out of the fear of climate change. We need a vision of the world
+with everyone and everything in it that is inspiring to get to.
 
-But such visions should inspire us to create and mold
-[better communities](/community) Now.
+Such visions should inspire us to create and mold
+[better communities](/community) now.
 While it's impossible to achieve a perfect society
 (which is subjective really),
 living the [revolution](/revolution) in the present
