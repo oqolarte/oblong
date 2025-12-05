@@ -4,7 +4,12 @@ date: 2022-09-08
 draft: false
 ---
 
-Thich Nhat Hahn writes, "Simple living [...] means to remain as free as possible from the destructive social and [economic machine](/capitalism), and to avoid stress, depression, high blood pressure, and other modern diseases... The only way out is to consume less. Once we are able to live simply and happily, we are better able to help others."
+Thich Nhat Hahn writes, "Simple living [...] means to remain as free as
+possible from the destructive social and
+[economic machine](/capitalism), and to avoid stress, depression, high blood
+pressure, and other modern diseases... The only way out is to consume
+less. Once we are able to live simply and happily, we are better able to
+help others."
 
 {{< toc >}}
 
@@ -16,10 +21,15 @@ A simple life, to me, means:
 which means chasing happiness but remaining in the same state.
 - Being content with an imperfect life.
 - [Being more than my work](/anti-work).
-- Spending quality time with friends, family, and [significant other/s](/non-monogamy).
+- Spending quality time with [friends](/friendship), family, and [significant other/s](/non-monogamy).
 - [Having a small house](/dream-house)
 (between 40 to 70 square meters of total floor area)
 that one, max of two, people can maintain easily.
+
+But make no mistake: to have a simple*r* life is to have the privilege
+to attain it, and truthfully, with the [current dominant systems](/empire),
+it is getting harder and harder to get to that point. Having said that,
+it is still possible if we work with the [communities](/community) we are part of.
 
 ## Some short- to mid-term strategies to consider
 
