@@ -20,7 +20,7 @@ for me (and reader/s?) as a non-vegan to think about.
 
 ![Stop sign that has been "improved" by appending stickers that say "eating animals"](/image/stop.png)
 
-## For the omnivores
+## For the non-vegans
 
 Just don't farm animals in boxes for the entirety or most of their
 lives. We should still be free to eat what we can, as long as you don't
@@ -30,6 +30,10 @@ Eating a corpse does nothing to the animal after it's dead, and if
 everything is going to die eventually, farming animals for meat is in of
 itself alright. But if that farming involves the unspeakable torture,
 it's unjustifiable and loathesome.
+
+Ideally, we should all be concerned with animal rights and reducing the
+harm of factory farming, animal testing, and other things that
+contribute to animal cruelty.
 
 ## Is it the answer?
 
@@ -46,5 +50,5 @@ smaller scale, implementing more mindful ways that in so doing does not
 rob the land of Life, very much unlike industrialized animal husbandry
 that we know today.
 
-Until we get there, vegans are probably on the right path.
-
+Until we get there, vegans are probably on the right path, but theirs is
+only one of the many right paths.

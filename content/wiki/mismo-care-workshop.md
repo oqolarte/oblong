@@ -1,7 +1,7 @@
 ---
 title: "MISMO Care Workshop"
 date: 2025-09-29
-draft: false
+draft: true
 math: false
 ---
 

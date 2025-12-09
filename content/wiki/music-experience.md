@@ -1,7 +1,7 @@
 ---
 title: "Different ways we experience music"
 date: 2025-08-24
-draft: true
+draft: false
 math: false
 ---
 

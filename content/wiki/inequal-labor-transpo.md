@@ -1,7 +1,7 @@
 ---
-title: "Notes on the inequalities in labor in transportation"
+title: "Notes on the inequalities transportation for laborers"
 date: 2025-12-04
-draft: true
+draft: false
 math: false
 ---
 
@@ -9,100 +9,75 @@ math: false
 
 ## Thinking about challenges
 
-"Ano ang mga pangunahing hamon na kinakaharap araw-araw ng mga
-manggagawa sa sektor ng transportasyon at konstruksyon sa pag-abot ng
-mga mahahalagang serbisyo?"
+***What are the main challenges that a laborer in [transportaion](/transpo) face
+everyday when availing important social services?***
 
-Transportation - Simula pa lang sa pagiging pedestrian, marami nang mga
-hamon, gaya nang hindi maayos at unsafe ng mga sidewalk, overpass,
-kakulangan o kawalan ng covered stops. Pagdating naman sa public
-transpo, bukod sa mahal ang pamasahe na kumakain sa sahod ng manggagawa,
-limitado rin ang mga option ng pwedeng sakyan. Nakakapagod din yung
-palipat-lipat ng sasakyan sa duration ng commute. Nagpapatong-patong
-tuloy ang gastos, kasama na rin ang pagod at effort ng ordinaryong
-commuters.
+### Workers as pedestrians, pedestrians as workers
 
-Accessibility of transportation when workers need to travel to and from
-work should be improved in relation to traffic. Masyado nang embedded sa
-culture natin na maaga gigising para pumasok at mahihirapan makauwi
-dahil sa traffic. The labor code and its implementing rules does not
-recognized travel from home to work as compensable hours. Considering
-traffic and the insufficiency of public transportation most laborers,
-especially those marginalized, are forced to spend more time outside of
-the home.
+All workers start their commute as pedestrians. And in a car-centric
+highly urbanized area like the Metro Manila, pedestrians already face a
+lot of challenges:
 
-Patungkol po sa hamon na kinakaharap araw-araw ng sektor, ang una naming
-problema ay pagbubulusok ng mga e-trike na naging competition naming mga
-legitimate na drivers. Unang rason dito ay walang lisensya o
-registration. Wala ding insurance. Sila ay namamasada sa kalye kung saan
-ang mga legitimate tricycle operators or drivers. Mas mahal pa sila
-magsingil minsan sa mga legitimate drivers. Sana ay matugunan ng husto
-down to provincial and municipal. Nagkaroon ng bagong palatuntunan na
-hulihin ang mga e-trike sa national road. Magiging competition sila sa
-legitimate operators kasi malaki ang aming binabayaran taon taon sa
-registration. Naidulog na namin ito na gawan ng ordinansa na sila ay
-hanggang sa barangay at hindi magtraverse from one baranggay to another.
-Kaso sa kasulukuyan ay hindi pa nangyayari. Pangalawa naman ay excise
-tax na 12% per liter ng gasolina. Tuloy tuloy ang pagtaas ng presyo ng
-gasolina. Pangatlo ay Joint Memorandum Circular na ang mga violation ay
-malaki na. Kapag dumaan ka sa stoplight, 5,000 ka agad ang violation
-natin dyan. Ang kita ay napupunta sa negosasyon sa daan. May mga drivers
-na hindi namin myembro na abusado sa kalye at sobra maningil pero minsan
-isolated cases naman. Mahirap ang access din sa protection program ng
-mga drivers.
+- insecure and unsafe sidewalks, if there are any at all;
+- overpasses that are steep and inaccessible for PWDs and senior
+  citizens;
+- lack of waiting sheds;
+- and many more.
 
-Ang mga kooperatiba ay maganda sana sa mga driver at mga habal-habal.
-Ang mungkahi sana ay magkaroon ng satellite para magkaroon ng access ang
-mga maliliit na transport upang makabuo ng kooperatiba. Kasi malayo ang
-Maynila. Nakikita ko ang laki ng gastos at mga tricycle driver ay walang
-kakayahaan upang makapagtayo ng coop. Kailangan pa dumaan pa tayo sa
-OTC. Malaking gastos upang makabuo ng kooperatiba para sa mga small
-transport.
+On-going mismanagement of public funds eventually trickles down to the
+working class. We feel this through many things. As commuters, the
+rising fare for public transportation cuts significantly through the
+daily wage. Add to that issue is that using public transport daily is
+dehumanizing at its current state. In the article "[DOTr officials ordered to take public transport at least once a week](https://www.abs-cbn.com/news/nation/2025/9/16/dotr-execs-ordered-to-commute-at-least-once-a-week-1124),"
 
-## Discussion
+Acting Secretary of Department of Transport (DOTr) Giovanni Lopez
+himself said that his three-hour commute from home to office using
+public transpo was "like a warzone."
 
-**Sa madalas at halos araw-araw na pagsisikip ng trapiko o mga
-panganib/occupational risk sa trabaho, paano it nakakaapekto sa personal
-na aspetong pinansyal, pansariling kalusugan at pangangatawan?**
+Accessibility of transportation, when workers need to travel to and from
+work, should be improved in relation to traffic. It is too embedded in
+our culture to wake up so early in the morning to have enough time to
+prepare and travel to work. Sometimes, the traffic gets so bad that even
+waking up at dawn is still not enough, and some still arrive late to
+their work, suffering from lost hourly wages.
 
-Unsafe sidewalks. Non-standard overpass infrastructure. Kawalan ng
-covered stops (waiting sheds). Nakakaapekto physically and mentally.
-Mahal na pamasahe sa public transportasyon. Limitado ang option na
-puwedeng sakyan. Limitado rin ang mga ruta at hindi lahat ay nadadaanan.
-Maraming palipat lipat na pagcocommute. i say all that as an abled body
-person. exponentially more difficult yan sa PWD and/or senior citizen
-workers natin
+The labor code and its implementing rules does not recognize travel from
+home to work as compensable hours. Considering traffic and the
+insufficiency of public transportation, most laborers, especially those
+marginalized, are forced to spend more time outside of the home.
 
-Unpredictable ang public transportation and traffic.
-Nakakapagod mentally ang fear na ma-late sa trabaho lalo na kung sa mga
-standard na “no work no pay.” Kasama sa mga just cause for termination
-of employment ang habitual tardiness. Minsan hindi lang physical safety
-ang kailangan insipin, yung current state ng transportation and traffic
-poses a risk sa security of tenure.
+It is an exhausting life to live, indeed, one that chips away at the
+soul.
 
-Transportasyon (TUGON sa mga hamon): Mula sa kinatatayuan ko bilang
-ordinaryong manggagawa, ang isa sa mga "significant" projects ngayon ng
-government na dama ko ay yung current construction ng subway system sa
-NCR. pero ito ay matagal pang matatapos at hindi pa talaga dama ngayon
-ang benefits. bukod sa mga big ticket projects na ganito, halos wala
-akong madama na solution mula sa gobyerno (from a transport
-perspective).
+### Concerns on e-trikes and e-bikes
 
-sa aking pananaw, hindi magandang "solution" ang anumang road widening
-projects, lalo na kung ito ay nagdi-displace ng mga communities (e.g.,
-kailangang magpaalis ng mga tao sa bahay dahil matatamaan sila ng road
-widening projects)
+Some transport groups want the government to investigate the "rising
+number of e-trikes" that are unregulated. Some of the arguments of these
+transport groups against e-trikes:
 
-Transportasyon (OPORTUNIDAD): Isang magandang angle na tanungin din dito
-ay, "What can we do now with what we currently have?"
+- that they need not be registered nor their drivers are required to
+  have license (as per Republic Act [RA] 11687 or Electric Industriy
+  Development Act [EVIDA]);
+- that their drivers/operators operate as unregulated and unofficial
+  public transpo ("colorum") and would sometimes ask for
+  higher-than-usual fare, usually to forego the need to queue on
+  designated Tricycle Operators and Drivers Association (TODA) stops and
+  waiting sheds, thus saving time.
 
-From a transpo perspective, I think we can ease the traffic by
-prioritizing providing more infra for PUVs. More waiting sheds, more
-routes, more PUVs, better sahod and benefits (regularization?) for
-drivers.
+In my opinion, these are valid reasons, but they center only the
+livelihood of trike drivers and operators.
 
-For active transport (walking, cycling), siyempre mahalaga pa rin ang
-safe and secure sidewalks na may bench para pahingahan ng mga
-pedestrians; at inclusive rin para sa mga PWDs and senior citizens.
-Hiwalay din sana ang bike lanes (at hindi lang "hiniram" mula sa car
-lanes as ad hoc solution).
+
+## Facing Risks
+
+Almost daily do we, commuters and workers alike, face traffic jams.
+
+### What are [some of] the risks?
+
+- Unsafe sidewalks, if any at all;
+- Non-standard overpass infrastructure;
+- No covered stops and waiting sheds;
+- Unpredictability of road traffic;
+- unreliability of public infrastructure;
+- Poor public infrastructure hinders mobility for vulnerable road users,
+  especially senior citizens and people with disabilities (PWDs))

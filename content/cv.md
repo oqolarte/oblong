@@ -4,7 +4,7 @@ Title: "CV"
 
 Hi, I'm Ohio, and I'm into a more sustainable and inclusive future.
 
-Senior Project Management Executive @ Ipsos Inc. (**current**)  
+Senior Project Management Executive @ Ipsos Inc. (1 year)  
 Associate Project Manager @ Kantar Philippines Inc. (2 years)  
 Assistant Project Manager @ Jones Lang LaSalle (Philippines), Inc. (3 years)  
 Project Engineer @ Archen Technologies, Inc. (2 years)

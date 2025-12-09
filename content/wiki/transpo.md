@@ -17,7 +17,9 @@ it only makes sense to [design](/design) a safe communal space around
 that central idea. But one need not to have lived a long life in a city
 to know that pedestrians are not the priority. Somehow in the
 so-called urban planning, decision-makers have thought that pedestrians
-are less valuable than cars. This is evident in the lack of proper
+are less valuable than cars.
+
+This is evident in the lack of proper
 sidewalks. By *proper*, I mean:
 
 - wide enough to fit at least four people standing next to each other;
@@ -26,6 +28,9 @@ sidewalks. By *proper*, I mean:
 - not blocked by any parked vehicle at any time; and
 - not the de facto highway of skateboarders, cyclists, motorbikers,
   e-scooters, and the like.
+
+But apart from that, pedestrians suffer the most from the [inequalities](/inequal-labor-transpo)
+and injustices that cars-first culture cultivates.
 
 ## Cars-first Culture
 

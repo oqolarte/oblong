@@ -1,7 +1,7 @@
 :root {
     --width: 70ch;
-    --font-main: "Iowan Old Style", "Apple Garamond", Times, serif;
-    --font-secondary: Helvetica, Ubuntu, Cantarell, roboto, noto, sans-serif;
+    --font-main: serif;
+    --font-secondary: sans-serif;
     --font-scale: 1.2em;
     --background-color: #f5ffed;
     --heading-color: #120d15;

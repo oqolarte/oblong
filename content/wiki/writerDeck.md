@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "writerDeck notes"
 date: 2025-07-03
 draft: false
 math: false

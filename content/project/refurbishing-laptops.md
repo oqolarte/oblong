@@ -41,6 +41,8 @@ Initial info about Earful:
       fresh install of latest compatible macOS or liveboot (for the
       meantime) into a Linux distro
 
+{{< btt >}}
+
 ### Fiddling with Earful via macOS
 
 Earful's current macOS version is not immediately apparent on first
@@ -60,6 +62,8 @@ was in it, which I found out to be **Mojave**.
 After reboot, I found out that I *still* need to login to the account of
 Previous Owner. **Important lesson learned**: Reinstalling macOS from
 Recovery does *NOT* wipe and replace it with a fresh one.
+
+{{< btt >}}
 
 ### Fiddling with Earful via Linux
 
@@ -128,6 +132,8 @@ satisfactory solution (based from [this discussion](https://unix.stackexchange.c
 After all that, Earful is mostly functional---even the headphone jack is
 working. But I needed to address the hardware issues listed above.
 
+{{< btt >}}
+
 ### Fiddling with Trackpad and keyboard issue
 
 Looking into it, one possible cause is related to the Trackpad cable.
@@ -144,11 +150,15 @@ the actual trackpad**, and not the connecting cable. He had the trackpad
 replaced with new one, and everything now works. This repair costed PHP
 3,500 (or around USD 61.29 at the time of writing).
 
+{{< btt >}}
+
 ### Donated!
 
 As of 23 AUG 2025, Earful now belongs to a deserving donee who is currently
 rebuilding his life after he was wrongfully accused and jailed for
 crimes he did not commit.
+
+{{< btt >}}
 
 ## "Proofing": MacBook Air, mid-2013
 
@@ -156,6 +166,8 @@ Initial info about Proofing:
 - Model: A1466
 - Does not turn on even when charger is plugged in.
 - Indicator light of magsafe charge is not lighting on when plugged in.
+
+{{< btt >}}
 
 ### Professional repair
 
@@ -170,15 +182,21 @@ They found out that:
 The cost for cleaning off the corrosion and replacing the SMC chip
 amounted to PHP 4,500 (USD 79.68).
 
+{{< btt >}}
+
 ### Replacing macOS with Linux Mint
 
 This step is the same as the [section above in fiddling with Linux](/refurbishing-laptops/#fiddling-with-earful-via-linux).
+
+{{< btt >}}
 
 ### Next step/s
 
 - Proofing came in without its own charger. I'm looking for a secondhand
   one.
 - Donate.
+
+{{< btt >}}
 
 ## "Sullen": MacBook Air, mid-2015
 
@@ -201,6 +219,8 @@ Initial info about Sullen:
       Safari can only make HTTP connections, not HTTP*S* ones.
 - Booting up takes a little longer than expected.
 
+{{< btt >}}
+
 ### Fiddling with Sullen via Linux, and fixing wifi issue
 
 This step, which is replacing macOS with Linux Mint, is the same as the [section above in fiddling with Linux](/refurbishing-laptops/#fiddling-with-earful-via-linux).
@@ -221,12 +241,67 @@ needed wifi driver/s via Driver Manager.
 
 After this, connect to wifi as normal.
 
+{{< btt >}}
+
 ### Professional repair
 
 I delegated the power and keyboard issues to our trusted repair shop.
 They charged a total of PHP 8,400 (~ USD 146.55) for these jobs.
 
+{{< btt >}}
+
 ### Donated!
 
 Sullen is now delivered to a friend in Cavite who is running their own
 small infoshop.
+
+{{< btt >}}
+
+## "Tripping": MacBook Air, Early 2015
+
+Initial info about Tripping:
+- Model: A1465
+- Boots up until Logo
+- Doesn't detect the SSD
+
+The diagnosis for Tripping is simple: the original SSD needs to be
+replaced.
+
+{{< btt >}}
+
+### Obtaining SSD
+
+This model of laptop needs an NVMe SSD with a proprietary port that is
+true to Apple's asshole branding. Regular NVMe SSDs work *when* paired
+with an adapter that is specifically built for Apple's port.
+
+When buying replacement SSD, I opted for 256 GB storage, an upgrade from
+the 128 GB. With that, I also got the needed adapter. See the tandem
+below.
+
+{{< figure src="/image/tripping01.jpg" alt="Image of two electronic items laid on a piece of paper" caption="Left to right: SSD adapter for MacBook; regular NVMe SSD" >}}
+
+{{< figure src="/image/tripping02.jpg" alt="Image of two electronic items laid on a piece of paper" caption="Same items, but now joined together" >}}
+
+
+{{< btt >}}
+
+### Replacing SSD
+
+Access and replace the laptop's SSD by following iFixit's article on this: "[MacBook Air 11" Early 2015 SSD Replacement](https://www.ifixit.com/Guide/MacBook+Air+11-Inch+Early+2015+SSD+Replacement/38511)"
+
+{{< figure src="/image/tripping03.jpg" alt="Image of a internals of a laptop. A red rectangle is added post-production to highlight where the new SSD is installed" caption="SSD now installed in the hardware" >}}
+
+
+{{< btt >}}
+
+### Installing Linux Mint
+
+Not much new here, except this model faces [similar wifi issues like on Sullen above](/refurbishing-laptops/#fiddling-with-sullen-via-linux-and-fixing-wifi-issue).
+
+
+{{< btt >}}
+
+### Next step/s
+
+- Send back to owner!

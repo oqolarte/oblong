@@ -59,6 +59,14 @@ generator.&lt;/p&gt;
         &lt;li&gt;&lt;a href=&#34;#donated-1&#34;&gt;Donated!&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#tripping-macbook-air-early-2015&#34;&gt;&amp;ldquo;Tripping&amp;rdquo;: MacBook Air, Early 2015&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#obtaining-ssd&#34;&gt;Obtaining SSD&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#replacing-ssd&#34;&gt;Replacing SSD&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#installing-linux-mint&#34;&gt;Installing Linux Mint&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#next-steps-1&#34;&gt;Next step/s&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -81,6 +89,8 @@ meantime) into a Linux distro&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;fiddling-with-earful-via-macos&#34;&gt;Fiddling with Earful via macOS&lt;/h3&gt;
 &lt;p&gt;Earful&amp;rsquo;s current macOS version is not immediately apparent on first
 boot.&lt;/p&gt;
@@ -96,6 +106,8 @@ was in it, which I found out to be &lt;strong&gt;Mojave&lt;/strong&gt;.&lt;/p&gt
 &lt;p&gt;After reboot, I found out that I &lt;em&gt;still&lt;/em&gt; need to login to the account of
 Previous Owner. &lt;strong&gt;Important lesson learned&lt;/strong&gt;: Reinstalling macOS from
 Recovery does &lt;em&gt;NOT&lt;/em&gt; wipe and replace it with a fresh one.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;fiddling-with-earful-via-linux&#34;&gt;Fiddling with Earful via Linux&lt;/h3&gt;
 &lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/earful-mac.jpg&#34;
     alt=&#34;Image of a MacBook Air 2013 screen with its system details listed out on a terminal emulator&#34;&gt;&lt;figcaption&gt;
@@ -170,6 +182,8 @@ satisfactory solution (based from &lt;a href=&#34;https://unix.stackexchange.com
 
 &lt;p&gt;After all that, Earful is mostly functional&amp;mdash;even the headphone jack is
 working. But I needed to address the hardware issues listed above.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;fiddling-with-trackpad-and-keyboard-issue&#34;&gt;Fiddling with Trackpad and keyboard issue&lt;/h3&gt;
 &lt;p&gt;Looking into it, one possible cause is related to the Trackpad cable.&lt;/p&gt;
 &lt;p&gt;To get to it, I followed this iFixit guide up to &lt;strong&gt;Step 6&lt;/strong&gt;: &lt;a href=&#34;https://www.ifixit.com/Guide/MacBook+Air+13-Inch+Mid+2013+Trackpad+Replacement/15235&#34;&gt;MacBook Air 13&amp;quot; Mid 2013 Trackpad Replacement&lt;/a&gt;
@@ -181,10 +195,14 @@ productive to have it professionally diagnosed and repaired.&lt;/p&gt;
 the actual trackpad&lt;/strong&gt;, and not the connecting cable. He had the trackpad
 replaced with new one, and everything now works. This repair costed PHP
 3,500 (or around USD 61.29 at the time of writing).&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;donated&#34;&gt;Donated!&lt;/h3&gt;
 &lt;p&gt;As of 23 AUG 2025, Earful now belongs to a deserving donee who is currently
 rebuilding his life after he was wrongfully accused and jailed for
 crimes he did not commit.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;proofing-macbook-air-mid-2013&#34;&gt;&amp;ldquo;Proofing&amp;rdquo;: MacBook Air, mid-2013&lt;/h2&gt;
 &lt;p&gt;Initial info about Proofing:&lt;/p&gt;
 &lt;ul&gt;
@@ -192,6 +210,8 @@ crimes he did not commit.&lt;/p&gt;
 &lt;li&gt;Does not turn on even when charger is plugged in.&lt;/li&gt;
 &lt;li&gt;Indicator light of magsafe charge is not lighting on when plugged in.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;professional-repair&#34;&gt;Professional repair&lt;/h3&gt;
 &lt;p&gt;The power issue is beyond my capabilities, so I dropped it at the
 trusted repair shop for diagnosis.&lt;/p&gt;
@@ -203,14 +223,20 @@ said spill, thus preventing laptop from charging.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The cost for cleaning off the corrosion and replacing the SMC chip
 amounted to PHP 4,500 (USD 79.68).&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;replacing-macos-with-linux-mint&#34;&gt;Replacing macOS with Linux Mint&lt;/h3&gt;
 &lt;p&gt;This step is the same as the &lt;a href=&#34;https://ohio.araw.xyz/refurbishing-laptops/#fiddling-with-earful-via-linux&#34;&gt;section above in fiddling with Linux&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;next-steps&#34;&gt;Next step/s&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Proofing came in without its own charger. I&amp;rsquo;m looking for a secondhand
 one.&lt;/li&gt;
 &lt;li&gt;Donate.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h2 id=&#34;sullen-macbook-air-mid-2015&#34;&gt;&amp;ldquo;Sullen&amp;rdquo;: MacBook Air, mid-2015&lt;/h2&gt;
 &lt;p&gt;Initial info about Sullen:&lt;/p&gt;
 &lt;ul&gt;
@@ -235,6 +261,8 @@ Safari can only make HTTP connections, not HTTP&lt;em&gt;S&lt;/em&gt; ones.&lt;/
 &lt;/li&gt;
 &lt;li&gt;Booting up takes a little longer than expected.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;fiddling-with-sullen-via-linux-and-fixing-wifi-issue&#34;&gt;Fiddling with Sullen via Linux, and fixing wifi issue&lt;/h3&gt;
 &lt;p&gt;This step, which is replacing macOS with Linux Mint, is the same as the &lt;a href=&#34;https://ohio.araw.xyz/refurbishing-laptops/#fiddling-with-earful-via-linux&#34;&gt;section above in fiddling with Linux&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;However&lt;/em&gt;, after the fresh install, it had an odd issue of locating the
@@ -248,12 +276,68 @@ functionality in general, as &lt;em&gt;aesthetically pleasing.&lt;/em&gt;&lt;/p&
 &lt;p&gt;Once succesfully connected to the internet, proceed with installing the
 needed wifi driver/s via Driver Manager.&lt;/p&gt;
 &lt;p&gt;After this, connect to wifi as normal.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;professional-repair-1&#34;&gt;Professional repair&lt;/h3&gt;
 &lt;p&gt;I delegated the power and keyboard issues to our trusted repair shop.
 They charged a total of PHP 8,400 (~ USD 146.55) for these jobs.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
 &lt;h3 id=&#34;donated-1&#34;&gt;Donated!&lt;/h3&gt;
 &lt;p&gt;Sullen is now delivered to a friend in Cavite who is running their own
 small infoshop.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h2 id=&#34;tripping-macbook-air-early-2015&#34;&gt;&amp;ldquo;Tripping&amp;rdquo;: MacBook Air, Early 2015&lt;/h2&gt;
+&lt;p&gt;Initial info about Tripping:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Model: A1465&lt;/li&gt;
+&lt;li&gt;Boots up until Logo&lt;/li&gt;
+&lt;li&gt;Doesn&amp;rsquo;t detect the SSD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The diagnosis for Tripping is simple: the original SSD needs to be
+replaced.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;obtaining-ssd&#34;&gt;Obtaining SSD&lt;/h3&gt;
+&lt;p&gt;This model of laptop needs an NVMe SSD with a proprietary port that is
+true to Apple&amp;rsquo;s asshole branding. Regular NVMe SSDs work &lt;em&gt;when&lt;/em&gt; paired
+with an adapter that is specifically built for Apple&amp;rsquo;s port.&lt;/p&gt;
+&lt;p&gt;When buying replacement SSD, I opted for 256 GB storage, an upgrade from
+the 128 GB. With that, I also got the needed adapter. See the tandem
+below.&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/tripping01.jpg&#34;
+    alt=&#34;Image of two electronic items laid on a piece of paper&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Left to right: SSD adapter for MacBook; regular NVMe SSD&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/tripping02.jpg&#34;
+    alt=&#34;Image of two electronic items laid on a piece of paper&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Same items, but now joined together&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;replacing-ssd&#34;&gt;Replacing SSD&lt;/h3&gt;
+&lt;p&gt;Access and replace the laptop&amp;rsquo;s SSD by following iFixit&amp;rsquo;s article on this: &amp;ldquo;&lt;a href=&#34;https://www.ifixit.com/Guide/MacBook+Air+11-Inch+Early+2015+SSD+Replacement/38511&#34;&gt;MacBook Air 11&amp;rdquo; Early 2015 SSD Replacement&lt;/a&gt;&amp;quot;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://ohio.araw.xyz/image/tripping03.jpg&#34;
+    alt=&#34;Image of a internals of a laptop. A red rectangle is added post-production to highlight where the new SSD is installed&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;SSD now installed in the hardware&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;installing-linux-mint&#34;&gt;Installing Linux Mint&lt;/h3&gt;
+&lt;p&gt;Not much new here, except this model faces &lt;a href=&#34;https://ohio.araw.xyz/refurbishing-laptops/#fiddling-with-sullen-via-linux-and-fixing-wifi-issue&#34;&gt;similar wifi issues like on Sullen above&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;next-steps-1&#34;&gt;Next step/s&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Send back to owner!&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
