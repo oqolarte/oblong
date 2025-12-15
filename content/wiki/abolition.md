@@ -5,10 +5,10 @@ draft: false
 ---
 
 Abolition means a world with no police and no prisons, and the necessary
-steps we need to make it possible eventually. It's neither police nor
+steps we need to make it possible eventually. It is neither police nor
 prison reform; it means uprooting those two which are based on the
 old-think of punishing the harm-doer, and ensuring these institutions
-won't be needed again ever.
+will never be needed again ever.
 
 {{< toc >}}
 
@@ -19,15 +19,15 @@ property and property rights, and the resultant pursuit of material
 self-interest---all of which when extracted or taken from the commons
 (usually in a destructive, violent way) and the fruits of which are not
 shared back to the community, will result in greed and hunger for power.
-This is because hoarding of wealth would grant the owner control over
-others, but not without gaining the risk of instability, perhaps in the
-form of envy. It is because of this risk that maintaining and growing
-wealth is a negative feedback loop, which at one point must necessarily
-collapse at the expense of many lives.
+This is because [hoarding of wealth](/capitalism) would grant the owner
+control over others, but not without gaining the risk of instability,
+perhaps in the form of envy. It is because of this risk that maintaining
+and growing wealth is a negative feedback loop, which at one point must
+necessarily collapse at the expense of many lives.
 
 While we criticize the need for laws (institutionalized), that is not to
-say that we don't need rules (fluid, not necessarily set in stone,
-community-led).
+say that we do not need rules. We would still need rules in an "ideal
+society" but they would be more fluid and [community-led](/community).
 
 ## On prisons
 
@@ -66,3 +66,29 @@ Police also enforce all laws in which 99% of us had no say. Many of
 these laws, then, do not really aim to better our lives but only those
 who made them, lawmakers who don't fully represent us except maybe when
 our wellbeing somehow tangents briefly to their agenda.
+
+## Within the Philippine context
+
+Carcerality in the [so-called Philippines](/pilipinas) was instituted by
+colonial regimes, first the Spanish and then reconstituted by the
+Americans.
+
+The Philippine Constabulary (PC), established by the Americans, was
+particularly crucial for pioneering American modes of policing. The PC
+was so effective that its techniques were reimported back to the United
+States to crush proletarian militancy[^PC]
+
+[^PC]: Check works of Alex Vitale and Alfred McCoy on this.
+
+The PC was also crucial for the post-independence state apparatus that
+continued to reinforce neocolonial and imperial modes of control by
+American capital over the Philippines, ultimately being central to the
+reproduction of the Marcos dictatorship.
+
+Ultimately, particular carceral institutions can be "abolished" but
+these can be reconstituted in new carceral institutions. The PC was
+"abolished" but policing was reconstituted as the Philippine National
+Police. So policing is indeed central to the reproduction of colonial
+and neocolonial apparatuses that persist from the colonial period. In
+this sense, abolition is central to decolonization, in abolishing what
+colonization has instituted.

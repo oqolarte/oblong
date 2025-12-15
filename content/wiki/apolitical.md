@@ -10,14 +10,17 @@ draft: false
 
 "Not everything is political."
 
-There is a gram of truth to it. No menace, like [politics](/politics)
-is, can be omnipresent. But in the expanding Global Digitalization
+In the expanding alone of Global Digitalization
 governed by States, [Capitalists](/capitalism), and other tyrants of
-oppression, [appropriating my data](/privacy), the gist of Me, without
-my [consent](/consent) will always be political. And that's just one
+oppression, [appropriating my data](/privacy)---the gist of Me---without
+my [consent](/consent) will always be [political](/politics). And that's just one
 thing to get agitated about.
 
-We are suffering from multiple crises:
+We haven't talked about how people in power always force certain existences to bend over to their will.
+
+"Stop being political," says the privileged person whose vibes were ruined because they are reminded that current systems are built on top of other people's suffering.
+
+How about stop being apolitical, because we are suffering from multiple crises:
 - [Israel conducting genocide against Palestinian people](/palestine)
 - Climate catastrophes due to effects of climate change
 - Rise of [fascism](/fascism) all over the world
@@ -43,7 +46,7 @@ doing anything [to address natural disasters](/drrm)?
 Even in the mundane things like greeting your neighbor good morning, you
 are reinforcing the sense of [community](/community),
 which in itself can be a political act when the timing is right. And guess
-what, the timing is *always* right for these kinds of "small acts".
+what, the timing is *always* right for these kinds of "small acts."
 
 So long as our interconnected freedoms are tangled within the oppressive
 forces of powers that be, we have the right to be political in our every

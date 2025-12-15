@@ -13,17 +13,22 @@ math: false
 ## Anti-thesis to perfection
 
 Perfection is a human-centric concept. We're constantly shaping the
-world we live in so that it fits our tastes as close as possible.
-Whatever this state looks like, achieving it is expensive and requires a
+world we live in so that it fits as close as possible to our tastes. 
+Whatever the end state looks like, achieving it is expensive and requires a
 lot of resources.
 
 On the other hand, nature is irregular and "perfectly" functions that
 way. Must we burn through nature so that we have it fit to our needs, or
 do we work in tandem with it, riffing impromp-tunes in our own unique
 ways to make melody for everyone involved? If you don't mind, I prefer
-the latter.
+the latter, which is what the Indigenous Peoples have been doing.
 
 ## Alongside entropy
+
+> "Abandon certainty! That's life's deepest command. That's what life's all about. We're a probe into the unknown, into the uncrtain...
+>  
+> -- The Preacher  
+> *Children of Dune*  by Frank Herbert
 
 It is nice to know that apart from the on-going churn of entropy, there
 are pockets and ponds that become more "[eutrophic](https://en.wikipedia.org/wiki/Eutrophication)"

@@ -94,6 +94,9 @@ for him to heal.
         - "I feel like I'm in a chapter that's about to end.
         If you're responsible for this, please put down the book
 
+- reparations for victims of martial law, actually being done?
+
+
 ### Template for plots
 
 - Importance: minor, secondary, main
