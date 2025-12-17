@@ -19,9 +19,15 @@ it happen.
 
 ## On imagining alternatives
 
+Margaret Thatcher's mantra was "There is no alternative." This is a
+lazy, if not dangerous, rhetoric to be spouting.
+
 French anthropologist [Pierre Clastres](https://en.wikipedia.org/wiki/Pierre_Clastres) suggested that simple and more
 innocent societies without rulers are more imaginative than their ruled
 counterparts.
+
+As humans, it is much more fulfilling to think of dozens of
+alternatives, from the most mundane to the most hip zeitgeist.
 
 ## Further reading
 

@@ -4,10 +4,8 @@ date: 2023-09-21
 draft: false
 ---
 
-Art is guided meditation.
-Something as hard to define as art
-is all about self-expression and creativity.
-You don't always need fancy tools;
+Art is guided meditation. Something as hard to define as art is all
+about self-expression and creativity. You don't always need fancy tools;
 your [imagination](/surrealism) is your most valuable asset.
 
 {{< toc >}}
@@ -18,6 +16,16 @@ Art has the power to reflect the complexities of the human
 experience, to capture emotions, tell stories, and provoke thought.
 It can serve as a mirror to society, highlighting issues, values, and
 beliefs. But, art often doesn't provide clear (re)solutions to these issues.
+
+Cory Doctorow in his speech-essay
+"[The Reverse Centaur's Guide for Criticizing AI](https://pluralistic.net/2025/12/05/pop-that-bubble/)", he describes the journey of experiencing art:
+
+> [I]t starts with an artist, who has some vast,
+> complex, numinous, irreducible feeling in their mind. And the artist
+> infuses that feeling into some artistic medium. They make a song, or a
+> poem, or a painting, or a drawing, or a dance, or a book, or a
+> photograph. And the idea is, when you experience this work, a facsimile
+> of the big, numinous, irreducible feeling will materialize in your mind.
 
 Art can inspire change, raise awareness, and ignite conversations,
 although it's usually up to individuals, [communities](/community), and
@@ -139,14 +147,14 @@ All art is quite useless.
 ### Wilde's Letter to Bernulf Clegg[^clegg]
 
 > My dear Sir
-> 
+>
 > Art is useless because its aim is simply to create a mood. It is not
 > meant to instruct, or to influence action in any way. It is superbly
 > sterile, and the note of its pleasure is sterility. If the contemplation
 > of a work of art is followed by activity of any kind, the work is either
 > of a very second-rate order, or the spectator has failed to realise the
 > complete artistic impression.
-> 
+>
 > A work of art is useless as a flower is useless. A flower blossoms for
 > its own joy. We gain a moment of joy by looking at it. That is all that
 > is to be said about our relations to flowers. Of course man may sell the
