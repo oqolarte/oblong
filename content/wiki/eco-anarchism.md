@@ -67,7 +67,7 @@ current Empire without any real practical use. It's analysis is based on
 extractive nature of Empire. At some point, we would have to expropriate
 the source which belongs to all of us.
 
-The land belongs to no one *and* everyone. It cannot be bought or sold,
+The land belongs to no one *and* everyone. It can neither be bought nor sold,
 even though we humans like to officiate such transactions with real
 estate laws, money, and borders, all of which are human-made constructs,
 all of which the land itself does not recognize.

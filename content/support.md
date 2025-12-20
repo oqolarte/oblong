@@ -8,24 +8,21 @@ draft: false
 "**Prosperity always lives in many open-handed souls**" is my go-to
 maxim these days.[^1]
 
-If you're reading this, thank you for considering to support what I do
+If you are reading this, thank you for considering to support what I do
 online.
 
-I'm always polishing this site's contents,
-so that they're updated, and more importantly,
-as accessible to as many as possible.
+I am always polishing this site's contents, so that they are updated,
+and more importantly, as accessible to as many as possible.
 
-I have also put up a [list of interesting project ideas](/di-why) that are
-currently in their incubation stage.
+I have also put up an [incomplete list of interesting project ideas](/di-why)
+that are currently in their incubation stage.
 
 ## Brain Support
 
-See any errors?
-I accept constructive criticisms,
-because they help me grow and learn.
+See any errors? I accept constructive criticisms, because they help me
+grow and learn.
 
-If you just want to share ideas,
-my inbox welcomes those as well.
+If you just want to share ideas, my inbox welcomes those as well.
 
 Feel free to message me, email in footer!
 
@@ -36,11 +33,11 @@ Feel free to message me, email in footer!
 - [Buy me coffee](https://ko-fi.com/oqolarte)
 
 If you prefer other means of supporting me (e.g. bank transfer, GCash,
-etc.), please email me.
+Maya, etc.), please email me.
 
 ## Hardware support
 
-Whenever I can, I make, fix, and/or repair stuff.
+Whenever I can, I make, fix, and/or [repair](/repair) stuff.
 
 The wishlist below hopefully reflects that.
 Please email me first if you plan to give me any of these.

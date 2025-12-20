@@ -9,7 +9,7 @@ math: false
 
 ## Thinking about challenges
 
-***What are the main challenges that a laborer in [transportaion](/transpo) face
+***What are the main challenges that a laborer in [transportation](/transpo) face
 everyday when availing important social services?***
 
 ### Workers as pedestrians, pedestrians as workers

@@ -18,19 +18,23 @@ Fitness depends on many factors (no, not like [BMI](/BMI)), but these
 factors can be simplified into three: exercise, [nutrition](/nutrition),
 and recovery. In turn, having a healthy body affects many aspects of
 one's own mental health, social life, including
-[friendships](/friendship) and [sexual relationships](/sex).
+[friendships](/friendship) and [sexual relationships](/sex). After all,
+Carl Lorenz Cervantez writes in his essay "[Paradox of Cultural Belongingness](https://sikodiwa.substack.com/p/paradox-of-cultural-selfhood)" that
+"the human experience of wellbeing is not just biomedical; it is also
+biophsycosocial."
 
 I'm currently doing [calisthenics](/calisthenics) and (some) yoga as my main
 form of physical exercise.
 
-My cardio is embedded in daily life in the form of long walks (sometimes
-with the SO and dog), cycling to and from work on a single-speed
+My cardio is embedded in daily life in the form of long walks,
+cycling to and from places on a single-speed
 [bike](/bike), taking stairs when possible, etc.
 
 I have also been [smoke-free](/quit-smoking) since Jun 2017.
 
-Also, as of writing this, I'm considering to get [vasectomy](/vasectomy) (preferably
-the non-scalpel kind because blades near my peepee = big YIKES).
+Also, as of writing this, I'm still considering to get
+[vasectomy](/vasectomy) (preferably the non-scalpel kind because blades
+near my peepee = big YIKES).
 
 ## On gyms
 
