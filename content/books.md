@@ -16,8 +16,8 @@ finish reading.
 | Book Title                  | Author/s                        |
 |-----------------------------|---------------------------------|
 | The Botany of Empire        | Banu Subramaniam                |
-| Children of Dune            | Frank Herbert                   |
 | The Dawn of Everything      | David Graeber and David Wengrow |
+| God Emperor of Dune         | Frank Herbert                   |
 
 ## Completed
 
@@ -94,7 +94,8 @@ I read slowly, you might notice.
 | [Braiding Sweetgrass](/288/#brief-review-of-braiding-sweetgrass)                                       | Robin Wall Kimmerer                        |
 | [Candido's Apocalypse](/293/#brief-review-of-candido)                                     | Nick Joaquin                               |
 | [Being Peace](/inner-peace)                                                               | Thich Nhat Hanh                            |
-| [The Comfort of Strangers](/308/#brief-review-of-the-comfort-of-strangers)               | Ian McEwan                                 |
+| [The Comfort of Strangers](/308/#brief-review-of-the-comfort-of-strangers)                | Ian McEwan                                 |
+| [Children of Dune](/318/#brief-review-of-children-of-dune)                                | Frank Herbert                              |
 
 
 ## Did not finish
