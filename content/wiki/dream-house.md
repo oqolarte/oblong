@@ -31,9 +31,10 @@ More things to consider:
 
 ## Civil Works
 
-- Polished [concrete](/concrete), but if possible, limit its use to
+- Polished [concrete](/concrete) for floors, but if possible, limit its use to
   house parts responsible for structural integrity like foundation,
   (some?) ground-floor walls
+- clay bricks
 - Perimeter walls with double walling; use reclaimed pallette
 - Chamfered corners and edges for walls
 - If two story or more high: High ceiling with mezzanine and/or loft
