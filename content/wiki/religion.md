@@ -10,13 +10,15 @@ Religion, itself, is not bad. Maybe.
 
 ## Intro
 
-A more nuanced take would be, many religions have imparted nuggets of
+A more nuanced take would be, many religions---especially those that
+have existed for thousands of years---have imparted nuggets of
 wisdom that are still relevant today; their texts are filled with
 verbose literature, of poems and proses. It has its own benefits when it
 comes to influencing behavior. At least in Christianity, the only one
 I'm familiar with, it tames the "iatrogenics of abundance" as observed
 by Nassim Nicholas Taleb in his book [*Antifragile*](/antifragile).
-Meaning, at the core of Christianity, [simple living](/simple-living) leads to a [healthier](/healthy)
+Meaning, at the core of Christianity,
+[simple living](/simple-living) leads to a [healthier](/healthy)
 and more fulfilling life---very different from the many offshoots that
 has sprouted over the thousands of years of its existence.
 
@@ -25,14 +27,27 @@ has sprouted over the thousands of years of its existence.
 People use religion to maintain their self-image, or at least the idea
 of themselves as "good." Often, they too use it to believe that their
 actions are "good" even though they are objectively causing harm.
-Religious leaders and organizations who use religion as a cudgel and/or
+Religious leaders and organizations use religion as a cudgel and/or
 carrot, weaponizing it against the vulnerable and using it to further
-their own personal agendas Used this way, religion becomes a barrier to
+their own personal agendas. Used this way, religion becomes a barrier to
 [accountability](/transformative-justice).
 
-To remain pious, "priests" (or [rigid activists](/joyful-militancy/#rigid-radicalism))
+To remain pious, "priests"
+(or [rigid activists](/joyful-militancy/#rigid-radicalism))
 must introduce new moral high grounds to which they will set the current
 standards.
+
+Going back again to Christianity, the irony is that its biggest
+institutions fail to realize that if they truly walked in the footsteps
+of Jesus, any real persecution would likely come from within their own
+institutions.
+
+When those in power maintain the illusion of victimhood, they use it as
+a mandate to further oppress and blame the marginalized. As Filipinos,
+we cannot forget the three centuries of Spanish colonialism under which
+this was done. It is a historical blind spot: Jesus was crucified by the
+religious and political establishment of his time, not by the outcasts
+or the faithless.
 
 ## Religion or cult?
 

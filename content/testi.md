@@ -5,13 +5,12 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
 
-During the peak of
-[Friendster](https://en.wikipedia.org/wiki/Friendster) in our country,
-people displayed their testimonials. Many took acquiring them seriously.
-In the spirit of *testi*, and being the nostal-junkie that I am,
-the following are written affirmations from different people I have
-interacted with in some capacity. Many, if not all, are edited for
-clarity and/or anonymized for privacy.
+Peak [Friendster](https://en.wikipedia.org/wiki/Friendster) days had
+people displaying their testimonials ("testi"). Acquiring them was
+serious business. In the spirit of *testi*, and being the nostal-junkie
+that I am, the following are written affirmations from different people
+I have interacted with in some capacity. Many, if not all, are edited
+for clarity and/or anonymized for privacy.
 
 ## *Testi*s
 
@@ -22,6 +21,8 @@ clarity and/or anonymized for privacy.
 > everything to run as smoothly as possible. I'm very appreciative of
 > your hard work and effort on our accounts and think you do a brilliant
 > job of keeping on top of all the moving parts [...]"
+
+> "I look up to a lot of what you do ha!"
 
 > "Ohio is patient and works well under pressure. [He also] seems to be
 > well organized and have a good understanding of the projects he works

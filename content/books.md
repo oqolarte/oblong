@@ -18,6 +18,7 @@ finish reading.
 | The Botany of Empire        | Banu Subramaniam                |
 | The Dawn of Everything      | David Graeber and David Wengrow |
 | God Emperor of Dune         | Frank Herbert                   |
+| Trust Kids!                 | carla joy bergman (Editor)      |
 
 ## Completed
 
