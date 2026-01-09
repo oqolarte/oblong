@@ -31,6 +31,9 @@ for clarity and/or anonymized for privacy.
 
 > [H]e seems cool.
 
+> "Wow, I didn't realize you're [my current age]! I thought you're only
+> [my current age minus, on average, 7 years].
+
 > "Ohio is always very friendly and reasonable to deal with, his
 > responses are both timely and clear. He feels like a valuable part of
 > any team."

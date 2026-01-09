@@ -4,12 +4,19 @@ date: 2023-03-01
 draft: false
 ---
 
-It's when rich people decide to become ethical,
-and then fly in philosophers in business class
-to tell them how to be so.
-They'll also hire researchers how to be "efficient" about it.
+It's when rich people decide to become ethical, and then fly in
+philosophers in business class to tell them how to be so. They'll also
+hire researchers how to be "efficient" about it.
 
 Wait, that can't be it, right?
+
+Let Cory Doctorow explain it via his blog post, "[A world without people](https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/#billionaire-solipsism)" (emphasis mine):
+
+> Effective altruism is the belief that one should make
+> as much money as possible by working in the most exploitative and
+> destructive fields you can find, in order to fund a program to improve
+> the lives of 53 trillion *hypothetical artificial people* who will come
+> into existence in 10,000 years.
 
 We can distill effective altruism (EA) to movement that advocates for making
 rational, evidence-based decisions to do the most good possible. Sounds

@@ -56,7 +56,7 @@ on his through line is a trippy experience.
 [^MCR]: I never said I'd lie in wait forever for a chance to
 unabashedly make a My Chemical Romance reference. This is my odd way of
 coping with the fact that I may never get to see them live next year
-(APR 2026) when they perform at the Philippine Arena.
+(NOV 2026) when they perform at the Philippine Arena.
 
 I broadcast some of my thoughts in the internet because I might also be
 exploring---who I want myself to be, who else I could be, what things

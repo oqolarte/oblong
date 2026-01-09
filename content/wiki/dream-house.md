@@ -28,6 +28,7 @@ More things to consider:
 - Proximity to a fault line
 - Proximity to sea
 - Closer to forest
+- Away from flood prone areas
 
 ## Civil Works
 
