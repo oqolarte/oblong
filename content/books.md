@@ -18,7 +18,6 @@ finish reading.
 | The Botany of Empire        | Banu Subramaniam                |
 | The Dawn of Everything      | David Graeber and David Wengrow |
 | God Emperor of Dune         | Frank Herbert                   |
-| Trust Kids!                 | carla joy bergman (Editor)      |
 
 ## Completed
 
@@ -97,7 +96,7 @@ I read slowly, you might notice.
 | [Being Peace](/inner-peace)                                                               | Thich Nhat Hanh                            |
 | [The Comfort of Strangers](/308/#brief-review-of-the-comfort-of-strangers)                | Ian McEwan                                 |
 | [Children of Dune](/318/#brief-review-of-children-of-dune)                                | Frank Herbert                              |
-
+| Trust Kids!                                                                               | carla joy bergman (Editor)                 |
 
 ## Did not finish
 
@@ -130,10 +129,10 @@ written in early 19th century. I *might* get back to this if I remember
 to forget how the first few pages were boring.
 
 ***how to grieve*** by **Jade Mark Capiñanes**  
-**Why**: Author has
-collected their wits and used it to build up *hugot* punchlines, which
-may or may not be cringy. I appreciate the effort, though, but *conyo*
-hugot, despite its potential to jab at jaw, is not for me.
+**Why**: Author has collected their wits and used it to build up *hugot*
+punchlines, which may or may not be cringy. I appreciate the effort,
+though, but *conyo* hugot, despite its potential to jab at jaw, is not
+for me.
 
 
 ***Doctor to the Barrios*** by **Juan Flavier**  

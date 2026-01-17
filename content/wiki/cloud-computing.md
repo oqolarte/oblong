@@ -24,7 +24,9 @@ A cloud service provider (CSP) is a company that offers cloud computing
 services. These companies own large data centers in locations around the
 globe that house millions of servers. Data centers provide technology
 services, such as storage, and compute at such a large scale that they
-can sell their services to other companies for a fee. Companies can pay
+can sell their services to other companies for a fee.
+
+Companies can pay
 for the storage and services they need and consume them through the
 CSP’s application programming interface (API) or web console.
 

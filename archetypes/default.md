@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-keywords: ["ohio olarte", "oqolarte", "oqo"]
+keywords: [""]
 draft: false
 math: false
 ---

@@ -49,13 +49,13 @@ Cybersecurity Risk Standards
 
 ### Elements of Risk
 
-1. Threat
-2. Risk Assessment
-3. Vulnerabilities
+1. Threat - any action that can disrupt a system, and something that can exploit vulnerability
+2. Risk Assessment - analyzing potential impact (risk) if threat was successful
+3. Vulnerabilities - weakness in the system
 4. Impact
 5. Controls
 
-Threat modeling is a process that studies each element and how it can
+[Threat modeling](/threat-modeling) is a process that studies each element and how it can
 impact the outcomes and who will it affect.
 
 ## Analyzing Cyber threats and controls

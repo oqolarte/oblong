@@ -28,9 +28,12 @@ It is a syllabus complete with lesson plans that are:
 
 Education should transform the character, body, and mind of both
 teachers and learners for the better. It is *NOT* about indoctrination
-of obedience, or about the preparation of youth to servitude.
+of obedience, or about the preparation of youth to servitude. Currently,
+our pedagogy is as contradictory as the dominant social structure
+itself. For example, we teach kids to share *and* also
+[accumulate](/capitalism); seek peace but enact [violence](/violence).
 
-It is depressing to know that students in who succeed our current
+It is depressing to know that students who succeed our current
 schools are the ones who give most of themselves to the rigged education
 system.
 

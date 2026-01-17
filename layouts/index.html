@@ -1,4 +1,15 @@
 {{ define "main" }}
+<picture>
+  <!-- User prefers light mode: -->
+  <source srcset="/image/dayzz.png" media="(prefers-color-scheme: light)"/>
+
+  <!-- User prefers dark mode: -->
+  <source srcset="/image/nightzz.png"  media="(prefers-color-scheme: dark)"/>
+
+  <!-- User has no color preference: -->
+  <img src="light.png" alt="Description of what the image shows"/>
+</picture>
+
 <p>I'm <strong>ohio olarte</strong> (he/him) from the <a href="/pilipinas">so-called Philippines</a></p>
 
 <p>

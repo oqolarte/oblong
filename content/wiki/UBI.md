@@ -16,3 +16,7 @@ We might still have to work.
 
 It would also be likely not be available to asylum seekers and illegal
 immigrants, which only widens the socioeconomic class divide.
+
+## To-read
+
+[Mutual Credit Confederation](https://conthestonerlin.blogspot.com/2023/06/mutual-credit-confederation.html)

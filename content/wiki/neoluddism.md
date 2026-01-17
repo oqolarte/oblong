@@ -81,11 +81,12 @@ control and monitoring device) via Bluetooth, WLAN, and/or Internet.
 
 Looking back on it now, it was dystopic. But if you're an engineering
 student in a state university in a developing country, nothing is driven
-unto thee as hard and as graceless as having an ambition. And so the thesis projects from our batch, and the ones that came
-before and after us, were nothing but ambitious attempts at engineering,
-mainly to please the ambitions of our instructors and professors who did
-the same with theirs, but also to have some grand-sounding mouthful
-string of text to put to our CVs when we would finally apply for jobs.
+unto thee as hard and as graceless as having an ambition. And so the
+thesis projects from our batch, and the ones that came before and after
+us, were nothing but ambitious attempts at engineering, mainly to please
+the ambitions of our instructors and professors who did the same with
+theirs, but also to have some grand-sounding mouthful string of text to
+put to our CVs when we would finally apply for jobs.
 
 Ambition is nice, one would think, but to prop it up requires a solid
 foundation.
@@ -126,8 +127,8 @@ fuckery compounded by misuse of tech, that I would rather not engage in.
 
 But I digress, I digress.
 
-My first smartphone was so cheap it was a small accident away from being a
-glorified potato. But for all its unremarkability, it did okay. It had
+My first smartphone was so cheap it was a small accident away from being
+a glorified potato. But for all its unremarkability, it did okay. It had
 four-inch capacitive touchscreen, had Bluetooth, connected to wifi, and
 had a headphone jack. And most important of all, it worked---our whole
 thesis project worked---during thesis defense. I inherited it because at

@@ -19,8 +19,12 @@ principles including the following:
 Hopefully in a rural city closer to nature but not too far from
 civilization.
 
-More things to consider:
+### Due Diligence
 
+Or, more things to consider:
+
+- check the character of neighborhood: what makes it stand out?
+- square or rectangular lots are best
 - Traffic and/or car-dependence
 - Air pollution
 - Possible modes of transportation
@@ -29,12 +33,15 @@ More things to consider:
 - Proximity to sea
 - Closer to forest
 - Away from flood prone areas
+- prone to landslides?
+- prone to volcanic eruptions?
 
 ## Civil Works
 
-- Polished [concrete](/concrete) for floors, but if possible, limit its use to
+- Polished [concrete](/concrete) and for floors, but if possible, limit its use to
   house parts responsible for structural integrity like foundation,
   (some?) ground-floor walls
+ - Kaavi flooring for main rooms?
 - clay bricks
 - Perimeter walls with double walling; use reclaimed pallette
 - Chamfered corners and edges for walls
