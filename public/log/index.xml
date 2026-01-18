@@ -44,9 +44,13 @@ prone-to-exhaustion body that cleans up the mess the robot &amp;ldquo;head&amp;r
 made?&lt;/p&gt;
 &lt;p&gt;Imagine no more: People at new work kept on bringing up this one time
 that someone&amp;rsquo;s Fathom automatically sent out summarized meeting notes
-(as part of its default settings, I believe) to recipients who were not
-even in the meeting. Lacking the context, the non-participants created a
-bit of stir, which the upper management had to clean up.&lt;/p&gt;
+(as part of its default settings, I believe) to recipients &lt;em&gt;outside&lt;/em&gt; the
+organization (&amp;ldquo;clients&amp;rdquo;) who were not even in the meeting. Lacking the
+context, the non-participants created a bit of stir, which the upper
+management had to clean up.&lt;/p&gt;
+&lt;p&gt;The lesson is to always check the options/settings of a piece of
+software, and tweak it so that it has the least amount of privilege
+where possible.&lt;/p&gt;
 &lt;p&gt;Within the wretched confines of corporate work, I am not closing my
 doors to using Fathom. It has a free tier, which by now, I take it as,
 &amp;ldquo;Your organizations secrets will be sent to our data lake for analysis.
