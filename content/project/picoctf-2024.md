@@ -6,12 +6,11 @@ draft: false
 math: false
 ---
 
-{{< ongoing >}}
+{{< closed >}}
 
 Notes on how I tried to solve CTF problems in
-[picoCTF](https://picoctf.org) **2024**. I may or may not write about each
-of the problem I go through. Also note that picoCTF has just released
-their [2025 challenge](https://play.picoctf.org/events/74)
+[picoCTF](https://picoctf.org) **2024**. Closed, because life got in the
+way.
 
 {{< toc >}}
 
@@ -84,11 +83,5 @@ their [2025 challenge](https://play.picoctf.org/events/74)
   that we have so far. What if we concatenate the two strings?
 - This will produce `picoCTF{f1u3n7_1n_pn9_&_pdf_724b1287}` which is
   indeed the correct flag.
-
-{{< btt >}}
-
-## IntroToBurp
-
-- Launch instance and visit the link.
 
 {{< btt >}}

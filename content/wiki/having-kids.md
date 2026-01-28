@@ -43,3 +43,4 @@ others.
   Rachel Donald. Aside from picking apart the question, she explores the
   (any) argument for and against having kids, and how the decision
   should also be for the community at large.
+  - [An Elegy by Al-Ma'arri](https://www.jadaliyya.com/Details/32488) - Syrian poet's epitaph wrote "This is my father's crime against me, which I myself committed against none")

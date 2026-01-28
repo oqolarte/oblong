@@ -365,11 +365,10 @@ Status:
 &lt;p&gt;&lt;a href=&#34;https://benildeopen.com/&#34;&gt;Benilde Open 2025&lt;/a&gt; called for &amp;ldquo;proposals
 offering bold ideas where art and design meet nature and technology&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;I submitted the proposal detailed below almost verbatim, save for a few
-minor edits. As of first publishing this (Mid October 2025), Benilde
-Open has not gotten back to me about my application. Regardless of the
-status, I am sharing this to the public.&lt;/p&gt;
-&lt;p&gt;Who knows? I might actually do this someday, regardless of whether an institution
-backs me up.&lt;/p&gt;
+minor edits. As of Mid-JAN 2026, my proposal &amp;ldquo;was not selected to move
+forward&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Who knows? I might actually do this someday, regardless of whether an
+institution backs me up.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
   &lt;details&gt;
@@ -816,15 +815,14 @@ Estimated value of satisfaction: &lt;em&gt;Priceless&lt;/em&gt;&lt;/p&gt;
       <pubDate>Mon, 03 Mar 2025 14:10:30 +0800</pubDate>
       
       <guid>https://ohio.araw.xyz/picoctf-2024/</guid>
-      <description>&lt;p class=&#34;statusOnGoing&#34;&gt;
+      <description>&lt;p class=&#34;statusClosed&#34;&gt;
 Status:
-&lt;strong&gt;ON-GOING&lt;/strong&gt;
+&lt;strong&gt;CLOSED&lt;/strong&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Notes on how I tried to solve CTF problems in
-&lt;a href=&#34;https://picoctf.org&#34;&gt;picoCTF&lt;/a&gt; &lt;strong&gt;2024&lt;/strong&gt;. I may or may not write about each
-of the problem I go through. Also note that picoCTF has just released
-their &lt;a href=&#34;https://play.picoctf.org/events/74&#34;&gt;2025 challenge&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://picoctf.org&#34;&gt;picoCTF&lt;/a&gt; &lt;strong&gt;2024&lt;/strong&gt;. Closed, because life got in the
+way.&lt;/p&gt;
 &lt;a name=&#34;top&#34; class=&#34;small&#34;&gt;&lt;/a&gt;
 &lt;div class=toc&gt;
   &lt;details&gt;
@@ -836,7 +834,6 @@ their &lt;a href=&#34;https://play.picoctf.org/events/74&#34;&gt;2025 challenge&
     &lt;li&gt;&lt;a href=&#34;#unminify&#34;&gt;Unminify&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#time-machine&#34;&gt;Time machine&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#secret-of-the-polyglot&#34;&gt;Secret of the Polyglot&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#introtoburp&#34;&gt;IntroToBurp&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
   &lt;/details&gt;
@@ -916,12 +913,6 @@ incomplete text: &lt;code&gt;picoCTF{f1u3n7_&lt;/code&gt;
 that we have so far. What if we concatenate the two strings?&lt;/li&gt;
 &lt;li&gt;This will produce &lt;code&gt;picoCTF{f1u3n7_1n_pn9_&amp;amp;_pdf_724b1287}&lt;/code&gt; which is
 indeed the correct flag.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
-
-&lt;h2 id=&#34;introtoburp&#34;&gt;IntroToBurp&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Launch instance and visit the link.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -2937,12 +2928,13 @@ Status:
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;I have been bullet-journaling (bujo) since I first chanced on it on 2015.
-It made sense to me at the time, and it still does.&lt;/p&gt;
-&lt;p&gt;Our technology rushed to the digital.
+&lt;p&gt;I have been mostly following the bullet journal method since I first
+chanced on it on 2015. It made sense to me at the time, and it still
+does.&lt;/p&gt;
+&lt;p&gt;Our &lt;a href=&#34;https://ohio.araw.xyz/technology&#34;&gt;technology&lt;/a&gt; rushed to the digital.
 Bujo remains one of my anchors to the analog world,
 where things are slower and require more thought.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re curious what this is, Ryder Carroll, the creator, explains it &lt;a href=&#34;https://bulletjournal.com/pages/learn&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re curious what this is, read more in this [archived] article &lt;a href=&#34;https://web.archive.org/web/20210119165629/https://bulletjournal.com/pages/learn&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here I discuss my bidirectional setup,
 riffed from a combination of Carroll&amp;rsquo;s and others&amp;rsquo; minimal designs.&lt;/p&gt;
 &lt;p&gt;Marked as &lt;strong&gt;on-going&lt;/strong&gt; because I&amp;rsquo;m always revising my bujo ways.&lt;/p&gt;
@@ -2981,11 +2973,9 @@ riffed from a combination of Carroll&amp;rsquo;s and others&amp;rsquo; minimal d
 
 &lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;A notebook and a pen(cil).&lt;/strong&gt;
-Literally any kind will do.
-Some people even do it with tablet and stylus,
-but that&amp;rsquo;s unnecessary and too high-tech for my taste.&lt;/p&gt;
+Any will do.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;d argue that analog is the better choice,
-but it boils down to personal preference.&lt;/p&gt;
+but tablet and stylus might work for you.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;preferred-but-not-required&#34;&gt;Preferred, but not required&lt;/h3&gt;
@@ -3009,10 +2999,12 @@ but it boils down to personal preference.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Bujo is a modular framework.
 Each module, or Collection, serves to organize related information&amp;hellip;
-[The four core Collections are] Index, Future Log, Monthly Log, and Daily Log.&lt;/p&gt;
+[The four core Collections are] Index, Future Log, Monthly Log, and
+Daily Log.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Accessing the notebook via &amp;ldquo;front door&amp;rdquo; means opening it in its proper orientation.
-Conversely, &amp;ldquo;back door&amp;rdquo; means the back cover of the notebook.&lt;/p&gt;
+&lt;p&gt;Accessing the notebook via &amp;ldquo;front door&amp;rdquo; means opening it in its proper
+orientation. Conversely, &amp;ldquo;back door&amp;rdquo; means the back cover of the
+notebook.&lt;/p&gt;
 &lt;p&gt;From one side, the front,
 all the logs&amp;mdash;daily, monthly, future&amp;mdash;are written.
 I don&amp;rsquo;t put the Index in this side,
@@ -3026,11 +3018,11 @@ I write the page number at the bottom corners of each page.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;cooking recipes&lt;/li&gt;
 &lt;li&gt;instructions on how to do a recurring thing&lt;/li&gt;
-&lt;li&gt;listicles I hand-copied from the internet that I need to access offline&lt;/li&gt;
+&lt;li&gt;lists&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The notebook is done when two sides meet in the middle.&lt;/p&gt;
-&lt;p&gt;This front-back split makes navigating easier.
-I know that the &lt;em&gt;chocolate crinkles&lt;/em&gt; recipe would be in the back side of the bujo.&lt;/p&gt;
+&lt;p&gt;The notebook is &amp;ldquo;done&amp;rdquo; when two sides meet somewhere in the middle.&lt;/p&gt;
+&lt;p&gt;This front/back split makes navigating easier. For example, I know that
+the &lt;em&gt;chocolate crinkles&lt;/em&gt; recipe would be in the back side of the bujo.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;core-collections&#34;&gt;Core Collections&lt;/h2&gt;
@@ -3042,26 +3034,26 @@ I know that the &lt;em&gt;chocolate crinkles&lt;/em&gt; recipe would be in the b
 &lt;h3 id=&#34;monthly-log&#34;&gt;Monthly Log&lt;/h3&gt;
 &lt;p&gt;A spread is dedicated for each month of the year.&lt;/p&gt;
 &lt;p&gt;Mine contains the following, going from the left page to the right:&lt;/p&gt;
-&lt;ol&gt;
+&lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;&amp;ldquo;&lt;strong&gt;Calendar&lt;/strong&gt;&amp;rdquo; of the month, implemented as one day per line;&lt;/li&gt;
-&lt;li&gt;On each day I write &lt;strong&gt;Daily Highlight/s&lt;/strong&gt;.
-I write a one- or two-sentence summary of what happened that day.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Habit Trackers&lt;/strong&gt; are also in here.
-Currently, I only track three habits.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Expenses tracker&lt;/strong&gt;, in which I list the expenses I make per day.
-I transfer this data to a spreadsheet in my computer,
-where the calculation takes place.
-This tracker serves as a reminder to be mindful of expenses,
-as well as a backup, in case something corrupts the spreadsheet.&lt;/li&gt;
-&lt;li&gt;I also have a place for &lt;strong&gt;upcoming to-do&amp;rsquo;s&lt;/strong&gt;, tasks that don&amp;rsquo;t necessarily
-have a schedule yet.
-These usually are important but not urgent.&lt;/li&gt;
+&lt;li&gt;On each day I write &lt;strong&gt;Daily Highlight/s&lt;/strong&gt;. I write a one- or
+two-sentence summary of what happened that day.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Habit Trackers&lt;/strong&gt; are also in here. Currently, I only track three
+habits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Expenses tracker&lt;/strong&gt;, in which I list the expenses I make per day. I
+transfer this data to a spreadsheet in my computer, where the
+calculation takes place. This tracker serves as a reminder to be
+mindful of expenses, as well as a backup, in case something corrupts
+the spreadsheet.&lt;/li&gt;
+&lt;li&gt;I also have a place for &lt;strong&gt;upcoming to-do&amp;rsquo;s&lt;/strong&gt;, tasks that don&amp;rsquo;t
+necessarily have a schedule yet. These usually are important but not
+urgent.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;I also write a &lt;strong&gt;Monthly Review&lt;/strong&gt; at the end of each month,
-which I don&amp;rsquo;t place on the spread,
-but on the page after the last the Daily Log of the month.
-Here I try to talk about what happened to FORM (Friends and Family, Occupation, Recreation, Motivation) during the month.
-This is not a strict format, though.&lt;/p&gt;
+&lt;p&gt;I also write a &lt;strong&gt;Monthly Review&lt;/strong&gt; at the end of each month, which I
+don&amp;rsquo;t place on the spread, but on the page after the last the Daily Log
+of the month. Here I try to talk about what happened to FORM (Friends
+and Family, Occupation, Recreation, Motivation) during the month. This
+is not a strict format, though.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;daily-log&#34;&gt;Daily Log&lt;/h3&gt;
@@ -3071,8 +3063,8 @@ This is the main feature.&lt;/p&gt;
 &lt;p&gt;My Daily Log is many things: a to-do list, a reminder, an analog private Twitter, notepad, tracker, etc.&lt;/p&gt;
 &lt;p&gt;Below is the format I currently use:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;01 JAN, MON □
-    AF: tosilog, coffee
-    PF: sinigang na bangus, pakbet, brown rice
+AF: tosilog, coffee
+PF: sinigang na bangus, pakbet, brown rice
 
   ○ New Year&amp;#39;s Day! (event bullet)
   - The dog ate the sausage! (note bullet)
@@ -3125,18 +3117,16 @@ Windows machine.&lt;/p&gt;
 &lt;p&gt;In the ever increasing complexities of modern life,
 having boundaries can be helpful,
 especially when trying to maintain a work-life balance.&lt;/p&gt;
-&lt;p&gt;In this case, not only do we have physical
-but also computational boundaries, between Work and Personal life.
-This is important for me:
-my personal bujo won&amp;rsquo;t be cluttered with the hot mess that is my work;
-and my work bujo won&amp;rsquo;t distract me with personal stuff.&lt;/p&gt;
+&lt;p&gt;In my case, not only do I have physical but also computational
+boundaries, between Work and Personal life. This is important for me: my
+personal bujo won&amp;rsquo;t be cluttered with the hot mess that is my work; and
+my work bujo won&amp;rsquo;t distract me with personal stuff.&lt;/p&gt;
 &lt;p&gt;Do what works for you.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;I only go the these subreddits: &lt;a href=&#34;https://old.reddit.com/r/BasicBulletJournals&#34;&gt;r/BasicBulletJournals&lt;/a&gt; and &lt;a href=&#34;https://old.reddit.com/r/bujo&#34;&gt;r/bujo&lt;/a&gt;.
 They tend to focus on utility and productivity.&lt;/p&gt;
-&lt;p&gt;And, of course, thanks to Ryder Carroll for sharing this method to the world &lt;em&gt;for free&lt;/em&gt;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
@@ -3147,10 +3137,6 @@ They tend to focus on utility and productivity.&lt;/p&gt;
 to write down a thought quickly before the mind forgets it.
 As a consequence, the notebook becomes a list of list of items in bullet points,
 hence the name Bullet Journal.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;You see, it&amp;rsquo;s amazing how there are paid &amp;ldquo;courses&amp;rdquo; to &amp;ldquo;guide you in setting up&amp;rdquo; your own bujo.
-Look up the terms &amp;ldquo;bullet journaling course&amp;rdquo; in your favorite search engine, and see what comes up.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;

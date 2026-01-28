@@ -8,14 +8,15 @@ draft: false
 
 {{< figure src="/image/bujos.jpg" alt="picture of personal journals lined up on a shelf, on each of their spine are dates during which they were used" caption="Current line up" >}}
 
-I have been bullet-journaling (bujo) since I first chanced on it on 2015.
-It made sense to me at the time, and it still does.
+I have been mostly following the bullet journal method since I first
+chanced on it on 2015. It made sense to me at the time, and it still
+does.
 
-Our technology rushed to the digital.
+Our [technology](/technology) rushed to the digital.
 Bujo remains one of my anchors to the analog world,
 where things are slower and require more thought.
 
-If you're curious what this is, Ryder Carroll, the creator, explains it [here](https://bulletjournal.com/pages/learn).
+If you're curious what this is, read more in this [archived] article [here](https://web.archive.org/web/20210119165629/https://bulletjournal.com/pages/learn).
 
 Here I discuss my bidirectional setup,
 riffed from a combination of Carroll's and others' minimal designs.
@@ -27,36 +28,39 @@ Marked as **on-going** because I'm always revising my bujo ways.
 ## Materials
 
 **A notebook and a pen(cil).**
-Literally any kind will do.
-Some people even do it with tablet and stylus,
-but that's unnecessary and too high-tech for my taste.
+Any will do.
 
 I'd argue that analog is the better choice,
-but it boils down to personal preference.
+but tablet and stylus might work for you.
 
 {{< btt >}}
 ### Preferred, but not required
+
 - notebook: dotted grid
 - pen: 0.5mm needle point, black ink, doesn't smudge
 - size: A6
 
 {{< btt >}}
+
 ### Optional
 - small ruler
 - highlighter/s
 - other pen/s with different color
 
 {{< btt >}}
+
 ## Front- and Back-door Scheme
 
 From the official website:
 
 > Bujo is a modular framework.
 Each module, or Collection, serves to organize related information...
-[The four core Collections are] Index, Future Log, Monthly Log, and Daily Log.
+[The four core Collections are] Index, Future Log, Monthly Log, and
+Daily Log.
 
-Accessing the notebook via "front door" means opening it in its proper orientation.
-Conversely, "back door" means the back cover of the notebook.
+Accessing the notebook via "front door" means opening it in its proper
+orientation. Conversely, "back door" means the back cover of the
+notebook.
 
 From one side, the front,
 all the logs---daily, monthly, future---are written.
@@ -72,14 +76,15 @@ I write the page number at the bottom corners of each page.
 Sample of non-log Collections that I write from the back door:
 - cooking recipes
 - instructions on how to do a recurring thing
-- listicles I hand-copied from the internet that I need to access offline
+- lists
 
-The notebook is done when two sides meet in the middle.
+The notebook is "done" when two sides meet somewhere in the middle.
 
-This front-back split makes navigating easier.
-I know that the *chocolate crinkles* recipe would be in the back side of the bujo.
+This front/back split makes navigating easier. For example, I know that
+the *chocolate crinkles* recipe would be in the back side of the bujo.
 
 {{< btt >}}
+
 ## Core Collections
 
 ### Future Log
@@ -99,26 +104,26 @@ hence the name Bullet Journal.
 A spread is dedicated for each month of the year.
 
 Mine contains the following, going from the left page to the right:
-1. "**Calendar**" of the month, implemented as one day per line;
-1. On each day I write **Daily Highlight/s**.
-I write a one- or two-sentence summary of what happened that day.
-1. **Habit Trackers** are also in here.
-Currently, I only track three habits.
-1. **Expenses tracker**, in which I list the expenses I make per day.
-I transfer this data to a spreadsheet in my computer,
-where the calculation takes place.
-This tracker serves as a reminder to be mindful of expenses,
-as well as a backup, in case something corrupts the spreadsheet.
-1. I also have a place for **upcoming to-do's**, tasks that don't necessarily
-   have a schedule yet.
-These usually are important but not urgent.
 
+2. "**Calendar**" of the month, implemented as one day per line;
+3. On each day I write **Daily Highlight/s**. I write a one- or
+   two-sentence summary of what happened that day.
+4. **Habit Trackers** are also in here. Currently, I only track three
+   habits.
+5. **Expenses tracker**, in which I list the expenses I make per day. I
+   transfer this data to a spreadsheet in my computer, where the
+   calculation takes place. This tracker serves as a reminder to be
+   mindful of expenses, as well as a backup, in case something corrupts
+   the spreadsheet.
+6. I also have a place for **upcoming to-do's**, tasks that don't
+   necessarily have a schedule yet. These usually are important but not
+   urgent.
 
-I also write a **Monthly Review** at the end of each month,
-which I don't place on the spread,
-but on the page after the last the Daily Log of the month.
-Here I try to talk about what happened to FORM (Friends and Family, Occupation, Recreation, Motivation) during the month.
-This is not a strict format, though.
+I also write a **Monthly Review** at the end of each month, which I
+don't place on the spread, but on the page after the last the Daily Log
+of the month. Here I try to talk about what happened to FORM (Friends
+and Family, Occupation, Recreation, Motivation) during the month. This
+is not a strict format, though.
 
 {{< btt >}}
 ### Daily Log
@@ -133,8 +138,8 @@ My Daily Log is many things: a to-do list, a reminder, an analog private Twitter
 Below is the format I currently use:
 ```
 01 JAN, MON □
-    AF: tosilog, coffee
-    PF: sinigang na bangus, pakbet, brown rice
+AF: tosilog, coffee
+PF: sinigang na bangus, pakbet, brown rice
 
   ○ New Year's Day! (event bullet)
   - The dog ate the sausage! (note bullet)
@@ -195,11 +200,10 @@ In the ever increasing complexities of modern life,
 having boundaries can be helpful,
 especially when trying to maintain a work-life balance.
 
-In this case, not only do we have physical
-but also computational boundaries, between Work and Personal life.
-This is important for me:
-my personal bujo won't be cluttered with the hot mess that is my work;
-and my work bujo won't distract me with personal stuff.
+In my case, not only do I have physical but also computational
+boundaries, between Work and Personal life. This is important for me: my
+personal bujo won't be cluttered with the hot mess that is my work; and
+my work bujo won't distract me with personal stuff.
 
 Do what works for you.
 
@@ -210,9 +214,4 @@ Do what works for you.
 I only go the these subreddits: [r/BasicBulletJournals](https://old.reddit.com/r/BasicBulletJournals) and [r/bujo](https://old.reddit.com/r/bujo).
 They tend to focus on utility and productivity.
 
-And, of course, thanks to Ryder Carroll for sharing this method to the world *for free*.[^bujo]
-
 {{< btt >}}
-
-[^bujo]: You see, it's amazing how there are paid "courses" to "guide you in setting up" your own bujo.
-Look up the terms "bullet journaling course" in your favorite search engine, and see what comes up.

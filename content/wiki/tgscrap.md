@@ -14,4 +14,3 @@ APP api_id
 
 APP api_hash
 8db94bd7b7556e4c5a7cd9b84f8e71d8
-

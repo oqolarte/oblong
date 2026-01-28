@@ -11,12 +11,11 @@ math: false
 offering bold ideas where art and design meet nature and technology".
 
 I submitted the proposal detailed below almost verbatim, save for a few
-minor edits. As of first publishing this (Mid October 2025), Benilde
-Open has not gotten back to me about my application. Regardless of the
-status, I am sharing this to the public.
+minor edits. As of Mid-JAN 2026, my proposal "was not selected to move
+forward".
 
-Who knows? I might actually do this someday, regardless of whether an institution
-backs me up.
+Who knows? I might actually do this someday, regardless of whether an
+institution backs me up.
 
 {{< toc >}}
 
