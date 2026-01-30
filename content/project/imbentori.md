@@ -27,17 +27,20 @@ ir/rational. It is a list of personal truths told with cryptic lingo (or
 with International Art English[^bs], one could argue) to add dimension
 to the mundane.
 
-I wanted to tell stories, fiction or otherwise, that had shaped me definitively.
-In some entries, though, there's no room for interpretation.
-In any case, if you feel like the stream of thoughts challenge the way you read, *hmm*, then it's purpose didn't go off tangent.
+I wanted to tell stories, fiction or otherwise, that had shaped me
+definitively. In some entries, though, there's no room for
+interpretation. In any case, if you feel like the stream of thoughts
+challenge the way you read, *hmm*, then it's purpose didn't go off
+tangent.
 
 "Which is what, exactly?" I hear you ask.
 
-"Well," I mutter, racking my brain for *proper* wording.
-"The intention of sharing this version of
-my Youth---captured between 2012 and 2018---is to offer a perspective of someone who both despises the world,
-yet remains hopeful of the people's capacity to kick-start a change, although they bore me at that."
-And then you plop back on your chair, still unsatisfied with my ambiguous response.
+"Well," I mutter, racking my brain for *proper* wording. "The intention
+of sharing this version of my Youth---captured between 2012 and
+2018---is to offer a perspective of someone who both despises the world,
+yet remains hopeful of the people's capacity to kick-start a change,
+although they bore me at that." And then you plop back on your chair,
+still unsatisfied with my ambiguous response.
 
 You will notice quirks.
 One of the most notable was how I refuse to capitalize letters that needed capitalization.
@@ -53,8 +56,8 @@ Right now, I'll compromise by trimming *some* of the bad stuff.
 If everything sounds strange,
 it's because I had been in this odd phase.
 
-[^bs]: Reminds me of a paper called [_"Bullshit Makes The Art Grow Profounder"_](http://journal.sjdm.org/19/190712/jdm190712.html) (Turpin et. al., 2019). 
-Some 20(20) years ago when I last visited an art museum (or was it just gallery?), 
+[^bs]: Reminds me of a paper called [_"Bullshit Makes The Art Grow Profounder"_](http://journal.sjdm.org/19/190712/jdm190712.html) (Turpin et. al., 2019).
+Some 20(20) years ago when I last visited an art museum (or was it just gallery?),
 I couldn't help but roll my eyes on a lot of pieces' description cards that seemingly always include how the artist "explores" this or that.
 
 {{< btt >}}
@@ -76,16 +79,16 @@ Date: Wed, 30 Oct 2013
 
 Someone called me on the phone, but I didn't hear it
 immediately, because I was too absorbed on the gyrating sound waves
-coming out of the speakers. 
+coming out of the speakers.
 My music, Queen, was too loud, and the
-speakers are of the modern tech, 
+speakers are of the modern tech,
 so that they don't do that magical
-feedback every time a call or a text comes in my phone. 
+feedback every time a call or a text comes in my phone.
 
-You all know that, right? 
+You all know that, right?
 A few years back, speakers screech when a phone nearby
-would receive something. 
-Nowadays, they don't. 
+would receive something.
+Nowadays, they don't.
 They have killed the
 magic.
 
@@ -108,28 +111,28 @@ Dear diary, today I watched more videos of people fucking each other. I
 think it's called pornography or erotica, but it depends on the grade of
 steam which confutes any discrepancy between the two.
 
-These people surprised me with their whines. 
-I don't get it. 
+These people surprised me with their whines.
+I don't get it.
 Am I
 supposed to touch my genitals just to emulate what they were
-experiencing? 
+experiencing?
 There was an order of preference that I have read
-somewhere, 
+somewhere,
 but my not remembering when and where I found such an article
-proves how sleazy can I be. 
+proves how sleazy can I be.
 What I know is that, I must do *it* with one
 or more persons, but with whom?
 
 I clicked on a panel that played a video of two girls shamed by an
-"ex-convict" on an absurd level, 
+"ex-convict" on an absurd level,
 and he got to ram his penis down their
-throats for more than four minutes. 
-It was moving like a piston. 
+throats for more than four minutes.
+It was moving like a piston.
 I felt
 nervous for these people who have nothing
-but their blessed bodies. 
+but their blessed bodies.
 Maybe this isn't entertainment but something
-inhumane that feeds off the carnal desires. 
+inhumane that feeds off the carnal desires.
 If I must really think about
 it, I suppose it was not their choice to participate in such a graphic
 scenario.
@@ -138,12 +141,12 @@ Sex workers puzzle me. I know I have no right to question their deeds,
 but still, the nature of their work is beyond my comprehension. I feel
 so dumb saying that.
 
-Dear diary, I am lonely. 
-I want to fight off the urge. 
+Dear diary, I am lonely.
+I want to fight off the urge.
 I want to spend
-the rest of the week cuddling in someone's arms. 
+the rest of the week cuddling in someone's arms.
 I don't need to take
-cold baths, because life isn't a big porcelain bath tub, 
+cold baths, because life isn't a big porcelain bath tub,
 nor a playlist
 of fetishes.
 
@@ -152,7 +155,7 @@ of fetishes.
 Date: Thu, 31 Oct 2013
 
 On moments that I look out of the window, I see the glorious sky.
-Everything is modernized. 
+Everything is modernized.
 Everything looks hopeful, yet ugly, but only
 if you looked long enough to see the details. 
 
@@ -163,29 +166,29 @@ Date: Thu, 31 Oct 2013
 I wish I could cough up wonderful lyrics and come up with good guitar
 chords to go with it. 
 
-I wish to do a thousand tough push-ups for every mistake I make. 
+I wish to do a thousand tough push-ups for every mistake I make.
 That
 way, I would be strong enough to endure future errors.
 
 I wish to rebuild the walls I destroyed in order to get here, but it
-seems that it's all too late now. 
+seems that it's all too late now.
 Someone out there knows why.
 
 {{< btt >}}
-### Entry # 5 
+### Entry # 5
 Date: Fri, 01 Nov 2013
 
-People from the suburbs have vacated the other room. 
+People from the suburbs have vacated the other room.
 It is free from
-dirt now. 
-They have also cleaned it. 
+dirt now.
+They have also cleaned it.
 Got rid of the pests that might
-want to scurry about the floor. 
+want to scurry about the floor.
 I am glad the room is all mine now.
 
-The room lacks decorations and soft pillows. 
-It would echo in here. 
-It lacks inspiration, but it has me now. 
+The room lacks decorations and soft pillows.
+It would echo in here.
+It lacks inspiration, but it has me now.
 And now, I have it.
 
 {{< btt >}}
@@ -193,19 +196,19 @@ And now, I have it.
 Date: Fri, 01 Nov 2013
 
 Kill me not with admiration, and tell me I am the best person to have
-entered your life ever. 
-My guitar strings ache to be strummed, 
-my boxes of mementos long to be remembered, but I don't care about them. 
-I care about you. 
+entered your life ever.
+My guitar strings ache to be strummed,
+my boxes of mementos long to be remembered, but I don't care about them.
+I care about you.
 
 You who have brought yourself to your own knees. You whose
 ponytail I held in place just so you could mourn and bow down before me.
 I could set up a room for the two of us where we could strangle the milk
-of life out of each other, but you chose to be free. 
+of life out of each other, but you chose to be free.
 And to be honest, that was your only option.
 
 You chose to be with
-your cats and your boy friends. 
+your cats and your boy friends.
 I had nothing to do with them, so I, in
 turn, chose to set you free, even if I wanted otherwise.
 
@@ -213,36 +216,36 @@ turn, chose to set you free, even if I wanted otherwise.
 ### Entry # 7
 Date: Fri, 01 Nov 2013
 
-My grandfather, who looked like Quezon, 
-once belonged to a guerrilla force. 
+My grandfather, who looked like Quezon,
+once belonged to a guerrilla force.
 They lived in the mountain
 side, just like any other rebellion at the time. They boiled unripe
-corncobs and cow bones they stole from the farms nearby for lunch. 
+corncobs and cow bones they stole from the farms nearby for lunch.
 They
-were outlaws. 
+were outlaws.
 They wanted to throw the Japanese out of the country,
-only that they failed to do so. 
+only that they failed to do so.
 
 Theirs were the stories of war against
-alien adversaries who were more powerful. 
+alien adversaries who were more powerful.
 They were simpletons turned
-militia who knew only a few things about war. 
+militia who knew only a few things about war.
 If they wanted so bad to be an active threat to their opponents, they could
-have constructed at least one smart plot. 
+have constructed at least one smart plot.
 But they preferred to be
 cowards hidden behind ferns and rocks.
 
-He died at the age of 80. 
+He died at the age of 80.
 Everybody prayed their own versions of
-lamentations at his funeral. 
-I was not there. 
+lamentations at his funeral.
+I was not there.
 I did not even see him during his last moments, so damn me now. 
 
-My mother regularly reminds us of her admiration for her father. 
+My mother regularly reminds us of her admiration for her father.
 In her own words,
-he was the greatest man who lived. 
+he was the greatest man who lived.
 She told me how her mother
-wept during the funeral, so much so that they laughed at her, 
+wept during the funeral, so much so that they laughed at her,
 saying she was
 over-reacting.
 
@@ -252,23 +255,23 @@ Date: Sat, 02 Nov 2013
 
 To the brother whose downfall is inevitable,
 
-Your woman talked to me the other night, but I was not listening carefully. 
-Did she say that you were destroyed by an old lady? 
+Your woman talked to me the other night, but I was not listening carefully.
+Did she say that you were destroyed by an old lady?
 That you broke into tears inside a taxi, because none of your
 schemes worked out?
 
 Old hags do tend to cause that.
 Sometimes, they are too old for
-emotions that they can't even handle themselves. 
+emotions that they can't even handle themselves.
 They resort to a
 so-called systematic deity whom they worship as much as they worship
-their laundry. 
-It is all helpless now. 
+their laundry.
+It is all helpless now.
 
 For you and for her, the old
 widow.
 
-The sparrows will soon take her and all of her possessions away. 
+The sparrows will soon take her and all of her possessions away.
 The last air she will breathe looms nigh before her.
 
 {{< btt >}}
@@ -276,54 +279,54 @@ The last air she will breathe looms nigh before her.
 Date: Sun, 03 Nov 2013
 
 I can't promise not to be so anxious about the impermeability of jagged
-things here in this wanton city, here in this side of the world. 
+things here in this wanton city, here in this side of the world.
 I can
 lock myself up in a room with venomous dingoes and snapping Venus
 flytraps, but tell me, can I really lock myself up in a room with
-deranged weirdos? 
-I cannot be the spark of some other lame people's thoughts. 
-I, too, am suffering. 
+deranged weirdos?
+I cannot be the spark of some other lame people's thoughts.
+I, too, am suffering.
 I cannot be of some help to others, sorry about that.
 
-Some other night, I was not thinking straight again. 
+Some other night, I was not thinking straight again.
 I think I was
-capable of horrendous crimes that time. 
+capable of horrendous crimes that time.
 So instead of losing it, I got
 myself jacked in the computer and played all of the piano concertos
 repetitively, until I came back to my senses, and everything seemed
 wonderful again.
 
 {{< btt >}}
-### Entry # 10 
+### Entry # 10
 Date: Mon, 04 Nov 2013
 
-Let it sit there in the mellow light. 
+Let it sit there in the mellow light.
 And let it be clear to you that it
-is not yours, that thing. 
+is not yours, that thing.
 This is not a race that you could just break
-into a run like you are going to make it to the finish line. 
-If you run now, you will not make it. 
+into a run like you are going to make it to the finish line.
+If you run now, you will not make it.
 The finish line is only a perceived idea
 through which we wish to project the kind of reality we wanted, the
-goals we wish to get. 
+goals we wish to get.
 
 So hear me out on this, and just let the thing sit
-by itself. 
-It is safely locked in here. 
+by itself.
+It is safely locked in here.
 The room is all
 so-and-so-proof---nothing
-goes in or out. 
+goes in or out.
 Entirely vacuum sealed.
 
-Now, step out of the room and close the door behind you. 
+Now, step out of the room and close the door behind you.
 
 Good.
 
-Listen to me. 
-It is the pride in us that will bleed us to death. 
-You are not owned by your pride. 
+Listen to me.
+It is the pride in us that will bleed us to death.
+You are not owned by your pride.
 And you need to rack your brains if you
-have to, just so you will remember that. 
+have to, just so you will remember that.
 If you have to jot these down,
 do it, for tomorrow and the day after that and so on, there will be
 difficult exams. Life is a practical test.
@@ -345,37 +348,37 @@ and spooked, although I highly doubt it would be of any help.
 ### Entry # 12
 Date: Thu, 07 Nov 2013
 
-On a night with the least expectations, 
-someone might want to show up by the front gate. 
-She could be a friend, her derelict vehicle behind her, 
+On a night with the least expectations,
+someone might want to show up by the front gate.
+She could be a friend, her derelict vehicle behind her,
 engine vibrating in anticipation of a long senseless drive.
 
-She might want to invite me in her car, and ask for advice: 
+She might want to invite me in her car, and ask for advice:
 about how she was so doped that her mother found out;
 about the terrible travails that almost diminished her mind to dementia.
 
-I might say, "Get us out of here first." 
-The tires would then screech. 
+I might say, "Get us out of here first."
+The tires would then screech.
 
-I might tell someone to go to the nearest bridge, 
-preferably at least a mile long, 
-and there we might just drive back and forth. 
-But the bridge would not respond to such foolish actions. 
+I might tell someone to go to the nearest bridge,
+preferably at least a mile long,
+and there we might just drive back and forth.
+But the bridge would not respond to such foolish actions.
 
 She might get tired of driving and just take me to her room instead.
 
-Of course, no one will actually show up and demand my presence. 
+Of course, no one will actually show up and demand my presence.
 None of this will ever happen.
 
 {{< btt >}}
 ### Entry # 13
 Date: Thu, 07 Nov 2013
 
-On several facets of human frailty that I fail to tamper with logic, 
-a deep resentment in discussing them prevails. 
-Is it because human that I am, that in order to function normally, 
-I have to act as if my weaknesses are repulsive topics? 
-But isn't that denial, enough a reason to be asking for psychiatric help? 
+On several facets of human frailty that I fail to tamper with logic,
+a deep resentment in discussing them prevails.
+Is it because human that I am, that in order to function normally,
+I have to act as if my weaknesses are repulsive topics?
+But isn't that denial, enough a reason to be asking for psychiatric help?
 
 Well, I don't need help.
 I'm doing good with my dull, simple life,
@@ -388,7 +391,7 @@ Date: Sun, 10 Nov 2013
 Gentlemen can't rack their brains.
 Ladies won't do it for them.
 The might has been passed back and forth, so that one day, no one will be
-needing the other. 
+needing the other.
 We might all become asexual, and the only terrible
 thing about that is not finding enough limbs to stimulate the genitals.
 
@@ -404,23 +407,23 @@ stop brushing my shoulder with your phantom hands.):
 the fall of all the bass with the banging in unison of all buttheads to
 the tune of all that has collapsed and will be collapsing with an
 angelic choir from the ripped-open heavens apart *IS* normal as long as
-it does not leave me grasping for breath, right? 
+it does not leave me grasping for breath, right?
 My dreams are made of
-sad stuff. 
+sad stuff.
 When I wake up from one, I put a pillow between my legs and
-hug another with my arms, because it's all I have. 
+hug another with my arms, because it's all I have.
 A bunch of
-un-talkative pillows, all heat-less and disappointingly foamy. 
+un-talkative pillows, all heat-less and disappointingly foamy.
 They have
-phased out the feathery once. 
+phased out the feathery ones.
 Too many geese and ducklings and mallards
 had suffered.
 
-I saw once a meme somewhere, asking what if the pillows recorded our
+I saw a meme meme somewhere, asking "What if the pillows recorded our
 dreams and all we had to do is plug them to our computers in the morning
-to see our them, if any, again.
+to see them, if any, again?"
 Are they that stupid to not know that
-all dreams have no substantial beginnings? 
+all dreams have no substantial beginnings?
 Only endings.
 Sometimes good,
 but most of them just stop abruptly.
@@ -440,9 +443,9 @@ Date: Tue, 12 Nov 2013
 
 Science never told us that deeply ingrained within the cosmic particles
 the earth was made up of, are so much drudgery that when the godly forces
-of Universe swirled it all up into a gargantuan sphere, 
+of Universe swirled it all up into a gargantuan sphere,
 the amalgam was
-but a place abundant of disappointment. 
+but a place abundant of disappointment.
 Disappointment that, if served
 frequently in many a cold dose, will dissolve human faith.
 Thus,
@@ -454,18 +457,18 @@ inner self, sometimes called madness.
 Date: Wed, 13 Nov 2013
 
 The roads that branch out to those distant havens are all awfully
-pungent like rotten onion. 
-So here's a useless lifehack: 
+pungent like rotten onion.
+So here's a useless lifehack:
 Be skeptical of
-maps with X's on them, 
+maps with X's on them,
 simply because they are stupid and do not belong
-in this time and age. 
+in this time and age.
 Only ancient topography had these large red marks on them.
 They were created by humans for humans as imaginary goals with
-no evident rewards, 
-so they could feel free to be objective, 
+no evident rewards,
+so they could feel free to be objective,
 be freed
-from their doubts of existence, 
+from their doubts of existence,
 be ambitious despite the dull Sundays.
 What use really is there of a map? The long roads are boring and tiring;
 the short ones are swift and tasteless.
@@ -880,7 +883,7 @@ Love is real, but lovers are not.
 ### Entry # 36: *innumerable pointlessness*
 Date: Wed, 18 Dec 2013
 
-1.  Raindrops fell on hot roads. 
+1.  Raindrops fell on hot roads.
 Heat from the deepest, most complex of sanatorium was exhumed to the surface.
 Heavy clouds trap the vapors.
 Everyone was getting agitated as the city melted beneath the sky.
@@ -1717,7 +1720,7 @@ noticeably about the realm of social anxiety and decrepitude.
 ### Entry # 80
 Date: Tue, 11 Feb 2014
 
-(i am you. 
+(i am you.
 
 *you* write what you like using understandable rhetoric strewn
 creatively, and you queue it because you don't simply give in to the
@@ -2192,7 +2195,7 @@ Date: Fri, 23 May 2014
 
 the crisp in one's face becomes crinkled upon agreeing with the internal
 faction of the self to set out on a trek away from the living
-standardized by the norms of the environs. 
+standardized by the norms of the environs.
 only a philosophy founded on empirical accounts could have supported this
 belief.
 
@@ -2700,7 +2703,7 @@ Date: Tue, 22 Jul 2014
 
 a guitar man once told me that people find creative ways to authenticate
 their unhappiness. i thought to myself, "do they also generate their
-own festering?" 
+own festering?"
 
 i attempt this now, because my self as usual belongs to a different
 place and time, the self that waxes some fake wings onto his back to fly
@@ -3932,7 +3935,7 @@ but judging from the recent dispositions of the
 involved individuals, the quarrel seem to have begun from a long-buried dispute.
 sometimes, i wonder if civility can be exhausted, and if babble
 would soon engulf the silence once the human condition's ability to
-withstand grudges had been put out. 
+withstand grudges had been put out.
 and if that happens, will i
 be sent packing to make room for their "adjustments"?
 
