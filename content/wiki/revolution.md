@@ -1,8 +1,19 @@
 ---
-title: "Revolution: Series of infinite steps"
+title: "Revolution: series of infinite steps"
 date: 2022-10-25
 draft: false
 ---
+
+> What I've come to learn is that if I can't feel the revolution in my
+> body, then it's not revolution. It's propaganda. I want hope on a
+> cellular level. I want [joy](/joyful-militancy) on my skin so visceral
+> it raises my hair. In every [radical action](/direct-action), I want
+> to follow what makes me feel alive because that is what makes me free.
+> I want this for you, too.
+> 
+> -- Maria Nilad, "[In any future I want to live in, you'll find yourself](https://www.marianilad.com/p/in-any-future-i-want-to-live-in-youll)"
+
+(hyperlinks added by me)
 
 {{< toc >}}
 
