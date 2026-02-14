@@ -144,7 +144,7 @@ Another tank/cistern to collect gray water from kitchen and laundry.
 
 ### Toilet & Bath
 
-- well ventilated with bamboo slats from head level up to ceiling
+- well ventilated with [bamboo](/bamboo) slats from head level up to ceiling
 - cobalt blue (or dark maroon) tiles (small squares or small hexagon)
 - toilet, with liquid and solid flush, bidet
 - Compost toilet (ecosan toilet by Unicef)

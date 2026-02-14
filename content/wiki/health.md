@@ -36,6 +36,10 @@ Also, as of writing this, I'm still considering to get
 [vasectomy](/vasectomy) (preferably the non-scalpel kind because blades
 near my peepee = big YIKES).
 
+[Skin care](/skin-care) is equally important, because skin is our first
+line of defense against the physical world. I hope I'm not too late to
+jump in.
+
 ## On gyms
 
 Are gyms built to be social places? Are they even designed to be such?

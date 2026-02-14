@@ -14,8 +14,8 @@ the current carceral systems in place.
 
 ## Intro
 
-We can ask: can crimes of passion be obsolete when we no longer see people
-as things to lose or possess?
+We can ask: can crimes of passion be obsolete when we no longer see
+people as things to lose or possess?
 
 Consider: Things like theft or property destruction can’t exist if many
 of our spaces are communal, and people have enough that they don't feel
@@ -115,3 +115,12 @@ it. They use persuasiveness to establish order. This has resulted in
 many members being good arguers and debaters. Being persuasive means
 using logical reasoning, but also appealing to sentiments, employing
 humor and irony, etc.
+
+## Resources
+
+Some links to resources on survivor support
+
+- Centering the nees of survivors (YouTube): [Part 1](https://www.youtube.com/watch?v=ZeBuP7VCJyM), [Part 2](https://www.youtube.com/watch?v=MECKdunxjN4)
+- [Zines for Survivors](https://drive.google.com/drive/folders/1AJQOV5aNcsRV5layKljLCyZtjRvnR6v5?usp=sharing)
+- [Zines for perpetrators of harm](https://drive.google.com/drive/folders/1SGCdJVTSuVnpq2rCfBeummCqtIpid_WB?usp=sharing)
+- [Zines for community and their spaces](https://drive.google.com/drive/folders/1qeJGeZKrZHQYtuEirE8tftItEDa6VA_5?usp=sharing)
