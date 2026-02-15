@@ -67,6 +67,7 @@ and the list below is non-exhaustive:
     people follow an authorized person into a restricted area. This
     technique is also sometimes referred to as piggybacking.
 11. [Elicitation](https://christina-lekati.medium.com/elicitation-techniques-74be36e212f8) (*"Well, I'm not supposed to share this but..."*) that leads a person to volunteer information, usually sensitive and/or important.
+12. Use of deepfakes. [Christina Lekati talks about an example of this](https://infosec.exchange/@ChristinaLekati/116064471138185954).
 
 ## Phishing
 

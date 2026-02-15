@@ -38,6 +38,8 @@ for clarity and/or anonymized for privacy.
 > responses are both timely and clear. He feels like a valuable part of
 > any team."
 
+> [He has] a cool and calming voice...
+
 > "I appreciate Ohio has a really challenging and demanding role working
 > across multiple accounts on multiple projects. [T]aking that into
 > consideration, I think Ohio does an amazing job at communicating
