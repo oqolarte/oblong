@@ -12,9 +12,10 @@ I have been mostly following the bullet journal method since I first
 chanced on it on 2015. It made sense to me at the time, and it still
 does.
 
-Our [technology](/technology) rushed to the digital.
-Bujo remains one of my anchors to the analog world,
-where things are slower and require more thought.
+Our [technology](/technology) rushed to the digital. Bujo remains one of
+my anchors to the analog world, where things are slower and require more
+thought. This persistence to go analong on things that matter to me is
+anti-capitalist by nature, because the act resists going fast.
 
 If you're curious what this is, read more in this [archived] article [here](https://web.archive.org/web/20210119165629/https://bulletjournal.com/pages/learn).
 

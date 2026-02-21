@@ -74,3 +74,14 @@ happens (e.g., have a lawyer friend on standby to bail you out). BUT DO
 NOT, I repeat, DO NOT wait to be arrested especially if it can be
 avoided. Police are a violent bunch; don't be surprised if an initially
 peaceful protest gets agitated by these uniformed people.
+
+## Organizing
+
+Organizing between more people than can fit around a dinner table is
+difficult, and ultimately pointless, in my honest opinion. We do not
+need a "big group"---as in a monolithic, centralized entity---to make
+meaningful changes.
+
+In my experience, lean groups, since they are able to work closely and
+on a personal level, can be more effective in achieving things they
+want.

@@ -117,3 +117,4 @@ for him to heal.
 ## World design and building
 
 - 90s aesthetics in many things, if not everything
+- a ecofascist (?) cult whose god is a centaur: body of a deer (visayan deer), with its "head" being a torso of a man, his left arm is a living balete, twice as long and twice the girth of the other human arm. The cult dares not name their god lest they offend him. He was a former human, sacrificed along with a deer, to the gods by burning to prevent foreign warmongers from invading their land.
