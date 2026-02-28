@@ -2,6 +2,7 @@ baseURL = "https://ohio.araw.xyz"
 languageCode = "en-us"
 title = "to oblique lair"
 enableGitInfo = true
+enableRobotsTXT = true
 
 [author]
     email = "ohio@araw.xyz"

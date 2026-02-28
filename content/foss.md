@@ -11,23 +11,18 @@ draft: false
 
 ## Default apps
 
-- Operating System: [Alpine Linux v3.22 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 13 "*trixie*"](https://www.debian.org/News/2025/20250809) (host server); Android (smartphone)
+- Operating System: [Alpine Linux v3.23 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 13 "*trixie*"](https://www.debian.org/News/2025/20250809) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
-- Web Browsers: [Firefox](https://www.firefox.com/en-US/) (laptop), [Firefox Klar](https://www.firefox.com/en-US/browsers/mobile/focus/) (Android)
-    - Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy
-      Badger, Wayback Machine
-    - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
-      Rural Dictionary, rimgo, Quetre)
+- Web Browsers: [LibreWolf](https://librewolf.net) (laptop), [Firefox Klar](https://www.firefox.com/en-US/browsers/mobile/focus/) (Android)
 - Search engine: [Startpage](https://www.startpage.com/)
 - Password manager: [Bitwarden](https://bitwarden.com/)
 - Email client: [aerc](https://aerc-mail.org)
 - Email providers: [Migadu](https://www.migadu.com/), [Tuta](https://tutanota.com/)
 - Torrent client: [Transmission](https://transmissionbt.com/)
 - Back-up/File Sync: [Syncthing](https://syncthing.net/)
-- Instant messaging: [Signal](https://signal.org/)
+- Instant messaging: [Signal](https://signal.org/), [Delta Chat](https://delta.chat)
 - RSS Feed reader: [newsraft](https://codeberg.org/newsraft/newsraft)
-- Music player: [Rhythmbox](http://www.rhythmbox.org/) (laptop); [Auxio](https://github.com/OxygenCobalt/Auxio) (Android)
-- Internet radio: [Shortwave](https://apps.gnome.org/Shortwave/)
+- Music player: [cmus](https://github.com/cmus/cmus) (laptop); [Auxio](https://github.com/OxygenCobalt/Auxio) (Android)
 - Video player: [mpv](https://mpv.io)
 - Notes: [vimwiki](https://vimwiki.github.io/) plugged into [neovim](https://neovim.io) (also my `$EDITOR` of choice)
 - Office suite: [LibreOffice](https://www.libreoffice.org)
@@ -39,17 +34,22 @@ draft: false
 ## Special Mentions
 
 - [Fedora Workstation](https://getfedora.org/en/workstation/) -- The
-  first Linux distro I used. Also currently using the [Budgie Spin](https://fedoraproject.org/spins/budgie) to run on an old laptop repurposed to be a media center.
+  first Linux distro I used. Also currently using the [Budgie
+  Spin](https://fedoraproject.org/spins/budgie) to run on an old laptop
+  repurposed to be a media center.
 - [OpenBSD](https://www.openbsd.org/) -- The one I used in [the Old Computer Challenge](/old-computer)
 - [Devuan 5 "Daedalus"](https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14)
   -- is a Debian-fork OS without systemd that used to be in my main
   computer before distro-hopping[^distro-hopping] to Alpine.
-- [LibreWolf](https://librewolf.net) -- For a while, I had used this
-  Firefox fork, but it was giving mild inconveniences in my new Alpine
-  setup. So, I switched back to Firefox.
 - [Tor Browser](https://www.torproject.org) -- For when I need to be
   anonymous on the internet. I don't use this much, but I have it just
   in case.
+- [Firefox](https://www.firefox.com/) -- not a fan of the direction they are heading, but
+  they are still a major player in web browser space.
+    - Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy
+      Badger, Wayback Machine
+    - Redirector set-up: [JSON file](/Redirector.json) (includes Scribe,
+      Rural Dictionary, rimgo, Quetre)
 - [Thunderbird](https://www.thunderbird.net/) - GUI email client I had used
   and is just reliable, though can be bloated at times.
 
@@ -79,9 +79,9 @@ and/or surveil my every move.
 
 ### ...why not?
 
-It can be hard, though, especially if Big Tech companies are embedded in
-our digital lives now (e.g., at work, employer forces you to use
-Microsoft Office Suite), whether we like it or not.
+It can be hard to choose FOSS, especially if Big Tech companies are
+embedded in our digital lives now (e.g., at work, employer forces you to
+use Microsoft Office Suite), whether we like it or not.
 
 At schools, are we teaching students how to use computers, or are we
 teaching them how to use products from Microsoft, Google, Adobe, and

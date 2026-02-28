@@ -41,7 +41,7 @@ alphabet:
 
 [**Threat Model**](/threat-modeling): Read, Change, Forge [the message/s between actors]
 
-[**Information Security**](/infosec) oals:
+[**Information Security**](/infosec) goals:
 - Confidentiality -- can't read our messages; only authorized users
   can access specific assets or data
 - Integrity -- can't change our messages; data is correct and

@@ -83,15 +83,13 @@ class people.
 
 When AI systems become agents on behalf of the user, doing things with
 some degree of autonomy, it will be *more* of a [privacy](/privacy) and
-[security](/security) nightmare.
-
-As it currently stands, they already are for women and children’s
+[security](/security) nightmare. As it currently stands, they already are for women and children’s
 safety, especially with apps that "nudify" photos.
 
 AI might be recording users’ data without their knowledge or
-[consent](/consent) which is a major privacy concern. People are now talking
-to ChatGPT as though it were a empathetic human friend. At Post-human
-Posting, the author FAFOs about this on his funny write up
+[consent](/consent) which is another major concern. People are now
+talking to ChatGPT as though it were a empathetic human friend. At
+Post-human Posting, the author FAFOs about this on his funny write up
 "[I Built an AI Girlfriend And It Ruined My Life](https://posthuman.blog/i-made-an-ai-gf/)".
 
 All of the intimate details that one shares with an LLM will go to a
@@ -133,7 +131,7 @@ made (emphasis and added hyperlink mine):
 ### Proliferation of misinformation
 
 Gen AIs normalize the spread of lies and misinformation. If our
-educators failed to teach the importance of critical thinking and the
+educators failed to teach the importance of [critical thinking](/critical-thinking) and the
 act of fact checking in the Age of (Mis)Information, then AI will be
 used to accelerate [fascism](/fascism) in many parts of the world.
 

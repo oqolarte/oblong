@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ohio.araw.xyz/330/</loc>
-    <lastmod>2026-02-21T17:01:45+08:00</lastmod>
-  </url><url>
     <loc>https://ohio.araw.xyz/</loc>
+    <lastmod>2026-02-28T12:54:54+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/331/</loc>
+    <lastmod>2026-02-28T12:54:29+08:00</lastmod>
+  </url><url>
+    <loc>https://ohio.araw.xyz/330/</loc>
     <lastmod>2026-02-21T17:01:45+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/329/</loc>
@@ -1376,8 +1379,8 @@
     <loc>https://ohio.araw.xyz/117/</loc>
     <lastmod>2023-02-20T22:12:50+08:00</lastmod>
   </url><url>
-    <loc>https://ohio.araw.xyz/being-critical/</loc>
-    <lastmod>2025-04-28T14:27:50+08:00</lastmod>
+    <loc>https://ohio.araw.xyz/critical-thinking/</loc>
+    <lastmod>2026-02-28T12:54:54+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/technological-disobedience/</loc>
     <lastmod>2024-11-23T18:19:45+08:00</lastmod>
@@ -2045,7 +2048,7 @@
     <lastmod>2026-01-09T17:21:34+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/wiki/</loc>
-    <lastmod>2026-02-21T17:00:24+08:00</lastmod>
+    <lastmod>2026-02-28T12:54:54+08:00</lastmod>
   </url><url>
     <loc>https://ohio.araw.xyz/log/</loc>
     <lastmod>2020-11-30T11:49:32+08:00</lastmod>

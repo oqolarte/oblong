@@ -5,6 +5,10 @@ draft: false
 math: false
 ---
 
+{{< toc >}}
+
+## Intro
+
 [Security](/Security) is more than simply combining processes and
 technologies to protect assets. Instead, security is about ensuring that
 these processes and technologies are creating a secure environment that

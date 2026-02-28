@@ -14,7 +14,7 @@ So, I try to [learn from the teachers on how they teach](/academy).
 
 We should be training students not necessarily to achieve high grades or
 get employed as soon as possible, but rather to be able to
-[critically think](/being-critical) and comprehend how society and the world around them works.
+[critically think](/critical-thinking) and comprehend how society and the world around them works.
 
 It is a syllabus complete with lesson plans that are:
 

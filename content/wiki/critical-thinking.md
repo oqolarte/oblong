@@ -1,8 +1,12 @@
 ---
-title: "Being critical of the current systems"
+title: "Critical thinking"
 date: 2023-02-13
 draft: false
 ---
+
+{{< toc >}}
+
+## Being critical of the current systems
 
 Participating in society while being critical of aspects of it is not
 hypocrisy. When we free ourselves from the harmful traditions of

@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 16:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 11:17:44 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -632,26 +632,18 @@ Have you heard about it? I think you&amp;rsquo;d be interested.&amp;rdquo;&lt;/l
 
 &lt;h2 id=&#34;default-apps&#34;&gt;Default apps&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Operating System: &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux v3.22 &lt;em&gt;stable&lt;/em&gt;&lt;/a&gt; (laptop, daily driver); &lt;a href=&#34;https://www.debian.org/News/2025/20250809&#34;&gt;Debian 13 &amp;ldquo;&lt;em&gt;trixie&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); Android (smartphone)&lt;/li&gt;
+&lt;li&gt;Operating System: &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux v3.23 &lt;em&gt;stable&lt;/em&gt;&lt;/a&gt; (laptop, daily driver); &lt;a href=&#34;https://www.debian.org/News/2025/20250809&#34;&gt;Debian 13 &amp;ldquo;&lt;em&gt;trixie&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); Android (smartphone)&lt;/li&gt;
 &lt;li&gt;Tiling window manager: &lt;a href=&#34;https://swaywm.org/&#34;&gt;sway&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Web Browsers: &lt;a href=&#34;https://www.firefox.com/en-US/&#34;&gt;Firefox&lt;/a&gt; (laptop), &lt;a href=&#34;https://www.firefox.com/en-US/browsers/mobile/focus/&#34;&gt;Firefox Klar&lt;/a&gt; (Android)
-&lt;ul&gt;
-&lt;li&gt;Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy
-Badger, Wayback Machine&lt;/li&gt;
-&lt;li&gt;Redirector set-up: &lt;a href=&#34;https://ohio.araw.xyz/Redirector.json&#34;&gt;JSON file&lt;/a&gt; (includes Scribe,
-Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;Web Browsers: &lt;a href=&#34;https://librewolf.net&#34;&gt;LibreWolf&lt;/a&gt; (laptop), &lt;a href=&#34;https://www.firefox.com/en-US/browsers/mobile/focus/&#34;&gt;Firefox Klar&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;li&gt;Search engine: &lt;a href=&#34;https://www.startpage.com/&#34;&gt;Startpage&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Password manager: &lt;a href=&#34;https://bitwarden.com/&#34;&gt;Bitwarden&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email client: &lt;a href=&#34;https://aerc-mail.org&#34;&gt;aerc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email providers: &lt;a href=&#34;https://www.migadu.com/&#34;&gt;Migadu&lt;/a&gt;, &lt;a href=&#34;https://tutanota.com/&#34;&gt;Tuta&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Torrent client: &lt;a href=&#34;https://transmissionbt.com/&#34;&gt;Transmission&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Back-up/File Sync: &lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Instant messaging: &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instant messaging: &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;, &lt;a href=&#34;https://delta.chat&#34;&gt;Delta Chat&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;RSS Feed reader: &lt;a href=&#34;https://codeberg.org/newsraft/newsraft&#34;&gt;newsraft&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Music player: &lt;a href=&#34;http://www.rhythmbox.org/&#34;&gt;Rhythmbox&lt;/a&gt; (laptop); &lt;a href=&#34;https://github.com/OxygenCobalt/Auxio&#34;&gt;Auxio&lt;/a&gt; (Android)&lt;/li&gt;
-&lt;li&gt;Internet radio: &lt;a href=&#34;https://apps.gnome.org/Shortwave/&#34;&gt;Shortwave&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Music player: &lt;a href=&#34;https://github.com/cmus/cmus&#34;&gt;cmus&lt;/a&gt; (laptop); &lt;a href=&#34;https://github.com/OxygenCobalt/Auxio&#34;&gt;Auxio&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;li&gt;Video player: &lt;a href=&#34;https://mpv.io&#34;&gt;mpv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Notes: &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;vimwiki&lt;/a&gt; plugged into &lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; (also my &lt;code&gt;$EDITOR&lt;/code&gt; of choice)&lt;/li&gt;
 &lt;li&gt;Office suite: &lt;a href=&#34;https://www.libreoffice.org&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
@@ -663,17 +655,25 @@ Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
 &lt;h2 id=&#34;special-mentions&#34;&gt;Special Mentions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://getfedora.org/en/workstation/&#34;&gt;Fedora Workstation&lt;/a&gt; &amp;ndash; The
-first Linux distro I used. Also currently using the &lt;a href=&#34;https://fedoraproject.org/spins/budgie&#34;&gt;Budgie Spin&lt;/a&gt; to run on an old laptop repurposed to be a media center.&lt;/li&gt;
+first Linux distro I used. Also currently using the &lt;a href=&#34;https://fedoraproject.org/spins/budgie&#34;&gt;Budgie
+Spin&lt;/a&gt; to run on an old laptop
+repurposed to be a media center.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.openbsd.org/&#34;&gt;OpenBSD&lt;/a&gt; &amp;ndash; The one I used in &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;the Old Computer Challenge&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14&#34;&gt;Devuan 5 &amp;ldquo;Daedalus&amp;rdquo;&lt;/a&gt;
 &amp;ndash; is a Debian-fork OS without systemd that used to be in my main
 computer before distro-hopping&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; to Alpine.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://librewolf.net&#34;&gt;LibreWolf&lt;/a&gt; &amp;ndash; For a while, I had used this
-Firefox fork, but it was giving mild inconveniences in my new Alpine
-setup. So, I switched back to Firefox.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.torproject.org&#34;&gt;Tor Browser&lt;/a&gt; &amp;ndash; For when I need to be
 anonymous on the internet. I don&amp;rsquo;t use this much, but I have it just
 in case.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.firefox.com/&#34;&gt;Firefox&lt;/a&gt; &amp;ndash; not a fan of the direction they are heading, but
+they are still a major player in web browser space.
+&lt;ul&gt;
+&lt;li&gt;Browser add-ons: uBlock Origin, Redirector, SponsorBlock, Privacy
+Badger, Wayback Machine&lt;/li&gt;
+&lt;li&gt;Redirector set-up: &lt;a href=&#34;https://ohio.araw.xyz/Redirector.json&#34;&gt;JSON file&lt;/a&gt; (includes Scribe,
+Rural Dictionary, rimgo, Quetre)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt; - GUI email client I had used
 and is just reliable, though can be bloated at times.&lt;/li&gt;
 &lt;/ul&gt;
@@ -700,9 +700,9 @@ and/or surveil my every move.&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;why-not&#34;&gt;&amp;hellip;why not?&lt;/h3&gt;
-&lt;p&gt;It can be hard, though, especially if Big Tech companies are embedded in
-our digital lives now (e.g., at work, employer forces you to use
-Microsoft Office Suite), whether we like it or not.&lt;/p&gt;
+&lt;p&gt;It can be hard to choose FOSS, especially if Big Tech companies are
+embedded in our digital lives now (e.g., at work, employer forces you to
+use Microsoft Office Suite), whether we like it or not.&lt;/p&gt;
 &lt;p&gt;At schools, are we teaching students how to use computers, or are we
 teaching them how to use products from Microsoft, Google, Adobe, and
 other big tech companies? When these are baked into the curriculum early

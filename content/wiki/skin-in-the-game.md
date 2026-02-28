@@ -192,7 +192,7 @@ other people's skin in their game.
 
 In the Philippines, the norm for many [has-been] celebrities is to run
 for public office for their enrichment. This is unethical, according to
-Taleb, and many Filipinos who are still fond of critical thinking would
+Taleb, and many Filipinos who are still fond of [critical thinking](/critical-thinking) would
 agree with him.
 
 > *Who watches the watchmen?*  
