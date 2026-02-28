@@ -11,7 +11,7 @@ draft: false
 
 ## Default apps
 
-- Operating System: [Alpine Linux v3.23 *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 13 "*trixie*"](https://www.debian.org/News/2025/20250809) (host server); Android (smartphone)
+- Operating System: [Alpine Linux latest *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 13 "*trixie*"](https://www.debian.org/News/2025/20250809) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
 - Web Browsers: [LibreWolf](https://librewolf.net) (laptop), [Firefox Klar](https://www.firefox.com/en-US/browsers/mobile/focus/) (Android)
 - Search engine: [Startpage](https://www.startpage.com/)
