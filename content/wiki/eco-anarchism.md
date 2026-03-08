@@ -17,31 +17,36 @@ and [primitivist](/primitivism) conceptions.
 
 ## Our relationship with nature
 
-When all my life I have lived in what I have recently come to believe is
-a slow yet constant [collapse](/collapse); when the smart and so-called
-progressive people around me had convinced me that humans' relationship
-with nature could be anything but cynical; and when I have personally
-experienced the spikes of climate catastrophes; it is hard to imagine a
-future in which humans would have lasting positive interactions with the
-[flora](/plants) and fauna around us. But if we are to learn from the wisdom of
-Indigenous Peoples (IPs), harmonious coexistence not only is possible, it is
-necessary for all things to thrive. More modern interpretations of
-"sustainable living" include lowering the current standards of living.
-But arguable, IPs, especially those of coastal old-growth forests, were
-among the wealthiest in the world.
+When all my life I have lived in what I realize is a slow yet constant
+[collapse](/collapse); when the smart and so-called progressive people
+around me had convinced me that humans' relationship with nature could
+be anything but cynical; and when I have personally experienced the
+spikes of climate catastrophes; it is hard to imagine a future in which
+humans would have lasting positive interactions with the
+[flora](/plants) and fauna around us. But if we are to learn from the
+wisdom of Indigenous Peoples (IPs), harmonious coexistence not only is
+possible, it is necessary for all things to thrive. More modern
+interpretations of "sustainable living" include lowering the current
+standards of living. But arguably, IPs, especially those of coastal
+old-growth forests, were among the wealthiest in the world, meaning that
+their way of life is anything but poor.
 
 Indeed, we have changed the world so
 much that many of the indigenous practices of living with nature is at
 best frowned upon, at worst would merit jail time.
 
 If we humans accept that we need to work together in keeping the planet
-habitable for us all, we might just have a chance at preserving our species
-longer.
+habitable for us all, we might just have a chance at preserving our
+species longer.
 
-Of course, the planet will heal in time. But its current [destruction](/destruction)
-will leave millions, if not billions, dying who did not
-[consent](/consent) to it. The reason why "we cannot have nice things" because generally
-we are not nice to other people. Not everyone has to be friends---it's
+Of course, the planet will heal in time. But its current
+[destruction](/destruction) will leave millions, if not billions, dying
+who did not [consent](/consent) to it. Sure, long after the violence of
+humans are gone, its sounds will echo through nature. If no one
+recognizes them, what would it feel?
+
+The reason why "we cannot have nice things" because generally we are not
+nice to other people. Not everyone has to be friends---it's
 impossible---but can we at least default to being kind?
 
 ## Looking at the current systems realistically
