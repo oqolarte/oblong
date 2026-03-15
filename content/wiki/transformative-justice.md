@@ -80,10 +80,10 @@ the environment that enable the harm, we could start using shame as a
 way to discipline wrong-doers. Shame is a powerful social construct. We
 can see this in some Asian [cultures](/culture) like the Japanese.
 
-I don't necessarily mean to weaponize shame, as it is done in cancel culture.
-Perhaps, we could think of ways to develop social relations that
-emphasizes, for example, how shameful it is for one to cause harm to the
-community that provides one their basic needs.
+I don't necessarily mean to weaponize shame, as it is done in cancel
+culture. Perhaps, we could think of ways to develop social relations
+that emphasizes, for example, how shameful it is for one to cause harm
+to the community that provides one their basic needs.
 
 Still, it's also worth thinking how we as a community might stop
 ourselves from collectively weaponizing shame to, say,
@@ -94,6 +94,24 @@ beliefs are not the same as ours.
 
 Sometimes, talking just doesn't work. *What if* beating up an abuser is
 also part of the necessary collective healing process?
+
+We should not give to the state the responsibility to "rehabilitate"
+offenders. Because we know the state hardly rehabilitates them. On the
+contrary, it just hardens them most of the time.
+
+For them to reflect on their mistakes, community-driven efforts should
+be encouraged. "Canceling" is one form, "*bugbugin*" (beating up) is
+another.
+
+That way, the offenders may learn (the hard way) how such practices are
+not accepted by the community and that there are repercussions to their
+actions. All people cannot live in isolation, for humans are social
+beings. Community-driven efforts should highlight that.
+
+Violence of the state should also be differentiated from
+community-inflicted violence. The former is carceral and punitive, while
+the latter is relational, reparative, and accountability-based (if not
+transformative in nature).
 
 ## Participation of community
 

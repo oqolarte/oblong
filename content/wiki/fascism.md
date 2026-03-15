@@ -35,6 +35,13 @@ having the position of "president" gives the person the powers and
 rights of the leader of the executive office *regardless of how the
 achieved that position.*
 
+Fascism is the cry of those with partial privilege over the loss or
+potential loss of those privileges. Hence why it attracts men at a time
+of erosion of [patriarchy](/patriarchy). Why historically it attracted
+French peasants (proto-fascist Bonapartists in France) or Weltkrieg
+veterans (Weimar Germany), and ultimately, the petty bourgeoisie in
+Italy and Germany.
+
 A belief that it's the position that matters, and not the support of the
 people, or the democratic process, etc. that matters, then that means
 two things:
