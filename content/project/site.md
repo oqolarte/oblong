@@ -430,11 +430,19 @@ current tech they have.
 
 Here are some other sites from which I also got inspiration:
 
-- [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com). Their article on [how to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html) is eye-opening.
-- [1MB Club](https://1mb.club), and it's contemporaries, [512KB Club](https://512kb.club), [250KB Club](https://250kb.club).
+- [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com). Their article
+  on [how to build a low-tech
+  website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)
+  is eye-opening.
+- [1MB Club](https://1mb.club), and it's contemporaries, [512KB
+  Club](https://512kb.club), [250KB Club](https://250kb.club).
 - "[This is an Actual Website](https://actualwebsite.org/)"
-- [Dan Luu's website](https://danluu.com), although it begs a few design tweaks to improve readability.
+- [Dan Luu's website](https://danluu.com), although it begs a few design
+  tweaks to improve readability.
 - [Brutalist Web Design](https://brutalist-web.design/)
-- And other small, obscure personal blogs in the "smol net" and "dork web" that we have yet to discover.
+- [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/), A Manifesto for
+  Preserving Content on the Web by Jeff Huang
+- And other small, obscure personal blogs in the "smol net" and "dork
+  web" that we have yet to discover.
 
 {{< btt >}}
