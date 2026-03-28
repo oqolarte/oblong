@@ -13,10 +13,11 @@ One bright day, we were traveling along EDSA---Epifanio de los Santos
 Avenue, one of the main highways in Metro Manila, along which, buildings
 of various shapes and sizes stand---when I saw a closed-down building
 with its few steps to the facade occupied with rolls of barbed wire.
-This is **hostile architecture**, designed and installed ad hoc
-to deter homeless people from squatting the space. Not to mention, it
-also makes any space uglier and less welcoming. Now we can say that we
-should not put all faith in [design](/design).
+This is **hostile architecture**, designed and installed---sometimes ad
+hoc, sometimes included as part of its original design---to deter
+homeless people from squatting the space. Not to mention, it also makes
+any space uglier and less welcoming. Now we can say that we should not
+put all faith in [design](/design).
 
 Hostile architecture in general not only targets homeless people, but
 also anyone, to limit their behavior in whatever way in public spaces.

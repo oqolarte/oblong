@@ -27,7 +27,7 @@ populous regions.
 
 ## Jose P. Laurel
 
-1. [Pleaded for the acquittal of Ferdinand Marcos](https://martiallawmuseum.ph/magaral/young-marcos/)
+1. [Pleaded for the acquittal of Ferdinand Marcos](https://web.archive.org/web/20240615071220/https://martiallawmuseum.ph/magaral/young-marcos/)
 2. His puppet government was extremely passive
 
 ## Sergio Osmeña
