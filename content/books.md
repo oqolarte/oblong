@@ -13,11 +13,11 @@ finish reading.
 
 ## Currently reading
 
-| Book Title                  | Author/s                        |
-|-----------------------------|---------------------------------|
-| The Botany of Empire        | Banu Subramaniam                |
-| The Dawn of Everything      | David Graeber and David Wengrow |
-| God Emperor of Dune         | Frank Herbert                   |
+| Book Title             | Author/s                        |
+|------------------------|---------------------------------|
+| The Dawn of Everything | David Graeber and David Wengrow |
+| God Emperor of Dune    | Frank Herbert                   |
+| Mutual Aid             | Dean Spade                      |
 
 ## Completed
 
@@ -139,3 +139,8 @@ for me.
 **Why**: While it has some nuggets of [barrio wisdom](/rural-ph), most
 of the text is outdated; and I find it hard to relate to many of the
 anecdotes.
+
+***The Botany of Empire*** by **Banu Subramaniam**  
+**Why**: No good reason other than I have no mental capacity for it
+lately. It *is* a good book. Perhaps, in the future I might return to
+it.
