@@ -16,3 +16,5 @@ Japanese/English/Tagalog
    monitor the 1st 3S
 5. **Shitsuke (躾)/Sustain/Sariling-kusa**: Maintain a stabilized workplace
    through continuous improvement
+6. **Safety**: proactively eliminate hazard
+7. **Spirit**: promote morale

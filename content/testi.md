@@ -56,4 +56,8 @@ for clarity and/or anonymized for privacy.
 
 > "[Siya] ang idea ko ng gwapo. ([He is] my idea of handsome.)"
 
+> "*soafer witty mo talaga mr ohio, feel ko dapat mag stand-up comedy
+> ka* (You are *so* witty, Mr. Ohio, I feel like you should be in
+> stand-up comedy.)"
+
 *More soon...*

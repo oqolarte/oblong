@@ -33,6 +33,22 @@ This way, the program will start reading (and immediately writing)
 at the specified time stamp,
 i.e., `00:16:00` in this case.
 
+## Convert mp4 to GIF
+
+`ffmpeg -i /path/to/video.mp4 -vf "fps=24,scale=500:1" -loop 0 output.gif`
+
+where:
+
+`-i /path/to/video.mp4` -- is the input file
+
+`-vf "fps=24,scale=500:1"` -- sets the frames per second (fps) and
+resizes to 500 pixels wide and automatically determine
+the height while preserving the aspect ratio.
+
+`-loop 0` -- a value of 0 is infinite looping
+
+`output.gif` -- is the output file
+
 ## Command loop
 
 Sample Bash [script](/noautorotate.sh) for looping ffmpeg commands
@@ -40,3 +56,4 @@ Sample Bash [script](/noautorotate.sh) for looping ffmpeg commands
 ## Resources
 
 [How to: Prepare video for YouTube with FFmpeg](https://obrien.engineer/how-to-prepare-video-for-youtube-ffmpeg/)
+[How do I convert a video to GIF using ffmpeg, with reasonable quality?](https://superuser.com/questions/556029/how-do-i-convert-a-video-to-gif-using-ffmpeg-with-reasonable-quality)

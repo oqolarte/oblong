@@ -5,6 +5,9 @@ draft: false
 math: false
 ---
 
+writerDecks are personal computers specifically set up as only a writing
+tool. Most, if not all, "distractions" are removed.
+
 {{< toc >}}
 
 ## Inspiration
