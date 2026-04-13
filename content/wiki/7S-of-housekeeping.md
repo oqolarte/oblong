@@ -1,5 +1,5 @@
 ---
-title: "5S of housekeeping"
+title: "7S of housekeeping"
 date: 2025-02-25
 draft: false
 math: false
