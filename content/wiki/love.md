@@ -127,7 +127,7 @@ there's an abundance of production of Anything. Instead of just
 producing, why not create a work of [art](/art)? Instead of just
 consuming, can I just be with myself without worrying of survival?
 
-Imagine if [religious people](/religion) practice love instade of spreading hate in
+Imagine if [religious people](/religion) practice love instead of spreading hate in
 the name of their spiritual belief?
 
 hooks tries to describe love in terms of how it is a "higher level of

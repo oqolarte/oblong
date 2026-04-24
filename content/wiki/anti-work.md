@@ -16,14 +16,15 @@ Let's define *Work* as all activity that makes profit, whether for
 oneself or someone else. So this includes not only wage labor, but also
 slave labor, prison labor, unpaid housework, internships, and many more
 forms of self-employment, which we find doing as required by our needs
-(to get by, to not be unalive, to have a decent living, etc.).
+(to get by, to not be dead, to have a decent living, etc.).
 
-Anti-work, in this context, then means a practice that
+Anti-work, in this context, then is a practice that
 obsoletes the need to work
 (i.e., that which results to someone's profit),
 like how anti-matter destroys matter.
 Because we are not meant to live like this:
-Grinding away our lives for the Hustle.
+Grinding away our lives for the Hustle, because we face the constraints
+of the [empire](/empire) that does not have our best interests.
 You may have it worse if you're a gig worker: companies have exploited
 anyone who have worked in the gig industry by ignoring labor laws and
 sometimes paying less than minimum wage.
@@ -33,9 +34,9 @@ sometimes paying less than minimum wage.
 We are meant to live in [loving communities](/friendship)
 in which we can [help each other meet our daily needs](/mutual-aid).
 
-Power Gets Things Done, but at the hands of Authority it also oppresses people.
-The state does this in the public sphere, and your average CEO does it in the
-workplace.
+Power Gets Things Done, but at the hands of Authority it also oppresses
+people. The state does this in the public sphere, and your average CEO
+does it in the workplace.
 
 In an ideal world, we would be okay with lower-case-w "work" as
 *any activity or purposeful intent towards some goal*.
