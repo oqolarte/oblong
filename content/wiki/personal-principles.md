@@ -24,7 +24,7 @@ Hopefully they help me:
 - Listen to people especially when they're [being] vulnerable.
 - Don't give advice I'm not following myself.
 - Have an open mind, but know when to be firm and stand your ground.
-- When in doubt, ask for consent.
+- When in doubt, ask for [consent](/consent).
 - [If you have extra, share. If you're empty, ask for help](/mutual-aid).
 - Recognize the strengths of those around me and celebrate them.
 - Context matters.

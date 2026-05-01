@@ -66,10 +66,10 @@ time[.]" Carey further asks:
 
 ### Slop as result of offloading creativity to AI
 
-I believe that the "chore" was menial and dirty jobs that machines could
-do better and quicker while also freeing up humans of time.
+I believe that a "chore" is any menial and dirty job that machines could
+do better and quicker, which consequently frees up humans of time to do other things.
 
-If, on the other hand, the chore is creativity, then I don't want AI
+On the other hand, creativity---creating things out of the desire to express oneself---is not a chore. I don't want AI
 "solving" that "problem", especially if the consequence is ingesting
 works of art and blending them all into bland slop for lazy
 creative-wannabes.
@@ -180,3 +180,4 @@ ability to access wealth.
 - [AI Cleanup/catchphrases compilation in Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup/AI_catchphrases)
 - [Short toot from Alex Ștefănescu](https://chaos.social/@catileptic/114879931445497328) about "brainstorming with ChatGPT"
 - [The Reverse-Centaur's Guide to Criticizing AI](https://pluralistic.net/2025/12/05/pop-that-bubble/) by Cory Doctorow
+- https://codeberg.org/small-hack/open-slopware
