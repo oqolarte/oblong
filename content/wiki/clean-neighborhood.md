@@ -1,7 +1,7 @@
 ---
 title: "Observing the neighborhood's cleanliness"
 date: 2025-12-23
-draft: true
+draft: false
 math: false
 ---
 
