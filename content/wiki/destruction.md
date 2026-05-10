@@ -102,3 +102,24 @@ carla joy bergman [toots](https://kolektiva.social/@joyfulcarla/1153397106839297
 > I feel like we need to say Destroy (and do the destroying) much more
 > often when talking about ending [oppression and institutions](/empire) that do
 > and incite harm...
+
+### Serotiny
+
+Tala writes about it in their essay,
+"[a sea of fire / a field of flowers (serotiny)](https://tala.bearblog.dev/a-sea-of-fire-a-field-of-flowers-serotiny/)":
+
+> In the aftermath of a wildfire, a forest looks like an ending: charred
+> trunks, thinned canopies, ash seeping into mud. But underneath the
+> surface things are already moving, like the germination of the seeds,
+> now cracked open, releasing. What looks like an aftermath to a
+> catastrophe is already morphing into new growth and beginnings.
+
+In the Wikiperida article for [serotiny](https://en.wikipedia.org/wiki/Serotiny):
+
+> In the case of certain Australian, North American, South African or
+> Californian plants which grow in areas subjected to regular wildfires,
+> serotinous fruit can also mean an ecological adaptation exhibited by
+> some seed plants, in which seed release occurs in response to an
+> environmental trigger, rather than spontaneously at seed maturation.
+> The most common and best studied trigger is fire, and the term
+> serotiny is used to refer to this specific case.

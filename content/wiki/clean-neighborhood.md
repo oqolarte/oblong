@@ -8,7 +8,7 @@ math: false
 Lately, the neighborhood I live in has been accumulating filth, mostly
 in the form of flattened dried dog poop on the streets.
 
-I'm sure this is common occurence in many cities around the world. This
+I'm sure this is common occurrence in many cities around the world. This
 is just me trying to process why I must now make more effort in avoiding
 squished shit than before.
 
