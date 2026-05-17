@@ -6,7 +6,7 @@ math: false
 ---
 
 IP spoofing is a network attack performed when an attacker changes the
-source IP of a data packet to impersonate the IP and MAC addresses of an
+source IP of a data packet to impersonate the IP and [MAC addresses](/MAC-address) of an
 authorized system and gain access to a [network](/network). In this kind
 of attack, the hacker is pretending to be someone they are not so they
 can communicate over the network with the target [computer](/computer)

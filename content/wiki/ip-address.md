@@ -4,9 +4,44 @@ date: 2024-12-25
 draft: false
 math: false
 ---
+
 An IP ([internet](/internet) protocol) address is used to identify any device connected to a [network](/network).
 
 {{< toc >}}
+
+## What is
+
+IP address can be used as a way to identify a host on a network for a
+period of time.
+
+An IP address is a set of numbers divided into four octets.
+
+```
+192.168.1.1
+ |   |  | |
+ |   |  | ∟--- octet #4
+ |   |  ∟----- octet #3
+ |   ∟-------- octet #2
+ ∟------------ octet #1
+```
+
+## Headers of packets using IP
+
+A packet using this protocol will have a set of headers that contain
+additional pieces of information to the data that is being sent across a
+network.
+
+Time to live
+: sets an expiry timer for the packet to not clog up your network if it never manages to reach a host or escape!
+
+checksum
+: provides integrity (i.e., assurance that data has not been tampered with) checking for protocols such as TCP/IP. If any data is changed, this value will be different from what was expected and therefore corrupt.
+
+source address
+: The IP address of the device that the packet is being sent from so that data knows where to return to.
+
+destination address
+: The device's IP address the packet is being sent to so that data knows where to travel next.
 
 ## As an IoC
 

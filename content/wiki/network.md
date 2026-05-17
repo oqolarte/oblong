@@ -17,8 +17,8 @@ connections.
 Devices need to find each other on a network to establish
 communications. These devices will use unique addresses, or identifiers,
 to locate each other. The addresses will ensure that communications
-happens with the right device. These are called the [IP](/ip-address) and MAC
-addresses.
+happens with the right device. These are called the [IP](/ip-address) and
+[MAC addresses](/MAC-address).
 
 {{< figure src="/image/network.png" alt="A diagram showing how multiple devices connected in a network" caption="A router connects to the internet through a modem, which is provided by your internet service provider (ISP). The firewall is a security device that monitors incoming and outgoing traffic on your network. The router then directs traffic to the devices on your home network, which can include computers, laptops, smartphones, tablets, printers, and other devices. You can imagine here that the server is a file server. All devices on this network can access the files in this server. This diagram also includes a switch which is an optional device that can be used to connect more devices to your network by providing additional ports and Ethernet connections. Additionally, there are 2 routers connected to the switch here for load balancing purposes which will improve the performance of the network." >}}
 
@@ -51,7 +51,7 @@ Common network intrusion attacks include:
 ### Types of networks
 
 Devices can communicate on two types of networks:
-a local area network, also known as a LAN,
+a [local area network](/local-area-network), also known as a LAN,
 and a wide area network, also known as a WAN.
 
 A **local area network**, or LAN,
@@ -196,7 +196,7 @@ transmitted across the network. It has 4 layers:
    their transmission across a network. This includes hardware devices
    connected to physical cables and switches that direct data to its
    destination. Includes the following protcol/s:
-    - Address Resolution Protocol (ARP): is used to translate the IP
+    - [Address Resolution Protocol](/address-resolution-protocol) (ARP): is used to translate the IP
       addresses that are found in data packets into the MAC address
       of the hardware device. Each device on the network performs ARP
       and keeps track of matching IP and MAC addresses in an ARP
@@ -290,7 +290,7 @@ transmitted across the network. It has 4 layers:
       a network device or change its baseline configuration. It can
       also send requests to network devices for a report on how much
       of the network’s bandwidth is being used up.
-    - Dynamic Host Configuration Protocol (DHCP): works with the
+    - [Dynamic Host Configuration Protocol](/dynamic-host-configuration-protocol) (DHCP): works with the
       router to assign a unique IP address to each device and provide
       the addresses of the appropriate DNS server and default gateway
       for each device. DHCP servers operate on UDP port 67 while DHCP
@@ -302,7 +302,7 @@ transmitted across the network. It has 4 layers:
 
 ### OSI Model
 
-OSI stands for Open Systems Interconnection. The OSI model is a
+OSI stands for [Open Systems Interconnection](/open-systems-interconnection). The OSI model is a
 standardized concept that describes the seven layers computers use to
 communicate and send data over the network.
 
