@@ -69,17 +69,18 @@ that the ruling class intends on keeping only for themselves.
 
 I mention the *know-how*, because not everyone has the time nor
 resources to choose privacy-respecting options, especially in tech.
-Let's remember that many of us our living in poverty, and yet they
-deserve to have privacy, and not just have their data taken from them
-without their consent.
+Let's remember that many of us our living in poverty, and yet we all
+deserve to have privacy, and not just have our data taken from us
+without their [consent](/consent).
 
 ## Legally protected information
 
 Data is more than just a bunch of 1s and 0s being processed by a
-[computer](/computer). Data can represent someone's personal thoughts,
-actions, and choices. It can represent a purchase, a sensitive medical
-decision, and everything in between. For this reason, data owners should
-be the ones deciding whether or not to share their data.
+[computer](/computer). Data in the information age can represent
+someone's personal thoughts, actions, and choices. It can represent a
+purchase, a sensitive medical decision, and everything in between. For
+this reason, data owners should be the ones deciding whether or not to
+share their data.
 
 Securing data can be challenging. In large part, that's because data
 owners generate more data than they can manage. As a result, data
