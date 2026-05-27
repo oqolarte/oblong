@@ -46,7 +46,11 @@ Or, more things to consider:
 - Perimeter walls with double walling; use reclaimed pallette
 - Chamfered corners and edges for walls
 - If two story or more high: High ceiling with mezzanine and/or loft
-- Roof: rainwater collection system, solar panels; roof deck (optional), plants;
+- Roof:
+    - rainwater collection system: https://www.rainyfilters.com/
+    - solar panels;
+    - roof deck (optional),
+    - plants;
   hip or gable; vent turbine for ventilation
 - window, accordion screen, sliding
 - Garage: optional
