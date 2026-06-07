@@ -69,3 +69,16 @@ in their post,
 
 > The correct term for age verification as it is implemented today is
 > therefore identity verification.
+
+Identity verification is a [privacy](/privacy) and [security](/security)
+nightmare for a number of reasons:
+
+1. **The database storing the PII is a honeypot for hackers**. If a
+   [KYC](https://en.wikipedia.org/wiki/Know_your_customer) (know your
+   customer) vendor gets compromised, the users face long-term identity
+   theft risk.
+2. **PII are exposed to different third-party data brokers**. Most
+   businesses do not have their own verification technology. They
+   outsource it third-party KYC platforms. This means customer data is
+   passed through multiple hands, increasing surface area for data
+   leaks.

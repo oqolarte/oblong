@@ -239,6 +239,8 @@ simple lives and do not present themselves in a flashy manner.
 
 ## Divination
 
+> True love is possible wherever imagination thrives.
+
 "Meeting an angel," or experiencing something similar, can be
 interpreted as a personal divination of one's suffering and how they
 wrestle with it head on. 

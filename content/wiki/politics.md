@@ -14,7 +14,7 @@ the reader to discern which "side" of history I am in.
 
 {{< toc >}}
 
-## Stratetgies
+## Strategies
 - [abolition](/abolition)
 - [animal liberation](/animal-liberation)
 - [anonymous consumer](/anon-consumer)
@@ -41,6 +41,7 @@ the reader to discern which "side" of history I am in.
 - [academy](/academy)
 - [activism](/activism)
 - [apoliticism](/apolitical)
+- [authoritarianism](/authoritarianism)
 - [authority](/authority)
 - [collapse](/collapse)
 - [conspiracy theory](/conspiracy-theory)

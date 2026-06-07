@@ -12,6 +12,14 @@ will never be needed again ever.
 
 {{< toc >}}
 
+## Why
+
+The criminal legal system is *not* broken.
+
+It is working as designed, that is, to enforce violence against
+marginalized communities while not addressing the root causes why crimes
+happen.
+
 ## How laws can be destructive
 
 Laws (both coercive and punitive) are created to protect money, private
@@ -27,7 +35,7 @@ necessarily collapse at the expense of many lives.
 
 While we criticize the need for laws (institutionalized), that is not to
 say that we do not need rules. We would still need rules in an "ideal
-society" but they would be more fluid and [community-led](/community).
+society" but they would be more fluid and community-led.
 
 ## On prisons
 
