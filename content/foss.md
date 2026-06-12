@@ -5,7 +5,7 @@ keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "oqo"]
 draft: false
 ---
 
-{{< figure src="/image/fastfetch.png" alt="Screenshot of desktop, including Operating System Details" caption="`sway` tiling window manager. Left half: Firefox; upper right: `fastfetch` in `foot`; lower right: `imv` viewing an image" >}}
+{{< figure src="/image/fastfetch.png" alt="Screenshot of desktop, including Operating System Details" caption="`sway` tiling window manager. Left half: Librewolf; upper right: `fastfetch` in `foot`; lower right: `imv` viewing an image" >}}
 
 {{< toc >}}
 

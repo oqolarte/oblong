@@ -1736,12 +1736,12 @@ but I only trimmed, re-encoded, and concatenated the videos.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;trimming-videos&#34;&gt;Trimming Videos&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -i &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;INPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; -t &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt; -c copy &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;OUTPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -i &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;INPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; -t &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt; -c copy &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;OUTPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;where:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;-t 8&lt;/code&gt; &amp;ndash; Only write out the first 8 seconds.&lt;br&gt;
 &lt;code&gt;-c copy&lt;/code&gt; &amp;ndash; instead of re-encoding the entire file,
 this command just copies it, making rendering the output faster.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -ss 00:16:00 -to 00:16:30 -i &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;INPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; -c copy &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;OUTPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -ss 00:16:00 -to 00:16:30 -i &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;INPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; -c copy &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;OUTPUT FILE&lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;where:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;-ss 00:16:00&lt;/code&gt; &amp;ndash; is the time stamp where the program would start writing data
 to output file.&lt;br&gt;
@@ -1765,8 +1765,8 @@ that gets carried over the succeeding clips.&lt;/p&gt;
 &lt;a href=&#34;https://stackoverflow.com/questions/21634088/execute-ffmpeg-command-in-a-loop&#34;&gt;bash script&lt;/a&gt;
 that loops through all of the clips,
 and re-encodes them one by one:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#!/bin/bash
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#!/bin/bash
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;find . -name &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;*.mp4&amp;#39;&lt;/span&gt; | &lt;span style=&#34;color:#66d9ef&#34;&gt;while&lt;/span&gt; read f; &lt;span style=&#34;color:#66d9ef&#34;&gt;do&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        ffmpeg -nostdin -i &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;$f&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt; -c:a copy &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;f%.*&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;x.mp4&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;done&lt;/span&gt;
@@ -1776,20 +1776,20 @@ and re-encodes them one by one:&lt;/p&gt;
 &lt;p&gt;In this context,
 concatenation means linking all the clips to make a final cut.
 &lt;a href=&#34;https://trac.ffmpeg.org/wiki/Concatenate&#34;&gt;More info here&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -f concat -safe &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; -i mylist.txt -c copy output.mp4
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ffmpeg -f concat -safe &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; -i mylist.txt -c copy output.mp4
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;where:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;-f concat&lt;/code&gt; &amp;ndash; is the concatenation flag.&lt;br&gt;
 &lt;code&gt;-safe 0&lt;/code&gt; &amp;ndash; is safe mode for concat demuxer, set to 0.&lt;br&gt;
 &lt;code&gt;mylist.txt&lt;/code&gt; &amp;ndash; is the list of video clips to be concatenated,
 which follows the format:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# contents of mylist.txt
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-txt&#34; data-lang=&#34;txt&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# contents of mylist.txt
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# this is a comment
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;file &amp;#39;/path/to/file1.mp4&amp;#39;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;file &amp;#39;/path/to/file2.mp4&amp;#39;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;file &amp;#39;/path/to/file3.mp4&amp;#39;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To automatically generate &lt;code&gt;mylist.txt&lt;/code&gt;,
 either of the following bash command will do:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# with a bash for loop&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# with a bash for loop&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; f in *.mp4; &lt;span style=&#34;color:#66d9ef&#34;&gt;do&lt;/span&gt; echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;file &amp;#39;&lt;/span&gt;$f&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#34;&lt;/span&gt; &amp;gt;&amp;gt; mylist.txt; &lt;span style=&#34;color:#66d9ef&#34;&gt;done&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# or with printf&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;printf &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;file &amp;#39;%s&amp;#39;\n&amp;#34;&lt;/span&gt; *.mp4 &amp;gt; mylist.txt
