@@ -16,8 +16,9 @@ finish reading.
 | Book Title             | Author/s                        |
 |------------------------|---------------------------------|
 | The Dawn of Everything | David Graeber and David Wengrow |
-| God Emperor of Dune    | Frank Herbert                   |
 | Mutual Aid             | Dean Spade                      |
+| Heretics of Dune       | Frank Herbert                   |
+
 
 ## Completed
 
@@ -97,6 +98,7 @@ I read slowly, you might notice.
 | [The Comfort of Strangers](/308/#brief-review-of-the-comfort-of-strangers)                | Ian McEwan                                 |
 | [Children of Dune](/318/#brief-review-of-children-of-dune)                                | Frank Herbert                              |
 | Trust Kids!                                                                               | carla joy bergman (Editor)                 |
+| [God Emperor of Dune](/348/#thoughts-on-god-emperor-of-dune)                              | Frank Herbert                              |
 
 ## Did not finish
 

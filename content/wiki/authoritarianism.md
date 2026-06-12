@@ -25,7 +25,7 @@ that the oppression cannot happen "here."
 People who are either vying for or already are in power promise a host
 of things which would appeal to a lot of people. Then, they will
 [create a shared enemy](/fascism)---drugs, terrorism, immigrants, devotees of
-another religion, believers of a different political ideology, etc.---to
+another [religion](/religion), believers of a different political ideology, etc.---to
 which the followers could direct their collective anger and frustration.
 Coincidentally, this developing regime also promises to "address" this
 enemey, to make it go away, to put an end to its existence, so long as
@@ -61,10 +61,13 @@ Modern authoritarianism need not look scary to most people.
 States are packaging it as fighting disinformation and "protecting the
 children."
 
-[Surveillance](/surveillance) technology begins at the advertising as
-marketers race to get more data about you, to know you more, to sell you
-what you think you want. Governments use it to control their population,
-or in more disturbing cases, control other nation's population.
+One might think that [surveillance](/surveillance) technology begins at
+[advertising](/no-ads) as marketers race to get more data about you, to
+know you more, to sell you what you think you want. But in a Venn
+diagram of surveillance tech and ad tech, the overlap between the two is
+a full circle. Through surveillance, governments use it to control their
+population, or in more disturbing cases, control other nation's
+population.
 
 The technological infrastructure for authoritarianism now exists in a
 way it never has before in [human history](/human-history). Digital IDs,

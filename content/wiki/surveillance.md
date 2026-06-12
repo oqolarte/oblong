@@ -82,3 +82,10 @@ nightmare for a number of reasons:
    outsource it third-party KYC platforms. This means customer data is
    passed through multiple hands, increasing surface area for data
    leaks.
+
+Sarah James Lewis observes in a [toot](https://mastodon.social/@sarahjamielewis/116716474716415789):
+
+> The idea that you should be able to do anything without seeking
+> permission from someone else so abhorrent to some people they demand
+> reality twist itself into absurdities to satisfy their need for
+> [authority](/authority).

@@ -17,9 +17,11 @@ as someone who may have designed my life to not be around them most of
 the time.
 
 If the kids were to inherit this world, shouldn't we, the adults, be
-doing better?. Western civilization was founded, in theory and practice,
+doing better?
+
+Western civilization was founded, in theory and practice,
 on the [destruction](/destruction) of its children for the benefit of
-its adults.
+its adults. I doubt that the Eastern civilization were any better.
 
 All this thinking about youth liberation reminded me of the
 somwehat radical cartoons
@@ -32,10 +34,10 @@ crimes against children, many of which are committed by grown-ups.
 Kids are one of the most overlooked group of people who are denied any
 semblance of autonomy or dignity.
 
-It's in youth that we are taught to obey authority. Those who are
-liberated in youth are less likely to accept oppressive structures later
-in life. And without that acceptance, those structures would struggle to
-perpetuate themselves.
+It's in youth that we are taught to obey [authority](/authority). Those
+who are liberated in youth are less likely to accept oppressive
+structures later in life. And without that acceptance, those structures
+would struggle to perpetuate themselves.
 
 Youth liberation looks to abolish systems that dominate and abuse kids
 systemically. Think about how kids are often viewed as the property of
