@@ -11,8 +11,8 @@ least:
 
 1. Donate all my usable organs to medical and/or scientific causes,
    *except* when such endeavor would benefit:
-   - the police, the military and other state-sanctioned crime groups;
-   - the billionaire class and their cronies
+   - the police, the military, and other state-sanctioned crime groups;
+   - the billionaire class and their cronies.
 2. Dispose my body to the sea. Wrap my body in preferably biodegradable
 material, attach some weights, and let it go to sink to the waters. This
 would be my final amendment with the sea, no longer burdened with fear
@@ -24,6 +24,11 @@ possible.
 4. During my wake, play muzak. Sing songs of celebration and/or of
 mourning. If it's possible, you can even have an open mic event where
 people can play songs and/or read poetry.
+5. Unless you absolutely believe it would help to dismantle the
+[Empire](/empire) in any way, please do not take video/s of my wake *and then*
+publicize it. It is sad that I must explicitly say this, but I have seen
+people "document" their grief this way. I just believe vlogging about it is in
+my opinion unnecessary.
 
 Hopefully, before I die, I would have you read these things first, so we
 would agree on how doable any of the points listed here.
