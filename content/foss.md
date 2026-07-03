@@ -13,7 +13,7 @@ draft: false
 
 - Operating System: [Alpine Linux latest *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 13 "*trixie*"](https://www.debian.org/News/2025/20250809) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
-- Web Browsers: [LibreWolf](https://librewolf.net) (laptop), [Firefox Klar](https://www.firefox.com/en-US/browsers/mobile/focus/) (Android)
+- Web Browsers: [LibreWolf](https://librewolf.net)
 - Search engine: [Startpage](https://www.startpage.com/)
 - Password manager: [Bitwarden](https://bitwarden.com/)
 - Email client: [aerc](https://aerc-mail.org)
@@ -24,7 +24,7 @@ draft: false
 - RSS Feed reader: [newsraft](https://codeberg.org/newsraft/newsraft)
 - Music player: [cmus](https://github.com/cmus/cmus) (laptop); [Auxio](https://github.com/OxygenCobalt/Auxio) (Android)
 - Video player: [mpv](https://mpv.io)
-- Notes: [vimwiki](https://vimwiki.github.io/) plugged into [neovim](https://neovim.io) (also my `$EDITOR` of choice)
+- Notes: [vimwiki](https://vimwiki.github.io/) plugged into [vim](https://www.vim.org)
 - Office suite: [LibreOffice](https://www.libreoffice.org)
 - PDF reader: [zathura](https://pwmt.org/projects/zathura/)
 - YouTube client: [NewPipe](https://newpipe.net/) (Android)

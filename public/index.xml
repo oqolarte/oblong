@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 11:34:44 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 15:34:44 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -658,7 +658,7 @@ Have you heard about it? I think you&amp;rsquo;d be interested.&amp;rdquo;&lt;/l
 &lt;ul&gt;
 &lt;li&gt;Operating System: &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux latest &lt;em&gt;stable&lt;/em&gt;&lt;/a&gt; (laptop, daily driver); &lt;a href=&#34;https://www.debian.org/News/2025/20250809&#34;&gt;Debian 13 &amp;ldquo;&lt;em&gt;trixie&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); Android (smartphone)&lt;/li&gt;
 &lt;li&gt;Tiling window manager: &lt;a href=&#34;https://swaywm.org/&#34;&gt;sway&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Web Browsers: &lt;a href=&#34;https://librewolf.net&#34;&gt;LibreWolf&lt;/a&gt; (laptop), &lt;a href=&#34;https://www.firefox.com/en-US/browsers/mobile/focus/&#34;&gt;Firefox Klar&lt;/a&gt; (Android)&lt;/li&gt;
+&lt;li&gt;Web Browsers: &lt;a href=&#34;https://librewolf.net&#34;&gt;LibreWolf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Search engine: &lt;a href=&#34;https://www.startpage.com/&#34;&gt;Startpage&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Password manager: &lt;a href=&#34;https://bitwarden.com/&#34;&gt;Bitwarden&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email client: &lt;a href=&#34;https://aerc-mail.org&#34;&gt;aerc&lt;/a&gt;&lt;/li&gt;
@@ -669,7 +669,7 @@ Have you heard about it? I think you&amp;rsquo;d be interested.&amp;rdquo;&lt;/l
 &lt;li&gt;RSS Feed reader: &lt;a href=&#34;https://codeberg.org/newsraft/newsraft&#34;&gt;newsraft&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Music player: &lt;a href=&#34;https://github.com/cmus/cmus&#34;&gt;cmus&lt;/a&gt; (laptop); &lt;a href=&#34;https://github.com/OxygenCobalt/Auxio&#34;&gt;Auxio&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;li&gt;Video player: &lt;a href=&#34;https://mpv.io&#34;&gt;mpv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Notes: &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;vimwiki&lt;/a&gt; plugged into &lt;a href=&#34;https://neovim.io&#34;&gt;neovim&lt;/a&gt; (also my &lt;code&gt;$EDITOR&lt;/code&gt; of choice)&lt;/li&gt;
+&lt;li&gt;Notes: &lt;a href=&#34;https://vimwiki.github.io/&#34;&gt;vimwiki&lt;/a&gt; plugged into &lt;a href=&#34;https://www.vim.org&#34;&gt;vim&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Office suite: &lt;a href=&#34;https://www.libreoffice.org&#34;&gt;LibreOffice&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;PDF reader: &lt;a href=&#34;https://pwmt.org/projects/zathura/&#34;&gt;zathura&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;YouTube client: &lt;a href=&#34;https://newpipe.net/&#34;&gt;NewPipe&lt;/a&gt; (Android)&lt;/li&gt;

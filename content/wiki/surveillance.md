@@ -89,3 +89,5 @@ Sarah James Lewis observes in a [toot](https://mastodon.social/@sarahjamielewis/
 > permission from someone else so abhorrent to some people they demand
 > reality twist itself into absurdities to satisfy their need for
 > [authority](/authority).
+
+
