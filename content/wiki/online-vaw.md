@@ -30,16 +30,18 @@ passed through said nefarious AI tools, the photo or video could be
 altered in various ways so that the end result is that the women in them
 are now posing in erotic ways and/or engaging in other lewd acts.
 
-This is not to say that this was not being done before---Photoshop, for
-example, has been used for this, but obviously using it requires some
+This is not to say that this was not being done before. Photoshop, for
+example, has been used for this, but using it requires some
 level of mastery to make the alteration more believable.
 
 It is just that AI tools accelerate the process. With prompting alone,
-threat actors could do more damage to women online without breaking
+threat actors, could do more damage to women online without breaking
 sweat.
+
+And let us not forget the biggest culprits: big tech companies like Meta, Google, OpenAI. They have trained their LLMs using data scraped from the internet---our most sensitive personal data---with neither consent nor compensation. 
 
 So yes, [please be careful](/privacy) when sharing photos and/or videos,
 if any at all, of yourselves, and equally importantly, of other people
 who may or may not have consented to you including them in the posted
 photos. The unfortunate fact of the internet is that one can never
-control where our posts would end up.
+control where our faces would end up.
