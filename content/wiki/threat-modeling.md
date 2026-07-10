@@ -10,6 +10,15 @@ their vulnerabilities, and how each is exposed to threats.
 
 {{< toc >}}
 
+## TL;DR
+
+At minimum, answer these questions:
+
+1. What do you want to protect?
+2. Who/what wants to harm the thing/s you are protecting?
+3. How might harm-doers attack the thing/s to be protected?
+4. What can be done to prevent the attack/s from happening?
+
 ## Intro
 
 Applications (mobile, web-based, etc.) have changed the way people

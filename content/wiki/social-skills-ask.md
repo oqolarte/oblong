@@ -10,6 +10,17 @@ thoughts on the matter...
 
 {{< toc >}}
 
+## No fun
+
+I have not been fun in most parties in whatever shape they take.
+Meaning, I barely contribute to the liveliness of the party;
+somebody---an extrovert, maybe---has to initiate it. I feel dumb in and
+around such many situations. I overthink. I succumb to my mental
+masturbation about do's and dont's, self-diagnosing it as a symptom of
+boredom. I deep-dive, on the party itself, into rabbit holes that are
+really more like shallow graves where the chance of fun lies doen in
+eternal repose.
+
 ## It's hard
 
 I have read that as we grow older, making friends tend to become harder.

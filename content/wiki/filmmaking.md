@@ -4,7 +4,7 @@ date: 2022-12-19
 draft: false
 ---
 
-Because of watching the series Neistat Brothers,
+Because of watching the series Neistat Brothers,[^neistat]
 because of watching the great films I have come to like,
 I am sometimes motivated to make my own films.
 
@@ -26,3 +26,6 @@ so maybe this is where I'll start:
 8. sound effects
 9. editing
 10. behind the scenes
+
+[^neistat]: Now, I neither promote nor endorse the Neistat Brothers and
+whatever they produce, because of their questionable politics.
