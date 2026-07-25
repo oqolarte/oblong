@@ -30,6 +30,7 @@ draft: false
 - YouTube client: [NewPipe](https://newpipe.net/) (Android)
 - Authenticator: [Aegis](https://getaegis.app/) (Android)
 - Alternative app repos (Android): [F-droid](https://f-droid.org/en/) and [Obtainium](https://obtainium.imranr.dev/)
+- CD Ripper: [Asunder](https://en.wikipedia.org/wiki/Asunder_(software))
 
 ## Special Mentions
 
