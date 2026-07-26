@@ -6,7 +6,7 @@ enableRobotsTXT = true
 
 [author]
     email = "ohio@araw.xyz"
-    name = "ohio olarte"
+    name = "oqo"
 
 [permalinks]
     log = "/:contentbasename:"
