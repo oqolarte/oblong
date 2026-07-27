@@ -27,78 +27,79 @@ recording them on November 2019.
 I read slowly, you might notice.
 
 
-| Book Title                                                                                             | Author/s                                   |
-|--------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| The Power of Now                                                                                       | Eckhart Tolle                              |
-| [Off the Map](https://crimethinc.com/books/off-the-map)                                                | Hib & Kika                                 |
-| Siddhartha                                                                                             | Herman Hesse                               |
-| The Revolution According to Raymundo Mata                                                              | Gina Apostol                               |
-| Tao Te Ching (道德經)                                                                                  | Lao Tzu (老子)                             |
-| The Conquest of Bread                                                                                  | Pyotr Kropotkin                            |
-| The Little Prince                                                                                      | Antoine de Saint-Exupéry                   |
-| 1Q84                                                                                                   | Haruki Murakami (村上春樹)                 |
-| Stand up, Speak up, Talk Back!                                                                         | Robert E. Alberti, Michael L. Emmons       |
-| Dumot                                                                                                  | Alan Navarra                               |
-| Watchmen                                                                                               | Alan Moore, Dave Gibbons                   |
-| The Dispossesed                                                                                        | Ursula K. Le Guin                          |
-| Confessions of a Volcano                                                                               | Eric Gamalinda                             |
-| Eleven Minutes                                                                                         | Paulo Coelho                               |
-| Never Let Me Go                                                                                        | Kazuo Ishiguro                             |
-| Beatrice and Virgil                                                                                    | Yann Martel                                |
-| [Antifragile](/antifragile)                                                                            | Nicholas Nassim Taleb                      |
-| Fight Club                                                                                             | Chuck Palahniuk                            |
-| Little Book of Speeches                                                                                | Lourd de Veyra                             |
-| V for Vendetta                                                                                         | Alan Moore, David Lloyd                    |
-| Subversive Lives                                                                                       | Susan & Nathan Quimpo                      |
-| Cat's Diary                                                                                            | Junji Ito (伊藤 潤二)                      |
-| To Suffer Thy Comrades                                                                                 | Robert Francis Garcia                      |
-| Desert                                                                                                 | Anonymous                                  |
-| Perfume                                                                                                | Patrick Süskind                            |
-| A Mathematician's Lament                                                                               | Paul Lockhart                              |
-| All I Really Need to Know I Learned in Kindergarten                                                    | Robert Fulghum                             |
-| The 500 People You Meet in Hell                                                                        | Jessica Zafra                              |
-| Hope in the Dark                                                                                       | Rebecca Solnit                             |
-| Dogs & Water                                                                                           | Anders Nilsen                              |
-| Yes! No! A First Conversation about Consent                                                            | Megan Madison, Jessica Ralli, Isabel Roxas |
-| I AM! Affirmations for Resilience                                                                      | Bela Barbosa, Edel Rodriguez               |
-| [Klara and the Sun](/135/#review-of-klara-and-the-sun)                                                 | Kazuo Ishiguro                             |
-| [Finding George Orwell in Burma](/139/#review-of-finding-orwell)                                       | Emma Larkin                                |
-| [Crying in H Mart](/144/#brief-review-of-crying-in-h-mart)                                             | Michelle Zauner                            |
-| Fahrenheit 451                                                                                         | Ray Bradbury                               |
-| The Witches                                                                                            | Roald Dahl                                 |
-| [The Man Without Talent](/148/#brief-review-of-the-man-without-talent) (無能の人)                      | Yoshiharu Tsuge 柘植義春                   |
-| [The Philippines Is Not A Small Country](/149/#brief-review-of-the-philippines-is-not-a-small-country) | Gideon Lasco                               |
-| [Some People Need Killing](/151/#brief-review-of-some-people-need-killing)                             | Patricia Evangelista                       |
-| [Repair Revolution](/repair)                                                                           | John Wackman & Elizabeth Knight            |
-| [The Left Hand of Darkness](/171)                                                                      | Ursula K. Le Guin                          |
-| [Do Androids Dream of Electric Sheep?](/194)                                                           | Philip K. Dick                             |
-| [Joyful Militancy](/joyful-militancy): Building Thriving Resistance in Toxic Times                     | Nick Montgomery and carla bergman          |
-| [Blessed is the Flame](/nihilism/#jouissance)                                                          | Serafinski                                 |
-| [EXPECT RESISTANCE](/208/#brief-review-of-expect-resistance)                                           | [CrimethInc](https://crimethinc.com/)      |
-| [All About Love: New Visions](/love)                                                                   | bell hooks                                 |
-| [Dila at Bandila](/236/#brief-review-of-dila-at-bandila)                                               | Ige Ramos                                  |
-| [Purity](/240/#brief-review-of-purity)                                                                 | Jonathan Franzen                           |
-| [Resist Everything Except Temptation](/241/#brief-review-of-resist-everything)                         | Kristian Williams                          |
-| [Fermat's Enigma](/242/#brief-review-of-fermats-enigma)                                                | Simon Singh                                |
-| [Ransomed by Love](/247/#brief-review-of-ransomed-by-love)                                             | Tony La Viña                               |
-| [Skin in the Game](/250/#brief-review-of-skin-in-the-game)                                             | Nassim Nicholas Taleb                      |
-| [Filipino Value System](/252/#brief-review-of-filipino-value-system)                                   | F. Landa Jocano                            |
-| [The Hundred Year's War on Palestine](/palestine)                                                      | Rashid Khalidi                             |
-| [Cobalt Red](/259/#brief-review-of-cobalt-red)                                                         | Siddharth Kara                             |
-| [My Friends in the Barrios](/260/#brief-review-of-my-friends-in-the-barrios)                           | Juan M. Flavier                            |
-| [Strange Intimacies](/260/#brief-review-of-strange-intimacies)                                         | Zea Asis                                   |
-| [Doppelganger](/263/#brief-review-of-doppelganger)                                                     | Naomi Klein                                |
-| [Global Battlefields](/267/#brief-review-of-global-battlefields)                                       | Walden Bello                               |
-| [Dune](/276/#brief-review-of-dune)                                                                     | Frank Herbert                              |
-| [Dune Messiah](/282/#brief-review-of-dune-messiah)                                                     | Frank Herbert                              |
-| [The Vegetarian](/282/#brief-review-of-the-vegetarian)                                                 | Han Kang (Trans. by Deborah Smith)         |
-| [Braiding Sweetgrass](/288/#brief-review-of-braiding-sweetgrass)                                       | Robin Wall Kimmerer                        |
-| [Candido's Apocalypse](/293/#brief-review-of-candido)                                     | Nick Joaquin                               |
-| [Being Peace](/inner-peace)                                                               | Thich Nhat Hanh                            |
-| [The Comfort of Strangers](/308/#brief-review-of-the-comfort-of-strangers)                | Ian McEwan                                 |
-| [Children of Dune](/318/#brief-review-of-children-of-dune)                                | Frank Herbert                              |
-| Trust Kids!                                                                               | carla joy bergman (Editor)                 |
-| [God Emperor of Dune](/348/#thoughts-on-god-emperor-of-dune)                              | Frank Herbert                              |
+| Book Title                                                                                             | Author/s                                         |
+|--------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| The Power of Now                                                                                       | Eckhart Tolle                                    |
+| [Off the Map](https://crimethinc.com/books/off-the-map)                                                | Hib & Kika                                       |
+| Siddhartha                                                                                             | Herman Hesse                                     |
+| The Revolution According to Raymundo Mata                                                              | Gina Apostol                                     |
+| Tao Te Ching (道德經)                                                                                  | Lao Tzu (老子)                                   |
+| The Conquest of Bread                                                                                  | Pyotr Kropotkin                                  |
+| The Little Prince                                                                                      | Antoine de Saint-Exupéry                         |
+| 1Q84                                                                                                   | Haruki Murakami (村上春樹)                       |
+| Stand up, Speak up, Talk Back!                                                                         | Robert E. Alberti, Michael L. Emmons             |
+| Dumot                                                                                                  | Alan Navarra                                     |
+| Watchmen                                                                                               | Alan Moore, Dave Gibbons                         |
+| The Dispossesed                                                                                        | Ursula K. Le Guin                                |
+| Confessions of a Volcano                                                                               | Eric Gamalinda                                   |
+| Eleven Minutes                                                                                         | Paulo Coelho                                     |
+| Never Let Me Go                                                                                        | Kazuo Ishiguro                                   |
+| Beatrice and Virgil                                                                                    | Yann Martel                                      |
+| [Antifragile](/antifragile)                                                                            | Nicholas Nassim Taleb                            |
+| Fight Club                                                                                             | Chuck Palahniuk                                  |
+| Little Book of Speeches                                                                                | Lourd de Veyra                                   |
+| V for Vendetta                                                                                         | Alan Moore, David Lloyd                          |
+| Subversive Lives                                                                                       | Susan & Nathan Quimpo                            |
+| Cat's Diary                                                                                            | Junji Ito (伊藤 潤二)                            |
+| To Suffer Thy Comrades                                                                                 | Robert Francis Garcia                            |
+| Desert                                                                                                 | Anonymous                                        |
+| Perfume                                                                                                | Patrick Süskind                                  |
+| A Mathematician's Lament                                                                               | Paul Lockhart                                    |
+| All I Really Need to Know I Learned in Kindergarten                                                    | Robert Fulghum                                   |
+| The 500 People You Meet in Hell                                                                        | Jessica Zafra                                    |
+| Hope in the Dark                                                                                       | Rebecca Solnit                                   |
+| Dogs & Water                                                                                           | Anders Nilsen                                    |
+| Yes! No! A First Conversation about Consent                                                            | Megan Madison, Jessica Ralli, Isabel Roxas       |
+| I AM! Affirmations for Resilience                                                                      | Bela Barbosa, Edel Rodriguez                     |
+| [Klara and the Sun](/135/#review-of-klara-and-the-sun)                                                 | Kazuo Ishiguro                                   |
+| [Finding George Orwell in Burma](/139/#review-of-finding-orwell)                                       | Emma Larkin                                      |
+| [Crying in H Mart](/144/#brief-review-of-crying-in-h-mart)                                             | Michelle Zauner                                  |
+| Fahrenheit 451                                                                                         | Ray Bradbury                                     |
+| The Witches                                                                                            | Roald Dahl                                       |
+| [The Man Without Talent](/148/#brief-review-of-the-man-without-talent) (無能の人)                     | Yoshiharu Tsuge 柘植義春                         |
+| [The Philippines Is Not A Small Country](/149/#brief-review-of-the-philippines-is-not-a-small-country) | Gideon Lasco                                     |
+| [Some People Need Killing](/151/#brief-review-of-some-people-need-killing)                             | Patricia Evangelista                             |
+| [Repair Revolution](/repair)                                                                           | John Wackman & Elizabeth Knight                  |
+| [The Left Hand of Darkness](/171)                                                                      | Ursula K. Le Guin                                |
+| [Do Androids Dream of Electric Sheep?](/194)                                                           | Philip K. Dick                                   |
+| [Joyful Militancy](/joyful-militancy): Building Thriving Resistance in Toxic Times                     | Nick Montgomery and carla bergman                |
+| [Blessed is the Flame](/nihilism/#jouissance)                                                          | Serafinski                                       |
+| [EXPECT RESISTANCE](/208/#brief-review-of-expect-resistance)                                           | [CrimethInc](https://crimethinc.com/)            |
+| [All About Love: New Visions](/love)                                                                   | bell hooks                                       |
+| [Dila at Bandila](/236/#brief-review-of-dila-at-bandila)                                               | Ige Ramos                                        |
+| [Purity](/240/#brief-review-of-purity)                                                                 | Jonathan Franzen                                 |
+| [Resist Everything Except Temptation](/241/#brief-review-of-resist-everything)                         | Kristian Williams                                |
+| [Fermat's Enigma](/242/#brief-review-of-fermats-enigma)                                                | Simon Singh                                      |
+| [Ransomed by Love](/247/#brief-review-of-ransomed-by-love)                                             | Tony La Viña                                     |
+| [Skin in the Game](/250/#brief-review-of-skin-in-the-game)                                             | Nassim Nicholas Taleb                            |
+| [Filipino Value System](/252/#brief-review-of-filipino-value-system)                                   | F. Landa Jocano                                  |
+| [The Hundred Year's War on Palestine](/palestine)                                                      | Rashid Khalidi                                   |
+| [Cobalt Red](/259/#brief-review-of-cobalt-red)                                                         | Siddharth Kara                                   |
+| [My Friends in the Barrios](/260/#brief-review-of-my-friends-in-the-barrios)                           | Juan M. Flavier                                  |
+| [Strange Intimacies](/260/#brief-review-of-strange-intimacies)                                         | Zea Asis                                         |
+| [Doppelganger](/263/#brief-review-of-doppelganger)                                                     | Naomi Klein                                      |
+| [Global Battlefields](/267/#brief-review-of-global-battlefields)                                       | Walden Bello                                     |
+| [Dune](/276/#brief-review-of-dune)                                                                     | Frank Herbert                                    |
+| [Dune Messiah](/282/#brief-review-of-dune-messiah)                                                     | Frank Herbert                                    |
+| [The Vegetarian](/282/#brief-review-of-the-vegetarian)                                                 | Han Kang (Trans. by Deborah Smith)               |
+| [Braiding Sweetgrass](/288/#brief-review-of-braiding-sweetgrass)                                       | Robin Wall Kimmerer                              |
+| [Candido's Apocalypse](/293/#brief-review-of-candido)                                                  | Nick Joaquin                                     |
+| [Being Peace](/inner-peace)                                                                            | Thich Nhat Hanh                                  |
+| [The Comfort of Strangers](/308/#brief-review-of-the-comfort-of-strangers)                             | Ian McEwan                                       |
+| [Children of Dune](/318/#brief-review-of-children-of-dune)                                             | Frank Herbert                                    |
+| Trust Kids!                                                                                            | carla joy bergman (Editor)                       |
+| [God Emperor of Dune](/348/#thoughts-on-god-emperor-of-dune)                                           | Frank Herbert                                    |
+| Beyond the Great Wall: A Family Journal                                                                | Miclat Family (Maria, Alma, Maningnging, Banaue) |
 
 ## Did not finish
 
