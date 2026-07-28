@@ -44,7 +44,7 @@ media platforms.
 ### Limitations
 
 - I can't be bothered reading through paywalls, authwalls, and login
-  walls.
+  walls.[^wall]
 - If your blog promotes authoritarianism, pro-police, pro-militarism,
   capitalism, sexism, racism, anti-queer or anti-trans sentiment,
   genocide, or any sort of supremacist ideology, I’ll only read it once.
@@ -58,9 +58,12 @@ media platforms.
   use of gen AI.
 - I can read blogs in English and Tagalog (or Taglish).
 
+[^wall]: Many people feel the same way, actually. See this informal
+poll: https://beige.party/@maxleibman/116965367300703261
+
 ## Contact
 
-Please, [just use email](https://justuseemail.com/). (Email ad on footer)
+Please use email.
 
 Some good icebreakers:
 - A reply/comment to one of the posts I made here
