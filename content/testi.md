@@ -24,25 +24,25 @@ for clarity and/or anonymized for privacy.
 
 > "I look up to a lot of what you do ha!"
 
-> "Ohio is patient and works well under pressure. [He also] seems to be
+> "[P]atient and works well under pressure. [He also] seems to be
 > well organized and have a good understanding of the projects he works
 > on. He is also very nice and always willing to help (when he has time
 > to do so)."
 
 > [H]e seems cool.
 
-> "Wow, I didn't realize you're [my current age]! I thought you're only
-> [my current age minus, on average, 7 years].
+> "Wow, I didn't realize you're [X years old]! I thought you're only
+> [X - 7].
 
-> "Ohio is always very friendly and reasonable to deal with, his
+> "[He] is always very friendly and reasonable to deal with, his
 > responses are both timely and clear. He feels like a valuable part of
 > any team."
 
 > [He has] a cool and calming voice...
 
-> "I appreciate Ohio has a really challenging and demanding role working
-> across multiple accounts on multiple projects. [T]aking that into
-> consideration, I think Ohio does an amazing job at communicating
+> "I appreciate [him] has a really challenging and demanding role
+> working across multiple accounts on multiple projects. [T]aking that
+> into consideration, I think Ohio does an amazing job at communicating
 > clearly and efficiently. He always replies promptly, is always able to
 > answer questions or know who will have the answers. I've really
 > appreciated Ohio's willingness to go above and beyond to deliver work
@@ -56,8 +56,8 @@ for clarity and/or anonymized for privacy.
 
 > "[Siya] ang idea ko ng gwapo. ([He is] my idea of handsome.)"
 
-> "*soafer witty mo talaga mr ohio, feel ko dapat mag stand-up comedy
-> ka* (You are *so* witty, Mr. Ohio, I feel like you should be in
+> "*soafer witty mo talaga [...], feel ko dapat mag stand-up comedy
+> ka* (You are *so* witty, [...], I feel like you should be in
 > stand-up comedy.)"
 
 *More soon...*

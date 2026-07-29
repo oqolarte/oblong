@@ -293,7 +293,7 @@ necks. More modern interpretations to "smashing the looms":
 ## NEXT
 
 This write-up is part of a larger discussion, organized by people at
-FluConf. See more at: https://fluconf.online/program/
+FluConf. See more at: https://2025.fluconf.online/program/
 
 For more resources, check the following sites:
 

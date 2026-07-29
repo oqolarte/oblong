@@ -2,10 +2,10 @@
 Title: "CV"
 ---
 
-Hi, I'm ohio, and I'm into a more sustainable and inclusive future.
+I'm into a more sustainable and inclusive future.
 People have said [some nice things](/testi) about me.
 
-Project Manager @ iCXeed (**current**)  
+Project Manager @ iCXeed (6 months)  
 Senior Project Management Executive @ Ipsos Inc. (1 year)  
 Associate Project Manager @ Kantar Philippines Inc. (2 years)  
 Assistant Project Manager @ JLL (Philippines), Inc. (3 years)  
