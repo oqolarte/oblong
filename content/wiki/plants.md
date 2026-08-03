@@ -13,7 +13,9 @@ Until now.
 ## Why learn about plants?
 
 One of the great tragedies of my life is not having the right
-environment to learn more about plants.
+environment to learn more about plants. I am, essentially, "plant
+blind," that is, I have, for most of my life, overlooked and undervalued
+the function of plants beyond the nutrition they provide to me.
 
 We have lived in highly urbanized areas where plants could only grown in
 pots and boxes, if at all, to be controlled and monitored and protected

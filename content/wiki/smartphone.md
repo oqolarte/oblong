@@ -23,20 +23,23 @@ or what I'm asking would even be possible.
 - Physical keyboard like Blackberry phones
     - I personally use QWERTY layout, but it would be nice if the
       keyboard layout could be remapped programmatically.
-- Physical switch for toggling radio waves on or off
+- Physical buttons and/or switches for toggling other functions, like
+  radio waves, volume, etc.
 - Small OLED *or* e-ink screen with a decent refresh rate, maybe within
   2.5" to 3.5" range
 - A camera for scanning QR, bar codes, and maybe the occasional paper
   document
-- Anywhere between 80 - 16GB of internal memory
 - Has a microSD slot for expanded storage
-- Anywhere between 6 - 8GB RAM
 - With 3.5mm headphone jack
-- Rechargeable and removable Li-Ion battery, between 1500 - 2000 mAh
+- Rechargeable and user-replaceable Li-Ion battery, between 1500 - 2000
+  mAh
 - USB-C port
 
 ### Software
 
+- Offline-first: useable without a network connection
+- Shipped complete: no software upgrades or patching necessary; no
+  gradual software obsolescence
 - [AOSP](https://www.androidauthority.com/aosp-explained-1093505/)
 - Able to make calls and texts
 - A media player, for audio and video
@@ -49,7 +52,7 @@ or what I'm asking would even be possible.
     - Time keeping (including clock, alarm, stopwatch, timer, world
       time)
     - Instant E2EE messenger, preferably [Signal](https://signal.org)
-    - Reader
+    - E-book Reader
     - Music player
     - Video player
     - Audio recorder
