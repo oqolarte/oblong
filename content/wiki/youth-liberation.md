@@ -12,12 +12,17 @@ math: false
 One Sunday afternoon while I was out and about, I noticed that many of
 the kids I encountered were having tantrums. The adults who were with
 them either had no idea on what to do or simply did not care enough to
-address the troubled kids. Admittedly, even I wouldn't know what to do
-as someone who may have designed my life to not be around them most of
-the time.
+address the troubled kids. (To be fair, it was hard to intervene when
+one did not have the context of what was happening.) Admittedly, even I
+wouldn't know what to do as someone who may have designed my life to not
+be around them most of the time.
 
 If the kids were to inherit this world, shouldn't we, the adults, be
 doing better?
+
+Adults have the knack to disregard kids' angst as something that barely
+matters; that whatever negative emotions kids are feeling is "not true"
+and therefore invalidated.
 
 Western civilization was founded, in theory and practice,
 on the [destruction](/destruction) of its children for the benefit of

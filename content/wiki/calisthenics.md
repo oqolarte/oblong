@@ -12,21 +12,17 @@ A good starting point is: [Hampton's suggested routine](https://hybridcalistheni
 
 ## Current exercises
 
-I only do one group of exercises a day (e.g., today I might do PUSH;
-tomorrow CORE).
+Only one group of exercises a day.
 
-Since I'm no expert, I'll spare the details in the number of reps
-and sets.
+Only two sets per exercise, anywhere between 6 - 12 reps each.
 
 **PUSH** exercises:
-- Ring push-ups ➔ Diamond push-ups ➔ regular push-ups ➔ knee push-ups ➔
-  advanced incline push-ups
 - Pike push-ups
-- [Ring, or most likely, bench] Dips
+- Pseudo-planche push-ups
+- Ring Dips
 
 **CORE** exercises:
-- Hanging leg raises ➔ Advanced hanging knee Raises ➔ Hanging knee
-  raises ➔ Full leg raises ➔ knee raises
+- Hanging leg raises
 - Hollow body hold
 - L-sit
 - Full Bridges

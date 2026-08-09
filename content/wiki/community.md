@@ -70,11 +70,15 @@ which we can strengthen our [relationships](/friendship).
 Yes, you do. I do. **I** am already a crowd because my life already
 depends on others. Thich Nhat Hanh draws from Buddhism and links this to and beyond the practice of meditation: 
 
-When you meditate, it is not just for yourself, you do it for the whole society. You seek solutions to your problems not only for yourself, but for all of us.
-
-...
-
-There are so many things that make me want to withdraw, to go back to myself. But my practice helps me remain in society, because I am aware that if I leave society, I will not be able to help change it."
+> When you meditate, it is not just for yourself, you do it for the
+> whole society. You seek solutions to your problems not only for
+> yourself, but for all of us.
+> 
+> ...
+> 
+> There are so many things that make me want to withdraw, to go back to
+> myself. But my practice helps me remain in society, because I am aware
+> that if I leave society, I will not be able to help change it.
 
 No one really grows old alone. Whether we like it or not, our lives are
 interconnected. Not just in the familial sense, but also in the
@@ -113,11 +117,11 @@ latter. Community work, then, like many [revolutionary](/revolution) acts, spans
 
 ## A few things about far-right communities
 
-On his book *Global Battlefields*, Walden Bello talks about how Marine
+In his book *Global Battlefields*, Walden Bello talks about how Marine
 Le Pen led the French far-right National Front party by hijacking
 deglobalization and mixing it with nationalist and Islamophobic---in
 short, fascistic---spins. Bello pointed out that this is the wrong kind
-of community-building, and wrote:
+of community-building, and wrote (hyperlink/s added by me):
 
 > For the right, community is determined by race, ethnicity, and blood.
 > It is narrow in terms of who is included in it rather than expansive.

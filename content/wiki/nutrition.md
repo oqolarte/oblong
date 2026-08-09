@@ -6,8 +6,7 @@ draft: false
 
 ## Increase muscle mass
 
-Simple formula: one gram of protein per pound of body weight.
-(TODO: Verify with source/s)
+Simple formula: **one gram of protein per pound of body weight**.
 
 Avoid sugary drinks and refined carbs like donuts and cookies.
 
