@@ -31,6 +31,7 @@ sometimes paying less than minimum wage.
 
 {{< figure src="/image/not-lazy.jpg" alt="Felix the Cat, a black cartoon cat is lying on a window ledge, smiling contentedly. He's thinking 'I'm not lazy; I just don't like making profits for capitalists..." caption="" >}}
 
+Anti-work does not necessarily mean doing nothing, although "lazy" people are welcome. It means spending your time on things you want to do.
 We are meant to live in [loving communities](/friendship)
 in which we can [help each other meet our daily needs](/mutual-aid).
 
