@@ -22,6 +22,16 @@ electricity for someone else's AI supply chain?"
 
 SUSTINA: "[Why is the Philippines offering the US-led Pax Silica 4,000 acres of land?](https://sustina.earth/explainer-pax-silica-to-develop-first-ai-acceleration-hub-in-clark-what-does-it-mean-for-the-philippines/)"
 
+## Electricity costs
+
+According to the International Energy Agency "[Key Questions on Energy and AI](https://www.iea.org/reports/key-questions-on-energy-and-ai)", on 2025 data centers
+used around around 485 terawatt-hours. that is equivalent to annual
+electricity generation of germany.
+
+While energy efficiency of AI has improved over the years, newer
+energy-intensive AI applications are being launched and used, such as
+those for video generation, reasoning, and agentic tasks.
+
 ## Water consumption
 
 On the claim of Bases Conversion and Development Authority
