@@ -15,12 +15,10 @@ in which I often choose simple solutions.
 
 ## Digital Garden
 
-Like a real garden,
-a digital garden is where the gardener plant the seeds of ideas,
-and hope to grow them.
-It becomes both the medium and the message of the self.
-For some it's a blog;
-for others it's their own personal wiki.
+Like a real garden, a digital garden is where the gardener plants the
+seeds of ideas, and hope to grow them.  It becomes both the medium and
+the message of the self. For some it is a blog; for others it's their
+own personal wiki.
 
 This site, then, is my [digital garden](/wiki).
 Expect that things will be corrected, deleted, edited, fed, *grown*.
@@ -31,63 +29,65 @@ It helps me reorganize my thoughts by weeding out what's unnecessary.
 
 ### Public Repository of Independent Research
 
-This site will also have my research material, if any at all.
-Research, in this context, will be different from that in academia.
-This bypasses the usual way to earn a post-graduate degree.
-After reading Nadia Asparouhova's post, "[Reimagining the PhD](https://nadia.xyz/phd)," I'm now more inclined to do this.
-As a result, I won't get a certification nor a degree; it won't be official.
-But what are certifications anyway if not,
-for better or worse,
-a glorified piece of paper?
+This site will also have research material, if any at all. Research, in
+this context, will be different from that in [academia](/academy). This
+bypasses the usual way to earn a post-graduate degree. After reading
+Nadia Asparouhova's post, "[Reimagining the PhD](https://nadia.xyz/phd),"
+I am now more inclined to do this. As a
+result, I will get neither a certification nor a degree; it will not be official.
+But what are certifications anyway if not, for better or worse, a
+glorified piece of paper?
 
-I can't also imagine spending a few more years in grad school.
-I am, more or less, happy with the opportunity cost of not dealing with it.
+I cannot also imagine spending a few more years in grad school, to be
+honest.  I am, more or less, happy with the opportunity cost of not
+dealing with it.
 
 Instead, I enlist you, Dear Reader, as my peer reviewer.
 I hope you don't mind.
 
-I think this opens interesting avenues for the stakeholders (me and the public).
-There will always be people smarter than me;
-hopefully, I can pull some of their attention here to share their insights someday.
+I think this opens interesting avenues for the stakeholders (me and the
+public). There will always be people smarter than me; hopefully, I can
+pull some of their attention here to share their insights someday.
 
 {{< btt >}}
 
 ### Major Sections
 
-This site is divided into two main sections: **Log** and **Projects**.
+This site is divided into three main sections: **Log**, **Projects**,
+and **Wiki**:
 
-Each post in the *Log* will start with a list the significant revisions in the Site.
-After that, I'll try to add some personal updates as well.
+- The *Log* contains chronological updates, mostly about life in
+  general, but would sometimes include some site changes.
+- In *Projects*, I list the thing/s I'm currently doing on the side.
+  Each one begins with Table of Contents (ToC), so readers can skim the
+  topics.  The write-ups will be a healthy blend of creative and
+  technical writing, Of course, I'll include citations properly.
+- *Wiki* is my proverbial digital garden where I share my notes about
+  things I find interesting publicly.
 
-In *Projects*, I list the thing/s I'm currently doing on the side.
-Each one begins with Table of Contents (ToC), so readers can skim the topics.
-The write-ups will be a healthy blend of creative and technical writing,
-to prevent you from getting bored, something I won't afford to do in a formal setting.
-Of course, I'll include citations properly.
+### Minor section/s
 
-There's RSS (RDF [Resource Description Framework] Site Summary,
-or Really Simple Syndication), a web feed,
-which readers can subscribe to get updated.
-For that, one needs RSS reader.
-Alternatively, some email clients like Thunderbird, Microsoft Outlook, and Apple
-Mail, have their own built-in RSS reader.
-You can use any of those too.
-A web service is available along these lines: check out [RSS by email](https://rssby.email).
-Or if you're a more technical person,
-check out [rss2email](https://pypi.org/project/rss2email/),
-a software that can forward your RSS feeds to your email.
+There's RSS (RDF [Resource Description Framework] Site Summary, or
+Really Simple Syndication), a web feed, which readers can subscribe to
+get updated.  For that, one needs RSS reader. Alternatively, some email
+clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their
+own built-in RSS reader.  You can use any of those too.  A web service
+is available along these lines: check out [RSS by
+email](https://rssby.email).  Or if you're a more technical person,
+check out [rss2email](https://pypi.org/project/rss2email/), a software
+that can forward your RSS feeds to your email.
 
 {{< btt >}}
 
 ## Design choices
 
-I borrow design principles from brutalism for this site. Admittedly,
-it's the result of having only a working knowledge of HTML and CSS, and
+I borrow design principles from brutalism. Admittedly,
+it is the result of having only a working knowledge of HTML and CSS, and
 virtually none of JavaScript. This "limitation" becomes a feature for
 static websites like this one.
 
 (For a complete breakdown of HTML and CSS, one can always inspect the
-page source. Accessing it differs from browser to browser.)
+page source.)
 
 By foregoing intricate [UI/UX design](/ui-ux), I can focus on what
 matters most: *content*.
@@ -103,8 +103,8 @@ This means that:
 - the site loads fast because of [no ads](/no-ads), no tracking, no custom fonts; and,
 - no distractions.
 
-I consider these points important as they all relate to my current situation.
-In fact, websites should be guided by these principles.
+I consider these points important as they all relate to my current
+situation. In fact, websites should be guided by these principles.
 
 And because of these, this site scores
 [100/100 according to Yellow Lab Tools](https://yellowlab.tools/result/h4kknty483).
@@ -138,23 +138,21 @@ This is what I use:
 - Roboto
 - Noto
 
-Using serif for headings and sans serif for body gives a clear delineation
-which piece of info is which.
+Using serif for headings and sans serif for body gives a clear
+delineation which piece of info is which.
 
 {{< btt >}}
 
 ### Light and Dark themes
 
 Earlier iteration of this site defaults to dark mode, giving visitors no
-option to change to light mode.
-
-A good design provides option for both.
+option to change to light mode. A good design provides option for both.
 
 Now, current theme will depend on what you have set for your
 device/browser.
 
 I'm no expert in color theory, so I had help from online color palette
-generators to see which colors work well.
+generators to see which color combinations work well.
 [Coolors](https://coolors.co/) is good tool on this.
 
 Another thing to check for is color contrast. Readability of text
@@ -199,18 +197,18 @@ You have to manually right-click it and select `Open in a new tab` (or `...windo
 
 ### JavaScript?
 
-Given the simple layout, the interactions with the visitor are limited to
-reading content and clicking links.
-These can be achieved without JS.
+Given the simple layout, the interactions with the visitor are limited
+to reading content and clicking links. These can be achieved without
+JS.
 
 A few pages with some math do contain JS, specifically
 [MathJax](https://www.mathjax.org), to render the formulae beautifully.
 But on mobile, it doesn't load properly. As of writing this, I'm still
 looking for a workaround on that.
 
-If you're neither a math nor JS enthusiast, it's a non-issue to have your
-browser's JS disabled, but you'll likely see weird syntax where a math
-formula should be.
+If you're neither a math nor JS enthusiast, it's a non-issue to have
+your browser's JS disabled, but you'll likely see weird syntax where a
+math formula should be.
 
 {{< btt >}}
 
@@ -257,16 +255,16 @@ Here, I set it to 85%.
 
 ### Comments section
 
-There is no comment section in this site. It's both social and technical
-burden on me to implement and moderate. But honestly, the tools out
-there just don't meet my criteria.
+There is no comment section in this site. It is both social and
+technical burden on me to implement and moderate. But honestly, the
+tools out there just don't meet my criteria.
 
-One can still send their thoughts via this protocol called email, and
-mine is always at the footer! Sending comments via email is old school,
-but I feel like it promotes more thoughtful discussion rather than
-needless debate. The "friction" of having to open one's email client
-certainly makes one be deliberate about the message (or comment) they're
-planning to send.
+One can still send their thoughts via this reliable thing called email,
+and mine is always at the footer! Sending comments via email is old
+school, but I feel like it promotes more thoughtful discussion rather
+than needless debate. The "friction" of having to open one's email
+client certainly makes one be deliberate about the message (or comment)
+they are planning to send.
 
 Also, if we know each other personally, feel free to message your
 comments to me directly via Signal, assuming we already have each
@@ -414,19 +412,17 @@ Anyway, one of our lab works was to create our own (offline) website. It had to
 be interesting, catchy. Many of my classmates had `<marquee>`
 and `<blink>` tags, and of course, GIFs in their works.
 
-I don't remember how mine looked, but I'm sure it's basic,
+I do not remember how mine looked, but I am sure it was basic,
 with broken links hither and thither.
 
 More than a decade later, here I am, building and maintaining one.
 This time, I am enjoying the process.
-At least, I have retained the important bits on how HTML works,
-so I'm not starting from zero.
 
-**I dedicate this site to my former self**, who couldn't seem to grasp
+**I dedicate this site to my younger self**, who could not seem to grasp
 the importance of web design. As we rely on the [internet](/internet)
 for improving our collective knowledge, web designers and developers
 *must see to it* that everyone can access information, in spite of the
-current tech they have.
+current tech they---*we*---have.
 
 Here are some other sites from which I also got inspiration:
 

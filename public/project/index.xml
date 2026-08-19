@@ -12685,6 +12685,7 @@ in which I often choose simple solutions.&lt;/p&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#public-repository-of-independent-research&#34;&gt;Public Repository of Independent Research&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#major-sections&#34;&gt;Major Sections&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#minor-sections&#34;&gt;Minor section/s&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#design-choices&#34;&gt;Design choices&lt;/a&gt;
@@ -12713,12 +12714,10 @@ in which I often choose simple solutions.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;digital-garden&#34;&gt;Digital Garden&lt;/h2&gt;
-&lt;p&gt;Like a real garden,
-a digital garden is where the gardener plant the seeds of ideas,
-and hope to grow them.
-It becomes both the medium and the message of the self.
-For some it&amp;rsquo;s a blog;
-for others it&amp;rsquo;s their own personal wiki.&lt;/p&gt;
+&lt;p&gt;Like a real garden, a digital garden is where the gardener plants the
+seeds of ideas, and hope to grow them.  It becomes both the medium and
+the message of the self. For some it is a blog; for others it&amp;rsquo;s their
+own personal wiki.&lt;/p&gt;
 &lt;p&gt;This site, then, is my &lt;a href=&#34;https://ohio.araw.xyz/wiki&#34;&gt;digital garden&lt;/a&gt;.
 Expect that things will be corrected, deleted, edited, fed, &lt;em&gt;grown&lt;/em&gt;.
 Like a real garden, tending this one relaxes me.
@@ -12726,52 +12725,56 @@ It helps me reorganize my thoughts by weeding out what&amp;rsquo;s unnecessary.&
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;public-repository-of-independent-research&#34;&gt;Public Repository of Independent Research&lt;/h3&gt;
-&lt;p&gt;This site will also have my research material, if any at all.
-Research, in this context, will be different from that in academia.
-This bypasses the usual way to earn a post-graduate degree.
-After reading Nadia Asparouhova&amp;rsquo;s post, &amp;ldquo;&lt;a href=&#34;https://nadia.xyz/phd&#34;&gt;Reimagining the PhD&lt;/a&gt;,&amp;rdquo; I&amp;rsquo;m now more inclined to do this.
-As a result, I won&amp;rsquo;t get a certification nor a degree; it won&amp;rsquo;t be official.
-But what are certifications anyway if not,
-for better or worse,
-a glorified piece of paper?&lt;/p&gt;
-&lt;p&gt;I can&amp;rsquo;t also imagine spending a few more years in grad school.
-I am, more or less, happy with the opportunity cost of not dealing with it.&lt;/p&gt;
+&lt;p&gt;This site will also have research material, if any at all. Research, in
+this context, will be different from that in &lt;a href=&#34;https://ohio.araw.xyz/academy&#34;&gt;academia&lt;/a&gt;. This
+bypasses the usual way to earn a post-graduate degree. After reading
+Nadia Asparouhova&amp;rsquo;s post, &amp;ldquo;&lt;a href=&#34;https://nadia.xyz/phd&#34;&gt;Reimagining the PhD&lt;/a&gt;,&amp;rdquo;
+I am now more inclined to do this. As a
+result, I will get neither a certification nor a degree; it will not be official.
+But what are certifications anyway if not, for better or worse, a
+glorified piece of paper?&lt;/p&gt;
+&lt;p&gt;I cannot also imagine spending a few more years in grad school, to be
+honest.  I am, more or less, happy with the opportunity cost of not
+dealing with it.&lt;/p&gt;
 &lt;p&gt;Instead, I enlist you, Dear Reader, as my peer reviewer.
 I hope you don&amp;rsquo;t mind.&lt;/p&gt;
-&lt;p&gt;I think this opens interesting avenues for the stakeholders (me and the public).
-There will always be people smarter than me;
-hopefully, I can pull some of their attention here to share their insights someday.&lt;/p&gt;
+&lt;p&gt;I think this opens interesting avenues for the stakeholders (me and the
+public). There will always be people smarter than me; hopefully, I can
+pull some of their attention here to share their insights someday.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;major-sections&#34;&gt;Major Sections&lt;/h3&gt;
-&lt;p&gt;This site is divided into two main sections: &lt;strong&gt;Log&lt;/strong&gt; and &lt;strong&gt;Projects&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Each post in the &lt;em&gt;Log&lt;/em&gt; will start with a list the significant revisions in the Site.
-After that, I&amp;rsquo;ll try to add some personal updates as well.&lt;/p&gt;
-&lt;p&gt;In &lt;em&gt;Projects&lt;/em&gt;, I list the thing/s I&amp;rsquo;m currently doing on the side.
-Each one begins with Table of Contents (ToC), so readers can skim the topics.
-The write-ups will be a healthy blend of creative and technical writing,
-to prevent you from getting bored, something I won&amp;rsquo;t afford to do in a formal setting.
-Of course, I&amp;rsquo;ll include citations properly.&lt;/p&gt;
-&lt;p&gt;There&amp;rsquo;s RSS (RDF [Resource Description Framework] Site Summary,
-or Really Simple Syndication), a web feed,
-which readers can subscribe to get updated.
-For that, one needs RSS reader.
-Alternatively, some email clients like Thunderbird, Microsoft Outlook, and Apple
-Mail, have their own built-in RSS reader.
-You can use any of those too.
-A web service is available along these lines: check out &lt;a href=&#34;https://rssby.email&#34;&gt;RSS by email&lt;/a&gt;.
-Or if you&amp;rsquo;re a more technical person,
-check out &lt;a href=&#34;https://pypi.org/project/rss2email/&#34;&gt;rss2email&lt;/a&gt;,
-a software that can forward your RSS feeds to your email.&lt;/p&gt;
+&lt;p&gt;This site is divided into three main sections: &lt;strong&gt;Log&lt;/strong&gt;, &lt;strong&gt;Projects&lt;/strong&gt;,
+and &lt;strong&gt;Wiki&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;em&gt;Log&lt;/em&gt; contains chronological updates, mostly about life in
+general, but would sometimes include some site changes.&lt;/li&gt;
+&lt;li&gt;In &lt;em&gt;Projects&lt;/em&gt;, I list the thing/s I&amp;rsquo;m currently doing on the side.
+Each one begins with Table of Contents (ToC), so readers can skim the
+topics.  The write-ups will be a healthy blend of creative and
+technical writing, Of course, I&amp;rsquo;ll include citations properly.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Wiki&lt;/em&gt; is my proverbial digital garden where I share my notes about
+things I find interesting publicly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;minor-sections&#34;&gt;Minor section/s&lt;/h3&gt;
+&lt;p&gt;There&amp;rsquo;s RSS (RDF [Resource Description Framework] Site Summary, or
+Really Simple Syndication), a web feed, which readers can subscribe to
+get updated.  For that, one needs RSS reader. Alternatively, some email
+clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their
+own built-in RSS reader.  You can use any of those too.  A web service
+is available along these lines: check out &lt;a href=&#34;https://rssby.email&#34;&gt;RSS by
+email&lt;/a&gt;.  Or if you&amp;rsquo;re a more technical person,
+check out &lt;a href=&#34;https://pypi.org/project/rss2email/&#34;&gt;rss2email&lt;/a&gt;, a software
+that can forward your RSS feeds to your email.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;design-choices&#34;&gt;Design choices&lt;/h2&gt;
-&lt;p&gt;I borrow design principles from brutalism for this site. Admittedly,
-it&amp;rsquo;s the result of having only a working knowledge of HTML and CSS, and
+&lt;p&gt;I borrow design principles from brutalism. Admittedly,
+it is the result of having only a working knowledge of HTML and CSS, and
 virtually none of JavaScript. This &amp;ldquo;limitation&amp;rdquo; becomes a feature for
 static websites like this one.&lt;/p&gt;
 &lt;p&gt;(For a complete breakdown of HTML and CSS, one can always inspect the
-page source. Accessing it differs from browser to browser.)&lt;/p&gt;
+page source.)&lt;/p&gt;
 &lt;p&gt;By foregoing intricate &lt;a href=&#34;https://ohio.araw.xyz/ui-ux&#34;&gt;UI/UX design&lt;/a&gt;, I can focus on what
 matters most: &lt;em&gt;content&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Through simplicity, I&amp;rsquo;m making this site less bloated.
@@ -12785,8 +12788,8 @@ content;&lt;/li&gt;
 &lt;li&gt;the site loads fast because of &lt;a href=&#34;https://ohio.araw.xyz/no-ads&#34;&gt;no ads&lt;/a&gt;, no tracking, no custom fonts; and,&lt;/li&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I consider these points important as they all relate to my current situation.
-In fact, websites should be guided by these principles.&lt;/p&gt;
+&lt;p&gt;I consider these points important as they all relate to my current
+situation. In fact, websites should be guided by these principles.&lt;/p&gt;
 &lt;p&gt;And because of these, this site scores
 &lt;a href=&#34;https://yellowlab.tools/result/h4kknty483&#34;&gt;100/100 according to Yellow Lab Tools&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -12814,18 +12817,17 @@ This is what I use:&lt;/p&gt;
 &lt;li&gt;Roboto&lt;/li&gt;
 &lt;li&gt;Noto&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Using serif for headings and sans serif for body gives a clear delineation
-which piece of info is which.&lt;/p&gt;
+&lt;p&gt;Using serif for headings and sans serif for body gives a clear
+delineation which piece of info is which.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;light-and-dark-themes&#34;&gt;Light and Dark themes&lt;/h3&gt;
 &lt;p&gt;Earlier iteration of this site defaults to dark mode, giving visitors no
-option to change to light mode.&lt;/p&gt;
-&lt;p&gt;A good design provides option for both.&lt;/p&gt;
+option to change to light mode. A good design provides option for both.&lt;/p&gt;
 &lt;p&gt;Now, current theme will depend on what you have set for your
 device/browser.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m no expert in color theory, so I had help from online color palette
-generators to see which colors work well.
+generators to see which color combinations work well.
 &lt;a href=&#34;https://coolors.co/&#34;&gt;Coolors&lt;/a&gt; is good tool on this.&lt;/p&gt;
 &lt;p&gt;Another thing to check for is color contrast. Readability of text
 depends on how large the font AND what colors are mixed together. After
@@ -12857,16 +12859,16 @@ You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;javascript&#34;&gt;JavaScript?&lt;/h3&gt;
-&lt;p&gt;Given the simple layout, the interactions with the visitor are limited to
-reading content and clicking links.
-These can be achieved without JS.&lt;/p&gt;
+&lt;p&gt;Given the simple layout, the interactions with the visitor are limited
+to reading content and clicking links. These can be achieved without
+JS.&lt;/p&gt;
 &lt;p&gt;A few pages with some math do contain JS, specifically
 &lt;a href=&#34;https://www.mathjax.org&#34;&gt;MathJax&lt;/a&gt;, to render the formulae beautifully.
 But on mobile, it doesn&amp;rsquo;t load properly. As of writing this, I&amp;rsquo;m still
 looking for a workaround on that.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re neither a math nor JS enthusiast, it&amp;rsquo;s a non-issue to have your
-browser&amp;rsquo;s JS disabled, but you&amp;rsquo;ll likely see weird syntax where a math
-formula should be.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re neither a math nor JS enthusiast, it&amp;rsquo;s a non-issue to have
+your browser&amp;rsquo;s JS disabled, but you&amp;rsquo;ll likely see weird syntax where a
+math formula should be.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;images&#34;&gt;Images&lt;/h3&gt;
@@ -12903,15 +12905,15 @@ creation, helps reduce the image size.&lt;/li&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;comments-section&#34;&gt;Comments section&lt;/h3&gt;
-&lt;p&gt;There is no comment section in this site. It&amp;rsquo;s both social and technical
-burden on me to implement and moderate. But honestly, the tools out
-there just don&amp;rsquo;t meet my criteria.&lt;/p&gt;
-&lt;p&gt;One can still send their thoughts via this protocol called email, and
-mine is always at the footer! Sending comments via email is old school,
-but I feel like it promotes more thoughtful discussion rather than
-needless debate. The &amp;ldquo;friction&amp;rdquo; of having to open one&amp;rsquo;s email client
-certainly makes one be deliberate about the message (or comment) they&amp;rsquo;re
-planning to send.&lt;/p&gt;
+&lt;p&gt;There is no comment section in this site. It is both social and
+technical burden on me to implement and moderate. But honestly, the
+tools out there just don&amp;rsquo;t meet my criteria.&lt;/p&gt;
+&lt;p&gt;One can still send their thoughts via this reliable thing called email,
+and mine is always at the footer! Sending comments via email is old
+school, but I feel like it promotes more thoughtful discussion rather
+than needless debate. The &amp;ldquo;friction&amp;rdquo; of having to open one&amp;rsquo;s email
+client certainly makes one be deliberate about the message (or comment)
+they are planning to send.&lt;/p&gt;
 &lt;p&gt;Also, if we know each other personally, feel free to message your
 comments to me directly via Signal, assuming we already have each
 other&amp;rsquo;s contact details.&lt;/p&gt;
@@ -13027,17 +13029,15 @@ Microsoft Office suite and Adobe Photoshop).&lt;/p&gt;
 &lt;p&gt;Anyway, one of our lab works was to create our own (offline) website. It had to
 be interesting, catchy. Many of my classmates had &lt;code&gt;&amp;lt;marquee&amp;gt;&lt;/code&gt;
 and &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags, and of course, GIFs in their works.&lt;/p&gt;
-&lt;p&gt;I don&amp;rsquo;t remember how mine looked, but I&amp;rsquo;m sure it&amp;rsquo;s basic,
+&lt;p&gt;I do not remember how mine looked, but I am sure it was basic,
 with broken links hither and thither.&lt;/p&gt;
 &lt;p&gt;More than a decade later, here I am, building and maintaining one.
-This time, I am enjoying the process.
-At least, I have retained the important bits on how HTML works,
-so I&amp;rsquo;m not starting from zero.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;I dedicate this site to my former self&lt;/strong&gt;, who couldn&amp;rsquo;t seem to grasp
+This time, I am enjoying the process.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I dedicate this site to my younger self&lt;/strong&gt;, who could not seem to grasp
 the importance of web design. As we rely on the &lt;a href=&#34;https://ohio.araw.xyz/internet&#34;&gt;internet&lt;/a&gt;
 for improving our collective knowledge, web designers and developers
 &lt;em&gt;must see to it&lt;/em&gt; that everyone can access information, in spite of the
-current tech they have.&lt;/p&gt;
+current tech they&amp;mdash;&lt;em&gt;we&lt;/em&gt;&amp;mdash;have.&lt;/p&gt;
 &lt;p&gt;Here are some other sites from which I also got inspiration:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://solar.lowtechmagazine.com&#34;&gt;LOW←TECH MAGAZINE&lt;/a&gt;. Their article
