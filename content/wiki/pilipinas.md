@@ -13,3 +13,4 @@ Philippines.
 - "[war on drugs](/drugwar)"
 - [Worst thing each Philippine President has ever done](/ph-presidents)
 - [Philippine Elections](/ph-elections)
+- [Pax Silica](/pax-silica)

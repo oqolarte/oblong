@@ -353,7 +353,7 @@ foraging society.
 Private property may have originated from "sacred" property in free
 societies. In any case, such property is protected from public by
 elaborate rituals. But what is "sacred"? Emile Durkheim defines it as
-something removed fro mthe world because of its imperceptible connection
+something removed from the world because of its imperceptible connection
 with a higher force. The concept is as old as humanity itself.
 
 ## Nature of slavery
@@ -379,8 +379,64 @@ caring could be freely perverted and corrupted.
 Graeber and Wengrow talks about how the types of societies could be a
 function of their main food source. They compare Northwest Coast
 societies with Californian societies (both from Turtle Island). The
-former relied in salmon-fishinf and became war-like, while the latter
+former relied in salmon-fishing and became war-like, while the latter
 relied on acorn-gathering and became peaceful. [Optimal foraging theory](https://en.wikipedia.org/wiki/Optimal_foraging_theory)
 might make sense might make sense for salmon-fishing societies, but
 having "war-proof staple food" like acorns addresses a different kind of
 metric.
+
+## Some notes on origins of farming
+
+Farming began from many roots, not only as a way to sustain a growing
+population but also, possibly, as a way to meet the desire to spend
+longer in particular kinds of locations.
+
+First farmers were reluctant farmers, because the had less incentive to
+tie their existence to a narrow range of crops and livestock. Around
+them were already wild and diverse resources, ripe for picking.
+
+[Yuval Noah Harari](https://www.ynharari.com/), Israeli historian,
+argues that it is wheat that has domesticated people, just as much as
+people ever domesticated wheat. Wheat "manipulated" humans to do its
+bidding by providing a great environment for the plant to thrive: soil
+with much less stones (which humans had to remove from the earth), no
+other plants sharing the same space (which humans to weed out), lots of
+irrigation, etc.
+
+In some areas where farming "failed" in the past, people there rejected
+the practice just like they did on slavery. This was most likely because
+farming required intensive labor versus foraging.
+
+Not all early farming were "serious." Those uncovered in the lowland
+tropics of South America, Nambikwara of Brazil's Mato Grosso were used
+to farming only in rainy seasons. After which, they would abandon it in
+favor of foraging. Until the next rainy season, they would start the
+farming process only elsewhere.
+
+Farming tended to happen where resources were sparse.
+
+## Women as quite possible the first scientists
+
+Plant-based knowledge, including but not limited to, harvesting wild
+plants and turning them to food, medicine, baskets, and clothing, has
+always had strong associations to women. When we focus on the complex
+handiwork like wearing textiles, baskets, cordage, etc., then we can
+also trace the origins of [math](/math) and geometry to women.
+
+## Notes on first cities
+
+Based on archeological evidence from the last forty years, larger
+societies---"civilizations"---do *NOT* tend to be less democratic and
+egalitarian by creating classes and states.
+
+Many humans just do not like their families much, and if given
+opportunity to do so, would travel far away from them. This goes against
+the common sense that tight-knit communities are necessarily
+biologically related. Kinshiop, then, becomes a metaphor for social
+attachments. Or: "we choose our family."
+
+Intricate systems of mutual aid could sustain a large village, like in
+some Basque societies, even without needing administrators t obe in
+charge of social affairs. By considering that we are responsible for our
+neighbors' as well as our own welfare, it might be possible to be
+self-conscious egalitarians.

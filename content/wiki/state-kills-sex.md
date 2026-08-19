@@ -53,3 +53,7 @@ fetishes, perhaps reinforcing some misogynistic tendencies.
 - Can [ethical non-monogamy](/non-monogamy) be the answer to this? That
   is, should people start believing that romantic/sexual love cannot be
   shared between one other person only?
+
+TODO
+
+Delete if add here: https://www.tumblr.com/cumpisal/825187933090988032/i-read-a-post-online-about-someone-enjoying-sex

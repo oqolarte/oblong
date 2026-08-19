@@ -5,9 +5,8 @@ draft: false
 math: false
 ---
 
-Meant to be taken with our person,
-smartphones, and the apps in them, are designed
-to be pocketable assistants.
+Meant to be taken with our person, smartphones, and the apps in them,
+are designed to be pocketable assistants.
 
 {{< toc >}}
 
@@ -15,8 +14,6 @@ to be pocketable assistants.
 
 Inspired by [Thomasorus](https://thomasorus.com/my-ideal-phone.html),
 below is a list of specs in my ideal phone.
-I'm not sure though how likely these components would work together,
-or what I'm asking would even be possible.
 
 ### Hardware
 
@@ -27,6 +24,10 @@ or what I'm asking would even be possible.
   radio waves, volume, etc.
 - Small OLED *or* e-ink screen with a decent refresh rate, maybe within
   2.5" to 3.5" range
+    - Inspired by [PocketMage](https://pocketmage.org/back), an optional
+      smaller [2" or lesss] OLED secondary display would be nice to
+      cater tasks that demand higher refresh rate, for example, typing
+      texts.
 - A camera for scanning QR, bar codes, and maybe the occasional paper
   document
 - Has a microSD slot for expanded storage

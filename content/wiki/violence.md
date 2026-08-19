@@ -130,3 +130,7 @@ vital in surviving the attacks of the oppressor.
 Violence shouldn't be the main driver of a revolution, but it will be
 involved in some form, especially if it's one of the main tools the
 state and capitalism.
+
+## Further reading
+
+[Ambient Male Violence](https://primroset.substack.com/p/ambient-male-violence): talks about how the author believes that senseless violence inflicted by men is everywhere, forever.

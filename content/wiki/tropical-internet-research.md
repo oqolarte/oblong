@@ -18,7 +18,7 @@ From the link above (hyperlink/s added by me):
 > experienced/lived from the  tropic regions of the
 > [Philippines](/pilipinas) and broader Southeast Asia, concerned with
 > heat, extremes, monsoons, distance, islandedness, improvisation,
-> pluralities, and diasporas.  Think extremes and edges: how
+> pluralities, and diasporas. Think extremes and edges: how
 > [technology](/technology) operates under those conditions as a
 > totalizing infrastructure. We view the [internet](/internet) not as a
 > frictionless, invisible global system but as an

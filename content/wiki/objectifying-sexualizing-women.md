@@ -10,9 +10,6 @@ I once read a rant from a woman, and it went (verbatim):
 > Women are not objects. People who sexualize women have no right to be
 > called human beings...
 
-At the risk of mansplaining, I am writing this to try to unpack this
-based on what I know.
-
 {{< toc >}}
 
 ## "Women are not objects."
@@ -64,7 +61,3 @@ Some examples:
   know of the fact is creepy.
 - Consensual freaky and nasty sex is great, but if the safeword is
   uttered, stop immediately and proceed to aftercare.
-
-But what about writing smut on the internet for fun?
-
-The proof is left as an exercise to the reader.

@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:37:49 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:25:40 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -199,6 +199,14 @@ finish reading.&lt;/p&gt;
       &lt;tr&gt;
           &lt;td&gt;Heretics of Dune&lt;/td&gt;
           &lt;td&gt;Frank Herbert&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;The Age of Reason&lt;/td&gt;
+          &lt;td&gt;Jean-Paul Sartre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Wild Swans: The Three Daughters of China&lt;/td&gt;
+          &lt;td&gt;Jung Chang 張戎&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -676,7 +684,7 @@ poll: &lt;a href=&#34;https://beige.party/@maxleibman/116965367300703261&#34;&gt
 &lt;li&gt;Password manager: &lt;a href=&#34;https://bitwarden.com/&#34;&gt;Bitwarden&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email client: &lt;a href=&#34;https://aerc-mail.org&#34;&gt;aerc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email providers: &lt;a href=&#34;https://www.migadu.com/&#34;&gt;Migadu&lt;/a&gt;, &lt;a href=&#34;https://tutanota.com/&#34;&gt;Tuta&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Torrent client: &lt;a href=&#34;https://transmissionbt.com/&#34;&gt;Transmission&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Torrent client: &lt;a href=&#34;https://www.qbittorrent.org&#34;&gt;qBittorrent&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Back-up/File Sync: &lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Instant messaging: &lt;a href=&#34;https://signal.org/&#34;&gt;Signal&lt;/a&gt;, &lt;a href=&#34;https://delta.chat&#34;&gt;Delta Chat&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;RSS Feed reader: &lt;a href=&#34;https://codeberg.org/newsraft/newsraft&#34;&gt;newsraft&lt;/a&gt;&lt;/li&gt;
@@ -689,6 +697,7 @@ poll: &lt;a href=&#34;https://beige.party/@maxleibman/116965367300703261&#34;&gt
 &lt;li&gt;Authenticator: &lt;a href=&#34;https://getaegis.app/&#34;&gt;Aegis&lt;/a&gt; (Android)&lt;/li&gt;
 &lt;li&gt;Alternative app repos (Android): &lt;a href=&#34;https://f-droid.org/en/&#34;&gt;F-droid&lt;/a&gt; and &lt;a href=&#34;https://obtainium.imranr.dev/&#34;&gt;Obtainium&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;CD Ripper: &lt;a href=&#34;https://en.wikipedia.org/wiki/Asunder_(software)&#34;&gt;Asunder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tor network-adjacent: &lt;a href=&#34;https://snowflake.torproject.org&#34;&gt;Snowflake&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;special-mentions&#34;&gt;Special Mentions&lt;/h2&gt;
 &lt;ul&gt;

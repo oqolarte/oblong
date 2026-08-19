@@ -13,11 +13,13 @@ finish reading.
 
 ## Currently reading
 
-| Book Title             | Author/s                        |
-|------------------------|---------------------------------|
-| The Dawn of Everything | David Graeber and David Wengrow |
-| Mutual Aid             | Dean Spade                      |
-| Heretics of Dune       | Frank Herbert                   |
+| Book Title                               | Author/s                        |
+|------------------------------------------|---------------------------------|
+| The Dawn of Everything                   | David Graeber and David Wengrow |
+| Mutual Aid                               | Dean Spade                      |
+| Heretics of Dune                         | Frank Herbert                   |
+| The Age of Reason                        | Jean-Paul Sartre                |
+| Wild Swans: The Three Daughters of China | Jung Chang 張戎                 |
 
 
 ## Completed

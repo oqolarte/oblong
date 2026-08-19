@@ -18,7 +18,7 @@ draft: false
 - Password manager: [Bitwarden](https://bitwarden.com/)
 - Email client: [aerc](https://aerc-mail.org)
 - Email providers: [Migadu](https://www.migadu.com/), [Tuta](https://tutanota.com/)
-- Torrent client: [Transmission](https://transmissionbt.com/)
+- Torrent client: [qBittorrent](https://www.qbittorrent.org)
 - Back-up/File Sync: [Syncthing](https://syncthing.net/)
 - Instant messaging: [Signal](https://signal.org/), [Delta Chat](https://delta.chat)
 - RSS Feed reader: [newsraft](https://codeberg.org/newsraft/newsraft)
@@ -31,6 +31,7 @@ draft: false
 - Authenticator: [Aegis](https://getaegis.app/) (Android)
 - Alternative app repos (Android): [F-droid](https://f-droid.org/en/) and [Obtainium](https://obtainium.imranr.dev/)
 - CD Ripper: [Asunder](https://en.wikipedia.org/wiki/Asunder_(software))
+- Tor network-adjacent: [Snowflake](https://snowflake.torproject.org)
 
 ## Special Mentions
 
