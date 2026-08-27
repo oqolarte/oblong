@@ -102,6 +102,7 @@ I read slowly, you might notice.
 | Trust Kids!                                                                                            | carla joy bergman (Editor)                       |
 | [God Emperor of Dune](/348/#thoughts-on-god-emperor-of-dune)                                           | Frank Herbert                                    |
 | Beyond the Great Wall: A Family Journal                                                                | Miclat Family (Maria, Alma, Maningnging, Banaue) |
+| [The Heart of a Dog](/363/#brief-review-of-the-heart-of-a-dog)                                         | Mikhail Bulgakov                                 |
 
 ## Did not finish
 
@@ -149,3 +150,19 @@ anecdotes.
 **Why**: No good reason other than I have no mental capacity for it
 lately. It *is* a good book. Perhaps, in the future I might return to
 it.
+
+## Ten books to get to know me
+
+I heard this is/was a trend in social media platforms. This list *will*
+change over time, and that is the beauty of it.
+
+1. *Ermita* by F. Sionil Jose
+2. *The Dispossessed* by Ursula K. Le Guin
+3. *1984* by George Orwell
+4. *V for Vendetta* by Alan Moore and David Lloyd
+5. *Klara and the Sun* by Kazuo Ishiguro
+6. *Antifragile* by Nassim Nicholas Taleb
+7. *All About Love* by bell hooks
+8. *Braiding Sweetgrass* by Robin Wall Kimmerer
+9. [TO BE DETERMINED]
+10. [TO BE DETERMINED]
