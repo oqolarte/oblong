@@ -103,6 +103,7 @@ I read slowly, you might notice.
 | [God Emperor of Dune](/348/#thoughts-on-god-emperor-of-dune)                                           | Frank Herbert                                    |
 | Beyond the Great Wall: A Family Journal                                                                | Miclat Family (Maria, Alma, Maningnging, Banaue) |
 | [The Heart of a Dog](/363/#brief-review-of-the-heart-of-a-dog)                                         | Mikhail Bulgakov                                 |
+| [Ghost World](/364/#thoughts-on-ghost-world)                                                           | Daniel Clowes                                    |
 
 ## Did not finish
 
