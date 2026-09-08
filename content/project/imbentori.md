@@ -4,7 +4,7 @@ date: 2021-03-08T11:59:15+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "imbentori", "tumblog", "tumblr blog"]
 draft: false
 ---
-{{< ongoing >}}
+{{< done >}}
 
 If it isn't obvious yet,
 people like me like to express themselves on the internet.

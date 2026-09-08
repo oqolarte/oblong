@@ -5,8 +5,6 @@ draft: false
 math: false
 ---
 
-More specifically, I am using [neovim](https://neovim.io), a more
-modern version of Vim.
 
 Compiled here are some edge cases in vim.
 

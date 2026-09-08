@@ -6,7 +6,7 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:43:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:40:51 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -691,6 +691,7 @@ poll: &lt;a href=&#34;https://beige.party/@maxleibman/116965367300703261&#34;&gt
     &lt;li&gt;&lt;a href=&#34;#why&#34;&gt;Why?&lt;/a&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#why-not&#34;&gt;&amp;hellip;why not?&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#f-in-foss-does-not-mean-fascist&#34;&gt;F in FOSS does &lt;em&gt;not&lt;/em&gt; mean Fascist&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#final-thoughts&#34;&gt;Final thoughts&lt;/a&gt;&lt;/li&gt;
@@ -704,7 +705,7 @@ poll: &lt;a href=&#34;https://beige.party/@maxleibman/116965367300703261&#34;&gt
 &lt;li&gt;Operating System: &lt;a href=&#34;https://alpinelinux.org&#34;&gt;Alpine Linux latest &lt;em&gt;stable&lt;/em&gt;&lt;/a&gt; (laptop, daily driver); &lt;a href=&#34;https://www.debian.org/News/2025/20250809&#34;&gt;Debian 13 &amp;ldquo;&lt;em&gt;trixie&lt;/em&gt;&amp;rdquo;&lt;/a&gt; (host server); Android (smartphone)&lt;/li&gt;
 &lt;li&gt;Tiling window manager: &lt;a href=&#34;https://swaywm.org/&#34;&gt;sway&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Web Browsers: &lt;a href=&#34;https://librewolf.net&#34;&gt;LibreWolf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Search engine: &lt;a href=&#34;https://www.startpage.com/&#34;&gt;Startpage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Search engine: &lt;a href=&#34;https://noai.duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Password manager: &lt;a href=&#34;https://bitwarden.com/&#34;&gt;Bitwarden&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email client: &lt;a href=&#34;https://aerc-mail.org&#34;&gt;aerc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Email providers: &lt;a href=&#34;https://www.migadu.com/&#34;&gt;Migadu&lt;/a&gt;, &lt;a href=&#34;https://tutanota.com/&#34;&gt;Tuta&lt;/a&gt;&lt;/li&gt;
@@ -780,6 +781,14 @@ other big tech companies? When these are baked into the curriculum early
 on, it makes opting into FOSS alternatives feel like a burden than just
 using what you already know (in this case, products from Microsoft,
 Google, Adobe, etc.).&lt;/p&gt;
+&lt;h3 id=&#34;f-in-foss-does-not-mean-fascist&#34;&gt;F in FOSS does &lt;em&gt;not&lt;/em&gt; mean Fascist&lt;/h3&gt;
+&lt;p&gt;Using FOSS is not enough. We must also examine the context in which it
+operates, the person/s behind it, and what those people enable.&lt;/p&gt;
+&lt;p&gt;Check these lists for more info:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drewdevault.com/weird-guys/&#34;&gt;Weird little guys of FOSS&lt;/a&gt; by Drew DeVault&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git.sr.ht/~rabbits/fashware&#34;&gt;fashware&lt;/a&gt; list by Hundred Rabbits&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;final-thoughts&#34;&gt;Final thoughts&lt;/h2&gt;
 &lt;p&gt;I try not to get obsessed, though, on picking the right tools.
 There&amp;rsquo;s no perfect tool, and even the great ones will not save you;

@@ -367,7 +367,7 @@ The above findings are according to [The Markup's Blacklight tool](https://thema
 
 [Vultr](https://www.vultr.com) currently hosts this site using their cheapest
 VPS.
-The VM runs on Debian 12 "Bookworm".
+The VM runs on Debian 13 "trixie".
 
 {{< btt >}}
 

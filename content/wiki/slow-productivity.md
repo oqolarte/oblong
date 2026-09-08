@@ -16,11 +16,11 @@ embrace Time and factor it in the work we our doing (or not doing).
 ## Slow Tech
 
 Our strides in [technology](/technology) lead many of us believe that
-solving certain problems must be quick now, or else, what's the point?
+solving certain problems must be quick now, or else, what is the point?
 
 Someone who stayed in our home snarked on our manual coffee grinder,
 visibly being sarcastic about how it's slow living in the Major Urban
-City. Maybe it's lost on them that even if we can obtain a high-speed
+City. Maybe it was lost on them that even if we can obtain a high-speed
 grinder, we have chosen to be intentional in some of our
 tasks, including making a cup of coffee. At the end of the day, though
 worlds apart, caffeine is the
@@ -31,22 +31,18 @@ so all cool.
 
 In a [capitalistic society](/capitalism) addicted to productive and
 efficient motions, our last defense mechanism is procrastination:
-letting thingstake care of themselves with little to no intervention
+letting things take care of themselves with little to no intervention
 from us. It can be use to filter things that one really wants or needs
 to do.
 
 Mysteriously, significant signals have a way to reach you. On a larger
-time scale, like annually, signal to noise ratio seems to get even. But
+time scale, like annually, signal-to-noise ratio seems to even out. But
 as one zooms to hourly, there is more noise. This is evident in news and
 current affairs cycles.
 
 In a society that demands efficiency, deciding to commit early is a
-determining factor for most, if not all, transactions. And we are
-filled with transactions if we really look at the state of things. Not
-that it's necessarily bad. If you have the resources, I say take your
-time and slow down; the great things in life rarely come to those who
-haste. But if you don't have the this luxury---and for many, waiting
+determining factor for most, if not all, transactions. And we are inundated with transactions. Not
+that it is necessarily bad. If you have the right resources, slow down; the great things in life rarely come to those who
+haste. But many do not have the this luxury---and for many, waiting
 *is* a luxury---consider whatever the choice is that causes the least
 amount of harm.
-
-

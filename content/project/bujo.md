@@ -4,25 +4,20 @@ date: 2021-05-13T17:04:58+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte", "bullet journal", "bullet journal method"]
 draft: false
 ---
-{{< ongoing >}}
 
-{{< figure src="/image/bujos.jpg" alt="picture of personal journals lined up on a shelf, on each of their spine are dates during which they were used" caption="Current line up" >}}
+{{< open >}}
 
 I have been mostly following the bullet journal method since I first
 chanced on it on 2015. It made sense to me at the time, and it still
 does.
 
-Our [technology](/technology) rushed to the digital. Bujo remains one of
-my anchors to the analog world, where things are slower and require more
-thought. This persistence to go analong on things that matter to me is
-anti-capitalist by nature, because the act resists going fast.
+Our [technology](/technology) has rushed to the digital. Bujo remains
+one of my anchors to the analog world, where things are slower and
+require more thought. This persistence to go analong on things that
+matter to me is anti-capitalist by nature, because the act resists going
+fast.
 
 If you're curious what this is, read more in this [archived] article [here](https://web.archive.org/web/20210119165629/https://bulletjournal.com/pages/learn).
-
-Here I discuss my bidirectional setup,
-riffed from a combination of Carroll's and others' minimal designs.
-
-Marked as **on-going** because I'm always revising my bujo ways.
 
 {{< toc >}}
 
@@ -63,16 +58,12 @@ Accessing the notebook via "front door" means opening it in its proper
 orientation. Conversely, "back door" means the back cover of the
 notebook.
 
-From one side, the front,
-all the logs---daily, monthly, future---are written.
-I don't put the Index in this side,
-because it's not often that I refer back to a Daily Log.
+From one side, the front, all the logs---daily, monthly, future---are
+writtenr.
 
-For the other Collections,
-the bujo is flipped over,
-and writing starts from the back door going in.
-On this other side, I put the Index.
-I write the page number at the bottom corners of each page.
+For the other Collections, the bujo is flipped over, and writing starts
+from the back door going in. On this other side, I put the Index. I
+write the page number at the bottom corners of each page.
 
 Sample of non-log Collections that I write from the back door:
 - cooking recipes
@@ -92,12 +83,13 @@ the *chocolate crinkles* recipe would be in the back side of the bujo.
 
 This is used to store entries that will occur outside the current month.
 
-I find this useful, especially when scheduling tasks and projects for later that I don't want to keep in my head right now.[^rapidlog]
+I find this useful, especially when scheduling tasks and projects for
+later that I don't want to keep in my head right now.[^rapidlog]
 
-[^rapidlog]: In fact, the main tenet of bujo is rapid logging:
-to write down a thought quickly before the mind forgets it.
-As a consequence, the notebook becomes a list of list of items in bullet points,
-hence the name Bullet Journal.
+[^rapidlog]: In fact, the main tenet of bujo is rapid logging: to write
+down a thought quickly before the mind forgets it.  As a consequence,
+the notebook becomes a list of list of items in bullet points, hence the
+name Bullet Journal.
 
 {{< btt >}}
 ### Monthly Log

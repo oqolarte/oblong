@@ -6,7 +6,7 @@ draft: false
 math: false
 ---
 
-{{< ongoing >}}
+{{< open >}}
 
 Ever since I got into using Linux full-time, I dreamed about saving old
 laptops[^refurbish] by refurbishing them and donating them to those who

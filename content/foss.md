@@ -14,7 +14,7 @@ draft: false
 - Operating System: [Alpine Linux latest *stable*](https://alpinelinux.org) (laptop, daily driver); [Debian 13 "*trixie*"](https://www.debian.org/News/2025/20250809) (host server); Android (smartphone)
 - Tiling window manager: [sway](https://swaywm.org/)
 - Web Browsers: [LibreWolf](https://librewolf.net)
-- Search engine: [Startpage](https://www.startpage.com/)
+- Search engine: [DuckDuckGo](https://noai.duckduckgo.com/)
 - Password manager: [Bitwarden](https://bitwarden.com/)
 - Email client: [aerc](https://aerc-mail.org)
 - Email providers: [Migadu](https://www.migadu.com/), [Tuta](https://tutanota.com/)
@@ -91,6 +91,16 @@ other big tech companies? When these are baked into the curriculum early
 on, it makes opting into FOSS alternatives feel like a burden than just
 using what you already know (in this case, products from Microsoft,
 Google, Adobe, etc.).
+
+### F in FOSS does *not* mean Fascist
+
+Using FOSS is not enough. We must also examine the context in which it
+operates, the person/s behind it, and what those people enable.
+
+Check these lists for more info:
+
+- [Weird little guys of FOSS](https://drewdevault.com/weird-guys/) by Drew DeVault
+- [fashware](https://git.sr.ht/~rabbits/fashware) list by Hundred Rabbits
 
 ## Final thoughts
 
