@@ -1,8 +1,11 @@
 # Block all known AI crawlers and assistants
 # from using content for training AI models.
 # Source: https://robotstxt.com/ai
+User-Agent: anthropic-ai
 User-Agent: GPTBot
+User-Agent: ChatGPT-User
 User-Agent: ClaudeBot
+User-Agent: Claude-Web
 User-Agent: Claude-User
 User-Agent: Claude-SearchBot
 User-Agent: CCBot
@@ -64,6 +67,7 @@ DisallowAITraining: /
 User-Agent: *
 DisallowAITraining: /
 Content-Usage: ai=n
+Content-Signal: search=yes, ai-input=no, ai-train=no
 Allow: /
 
 Sitemap: https://ohio.araw.xyz/sitemap.xml

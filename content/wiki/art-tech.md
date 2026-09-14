@@ -7,21 +7,23 @@ draft: true
 Tools help us create. Early humans use rocks and sticks to shape their
 space around them, to gather food, to survive. Today, our tools no
 longer have a primitive side to it; even bushcraft people are guided by
-more modern principles that are not one would call primitive. In fact,
-the average person can't make their own tools from raw materials using
+more modern principles beyond the primitive. In fact,
+the average person cannot make their own tools from raw materials using
 only their hands and wits. This is, of course, understandable. Given the
-economics of scale, we have outsourced everything elsewhere to people we
-won't likely meet. Now, there are devices that can help create cool
+economics of scale, we have outsourced everything to people elsewhere whom we
+will not likely meet.
+
+Now, there are devices that can help create cool
 drawings and paintings. Technology provides tools like drawing software,
 digital cameras, and even 3D printers that artists can use to make their
 [art](/art).
 
-But if tools are scarce, expensive, and/or hard to maintain, it doesn't
-mean we can't create, does it?
+But if tools are scarce, expensive, and/or hard to maintain, it does not
+mean we cannot create, does it?
 
 Sometimes, in certain places, access to tools like computers or
 high-tech gadgets can be hard. And yet, art can still happen, as it
-always have, not in spite of, but especially because of constrains.
+always have, not in spite of, but especially because of constraints.
 While inaccessible tools hinder us from creating more in terms of
 quantity, it can lead to innovative solutions into creating more complex
 work.
@@ -39,7 +41,7 @@ In the Philippine context, there's no one reason why we create what we
 create. The desire to create is a natural impulse. This innate drive
 allows us to express emotions, tell stories, explore imagination,
 reflect on life, [connect with others](/communication), and leave a
-legacy. But art in the Philippines is mostly mass produced for
+legacy. But my exposure to art in the Philippines, albeit surface level, is mostly mass produced for
 consumption. Its purpose: decoration.
 
 ## Absurdity and Humor
