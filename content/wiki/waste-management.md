@@ -17,6 +17,7 @@ washed with [water](/water), processed with energy and other toxic
 chemicals.
 
 Beyond paperless, we should also consider radically reducing:
+
 - data centers, which would store our information digitally;
 - marketing and advertising, because the amount of content they print
   both on paper and on digital mediums is simply [a waste](/no-ads).

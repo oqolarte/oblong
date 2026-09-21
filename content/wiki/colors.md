@@ -107,7 +107,7 @@ certainly made me feel things again. But there are gaps, of course. With
 which I filled with, what, a hyper-real version of what used to be? Is
 that reliable?
 
-The thing with nostalgia is that, it does not need to be reliable. The
+The thing with [nostalgia](/nostalgia) is that, it does not need to be reliable. The
 general shape of a memory need not have the perfect details remembered
 in order to feel good.
 

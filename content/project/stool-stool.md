@@ -13,15 +13,23 @@ math: false
 ## Intro
 
 Shitting while squatting is easier on the digestive system. Many in
-African and Asian nations have figured this out a long time ago.
+African and Asian nations have figured this out a long time ago.  Yet,
+somehow, the sitting-position toilet won, no thanks to crusty Western
+butts.
 
-Somehow, the sitting-position toilet won. Devices like Squatty Potty
-help with this. But the actual Squatty Potty brand can be pricey when
-bought brand new, and frankly, buying used ones does not feel sanitary
-at all.
+Devices like Squatty Potty help with this. But the actual Squatty
+Potty brand can be pricey when bought brand new, and frankly, buying
+used ones does not feel sanitary at all.
 
 So I made one for our household. Using scrap wood. And instead of
 calling Squatty Potty, I prefer calling it Stool Stool.
+
+## Decolonization work
+
+Making Stool Stool, is decolonization work, because in its own way, it
+resists the existing approach to toileting brought to us by colonizing
+Western culture, and in its place provides a better experience. Each one
+is intentionally designed and upcylcyed out of scrap wood.
 
 {{< btt >}}
 
