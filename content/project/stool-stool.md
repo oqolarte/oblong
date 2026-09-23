@@ -26,10 +26,13 @@ calling Squatty Potty, I prefer calling it Stool Stool.
 
 ## Decolonization work
 
-Making Stool Stool, is decolonization work, because in its own way, it
-resists the existing approach to toileting brought to us by colonizing
-Western culture, and in its place provides a better experience. Each one
-is intentionally designed and upcylcyed out of scrap wood.
+Making a Stool Stool is decolonization work, because in its own way,
+both the process and the end product resist the existing approach to
+toileting brought to us by colonizing Western culture, and in its place
+provide a better experience.
+
+Each one is intentionally designed and upcylcyed out of scrap wood,
+which is a refusal of buying things new.
 
 {{< btt >}}
 

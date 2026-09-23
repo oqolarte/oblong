@@ -44,7 +44,7 @@ let alone the act of chasing it, then we would be freer.
 
 Marxists believe that [transformation of society](/revolution) will pass
 *through* capitalism to transform to socialism and eventually to
-communism. It's as if state and capital are willing to shed its power to
+communism. It is as if state and capital are willing to shed its power to
 make way for something else. In the hundreds of years since Marx(ists)
 came up with this shit, history shows us that the powers-that-be retain
 its control by status quo.
