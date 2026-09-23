@@ -56,7 +56,7 @@ so far.
 
 ### 002
 
-{{< figure src="/image/stool-stool-02.jpg" alt="a stool stool installed in a water closet" caption="As seen somewhere in Negros Oriental" >}}
+{{< figure src="/image/stool-stool-2.jpg" alt="a stool stool installed in a water closet" caption="As seen somewhere in Negros Oriental" >}}
 
 {{< btt >}}
 
