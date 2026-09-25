@@ -4,16 +4,20 @@ date: 2021-02-26T10:08:28+08:00
 keywords: ["ohio quilbio olarte", "ohio olarte", "oqolarte"]
 draft: false
 ---
+
 Doing side projects keep me sharp.
+Doing them mainly for non-profit reasons make me, I think, an even
+better person overall.[^profit]
+
+[^profit]: This is definitely not a shade against those who make
+projects for the sole purpose of monetizing them eventually.
+
 In the process, I'll try to document each step,
 and publish whatever findings I might have here for public (re)viewing.
 
-Like many, my interests change over time,
-so the ideas listed here can't be lumped into one big category.
-The length of list changes from time to time,
-depending on my current situation.
-"Life happens," they say.
-I tend to agree.
+My interests change over time, so the ideas listed here cannot be lumped
+into one big category.  The length of list changes from time to time,
+depending on my current situation.  "Life happens," they say. I agree.
 
 Anyway, here is the list, in no particular order:
 

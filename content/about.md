@@ -34,7 +34,7 @@ Sometimes, people say [good things](/testi) about me.
 
 *At babasahin ko ang blog mo kahit Tagalog!*
 
-Inspired by Manuel Moreale's call, "[I'll read it](https://manuelmoreale.com/i-ll-read-it)" and Matthew Cambion's long text about the same thing.
+Inspired by Manuel Moreale's call, "[I'll read it](https://web.archive.org/web/20250126112145/https://manuelmoreale.com/i-ll-read-it)" and Matthew Cambion's long text about the same thing.
 
 I will read your blog
 within reason and some limits listed below. Email me your website's URL.
