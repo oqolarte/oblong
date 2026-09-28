@@ -60,3 +60,11 @@ transition itself is not always easy. Dealing with addiction comes to
 mind; many remain unsuccessful in escaping it. Can life really start
 anew if we cannot let go of old habits or keep returning to them? But
 also, how ruinous could it be if we dared to "look back"?
+
+## "All prose is fiction"
+
+[First Borges, then Le Guin.](https://aworkinglibrary.com/writing/all-prose-is-fiction) This is because much of everything we do not and cannot know with absolute certainty. Then, we have to fill in the gaps, with something. We have to make inferences based on our lived experiences, on historical data, on others' lived experience, on our projections, on others' projections, etc. We guess. We connect the dots. We overanalyze.
+
+Ambiguity in life---_of_ life---remains inevitable. We search for our truths in ways we know, but we cannot always have it all. Only in fragments. The rest is unclear. And this ambiguity, I dare say, is what makes searching for it all the more fulfilling. [Imbentori](/imbentori) was fueled by vagueness and dreams, so I know this is true.
+
+There is also a benefit in not knowing. You are not limited by the technicalities of what should and should not be. If you failed at something because it did not work out, you learned something.

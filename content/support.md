@@ -48,6 +48,11 @@ Please email me first if you plan to give me any of these.
 - Typewriter in working condition, preferably the portable kind
 - 3D printer
 - Cargo bike
+- Table saw
+- Mitre saw
+- Angle grinder
+- Palm router
+- Rotary tool
 
 [^1]: *Limós* is the root of this Tagalog word, meaning "alms".
 From [Tagalog Lang](https://www.tagaloglang.com/palimos/): In the Philippines, it is common for street children to approach strangers and say, “Palimos po.”

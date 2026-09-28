@@ -17,13 +17,17 @@ answer "why I blog," if you know what I mean.
 
 [Quoting myself here](/3):
 
-> A flare of imagination could trigger emotions never felt before, and to that person, this is their first time learning this thing about himself. It could be wild, sometimes---detrimental, even---to not have the full scope of one’s being at one’s disposal for one’s perusal. That’s also one of the main reasons why I started this blog: another attempt to understand myself.
+> A flare of imagination could trigger emotions never felt before, and
+> to that person, this is the first time learning this thing about
+> himself. It could be wild, sometimes---detrimental, even---to not have
+> the full scope of one’s being at one’s disposal for one’s perusal.
+> That’s also one of the main reasons why I started this blog: another
+> attempt to understand myself.
 
 ## The future is confusing
 
-Why document [a fraction of] one's life in the digital space in the
-[internet](/internet)? Is not being vulnerable to strangers sketchy
-enough on its own?
+Why document [a fraction of] one's life on the [internet](/internet)?
+Isn't being vulnerable to strangers sketchy enough on its own?
 
 For me, what if it is partly to confuse digital archaeologists, partly
 to leave a mark of who I am at this point in
@@ -31,7 +35,7 @@ to leave a mark of who I am at this point in
 many years back, my duty was mostly to myself. I was escaping the
 flatness of my youth for something greater. A few people somehow
 liked some of it. This meant that I had to embed the mundanities of
-life I was logging into cryptic ways of the English langauge before
+life I was logging into cryptic ways of the English language before
 publishing. I churned the literal into [surreal](/surrealism) because
 exposing myself out there was something that bothered me, yet at the
 same time, I felt the need to unload them somehow onto a space that was
@@ -41,7 +45,7 @@ out a space for myself.
 Michael Stevens (of Vsauce fame)[^vsauce] touches upon this idea of leaving a
 ghost of you[^MCR] on his video essay
 "[All The Ghosts You Will Be](https://www.youtube.com/watch?v=xHd4zsIbXJ0)" (YouTube)
-for the progeny. Stevens even talks optimistically about how our
+for our progeny. Stevens even talks optimistically about how our
 excessive use of [social media](/social-media) is our way of getting
 addicted to "what's next," comparing it to how humans have evolved to
 feel good about exploring the unknown. Which is what gambling also
@@ -58,7 +62,7 @@ unabashedly make a My Chemical Romance reference. This is my odd way of
 coping with the fact that I may never get to see them live next year
 (NOV 2026) when they perform at the Philippine Arena.
 
-I broadcast some of my thoughts in the internet because I might also be
+I broadcast some of my thoughts on the internet because I might also be
 exploring---who I want myself to be, who else I could be, what things
 resonate with me that others might find useful, etc...
 
@@ -73,37 +77,37 @@ people to read if they so choose. Call it asynchronous, asymmetric
 electronic solution to satisfy the human need to connect with others,
 albeit wrapped in many technological layers.
 
-And if we distill what we humans have to say and slap it on gold-plated
-copper phonograph record, and send it to space with the hope of it being
-played (or "consumed") by an advance alien civilization, then we would
-have blogged across interstellar space. Oh, wait, we already did with
-the [Voyager Golden Records](https://en.wikipedia.org/wiki/Voyager_Golden_Record).
+And if we distill what we humans have to say and slap it on a
+gold-plated copper phonograph record, and send it to space with the hope
+of it being played (or "consumed") by an advanced alien civilization,
+then we would have blogged across interstellar space. Oh, wait, we
+already did with the [Voyager Golden Records](https://en.wikipedia.org/wiki/Voyager_Golden_Record).
 
-Like many creatives in the industry, perfomance arts can be tricky both
+Like many creative endeavors, performance art can be tricky both
 to create and experience.
 
 ## The medium
 
 HTML, CSS, JavaScript are useful tools with which to share information
 across distances between computers. They can link pages that a blogger
-might want to lead the reader next. The advent of tabs in web browsers
-makes this a smooth experience. One can now open a page in a new tab,
-and have it load in the background as one finishes reading the current
-material.
+might want to lead the reader to next. The advent of tabs in web
+browsers makes this a smooth experience. One can now open a page in a
+new tab, and have it load in the background as one finishes reading the
+current material.
 
 This is great! We can now create mind maps with text using hyperlinks,
 making connections between concepts and ideas. This might well be the
-beginnings of Wikipedia and other wiki-related source of information out
-there.
+beginnings of Wikipedia and other wiki-related sources of information
+out there.
 
-Now, cross-polinate the idea of wikis and blogs in the fertile space of
+Now, cross-pollinate the idea of wikis and blogs in the fertile space of
 internet, and we have digital gardens---a personal[ized] knowledge
 management that is maintained, published, and shared with others.
 Because learning with others is a performance I like to do.
 
-We have come to depend on algorithms to surface new piece of information
-for us, but we did not always need them. Surfing the web alone was
-enough, as long as one had the time and patience.
+We have come to depend on algorithms to surface new pieces of
+information for us, but we did not always need them. Surfing the web
+alone was enough, as long as one had the time and patience.
 
 ## Why not vlog?
 

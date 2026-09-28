@@ -13,13 +13,14 @@ finish reading.
 
 ## Currently reading
 
-| Book Title                               | Author/s                        |
-|------------------------------------------|---------------------------------|
-| The Dawn of Everything                   | David Graeber and David Wengrow |
-| Mutual Aid                               | Dean Spade                      |
-| Heretics of Dune                         | Frank Herbert                   |
-| The Age of Reason                        | Jean-Paul Sartre                |
-| Wild Swans: The Three Daughters of China | Jung Chang 張戎                 |
+| Book Title                               | Author/s                                |
+|------------------------------------------|-----------------------------------------|
+| The Dawn of Everything                   | David Graeber and David Wengrow         |
+| Mutual Aid                               | Dean Spade                              |
+| Chapterhouse: Dune                       | Frank Herbert                           |
+| The Age of Reason                        | Jean-Paul Sartre                        |
+| Wild Swans: The Three Daughters of China | Jung Chang 張戎                         |
+| The Woman from Uruguay                   | Pedro Mairal (trans. by Jennifer Croft) |
 
 
 ## Completed
@@ -104,6 +105,7 @@ I read slowly, you might notice.
 | Beyond the Great Wall: A Family Journal                                                                | Miclat Family (Maria, Alma, Maningnging, Banaue) |
 | [The Heart of a Dog](/363/#brief-review-of-the-heart-of-a-dog)                                         | Mikhail Bulgakov                                 |
 | [Ghost World](/364/#thoughts-on-ghost-world)                                                           | Daniel Clowes                                    |
+| [Heretics of Dune](/370/#brief-review-of-heretics-of-dune)                                             | Frank Herbert                                    |
 
 ## Did not finish
 
