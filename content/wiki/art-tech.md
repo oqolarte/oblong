@@ -84,3 +84,8 @@ I meant was, art is meant to enjoyed. If its creation is rushed, what
 are the chances that people would enjoy in experiencing it? I'd assume
 that it would be different than when art is thoughtfully, mindfully
 crafted over a period of time.
+
+TODO
+
+Rewatch and analyze how artists are also makers and vice versa: https://www.youtube.com/watch?v=4VnCJdYImb8
+
