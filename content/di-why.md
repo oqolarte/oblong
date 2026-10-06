@@ -21,18 +21,25 @@ depending on my current situation.  "Life happens," they say. I agree.
 
 Anyway, here is the list, in no particular order:
 
-1. Wifi antenna
-1. Hand tools
-1. Computer monitor upcycled from an old laptop
-1. Laundry detergent
-1. Repair, refurbish, and/or repurposing of different consumer
+1. Work bench
+2. Wifi antenna
+3. Hand tools
+4. Computer monitor upcycled from an old laptop
+5. Laundry detergent
+6. Repair, refurbish, and/or repurposing of different consumer
    electronics
-1. Make a free and open-source software *and* hardware, but not
+7. Make a free and open-source software *and* hardware, but not
    necessarily found together in a single device, that a layperson would
    find useful
-1. Bio-digester
-1. Leather jacket made of mushrooms (mycelia jacket)
-2. Wearable dashcam, powered by body heat (using thermoelectric
+8. Bio-digester
+9. Leather jacket made of mushrooms (mycelia jacket)
+10. Wearable dashcam, powered by body heat (using thermoelectric
    generator)
+11. [Ceramic mosaic art](/ceramic-mosaic-art)
+12. Sofa bed
+13. Rain barrels
+14. Scented candles
+15. Simple loom
+16. Pedal-powered lathe
 
 As soon as I start working on an idea here, it will be migrated to the [Projects](/project/) page.
