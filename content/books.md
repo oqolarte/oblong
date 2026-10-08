@@ -19,7 +19,6 @@ finish reading.
 | Mutual Aid                               | Dean Spade                              |
 | Chapterhouse: Dune                       | Frank Herbert                           |
 | The Age of Reason                        | Jean-Paul Sartre                        |
-| Wild Swans: The Three Daughters of China | Jung Chang 張戎                         |
 | The Woman from Uruguay                   | Pedro Mairal (trans. by Jennifer Croft) |
 
 
@@ -109,6 +108,7 @@ I read slowly, you might notice.
 | [BANKSY: You Are An Acceptable Level Of Threat](/374/#notes-on-banksy-you-are-an-acceptable-level-of-threat) | [CarpetBombingCulture](https://carpetbombingculture.com/) |
 | Siyap ng Isang Sisiw                                                                                                              | Eugene Y. Evasco, Damz Agsaway                            |
 | Paalam, Puti                                                                                                                      | Jomike Tejido                                             |
+| [Wild Swans](/wild-swans): The Three Daughters of China                                                                           | Jung Chang 張戎                                           |
 
 ## Did not finish
 
