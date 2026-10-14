@@ -14,6 +14,10 @@ principles including the following:
 
 {{< toc >}}
 
+## Preamble
+
+If form follows function, then form should change when function does. The longer one lives in a place, the less one should adapt oneself to the space and the more it should be adapted to them. Continuous incremental improvement makes for wonderful frictionless spaces.
+
 ## Where?
 
 Hopefully in a rural city closer to nature but not too far from

@@ -57,3 +57,4 @@ Sample Bash [script](/noautorotate.sh) for looping ffmpeg commands
 
 [How to: Prepare video for YouTube with FFmpeg](https://obrien.engineer/how-to-prepare-video-for-youtube-ffmpeg/)
 [How do I convert a video to GIF using ffmpeg, with reasonable quality?](https://superuser.com/questions/556029/how-do-i-convert-a-video-to-gif-using-ffmpeg-with-reasonable-quality)
+[How to blur part of a video using ffmpeg](https://neilzone.co.uk/2026/10/blurring-part-of-a-video-using-ffmpeg/)

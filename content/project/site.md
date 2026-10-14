@@ -4,6 +4,7 @@ date: 2020-11-27T14:42:32+08:00
 keywords: ["web development", "web design", "sustainable web design", "simple web design", "full stack web development", "full stack web design", "sustainable full stack web development"]
 draft: false
 ---
+
 {{< ongoing >}}
 
 This site is itself a project.
@@ -326,6 +327,14 @@ be the right magic for you.
 
 My process involves a lot of trial and error to get this site looking
 the way it is now, simple as it is.
+
+{{< btt >}}
+
+### Archiving
+
+I try to archive the pages of my website on [Internet Archive Wayback Machine](https://web.archive.org).
+
+To do this, I use the [Wayback Machine Web Browser Extension](https://github.com/internetarchive/wayback-machine-webextension). At a click of a button, the Wayback Machine's crawler will scrape the current page that is open, and after a few moments, a copy of it is stored, ready for future reference.
 
 {{< btt >}}
 

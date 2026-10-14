@@ -12780,6 +12780,7 @@ in which I often choose simple solutions.&lt;/p&gt;
     &lt;li&gt;&lt;a href=&#34;#other-important-stuff&#34;&gt;Other important stuff&lt;/a&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#on-static-site-generators-ssg-and-hugo&#34;&gt;On Static Site Generators (SSG) and Hugo&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#archiving&#34;&gt;Archiving&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#disabling-internal-templates&#34;&gt;Disabling Internal Templates&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#privacy&#34;&gt;Privacy&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&#34;#hosting&#34;&gt;Hosting&lt;/a&gt;&lt;/li&gt;
@@ -13038,6 +13039,11 @@ read, learn, and ask for help, Hugo, as well as other SSGs, might just
 be the right magic for you.&lt;/p&gt;
 &lt;p&gt;My process involves a lot of trial and error to get this site looking
 the way it is now, simple as it is.&lt;/p&gt;
+&lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
+
+&lt;h3 id=&#34;archiving&#34;&gt;Archiving&lt;/h3&gt;
+&lt;p&gt;I try to archive the pages of my website on &lt;a href=&#34;https://web.archive.org&#34;&gt;Internet Archive Wayback Machine&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To do this, I use the &lt;a href=&#34;https://github.com/internetarchive/wayback-machine-webextension&#34;&gt;Wayback Machine Web Browser Extension&lt;/a&gt;. At a click of a button, the Wayback Machine&amp;rsquo;s crawler will scrape the current page that is open, and after a few moments, a copy of it is stored, ready for future reference.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;disabling-internal-templates&#34;&gt;Disabling Internal Templates&lt;/h3&gt;
