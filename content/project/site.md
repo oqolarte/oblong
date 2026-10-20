@@ -35,9 +35,9 @@ this context, will be different from that in [academia](/academy). This
 bypasses the usual way to earn a post-graduate degree. After reading
 Nadia Asparouhova's post, "[Reimagining the PhD](https://nadia.xyz/phd),"
 I am now more inclined to do this. As a
-result, I will get neither a certification nor a degree; it will not be official.
-But what are certifications anyway if not, for better or worse, a
-glorified piece of paper?
+result, I will get neither a certification nor a degree; it will not be
+official.  But what are certifications anyway if not, for better or
+worse, a glorified piece of paper?
 
 I cannot also imagine spending a few more years in grad school, to be
 honest.  I am, more or less, happy with the opportunity cost of not
@@ -68,21 +68,26 @@ and **Wiki**:
 
 ### Minor section/s
 
-There's RSS (RDF [Resource Description Framework] Site Summary, or
+There is RSS (RDF [Resource Description Framework] Site Summary, or
 Really Simple Syndication), a web feed, which readers can subscribe to
-get updated.  For that, one needs RSS reader. Alternatively, some email
+get updated. It tracks the Log section for changes.
+
+One needs an RSS reader to access the feed. Alternatively, some email
 clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their
-own built-in RSS reader.  You can use any of those too.  A web service
-is available along these lines: check out [RSS by
-email](https://rssby.email).  Or if you're a more technical person,
-check out [rss2email](https://pypi.org/project/rss2email/), a software
+own built-in RSS reader. You can use any of those too.  A web service
+is available along these lines: check out
+[RSS by email](https://rssby.email).  Or if you are a more technical person,
+check out [rss2email](https://github.com/rss2email/rss2email), a software
 that can forward your RSS feeds to your email.
 
 {{< btt >}}
 
 ## Design choices
 
-I borrow design principles from brutalism. Admittedly,
+I borrow design principles from brutalism, originally a minimalist
+archetectural style that bares the building materials. Adapted to web
+development, it means opting only for design choices that delivers the
+maximum information with minimum waste, if that makes sense. Admittedly,
 it is the result of having only a working knowledge of HTML and CSS, and
 virtually none of JavaScript. This "limitation" becomes a feature for
 static websites like this one.
@@ -93,10 +98,10 @@ page source.)
 By foregoing intricate [UI/UX design](/ui-ux), I can focus on what
 matters most: *content*.
 
-Through simplicity, I'm making this site less bloated.
+Through simplicity, I aim to make this site less bloated.
 This means that:
 
-- low-end and/or [old computers](/old-computer) with slow and/or
+- lower end and [old computers](/old-computer) with slow and/or
   outdated software can visit with little to no hassle on their end;
 - locations with poor internet connectivity can still browse the
   content;
@@ -105,7 +110,8 @@ This means that:
 - no distractions.
 
 I consider these points important as they all relate to my current
-situation. In fact, websites should be guided by these principles.
+situation. I would argue even that websites should be guided by these
+principles.
 
 And because of these, this site scores
 [100/100 according to Yellow Lab Tools](https://yellowlab.tools/result/h4kknty483).
@@ -116,12 +122,12 @@ And because of these, this site scores
 
 Typography, no doubt, elevates the text.
 What I have set here, though, gets the job done,
-i.e., serve readable content.
+i.e., serve readable and viewable data.
 
 There are many ways to do that without compromising the overall
 experience of readers.
 
-I use *your* system's default font stack so your computer wouldn't
+I use *your* system's default font stack so your computer would not
 need to look elsewhere to render the fonts.
 
 I use serif for headings. This is the font stack that I use:
@@ -149,10 +155,10 @@ delineation which piece of info is which.
 Earlier iteration of this site defaults to dark mode, giving visitors no
 option to change to light mode. A good design provides option for both.
 
-Now, current theme will depend on what you have set for your
+Now, the current theme will depend on what you have set for your
 device/browser.
 
-I'm no expert in color theory, so I had help from online color palette
+I am no expert in color theory, so I had help from online color palette
 generators to see which color combinations work well.
 [Coolors](https://coolors.co/) is good tool on this.
 
@@ -198,17 +204,15 @@ You have to manually right-click it and select `Open in a new tab` (or `...windo
 
 ### JavaScript?
 
-Given the simple layout, the interactions with the visitor are limited
+The interactions of a visitor with this site are limited
 to reading content and clicking links. These can be achieved without
-JS.
+JavaScript (JS).
 
 A few pages with some math do contain JS, specifically
 [MathJax](https://www.mathjax.org), to render the formulae beautifully.
-But on mobile, it doesn't load properly. As of writing this, I'm still
-looking for a workaround on that.
 
-If you're neither a math nor JS enthusiast, it's a non-issue to have
-your browser's JS disabled, but you'll likely see weird syntax where a
+If you are neither a math nor JS enthusiast, it is a non-issue to have
+your browser's JS disabled, but you will see weird syntax where a
 math formula should be.
 
 {{< btt >}}
@@ -252,13 +256,16 @@ Here, I set it to 85%.
   EXIF metadata, which might include date, time, and/or location of
   creation, helps reduce the image size.
 
+A huge effort is also made to include alt text for most, if not all,
+images.
+
 {{< btt >}}
 
 ### Comments section
 
 There is no comment section in this site. It is both social and
 technical burden on me to implement and moderate. But honestly, the
-tools out there just don't meet my criteria.
+tools out there just do not meet my criteria.
 
 One can still send their thoughts via this reliable thing called email,
 and mine is always at the footer! Sending comments via email is old
@@ -315,12 +322,13 @@ Some target new users; some have specific use cases in mind.
 However, like most tutorials online, they get outdated quickly.
 Sooner or later, reading the official documentation becomes necessary.
 
-As with everything else, it's important to be patient and willing to
-read the manual. In case you're stuck, you can also ask the community.
+As with everything else, it is important to be patient and willing to
+read the manual. In case you are stuck, you can also ask the community.
 Hugo has both decent [community](https://discourse.gohugo.io) and
-[documentation](https://gohugo.io/documentation).
+[documentation](https://gohugo.io/documentation), and I personally have
+had decent experience engaging with both.
 
-I would say that Hugo's learning can be steep, especially if you're like
+I would say that Hugo's learning can be steep, especially if you are like
 me with no "real" coding experience. But if you have the patience to
 read, learn, and ask for help, Hugo, as well as other SSGs, might just
 be the right magic for you.
@@ -384,7 +392,7 @@ The VM runs on Debian 13 "trixie".
 
 [nginx](https://nginx.org/en/) ("engine X"), is an HTTP and reverse proxy server.
 To meet defensive security standards,
-I have the snippet in my server configuration:
+I have a snippet in my server configuration:
 
 ```
 server {
@@ -442,8 +450,6 @@ Here are some other sites from which I also got inspiration:
 - [1MB Club](https://1mb.club), and it's contemporaries, [512KB
   Club](https://512kb.club), [250KB Club](https://250kb.club).
 - "[This is an Actual Website](https://actualwebsite.org/)"
-- [Dan Luu's website](https://danluu.com), although it begs a few design
-  tweaks to improve readability.
 - [Brutalist Web Design](https://brutalist-web.design/)
 - [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/), A Manifesto for
   Preserving Content on the Web by Jeff Huang

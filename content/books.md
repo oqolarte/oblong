@@ -20,6 +20,7 @@ finish reading.
 | Chapterhouse: Dune                       | Frank Herbert                           |
 | The Age of Reason                        | Jean-Paul Sartre                        |
 | The Woman from Uruguay                   | Pedro Mairal (trans. by Jennifer Croft) |
+| Babel: An Arcane History                 | R. F. Kuang                             |
 
 
 ## Completed

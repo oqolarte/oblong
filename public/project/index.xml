@@ -12810,9 +12810,9 @@ this context, will be different from that in &lt;a href=&#34;https://ohio.araw.x
 bypasses the usual way to earn a post-graduate degree. After reading
 Nadia Asparouhova&amp;rsquo;s post, &amp;ldquo;&lt;a href=&#34;https://nadia.xyz/phd&#34;&gt;Reimagining the PhD&lt;/a&gt;,&amp;rdquo;
 I am now more inclined to do this. As a
-result, I will get neither a certification nor a degree; it will not be official.
-But what are certifications anyway if not, for better or worse, a
-glorified piece of paper?&lt;/p&gt;
+result, I will get neither a certification nor a degree; it will not be
+official.  But what are certifications anyway if not, for better or
+worse, a glorified piece of paper?&lt;/p&gt;
 &lt;p&gt;I cannot also imagine spending a few more years in grad school, to be
 honest.  I am, more or less, happy with the opportunity cost of not
 dealing with it.&lt;/p&gt;
@@ -12837,19 +12837,23 @@ technical writing, Of course, I&amp;rsquo;ll include citations properly.&lt;/li&
 things I find interesting publicly.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;minor-sections&#34;&gt;Minor section/s&lt;/h3&gt;
-&lt;p&gt;There&amp;rsquo;s RSS (RDF [Resource Description Framework] Site Summary, or
+&lt;p&gt;There is RSS (RDF [Resource Description Framework] Site Summary, or
 Really Simple Syndication), a web feed, which readers can subscribe to
-get updated.  For that, one needs RSS reader. Alternatively, some email
+get updated. It tracks the Log section for changes.&lt;/p&gt;
+&lt;p&gt;One needs an RSS reader to access the feed. Alternatively, some email
 clients like Thunderbird, Microsoft Outlook, and Apple Mail, have their
-own built-in RSS reader.  You can use any of those too.  A web service
-is available along these lines: check out &lt;a href=&#34;https://rssby.email&#34;&gt;RSS by
-email&lt;/a&gt;.  Or if you&amp;rsquo;re a more technical person,
-check out &lt;a href=&#34;https://pypi.org/project/rss2email/&#34;&gt;rss2email&lt;/a&gt;, a software
+own built-in RSS reader. You can use any of those too.  A web service
+is available along these lines: check out
+&lt;a href=&#34;https://rssby.email&#34;&gt;RSS by email&lt;/a&gt;.  Or if you are a more technical person,
+check out &lt;a href=&#34;https://github.com/rss2email/rss2email&#34;&gt;rss2email&lt;/a&gt;, a software
 that can forward your RSS feeds to your email.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h2 id=&#34;design-choices&#34;&gt;Design choices&lt;/h2&gt;
-&lt;p&gt;I borrow design principles from brutalism. Admittedly,
+&lt;p&gt;I borrow design principles from brutalism, originally a minimalist
+archetectural style that bares the building materials. Adapted to web
+development, it means opting only for design choices that delivers the
+maximum information with minimum waste, if that makes sense. Admittedly,
 it is the result of having only a working knowledge of HTML and CSS, and
 virtually none of JavaScript. This &amp;ldquo;limitation&amp;rdquo; becomes a feature for
 static websites like this one.&lt;/p&gt;
@@ -12857,10 +12861,10 @@ static websites like this one.&lt;/p&gt;
 page source.)&lt;/p&gt;
 &lt;p&gt;By foregoing intricate &lt;a href=&#34;https://ohio.araw.xyz/ui-ux&#34;&gt;UI/UX design&lt;/a&gt;, I can focus on what
 matters most: &lt;em&gt;content&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Through simplicity, I&amp;rsquo;m making this site less bloated.
+&lt;p&gt;Through simplicity, I aim to make this site less bloated.
 This means that:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;low-end and/or &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;old computers&lt;/a&gt; with slow and/or
+&lt;li&gt;lower end and &lt;a href=&#34;https://ohio.araw.xyz/old-computer&#34;&gt;old computers&lt;/a&gt; with slow and/or
 outdated software can visit with little to no hassle on their end;&lt;/li&gt;
 &lt;li&gt;locations with poor internet connectivity can still browse the
 content;&lt;/li&gt;
@@ -12869,7 +12873,8 @@ content;&lt;/li&gt;
 &lt;li&gt;no distractions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I consider these points important as they all relate to my current
-situation. In fact, websites should be guided by these principles.&lt;/p&gt;
+situation. I would argue even that websites should be guided by these
+principles.&lt;/p&gt;
 &lt;p&gt;And because of these, this site scores
 &lt;a href=&#34;https://yellowlab.tools/result/h4kknty483&#34;&gt;100/100 according to Yellow Lab Tools&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
@@ -12877,10 +12882,10 @@ situation. In fact, websites should be guided by these principles.&lt;/p&gt;
 &lt;h3 id=&#34;typography&#34;&gt;Typography&lt;/h3&gt;
 &lt;p&gt;Typography, no doubt, elevates the text.
 What I have set here, though, gets the job done,
-i.e., serve readable content.&lt;/p&gt;
+i.e., serve readable and viewable data.&lt;/p&gt;
 &lt;p&gt;There are many ways to do that without compromising the overall
 experience of readers.&lt;/p&gt;
-&lt;p&gt;I use &lt;em&gt;your&lt;/em&gt; system&amp;rsquo;s default font stack so your computer wouldn&amp;rsquo;t
+&lt;p&gt;I use &lt;em&gt;your&lt;/em&gt; system&amp;rsquo;s default font stack so your computer would not
 need to look elsewhere to render the fonts.&lt;/p&gt;
 &lt;p&gt;I use serif for headings. This is the font stack that I use:&lt;/p&gt;
 &lt;ul&gt;
@@ -12904,9 +12909,9 @@ delineation which piece of info is which.&lt;/p&gt;
 &lt;h3 id=&#34;light-and-dark-themes&#34;&gt;Light and Dark themes&lt;/h3&gt;
 &lt;p&gt;Earlier iteration of this site defaults to dark mode, giving visitors no
 option to change to light mode. A good design provides option for both.&lt;/p&gt;
-&lt;p&gt;Now, current theme will depend on what you have set for your
+&lt;p&gt;Now, the current theme will depend on what you have set for your
 device/browser.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m no expert in color theory, so I had help from online color palette
+&lt;p&gt;I am no expert in color theory, so I had help from online color palette
 generators to see which color combinations work well.
 &lt;a href=&#34;https://coolors.co/&#34;&gt;Coolors&lt;/a&gt; is good tool on this.&lt;/p&gt;
 &lt;p&gt;Another thing to check for is color contrast. Readability of text
@@ -12939,15 +12944,13 @@ You have to manually right-click it and select &lt;code&gt;Open in a new tab&lt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;javascript&#34;&gt;JavaScript?&lt;/h3&gt;
-&lt;p&gt;Given the simple layout, the interactions with the visitor are limited
+&lt;p&gt;The interactions of a visitor with this site are limited
 to reading content and clicking links. These can be achieved without
-JS.&lt;/p&gt;
+JavaScript (JS).&lt;/p&gt;
 &lt;p&gt;A few pages with some math do contain JS, specifically
-&lt;a href=&#34;https://www.mathjax.org&#34;&gt;MathJax&lt;/a&gt;, to render the formulae beautifully.
-But on mobile, it doesn&amp;rsquo;t load properly. As of writing this, I&amp;rsquo;m still
-looking for a workaround on that.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re neither a math nor JS enthusiast, it&amp;rsquo;s a non-issue to have
-your browser&amp;rsquo;s JS disabled, but you&amp;rsquo;ll likely see weird syntax where a
+&lt;a href=&#34;https://www.mathjax.org&#34;&gt;MathJax&lt;/a&gt;, to render the formulae beautifully.&lt;/p&gt;
+&lt;p&gt;If you are neither a math nor JS enthusiast, it is a non-issue to have
+your browser&amp;rsquo;s JS disabled, but you will see weird syntax where a
 math formula should be.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
@@ -12982,12 +12985,14 @@ Here, I set it to 85%.&lt;/li&gt;
 EXIF metadata, which might include date, time, and/or location of
 creation, helps reduce the image size.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;A huge effort is also made to include alt text for most, if not all,
+images.&lt;/p&gt;
 &lt;a href=&#34;#top&#34; class=&#34;btt&#34;&gt;go to top &lt;strong&gt;&amp;#10514;&lt;/strong&gt;&lt;/a&gt;
 
 &lt;h3 id=&#34;comments-section&#34;&gt;Comments section&lt;/h3&gt;
 &lt;p&gt;There is no comment section in this site. It is both social and
 technical burden on me to implement and moderate. But honestly, the
-tools out there just don&amp;rsquo;t meet my criteria.&lt;/p&gt;
+tools out there just do not meet my criteria.&lt;/p&gt;
 &lt;p&gt;One can still send their thoughts via this reliable thing called email,
 and mine is always at the footer! Sending comments via email is old
 school, but I feel like it promotes more thoughtful discussion rather
@@ -13029,11 +13034,12 @@ See Jamstack for their list of &lt;a href=&#34;https://jamstack.org/generators/&
 Some target new users; some have specific use cases in mind.&lt;/p&gt;
 &lt;p&gt;However, like most tutorials online, they get outdated quickly.
 Sooner or later, reading the official documentation becomes necessary.&lt;/p&gt;
-&lt;p&gt;As with everything else, it&amp;rsquo;s important to be patient and willing to
-read the manual. In case you&amp;rsquo;re stuck, you can also ask the community.
+&lt;p&gt;As with everything else, it is important to be patient and willing to
+read the manual. In case you are stuck, you can also ask the community.
 Hugo has both decent &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;community&lt;/a&gt; and
-&lt;a href=&#34;https://gohugo.io/documentation&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I would say that Hugo&amp;rsquo;s learning can be steep, especially if you&amp;rsquo;re like
+&lt;a href=&#34;https://gohugo.io/documentation&#34;&gt;documentation&lt;/a&gt;, and I personally have
+had decent experience engaging with both.&lt;/p&gt;
+&lt;p&gt;I would say that Hugo&amp;rsquo;s learning can be steep, especially if you are like
 me with no &amp;ldquo;real&amp;rdquo; coding experience. But if you have the patience to
 read, learn, and ask for help, Hugo, as well as other SSGs, might just
 be the right magic for you.&lt;/p&gt;
@@ -13085,7 +13091,7 @@ The VM runs on Debian 13 &amp;ldquo;trixie&amp;rdquo;.&lt;/p&gt;
 &lt;h3 id=&#34;nginx&#34;&gt;nginx&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://nginx.org/en/&#34;&gt;nginx&lt;/a&gt; (&amp;ldquo;engine X&amp;rdquo;), is an HTTP and reverse proxy server.
 To meet defensive security standards,
-I have the snippet in my server configuration:&lt;/p&gt;
+I have a snippet in my server configuration:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;server {
         server_name ohio.araw.xyz ;
         root /var/www/ohio.araw.xyz ;
@@ -13132,8 +13138,6 @@ is eye-opening.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://1mb.club&#34;&gt;1MB Club&lt;/a&gt;, and it&amp;rsquo;s contemporaries, &lt;a href=&#34;https://512kb.club&#34;&gt;512KB
 Club&lt;/a&gt;, &lt;a href=&#34;https://250kb.club&#34;&gt;250KB Club&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;&lt;a href=&#34;https://actualwebsite.org/&#34;&gt;This is an Actual Website&lt;/a&gt;&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://danluu.com&#34;&gt;Dan Luu&amp;rsquo;s website&lt;/a&gt;, although it begs a few design
-tweaks to improve readability.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://brutalist-web.design/&#34;&gt;Brutalist Web Design&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://jeffhuang.com/designed_to_last/&#34;&gt;This Page is Designed to Last&lt;/a&gt;, A Manifesto for
 Preserving Content on the Web by Jeff Huang&lt;/li&gt;

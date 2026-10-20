@@ -48,6 +48,7 @@ the reader to discern which "side" of history I am in.
 - [convenience](/convenience)
 - [democracy](/democracy)
 - [eco-anarchism](/eco-anarchism)
+- [eponymous political ideologies](/eponymous-political-ideologies)
 - [fascism](/fascism)
 - [finding inner peace](/inner-peace)
 - [having kids](/having-kids)

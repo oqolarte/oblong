@@ -2,6 +2,7 @@
 title: "Cipher block chaining (CBC)"
 date: 2024-01-22
 draft: false
+math: true
 ---
 CBC mode chains the previous ciphertext block with the current message
 block before the cipher function.
@@ -21,10 +22,11 @@ produce the plaintext block.
 Mathematically:
 
 CBC Encryption  
-Ci = Enc(K, [C<sub>i-1</sub> ⊕  Pi])
+$$ C_i = Enc(K, [C_{i-1} ⊕  Pi]) $$
 
 CBC Decryption  
-Pi = Dec(K, Ci) ⊕  C<sub>i-1</sub>
+
+$$ P_i = Dec(K, C_i) ⊕  C_{i-1} $$
 
 An issue that arises with block modes is, how to handle the last block
 which may not be complete and may lack bits from the plaintext. For CBC
