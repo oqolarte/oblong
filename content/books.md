@@ -20,7 +20,6 @@ finish reading.
 | Chapterhouse: Dune                       | Frank Herbert                           |
 | The Age of Reason                        | Jean-Paul Sartre                        |
 | The Woman from Uruguay                   | Pedro Mairal (trans. by Jennifer Croft) |
-| Babel: An Arcane History                 | R. F. Kuang                             |
 
 
 ## Completed
@@ -110,6 +109,7 @@ I read slowly, you might notice.
 | Siyap ng Isang Sisiw                                                                                                              | Eugene Y. Evasco, Damz Agsaway                            |
 | Paalam, Puti                                                                                                                      | Jomike Tejido                                             |
 | [Wild Swans](/wild-swans): The Three Daughters of China                                                                           | Jung Chang 張戎                                           |
+| [Babel](/378/#thoughts-on-babel): An Arcane History                                                                               | R. F. Kuang                                               |
 
 ## Did not finish
 
