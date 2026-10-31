@@ -29,7 +29,7 @@ structured academia, getting only backing from [community](/community)
 like friends and family with whom I have personal stakes in.
 
 Has science cornered the market on truth? It is a worthwhile question to
-explore, especially no that [we use hard data](/data-management) to
+explore, especially now that [we use hard data](/data-management) to
 [both control others and bend truth](/fascism). While waiting for the
 smarter and wiser people than me to write their takes, I think we could
 all agree that science and tradtional knowledge may converge on the same

@@ -17,3 +17,4 @@ title: 'ACAB'
 - always castrate all breeders
 - all constitutions are bwisit
 - ang corruption ay bwisit
+- accessible communities are beautiful
