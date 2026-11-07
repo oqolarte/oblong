@@ -20,6 +20,7 @@ finish reading.
 | Chapterhouse: Dune                       | Frank Herbert                           |
 | The Age of Reason                        | Jean-Paul Sartre                        |
 | The Woman from Uruguay                   | Pedro Mairal (trans. by Jennifer Croft) |
+| My Sad Republic                          | Eric Gamalinda                          |
 
 
 ## Completed
@@ -50,7 +51,7 @@ I read slowly, you might notice.
 | [Antifragile](/antifragile)                                                                                                       | Nicholas Nassim Taleb                                     |
 | Fight Club                                                                                                                        | Chuck Palahniuk                                           |
 | Little Book of Speeches                                                                                                           | Lourd de Veyra                                            |
-| V for Vendetta                                                                                                                    | Alan Moore, David Lloyd                                   |
+| [V for Vendetta](/380/#thoughts-on-v-for-vendetta)                                                                                | Alan Moore, David Lloyd                                   |
 | Subversive Lives                                                                                                                  | Susan & Nathan Quimpo                                     |
 | Cat's Diary                                                                                                                       | Junji Ito (伊藤 潤二)                                     |
 | To Suffer Thy Comrades                                                                                                            | Robert Francis Garcia                                     |
