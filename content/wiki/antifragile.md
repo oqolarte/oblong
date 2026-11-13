@@ -30,7 +30,7 @@ To have integrity, one must eat one's own cooking. Software developers
 even call this
 [dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food),
 or "eating your own dog food,"
-that is, the practice of using one own's services, or in lay terms,
+that is, the practice of using one's own services, or in lay terms,
 believing *and* doing what one says and/or endorses. Taleb goes a
 bit further when he puts his ideas on antifragility and black swans:
 "Compromising is condoning." This is a bold statement which I don't
@@ -112,7 +112,7 @@ the lives of people in harm? [Recall the 2008 global financial crisis](https://e
 
 As societies continue to evolve, we continue to be more vulnerable each
 time we choose the benefits of cutting-edge [technology](/technology).
-Many people could not live if many of their comforts, larely granted
+Many people could not live if many of their comforts, largely granted
 and/or made possible by these techs, are taken away.
 
 *Hormesis*---a word coined by pharmacologists---is ingesting small dose
@@ -129,15 +129,12 @@ is positive psychological change experienced as a result of struggling
 with highly challenging, highly stressful life circumstances. Survivors
 of trauma forge stronger relationships with loved ones and with other
 victims. It is
-commonly reported in cancer survivors. A more controversial example
-would be sexual assault victims "taking back" their sexuality by
-processing their trauma to eventually re-enjoy having [lots of] sex,
-sometimes becoming hypersexual.
+commonly reported in cancer survivors.
 
 Related to PTG, Taleb recommends to get into "serious" trouble to force
 ourselves to innovate. I guess it's up to us how serious is *serious*.
 
-When we delagate the boring tasks to automation, we are getting back
+When we delegate the boring tasks to automation, we are getting back
 some of the time that would otherwise be spent in dread. But are we also
 saving ourselves from future mishaps which *may* lead to PTG? Perhaps,
 we should *not* delegate 100% of the boring tasks.
@@ -164,7 +161,7 @@ unusual always happens. Some questions to consider:
   extra-preparedness you want? If not, is a lower tier possible?
 
 In a hypothetical tight-knit [community](/community) where things are
-shared among its neightbors, having multiple, say, power tools of the
+shared among its neighbors, having multiple, say, power tools of the
 same kind makes the tool library robust. If one circular saw breaks, the
 community's work will not be jeopardized.
 
@@ -191,7 +188,7 @@ Longer life spans means more time. More time means more exposure to
 stressors. Optimistically, this could also mean more chances to affect
 change.
 
-Being human ulitimately is to live a colorful life far from convenience
+Being human ultimately is to live a colorful life far from convenience
 and efficiency that empire has set up to blind us with and bind us to
 its comforts, so we couldn't, wouldn't think of anything else. Being
 human is not being a tourist in this world. We explore, because that is
@@ -333,7 +330,7 @@ the presenter Dan Toomey reveals that quants merely *speculate*. "They
 try as hard as they can to turn uncertainties into certainties all in
 the glorious name of getting the bag."
 
-People who love rationalism and emobody its ideals in their interactions
+People who love rationalism and embody its ideals in their interactions
 should know that logic excludes nuances. Many of the Truths we seek are
 only in those nuances. Thus, logic alone cannot, will not save us from
 our problems, especially when it involves other people. The genius, I've
@@ -353,7 +350,7 @@ I think.
 [technology](/technology) and [engineering](/engineering). Beyond these
 two, it is also present in work productivity, in which it is highly
 valued in the rat maze. Thus, it is hard to see that as we attain more
-efficiencies in the systems we operate in, we introduce more fragility.
+deficiencies in the systems we operate in, we introduce more fragility.
 This is because to be more efficient, systems require more complexity.
 
 The idea behind the barbell strategy, i.e., betting on extremes and
@@ -392,7 +389,7 @@ more harm to us and to other living things in the planet.
 Humans should not be given explosive toys (like atomic bombs, financial
 derivatives, or tools to create life), because the unforeseen
 consequences of a big impact is not worth the small obvious gains.
-Humans are not good at ppredicting the future, much more the downsides
+Humans are not good at predicting the future, much more the downsides
 and its cascading effects of our actions today.
 
 My grandmother, to her credit, lived until her late 80s, and for at
@@ -434,5 +431,3 @@ these ideas on their personal life. If not, why?
 Is something worth having? One metric to check is if it has marketing,
 or it is heavily advertised. If so, it's likely a bad product or
 service, or is made/produced/shipped unethically, or both!
-
-

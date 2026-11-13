@@ -4,10 +4,12 @@ date: 2023-02-11
 draft: false
 ---
 
-[People have been expressing themselves](/communication) through the clothes they wear
-for many, many millenia now.
+[People have been expressing themselves](/communication) through the
+clothes they wear for many, many millenia now.
 
 {{< toc >}}
+
+## Intro
 
 I hope I'm not too late to this,
 so I'm compiling any fit inspos that I find.
@@ -84,17 +86,20 @@ YouTuber critiquing fashion in an entertaining British-accented way.
 
 In order for to sustain it, fashion has to be fit for purpose and needs
 to align with my lifestyle. Beyond cultural purpose, people get caught
-up in the aesthetic side advertised in [social media](/social-media) that they end up
-thinking less about just the functional purpose of clothes. They're
-supposed to protect your body while you're out doing the things you need
-to do. So, if any piece of clothing would get in my way (like physically
-making less comfortable or restricting movement), then there is no point
-in acquiring such items.
+up in the aesthetic side advertised in [social media](/social-media)
+that they end up thinking less about just the functional purpose of
+clothes. They're supposed to protect your body while you're out doing
+the things you need to do. So, if any piece of clothing would get in my
+way (like physically making less comfortable or restricting movement),
+then there is no point in acquiring such items.
 
 This return-to-functional is return-to-basics is a great way to remind
 myself that I'm not really impressing anyone.
 
 In some [cultures](/culture), there are specific clothes for a specific context.
+
+Lia Gutierrez argues,
+[Fashion is not just about how you look, but what you stand for.](https://lifestyle.inquirer.net/585430/circular-fashion-and-what-you-stand-for/)"
 
 ### Loungewear, examples
 
