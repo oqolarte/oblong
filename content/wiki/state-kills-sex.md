@@ -25,7 +25,7 @@ labor.
 
 ## Loneliness
 
-There is a wave of loneliness that comes to me everytime my libido
+There is a wave of loneliness that comes to me every time my libido
 strikes yet again. Having a partner with lower sex drive AND knowing
 that the state has done us (all of us, actually) bad things, including
 but not limited to a loved one being desap, that
@@ -35,10 +35,10 @@ The number of paths, and their divergence, also saddens me. Maybe, I
 would rather deal with this funk rather than deep-dive eventually to
 full-blown depression if/when this goes on. There is always porn, and I
 have busted quite a few *insights* consuming that, but sustaining on it
-alon is unhealthy, as it rewires my brain to lean into stranger
+alone is unhealthy, as it rewires my brain to lean into stranger
 fetishes, perhaps reinforcing some misogynistic tendencies.
 
-## Other ideas worth exploring
+## Other ideas worth exploring (AKA Raw notes)
 
 - Not having enough means to survive puts undue stress to a person's
   psyche. Women have it harder, as they have to also defend themselves
@@ -53,6 +53,19 @@ fetishes, perhaps reinforcing some misogynistic tendencies.
 - Can [ethical non-monogamy](/non-monogamy) be the answer to this? That
   is, should people start believing that romantic/sexual love cannot be
   shared between one other person only?
+- Sexless days is driving me mad, moreso when the prospect of making
+  sweet, sweet lovin' is within the realm of High Chance. Still it feels
+  so far away because of Reasons I may or may not be able to influence.
+  I constantly toy with blowing up bank on a sex worker because it feels
+  like the only feasible, reliable, humane even, way to get properly
+  fucked, but I honestly do not have that much bread. There is also the
+  worry that I may get so hooked to a hooker that I would eventually run
+  on a deficit. Right now, I am left mostly with hands, dread, and maybe
+  porn when only my eyes are looking.
+- Wasted energy. Wasted life. Mental space filled with the thought of
+  having physical intimacy with attractive people. Hard to think of
+  something else, anything else, when boredom is inevitably sparked
+  aflame by something horny from the memory.
 
 TODO
 
