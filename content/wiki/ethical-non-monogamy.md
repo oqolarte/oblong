@@ -9,9 +9,9 @@ draft: false
 ## Intro
 
 In a society of jealousy and ownership,
-non-monogamy challenges assumptions
+ethical non-monogamy challenges assumptions
 on intimate relationships---romantic, [sexual](/sex),
-and everything [in between](/friendship) and [beyond](/community).
+and everything in between and [beyond](/community).
 
 ## Measuring love
 
@@ -19,6 +19,11 @@ and everything [in between](/friendship) and [beyond](/community).
 And do we take care of more than the people we love?
 If the answer is "no one"
 then it might well be [revolutionary love](/revolution).
+
+Instead of partners as friends, can we treat are friends as partners?
+After all, [friendships](/friendship) are more successful in terms of
+interpersonal relationships, more successful than romantic, sexual, and
+for many people familial ones.
 
 Non-monogamous lovers see love as something that only increases in
 richness and depth by being shared freely, but not necessarily recklessly
@@ -36,6 +41,9 @@ in that the actor violated consent. But the situation in which the actor
 found themself has already existed as a byproduct of oppressive systems
 brought by [Empire](/empire). To forgive these crimes, we must fully
 [transform everything](/transformative-justice).
+
+Time and proximity creates its own [hierarchy](/hierarchy). To flatten,
+then, do not choose favorites.
 
 ## Meaningful interactions
 

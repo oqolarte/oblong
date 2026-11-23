@@ -141,6 +141,37 @@ footer {text-align: left;}
 
 footer :target {font-weight:bold}
 
+/* Gallery Container */
+div.gallery_2x2,
+div.gallery_2v2,
+div.gallery_3x3 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+/* Two-column layout (2x2 and 2v2) */
+div.gallery_2x2 p,
+div.gallery_2v2 p {
+  flex: 1 1 calc(50% - 1rem);
+  margin: 0;
+}
+
+/* Three-column layout (3x3) */
+div.gallery_3x3 p {
+  flex: 1 1 calc(33.333% - 1rem);
+  margin: 0;
+}
+
+/* Image scaling inside paragraphs */
+div.gallery_2x2 img,
+div.gallery_2v2 img,
+div.gallery_3x3 img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .foot-hr {border:0;border-bottom:1px dashed #ccc;}
 .container { max-width: 700px }
 .small {font-size: 0.8em}
