@@ -11,6 +11,11 @@ I can interact with the machine thanks to its [operating system](/OS).
 
 {{< toc >}}
 
+## Different computers
+
+Not all computers are built the same. Every [design](/design) is a
+trade-off. For example, mobility costs power; reliability costs money.
+
 ## Laptops
 
 Laptops are portable computers, with clamshell-like form factor.
@@ -18,7 +23,6 @@ Laptops are portable computers, with clamshell-like form factor.
 The most reliable laptops on the market so far are:
 - Lenovo, or the legendary IBM, Thinkpad
 - Dell Latitude
-
 
 ## Frugal Computing
 

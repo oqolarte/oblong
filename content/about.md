@@ -15,8 +15,8 @@ I am a researcher and maker with over ten years of experience helping
 people and organizations understand there are better possibilities
 outside prevailing systems.
 
-My greatest strength (so far) is writing stories and documenting learnings with
-the [purpose of sharing them with others](/wiki).
+My greatest strength (so far) is writing stories and documenting
+learnings with the [purpose of sharing them with others](/wiki).
 
 I am eager to improve the lives of people, myself included, in
 communities I am in, because I value the strength and power we possess
@@ -36,10 +36,9 @@ Sometimes, people say [good things](/testi) about me.
 
 Inspired by Manuel Moreale's call, "[I'll read it](https://web.archive.org/web/20250126112145/https://manuelmoreale.com/i-ll-read-it)" and Matthew Cambion's long text about the same thing.
 
-I will read your blog
-within reason and some limits listed below. Email me your website's URL.
-Let us expand the internet beyond the walled trash sites of big social
-media platforms.
+I will read your blog within reason and some limits listed below. Email
+me your website's URL.  Let us expand the internet beyond the walled
+trash sites of big social media platforms.
 
 ### Limitations
 
@@ -67,7 +66,8 @@ Please use email.
 
 Some good icebreakers:
 - A reply/comment to one of the posts I made here
-- "What have you been reading?"
+- A career opportunity that I would fit in
+- A volunteer and/or mutual aid opportunity I could help in
 - "You talked about [Something]. How do you/I/we act on [Something
   (related)]? Or, what are your thoughts on [This Other Thing]?"
 - "[An Interesting Event] will happen on [This Date] at [That Place].

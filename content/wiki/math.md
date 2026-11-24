@@ -40,7 +40,7 @@ Reference: [Susan Rigetti's Math notes](https://www.susanrigetti.com/math)
 ## Curriculum
 
 1. Calculus
-2. Intro to proof
+2. Intro to [proof](/math-proofs)
 3. Linear algebra
 4. Algebra
 5. Real Analysis

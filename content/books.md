@@ -16,10 +16,8 @@ finish reading.
 | Book Title                               | Author/s                                |
 |------------------------------------------|-----------------------------------------|
 | The Dawn of Everything                   | David Graeber and David Wengrow         |
-| Mutual Aid                               | Dean Spade                              |
 | Chapterhouse: Dune                       | Frank Herbert                           |
 | The Age of Reason                        | Jean-Paul Sartre                        |
-| The Woman from Uruguay                   | Pedro Mairal (trans. by Jennifer Croft) |
 | My Sad Republic                          | Eric Gamalinda                          |
 
 
@@ -111,6 +109,8 @@ I read slowly, you might notice.
 | Paalam, Puti                                                                                                                      | Jomike Tejido                                             |
 | [Wild Swans](/wild-swans): The Three Daughters of China                                                                           | Jung Chang 張戎                                           |
 | [Babel](/378/#thoughts-on-babel): An Arcane History                                                                               | R. F. Kuang                                               |
+| Mutual Aid                                                                                                                        | Dean Spade                                                |
+| [The Woman from Uruguay](/383/#thoughts-on-the-woman-from-uruguay)                                                                | Pedro Mairal (trans. by Jennifer Croft)                   |
 
 ## Did not finish
 
