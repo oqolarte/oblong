@@ -62,7 +62,7 @@ poll: https://beige.party/@maxleibman/116965367300703261
 
 ## Contact
 
-Please use email.
+Please use email or the [guestbook](/guestbook).
 
 Some good icebreakers:
 - A reply/comment to one of the posts I made here

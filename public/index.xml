@@ -6,10 +6,23 @@
     <description>Recent content on to oblique lair</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 19:12:27 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 22:56:26 +0800</lastBuildDate>
     
         <atom:link href="https://ohio.araw.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Guestbook</title>
+      <link>https://ohio.araw.xyz/guestbook/</link>
+      <pubDate>Tue, 24 Nov 2026 22:56:26 +0800</pubDate>
+      
+      <guid>https://ohio.araw.xyz/guestbook/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Want to sign my guestbook? Email me (see below) with &lt;strong&gt;Guestbook&lt;/strong&gt; as
+the subject. Include the name you would like displayed and your message,
+and I will add it to this guestbook.&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Will</title>
@@ -670,7 +683,7 @@ use of gen AI.&lt;/li&gt;
 &lt;li&gt;I can read blogs in English and Tagalog (or Taglish).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
-&lt;p&gt;Please use email.&lt;/p&gt;
+&lt;p&gt;Please use email or the &lt;a href=&#34;https://ohio.araw.xyz/guestbook&#34;&gt;guestbook&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Some good icebreakers:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A reply/comment to one of the posts I made here&lt;/li&gt;
