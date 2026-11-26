@@ -26,9 +26,22 @@ globe that house millions of servers. Data centers provide technology
 services, such as storage, and compute at such a large scale that they
 can sell their services to other companies for a fee.
 
-Companies can pay
-for the storage and services they need and consume them through the
-CSP’s application programming interface (API) or web console.
+Companies can pay for the storage and services they need and consume
+them through the CSP’s application programming interface (API) or web
+console.
+
+## Deployment types
+
+1. **Public cloud**: Used by startups, websites, and global apps because
+   it is affordable, easy to scale, and requires no infrastructure
+   management. Public cloud services are preferable for nearly every use
+   case.
+2. **Private cloud**: Used by banks, healthcare, and government
+   organizations because it offers greater control, customization, and
+   compliance for sensitive data.
+3. **Hybrid cloud**: Used by companies like e-commerce platforms that
+   need to keep sensitive data private while still scaling publicly
+   during high demand.
 
 ## CSP services
 
@@ -67,5 +80,5 @@ include Google App Engine™ platform, Heroku®, and VMware Cloud Foundry.
    means that availing cloud computing services reduces the risk of
    unnecessary cost buy only paying for what they need when they need
    it.
-
-
+4. Global access: allows application to be accessed by users anywhere in
+   the world.

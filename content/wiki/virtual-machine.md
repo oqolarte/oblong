@@ -53,15 +53,18 @@ why you should never completely trust virtualized systems.
 
 ## Efficiency
 
-Using virtual machines can also be an efficient and convenient way to perform security tasks. You can open multiple virtual machines at once and switch easily between them. This allows you to streamline security tasks, such as testing and exploring various applications.
+Using virtual machines can also be an efficient and convenient way to
+perform security tasks. You can open multiple virtual machines at once
+and switch easily between them. This allows you to streamline security
+tasks, such as testing and exploring various applications.
 
-## Managing VMs
+## Hypervisor managing VMs
 
 Virtual machines can be managed with a software called a hypervisor.
 **Hypervisors** help users manage multiple virtual machines and connect
 the virtual and physical hardware. Hypervisors also help with allocating
-the shared resources of the physical host machine to one or more virtual
-machines.
+the shared resources (CPU, memory, and storage) of the physical host
+machine to one or more virtual machines.
 
 One hypervisor that is useful for you to be familiar with is the
 Kernel-based Virtual Machine (KVM). [KVM](https://www.linux-kvm.org/) is
@@ -69,6 +72,17 @@ an open-source hypervisor that is supported by most major Linux
 distributions. It is built into the Linux kernel, which means it can be
 used to create virtual machines on any machine running a Linux operating
 system without the need for additional software.
+
+## Containers
+
+A **container** is a lightweight, isolated environment that runs a
+single application and all the necessary components to support it.
+Instead of bringing a whole separate operating system, a container
+borrows the core of the existing system by running on the kernel.
+
+Containers start quickly and use fewer resources than full lab machines,
+but it also means they must match the host system’s type. For example,
+you can’t run a Windows container on a Linux machine.
 
 ## Other forms of virtualization
 
