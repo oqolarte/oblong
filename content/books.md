@@ -18,7 +18,6 @@ finish reading.
 | The Dawn of Everything                   | David Graeber and David Wengrow         |
 | Chapterhouse: Dune                       | Frank Herbert                           |
 | The Age of Reason                        | Jean-Paul Sartre                        |
-| My Sad Republic                          | Eric Gamalinda                          |
 
 
 ## Completed
@@ -111,6 +110,7 @@ I read slowly, you might notice.
 | [Babel](/378/#thoughts-on-babel): An Arcane History                                                                               | R. F. Kuang                                               |
 | Mutual Aid                                                                                                                        | Dean Spade                                                |
 | [The Woman from Uruguay](/383/#thoughts-on-the-woman-from-uruguay)                                                                | Pedro Mairal (trans. by Jennifer Croft)                   |
+| [My Sad Republic](/384/#thoughts-on-my-sad-republic)                                                                              | Eric Gamalinda                                            |
 
 ## Did not finish
 
